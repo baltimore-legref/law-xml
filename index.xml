@@ -2,7 +2,7 @@
 <library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>Law Library</heading>
   <meta>
-    <description></description>
+    <description/>
     <contact>
       <email>help@openlawlib.org</email>
     </contact>
@@ -15,4 +15,6 @@
     </canonical-urls>
     <history-start>2024-03-13</history-start>
   </meta>
+  <xi:include href="./us/md/cities/baltimore/charter.xml"/>
+  <xi:include href="./us/md/cities/baltimore/code/index.xml"/>
 </library>
