@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="25">
   <prefix>Article</prefix>
   <num>25</num>
   <heading>Sewers</heading>
@@ -13,7 +13,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Whenever the following words or phrases appear in this article, they shall have the following meanings.</text>
+        <text>Whenever the following words or phrases appear in <cite path="|25">this article</cite>, they shall have the following meanings.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -123,7 +123,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>"Person", "establishment", "user", "industrial user" ("IU"), "commercial user", "discharger", or "owner" means any "person",  as defined in § 1-107 of the City Code's General Provisions Article, that discharges wastewaters to the municipal sanitary sewerage system.</text>
+          <text>"Person", "establishment", "user", "industrial user" ("IU"), "commercial user", "discharger", or "owner" means any "person",  as defined in <cite path="|general|1|1|1-107">§ 1-107 </cite>of the City Code's <cite path="|general">General Provisions Article</cite>, that discharges wastewaters to the municipal sanitary sewerage system.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -329,7 +329,7 @@
     <section>
       <num>1-2</num>
       <heading>Rules and regulations.</heading>
-      <text>In order to properly carry out and enforce the provisions of this article, the Director of Public Works is hereby authorized, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend from time to time rules and regulations and operating procedures as he may deem necessary or proper to carry out and enforce the provisions of this article and which are not inconsistent therewith.</text>
+      <text>In order to properly carry out and enforce the provisions of <cite path="|25">this article</cite>, the Director of Public Works is hereby authorized, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, to make, adopt, promulgate, and amend from time to time rules and regulations and operating procedures as he may deem necessary or proper to carry out and enforce the provisions of <cite path="|25">this article</cite> and which are not inconsistent therewith.</text>
       <annotations>
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §28(d)</annotation>
@@ -417,7 +417,7 @@
     <section>
       <num>1-4</num>
       <heading>Falsifying information.</heading>
-      <text>Any person who knowingly makes any false statement, representation, record, report, plan, or other document filed with the Director of Public Works, or who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required under this article shall be subject to a fine, imprisonment, or both as provided in § 23-4.</text>
+      <text>Any person who knowingly makes any false statement, representation, record, report, plan, or other document filed with the Director of Public Works, or who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required under <cite path="|25">this article</cite> shall be subject to a fine, imprisonment, or both as provided in § 23-4.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §7(k)</annotation>
         <annotation doc="City of Balt., Md., Ord. 84-129" type="History">Ord. 84-129</annotation>
@@ -431,7 +431,7 @@
     <section>
       <num>1-6</num>
       <heading>Revision of article.</heading>
-      <text>The City reserves the right to amend this article in any manner and to establish more stringent limitations or regulations where deemed necessary to comply with the objectives of this article.</text>
+      <text>The City reserves the right to amend <cite path="|25">this article</cite> in any manner and to establish more stringent limitations or regulations where deemed necessary to comply with the objectives of <cite path="|25">this article</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §28(a)</annotation>
         <annotation doc="City of Balt., Md., Ord. 84-129" type="History">Ord. 84-129</annotation>
@@ -441,7 +441,7 @@
     <section>
       <num>1-7</num>
       <heading>Repeal of inconsistent provisions.</heading>
-      <text>This article regulating sewer construction, sewer use, wastewater discharges, and waste haulers shall supersede all previous regulations and policies of the City governing items covered in this article.  All other articles and regulations, or parts thereof, inconsistent or conflicting with any part of this article are hereby repealed to the extent of such inconsistency or conflict.</text>
+      <text><cite path="|25">This article</cite> regulating sewer construction, sewer use, wastewater discharges, and waste haulers shall supersede all previous regulations and policies of the City governing items covered in <cite path="|25">this article</cite>.  All other articles and regulations, or parts thereof, inconsistent or conflicting with any part of <cite path="|25">this article</cite> are hereby repealed to the extent of such inconsistency or conflict.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §28(b)</annotation>
         <annotation doc="City of Balt., Md., Ord. 84-129" type="History">Ord. 84-129</annotation>
@@ -452,7 +452,7 @@
       <num>1-8</num>
       <heading>{Repealed by Ord. 22-125}</heading>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
       </annotations>
     </section>
   </container>
@@ -913,7 +913,7 @@
         <heading>Additional information for discharge of industrial wastes.</heading>
         <para>
           <num>(1)</num>
-          <text>Upon request of the City, any discharger or potential discharger of industrial wastes into the treatment plant may be required to submit plans, reports, questionnaires, notices, or analytical data to evaluate waste discharge characteristics and ensure compliance with this article.</text>
+          <text>Upon request of the City, any discharger or potential discharger of industrial wastes into the treatment plant may be required to submit plans, reports, questionnaires, notices, or analytical data to evaluate waste discharge characteristics and ensure compliance with <cite path="|25">this article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -965,7 +965,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>any user whose discharge would be in violation of Subtitle 2 {"Control of Sanitary and Storm Sewers"} of this article;</text>
+          <text>any user whose discharge would be in violation of Subtitle 2 {"Control of Sanitary and Storm Sewers"} of <cite path="|25">this article</cite>;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1107,7 +1107,7 @@
         <text>Wastewater discharge permits shall be subject to:</text>
         <para>
           <num>(1)</num>
-          <text>all provisions of this article; and</text>
+          <text>all provisions of <cite path="|25">this article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1117,7 +1117,7 @@
       <para>
         <num>(b)</num>
         <heading>Uniform enforcement.</heading>
-        <text>The conditions of wastewater discharge permits shall be uniformly enforced by the Director of Public Works in accordance with this article, and applicable state and federal regulations.</text>
+        <text>The conditions of wastewater discharge permits shall be uniformly enforced by the Director of Public Works in accordance with <cite path="|25">this article</cite>, and applicable state and federal regulations.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1212,7 +1212,7 @@
           <text>requirements for:</text>
           <para>
             <num>(i)</num>
-            <text>maintaining plant records relating to wastewater discharge, as specified under § 21-1 of this article; and</text>
+            <text>maintaining plant records relating to wastewater discharge, as specified under <cite path="|25|§21-1">§ 21-1 of this article</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -1237,7 +1237,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>other conditions as deemed appropriate by the Director to insure compliance with this article and with state and federal pretreatment standards and requirements.</text>
+          <text>other conditions as deemed appropriate by the Director to insure compliance with <cite path="|25">this article</cite> and with state and federal pretreatment standards and requirements.</text>
         </para>
       </para>
       <para>
@@ -1340,7 +1340,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If any user disagrees with or is aggrieved by any determination or decision which is made, rendered, issued, or given under the provisions of this section, such user may appeal as provided in § 21-7 of this article.</text>
+          <text>If any user disagrees with or is aggrieved by any determination or decision which is made, rendered, issued, or given under the provisions of this section, such user may appeal as provided in <cite path="|25|§21-7">§ 21-7 of this article</cite>.</text>
         </para>
       </para>
       <para>
@@ -1389,7 +1389,7 @@
         <text>A user's wastewater discharge permit may be suspended:</text>
         <para>
           <num>(1)</num>
-          <text>for any violation of this article or applicable state and federal regulations; or</text>
+          <text>for any violation of <cite path="|25">this article</cite> or applicable state and federal regulations; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1400,7 +1400,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>refusing right of entry guaranteed by '' 4-8 and 21-5 of this article;</text>
+            <text>refusing right of entry guaranteed by '' 4-8 and 21-5 of <cite path="|25">this article</cite>;</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -1421,7 +1421,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If such notice does not conform to '' 21-6 and 22-1 of this article and the suspension is expected to continue or has continued in effect for more than 48 hours, the Director shall provide notice as set forth in said '' 21-6 and 22-1 after the suspensions have taken effect.</text>
+          <text>If such notice does not conform to '' 21-6 and 22-1 of <cite path="|25">this article</cite> and the suspension is expected to continue or has continued in effect for more than 48 hours, the Director shall provide notice as set forth in said '' 21-6 and 22-1 after the suspensions have taken effect.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1614,7 +1614,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Failure to provide access will result in enforcement actions described in Subtitle 22 of this article.</text>
+          <text>Failure to provide access will result in enforcement actions described in Subtitle 22 of <cite path="|25">this article</cite>.</text>
         </para>
       </para>
       <para>
@@ -1677,7 +1677,7 @@
       <para>
         <num>(a)</num>
         <heading>When required.</heading>
-        <text>If pretreatment or operation and maintenance changes will be required for an industrial user to comply with any provisions of this article or any state or federal pretreatment standard or requirement, the City may require the industrial user to submit for approval a schedule specifying the shortest time frame for the industry to achieve compliance.</text>
+        <text>If pretreatment or operation and maintenance changes will be required for an industrial user to comply with any provisions of <cite path="|25">this article</cite> or any state or federal pretreatment standard or requirement, the City may require the industrial user to submit for approval a schedule specifying the shortest time frame for the industry to achieve compliance.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1713,7 +1713,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The review of such plans and operating procedures will in no way relieve the user from the responsibility of modifying the facility as necessary to produce an effluent acceptable to the Director under the provisions of this article and the wastewater discharge permit.</text>
+          <text>The review of such plans and operating procedures will in no way relieve the user from the responsibility of modifying the facility as necessary to produce an effluent acceptable to the Director under the provisions of <cite path="|25">this article</cite> and the wastewater discharge permit.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2018,7 +2018,7 @@
     <section>
       <num>7-4</num>
       <heading>User's liability.</heading>
-      <text>Such notification shall not relieve the user of any expense, loss, damages, or other liability which may be incurred as a result of damage to the wastewater system, fish kills, or any other damage to persons or property; nor shall such notification relieve the user of any fines, civil penalties, or other liability which may be imposed by this article or other applicable law.</text>
+      <text>Such notification shall not relieve the user of any expense, loss, damages, or other liability which may be incurred as a result of damage to the wastewater system, fish kills, or any other damage to persons or property; nor shall such notification relieve the user of any fines, civil penalties, or other liability which may be imposed by <cite path="|25">this article</cite> or other applicable law.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §7(e)(2)(4th sen.)</annotation>
         <annotation doc="City of Balt., Md., Ord. 84-129" type="History">Ord. 84-129</annotation>
@@ -2280,7 +2280,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>wastewater constituents and characteristics, as determined by a laboratory approved by the Director and analyzed in accordance with 40 CFR Part 136, "Guidelines Establishing the Test Procedures for Analysis of Pollutants" as required by § 4-3 of this article;</text>
+          <text>wastewater constituents and characteristics, as determined by a laboratory approved by the Director and analyzed in accordance with 40 CFR Part 136, "Guidelines Establishing the Test Procedures for Analysis of Pollutants" as required by <cite path="|25|§4-3">§ 4-3 of this article</cite>;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2343,7 +2343,7 @@
           <text>Waste hauler permits shall be subject to:</text>
           <para>
             <num>(i)</num>
-            <text>all provisions of this article; and</text>
+            <text>all provisions of <cite path="|25">this article</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -2358,7 +2358,7 @@
       <para>
         <num>(b)</num>
         <heading>Uniform enforcement.</heading>
-        <text>The conditions of the waste hauler permits shall be uniformly enforced by the Director of Public Works, in accordance with this article and applicable state and federal regulations.</text>
+        <text>The conditions of the waste hauler permits shall be uniformly enforced by the Director of Public Works, in accordance with <cite path="|25">this article</cite> and applicable state and federal regulations.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2413,7 +2413,7 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>other conditions as deemed appropriate by the Director to insure compliance with this article.</text>
+        <text>other conditions as deemed appropriate by the Director to insure compliance with <cite path="|25">this article</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §10(a)(3)(5th sen.)</annotation>
@@ -2424,7 +2424,7 @@
     <section>
       <num>11-7</num>
       <heading>Term, transfer, and suspension of permits.</heading>
-      <text>Waste hauler permits are subject to the same limitations on duration, transfer, and suspension as wastewater discharge permits as provided under '' 3-9 through 3-11 of this article.</text>
+      <text>Waste hauler permits are subject to the same limitations on duration, transfer, and suspension as wastewater discharge permits as provided under '' 3-9 through 3-11 of <cite path="|25">this article</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §10(a)(4)</annotation>
         <annotation doc="City of Balt., Md., Ord. 84-129" type="History">Ord. 84-129</annotation>
@@ -2502,7 +2502,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>a violation of this article or of a waste hauler permit condition; or</text>
+            <text>a violation of <cite path="|25">this article</cite> or of a waste hauler permit condition; or</text>
           </para>
         </para>
         <para>
@@ -2654,7 +2654,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>in an amount calculated by utilizing the volume of water consumed or water service provided to a particular property in or for the then current period, multiplied by the periodically set rate for the then current period as set by the Board of Estimates in accordance with Article 24, Subtitle 3 of the City Code; and</text>
+        <text>in an amount calculated by utilizing the volume of water consumed or water service provided to a particular property in or for the then current period, multiplied by the periodically set rate for the then current period as set by the Board of Estimates in accordance with <cite path="|24">Article 24</cite>, Subtitle 3 of the City Code; and</text>
       </para>
       <para>
         <num>(3)</num>
@@ -2973,7 +2973,7 @@
         <heading>Action by BMZA.</heading>
         <para>
           <num>(1)</num>
-          <text>Upon reasonable notice in accordance with its rules and the provisions of the Baltimore City Charter, the Board shall determine whether or not the determination, decision, order or notice which is the subject of review is proper or correct.</text>
+          <text>Upon reasonable notice in accordance with its rules and the provisions of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>, the Board shall determine whether or not the determination, decision, order or notice which is the subject of review is proper or correct.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3048,7 +3048,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Whenever water is shut off for nonpayment of the charges imposed hereunder, the sum specified in Article 24, § 2-3 of the City Code shall be paid to the Director of Finance before the water supply is turned on again.</text>
+          <text>Whenever water is shut off for nonpayment of the charges imposed hereunder, the sum specified in <cite path="|24|§2-3">Article 24, § 2-3</cite> of the City Code shall be paid to the Director of Finance before the water supply is turned on again.</text>
         </para>
       </para>
       <annotations>
@@ -3079,7 +3079,7 @@
       <para>
         <num>(a)</num>
         <heading>Iteration 1.</heading>
-        <text>In order to properly carry out and enforce the provisions of this subtitle and to collect the charges levied and imposed under this subtitle, the Director of Finance is hereby authorized and empowered, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as deemed necessary or proper to:</text>
+        <text>In order to properly carry out and enforce the provisions of this subtitle and to collect the charges levied and imposed under this subtitle, the Director of Finance is hereby authorized and empowered, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as deemed necessary or proper to:</text>
         <para>
           <num>(1)</num>
           <text>carry out and enforce the provisions of this subtitle;</text>
@@ -3096,7 +3096,7 @@
       <para>
         <num>(b)</num>
         <heading>Iteration 2.</heading>
-        <text>In order to properly carry out and enforce the provisions of this subtitle, the Director of Public Works is hereby authorized and empowered, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend, from time to time, such rules and regulations deemed necessary or proper to carry out and enforce the provisions of this subtitle.</text>
+        <text>In order to properly carry out and enforce the provisions of this subtitle, the Director of Public Works is hereby authorized and empowered, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, to make, adopt, promulgate, and amend, from time to time, such rules and regulations deemed necessary or proper to carry out and enforce the provisions of this subtitle.</text>
       </para>
       <annotations>
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
@@ -3455,7 +3455,7 @@
     <section>
       <num>14-10</num>
       <heading>Rules and regulations.</heading>
-      <text>In order to carry out and enforce the provisions of this subtitle and to collect the surcharges levied and imposed under this subtitle, the City Department of Finance and/or Department of Public Works are hereby authorized, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as they may deem necessary or proper:</text>
+      <text>In order to carry out and enforce the provisions of this subtitle and to collect the surcharges levied and imposed under this subtitle, the City Department of Finance and/or Department of Public Works are hereby authorized, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as they may deem necessary or proper:</text>
       <para>
         <num>(1)</num>
         <text>to carry out and enforce the provisions of this subtitle;</text>
@@ -3480,7 +3480,7 @@
     <section>
       <num>14-11</num>
       <heading>Administrative review.</heading>
-      <text>In the event that any person legally liable for payment of the surcharge imposed under this subtitle disagrees with, or is aggrieved by, any determination, decision, order, or notice of any kind, which is made, rendered, issued, or given under the provisions of this subtitle, such person has the right to file an appeal as described in § 21-7 of this article.</text>
+      <text>In the event that any person legally liable for payment of the surcharge imposed under this subtitle disagrees with, or is aggrieved by, any determination, decision, order, or notice of any kind, which is made, rendered, issued, or given under the provisions of this subtitle, such person has the right to file an appeal as described in <cite path="|25|§21-7">§ 21-7 of this article</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §8(d)(4)</annotation>
         <annotation doc="City of Balt., Md., Ord. 76-131" type="History">Ord. 76-131</annotation>
@@ -3839,7 +3839,7 @@
       <para>
         <num>(a)</num>
         <heading>Director acting under § 16-3.</heading>
-        <text>The owners of all improvements on lots adjacent to any highway, where sewers have been or may be laid, and where the Director of Public Works is directed by § 16-3 of this article to carry the pipes to the inside of the walls of such improvements, are hereby directed not to interfere with the Director, his agents or servants, in any manner in the performance of the duties put upon him by § 16-3 of this article; and any property owner who interferes with the Director, his agents or servants, in the performance of said duty shall be subject to a fine, imprisonment, or both, as provided in § 23-3 of this article.</text>
+        <text>The owners of all improvements on lots adjacent to any highway, where sewers have been or may be laid, and where the Director of Public Works is directed by <cite path="|25|§16-3">§ 16-3 of this article</cite> to carry the pipes to the inside of the walls of such improvements, are hereby directed not to interfere with the Director, his agents or servants, in any manner in the performance of the duties put upon him by <cite path="|25|§16-3">§ 16-3 of this article</cite>; and any property owner who interferes with the Director, his agents or servants, in the performance of said duty shall be subject to a fine, imprisonment, or both, as provided in <cite path="|25|§23-3">§ 23-3 of this article</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3891,11 +3891,11 @@
         <text>This person shall be guilty of a misdemeanor and, upon conviction thereof:</text>
         <para>
           <num>(1)</num>
-          <text>shall be subject to a fine, imprisonment, or both, as provided in § 23-3 of this article; and</text>
+          <text>shall be subject to a fine, imprisonment, or both, as provided in <cite path="|25|§23-3">§ 23-3 of this article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>shall be liable for costs incurred as a consequence of such obstruction, damage, or interference as provided in Subtitle 22 of this article.</text>
+          <text>shall be liable for costs incurred as a consequence of such obstruction, damage, or interference as provided in Subtitle 22 of <cite path="|25">this article</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -3939,7 +3939,7 @@
         <text>Any person tapping, opening, repairing, altering, or connecting with any sewer without a permit as aforesaid:</text>
         <para>
           <num>(1)</num>
-          <text>shall be subject to a fine, imprisonment, or both, as provided in § 23-3 of this article; and</text>
+          <text>shall be subject to a fine, imprisonment, or both, as provided in <cite path="|25|§23-3">§ 23-3 of this article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3970,7 +3970,7 @@
       <para>
         <num>(b)</num>
         <heading>Prohibited conduct; penalties.</heading>
-        <text>Any person who shall enter any manhole of any public sewer, either stormwater or sanitary, or who shall disturb or interfere with any such sewer or manhole in any manner whatsoever, without a permit from the Director of Public Works, shall be subject to a fine, imprisonment, or both, as provided in § 23-3 of this article.</text>
+        <text>Any person who shall enter any manhole of any public sewer, either stormwater or sanitary, or who shall disturb or interfere with any such sewer or manhole in any manner whatsoever, without a permit from the Director of Public Works, shall be subject to a fine, imprisonment, or both, as provided in <cite path="|25|§23-3">§ 23-3 of this article</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1927, art. 42, §53</annotation>
@@ -3990,7 +3990,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>If any person or persons shall carelessly or intentionally throw, sweep, or place any waste paper, street sweepings, garbage, dirt, ashes, dead animal, offal, or other putrescible matter, or any rubbish or refuse of any sort, into any inlet, grating, manhole, or other appurtenance of any sewer in the City of Baltimore, he, she, or they shall be subject to a fine, imprisonment, or both as provided in  § 23-3 of this article.</text>
+        <text>If any person or persons shall carelessly or intentionally throw, sweep, or place any waste paper, street sweepings, garbage, dirt, ashes, dead animal, offal, or other putrescible matter, or any rubbish or refuse of any sort, into any inlet, grating, manhole, or other appurtenance of any sewer in the City of Baltimore, he, she, or they shall be subject to a fine, imprisonment, or both as provided in  <cite path="|25|§23-3">§ 23-3 of this article</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4027,7 +4027,7 @@
       <para>
         <num>(b)</num>
         <heading>Penalties.</heading>
-        <text>Any person failing or refusing to comply with the provisions of this section shall be subject to a fine, imprisonment, or both, as provided in § 23-3 of this article.</text>
+        <text>Any person failing or refusing to comply with the provisions of this section shall be subject to a fine, imprisonment, or both, as provided in <cite path="|25|§23-3">§ 23-3 of this article</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1927, art. 42, §51</annotation>
@@ -4135,7 +4135,7 @@
       <para>
         <num>(a)</num>
         <heading>Minimum retention period.</heading>
-        <text>All users subject to this article shall retain and preserve for not less than 3 years any records, books, documents, memoranda, reports, and correspondence and any and all summaries thereof, relating to monitoring, sampling, and chemical analyses made by or on behalf of a user in connection with its discharge.</text>
+        <text>All users subject to <cite path="|25">this article</cite> shall retain and preserve for not less than 3 years any records, books, documents, memoranda, reports, and correspondence and any and all summaries thereof, relating to monitoring, sampling, and chemical analyses made by or on behalf of a user in connection with its discharge.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4161,7 +4161,7 @@
         <heading>Treatment pending determination.</heading>
         <para>
           <num>(1)</num>
-          <text>When requested by the person furnishing a report, and until the information is determined not to be confidential, the portions of a report which might disclose trade secrets or secret processes shall not be made available for inspection by the public but shall be made available to state and federal government agencies, upon their written request, for uses related to this article, including judicial review or enforcement proceedings.</text>
+          <text>When requested by the person furnishing a report, and until the information is determined not to be confidential, the portions of a report which might disclose trade secrets or secret processes shall not be made available for inspection by the public but shall be made available to state and federal government agencies, upon their written request, for uses related to <cite path="|25">this article</cite>, including judicial review or enforcement proceedings.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4185,7 +4185,7 @@
       <para>
         <num>(a)</num>
         <heading>Agreements permitted.</heading>
-        <text>No provision contained in this article shall be deemed to prevent any special agreement or arrangement between the City and any person whereby wastewater of unusual strength or characteristic may be accepted by the City for treatment, provided that the agreement or arrangement will not violate or cause the City and/or the user to violate federal or state pretreatment requirements or standards or to violate discharge standards and which will not be harmful to the system.</text>
+        <text>No provision contained in <cite path="|25">this article</cite> shall be deemed to prevent any special agreement or arrangement between the City and any person whereby wastewater of unusual strength or characteristic may be accepted by the City for treatment, provided that the agreement or arrangement will not violate or cause the City and/or the user to violate federal or state pretreatment requirements or standards or to violate discharge standards and which will not be harmful to the system.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4239,7 +4239,7 @@
       <para>
         <num>(c)</num>
         <heading>Scope of inspections.</heading>
-        <text>Inspections may be made to determine that such facilities are maintained and operated properly and are adequate to meet the requirements of this article.</text>
+        <text>Inspections may be made to determine that such facilities are maintained and operated properly and are adequate to meet the requirements of <cite path="|25">this article</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -4265,7 +4265,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Unless otherwise provided herein, any notice required to be given by the Director of Public Works under this article shall be in writing and served in person or by registered or certified mail, except when immediate action is required to prevent or minimize damage to life, safety, the POTW, or the environment.</text>
+        <text>Unless otherwise provided herein, any notice required to be given by the Director of Public Works under <cite path="|25">this article</cite> shall be in writing and served in person or by registered or certified mail, except when immediate action is required to prevent or minimize damage to life, safety, the POTW, or the environment.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4296,7 +4296,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>In the event that any person who is legally responsible for compliance with pretreatment regulations or who is legally liable for payment of industrial sewer surcharge disagrees with, or is aggrieved by, any determination, decision, or order of any kind, which is made, rendered, issued, or given under the provisions of this article, such person, within 20 days after notice of any such determination, decision, or order has been given or mailed to such person, shall have the right to appeal the determination, decision, or order before the Director of Public Works or an appointed hearing officer.</text>
+          <text>In the event that any person who is legally responsible for compliance with pretreatment regulations or who is legally liable for payment of industrial sewer surcharge disagrees with, or is aggrieved by, any determination, decision, or order of any kind, which is made, rendered, issued, or given under the provisions of <cite path="|25">this article</cite>, such person, within 20 days after notice of any such determination, decision, or order has been given or mailed to such person, shall have the right to appeal the determination, decision, or order before the Director of Public Works or an appointed hearing officer.</text>
         </para>
       </para>
       <para>
@@ -4331,7 +4331,7 @@
       <para>
         <num>(a)</num>
         <heading>Service by Director.</heading>
-        <text>Any person found to be violating any provisions of Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of this article shall be served by the Director of Public Works with a written notice of violation stating:</text>
+        <text>Any person found to be violating any provisions of Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of <cite path="|25">this article</cite> shall be served by the Director of Public Works with a written notice of violation stating:</text>
         <para>
           <num>(1)</num>
           <text>the provision that has been violated; and</text>
@@ -4375,7 +4375,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Any person who causes or contributes to a violation of Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of this article or order issued hereunder, may be ordered by the Director to show cause why a proposed enforcement action should not be taken.</text>
+        <text>Any person who causes or contributes to a violation of Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of <cite path="|25">this article</cite> or order issued hereunder, may be ordered by the Director to show cause why a proposed enforcement action should not be taken.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4420,7 +4420,7 @@
     <section>
       <num>22-3</num>
       <heading>Cease and desist order.</heading>
-      <text>Any person who violates or continues to violate Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of this article may be ordered by the Director to cease and desist all such actions by taking such appropriate remedial or preventive action as may be needed to properly address a continuing or threatened violation, including halting operations and terminating the discharge.</text>
+      <text>Any person who violates or continues to violate Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of <cite path="|25">this article</cite> may be ordered by the Director to cease and desist all such actions by taking such appropriate remedial or preventive action as may be needed to properly address a continuing or threatened violation, including halting operations and terminating the discharge.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §11(a)(4)</annotation>
         <annotation doc="City of Balt., Md., Ord. 91-775" type="History">Ord. 91-775</annotation>
@@ -4432,7 +4432,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Any person who has violated or continues to violate any provision of Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of this article may be served by the Director of Public Works with a consent order, compliance order, or similar document, establishing an agreement with the user responsible for the noncompliance.</text>
+        <text>Any person who has violated or continues to violate any provision of Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of <cite path="|25">this article</cite> may be served by the Director of Public Works with a consent order, compliance order, or similar document, establishing an agreement with the user responsible for the noncompliance.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4467,7 +4467,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Notwithstanding any other provision of this article, any person found to be violating Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) shall be subject to administrative penalties of not less than $250 nor more than that allowed under state law.</text>
+        <text>Notwithstanding any other provision of <cite path="|25">this article</cite>, any person found to be violating Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) shall be subject to administrative penalties of not less than $250 nor more than that allowed under state law.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4485,7 +4485,7 @@
       <para>
         <num>(a)</num>
         <heading>Director may order.</heading>
-        <text>The Director of Public Works may suspend, interrupt, or terminate wastewater service to any premises or take such other action as he deems necessary if a violation of this article or a discharge of wastewater causes or threatens to cause a condition which could present an imminent or substantial danger to life, safety, the POTW, or the environment.</text>
+        <text>The Director of Public Works may suspend, interrupt, or terminate wastewater service to any premises or take such other action as he deems necessary if a violation of <cite path="|25">this article</cite> or a discharge of wastewater causes or threatens to cause a condition which could present an imminent or substantial danger to life, safety, the POTW, or the environment.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4547,7 +4547,7 @@
     <section>
       <num>22-8</num>
       <heading>Permit revocation.</heading>
-      <text>Any user who violates any provision of this article is subject to permit revocation by the Director as described in § 3-11 of this article.</text>
+      <text>Any user who violates any provision of <cite path="|25">this article</cite> is subject to permit revocation by the Director as described in <cite path="|25|§3-11">§ 3-11 of this article</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §11(a)(7)</annotation>
         <annotation doc="City of Balt., Md., Ord. 75-914" type="History">Ord. 75-914</annotation>
@@ -4562,7 +4562,7 @@
     <section>
       <num>23-1</num>
       <heading>Injunctive relief.</heading>
-      <text>Whenever a discharge of wastewater is in violation of the provisions of this article or otherwise causes or threatens to cause a condition which could present an imminent and substantial danger to life, safety, the POTW, or environment, the Director of Public Works may petition the courts for issuance of an ex parte preliminary or permanent injunction or both, as may be appropriate to restrain the continuance of such discharge.</text>
+      <text>Whenever a discharge of wastewater is in violation of the provisions of <cite path="|25">this article</cite> or otherwise causes or threatens to cause a condition which could present an imminent and substantial danger to life, safety, the POTW, or environment, the Director of Public Works may petition the courts for issuance of an ex parte preliminary or permanent injunction or both, as may be appropriate to restrain the continuance of such discharge.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §11(b)(1)</annotation>
         <annotation doc="City of Balt., Md., Ord. 91-775" type="History">Ord. 91-775</annotation>
@@ -4576,7 +4576,7 @@
         <heading>In general.</heading>
         <para>
           <num>(1)</num>
-          <text>Any person who violates any provision of  Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of this article, a wastewater discharge permit condition, order, prohibition, effluent limitation, or pretreatment or toxicity standard shall be liable to a civil penalty of not less than $250 nor more than that allowed under state law for each day in which such violation occurs, plus actual damages incurred by the POTW.</text>
+          <text>Any person who violates any provision of  Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of <cite path="|25">this article</cite>, a wastewater discharge permit condition, order, prohibition, effluent limitation, or pretreatment or toxicity standard shall be liable to a civil penalty of not less than $250 nor more than that allowed under state law for each day in which such violation occurs, plus actual damages incurred by the POTW.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4624,7 +4624,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Any person who shall violate any provision of § 16-10(a) or of Subtitle 17 of this article shall be guilty of a misdemeanor and, upon conviction thereof by any court of competent jurisdiction, shall be subject to a fine not to exceed $1,000, or imprisonment not to exceed 10 days, or both, in the discretion of the court, for each and every offense.</text>
+        <text>Any person who shall violate any provision of § 16-10(a) or of Subtitle 17 of <cite path="|25">this article</cite> shall be guilty of a misdemeanor and, upon conviction thereof by any court of competent jurisdiction, shall be subject to a fine not to exceed $1,000, or imprisonment not to exceed 10 days, or both, in the discretion of the court, for each and every offense.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4647,7 +4647,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Any person who intentionally violates any provision of Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of this article, a wastewater discharge permit condition, cease and desist order, prohibition, effluent limitation, or pretreatment or toxicity standard shall be guilty of a misdemeanor and, upon conviction thereof by any court of competent jurisdiction, shall be subject to a fine of not less than $250 nor more than that allowed under state law for each day in which such violation occurs, or imprisonment for not more than 6 months, or both, in the discretion of the court.</text>
+        <text>Any person who intentionally violates any provision of Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of <cite path="|25">this article</cite>, a wastewater discharge permit condition, cease and desist order, prohibition, effluent limitation, or pretreatment or toxicity standard shall be guilty of a misdemeanor and, upon conviction thereof by any court of competent jurisdiction, shall be subject to a fine of not less than $250 nor more than that allowed under state law for each day in which such violation occurs, or imprisonment for not more than 6 months, or both, in the discretion of the court.</text>
       </para>
       <para>
         <num>(b)</num>

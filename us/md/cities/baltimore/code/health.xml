@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="health">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="health" cache:ref-path="health">
   <heading>Health Code of Baltimore City</heading>
   <container>
     <prefix>Title</prefix>
@@ -11,14 +11,14 @@
       <heading>Definitions</heading>
       <annotations>
         <annotation type="Editor's Notes">
-          <text>Ord. 22-125 amended this subtitle to delete several definitions that were superseded by uniform Code-wide definitions codified in the newly enacted General Provisions Article.  The sections remaining in this subtitle have been renumbered by authority of Section 2 of Ord. 22-125.</text>
-          <text>For the text of the new Code-wide definitions, see General Provisions Article, '' 1-101 (In general), 1-102 (“Adult”), 1-103 (“City”), 1-104 (“City Code” or “Code”), 1-105 (“Includes” or “Including”), 1-106 (“Minor”), 1-107 (“Person”), 1-108 (“State”), and 1-109 (“Street”).</text>
+          <text>Ord. <cite path="|general|22|1|22-125" proof="needed">22-125 </cite>amended this subtitle to delete several definitions that were superseded by uniform Code-wide definitions codified in the newly enacted <cite path="|general">General Provisions Article</cite>.  The sections remaining in this subtitle have been renumbered by authority of Section 2 of Ord. <cite path="|general|22|1|22-125" proof="needed">22-125</cite>.</text>
+          <text>For the text of the new Code-wide definitions, see <cite path="|general">General Provisions Article</cite>, '' <cite path="|general|1|10|1-101 |(In general)" proof="needed">1-101 (In general)</cite>, <cite path="|general|1|10|1-102 |(“Adult”)" proof="needed">1-102 (“Adult”)</cite>, <cite path="|general|1|10|1-103 |(“City”)" proof="needed">1-103 (“City”)</cite>, <cite path="|general|1|10|1-104 |(“City Code” or “Code”)" proof="needed">1-104 (“City Code” or “Code”)</cite>, <cite path="|general|1|10|1-105 |(“Includes” or “Including”)" proof="needed">1-105 (“Includes” or “Including”)</cite>, <cite path="|general|1|10|1-106 |(“Minor”)" proof="needed">1-106 (“Minor”)</cite>, <cite path="|general|1|10|1-107 |(“Person”)" proof="needed">1-107 (“Person”)</cite>, <cite path="|general|1|10|1-108 |(“State”)" proof="needed">1-108 (“State”)</cite>, and <cite path="|general|1|10|1-109 |(“Street”)" proof="needed">1-109 (“Street”)</cite>.</text>
         </annotation>
       </annotations>
       <section>
         <num>1-101</num>
         <heading>In general.</heading>
-        <text>In this article, the following terms have the meanings indicated.</text>
+        <text>In <cite path="|health">this article</cite>, the following terms have the meanings indicated.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
         </annotations>
@@ -53,7 +53,7 @@
       <section>
         <num>1-105</num>
         <heading>Police officer.</heading>
-        <text>"Police officer" includes, to the extent of that individual's authority, any individual authorized to act as a Special Enforcement Officer under City Code Article 19, § 71-1 {"Special Enforcement Officers — Appointment; duties"}.</text>
+        <text>"Police officer" includes, to the extent of that individual's authority, any individual authorized to act as a Special Enforcement Officer under City Code <cite path="|19|§71-1">Article 19, § 71-1 {"Special Enforcement Officers — Appointment; duties"}</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
@@ -66,17 +66,17 @@
       <heading>Rules of Interpretation</heading>
       <annotations>
         <annotation type="Editor's Notes">
-          <text>Ord. 22-125 amended this subtitle to delete several rules of interpretation that were superseded by uniform Code-wide rules codified in the newly enacted General Provisions Article.  The sections remaining in this subtitle have been renumbered by authority of Section 2 of Ord. 22-125.</text>
-          <text>For the text of all of the Code-wide rules of interpretation, see General Provisions Article, '' 1-201 (In general), 1-203 (Gender), 1-204 (Mandatory, prohibitory, and permissive terms), 1-205 (Singular and plural), 1-208 (Captions or headers), 1-209 (Editor’s or Revisor’s Notes), 1-211 (Effect of repeal or amendment of statute), 1-212 (References to other laws), 1-214 (Severability), and 1-301 et seq. (Time Computations).</text>
+          <text>Ord. <cite path="|general|22|1|22-125" proof="needed">22-125 </cite>amended this subtitle to delete several rules of interpretation that were superseded by uniform Code-wide rules codified in the newly enacted <cite path="|general">General Provisions Article</cite>.  The sections remaining in this subtitle have been renumbered by authority of Section 2 of Ord. <cite path="|general|22|1|22-125" proof="needed">22-125</cite>.</text>
+          <text>For the text of all of the Code-wide rules of interpretation, see <cite path="|general">General Provisions Article</cite>, '' <cite path="|general|1|20|1-201 |(In general)" proof="needed">1-201 (In general)</cite>, <cite path="|general|1|20|1-203 |(Gender)" proof="needed">1-203 (Gender)</cite>, <cite path="|general|1|20|1-204 |(Mandatory, prohibitory, and permissive terms)" proof="needed">1-204 (Mandatory, prohibitory, and permissive terms)</cite>, <cite path="|general|1|20|1-205 |(Singular and plural)" proof="needed">1-205 (Singular and plural)</cite>, <cite path="|general|1|20|1-208 |(Captions or headers)" proof="needed">1-208 (Captions or headers)</cite>, <cite path="|general|1|20|1-209 |(Editor’s or Revisor’s Notes)" proof="needed">1-209 (Editor’s or Revisor’s Notes)</cite>, <cite path="|general|1|21|1-211 |(Effect of repeal or amendment of statute)" proof="needed">1-211 (Effect of repeal or amendment of statute)</cite>, <cite path="|general|1|21|1-212 |(References to other laws)" proof="needed">1-212 (References to other laws)</cite>, <cite path="|general|1|21|1-214 |(Severability)" proof="needed">1-214 (Severability)</cite>, and <cite path="|general|1|3|1-301">1-301 </cite>et seq. (Time Computations).</text>
         </annotation>
       </annotations>
       <section>
         <num>1-201</num>
         <heading>In general.</heading>
-        <text>In interpreting and applying this article, the following rules of interpretation apply:</text>
+        <text>In interpreting and applying <cite path="|health">this article</cite>, the following rules of interpretation apply:</text>
         <para>
           <num>(1)</num>
-          <text>those contained in Subtitles 2 and 3 of the City Code's General Provisions Article; and</text>
+          <text>those contained in Subtitles 2 and 3 of the City Code's <cite path="|general">General Provisions Article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -93,12 +93,12 @@
         <para>
           <num>(a)</num>
           <heading>Article sets minimum requirements.</heading>
-          <text>In their interpretation and application, the provisions of this article must be taken to be the minimum requirements for the promotion of the public health, safety, and general welfare.</text>
+          <text>In their interpretation and application, the provisions of <cite path="|health">this article</cite> must be taken to be the minimum requirements for the promotion of the public health, safety, and general welfare.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Most restrictive provision governs.</heading>
-          <text>If any condition imposed by a provision of this article is either more or less restrictive than a comparable condition imposed by any other provision of this article or by any other law, rule, or regulation of any kind, the condition that is the more restrictive governs.</text>
+          <text>If any condition imposed by a provision of <cite path="|health">this article</cite> is either more or less restrictive than a comparable condition imposed by any other provision of <cite path="|health">this article</cite> or by any other law, rule, or regulation of any kind, the condition that is the more restrictive governs.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -108,7 +108,7 @@
       <section>
         <num>1-203</num>
         <heading>Mail.</heading>
-        <text>Whenever this article requires the use of "registered mail" or "certified mail", either method may be used.</text>
+        <text>Whenever <cite path="|health">this article</cite> requires the use of "registered mail" or "certified mail", either method may be used.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
@@ -122,7 +122,7 @@
       <section>
         <num>1-301</num>
         <heading>Short title.</heading>
-        <text>This article may be cited as the "Health Code of Baltimore City".</text>
+        <text><cite path="|health">This article</cite> may be cited as the "<cite path="|health">Health Code of Baltimore City".</cite></text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
         </annotations>
@@ -140,7 +140,7 @@
       <section>
         <num>2-101</num>
         <heading>Department established.</heading>
-        <text>There is a Department of Health, as established in Article VII, § 54 of the City Charter.</text>
+        <text>There is a Department of Health, as established in <cite doc="City of Baltimore, Md., Charter" path="VII|§54">Article VII, § 54 of the City Charter</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
         </annotations>
@@ -148,7 +148,7 @@
       <section>
         <num>2-102</num>
         <heading>Commissioner.</heading>
-        <text>The head of the Department is the Commissioner of Health, who is appointed as provided in Article VII, § 55 of the City Charter.</text>
+        <text>The head of the Department is the Commissioner of Health, who is appointed as provided in <cite doc="City of Baltimore, Md., Charter" path="VII|§55">Article VII, § 55 of the City Charter</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
         </annotations>
@@ -302,7 +302,7 @@
       <section>
         <num>2-104</num>
         <heading>Commissioner's Charter powers.</heading>
-        <text>Under Article VII, § 56 of the City Charter, the Commissioner has the general care of and responsibility for:</text>
+        <text>Under <cite doc="City of Baltimore, Md., Charter" path="VII|§56">Article VII, § 56 of the City Charter</cite>, the Commissioner has the general care of and responsibility for:</text>
         <para>
           <num>(1)</num>
           <text>enforcing all laws for the preservation of the health of the inhabitants of the City;</text>
@@ -363,7 +363,7 @@
       <section>
         <num>2-106</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner may adopt and enforce rules and regulations to carry out this article.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commissioner may adopt and enforce rules and regulations to carry out <cite path="|health">this article</cite>.</text>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -379,15 +379,15 @@
           <text>The Commissioner may, at all reasonable times, enter any structure or premises within the City:</text>
           <para>
             <num>(1)</num>
-            <text>whenever the Commissioner has reason to believe that a health hazard, nuisance, or violation of this article exists in or is emanating from that structure or premises;</text>
+            <text>whenever the Commissioner has reason to believe that a health hazard, nuisance, or violation of <cite path="|health">this article</cite> exists in or is emanating from that structure or premises;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>to inspect any property, facilities, equipment, operations, animals, records, or other things required or authorized by this article to be inspected; or</text>
+            <text>to inspect any property, facilities, equipment, operations, animals, records, or other things required or authorized by <cite path="|health">this article</cite> to be inspected; or</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>otherwise as necessary or appropriate to enforce this article.</text>
+            <text>otherwise as necessary or appropriate to enforce <cite path="|health">this article</cite>.</text>
           </para>
         </para>
         <para>
@@ -396,17 +396,17 @@
           <para>
             <num>(1)</num>
             <heading>"Dwelling" defined.</heading>
-            <text>In this subsection, "dwelling" has the meaning stated in § 5-301(b) of this article.</text>
+            <text>In this subsection, "dwelling" has the meaning stated in <cite path="|health|§5-301|(b)">§ 5-301(b) of this article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Governing procedures.</heading>
-            <text>The entry and inspection of a dwelling must be made in accordance with § 104.6 {"Right of entry"} of the Baltimore City Building Code.</text>
+            <text>The entry and inspection of a dwelling must be made in accordance with § 104.6 {"Right of entry"} of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>.</text>
           </para>
           <para>
             <num>(3)</num>
             <heading>Search warrant.</heading>
-            <text>A search warrant must be obtained in accordance with § 104.6  {"Right of entry"} of the Baltimore City Building Code, except as otherwise specified in that section.</text>
+            <text>A search warrant must be obtained in accordance with § 104.6  {"Right of entry"} of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>, except as otherwise specified in that section.</text>
           </para>
         </para>
         <annotations>
@@ -481,7 +481,7 @@
         <section>
           <num>2-207</num>
           <heading>Failure to comply with Commissioner's order or notice.</heading>
-          <text>No person may refuse, neglect, or otherwise fail to comply with any order or notice issued under this article by or under the authority of the Commissioner.</text>
+          <text>No person may refuse, neglect, or otherwise fail to comply with any order or notice issued under <cite path="|health">this article</cite> by or under the authority of the Commissioner.</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §6(1st cl.)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -516,7 +516,7 @@
         <section>
           <num>2-213</num>
           <heading>Failure to obey notice or order: $200 plus $50/day.</heading>
-          <text>Unless a higher penalty is specified in this article for the same offense, the penalty for a violation of § 2-207 {"Failure to comply with order or notice"} of this subtitle is a fine of not more than $200 for each offense, plus $50 for each day that the offense continues.</text>
+          <text>Unless a higher penalty is specified in <cite path="|health">this article</cite> for the same offense, the penalty for a violation of § 2-207 {"Failure to comply with order or notice"} of this subtitle is a fine of not more than $200 for each offense, plus $50 for each day that the offense continues.</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §6(last cl.)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -534,7 +534,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as otherwise specified in this article, this subtitle applies whenever:</text>
+          <text>Except as otherwise specified in <cite path="|health">this article</cite>, this subtitle applies whenever:</text>
           <para>
             <num>(1)</num>
             <text>a person is aggrieved by a notice, order, decision, or other action of the Department; or</text>
@@ -554,7 +554,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>otherwise arise under Title 10 {"Animal Control and Protection"} of this article.</text>
+            <text>otherwise arise under Title 10 {"Animal Control and Protection"} of <cite path="|health">this article</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -605,7 +605,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>unless a different time is specified in this article, be filed with the Commissioner within 10 days of the notice, decision, order, or other action.</text>
+              <text>unless a different time is specified in <cite path="|health">this article</cite>, be filed with the Commissioner within 10 days of the notice, decision, order, or other action.</text>
             </para>
           </para>
         </para>
@@ -1018,7 +1018,7 @@
       <section>
         <num>3-402</num>
         <heading>Rules and regulations.</heading>
-        <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may, with the approval of the Mayor, adopt rules and regulations to govern:</text>
+        <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may, with the approval of the Mayor, adopt rules and regulations to govern:</text>
         <para>
           <num>(1)</num>
           <text>all temporary hospitals or places established under this section; and</text>
@@ -1152,11 +1152,11 @@
           <text>The failure to comply with an order issued under § 3-503 {"Violation notice"} of this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -1262,7 +1262,7 @@
           <para>
             <num>(a)</num>
             <heading>Duty to report.</heading>
-            <text>Every physician must report to the Commissioner of Health every confirmed or suspected diagnosis of any disease or condition that, the Commissioner specifies by rule or regulation adopted under § 2-106 {"Rules and regulations"} of this article for purposes of this section .</text>
+            <text>Every physician must report to the Commissioner of Health every confirmed or suspected diagnosis of any disease or condition that, the Commissioner specifies by rule or regulation adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> for purposes of this section .</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1300,7 +1300,7 @@
           <para>
             <num>(b)</num>
             <heading>Duty to report.</heading>
-            <text>The reporting officer must report to the Commissioner every confirmed or suspected diagnosis of any disease or condition that the Commissioner specifies by rule or regulation adopted under § 2-106 {"Rules and regulations"} of this article for purposes of this section.</text>
+            <text>The reporting officer must report to the Commissioner every confirmed or suspected diagnosis of any disease or condition that the Commissioner specifies by rule or regulation adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> for purposes of this section.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1354,7 +1354,7 @@
           <para>
             <num>(a)</num>
             <heading>Duty to report.</heading>
-            <text>The individual in charge of any public or private medical laboratory must report to the Commissioner  the result of any test of a specimen from a human body that is microscopic cultural, histological, pathological, immunological, serological, or other confirmed or suspected evidence of any disease or condition that the Commissioner specifies by rule or regulation adopted under § 2-106 {"Rules and regulations"} of this article for purposes of this section.</text>
+            <text>The individual in charge of any public or private medical laboratory must report to the Commissioner  the result of any test of a specimen from a human body that is microscopic cultural, histological, pathological, immunological, serological, or other confirmed or suspected evidence of any disease or condition that the Commissioner specifies by rule or regulation adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> for purposes of this section.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1483,7 +1483,7 @@
           <para>
             <num>(b)</num>
             <heading>Duty to report.</heading>
-            <text>The individual in charge of a lodging facility must report to the Commissioner anyone in the lodging facility who is suffering from any disease or condition that the Commissioner specifies by rule or regulation adopted under § 2-106 {"Rules and regulations"} of this article for purposes of this section.</text>
+            <text>The individual in charge of a lodging facility must report to the Commissioner anyone in the lodging facility who is suffering from any disease or condition that the Commissioner specifies by rule or regulation adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> for purposes of this section.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1567,7 +1567,7 @@
         <para>
           <num>(a)</num>
           <heading>Duty to report.</heading>
-          <text>The individual in charge of any public or private pharmacy, other than a facility operated by the Department, must report to the Commissioner of Health whenever it dispenses any anti- tuberculosis medication that the Commissioner specifies by rule or regulation adopted under § 2-106 {"Rules and regulations"} of this article for purposes of this section.</text>
+          <text>The individual in charge of any public or private pharmacy, other than a facility operated by the Department, must report to the Commissioner of Health whenever it dispenses any anti- tuberculosis medication that the Commissioner specifies by rule or regulation adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> for purposes of this section.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1755,7 +1755,7 @@
       <section>
         <num>4-401</num>
         <heading>"Communicable disease" defined.</heading>
-        <text>In this subtitle, "communicable disease" means any contagious, infectious, or communicable disease or condition that the Commissioner specifies by rule or regulation adopted under § 2-106 {"Rules and regulations"} of this article for purposes of this subtitle.</text>
+        <text>In this subtitle, "communicable disease" means any contagious, infectious, or communicable disease or condition that the Commissioner specifies by rule or regulation adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> for purposes of this subtitle.</text>
         <annotations>
           <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -1872,7 +1872,7 @@
       <section>
         <num>4-406</num>
         <heading>Medical isolation — in general.</heading>
-        <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may require the medical isolation of individuals having a communicable or potentially communicable disease or condition dangerous to the public health.</text>
+        <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may require the medical isolation of individuals having a communicable or potentially communicable disease or condition dangerous to the public health.</text>
         <annotations>
           <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §212(1st par.(1st cl.))</annotation>
@@ -1960,7 +1960,7 @@
         <section>
           <num>4-503</num>
           <heading>Parental responsibility.</heading>
-          <text>Except as specified in § 4-506 {"Exceptions"} of this subtitle, every parent and guardian must provide for the timely and appropriate immunization of their minor children against all immunization-preventable childhood diseases, as specified by rule or regulation that the  Commissioner adopts under § 2-106 {"Rules and regulations"} of this article.</text>
+          <text>Except as specified in § 4-506 {"Exceptions"} of this subtitle, every parent and guardian must provide for the timely and appropriate immunization of their minor children against all immunization-preventable childhood diseases, as specified by rule or regulation that the  Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
           <annotations>
             <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §199</annotation>
@@ -2012,7 +2012,7 @@
         <section>
           <num>4-509</num>
           <heading>Commissioner to establish registry.</heading>
-          <text>The Commissioner of Health is directed to adopt rules and regulations under § 2-106 {"Rules and regulations"} of this article to implement a registry of immunization history for children residing in the City.</text>
+          <text>The Commissioner of Health is directed to adopt rules and regulations under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> to implement a registry of immunization history for children residing in the City.</text>
           <annotations>
             <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §215A(b)</annotation>
@@ -2083,7 +2083,7 @@
         <section>
           <num>4-601</num>
           <heading>Parental responsibility.</heading>
-          <text>Except as specified in § 4-603 {"Exceptions"} of this subtitle, every parent and guardian must provide for the timely and appropriate testing for lead poisoning of his or her minor children, as specified by the rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article.</text>
+          <text>Except as specified in § 4-603 {"Exceptions"} of this subtitle, every parent and guardian must provide for the timely and appropriate testing for lead poisoning of his or her minor children, as specified by the rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
           <annotations>
             <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 00-020" type="History">Ord. 00-020</annotation>
@@ -2093,7 +2093,7 @@
         <section>
           <num>4-602</num>
           <heading>Provider's responsibility.</heading>
-          <text>Except as specified in § 4-603 {"Exceptions"} of this subtitle, every pediatric and primary care health provider must order the timely and appropriate testing for lead poisoning of his or her minor patients, as specified by the rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article.</text>
+          <text>Except as specified in § 4-603 {"Exceptions"} of this subtitle, every pediatric and primary care health provider must order the timely and appropriate testing for lead poisoning of his or her minor patients, as specified by the rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
           <annotations>
             <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 00-020" type="History">Ord. 00-020</annotation>
@@ -2119,7 +2119,7 @@
           <para>
             <num>(b)</num>
             <heading>Civil penalties — Parents and guardians.</heading>
-            <text>§ 4-601{"Parental  responsibility"} of this subtitle may be enforced by issuance of an environmental citation under Article 1, Subtitle 40 {"Environmental Control Board"} of the City Code.</text>
+            <text>§ 4-601{"Parental  responsibility"} of this subtitle may be enforced by issuance of an environmental citation under <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"} of the City Code.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -2147,7 +2147,7 @@
         <section>
           <num>4-606</num>
           <heading>Commissioner to establish registry.</heading>
-          <text>The Commissioner of Health is directed to adopt rules and regulations under § 2-106 {"Rules and regulations"} of this article to implement a registry of screening history for children residing in the City.</text>
+          <text>The Commissioner of Health is directed to adopt rules and regulations under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> to implement a registry of screening history for children residing in the City.</text>
           <annotations>
             <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 00-020" type="History">Ord. 00-020</annotation>
@@ -2316,7 +2316,7 @@
         <para>
           <num>(b)</num>
           <heading>Suspect symptoms.</heading>
-          <text>"Suspect symptoms" means those symptoms that, by rule or regulation adopted under § 2-106 of this article, the Commissioner designates as being indicative of a possible biological terrorist attack.</text>
+          <text>"Suspect symptoms" means those symptoms that, by rule or regulation adopted under <cite path="|health|§2-106">§ 2-106 of this article</cite>, the Commissioner designates as being indicative of a possible biological terrorist attack.</text>
         </para>
         <annotations>
           <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
@@ -2569,7 +2569,7 @@
           <text>"Nuisance" includes any of the following, whether or not otherwise regulated by federal, state, or local law:</text>
           <para>
             <num>(1)</num>
-            <text>garbage, rubbish, or other waste, as these terms are defined in Title 7 {"Waste Control"} of this article;</text>
+            <text>garbage, rubbish, or other waste, as these terms are defined in Title 7 {"Waste Control"} of <cite path="|health">this article</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2773,7 +2773,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2811,7 +2811,7 @@
           <heading>Dwelling.</heading>
           <para>
             <num>(1)</num>
-            <text>"Dwelling" has the meaning stated in § 202.2 of the Baltimore City Building Code.</text>
+            <text>"Dwelling" has the meaning stated in § 202.2 of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2821,14 +2821,14 @@
         <para>
           <num>(c)</num>
           <heading>Dwelling unit.</heading>
-          <text>"Dwelling unit" has the meaning stated in § 202.2 of the Baltimore City Building Code.</text>
+          <text>"Dwelling unit" has the meaning stated in § 202.2 of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
           <text>
             <em>Rooming unit</em>
           </text>
-          <text>"Rooming unit" has the meaning stated in § 202.2 of the Baltimore City Property Maintenance Code.</text>
+          <text>"Rooming unit" has the meaning stated in § 202.2 of the Baltimore City <cite path="|codes|VII" proof="needed">Property Maintenance Code</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §105(f)</annotation>
@@ -2855,7 +2855,7 @@
         <text>The Commissioner may:</text>
         <para>
           <num>(1)</num>
-          <text>enforce all provisions of the Baltimore City Property Maintenance Code; and</text>
+          <text>enforce all provisions of the Baltimore City <cite path="|codes|VII" proof="needed">Property Maintenance Code</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2887,7 +2887,7 @@
         <para>
           <num>(b)</num>
           <heading>Procedures.</heading>
-          <text>The entry and inspection of a dwelling must comply with the requirements of § 2-107 {"Right of entry"} of this article.</text>
+          <text>The entry and inspection of a dwelling must comply with the requirements of <cite path="|health|§2-107">§ 2-107 {"Right of entry"} of this article</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §105(a)</annotation>
@@ -2900,7 +2900,7 @@
         <para>
           <num>(a)</num>
           <heading>"Related law" defined.</heading>
-          <text>In this section, "related law" has the meaning stated in  § 104.6.2 {"Authority to seek warrant"} of the Baltimore City Building Code.</text>
+          <text>In this section, "related law" has the meaning stated in  § 104.6.2 {"Authority to seek warrant"} of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2908,7 +2908,7 @@
           <text>No inspector who gains entrance to a dwelling for the purpose of investigating a nuisance may obtain or furnish evidence of, or testify to, any offense other than:</text>
           <para>
             <num>(1)</num>
-            <text>a violation of this article or of any related law;</text>
+            <text>a violation of <cite path="|health">this article</cite> or of any related law;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3003,7 +3003,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3137,11 +3137,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -3460,7 +3460,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3771,7 +3771,7 @@
             <text>"Food" does not include any:</text>
             <para>
               <num>(i)</num>
-              <text>alcoholic beverage, as defined in State Code Article 2B, § 1-102(a)(2); or</text>
+              <text>alcoholic beverage, as defined in State Code <cite path="|2">Article 2</cite>B, § 1-102(a)(2); or</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -3800,12 +3800,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this title "person" also includes, except as used in § 6-802 {"Penalties"} of this title, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this title "person" also includes, except as used in <cite path="|general|6|8|6-802" proof="needed">§ 6-802 {"Penalties"}</cite> of this title, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <annotations>
@@ -3840,7 +3840,7 @@
       <section>
         <num>6-103</num>
         <heading>Rules and regulations.</heading>
-        <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner, consistent with this title and State law:</text>
+        <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner, consistent with this title and State law:</text>
         <para>
           <num>(1)</num>
           <text>must designate the classes of licenses to be issued for various types of food service facilities; and</text>
@@ -4148,7 +4148,7 @@
         <para>
           <num>(a)</num>
           <heading>Commissioner to adopt.</heading>
-          <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner must include rules and regulations for:</text>
+          <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner must include rules and regulations for:</text>
           <para>
             <num>(1)</num>
             <text>the certification and recertification of food service managers; and</text>
@@ -4692,7 +4692,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may include rules or regulations that govern the documentation acceptable or required under paragraphs (i)(ii) and (2) of this subsection.</text>
+            <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may include rules or regulations that govern the documentation acceptable or required under paragraphs (i)(ii) and (2) of this subsection.</text>
           </para>
         </para>
         <annotations>
@@ -4837,7 +4837,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>state that a hearing will be provided to the facility, if one is requested under Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+            <text>state that a hearing will be provided to the facility, if one is requested under Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -4899,7 +4899,7 @@
         <para>
           <num>(c)</num>
           <heading>Opportunity for hearing.</heading>
-          <text>The notice must also state that a hearing will be provided to the facility under Title 2, Subtitle 3 {"Administrative Hearings"} of this article, if one is requested.</text>
+          <text>The notice must also state that a hearing will be provided to the facility under Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>, if one is requested.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §165(f)(3)</annotation>
@@ -4918,11 +4918,11 @@
             <text>at any time within the preceding 6 months, the facility has been served with 3 or more citations issued for reasons related to public health or to the prevention of disease, epidemics, or nuisances affecting public health, under either or both of:</text>
             <para>
               <num>(i)</num>
-              <text>City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>City Code Article 1, Subtitle 41 {"Civil Citations"}; or</text>
+              <text>City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}; or</text>
             </para>
           </para>
           <para>
@@ -4930,11 +4930,11 @@
             <text>at any time within the preceding 12 months, the facility has been declared to be in default of 1 or more citations issued for reasons related to public health or to the prevention of disease, epidemics, or nuisances affecting public health, under either of:</text>
             <para>
               <num>(i)</num>
-              <text>City Code Article 1, § 40-8 {"Environmental Citations: Default by person cited"}; or</text>
+              <text>City Code <cite path="|1|§40-8">Article 1, § 40-8 {"Environmental Citations: Default by person cited"}</cite>; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>City Code Article 1, §  41-10 {"Civil Citations: Default"}.</text>
+              <text>City Code <cite path="|1|§41-10">Article 1, §  41-10 {"Civil Citations: Default"}</cite>.</text>
             </para>
           </para>
         </para>
@@ -4948,12 +4948,12 @@
         </para>
         <text>
           <ul proof="needed">
-            <li>Article 13.  Housing and Urban Renewal</li>
+            <li><cite path="|13">Article 13</cite>.  Housing and Urban Renewal</li>
             <li>Subtitle 5 {"Licensing of Rental Dwellings"}.</li>
-            <li>Article 15.  Licensing and Regulation</li>
+            <li><cite path="|15">Article 15</cite>.  Licensing and Regulation</li>
             <li>Subtitle 17.  Street Vendors</li>
             <li>Subtitle 18.  Itinerant Wholesale Produce Dealers</li>
-            <li>Article 19.  Police Ordinances</li>
+            <li><cite path="|19">Article 19</cite>.  Police Ordinances</li>
             <li>§ 1-2.  Placement <em>{of advertising circulars} </em>without permission</li>
             <li>§ 7-2.  Vehicle alarms: Prohibited devices</li>
             <li>§ 8-18.  Burglar alarms: Penalties</li>
@@ -4976,39 +4976,39 @@
             <li>§ 50-41.  Playing, etc., in street, etc.</li>
             <li>§ 50-56.  Soliciting customers</li>
             <li>§ 59-18.  Reporting <em>{theft or loss of firearm} </em>required</li>
-            <li>Article 23.  Sanitation</li>
+            <li><cite path="|23">Article 23</cite>.  Sanitation</li>
             <li>§ 2-1.  Mixed refuse: Receptacles</li>
             <li>§ 2-2.  Mixed refuse: Handling</li>
             <li>§ 4-1 or § 4-2.  Receptacles on collection days</li>
-            <li>Article 24.  Water</li>
+            <li><cite path="|24">Article 24</cite>.  Water</li>
             <li>§ 21-1.  Rules and regulations <em>{to protect supply and facilities}</em></li>
             <li>§ 21-2.  Suspension, etc., of certain uses</li>
             <li>§ 21-3.  Injuring fire hydrants</li>
             <li>§ 21-4.  Wrongful use after cut-off</li>
             <li>§ 21-5.  Refusal of entry</li>
             <li>§ 21-6.  Interference with equipment; illegal use of water</li>
-            <li>Article 26.  Surveys, Streets, and Highways</li>
+            <li><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</li>
             <li>Subtitle 6.  Building Address Numbers</li>
-            <li>Article 31.  Transit and Traffic</li>
+            <li><cite path="|31">Article 31</cite>.  Transit and Traffic</li>
             <li>§ 16-12.  Vehicles on sidewalks</li>
             <li>§ 18-8.  Riding <em>{bicycles}</em> on sidewalk</li>
-            <li>Article 32.  Zoning</li>
+            <li><cite path="|32">Article 32</cite>.  Zoning</li>
             <li>§ 5-704.  {Use permit –}When required</li>
             <li>§ 16-803.  Storage, etc., of abandoned, etc., vehicles</li>
-            <li>Building, Fire, and Related Codes Article – Building Code</li>
+            <li><cite path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|codes|II" proof="needed">Building Code</cite></li>
             <li>§ 114.14.  Work without permit</li>
             <li>§ 115.3.  Stop-work order: Unlawful continuance</li>
             <li>§ 116.  Unsafe structures</li>
             <li>§ 120.  Condemnation proceedings</li>
             <li>§ 123.8.  Failure to comply with notice or citation</li>
             <li>§ 3302.2  Construction Safeguards: Waste and debris</li>
-            <li>Building, Fire, and Related Codes Article – Fire Code</li>
+            <li><cite path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|codes|VIII" proof="needed">Fire Code</cite></li>
             <li>§ 108.6.  Maintenance: Overcrowding</li>
             <li>§ 111.1.  Unsafe buildings: General</li>
             <li>§ 1001.2. Means of Egress: Minimum requirements</li>
-            <li>Building, Fire, and Related Codes Article – Property Maintenance Code</li>
+            <li><cite path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|codes|VII" proof="needed">Property Maintenance Code</cite></li>
             <li>Chapter 3.  General Requirements</li>
-            <li>Health Code</li>
+            <li><cite path="|health">Health Code</cite></li>
             <li>Title 5.  Nuisance Control</li>
             <li>Title 6:  Food Service Facilities</li>
             <li>Title 7:  Waste Control</li>
@@ -5027,7 +5027,7 @@
         <para>
           <num>(c)</num>
           <heading>Notice and opportunity for hearing.</heading>
-          <text>Before suspending or refusing to renew a license under this section, the Commissioner must provide the facility with notice and an opportunity for hearing, as provided in Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+          <text>Before suspending or refusing to renew a license under this section, the Commissioner must provide the facility with notice and an opportunity for hearing, as provided in Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 09-243" type="History">Ord. 09-243</annotation>
@@ -5103,7 +5103,7 @@
         <para>
           <num>(b)</num>
           <heading>Notice and opportunity for hearing.</heading>
-          <text>Before revoking a license, the Commissioner must provide the facility with notice and opportunity for hearing, as provided in Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+          <text>Before revoking a license, the Commissioner must provide the facility with notice and opportunity for hearing, as provided in Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §165(h)</annotation>
@@ -5197,7 +5197,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this title may be enforced by issuance of an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this title may be enforced by issuance of an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5478,7 +5478,7 @@
       <section>
         <num>7-103</num>
         <heading>Rules and regulations.</heading>
-        <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may include provisions, consistent with this title and State law, that govern:</text>
+        <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may include provisions, consistent with this title and State law, that govern:</text>
         <para>
           <num>(1)</num>
           <text>the storage facilities, vehicles, equipment, and operations of all persons transporting waste; and</text>
@@ -5541,7 +5541,7 @@
             <text>a scrap metal dealer who:</text>
             <para>
               <num>(i)</num>
-              <text>is licensed under City Code Article 2, Subtitle 8; and</text>
+              <text>is licensed under City Code <cite path="|2">Article 2</cite>, Subtitle 8; and</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -5756,7 +5756,7 @@
           <para>
             <num>(c)</num>
             <heading>Action on failure to correct.</heading>
-            <text>If the licensee fails to make the corrections within the time prescribed, the Commissioner may suspend or revoke the license, subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+            <text>If the licensee fails to make the corrections within the time prescribed, the Commissioner may suspend or revoke the license, subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §270(a)</annotation>
@@ -5766,7 +5766,7 @@
         <section>
           <num>7-215</num>
           <heading>Suspension or revocation after conviction.</heading>
-          <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner may suspend or revoke the license of any licensee who is convicted of a violation of:</text>
+          <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>, the Commissioner may suspend or revoke the license of any licensee who is convicted of a violation of:</text>
           <para>
             <num>(1)</num>
             <text>this subtitle;</text>
@@ -6022,11 +6022,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
             <para>
               <num>(1)</num>
-              <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -6169,12 +6169,12 @@
             <para>
               <num>(1)</num>
               <heading>In general.</heading>
-              <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+              <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
             </para>
             <para>
               <num>(2)</num>
               <heading>Qualified inclusion of governmental entities.</heading>
-              <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes, except as used in § 7-419 {"Penalties"} of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|7|4|7-419" proof="needed">§ 7-419 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
             </para>
           </para>
           <annotations>
@@ -6362,7 +6362,7 @@
           <para>
             <num>(a)</num>
             <heading>Grounds.</heading>
-            <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner of Health may suspend a license:</text>
+            <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>, the Commissioner of Health may suspend a license:</text>
             <para>
               <num>(1)</num>
               <text>on receipt of notice of intent to cancel the bond or other security required by State law;</text>
@@ -6397,7 +6397,7 @@
         <section>
           <num>7-415</num>
           <heading>Revocations and denials of renewal.</heading>
-          <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner of Health may revoke or refuse to renew the license of any licensee who repeatedly violates any of the conditions of the license or any of the provisions of this subtitle or of the rules and regulations adopted under this subtitle.</text>
+          <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>, the Commissioner of Health may revoke or refuse to renew the license of any licensee who repeatedly violates any of the conditions of the license or any of the provisions of this subtitle or of the rules and regulations adopted under this subtitle.</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §223(a)(6)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -6421,11 +6421,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
             <para>
               <num>(1)</num>
-              <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -6994,7 +6994,7 @@
             <text>Any vehicle that has been ordered forfeited to the City may be:</text>
             <para>
               <num>(1)</num>
-              <text>sold as provided in City Code Article 31, Subtitle 31, Part 5;  or</text>
+              <text>sold as provided in City Code <cite path="|31">Article 31</cite>, Subtitle 31, Part 5;  or</text>
             </para>
             <para>
               <num>(2)</num>
@@ -7044,7 +7044,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>The amount of the grants, the criteria for allocating and awarding them, and the purposes for which they may be used are as set forth in the rules and regulations adopted by the Commissioner under § 2-106 {"Rules and regulations"} of this article.</text>
+              <text>The amount of the grants, the criteria for allocating and awarding them, and the purposes for which they may be used are as set forth in the rules and regulations adopted by the Commissioner under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
             </para>
           </para>
           <annotations>
@@ -7083,11 +7083,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
             <para>
               <num>(1)</num>
-              <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -7208,11 +7208,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -7310,7 +7310,7 @@
           <para>
             <num>(b)</num>
             <heading>Setting emission standards.</heading>
-            <text>In the rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article, the Commissioner may set emission standards and adopt procedures for implementing and enforcing those standards.</text>
+            <text>In the rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may set emission standards and adopt procedures for implementing and enforcing those standards.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§8, 11</annotation>
@@ -7451,7 +7451,7 @@
         <section>
           <num>8-113</num>
           <heading>Rules and regulations.</heading>
-          <text>In the rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article, the Health Commissioner may adopt rules and regulations to implement this Part II.</text>
+          <text>In the rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Health Commissioner may adopt rules and regulations to implement this Part II.</text>
           <annotations>
             <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
@@ -7769,7 +7769,7 @@
           <num>8-126</num>
           <heading>{Repealed by Ord. 22-125}</heading>
           <annotations>
-            <annotation type="Editor's Notes">For the Code-wide standard for severability of provisions, see General Provisions Article, § 1-214.</annotation>
+            <annotation type="Editor's Notes">For the Code-wide standard for severability of provisions, see <cite path="|general">General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
           </annotations>
         </section>
       </container>
@@ -7794,7 +7794,7 @@
         <para>
           <num>(c)</num>
           <heading>Waste.</heading>
-          <text>"Waste" has the meaning stated in §7-101 of this article.</text>
+          <text>"Waste" has the meaning stated in §7-101 of <cite path="|health">this article</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §18 (parts)</annotation>
@@ -7891,11 +7891,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this title may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -8002,7 +8002,7 @@
           <text>This title does not apply to any of the following:</text>
           <para>
             <num>(1)</num>
-            <text>motor vehicles, aircraft, or other equipment used in an emergency by any government agency or by any public service company, as defined in State Code Article 78; or</text>
+            <text>motor vehicles, aircraft, or other equipment used in an emergency by any government agency or by any public service company, as defined in State Code <cite path="|78" proof="needed">Article 78</cite>; or</text>
           </para>
           <para>
             <num>(2)</num>
@@ -8012,7 +8012,7 @@
         <para>
           <num>(b)</num>
           <heading>Qualified exemptions.</heading>
-          <text>This title does not apply to the following, except as specifically stated in this title or where standards are set by the rules or regulations adopted by the Commissioner under § 2-106 {"Rules and regulations"} of this article :</text>
+          <text>This title does not apply to the following, except as specifically stated in this title or where standards are set by the rules or regulations adopted by the Commissioner under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> :</text>
           <para>
             <num>(1)</num>
             <text>motor vehicles; or</text>
@@ -8035,7 +8035,7 @@
         <para>
           <num>(a)</num>
           <heading>Commissioner may adopt.</heading>
-          <text>The rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article may include provisions that set:</text>
+          <text>The rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> may include provisions that set:</text>
           <para>
             <num>(1)</num>
             <text>standards and procedures for measuring noise;</text>
@@ -8112,12 +8112,12 @@
             <para>
               <num>(1)</num>
               <heading>In general.</heading>
-              <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+              <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
             </para>
             <para>
               <num>(2)</num>
               <heading>Qualified inclusion of governmental entities.</heading>
-              <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes, except as used in § 9-218 {"Penalties"} of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|9|2|9-218" proof="needed">§ 9-218 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
             </para>
           </para>
           <para>
@@ -8622,11 +8622,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
             <para>
               <num>(1)</num>
-              <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -8727,7 +8727,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>any public service company, as defined in State Code Article 78.</text>
+              <text>any public service company, as defined in State Code <cite path="|78" proof="needed">Article 78</cite>.</text>
             </para>
           </para>
           <annotations>
@@ -8987,11 +8987,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
             <para>
               <num>(1)</num>
-              <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -9189,7 +9189,7 @@
           <para>
             <num>(b)</num>
             <heading>Public service companies excepted.</heading>
-            <text>This subtitle does not apply work performed by a public service company, as defined in State Code Article 78.</text>
+            <text>This subtitle does not apply work performed by a public service company, as defined in State Code <cite path="|78" proof="needed">Article 78</cite>.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §§226, 227</annotation>
@@ -9388,11 +9388,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
             <para>
               <num>(1)</num>
-              <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -9856,7 +9856,7 @@
         <section>
           <num>10-104</num>
           <heading>Rules and regulations</heading>
-          <text>The rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations'] of this article may include provisions:</text>
+          <text>The rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations'] of <cite path="|health">this article</cite> may include provisions:</text>
           <para>
             <num>(1)</num>
             <text>for the issuance of permits and licenses under this title;</text>
@@ -9895,7 +9895,7 @@
         <section>
           <num>10-105</num>
           <heading>Mayor's Anti-Animal Abuse Advisory Commission.</heading>
-          <text>The Commissioner may request the Mayor's Anti-Animal Abuse Advisory Commission, established under City Code Article 1, Subtitle 55,. to research best practices and make recommendations to the Commissioner about the regulation and treatment of animals.</text>
+          <text>The Commissioner may request the Mayor's Anti-Animal Abuse Advisory Commission, established under City Code <cite path="|1">Article 1</cite>, Subtitle 55,. to research best practices and make recommendations to the Commissioner about the regulation and treatment of animals.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 11-573" type="History">Ord. 11-573</annotation>
           </annotations>
@@ -9947,7 +9947,7 @@
             <heading>Inspections.</heading>
             <para>
               <num>(1)</num>
-              <text>In accordance with § 2-107 {"Right of entry"} of this Article and § 104.6  {"Right of entry"} of the Baltimore City Building Code, the Commissioner may inspect all animals and all premises where animals are kept.</text>
+              <text>In accordance with <cite path="|health|§2-107">§ 2-107 {"Right of entry"} of this Article</cite> and § 104.6  {"Right of entry"} of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>, the Commissioner may inspect all animals and all premises where animals are kept.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -9987,7 +9987,7 @@
           <para>
             <num>(c)</num>
             <heading>Staff.</heading>
-            <text>The Commissioner may appoint the staff of the Office as provided in Title 2 of this article.</text>
+            <text>The Commissioner may appoint the staff of the Office as provided in Title 2 of <cite path="|health">this article</cite>.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §25(a)</annotation>
@@ -10008,7 +10008,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>appointed by the Police Commissioner under City Code Article 19, § 71-1 for the purpose of enforcing the animal control and protection laws, rules, and regulations of this City and State.</text>
+              <text>appointed by the Police Commissioner under City Code <cite path="|19|§71-1">Article 19, § 71-1</cite> for the purpose of enforcing the animal control and protection laws, rules, and regulations of this City and State.</text>
             </para>
           </para>
           <para>
@@ -10084,7 +10084,7 @@
           <para>
             <num>(d)</num>
             <heading>Authority to enter premises.</heading>
-            <text>An animal enforcement officer must comply with the requirements of § 2-107 {"Right of entry"} of this article and § 104.6 {"Right of entry"} of the Building Code when entering any land, structure, or premises in the City.</text>
+            <text>An animal enforcement officer must comply with the requirements of <cite path="|health|§2-107">§ 2-107 {"Right of entry"} of this article</cite> and § 104.6 {"Right of entry"} of the <cite path="|codes|II" proof="needed">Building Code</cite> when entering any land, structure, or premises in the City.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -11031,7 +11031,7 @@
         <para>
           <num>(f)</num>
           <heading>Other animal rabies vaccinations.</heading>
-          <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may require rabies vaccinations for other animals.</text>
+          <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may require rabies vaccinations for other animals.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -12008,7 +12008,7 @@
         <para>
           <num>(b)</num>
           <heading>Rules and regulations.</heading>
-          <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may set:</text>
+          <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may set:</text>
           <para>
             <num>(1)</num>
             <text>qualifications for obtaining a permit;</text>
@@ -12098,7 +12098,7 @@
         <para>
           <num>(a)</num>
           <heading>Commissioner may prohibit.</heading>
-          <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may prohibit other animals from being kept in the City as necessary or appropriate  to protect the health, safety, or welfare of the public.</text>
+          <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may prohibit other animals from being kept in the City as necessary or appropriate  to protect the health, safety, or welfare of the public.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -13439,7 +13439,7 @@
         <section>
           <num>10-1003</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Panel may adopt rules and regulations to govern its procedures and hearings.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Panel may adopt rules and regulations to govern its procedures and hearings.</text>
           <annotations>
             <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §40A(b)(3)</annotation>
@@ -13488,7 +13488,7 @@
               </para>
               <para>
                 <num>(iii)</num>
-                <text>unless a different time is specified in this article, be filed with the Panel within 10 days of the notice, decision, order, or other action.</text>
+                <text>unless a different time is specified in <cite path="|health">this article</cite>, be filed with the Panel within 10 days of the notice, decision, order, or other action.</text>
               </para>
             </para>
           </para>
@@ -13527,13 +13527,13 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>Except as otherwise provided by law or by rule or regulation of the Panel, the notice must contain the same information as that required by Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+              <text>Except as otherwise provided by law or by rule or regulation of the Panel, the notice must contain the same information as that required by Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
             </para>
           </para>
           <para>
             <num>(d)</num>
             <heading>Conduct of hearing.</heading>
-            <text>Except as otherwise provided by law or by rule or regulation of the Panel, the hearing must be conducted in an informal manner, subject to the same procedures and standards for the submission and consideration of evidence as that provided in Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+            <text>Except as otherwise provided by law or by rule or regulation of the Panel, the hearing must be conducted in an informal manner, subject to the same procedures and standards for the submission and consideration of evidence as that provided in Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 11-573" type="History">Ord. 11-573</annotation>
@@ -13545,7 +13545,7 @@
           <para>
             <num>(a)</num>
             <heading>In general.</heading>
-            <text>The decision of the Panel must comply with the same requirements as those imposed by Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+            <text>The decision of the Panel must comply with the same requirements as those imposed by Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -13680,7 +13680,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>Title 2, Subtitle 3 {"Administrative Hearings"} of this article does not apply to this appeal.</text>
+              <text>Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite> does not apply to this appeal.</text>
             </para>
           </para>
           <para>
@@ -13736,7 +13736,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>other costs, such as staffing and administrative expenses, as allowed by rule or regulation adopted by the Commissioner under § 2-106 {"Rules and Regulations"} of this article.</text>
+              <text>other costs, such as staffing and administrative expenses, as allowed by rule or regulation adopted by the Commissioner under <cite path="|health|§2-106">§ 2-106 {"Rules and Regulations"} of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -13777,11 +13777,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this title may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -13885,7 +13885,7 @@
       <section>
         <num>11-102</num>
         <heading>Compliance with Swimming Pool and Spa Code.</heading>
-        <text>In addition to the requirements of this title, all swimming pools must comply with the International Swimming Pool and Spa Code, as adopted and modified in Part XII of the City Building, Fire, and Related Codes Article.</text>
+        <text>In addition to the requirements of this title, all swimming pools must comply with the <cite path="|codes|XII" proof="needed">International Swimming Pool and Spa Code</cite>, as adopted and modified in <cite path="|codes|XII" proof="needed">Part XII</cite> of the City Building, Fire, and Related Codes Article.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
         </annotations>
@@ -13935,7 +13935,7 @@
           <para>
             <num>(b)</num>
             <heading>Subtitle sets minimum requirements.</heading>
-            <text>This subtitle establishes minimum enclosure requirements only.   All more stringent enclosure standards and other regulations imposed by the Building, Fire, and Related Codes Article of Baltimore City must be complied with to the extent applicable.</text>
+            <text>This subtitle establishes minimum enclosure requirements only.   All more stringent enclosure standards and other regulations imposed by the <cite path="|codes" proof="needed">Building, Fire, and Related Codes Article of Baltimore City</cite> must be complied with to the extent applicable.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -14071,12 +14071,12 @@
             <para>
               <num>(1)</num>
               <heading>In general.</heading>
-              <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+              <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
             </para>
             <para>
               <num>(2)</num>
               <heading>Qualified inclusion of governmental entities.</heading>
-              <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes, except as used in § 11-318 {"Penalties"} of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|11|3|11-318" proof="needed">§ 11-318 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
             </para>
           </para>
           <para>
@@ -14160,7 +14160,7 @@
           <para>
             <num>(a)</num>
             <heading>Standards and criteria.</heading>
-            <text>The rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article may include criteria, standards, and regulations for the design, operation, and maintenance of public swimming pools.</text>
+            <text>The rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite> may include criteria, standards, and regulations for the design, operation, and maintenance of public swimming pools.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -14295,7 +14295,7 @@
         <section>
           <num>11-313</num>
           <heading>In general.</heading>
-          <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner of Health may suspend or revoke any license issued under this subtitle if the licensee:</text>
+          <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>, the Commissioner of Health may suspend or revoke any license issued under this subtitle if the licensee:</text>
           <para>
             <num>(1)</num>
             <text>has withheld or falsified any information; or</text>
@@ -14345,7 +14345,7 @@
           <para>
             <num>(c)</num>
             <heading>Opportunity for hearing.</heading>
-            <text>The notice must also state that a hearing will be provided to the licensee under Title 2, Subtitle 3 {"Administrative Hearings"} of this article, if one is requested.</text>
+            <text>The notice must also state that a hearing will be provided to the licensee under Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>, if one is requested.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §248</annotation>
@@ -14367,7 +14367,7 @@
           <para>
             <num>(a)</num>
             <heading>In general.</heading>
-            <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}.</text>
+            <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -14749,11 +14749,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation as authorized by City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -14857,11 +14857,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -15182,11 +15182,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -15418,11 +15418,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -15540,11 +15540,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation as authorized by City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -15590,7 +15590,7 @@
         <para>
           <num>(b)</num>
           <heading>Vendor truck.</heading>
-          <text>"Vendor truck" has the meaning stated in City Code Article 15, § 17-1 {"Definitions"}.</text>
+          <text>"Vendor truck" has the meaning stated in City Code <cite path="|15|§17-1">Article 15, § 17-1 {"Definitions"}</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -15623,11 +15623,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation as authorized by City Code Article 1, Subtitle 41 {"Civil Citations"}</text>
+            <text>a civil citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}</text>
           </para>
         </para>
         <para>
@@ -15706,7 +15706,7 @@
         <para>
           <num>(d)</num>
           <heading>Public swimming pool.</heading>
-          <text>"Public swimming pool" has the meaning stated in § 11-301(c) {"Definitions: Public swimming pool"} of this article.</text>
+          <text>"Public swimming pool" has the meaning stated in <cite path="|health|§11-301|(c)">§ 11-301(c) {"Definitions: Public swimming pool"} of this article</cite>.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -15786,11 +15786,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation as authorized by City Code Article 1, Subtitle 41 {"Civil Citations"}</text>
+            <text>a civil citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}</text>
           </para>
         </para>
         <para>
@@ -15837,12 +15837,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes, except as used in § 12-908 {"Civil Penalties: $100"} of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|12|9|12-908" proof="needed">§ 12-908 {"Civil Penalties: $100"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <annotations>
@@ -15902,11 +15902,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -16068,7 +16068,7 @@
       <section>
         <num>13-401</num>
         <heading>Suspensions, revocations, etc.</heading>
-        <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner may suspend, revoke, or refuse to renew the license or registration of any person if that person, that person's tattoo establishment, or any tattooist employed by that person violates any provision of this title or of any order, rule, or regulation issued under this title.</text>
+        <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>, the Commissioner may suspend, revoke, or refuse to renew the license or registration of any person if that person, that person's tattoo establishment, or any tattooist employed by that person violates any provision of this title or of any order, rule, or regulation issued under this title.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §216(d)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -16172,7 +16172,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>This section does not apply to a person who is licensed under State Code Article 27, § 443 as a regulated firearms dealer.</text>
+          <text>This section does not apply to a person who is licensed under State Code <cite path="|27|§443" proof="needed">Article 27, § 443</cite> as a regulated firearms dealer.</text>
         </para>
       </para>
       <para>
@@ -16257,7 +16257,7 @@
     <section>
       <num>14-111</num>
       <heading>Rules and regulations.</heading>
-      <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may include provisions governing:</text>
+      <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may include provisions governing:</text>
       <para>
         <num>(1)</num>
         <text>registration information to be provided and, from time to time, supplemented under § 14-107 of this title;</text>
@@ -16408,7 +16408,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -16478,7 +16478,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code Article 1, Subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -16689,7 +16689,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>state that a hearing will be provided to the person, if one is requested under Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+              <text>state that a hearing will be provided to the person, if one is requested under Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
             </para>
           </para>
           <annotations>
@@ -16757,7 +16757,7 @@
           <para>
             <num>(b)</num>
             <heading>Opportunity for hearing.</heading>
-            <text>Before suspending or revoking a license, the Commissioner must provide the licensee with notice and opportunity for hearing, as provided In Title 2, Subtitle 3 {"Administrative Hearings"} of this article.</text>
+            <text>Before suspending or revoking a license, the Commissioner must provide the licensee with notice and opportunity for hearing, as provided In Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 16-440" type="History">Ord. 16-440</annotation>
@@ -16791,7 +16791,7 @@
           <para>
             <num>(c)</num>
             <heading>Opportunity for hearing.</heading>
-            <text>The notice must also state that a hearing will be provided to the licensee under Title 2, Subtitle 3 {"Administrative Hearings"} of this article, if one is requested.</text>
+            <text>The notice must also state that a hearing will be provided to the licensee under Title 2, Subtitle 3 {"Administrative Hearings"} of <cite path="|health">this article</cite>, if one is requested.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 16-440" type="History">Ord. 16-440</annotation>
@@ -16812,11 +16812,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this title may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -16927,7 +16927,7 @@
       <para>
         <num>(c)</num>
         <heading>Rules and regulations.</heading>
-        <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Health Commissioner must include provisions, consistent with this section, that designate:</text>
+        <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Health Commissioner must include provisions, consistent with this section, that designate:</text>
         <para>
           <num>(1)</num>
           <text>the types of protective gear that are appropriate for each playing position; and</text>
@@ -17111,12 +17111,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also  includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also  includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -17156,7 +17156,7 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Playground" has the meaning stated in § 12-801(c) of this article {"Definitions: Playground"}.</text>
+            <text>"Playground" has the meaning stated in <cite path="|health|§12-801|(c)">§ 12-801(c) of this article</cite> {"Definitions: Playground"}.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -17241,7 +17241,7 @@
       <section>
         <num>19-103</num>
         <heading>Rules and regulations.</heading>
-        <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner must include rules and regulations to carry out the provisions of this title.</text>
+        <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner must include rules and regulations to carry out the provisions of this title.</text>
         <annotations>
           <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-430" type="History">Ord. 20-430</annotation>
@@ -17412,7 +17412,7 @@
           <text>Except as provided in § 19-303 {"Glyphosate use prohibited"}, § 19-304 {"Chlorpyrifos use prohibited"}, and § 19-305 {"Neonicotinoid pesticides on City-owned property"} of this title, a person may apply any registered pesticide to:</text>
           <para>
             <num>(1)</num>
-            <text>control weeds, as required by Title 5, Subtitle 7, of this article;</text>
+            <text>control weeds, as required by Title 5, Subtitle 7, of <cite path="|health">this article</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -17440,7 +17440,7 @@
           </para>
           <para>
             <num>(8)</num>
-            <text>comply with § 3314 {"Rodenticide Procedure"} of the City Building, Fire, and Related Codes Article;</text>
+            <text>comply with § 3314 {"Rodenticide Procedure"} of the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>;</text>
           </para>
           <para>
             <num>(9)</num>
@@ -17559,11 +17559,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>

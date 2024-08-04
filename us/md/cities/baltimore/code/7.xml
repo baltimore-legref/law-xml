@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="7">
   <prefix>Article</prefix>
   <num>7</num>
   <heading>Natural Resources</heading>
@@ -271,7 +271,7 @@
         <para>
           <num>(x)</num>
           <heading>Floodplain District.</heading>
-          <text>"Floodplain District" means the District, and its constituent subdistricts, established under Subtitle 2 {"Floodplain District"} of this article.</text>
+          <text>"Floodplain District" means the District, and its constituent subdistricts, established under Subtitle 2 {"Floodplain District"} of <cite path="|7">this article</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 7, §3</annotation>
@@ -322,7 +322,7 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Floodproofing Certificate" means the FEMA Form 086-0-34 that is to be completed, signed and sealed by a licensed professional engineer or licensed architect to certify that the design of floodproofing and proposed methods of construction are in accordance with the applicable requirements of § 3-14 of this article.</text>
+            <text>"Floodproofing Certificate" means the FEMA Form 086-0-34 that is to be completed, signed and sealed by a licensed professional engineer or licensed architect to certify that the design of floodproofing and proposed methods of construction are in accordance with the applicable requirements of <cite path="|7|§3-14">§ 3-14 of this article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -333,7 +333,7 @@
         <para>
           <num>(c)</num>
           <heading>Flood Resilience Area.</heading>
-          <text>"Flood Resilience Area" means the area described in § 2-2(g) {"Subdistricts: Flood Resilience Area"} of this article, and that:</text>
+          <text>"Flood Resilience Area" means the area described in <cite path="|7|§2-2|(g)">§ 2-2(g) {"Subdistricts: Flood Resilience Area"} of this article</cite>, and that:</text>
           <para>
             <num>(1)</num>
             <text>appears on the Flood Insurance Rate Map as Shaded Zone X; and</text>
@@ -708,7 +708,7 @@
           <text>In interpreting and applying this Division I, the following rules of interpretation apply:</text>
           <para>
             <num>(i)</num>
-            <text>those contained in Subtitles 2 and 3 of the City Code's General Provisions Article; and</text>
+            <text>those contained in Subtitles 2 and 3 of the City Code's <cite path="|general">General Provisions Article</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -1376,7 +1376,7 @@
           <para>
             <num>(b)</num>
             <text>Building, Fire, and Related Codes.</text>
-            <text>The approval of any development must conform with all applicable requirements of the Baltimore City Building, Fire, and Related Codes Article.</text>
+            <text>The approval of any development must conform with all applicable requirements of the <cite path="|codes" proof="needed">Baltimore City Building, Fire, and Related Codes Article</cite>.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1668,7 +1668,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>In addition, electrical wiring systems for 1- and 2-family dwellings must conform to the requirements of the Baltimore City Residential Code for One- and Two-Family Dwellings, Part VIII {"Electrical"}, for wet locations.</text>
+              <text>In addition, electrical wiring systems for 1- and 2-family dwellings must conform to the requirements of the Baltimore City <cite path="|codes|X" proof="needed">Residential Code</cite> for One- and Two-Family Dwellings, Part VIII {"Electrical"}, for wet locations.</text>
             </para>
             <para>
               <num>(3)</num>
@@ -2134,7 +2134,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>must have electric service installed in compliance with the Baltimore City electric code;</text>
+              <text>must have electric service installed in compliance with the Baltimore City <cite path="|codes|III" proof="needed">electric code</cite>;</text>
             </para>
             <para>
               <num>(3)</num>
@@ -2186,7 +2186,7 @@
           <para>
             <num>(f)</num>
             <heading>Issuance of permits.</heading>
-            <text>If a proposed development is contingent upon a map change, no permits will be issued for the development until the Letter of Map Revision (LOMR) has been issued by FEMA.  The proposed development must be compliant with all pertinent requirements of Division I of Article 7.</text>
+            <text>If a proposed development is contingent upon a map change, no permits will be issued for the development until the Letter of Map Revision (LOMR) has been issued by FEMA.  The proposed development must be compliant with all pertinent requirements of Division I of <cite path="|7">Article 7</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 21-020" type="History">Ord. 21-020</annotation>
@@ -2593,7 +2593,7 @@
       <section>
         <num>4-1</num>
         <heading>Permit required.</heading>
-        <text>A Building permit issued by the Building Official under the Baltimore City Building Code:</text>
+        <text>A Building permit issued by the Building Official under the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>:</text>
         <para>
           <num>(1)</num>
           <text>is required for all development in the Floodplain District; and</text>
@@ -3342,11 +3342,11 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>criminal prosecution, including a prosecution initiated by a prepayable criminal citation under City Code Article 19, § 71-2 {"Prepayable criminal citations"}; and</text>
+            <text>criminal prosecution, including a prosecution initiated by a prepayable criminal citation under City Code <cite path="|19|§71-2">Article 19, § 71-2 {"Prepayable criminal citations"}</cite>; and</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>administrative proceedings, including one initiated by a prepayable environmental citation under City Code Article 1, § 40-14 {"Violations to which subtitle applies"}.</text>
+            <text>administrative proceedings, including one initiated by a prepayable environmental citation under City Code <cite path="|1|§40-14">Article 1, § 40-14 {"Violations to which subtitle applies"}</cite>.</text>
           </para>
         </para>
         <para>
@@ -3678,7 +3678,7 @@
       <section>
         <num>9-2</num>
         <heading>Department of Housing and Community Development to enforce.</heading>
-        <text>This Division I may be enforced by the Department of Housing and Community Development in the manner provided in § 104 {"Duties and powers of Building Official"} of the Baltimore City Building Code.</text>
+        <text>This Division I may be enforced by the Department of Housing and Community Development in the manner provided in § 104 {"Duties and powers of Building Official"} of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-020" type="History">Ord. 21-020</annotation>
         </annotations>
@@ -3944,12 +3944,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this Division II "person" also includes, except as used in § 28-13{"Criminal penalties"}, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this Division II "person" also includes, except as used in <cite path="|general|28|1|28-13" proof="needed">§ 28-13{"Criminal penalties"}</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -4133,7 +4133,7 @@
           <text>In interpreting and applying this Division II, the following rules of interpretation apply:</text>
           <para>
             <num>(i)</num>
-            <text>those contained in Subtitles 2 and 3 of the City Code's General Provisions Article; and</text>
+            <text>those contained in Subtitles 2 and 3 of the City Code's <cite path="|general">General Provisions Article</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -4296,7 +4296,7 @@
         <para>
           <num>(b)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department may adopt rules and regulations to carry out this Division II.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department may adopt rules and regulations to carry out this Division II.</text>
         </para>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
@@ -5901,7 +5901,7 @@
         <para>
           <num>(e)</num>
           <heading>Completion of construction.</heading>
-          <text>Construction authorized by an administrative waiver granted under this section must be completed, with an occupancy permit issued under the Building Code and a use permit issued under the Zoning Code, on or before either:</text>
+          <text>Construction authorized by an administrative waiver granted under this section must be completed, with an occupancy permit issued under the <cite path="|codes|II" proof="needed">Building Code</cite> and a use permit issued under the Zoning Code, on or before either:</text>
           <para>
             <num>(1)</num>
             <text>May 4, 2017; or</text>
@@ -6407,7 +6407,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>before issuance of an occupancy permit under the Building Code and a use permit under the Zoning Code.</text>
+            <text>before issuance of an occupancy permit under the <cite path="|codes|II" proof="needed">Building Code</cite> and a use permit under the Zoning Code.</text>
           </para>
         </para>
         <annotations>
@@ -6795,7 +6795,7 @@
         <para>
           <num>(d)</num>
           <heading>Enforcement action.</heading>
-          <text>If repairs are not made or are not done properly, the Department may take any enforcement action authorized by Subtitle 28 of this article or otherwise by law.</text>
+          <text>If repairs are not made or are not done properly, the Department may take any enforcement action authorized by Subtitle 28 of <cite path="|7">this article</cite> or otherwise by law.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -7294,12 +7294,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this Division III "person" also includes, except as used in § 35-13(b){"Criminal penalties"}, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this Division III "person" also includes, except as used in <cite path="|general|35|1|35-13|(b)" proof="needed">§ 35-13(b){"Criminal penalties"}</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -7378,7 +7378,7 @@
           <text>In interpreting and applying this Division III, the following rules of interpretation apply:</text>
           <para>
             <num>(i)</num>
-            <text>those contained in Subtitles 2 and 3 of the City Code's General Provisions Article; and</text>
+            <text>those contained in Subtitles 2 and 3 of the City Code's <cite path="|general">General Provisions Article</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -7485,7 +7485,7 @@
         <para>
           <num>(b)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department may adopt rules and regulations to carry out this Division III.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department may adopt rules and regulations to carry out this Division III.</text>
         </para>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
@@ -8001,7 +8001,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>a narrative that indicates how proposed erosion and sediment control practices will be integrated with proposed stormwater management strategy using environmental site design in accordance with Division II of this article; and</text>
+            <text>a narrative that indicates how proposed erosion and sediment control practices will be integrated with proposed stormwater management strategy using environmental site design in accordance with Division II of <cite path="|7">this article</cite>; and</text>
           </para>
           <para>
             <num>(5)</num>
@@ -8995,12 +8995,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this Division IV "person" also includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this Division IV "person" also includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -9656,7 +9656,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>In cases where a proposed modification would result in removal of a portion of the existing easement, the applicant must demonstrate that the mitigation proposed meets the requirements as calculated using the state Forest Conservation Worksheet and that the mitigation proposed follows the required sequence for mitigation as listed under Subtitle 45 of Article 7, Division IV of the City Code.  A fee in lieu will only be considered as a last resort.</text>
+            <text>In cases where a proposed modification would result in removal of a portion of the existing easement, the applicant must demonstrate that the mitigation proposed meets the requirements as calculated using the state Forest Conservation Worksheet and that the mitigation proposed follows the required sequence for mitigation as listed under Subtitle 45 of <cite path="|7">Article 7</cite>, Division IV of the City Code.  A fee in lieu will only be considered as a last resort.</text>
           </para>
           <para>
             <num>(6)</num>
@@ -9795,7 +9795,7 @@
       <section>
         <num>46-1</num>
         <heading>Forest Conservation Fund established.</heading>
-        <text>There is hereby created a Baltimore City Forest Conservation Fund that meets the requirements of Natural Resources Article, §5-1610(h-l), Annotated Code of Maryland.</text>
+        <text>There is hereby created a Baltimore City Forest Conservation Fund that meets the requirements of <cite doc="Md. Code" path="gnr|5-1610">Natural Resources Article, §5-1610(h-l), Annotated Code of Maryland</cite>.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 9A, §9-1</annotation>
           <annotation doc="City of Balt., Md., Ord. 93-170" type="History">Ord. 93-170</annotation>
@@ -9961,7 +9961,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>such other criteria that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Planning Commission may set by rule or regulation.</text>
+          <text>such other criteria that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Planning Commission may set by rule or regulation.</text>
         </para>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this item (8) to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
@@ -9979,7 +9979,7 @@
       <section>
         <num>48-1</num>
         <heading>HCD to enforce.</heading>
-        <text>This Division IV may be enforced by the Department of Housing and Community Development in the manner provided in § 104 {"Duties and powers of Building Official"} of the Baltimore City Building Code.</text>
+        <text>This Division IV may be enforced by the Department of Housing and Community Development in the manner provided in § 104 {"Duties and powers of Building Official"} of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 9A, §12-1(a)</annotation>
           <annotation doc="City of Balt., Md., Ord. 93-170" type="History">Ord. 93-170</annotation>
@@ -10046,7 +10046,7 @@
     <annotations>
       <annotation type="Editor's Notes">
         <text>Ordinance 03-501 (effective March 17, 2003) established a new “Department of Transportation” {Section 1}.  The Ordinance authorizes the Director of the Department to “appoint or employ assistants and employees” and to “delegate to [them] the powers and duties that the Director considers proper” {Section 1}, and transfers to the Department, among other powers, duties, and programs, certain “programs budgeted under the Office of Transportation or the Department of Transportation” {Section 2(b)}.  Among the programs transferred was “505 - Park and Street Trees”.</text>
-        <text>Subsequently, Resolution 04-056 (ratified November 2, 2004) added City Charter Article VII, '' 114 through 116, establishing the Department of Transportation as one of the City’s Executive Departments {§ 114} and granting to it certain powers and duties over</text>
+        <text>Subsequently, Resolution 04-056 (ratified November 2, 2004) added <cite doc="City of Baltimore, Md., Charter" path="VII">City Charter Article VII</cite>, '' 114 through 116, establishing the Department of Transportation as one of the City’s Executive Departments {§ 114} and granting to it certain powers and duties over</text>
         <text>Street Construction and Maintenance {§ 116(b)}</text>
         <text>Lighting {§ 116(c)}</text>
         <text>Conduit System {§ 116(d)}</text>
@@ -10846,13 +10846,13 @@
         <num>54-2</num>
         <heading>{Repealed by Ord. 22-125}</heading>
         <annotations>
-          <annotation type="Editor's Notes">See City General Provisions Article, § 1-104, for the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”).</annotation>
+          <annotation type="Editor's Notes">See <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-104">§ 1-104</cite>, for the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”).</annotation>
         </annotations>
       </section>
       <section>
         <num>54-3</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department must adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord.19-305" type="History">Ord.19-305</annotation>
@@ -11105,7 +11105,7 @@
             <text>In this subsection:</text>
             <para>
               <num>(i)</num>
-              <text>"person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article; but</text>
+              <text>"person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>; but</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -11282,7 +11282,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code Article 1, subtitle 40 {"Environmental Control Board"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation as authorized by City Code <cite path="|1">Article 1</cite>, subtitle 40 {"Environmental Control Board"}.</text>
         </para>
         <para>
           <num>(b)</num>

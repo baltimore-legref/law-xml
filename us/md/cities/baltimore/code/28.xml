@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="28">
   <prefix>Article</prefix>
   <num>28</num>
   <heading>Taxes</heading>
@@ -39,7 +39,7 @@
       <section>
         <num>2-1</num>
         <heading>Bureau of Liens created; lien certificates established.</heading>
-        <text>The Director of Finance is hereby authorized and directed, in accordance with Article II, § (19) of the City Charter:</text>
+        <text>The Director of Finance is hereby authorized and directed, in accordance with <cite doc="City of Baltimore, Md., Charter" path="II|§(19)">Article II, § (19) of the City Charter</cite>:</text>
         <para>
           <num>(1)</num>
           <text>to establish and provide, as a part of his Department, a subdepartment or bureau, to be known as the Bureau of Liens, where there shall be collected, upon application, as hereinafter directed, and kept, a record of the kind and amount of all municipal charges and assessments affecting real estate; and</text>
@@ -293,7 +293,7 @@
           <heading>Rules and regulations.</heading>
           <para>
             <num>(1)</num>
-            <text>Notwithstanding the provisions of subsection (a) hereof, the Director of Finance is hereby authorized, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to adopt rules and regulations to establish the documentation necessary to be furnished by the taxpayer, to support a claim for refund of taxes paid as a result of an overpayment or a double payment on the taxpayers' property.</text>
+            <text>Notwithstanding the provisions of subsection (a) hereof, the Director of Finance is hereby authorized, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, to adopt rules and regulations to establish the documentation necessary to be furnished by the taxpayer, to support a claim for refund of taxes paid as a result of an overpayment or a double payment on the taxpayers' property.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -478,7 +478,7 @@
           <text>"<strong>Warning:  These charges are a lien on the property identified.  Failure to timely pay these charges can lead to sale of the lien at auction and possible foreclosure of the property identified.  Foreclosure can result in the loss of ownership of the property.</strong>"</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Subsection (a) was amended by Ordinance 20-336 {“Water Accountability and Equity Act”} to add an exception for certain water and wastewater bills.  That Ordinance was enacted on January 13, 2020, but with a delayed effective date of July 13, 2020.  Subsequently, Ordinance 20-468 {“Water Accountability ... Act – Modifications”}extended the effective date for this exception to Jan, 13, 2021.  See Editor’s Note in City Code Article 24 {“Water”}, at the end of that article’s Subtitle 2 {“Bills”} – especially the quote there from Ord. 20-468, Sections 3 and 5(e)(5).</annotation>
+          <annotation type="Editor's Notes">Subsection (a) was amended by Ordinance 20-336 {“Water Accountability and Equity Act”} to add an exception for certain water and wastewater bills.  That Ordinance was enacted on January 13, 2020, but with a delayed effective date of July 13, 2020.  Subsequently, Ordinance 20-468 {“Water Accountability ... Act – Modifications”}extended the effective date for this exception to Jan, 13, 2021.  See Editor’s Note in City Code <cite path="|24">Article 24 {“Water”}</cite>, at the end of that article’s Subtitle 2 {“Bills”} – especially the quote there from Ord. 20-468, Sections 3 and 5(e)(5).</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-411" type="History">Ord. 15-411</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
         </annotations>
@@ -836,7 +836,7 @@
       <section>
         <num>7-6</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations:</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations:</text>
         <para>
           <num>(1)</num>
           <text>to carry out the provisions of this subtitle; and</text>
@@ -896,7 +896,7 @@
           <text>To be eligible for election of installment payments under this action <em>{section}</em>, a property:</text>
           <para>
             <num>(1)</num>
-            <text>shall be liable for payment of taxes under § 5-101 {"Persons liable"} of the Tax-Property Article of the Maryland Code; and</text>
+            <text>shall be liable for payment of taxes under <cite doc="Md. Code" path="gtp|5-101">§ 5-101 {"Persons liable"} of the Tax-Property Article of the Maryland Code</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -915,7 +915,7 @@
       <section>
         <num>7A-3</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City  General Provisions Article, the Director may adopt rules and regulations to carry out the provisions of this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City  General Provisions Article</cite>, the Director may adopt rules and regulations to carry out the provisions of this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-065," type="History">Ord. 21-065,</annotation>
         </annotations>
@@ -956,7 +956,7 @@
           <text>have the deed:</text>
           <para>
             <num>(i)</num>
-            <text>scanned electronically into the database required by City Code Article 5, § 16-1 {"Record of conveyances and contracts"}; and</text>
+            <text>scanned electronically into the database required by City Code <cite path="|5|§16-1">Article 5, § 16-1 {"Record of conveyances and contracts"}</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -968,7 +968,7 @@
           <text>when recorded, retain the original deed in the Comptroller's office.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This section was amended by Ordinance 21-032, effective January 10, 2022, to coordinate with the online database that will be required by that Ordinance.  Cf. Code Article 5, § 16-1, and accompanying Editor’s Note.</annotation>
+          <annotation type="Editor's Notes">This section was amended by Ordinance 21-032, effective January 10, 2022, to coordinate with the online database that will be required by that Ordinance.  Cf. Code <cite path="|5">Article 5</cite>, § 16-1, and accompanying Editor’s Note.</annotation>
           <annotation type="Prior Codifications">City Code, 1893, art. 50, §67</annotation>
           <annotation type="Prior Codifications">1927, art. 46, §76</annotation>
           <annotation type="Prior Codifications">1950, art. 37, §45</annotation>
@@ -1136,7 +1136,7 @@
         <para>
           <num>(e)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance shall adopt rules and regulations to carry out this section, including application and supporting documentation procedures.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance shall adopt rules and regulations to carry out this section, including application and supporting documentation procedures.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -1356,7 +1356,7 @@
               </para>
               <para>
                 <num>(B)</num>
-                <text>an administrative review of a filed appeal has been decided in favor of the Building Official, as defined in the City Building, Fire, and Related Codes Article;</text>
+                <text>an administrative review of a filed appeal has been decided in favor of the Building Official, as defined in the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>;</text>
               </para>
             </para>
           </para>
@@ -1410,7 +1410,7 @@
         <text>
           <strong>§ 8.1-5.  Rules and regulations.</strong>
         </text>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner of Housing and Community Development may adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commissioner of Housing and Community Development may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-393" type="History">Ord. 20-393</annotation>
@@ -1875,7 +1875,7 @@
           <heading>In general.</heading>
           <para>
             <num>(1)</num>
-            <text>After obtaining and recording an in rem foreclosure judgment, the City may retain title to the property or sell the property, pursuant to City Charter, Article V, § 5, and City Code, Article 15, § 2-7, to advance the City's blight elimination goals.</text>
+            <text>After obtaining and recording an in rem foreclosure judgment, the City may retain title to the property or sell the property, pursuant to City Charter, Article V, § 5, and City Code, <cite path="|15|§2-7">Article 15, § 2-7</cite>, to advance the City's blight elimination goals.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1980,7 +1980,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Provided that nothing in this section shall be deemed to limit the application of the exemption granted by Article 37, § 50(a) of the Baltimore City Code of 1950, as said subsection was ordained by Ordinance 58-1340, to the extent that the same would otherwise be applicable.</text>
+            <text>Provided that nothing in this section shall be deemed to limit the application of the exemption granted by <cite path="|37|§50|(a)" proof="needed">Article 37, § 50(a)</cite> of the Baltimore City Code of 1950, as said subsection was ordained by Ordinance 58-1340, to the extent that the same would otherwise be applicable.</text>
           </para>
         </para>
         <annotations>
@@ -2143,7 +2143,7 @@
         <para>
           <num>(b)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance, after consultation with the Housing Commissioner, must adopt rules and regulations to carry out the provisions of this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance, after consultation with the Housing Commissioner, must adopt rules and regulations to carry out the provisions of this section.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2255,7 +2255,7 @@
         <para>
           <num>(b)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out the provisions of this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations to carry out the provisions of this section.</text>
         </para>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this subsection to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
@@ -2303,7 +2303,7 @@
         <para>
           <num>(b)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance, after consultation with the Director of the Office of Sustainability, may adopt rules and regulations to carry out the provisions of this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance, after consultation with the Director of the Office of Sustainability, may adopt rules and regulations to carry out the provisions of this section.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2593,7 +2593,7 @@
         <para>
           <num>(j)</num>
           <heading>Rules. regulations, and procedures.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Finance Director shall adopt rules, regulations, and procedures as necessary to carry out this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Finance Director shall adopt rules, regulations, and procedures as necessary to carry out this section.</text>
         </para>
         <para>
           <num>(k)</num>
@@ -2668,7 +2668,7 @@
         <para>
           <num>(c)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out the provisions of this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations to carry out the provisions of this section.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -2773,7 +2773,7 @@
         <para>
           <num>(f)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Estimates may adopt rules and regulations to carry out the provisions of this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Estimates may adopt rules and regulations to carry out the provisions of this section.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -2871,7 +2871,7 @@
           <heading>Rules and regulations.</heading>
           <para>
             <num>(1)</num>
-            <text>Subject to the approval of the Board of Estimates, and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance shall adopt regulations to carry out the provisions of this section.</text>
+            <text>Subject to the approval of the Board of Estimates, and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance shall adopt regulations to carry out the provisions of this section.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2992,19 +2992,19 @@
           <heading>Qualifications — compliance with Codes.</heading>
           <para>
             <num>(1)</num>
-            <text>To continue eligibility for a tax credit under this section, a dwelling must remain in compliance with the City Property Maintenance Code.</text>
+            <text>To continue eligibility for a tax credit under this section, a dwelling must remain in compliance with the City <cite path="|codes|VII" proof="needed">Property Maintenance Code</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>If a dwelling owned by a person who has received a tax credit under this section is found to be in violation of the City Property Maintenance Code, the property owner is not eligible for any further tax credit under this section until the dwelling is determined again to be in compliance with that Code.</text>
+            <text>If a dwelling owned by a person who has received a tax credit under this section is found to be in violation of the City <cite path="|codes|VII" proof="needed">Property Maintenance Code</cite>, the property owner is not eligible for any further tax credit under this section until the dwelling is determined again to be in compliance with that Code.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>A dwelling that is again brought into compliance is eligible for a tax credit at the rate it would have been eligible before the violation of the Property Maintenance Code.</text>
+            <text>A dwelling that is again brought into compliance is eligible for a tax credit at the rate it would have been eligible before the violation of the <cite path="|codes|VII" proof="needed">Property Maintenance Code</cite>.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>In addition to compliance with the Property Maintenance Code, the homeowner shall comply with all other parts of the City Building, Fire, and Related Codes Article, including their permit requirements for improvements.</text>
+            <text>In addition to compliance with the <cite path="|codes|VII" proof="needed">Property Maintenance Code</cite>, the homeowner shall comply with all other parts of the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>, including their permit requirements for improvements.</text>
           </para>
         </para>
         <para>
@@ -3047,7 +3047,7 @@
           <text>The Director of Finance may:</text>
           <para>
             <num>(1)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations  necessary to implement the provisions of this section;</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations  necessary to implement the provisions of this section;</text>
           </para>
         </para>
         <annotations>
@@ -3147,7 +3147,7 @@
         <para>
           <num>(h)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out the provisions of this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations to carry out the provisions of this section.</text>
         </para>
         <para>
           <num>(i)</num>
@@ -3262,7 +3262,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>For purposes of this calculation, the full cash value of the property is the full cash value before phase in, as determined by the State Department of Assessments and Taxation through the assessment procedures established under Tax-Property Article, Title 8, of the Maryland Code.</text>
+              <text>For purposes of this calculation, the full cash value of the property is the full cash value before phase in, as determined by the State Department of Assessments and Taxation through the assessment procedures established under <cite doc="Md. Code" path="gtp">Tax-Property Article, Title 8, of the Maryland Code</cite>.</text>
             </para>
           </para>
           <para>
@@ -3282,7 +3282,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>For purposes of this calculation, the full cash value of the property shall be determined by an appraisal of the property before commencement and after completion of eligible improvements by a professional appraiser selected by the City and licensed under Business Occupations and Professions Article, Title 16, Subtitle 3, of the Maryland Code.</text>
+              <text>For purposes of this calculation, the full cash value of the property shall be determined by an appraisal of the property before commencement and after completion of eligible improvements by a professional appraiser selected by the City and licensed under <cite doc="Md. Code" path="gbo">Business Occupations and Professions Article, Title 16, Subtitle 3, of the Maryland Code</cite>.</text>
             </para>
           </para>
           <para>
@@ -3402,7 +3402,7 @@
           <text>A credit under this section:</text>
           <para>
             <num>(1)</num>
-            <text>is subject to eligibility requirements no less stringent than those applicable to credits authorized under Tax-Property Article § 9-204, of the Maryland Code;</text>
+            <text>is subject to eligibility requirements no less stringent than those applicable to credits authorized under <cite doc="Md. Code" path="gtp|9-204">Tax-Property Article § 9-204, of the Maryland Code</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3427,7 +3427,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>ensure that the property for which the credit was granted is in full compliance with the City Building, Fire, and Related Codes Article; and</text>
+            <text>ensure that the property for which the credit was granted is in full compliance with the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>; and</text>
           </para>
           <para>
             <num>(3)</num>
@@ -3465,7 +3465,7 @@
           <text>The Finance Director, after consultation with the Director of Planning,  may:</text>
           <para>
             <num>(1)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section;</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3613,7 +3613,7 @@
         <para>
           <num>(g)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to implement the provisions of this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations to implement the provisions of this section.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -3646,15 +3646,15 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>"Brownfields Incentive Fund" means the Brownfields Revitalization Incentive Fund established under Article 83A, § 3-904 of the Maryland Code.</text>
+            <text>"Brownfields Incentive Fund" means the Brownfields Revitalization Incentive Fund established under <cite doc="Md. Code" path="83A|3-904">Article 83A, § 3-904 of the Maryland Code</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>"Brownfields Incentive Program" means the Brownfields Revitalization Incentive Program established under Article 83A, Title 3, Subtitle 9 of the Maryland Code.</text>
+            <text>"Brownfields Incentive Program" means the Brownfields Revitalization Incentive Program established under <cite doc="Md. Code" path="83A">Article 83A, Title 3, Subtitle 9 of the Maryland Code</cite>.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>"Brownfields site" means a qualified Brownfields site, as defined in Article 83A, § 3-901(d) of the Maryland Code.</text>
+            <text>"Brownfields site" means a qualified Brownfields site, as defined in <cite doc="Md. Code" path="83A|3-901">Article 83A, § 3-901(d) of the Maryland Code</cite>.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -3746,7 +3746,7 @@
           <text>The Director of Finance may:</text>
           <para>
             <num>(1)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out the provisions of this section;</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out the provisions of this section;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3770,7 +3770,7 @@
         <para>
           <num>(a)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations to carry out this section.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3801,7 +3801,7 @@
         <para>
           <num>(a)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations to carry out this section.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3836,7 +3836,7 @@
           <para>
             <num>(2)</num>
             <heading>Eligible area.</heading>
-            <text>"Eligible area" means any area that is eligible for designation as an eligible neighborhood under Article 83B, §§ 4-201 through 4-208 of the Maryland Code.</text>
+            <text>"Eligible area" means any area that is eligible for designation as an eligible neighborhood under <cite doc="Md. Code" path="83B">Article 83B, §§ 4-201 through 4-208 of the Maryland Code</cite>.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -3941,7 +3941,7 @@
             <text>The Director of Finance may:</text>
             <para>
               <num>(i)</num>
-              <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section;</text>
+              <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -4159,7 +4159,7 @@
             <text>The Director may:</text>
             <para>
               <num>(1)</num>
-              <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to implement the provisions of this section;</text>
+              <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to implement the provisions of this section;</text>
             </para>
             <para>
               <num>(2)</num>
@@ -4285,7 +4285,7 @@
           <text>The Director may:</text>
           <para>
             <num>(1)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section;</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4343,7 +4343,7 @@
           <heading>Rules and regulations; administration.</heading>
           <para>
             <num>(1)</num>
-            <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance shall adopt rules and regulations necessary or appropriate to carry out the provisions of this section.</text>
+            <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance shall adopt rules and regulations necessary or appropriate to carry out the provisions of this section.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4390,7 +4390,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>in which dwelling, except to the extent specifically required  by City Code Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}, none of the rental units are subject to governmental restrictions on the amount of rent charged or on the tenant's income level.</text>
+              <text>in which dwelling, except to the extent specifically required  by City Code <cite path="|13">Article 13</cite>, Subtitle 2B {"Inclusionary Housing Requirements"}, none of the rental units are subject to governmental restrictions on the amount of rent charged or on the tenant's income level.</text>
             </para>
           </para>
           <para>
@@ -4620,7 +4620,7 @@
             <text>The property owner shall ensure that, during the credit period, the project for which the credit was granted is:</text>
             <para>
               <num>(i)</num>
-              <text>in full compliance with the City Building, Fire, and Related Codes Article;</text>
+              <text>in full compliance with the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -4659,7 +4659,7 @@
           <text>The Director of Finance may:</text>
           <para>
             <num>(1)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out the provisions of this section, including procedures for granting partial credits for eligibility for less than a full taxable year;</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out the provisions of this section, including procedures for granting partial credits for eligibility for less than a full taxable year;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4724,7 +4724,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>in which dwelling, except to the extent specifically required by City Code Article 13, Subtitle 2B {"Inclusionary Housing Requirements"}, none of the rental units are subject to governmental restrictions on the amount of rent charged or on the tenant's income level.</text>
+              <text>in which dwelling, except to the extent specifically required by City Code <cite path="|13">Article 13</cite>, Subtitle 2B {"Inclusionary Housing Requirements"}, none of the rental units are subject to governmental restrictions on the amount of rent charged or on the tenant's income level.</text>
             </para>
           </para>
           <para>
@@ -4879,7 +4879,7 @@
             <text>The property owner shall ensure that, during the credit period, the project for which the credit was granted is:</text>
             <para>
               <num>(i)</num>
-              <text>in full compliance with the City Building, Fire, and Related Codes Article;</text>
+              <text>in full compliance with the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -4934,7 +4934,7 @@
           <text>The Director of Finance may:</text>
           <para>
             <num>(1)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out the provisions of this section, including procedures for granting partial credits for eligibility for less than a full taxable year;</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out the provisions of this section, including procedures for granting partial credits for eligibility for less than a full taxable year;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5020,7 +5020,7 @@
             <text>"Vacant dwelling" means residential real property that:</text>
             <para>
               <num>(i)</num>
-              <text>contains no more than 4 dwelling units as defined in § 202.2 of the Baltimore City Building Code; and</text>
+              <text>contains no more than 4 dwelling units as defined in § 202.2 of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>; and</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -5104,7 +5104,7 @@
           <heading>Rules and regulations.</heading>
           <para>
             <num>(1)</num>
-            <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance shall adopt rules and regulations to carry out the provisions of this section.</text>
+            <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance shall adopt rules and regulations to carry out the provisions of this section.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5160,7 +5160,7 @@
           <para>
             <num>(2)</num>
             <heading>Sustainability Office.</heading>
-            <text>"Sustainability Office" means the Baltimore City Office of Sustainability, established by City Code Article 1, Subtitle 34.</text>
+            <text>"Sustainability Office" means the Baltimore City Office of Sustainability, established by City Code <cite path="|1">Article 1</cite>, Subtitle 34.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -5208,7 +5208,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>must be maintained in full compliance with the City Building, Fire, and Related Codes Article; and</text>
+              <text>must be maintained in full compliance with the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>; and</text>
             </para>
             <para>
               <num>(iv)</num>
@@ -5345,7 +5345,7 @@
           <text>The Director of Finance, after consultation with the Sustainability Office:</text>
           <para>
             <num>(1)</num>
-            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section, including:</text>
+            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section, including:</text>
             <para>
               <num>(i)</num>
               <text>the procedures, forms, and documentation required to apply for the credit and to periodically evidence continuing eligibility for the credit; and</text>
@@ -5646,7 +5646,7 @@
           <text>The Finance Director:</text>
           <para>
             <num>(1)</num>
-            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section and to periodically verify continuing eligibility for the credit;</text>
+            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section and to periodically verify continuing eligibility for the credit;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5845,7 +5845,7 @@
           <text>The Finance Director:</text>
           <para>
             <num>(1)</num>
-            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section and to periodically verify continuing eligibility for the credit;</text>
+            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section and to periodically verify continuing eligibility for the credit;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6047,7 +6047,7 @@
           <text>The Finance Director:</text>
           <para>
             <num>(1)</num>
-            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section and to periodically verify continuing eligibility for the credit;</text>
+            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section and to periodically verify continuing eligibility for the credit;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6279,7 +6279,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>the City Building, Fire, and Related Codes Article.</text>
+              <text>the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite>.</text>
             </para>
           </para>
         </para>
@@ -6289,7 +6289,7 @@
           <text>The Finance Director, after consultation with the Baltimore Development Corporation:</text>
           <para>
             <num>(1)</num>
-            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section and to periodically evidence continuing eligibility for the credit;</text>
+            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section and to periodically evidence continuing eligibility for the credit;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6495,7 +6495,7 @@
           <text>The Director of the Department of Finance or the Director's designee:</text>
           <para>
             <num>(1)</num>
-            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section; and</text>
+            <text>shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this section, including procedures, forms, and documentation required to apply for the credit authorized by this section; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -7126,7 +7126,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>transfers of property which in the hands of the transferee, immediately after such transfer, shall be entitled to exemption from taxation pursuant to Article 81, § 9 of the Annotated Code of Maryland (1957) <em>{cf. Tax-Property Article, Title 7, Subtitle 1}</em>;</text>
+          <text>transfers of property which in the hands of the transferee, immediately after such transfer, shall be entitled to exemption from taxation pursuant to <cite doc="Md. Code" path="81|9">Article 81, § 9 of the Annotated Code of Maryland</cite> (1957) <em>{cf. <cite doc="Md. Code" path="gtp">Tax-Property Article, Title 7, Subtitle 1</cite>}</em>;</text>
         </para>
         <para>
           <num>(7)</num>
@@ -7241,7 +7241,7 @@
           <text>In order to properly carry out and enforce the provisions of this subtitle and to collect the tax levied and imposed hereunder, the Director of Finance is hereby authorized and empowered:</text>
           <para>
             <num>(1)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as he may deem necessary or proper:</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as he may deem necessary or proper:</text>
             <para>
               <num>(i)</num>
               <text>to carry out and enforce the provisions of this subtitle;</text>
@@ -7317,7 +7317,7 @@
         <para>
           <num>(b)</num>
           <heading>Consideration by BMZA.</heading>
-          <text>Upon reasonable notice in accordance with its rules and the provisions of the Baltimore City Charter, the Board:</text>
+          <text>Upon reasonable notice in accordance with its rules and the provisions of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>, the Board:</text>
           <para>
             <num>(1)</num>
             <text>shall hold a hearing; and</text>
@@ -7419,7 +7419,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>An excise tax, to be known as the Yield Tax, shall be levied and collected based upon the tax yield from any transaction for which recordation taxes and transfer taxes are due pursuant to Subtitles 16 and 17 of this article.</text>
+          <text>An excise tax, to be known as the Yield Tax, shall be levied and collected based upon the tax yield from any transaction for which recordation taxes and transfer taxes are due pursuant to Subtitles 16 and 17 of <cite path="|28">this article</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -7453,7 +7453,7 @@
         <para>
           <num>(a)</num>
           <heading>Transactions assessed.</heading>
-          <text>The Yield Tax shall be assessed on those transactions whose value exceeds $1 million, as determined by Subtitles 16 and 17 of this article for the purposes of calculating the recordation and transfer taxes respectively.</text>
+          <text>The Yield Tax shall be assessed on those transactions whose value exceeds $1 million, as determined by Subtitles 16 and 17 of <cite path="|28">this article</cite> for the purposes of calculating the recordation and transfer taxes respectively.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -7465,11 +7465,11 @@
             <text>The rate of tax shall be as follows:</text>
             <para>
               <num>(1)</num>
-              <text>15% on the amount collected under Subtitle 16 of this article; and</text>
+              <text>15% on the amount collected under Subtitle 16 of <cite path="|28">this article</cite>; and</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>40% on the amount collected under Subtitle 17 of this article.</text>
+              <text>40% on the amount collected under Subtitle 17 of <cite path="|28">this article</cite>.</text>
             </para>
           </annotation>
           <annotation doc="City of Balt., Md., Ord. 18-215" type="History">Ord. 18-215</annotation>
@@ -7518,7 +7518,7 @@
         <text>In order to properly carry out and enforce the provisions of this subtitle and to collect the tax levied and imposed by this subtitle, the Director of Finance is hereby authorized and empowered:</text>
         <para>
           <num>(1)</num>
-          <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as he may deem necessary or proper:</text>
+          <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as he may deem necessary or proper:</text>
           <para>
             <num>(i)</num>
             <text>to carry out and enforce the provisions of this subtitle;</text>
@@ -7730,7 +7730,7 @@
           <para>
             <num>(5)</num>
             <heading>Qualifying residing artist.</heading>
-            <text>"Qualifying residing artist" has the meaning stated in Article 83A, § 4-701 of the Maryland Code.</text>
+            <text>"Qualifying residing artist" has the meaning stated in <cite doc="Md. Code" path="83A|4-701">Article 83A, § 4-701 of the Maryland Code</cite>.</text>
           </para>
         </para>
         <para>
@@ -7761,7 +7761,7 @@
           <text>The Director may:</text>
           <para>
             <num>(1)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to implement the provisions of this section; and</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to implement the provisions of this section; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -7781,12 +7781,12 @@
         <para>
           <num>(a)</num>
           <heading>"Simulated slot machine" defined.</heading>
-          <text>In this section, "simulated slot machine" has the meaning stated in City Code Article 15 {"Licensing and Regulation"}, § 2-11 {"Definitions"}.</text>
+          <text>In this section, "simulated slot machine" has the meaning stated in City Code <cite path="|15|§2-11">Article 15 {"Licensing and Regulation"}, § 2-11 {"Definitions"}</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Exemption granted.</heading>
-          <text>The tax imposed by this subtitle does not apply to the gross receipts from a simulated slot machine that is licensed and registered as required by City Code Article 15 {"Licensing and Regulation"}, Subtitle 2 {"Amusements"}, Part 3 {"Amusement Devices"}.</text>
+          <text>The tax imposed by this subtitle does not apply to the gross receipts from a simulated slot machine that is licensed and registered as required by City Code <cite path="|15">Article 15 {"Licensing and Regulation"}</cite>, Subtitle 2 {"Amusements"}, Part 3 {"Amusement Devices"}.</text>
         </para>
         <annotations>
           <annotation type="Editor's Notes">This section was added by Ordinance 10-337.  Section 4 of Ord. 10-337, provides that the Ordinance “takes effect on January 1, 2011, or, if later, on the 60th day after notice is given to the State Comptroller” of the enactment of this amendment to the City Admissions and Amusement Tax.</annotation>
@@ -8136,7 +8136,7 @@
       <section>
         <num>20-11</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations as necessary or appropriate to:</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules and regulations as necessary or appropriate to:</text>
         <para>
           <num>(1)</num>
           <text>govern the payment, collection, and accounting of the tax imposed by this subtitle;</text>
@@ -8226,7 +8226,7 @@
         <para>
           <num>(e)</num>
           <heading>Short-term residential rental (and related terms).</heading>
-          <text>"Short-term residential rental" and related terms (such as "booking transaction", "dwelling unit", "host", "hosting platform", and "transient guest") have the respective meanings stated in City Code Article 15, Subtitle 48 {"Short-Term Residential Rentals"}.</text>
+          <text>"Short-term residential rental" and related terms (such as "booking transaction", "dwelling unit", "host", "hosting platform", and "transient guest") have the respective meanings stated in City Code <cite path="|15">Article 15</cite>, Subtitle 48 {"Short-Term Residential Rentals"}.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -8460,7 +8460,7 @@
         <para>
           <num>(a)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance is hereby authorized to adopt or promulgate such rules and regulations as he may deem necessary or proper:</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance is hereby authorized to adopt or promulgate such rules and regulations as he may deem necessary or proper:</text>
           <para>
             <num>(1)</num>
             <text>pertaining to the payment, collection, and accounting of the taxes levied and imposed by this subtitle; or</text>
@@ -8569,12 +8569,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person"also  includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person"also  includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -8700,7 +8700,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>For valet parking services subject to City Code Article 31, Subtitle 14 {"Valet Parking"}, the operator of the valet parking service must collect the tax from the host or the person seeking to park the vehicle, as the case may be.</text>
+            <text>For valet parking services subject to City Code <cite path="|31">Article 31</cite>, Subtitle 14 {"Valet Parking"}, the operator of the valet parking service must collect the tax from the host or the person seeking to park the vehicle, as the case may be.</text>
           </para>
         </para>
         <para>
@@ -8835,7 +8835,7 @@
       <section>
         <num>22-8</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
         <para>
           <num>(1)</num>
           <text>govern the payment, collection, and accounting of the tax imposed by this subtitle;</text>
@@ -9401,7 +9401,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
           <para>
             <num>(6)</num>
             <text>govern the payment, collection, and accounting of the tax imposed by this subtitle;</text>
@@ -9672,7 +9672,7 @@
         <section>
           <num>25-8</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate:</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations as necessary or appropriate:</text>
           <para>
             <num>(1)</num>
             <text>to insure the payment, collection, and accounting of the tax imposed by this Part 1; and</text>
@@ -10064,7 +10064,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations to assist in making that determination.</text>
+              <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules and regulations to assist in making that determination.</text>
             </para>
           </para>
           <para>
@@ -10135,7 +10135,7 @@
         <section>
           <num>25-21</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate:</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations as necessary or appropriate:</text>
           <para>
             <num>(1)</num>
             <text>to insure the payment, collection, and accounting of the tax imposed by this Part 2; and</text>
@@ -10594,7 +10594,7 @@
       <section>
         <num>27-11</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, Director may adopt rules and regulations as necessary or appropriate to:</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, Director may adopt rules and regulations as necessary or appropriate to:</text>
         <para>
           <num>(1)</num>
           <text>govern the payment, collection, and accounting of the tax imposed by this subtitle;</text>
@@ -10669,7 +10669,7 @@
         <para>
           <num>(d)</num>
           <heading>Controlled dangerous substance.</heading>
-          <text>"Controlled dangerous substances" or "controlled substances" are those defined in Article 27, § 277 of the Maryland Code.</text>
+          <text>"Controlled dangerous substances" or "controlled substances" are those defined in <cite doc="Md. Code" path="27|277">Article 27, § 277 of the Maryland Code</cite>.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -10771,7 +10771,7 @@
       <section>
         <num>28-4</num>
         <heading>Exemptions.</heading>
-        <text>This subtitle does not apply to sales, use, storage, or consumption by any person who registers under or complies with Article 27, § 281 of the Maryland Code, or any person who otherwise complies with that section of the Code.  The burden of proof of an exemption is upon the person claiming it.</text>
+        <text>This subtitle does not apply to sales, use, storage, or consumption by any person who registers under or complies with <cite doc="Md. Code" path="27|281">Article 27, § 281 of the Maryland Code</cite>, or any person who otherwise complies with that section of the Code.  The burden of proof of an exemption is upon the person claiming it.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §79</annotation>
           <annotation doc="City of Balt., Md., Ord. 86-687" type="History">Ord. 86-687</annotation>
@@ -11129,7 +11129,7 @@
       <section>
         <num>28-15</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may promulgate such rules, regulations, and procedures as are necessary or appropriate to administer this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may promulgate such rules, regulations, and procedures as are necessary or appropriate to administer this subtitle.</text>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §87(1st sen.)</annotation>
@@ -11434,7 +11434,7 @@
       <section>
         <num>29-11</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations as necessary or appropriate to:</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules and regulations as necessary or appropriate to:</text>
         <para>
           <num>(1)</num>
           <text>govern the payment, collection, and accounting of the tax imposed by this subtitle;</text>
@@ -11465,7 +11465,7 @@
         <num>29-12</num>
         <heading>{Repealed by Ord. 22-125}</heading>
         <annotations>
-          <annotation type="Editor's Notes">See City General Provisions Article, § 1-214, for the Code-wide standard for severability.</annotation>
+          <annotation type="Editor's Notes">See <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>, for the Code-wide standard for severability.</annotation>
         </annotations>
       </section>
       <section>
@@ -11622,7 +11622,7 @@
         <para>
           <num>(b)</num>
           <heading>Selection of Administrator.</heading>
-          <text>Subject to the approval of the Board of Estimates and to any applicable requirements imposed by or adopted under City Charter Article VI, § 11 {"Procurement"}, the Finance Director, in consultation with the Baltimore City Office of Sustainability, shall contract for a Program Administrator, either:</text>
+          <text>Subject to the approval of the Board of Estimates and to any applicable requirements imposed by or adopted under <cite doc="City of Baltimore, Md., Charter" path="VI|§11">City Charter Article VI, § 11</cite> {"Procurement"}, the Finance Director, in consultation with the Baltimore City Office of Sustainability, shall contract for a Program Administrator, either:</text>
           <para>
             <num>(1)</num>
             <text>by expanding the scope of an existing municipal contract vehicle;</text>
@@ -11679,7 +11679,7 @@
         <para>
           <num>(a)</num>
           <heading>Adoption.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Finance Director, in consultation with the Program Administrator and the Baltimore City Office of Sustainability, shall adopt rules and regulations to carry out this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Finance Director, in consultation with the Program Administrator and the Baltimore City Office of Sustainability, shall adopt rules and regulations to carry out this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -12032,7 +12032,7 @@
           <heading>Default.</heading>
           <para>
             <num>(1)</num>
-            <text>If a property owner defaults on a surcharge, the Finance Director shall collect the surcharge as a tax lien, through the tax sale process, in a manner similar to other property tax assessments with respect to any penalties, fees, remedies, and lien priorities authorized under the State Tax-Property Article, Title 14, Subtitle 8.</text>
+            <text>If a property owner defaults on a surcharge, the Finance Director shall collect the surcharge as a tax lien, through the tax sale process, in a manner similar to other property tax assessments with respect to any penalties, fees, remedies, and lien priorities authorized under the <cite doc="Md. Code" path="gtp">State Tax-Property Article, Title 14, Subtitle 8</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -12064,7 +12064,7 @@
       <num>31</num>
       <heading>Dockless Vehicles</heading>
       <annotations>
-        <annotation type="Editor's Notes">City Code Article 31, Subtitle 38 (providing for the regulation of “dockless vehicles”) and this Article 28, Subtitle 31 (imposing an excise tax on “dockless vehicles for hire”) were both enacted by Ordinance 19-251 on May 6, 2019.  Section 3 of that Ordinance provided for Art. 31, § 38-3, {“Rules and regulations”} to become effective on “the date of enactment”.  Section 4, in turn, provides that the rest of Ord. 19-251 “takes effect on the effective date of the rules and regulations adopted ... pursuant to ... Article 31, ... § 38-3”.  The effective date of these rules and regulations – and, thus, the effective date of this subtitle – was July 5, 2019.</annotation>
+        <annotation type="Editor's Notes">City Code <cite path="|31">Article 31</cite>, Subtitle 38 (providing for the regulation of “dockless vehicles”) and <cite path="|28">this </cite><cite path="|28">Article 28</cite>, Subtitle 31 (imposing an excise tax on “dockless vehicles for hire”) were both enacted by Ordinance 19-251 on May 6, 2019.  Section 3 of that Ordinance provided for Art. 31, § 38-3, {“Rules and regulations”} to become effective on “the date of enactment”.  Section 4, in turn, provides that the rest of Ord. 19-251 “takes effect on the effective date of the rules and regulations adopted ... pursuant to ... <cite path="|31">Article 31</cite>, ... § 38-3”.  The effective date of these rules and regulations – and, thus, the effective date of this subtitle – was July 5, 2019.</annotation>
       </annotations>
       <section>
         <num>31-1</num>
@@ -12082,12 +12082,12 @@
         <para>
           <num>(c)</num>
           <heading>Dockless vehicle for hire.</heading>
-          <text>"Dockless vehicle for hire" has the meaning stated in City Code Article 31, § 38-1(c) {"Definitions: Dockless vehicle for hire"}.</text>
+          <text>"Dockless vehicle for hire" has the meaning stated in City Code <cite path="|31|§38-1|(c)">Article 31, § 38-1(c) {"Definitions: Dockless vehicle for hire"}</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
           <heading>Provider.</heading>
-          <text>"Provider" has the meaning stated in City Code Article 31, § 38-1(h) {"Definitions: Provider"}.</text>
+          <text>"Provider" has the meaning stated in City Code <cite path="|31|§38-1|(h)">Article 31, § 38-1(h) {"Definitions: Provider"}</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 19-251" type="History">Ord. 19-251</annotation>
@@ -12136,7 +12136,7 @@
       <section>
         <num>31-5</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-251" type="History">Ord. 19-251</annotation>
@@ -12162,7 +12162,7 @@
         <para>
           <num>(b)</num>
           <heading>Dealer.</heading>
-          <text>"Dealer" has the meaning stated in City Code Article 7, § 62-1(b) {"Definitions: Dealer"}.</text>
+          <text>"Dealer" has the meaning stated in City Code <cite path="|7|§62-1|(b)">Article 7, § 62-1(b) {"Definitions: Dealer"}</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -12180,7 +12180,7 @@
           <para>
             <num>(2)</num>
             <heading>Inclusions.</heading>
-            <text>"Checkout bag" includes a compostable plastic bag that meets the standards described in City Code Article 7, § 62-1(c)(2) {"Definitions: Plastic checkout bag"}.</text>
+            <text>"Checkout bag" includes a compostable plastic bag that meets the standards described in City Code <cite path="|7|§62-1|(c)|(2)">Article 7, § 62-1(c)(2) {"Definitions: Plastic checkout bag"}</cite>.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -12240,7 +12240,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>a "plastic checkout bag" described in City Code, Article 7, § 62-1(c)(1) {"Definitions: Plastic checkout bag"}.</text>
+              <text>a "plastic checkout bag" described in City Code, <cite path="|7|§62-1|(c)|(1)">Article 7, § 62-1(c)(1) {"Definitions: Plastic checkout bag"}</cite>.</text>
             </para>
           </para>
         </para>
@@ -12374,7 +12374,7 @@
       <section>
         <num>32-8</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-337" type="History">Ord. 20-337</annotation>
