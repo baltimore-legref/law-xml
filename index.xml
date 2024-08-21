@@ -15,4 +15,8 @@
   </meta>
   <xi:include href="./us/md/cities/baltimore/charter.xml"/>
   <xi:include href="./us/md/cities/baltimore/code/index.xml"/>
+  <!-- <collection name="us/md/cities/baltimore/ordinances">
+    <heading>Ordinances</heading>
+    <xi:include href="./us/md/cities/baltimore/ordinances/2024/index.xml"/>
+  </collection> -->
 </library>
