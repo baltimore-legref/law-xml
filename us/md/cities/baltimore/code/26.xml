@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Survey Authority</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Right of entry.</heading>
       <text>Civil engineers and surveyors, and their assistants, when they are in the employ of the Mayor and City Council of Baltimore, shall have the right to enter upon any private lands or property for the purpose of making surveys, running lines of levels, or obtaining any needful information or data for the preparation of plans, reports, or new legislation necessary for any proposed public sewerage system,  water work, establishment of corporate boundaries, or any extension of the same, highways or improvements thereto, or any public undertaking.</text>
@@ -19,6 +20,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Setting landmarks.</heading>
       <text>Civil engineers and surveyors, and their assistants, when acting under the authority of § 1-1 of this subtitle:</text>
@@ -38,6 +40,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Not to be impeded.</heading>
       <para>
@@ -67,9 +70,10 @@
     </section>
     <section>
       <num>1-4 to 1-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Authority of DoT.</heading>
       <text>The Department of Transportation has full power and authority:</text>
@@ -95,6 +99,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-7</num>
       <heading>At owner's request.</heading>
       <text>In any and all cases where this work is done at the request of any property owner, other than the Mayor and City Council of Baltimore:</text>
@@ -116,6 +121,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-8</num>
       <heading>Record of lines.</heading>
       <text>The Department of Transportation shall keep in its files an official, signed record of every line that is ascertained, fixed, or marked on the ground, in exercise of the power and authority granted by this subtitle.</text>
@@ -133,6 +139,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-9</num>
       <heading>Disturbing landmarks.</heading>
       <text>Anyone who unlawfully removes, mutilates, or in any manner disturbs any of the landmarks, monuments, survey points, or markers established throughout the City of Baltimore by the Department of Transportation or any City official, department, bureau, board, commission, or other City agency for the purpose of fixing and marking any elevation, line, or lines pertaining to the municipal survey system or to the location of streets, lanes, and alleys, or to any of the lots or other locations within the City, is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $100 for each offense.</text>
@@ -153,6 +160,7 @@
     <num>2</num>
     <heading>Geodetic and Topographical Surveys</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Duties of DoT.</heading>
       <text>The Department of Transportation shall maintain, extend, and expand the system for precise control of horizontal and vertical surveys, which system was established and installed by a Board of Commissioners authorized by, and acting pursuant to Ordinance 1893-098.  This system shall be known as the Baltimore Survey Control System.</text>
@@ -169,6 +177,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Triangulation stations, etc.</heading>
       <text>In maintaining, extending, and expanding the Baltimore Survey Control System, the Department of Transportation may:</text>
@@ -198,6 +207,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Records.</heading>
       <para>
@@ -220,6 +230,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-4</num>
       <heading>Plats and maps - Preparation.</heading>
       <text>The Department of Transportation shall prepare and maintain original plats, maps, and atlas sheets on which the physical characteristics of the City of Baltimore are delineated, in the manner and form determined by the Director of Transportation.</text>
@@ -233,6 +244,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-5</num>
       <heading>Plats and maps - Copies.</heading>
       <para>
@@ -262,6 +274,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-6</num>
       <heading>Plats and maps - Official Map.</heading>
       <para>
@@ -305,6 +318,7 @@
     <num>3</num>
     <heading>Opening, Widening, Closing Streets</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Record of benefits, damages.</heading>
       <text>The Department of Transportation shall keep a record of the proceedings pertaining to the assessment of the amounts to be paid by or to any person for benefits derived, or damage sustained, for the opening, extending, widening, straightening, grading, or closing of any street or alley or part thereof in Baltimore City, which the Mayor and City Council shall hereafter by ordinance direct the Department of Transportation to open, extend, widen, straighten, grade, or close, in a book provided by the Department, and in such form as the City Solicitor may subscribe.</text>
@@ -322,6 +336,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Notice of proposed ordinance.</heading>
       <para>
@@ -409,6 +424,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Notice of proposed action.</heading>
       <text>Before the Department of Transportation may proceed under these sections to perform its duty, it shall give notice in at least 2 of the daily newspapers in the City of Baltimore of the object of the ordinance under which it proposes to act, at least 10 days before the time of the 1<sup>st</sup> meeting to execute the same.</text>
@@ -419,6 +435,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Methods of acquiring property.</heading>
       <para>
@@ -458,6 +475,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Determining damages and benefits.</heading>
       <para>
@@ -496,6 +514,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-6</num>
       <heading>Only part of property needed.</heading>
       <para>
@@ -556,6 +575,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-7</num>
       <heading>Statement of benefits and damages.</heading>
       <para>
@@ -618,6 +638,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-8</num>
       <heading>Publication of notice.</heading>
       <text>The Department of Transportation shall cause a notice to be published once a week for 2 successive weeks in 2 daily newspapers of the City, stating:</text>
@@ -646,6 +667,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-9</num>
       <heading>Hearing.</heading>
       <para>
@@ -676,6 +698,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-10</num>
       <heading>Book of proceedings; Notice of completion.</heading>
       <para>
@@ -701,6 +724,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-11</num>
       <heading>Personal service of notice.</heading>
       <para>
@@ -727,6 +751,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-12</num>
       <heading>Administrative appeal.</heading>
       <para>
@@ -790,6 +815,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-13</num>
       <heading>Judicial review - In general.</heading>
       <para>
@@ -869,6 +895,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-14</num>
       <heading>Judicial review - Awards.</heading>
       <para>
@@ -903,6 +930,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-15</num>
       <heading>Ordinance repealed or set aside.</heading>
       <text>Whenever any ordinance passed by the Mayor and City Council of Baltimore, providing for the condemnation and opening, widening, or closing of any street, square, lane, or alley in said City, shall be set aside or declared null and void by a court of competent jurisdiction, to wit: the Circuit Court for Baltimore City, the Court of Special Appeals, or the Court of Appeals, in the event of an appeal to that tribunal, or the same shall be repealed by the Mayor and City Council of Baltimore, it shall be the duty of the Director of Finance immediately thereafter to refund to any and all persons, or their legal representatives, such sums of money as they may have paid to the City by reason of the assessment of benefits by virtue of such ordinance.  The Director of Finance shall likewise pay all expenses which may have been incurred by virtue of any such ordinance, in carrying out the provisions thereof, for which the City may be liable under existing ordinances.</text>
@@ -920,6 +948,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-16</num>
       <heading>Billing assessments for benefits.</heading>
       <para>
@@ -955,6 +984,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-17</num>
       <heading>Failure to make payments.</heading>
       <para>
@@ -979,6 +1009,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-18</num>
       <heading>Assessment as lien.</heading>
       <text>All sums of money assessed by the Department of Transportation on property deemed by it to be benefitted shall be and continue as liens on each several piece of property so assessed, to the amount of its particular assessment, until paid to the City.</text>
@@ -996,6 +1027,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-19</num>
       <heading>Payment of damages.</heading>
       <text>But no part of any street, square, lane, or alley may be opened on or over the ground of any person or persons or corporation adjudged by the Department of Transportation to be entitled to damages for the opening, without the consent, in writing, of the person or corporation so entitled, until:</text>
@@ -1021,6 +1053,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-20</num>
       <heading>Deposit of books and papers.</heading>
       <text>As soon as the Department of Transportation has completed its work on each street, the Department shall file all related papers and books in the Department, in a manner as to insure a permanent record of the proceedings.</text>
@@ -1039,6 +1072,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-21</num>
       <heading>Offer to convey property.</heading>
       <para>
@@ -1081,6 +1115,7 @@
     <num>4</num>
     <heading>Paving of Private Streets</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>City's authority.</heading>
       <para>
@@ -1111,6 +1146,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Appropriations.</heading>
       <text>In order to provide for the cost and expenses of the abovementioned repairs and maintenance, the Board of Estimates is requested to provide a sufficient sum of money therefor in the annual Ordinances of Estimates, beginning with the year 1923.</text>
@@ -1123,6 +1159,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Effect of work done.</heading>
       <text>Nothing in this subtitle, nor any acts done by the Director of Transportation under this subtitle, may be construed as an acceptance of the dedication of any private street or road or as in any way affecting the status of these streets or roads.</text>
@@ -1143,6 +1180,7 @@
     <num>5</num>
     <heading>Paving on Petition</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Signatures required.</heading>
       <text>Upon the written request of the owners of 60% of the front feet of ground binding on the whole, or any part, of any street, avenue, lane, or alley of the City of Baltimore, which is now open, or may hereafter be opened, the Director of Transportation, acting under the provisions of Chapter 401, Laws of Maryland 1906, and any amendment or amendments thereof, may, if in the Director's judgment the public interests will be served, grade, curb and pave, grade and pave, or pave, as the Director considers necessary, the street, avenue, lane, or alley, or part thereof, at the expense pro rata of the owners of all the property binding thereon in accordance with the provisions of this subtitle.</text>
@@ -1158,6 +1196,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Notice by publication.</heading>
       <text>Upon the receipt of a completed application, the Director of Transportation shall give 10 days' notice, in at least 2 of the daily newspapers published in the City of Baltimore, of the fact that the application has been made, and of the intention of the Director to consider the same, and also of the time when and place where objections to the application will be received and heard.</text>
@@ -1172,6 +1211,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Who deemed owners.</heading>
       <para>
@@ -1206,6 +1246,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-4</num>
       <heading>Assessment of costs.</heading>
       <para>
@@ -1256,6 +1297,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-5</num>
       <heading>Deferred payments.</heading>
       <para>
@@ -1288,6 +1330,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-6</num>
       <heading>Publication of notice.</heading>
       <text>After the Director of Transportation has completed his or her apportionment of the costs and expenses to be assessed, and the statement thereof, the Director shall give notice by advertisement inserted twice a week for 2 successive weeks in 2 of the daily newspapers published in the City of Baltimore:</text>
@@ -1314,6 +1357,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-7</num>
       <heading>Hearing.</heading>
       <text>The Director of Transportation:</text>
@@ -1340,6 +1384,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-8</num>
       <heading>Corrected list of assessments; notice.</heading>
       <text>After closing such review, he:</text>
@@ -1378,6 +1423,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-9</num>
       <heading>Appeals.</heading>
       <text>And if any appeal shall be taken, the proceedings therein shall be similar to those in the trial of street appeals and the same right shall be had to appeal to the Court of  Special Appeals.</text>
@@ -1391,6 +1437,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-10</num>
       <heading>Collections</heading>
       <para>
@@ -1413,6 +1460,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-11</num>
       <heading>New Paving Fund.</heading>
       <text>Whenever any money has been collected by the Director of Finance under this subtitle, that money shall be paid over in the manner required by law, to be placed to the credit of the "New Paving Fund" provided for in Section 6 of Chapter 401, Laws of Maryland 1906, and may be appropriated by the Director of Transportation for the purpose designated in that Act and this subtitle.</text>
@@ -1427,6 +1475,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-12</num>
       <heading>Paving materials.</heading>
       <text>No street, avenue, lane, or alley, or part thereof, shall be paved, in whole or in part, under the provisions of this subtitle, with any paving material of a grade or quality lower than that of water-bound macadam oiled.</text>
@@ -1445,6 +1494,7 @@
     <num>6</num>
     <heading>Building Address Numbers</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Numbering scheme.</heading>
       <para>
@@ -1484,6 +1534,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Conformity required.</heading>
       <text>No house or building and no row of houses or series of buildings, whether or not denominated as or on a "Place", "Terrace", or "Square", now erected or in process of erection or hereafter to be erected, shall be numbered or by figures, letters, or names distinguished in any way different from or in violation of the provisions of this subtitle.</text>
@@ -1495,6 +1546,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Duty to affix numbers.</heading>
       <para>
@@ -1518,6 +1570,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Notice of noncompliance.</heading>
       <para>
@@ -1548,6 +1601,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-5</num>
       <heading>Change of number.</heading>
       <text>Whenever the number of any house or other building is changed by the Department of Transportation, the owner or occupant of that building shall completely remove or obliterate the old number within 10 days after receiving from the Department of Transportation a written notice reporting the changing of the number and notifying the owner or occupant of the new number that has been determined and fixed for the house or other building.</text>
@@ -1561,6 +1615,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-6</num>
       <heading>Correct number required.</heading>
       <text>No owner or occupant may place or affix or permit to remain placed or affixed or otherwise displayed on any house, building, or premises, any number or number plate except the correct number as determined and fixed or as changed by the Department of Transportation.</text>
@@ -1574,6 +1629,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-7</num>
       <heading>Required display.</heading>
       <text>The correct number of every house or other building:</text>
@@ -1607,9 +1663,10 @@
     </section>
     <section>
       <num>6-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-9</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -1627,6 +1684,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-10</num>
       <heading>Penalties.</heading>
       <para>
@@ -1653,6 +1711,7 @@
     <num>7</num>
     <heading>Street Names</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Brune report approved.</heading>
       <text>The report of William H. Brune to the Commissioners for Opening Streets is hereby approved, concurred in, and adopted, and the revision and the change of the names of such public streets, avenues, and highways in the City of Baltimore, as suggested and recommended in said report is hereby approved, ordered, and directed, as therein recommended.</text>
@@ -1665,6 +1724,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Procedure for new streets.</heading>
       <para>
@@ -1689,6 +1749,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Procedure for naming or renaming.</heading>
       <para>
@@ -1736,6 +1797,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Procedure for revisions.</heading>
       <para>
@@ -1759,6 +1821,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-5</num>
       <heading>Renaming private streets.</heading>
       <para>
@@ -1799,6 +1862,7 @@
     <num>8</num>
     <heading>Alleys</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Abutting owners' duty to perform.</heading>
       <text>It shall be the duty of the owners of property abutting upon or in the vicinity of public or private alleys in Baltimore City to:</text>
@@ -1820,6 +1884,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Alley work required.</heading>
       <para>
@@ -1870,6 +1935,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Plats and estimates.</heading>
       <text>20 days before beginning any of work on the assessment plan, the Director of Transportation:</text>
@@ -1904,6 +1970,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-4</num>
       <heading>Assessment of costs.</heading>
       <para>
@@ -1977,6 +2044,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-5</num>
       <heading>Deferred payments.</heading>
       <para>
@@ -2013,6 +2081,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-6</num>
       <heading>Appeals.</heading>
       <para>
@@ -2050,6 +2119,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-7</num>
       <heading>Collections.</heading>
       <para>
@@ -2115,6 +2185,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-8</num>
       <heading>Projects excepted from assessments – Permissive exceptions.</heading>
       <text>Notwithstanding any other terms and provisions of this subtitle, in each and every case, from time to time, where the Director of Transportation estimates that the entire cost of all the work required to be done under this subtitle will not be more than 5% of the cost of the total construction or reconstruction of the alley, exclusive of the exceptions of § 8-4 of this subtitle, the Director of Transportation is authorized, but not required, to do or to have that work done at the entire expense of the City.</text>
@@ -2130,6 +2201,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-9</num>
       <heading>Projects excepted from assessments – Mandatory exceptions.</heading>
       <para>
@@ -2166,6 +2238,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-10</num>
       <heading>Maintenance of alleys.</heading>
       <text>The Director of Transportation is authorized to maintain the alleys that have been paved, constructed, or reconstructed under this subtitle for a period not to exceed 10 years without further charge to the property owner.</text>
@@ -2176,6 +2249,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-11</num>
       <heading>Effect of work done.</heading>
       <text>The doing of any of the aforesaid work on the said assessment  plan, or at the general expense and without assessment therefor,  shall not be held, taken, or construed as:</text>
@@ -2202,6 +2276,7 @@
     <num>8A</num>
     <heading>Gating and Greening Alleys</heading>
     <section>
+      <prefix>§</prefix>
       <num>8A-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2284,15 +2359,19 @@
     </section>
     <section>
       <num>8A-2</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
-      <text><strong>Editor's Note:</strong> For the Code-wide standard rules of interpretation, uses of mandatory, prohibitory, and permissive terms, time computations, and the like.</text>
+      <reason>Repealed by Ord. 22-125</reason>
+      <annotations>
+        <annotation type="Editor's Notes">For the Code-wide standard rules of interpretation, uses of mandatory, prohibitory, and permissive terms, time computations, and the like.</annotation>
+      </annotations>
     </section>
     <section>
       <num>8A-3</num>
-      <heading>{Reserved}</heading>
-      <text>
-        <strong>§ 8A-4.  Scope; General standards.</strong>
-      </text>
+      <reason>Reserved</reason>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8A-4</num>
+      <heading>Scope; General standards.</heading>
       <para>
         <num>(a)</num>
         <heading>Scope of subtitle.</heading>
@@ -2331,6 +2410,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8A-5</num>
       <heading>Rules and regulations; Fees.</heading>
       <para>
@@ -2344,19 +2424,21 @@
         <text>The rules and regulations adopted under this subtitle may set reasonable fees to cover the costs incurred by the Department in processing a petition.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 07-409" type="History">Ord. 07-409</annotation>
         <annotation doc="City of Balt., Md., Ord. 11-580" type="History">Ord. 11-580</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-405" type="History">Ord. 15-405</annotation>
         <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
       <num>8A-6</num>
-      <heading>{Reserved}</heading>
-      <text>
-        <strong>§ 8A-7.  Record of abutting owners.</strong>
-      </text>
+      <reason>Reserved</reason>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8A-7</num>
+      <heading>Record of abutting owners.</heading>
       <text>At the request of any person interested in the gating or greening of an alley, the Department of Transportation must provide that person with a list of the names and addresses, as then shown on the Department's records, of the owners of all properties abutting that alley.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 07-409" type="History">Ord. 07-409</annotation>
@@ -2365,6 +2447,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8A-8</num>
       <heading>Petition required.</heading>
       <para>
@@ -2415,6 +2498,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8A-9</num>
       <heading>Consents of abutting owners – Gating only.</heading>
       <para>
@@ -2433,6 +2517,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8A-10</num>
       <heading>Consents of abutting owners – Greening.</heading>
       <para>
@@ -2471,6 +2556,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8A-11</num>
       <heading>Reviews by Police and Fire Departments.</heading>
       <para>
@@ -2489,6 +2575,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8A-12</num>
       <heading>Public hearing.</heading>
       <para>
@@ -2535,6 +2622,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8A-13</num>
       <heading>Decision.</heading>
       <text>Within 30 days of the hearing, the Director of Transportation must:</text>
@@ -2554,10 +2642,12 @@
     </section>
     <section>
       <num>8A-14</num>
-      <heading>{Reserved}</heading>
-      <text>
-        <strong>§ 8A-15.  Required lease.</strong>
-      </text>
+      <reason>Reserved</reason>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8A-15</num>
+      <heading>Required lease.</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -2643,6 +2733,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8A-16</num>
       <heading>Restoration of alley by utility companies.</heading>
       <text>If a company that has utilities lawfully located in a leased alley enters the alley for maintenance, repair, or replacement of the utilities, the company:</text>
@@ -2661,10 +2752,12 @@
     </section>
     <section>
       <num>8A-17</num>
-      <heading>{Reserved}</heading>
-      <text>
-        <strong>§ 8A-18.  Judicial and appellate review.</strong>
-      </text>
+      <reason>Reserved</reason>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>8A-18</num>
+      <heading>Judicial and appellate review.</heading>
       <para>
         <num>(a)</num>
         <heading>Judicial review.</heading>
@@ -2686,6 +2779,7 @@
     <num>9</num>
     <heading>Footways - In General</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>General standards.</heading>
       <para>
@@ -2721,6 +2815,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2</num>
       <heading>Temporary footway required when digging up sidewalk.</heading>
       <para>
@@ -2775,6 +2870,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-3</num>
       <heading>Director's authority.</heading>
       <para>
@@ -2815,6 +2911,7 @@
     <num>10</num>
     <heading>Footways - Along Paved Streets</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Notice to property owners.</heading>
       <para>
@@ -2928,6 +3025,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-2</num>
       <heading>Appeal of proposed work.</heading>
       <para>
@@ -2955,6 +3053,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-3</num>
       <heading>By whom work to be done.</heading>
       <para>
@@ -2984,6 +3083,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-4</num>
       <heading>Manner of work.</heading>
       <text>All work by the Director or a property owner must be done as follows:</text>
@@ -3022,6 +3122,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-5</num>
       <heading>Assessments of costs.</heading>
       <para>
@@ -3109,6 +3210,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-6</num>
       <heading>Damage caused by City trees.</heading>
       <para>
@@ -3134,6 +3236,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-7</num>
       <heading>Deferred payments.</heading>
       <para>
@@ -3180,6 +3283,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-8</num>
       <heading>Appeals.</heading>
       <para>
@@ -3220,6 +3324,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-9</num>
       <heading>Collections.</heading>
       <para>
@@ -3291,6 +3396,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-10</num>
       <heading>Recovery by suit.</heading>
       <text>In addition to the remedy provided in § 10-9 of this subtitle, the City may recover, by suit or action at law from the owner of any property abutting on any footway that has been improved, graded, paved, repaved, or repaired by the Director of Transportation under this subtitle, the cost of the work done on the footway.</text>
@@ -3310,6 +3416,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-11</num>
       <heading>Anticipation of collections.</heading>
       <text>With the Mayor's approval, the Director of Transportation may draw on the City Comptroller, in anticipation of the collections from abutting property owners, for the money needed to improve, grade, pave, repave, or repair any footway under this subtitle.</text>
@@ -3333,6 +3440,7 @@
     <num>10A</num>
     <heading>Footways - Streetscape Plans</heading>
     <section>
+      <prefix>§</prefix>
       <num>10A-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -3377,6 +3485,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10A-2</num>
       <heading>Required elements of plan.</heading>
       <para>
@@ -3410,6 +3519,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10A-3</num>
       <heading>Costs.</heading>
       <para>
@@ -3457,6 +3567,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10A-4</num>
       <heading>Approval of plan.</heading>
       <para>
@@ -3492,6 +3603,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10A-5</num>
       <heading>Implementation of plan.</heading>
       <para>
@@ -3517,6 +3629,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10A-6</num>
       <heading>Owners not relieved of maintenance obligations.</heading>
       <text>Approval of a streetscape plan does not diminish the obligations of adjoining property owners to sweep, clean, and maintain in good order footways and sidewalks adjacent to their properties.</text>
@@ -3531,6 +3644,7 @@
     <num>11</num>
     <heading>Footways - Along Unpaved Streets</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Work done by property owners.</heading>
       <para>
@@ -3585,6 +3699,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Work done by City; assessments.</heading>
       <para>
@@ -3618,6 +3733,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-3</num>
       <heading>Grades.</heading>
       <text>The Director of Transportation may cause all footways that the Director constructs or that otherwise are constructed in accordance with this subtitle, brought to proper grades, either by excavating where too high or filling in where too low.</text>
@@ -3638,6 +3754,7 @@
     <num>12</num>
     <heading>Alley and Footway Assessment Credits</heading>
     <section>
+      <prefix>§</prefix>
       <num>12-1</num>
       <heading>Persons eligible.</heading>
       <text>A property owner who receives a statement of assessments from the Director of Transportation for the grading, paving, or repairing of an alley or footway shall be eligible for a credit on the amount assessed if the property owner received a homeowner's property tax credit in the fiscal year immediately previous to the year in which the assessment statement is received.</text>
@@ -3648,6 +3765,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-2</num>
       <heading>Amount of credit.</heading>
       <text>The credit provided by this subtitle shall be equivalent to the same percentage that the homeowner's property tax credit provided for in Tide 9, Subtitle 1 of the Tax-Property Article of the Maryland Code bears to the total real property tax bill.</text>
@@ -3662,6 +3780,7 @@
     <num>13</num>
     <heading>Lamps and Lighting</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Street lamps, etc.</heading>
       <para>
@@ -3719,6 +3838,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>Lighting alleys.</heading>
       <para>
@@ -3739,6 +3859,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Shades on street lamps.</heading>
       <para>
@@ -3780,6 +3901,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4</num>
       <heading>Interfering with lamps.</heading>
       <para>
@@ -3829,6 +3951,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-5</num>
       <heading>Police to report problems.</heading>
       <text>The Police Department shall report to the Department of Transportation:</text>
@@ -3861,6 +3984,7 @@
     <num>14</num>
     <heading>Bridges</heading>
     <section>
+      <prefix>§</prefix>
       <num>14-1</num>
       <heading>By whom work to be done.</heading>
       <para>
@@ -3899,6 +4023,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -3977,6 +4102,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-2</num>
         <heading>Scope of subtitle.</heading>
         <para>
@@ -4022,9 +4148,10 @@
       </section>
       <section>
         <num>15-3</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-4</num>
         <heading>Administration.</heading>
         <text>The Department of Transportation is responsible for administering and enforcing this subtitle.</text>
@@ -4034,6 +4161,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-5</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -4072,15 +4200,15 @@
           <text>These rules and regulations may include procedures for the issuance, service, and enforcement of administrative orders to stop work being done in violation of this subtitle, a rule or regulation adopted under this subtitle, or a condition imposed on a permit issued under this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 06-245" type="History">Ord. 06-245</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
           <annotation type="History">Text Conformed 02/23/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>15-6 to 15-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4088,6 +4216,7 @@
       <num>2</num>
       <heading>Permit Requirements</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-11</num>
         <heading>In general.</heading>
         <text>No person may excavate on or in a public way unless:</text>
@@ -4104,6 +4233,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-12</num>
         <heading>Street-cut permit.</heading>
         <para>
@@ -4212,6 +4342,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-13</num>
         <heading>Emergency excavation.</heading>
         <para>
@@ -4265,6 +4396,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-14</num>
         <heading>Fees.</heading>
         <para>
@@ -4303,7 +4435,7 @@
       </section>
       <section>
         <num>15-15 to 15-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4311,6 +4443,7 @@
       <num>3</num>
       <heading>Performance Schedules and Standards</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-21</num>
         <heading>Scope.</heading>
         <text>The requirements of this Part 3 are in addition to any requirements or standards imposed by the Department in its rules and regulations or as a condition of a street-cut permit.</text>
@@ -4319,6 +4452,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-22</num>
         <heading>Display of permit.</heading>
         <text>Any person doing excavation work must:</text>
@@ -4335,6 +4469,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-23</num>
         <heading>Work schedule.</heading>
         <para>
@@ -4365,6 +4500,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-24</num>
         <heading>Securing public way.</heading>
         <text>At the end of each workday, the permittee must secure the public way:</text>
@@ -4385,6 +4521,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-25</num>
         <heading>Decorative or landscaped areas.</heading>
         <para>
@@ -4414,6 +4551,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-26</num>
         <heading>Locating or relocating poles.</heading>
         <para>
@@ -4444,7 +4582,7 @@
       </section>
       <section>
         <num>15-27 to 15-28</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4452,6 +4590,7 @@
       <num>4</num>
       <heading>Warranty; Performance Security; Indemnification</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-29</num>
         <heading>Scope.</heading>
         <text>This Part 4 does not apply to excavation work performed by a governmental entity.</text>
@@ -4460,6 +4599,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-30</num>
         <heading>Warranty; Correction of defects.</heading>
         <para>
@@ -4502,6 +4642,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-31</num>
         <heading>Performance security.</heading>
         <para>
@@ -4579,6 +4720,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-32</num>
         <heading>Indemnification.</heading>
         <para>
@@ -4607,7 +4749,7 @@
       </section>
       <section>
         <num>15-33 to 15-35</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4615,6 +4757,7 @@
       <num>5</num>
       <heading>Administrative and Judicial Review</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-36</num>
         <heading>Administrative review.</heading>
         <para>
@@ -4658,6 +4801,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-37</num>
         <heading>Judicial review.</heading>
         <text>A party aggrieved by a final decision of the Director under § 15-36 {"Administrative review"} of this subtitle may appeal that decision to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Civil Procedure.</text>
@@ -4667,7 +4811,7 @@
       </section>
       <section>
         <num>15-38 to 15-40</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4675,6 +4819,7 @@
       <num>6</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-41</num>
         <heading>Civil fines.</heading>
         <para>
@@ -4708,6 +4853,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-42</num>
         <heading>Criminal penalties.</heading>
         <text>Any person who violates any provision of this subtitle, of a rule or regulation adopted under this subtitle, of a condition imposed on a permit issued under this subtitle, or of a stop-work order issued under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000, imprisonment for not more than 1 year, or both fine and imprisonment, for each offense.</text>
@@ -4716,6 +4862,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-43</num>
         <heading>Each day a separate offense.</heading>
         <text>Each day that a violation continues is a separate offense.</text>
@@ -4730,6 +4877,7 @@
     <num>16</num>
     <heading>Pavement Protection</heading>
     <section>
+      <prefix>§</prefix>
       <num>16-1</num>
       <heading>In general.</heading>
       <para>
@@ -4761,6 +4909,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-2</num>
       <heading>Riding on closed streets.</heading>
       <text>Any person or persons who rides or drives upon any new pavement or new repairs of streets constructed or being constructed by or under the State Roads Commission, the Director of Transportation, or any other official or body representing the City of Baltimore, or by any contractor employed by any such official or body, before the street is open for traffic, and any person or persons who removes any light or guards set up by or under the authority of the Commission, Department, other official or body, or contractor, for the purpose of closing a street or part of a street to traffic, is subject to a fine of not less than $5, nor more than $100, and is liable for the expense of repairing the injury done.</text>
@@ -4775,6 +4924,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-3</num>
       <heading>Concrete; oil products; weight on asphalt.</heading>
       <para>
@@ -4812,6 +4962,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-4</num>
       <heading>Heavy equipment.</heading>
       <para>
@@ -4846,6 +4997,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-5</num>
       <heading>Penalties for failure to repair.</heading>
       <text>Any person or corporation:</text>
@@ -4878,6 +5030,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-6</num>
       <heading>Work done by City.</heading>
       <text>If any person or corporation whose duty it is to keep in repair any part of any of the streets, lanes, or alleys within the City or to replace and restore in proper order and condition the bed or surface of any street, lane, or alley that the person or corporation is licensed or permitted to dig up, displace, or remove neglects this duty after being notified in writing by the Director of Transportation, as provided in § 16-5, and if it appears to the Director that the condition of the street, lane, or alley is attended with possible danger to persons passing over or using it, the Director shall forthwith:</text>
@@ -4905,6 +5058,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-7</num>
       <heading>Street repairs on application.</heading>
       <text>The Director of Transportation is authorized, upon the application of the owners of a majority of the front feet on any private street, lane, or alley:</text>
@@ -4935,6 +5089,7 @@
     <num>17</num>
     <heading>Drainage under Sidewalks</heading>
     <section>
+      <prefix>§</prefix>
       <num>17-1</num>
       <heading>Under-sidewalk construction required.</heading>
       <text>All drainage of every character whatsoever within the City of Baltimore, be it from rain-spouts or from any other conceivable source, which naturally or artificially flows outward and across the line of the public sidewalks into the gutter-ways or other means of discharge, shall be conducted under instead of across the surface of said sidewalks.</text>
@@ -4947,6 +5102,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-2</num>
       <heading>Same.</heading>
       <text>The owner, owners, or occupiers of any building or other structure from which the drip or drainage as above described is carried, or is to be carried, across the line of the public sidewalks aforesaid, shall provide underground pipes or other agencies so as to conduct the same under the surface of the sidewalks, as required by § 17-1 of this article, the scheme of pipes or other agencies to be subject to the approval of the Director of Public Works.</text>
@@ -4960,6 +5116,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-3</num>
       <heading>Approval required.</heading>
       <text>No method of conducting drainage under the public sidewalks in accordance with the provisions of this subtitle, shall be deemed a sufficient compliance with the terms of this subtitle unless such method is approved and so certified by the Director of Public Works.</text>
@@ -4973,6 +5130,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-4</num>
       <heading>Work by City.</heading>
       <para>
@@ -5006,9 +5164,10 @@
     </section>
     <section>
       <num>17-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-6</num>
       <heading>Penalties.</heading>
       <text>Any person or persons violating the provisions of this subtitle shall be subject to a penalty of not less than $50, nor more than $100, to be enforced and collected as other City fines and penalties are enforced and collected.</text>
@@ -5026,6 +5185,7 @@
     <num>18</num>
     <heading>Grades, Grading, and Paving</heading>
     <section>
+      <prefix>§</prefix>
       <num>18-1</num>
       <heading>Fixing grade line - on application.</heading>
       <para>
@@ -5054,6 +5214,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-2</num>
       <heading>Fixing grade line - Director's initiative.</heading>
       <para>
@@ -5083,6 +5244,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-3</num>
       <heading>Fixing grade line - notice.</heading>
       <text>Before fixing and establishing, or changing, as the case may be, the grade line or lines of any private or public street, lane, or alley, or part thereof, in the City of Baltimore, the Director of Transportation shall give 5 days' notice, in 2 daily papers published in the City of Baltimore, that the Director will be available, at the time and on the day named in the notice, for the purpose of hearing and considering protests and to explain matters in connection with the fixing and establishing or changing of the grade line or lines of the street, lane, or alley, or part thereof, under consideration.</text>
@@ -5100,6 +5262,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-4</num>
       <heading>Fixing grade line - grade profiles.</heading>
       <text>The Director of Transportation shall prepare grade profiles, which shall be kept in the Department of Transportation as a permanent record of the grade lines fixed, established, or changed, as the case may be, in accordance with this subtitle.</text>
@@ -5117,9 +5280,10 @@
     </section>
     <section>
       <num>18-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-6</num>
       <heading>Cobblestones prohibited.</heading>
       <text>From and after February 24, 1899, no contracts shall be made by the City for paving or repaving any street, avenue, lane, or alley within the limits of said City with what is known as a cobblestone pavement, nor shall any such pavement be permitted to be laid on any street, avenue, lane, or alley within the said City by any individual or corporation.</text>
@@ -5132,6 +5296,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-7</num>
       <heading>How work done.</heading>
       <text>In all paving, repaving, grading, or repairing of streets, avenues, lanes, or alleys, including footways, where the work is done by the City, the work shall be done by contract or by labor employed by the City and paid by the City, as in the judgment of the Director of Transportation may be best for the interest of the City, in each instance.</text>
@@ -5147,6 +5312,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-8</num>
       <heading>Macadamizing permitted.</heading>
       <text>Nothing contained in this Code is intended to prevent macadamizing of streets, avenues, lanes or alleys in the City of Baltimore when and where macadamizing is deemed necessary or desirable by the Director of Transportation.</text>
@@ -5162,6 +5328,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-9</num>
       <heading>Paving without curbs permitted.</heading>
       <text>Any streets, lanes, or alleys in the City to be paved or repaved may be paved or repaved without curbs, provided the Director of Transportation considers it advisable to do so.</text>
@@ -5179,6 +5346,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-10</num>
       <heading>Center gutters.</heading>
       <text>In paving or repaving streets, lanes, or alleys not over 25 feet in width, the Director of Transportation may, in his discretion, put the gutter in the center of the street, lane, or alley.</text>
@@ -5197,6 +5365,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-11</num>
       <heading>"Bike-safe" grates required.</heading>
       <para>
@@ -5254,6 +5423,7 @@
     <num>19</num>
     <heading>Grading and Paving Permits</heading>
     <section>
+      <prefix>§</prefix>
       <num>19-1</num>
       <heading>Requirements for grading or paving.</heading>
       <para>
@@ -5288,6 +5458,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-2</num>
       <heading>Director's powers.</heading>
       <text>The Director of Transportation is authorized and empowered:</text>
@@ -5313,6 +5484,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-3</num>
       <heading>Considerations.</heading>
       <text>In determining whether any proposed grading, paving, or repaving would menace the public safety, security, or health and in approving or disapproving plans and specifications, the Director of Transportation shall consider the following:</text>
@@ -5374,6 +5546,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-4</num>
       <heading>Paving procedures.</heading>
       <para>
@@ -5417,6 +5590,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-5</num>
       <heading>Public Works sole authority.</heading>
       <text>No approval of any application nor the issuance of any permit by any municipal officer, department, bureau, or agency other than the Director of Transportation may be construed to authorize the doing of any of the grading, paving, or repaving work described in this subtitle or to relieve any person, firm, or corporation from compliance with the provisions of this subtitle.</text>
@@ -5431,9 +5605,10 @@
     </section>
     <section>
       <num>19-6</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-7</num>
       <heading>Penalties.</heading>
       <text>Any person, firm, or corporation violating any of the provisions of this subtitle or any order or requirement of the Director of Transportation under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of $50 for each offense and a like sum of $50 for each and every day the violation continues.</text>
@@ -5452,6 +5627,7 @@
     <num>20</num>
     <heading>Permit for Builders' Use of Streets</heading>
     <section>
+      <prefix>§</prefix>
       <num>20-1</num>
       <heading>Permit required.</heading>
       <text>Any builder that wants to use a part of the street or sidewalk in front of its property, in accordance with the City Building Code, must obtain a permit from the Director of Transportation.</text>
@@ -5468,6 +5644,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-2</num>
       <heading>Bond.</heading>
       <text>The Director of Transportation is authorized, as a condition of issuing the permit, to require from the builder a bond with sufficient corporate surety:</text>
@@ -5491,6 +5668,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-3</num>
       <heading>Fees.</heading>
       <text>The Director of Transportation is also authorized to include in the permit a provision that the applicant shall pay reasonable charges for use of the street or sidewalk, as fixed from time to time by the Board of Estimates.</text>
@@ -5504,6 +5682,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-4</num>
       <heading>Rules, regulations, terms, conditions.</heading>
       <para>
@@ -5527,6 +5706,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-5</num>
       <heading>Permit revocation.</heading>
       <text>Nothing in this subtitle may be construed to abridge the right of the Director of Transportation to revoke any permit at any time when the public interests may require it.</text>
@@ -5543,9 +5723,10 @@
     </section>
     <section>
       <num>20-6</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-7</num>
       <heading>Fines and penalties.</heading>
       <para>
@@ -5608,6 +5789,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>23-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -5660,9 +5842,10 @@
       </section>
       <section>
         <num>23-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-3</num>
         <heading>Administration.</heading>
         <text>The Department of Transportation is responsible for administering and enforcing this subtitle.</text>
@@ -5671,6 +5854,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-4</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -5684,12 +5868,13 @@
           <text>These rules and regulations may include procedures for the issuance, service, and enforcement of administrative orders to stop work being done in violation of this subtitle, a rule or regulation adopted under this subtitle, or a condition imposed on a permit issued under this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-263" type="History">Ord. 19-263</annotation>
           <annotation type="History">Text Conformed 02/23/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-5</num>
         <heading>Fees for conduit use.</heading>
         <para>
@@ -5708,7 +5893,7 @@
       </section>
       <section>
         <num>23-6 to 23-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5716,6 +5901,7 @@
       <num>2</num>
       <heading>Location and Maintenance of Conduit System</heading>
       <section>
+        <prefix>§</prefix>
         <num>23-11</num>
         <heading>Location of system.</heading>
         <text>A system  of conduits for the reception of electrical, communication, and service cables, wires, or similar facilities shall be constructed within the territory or districts determined by the Director pursuant to Chapter 200, Laws of Maryland 1892.</text>
@@ -5724,6 +5910,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-12</num>
         <heading>DoT to maintain system.</heading>
         <text>The Director is responsible for maintaining this conduit system.</text>
@@ -5732,6 +5919,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-13</num>
         <heading>Plans and specifications; Work superintendence.</heading>
         <text>The Director shall:</text>
@@ -5748,6 +5936,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-14</num>
         <heading>Labor and materials.</heading>
         <text>The Director may employ the labor and purchase the materials necessary to enable the Department to perform the work, or so much of the work that it considers to be in the best interest of the City for the Department to perform.</text>
@@ -5757,7 +5946,7 @@
       </section>
       <section>
         <num>23-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5765,6 +5954,7 @@
       <num>3</num>
       <heading>Use of Conduit System</heading>
       <section>
+        <prefix>§</prefix>
         <num>23-16</num>
         <heading>Required permit and authorizations.</heading>
         <para>
@@ -5819,6 +6009,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-17</num>
         <heading>Voluntary relocation of facilities.</heading>
         <para>
@@ -5836,6 +6027,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-18</num>
         <heading>Mandatory relocation of facilities.</heading>
         <para>
@@ -5878,6 +6070,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-19</num>
         <heading>Tampering with conduit.</heading>
         <text>No person may tamper with, open, or in any way interfere with any of the manholes or facilities in the conduit system without first having obtained:</text>
@@ -5895,9 +6088,10 @@
       </section>
       <section>
         <num>23-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-21</num>
         <heading>Survey of and reports by conduit users.</heading>
         <para>
@@ -5964,7 +6158,7 @@
       </section>
       <section>
         <num>23-22 to 23-25</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5978,6 +6172,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>23-26</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -6008,6 +6203,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-27</num>
         <heading>Criminal penalties.</heading>
         <para>
@@ -6031,6 +6227,7 @@
     <num>24</num>
     <heading>Telephone Wires</heading>
     <section>
+      <prefix>§</prefix>
       <num>24-1</num>
       <heading>Authority to lay wires.</heading>
       <text>The Chesapeake and Potomac Telephone Company, of Baltimore City, and the Chesapeake and Potomac Telephone Company acting separately, or in conjunction, are respectively authorized to lay their or their respective telephone wires intended to be used in connection with the Telephone Exchange to be established in the building belonging to The Chesapeake and Potomac Telephone Company, at the corner of St. Paul Street and Bank Lane, in the City of Baltimore, in cables, laid in suitable conduits under the surface of the streets, alleys, or highways in said City, now traversed, or to be so traversed by their said respective wires, with the necessary manholes for affording access to said cables.</text>
@@ -6044,6 +6241,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-2</num>
       <heading>Conditions and limitations.</heading>
       <para>
@@ -6097,6 +6295,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-3</num>
       <heading>Agreement; annual fee.</heading>
       <para>
@@ -6128,6 +6327,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-4</num>
       <heading>Bond.</heading>
       <text>The said companies shall, before exercising any privileges under this subtitle, enter into a bond in the sum of $10,000, with good and sufficient securities to be approved by the Mayor and Comptroller, conditioned that the company or companies exercising the privileges granted by this subtitle will faithfully perform the obligations imposed upon it or them, respectively, thereby.</text>
@@ -6141,6 +6341,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-5</num>
       <heading>Space for police and fire needs.</heading>
       <para>
@@ -6164,6 +6365,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-6</num>
       <heading>Grant of authority not exclusive.</heading>
       <text>Nothing contained in this subtitle may be construed as granting these telephone companies any exclusive right to lay underground wire cables within the limits of the City of Baltimore.</text>
@@ -6183,6 +6385,7 @@
     <num>25</num>
     <heading>Inspection Costs</heading>
     <section>
+      <prefix>§</prefix>
       <num>25-1</num>
       <heading>Scope of subtitle.</heading>
       <text>The provisions of this subtitle shall not apply to contractors doing City work by contract.</text>
@@ -6194,6 +6397,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-2</num>
       <heading>Assessment of costs.</heading>
       <text>In all work to be done under the supervision of the Director of Public Works, Director of Transportation, or Director of General Services that, in the judgment of the Director having jurisdiction, requires the services of an inspector, the party or parties doing the work:</text>
@@ -6221,6 +6425,7 @@
     <num>26</num>
     <heading>Street Lines and Grades Required for Construction</heading>
     <section>
+      <prefix>§</prefix>
       <num>26-1</num>
       <heading>True lines required before construction.</heading>
       <text>It shall be unlawful for any person, firm, or corporation to dig or lay the foundation of any building or to construct or reconstruct any building or any premises binding or abutting on any existing or proposed public or private street, lane, or alley, or to construct any wall or fence binding or abutting on any such street, lane, or alley before the true lines of all such streets, lanes, and alleys have been duly ascertained, fixed, and marked on the ground, either by the Department of Public Works as authorized in § 1-6 or § 1-7 of this article or by a duly licensed private land surveyor, unless the Director of Public Works certifies that in his opinion the true lines of all such streets, lanes, and alleys are already sufficiently marked on the ground by the existing physical improvements or landmarks.</text>
@@ -6236,6 +6441,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-2</num>
       <heading>Grades required before construction.</heading>
       <para>
@@ -6257,6 +6463,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-3</num>
       <heading>Conformance required when building.</heading>
       <text>It shall be unlawful for any person, firm, or corporation to do or perform any of the foundation, construction, or reconstruction work mentioned in '' 26-1 and 26-2 of this article unless the said work shall be in conformity with the lines and grades ascertained, fixed, marked, and established as provided in said '' 26-1 and 26-2.</text>
@@ -6268,6 +6475,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-4</num>
       <heading>Housing Commissioner to enforce.</heading>
       <para>
@@ -6292,9 +6500,10 @@
     </section>
     <section>
       <num>26-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-6</num>
       <heading>Penalties.</heading>
       <text>Any person, firm, or corporation violating any of the provisions of this subtitle, or violating the provisions of any order of the Commissioner of Housing and Community Development stopping nonconforming work as provided for in § 26-4 of this article, shall, upon conviction thereof, be subject to a fine of $50 for each such offense, and a like sum of $50 for each and every day such violation shall continue.</text>
@@ -6317,6 +6526,7 @@
     <num>31</num>
     <heading>Dedicated Streets, etc.</heading>
     <section>
+      <prefix>§</prefix>
       <num>31-1</num>
       <heading>Declaration as public highways.</heading>
       <para>
@@ -6357,6 +6567,7 @@
     <num>32</num>
     <heading>Street Plan for 1888 Annexation</heading>
     <section>
+      <prefix>§</prefix>
       <num>32-1</num>
       <heading>1898 Plan.</heading>
       <para>
@@ -6383,6 +6594,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-2</num>
       <heading>1907 change in Harford Road section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory included between the Baltimore and Harford Turnpike Road, Erdman Avenue, the Belair Road, the eastern City limits, and the Herring Run, is hereby altered and amended by substituting for the above mentioned portion of the aforesaid plan the plan indicated on the plat which is attached to this ordinance as a part thereof, and from and after July 5, 1907, the said amendment shall have the same validity and effect as though it had been a part of the above mentioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6395,6 +6607,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-3</num>
       <heading>1908 change in Clifton Avenue section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory included between Clifton Avenue, North Avenue, Twelfth Street, and Fifteenth Street, is hereby altered and amended by substituting for the above mentioned portion of the aforesaid plan the plan indicated on the plat which is attached to this ordinance as a part thereof, and from and after April 14, 1908, the said amendment shall have the same validity and effect as though it had been a part of the above general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6407,6 +6620,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-4</num>
       <heading>1908 change in 32nd Street section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory bounded on the north by Thirty-Second Street and Lake Montebello property, on the east and south by the Harford Turnpike Road, and on the south and west by the Alameda, is hereby altered and amended by substituting for the above mentioned portion of the aforesaid plan indicated on the plat which is attached to this ordinance; the said amendment shall have the validity and effect as though it had been a part of the above mentioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6419,6 +6633,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-5</num>
       <heading>1908 change in North Avenue section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory bounded on the north by Clifton Avenue, on the east by Warwick Avenue, on the south by North Avenue, and on the west by Dukeland Street, is hereby altered and amended by substituting for the above mentioned portion of the aforesaid general plan of streets, the plan indicated on the plat which is attached to this ordinance, as a part thereof; and from and after November 16, 1908, the said amendment shall have the same validity and effect as though it had been a part of the above mentioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6431,6 +6646,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-6</num>
       <heading>1909 change in 39th Street section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to Thirty-Ninth Street between the west side of Charles Street and the east side of Melrose Avenue, formerly called Ash Avenue, is hereby altered and amended by substituting for the above mentioned portion of the aforesaid general plan of streets, the plan indicated on the plat which is attached to this ordinance as a part thereof; and from and after March 10, 1909, the said amendment shall have the same validity and effect as though it had been a part of the above mentioned general plan of streets, at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6443,6 +6659,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-7</num>
       <heading>1909 change in Greenmount Avenue section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory bounded on the east by Greenmount Avenue (formerly York Road), on the south by Thirty-Fifth Street, on the west by Charles Street, and on the north by the Northern City Boundary is hereby altered and amended by substituting for the above mentioned portion of the aforesaid general plan of streets, the plan indicated on the plat which is attached to this ordinance, as a part thereof; and from and after March 10, 1909, the said amendment shall have the same validity and effect as though it had been a part of the above mentioned general plan of streets, at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6455,6 +6672,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-8</num>
       <heading>1909 change in Reisterstown Road section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory bounded by the western boundary of Baltimore City, the northern boundary of Baltimore City, the Reisterstown Turnpike Road, and Liberty Heights Avenue, is hereby altered and amended by substituting for the above-mentioned portion of the aforesaid general plan of streets, the plan indicated on the plat which is attached to this ordinance as a part thereof; and from and after July 10, 1909, the said amendment shall have the same validity and effect as though it had been a part of the above-mentioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6467,6 +6685,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-9</num>
       <heading>1910 change in eastern boundary section.</heading>
       <para>
@@ -6500,6 +6719,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-10</num>
       <heading>1910 change in Gwynn's Falls Park section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory bounded by Clifton Avenue, Gwynn's Falls Park, and the eastern and western outlines of the property known as Fairmont, shown on the plat which is attached to this ordinance as a part thereof, is hereby altered and amended by substituting for the above-mentioned portion of the aforesaid general plan of streets, the plan indicated on the aforesaid plat, and from and after May 2, 1910, the said amendment shall have the same validity and effect as though it had been a part of the above-mentioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6512,6 +6732,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-11</num>
       <heading>1910 change in 37th Street section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, and subsequently amended, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to Thirty-Seventh Street, between the east side of Charles Street and the northwest side of St. Paul Street, is hereby altered and amended by substituting for the above-mentioned portion of the aforesaid general plan of streets the plan indicated on the plat which is attached to this ordinance as a part thereof; and from and after June 3, 1910, the said amendment shall have the same validity and effect as though it had been a part of the abovementioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6524,6 +6745,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-12</num>
       <heading>1913 change in 25th Street section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory bounded on the northeast by Twenty-Fifth Street, on the southeast by Harford Road and Aisquith Street, on the southwest by Curtain Avenue and on the northwest by Taylor Street, is hereby altered and amended by substituting for the above-mentioned portion of the aforesaid plan the plan indicated on the plat which is attached to this ordinance; the said amendment shall have the validity and effect as though it had been a part of the above-mentioned general plan of streets, at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6536,6 +6758,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-13</num>
       <heading>1915 change in Patterson Avenue section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory bounded by Patterson Avenue, Poplar Grove (formerly Seventh) Street, Riggs Avenue, and Rosedale (formerly Ninth) Street, is hereby altered and amended by substituting for the above-mentioned portion of the aforesaid general plan of streets, the plan indicated on the plat which is attached to this ordinance as a part thereof, and from after March 5, 1915, the said amendment shall have the same validity and effect as though it had been a part of the above mentioned general plan of streets, at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6548,6 +6771,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-14</num>
       <heading>1915 change in Montpelier Street section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, which relates to that section of the aforesaid territory bounded on the northeast by Montpelier Street, on the southwest by Twenty-Fifth Street, on the northwest by Montebello Avenue, and on the southeast by Harford Road, is hereby altered and amended by substituting for the above-mentioned portion of the aforesaid plan the plan indicated on the plat which is attached to this ordinance; the said amendment shall have the validity and effect as though it had been a part of the abovementioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6560,6 +6784,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-15</num>
       <heading>1916 change in Belmont Avenue section.</heading>
       <text>With the approval of the Topographical Survey Commission, that part of the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, and subsequently amended by Ordinance 13-363, which relate to Belmont Avenue between the northwest side of Harford Road and the southeast side of Taylor Street, are hereby altered and amended by substituting for the above mentioned parts of the aforesaid plan the plan indicated on the plat which is attached to this ordinance; the said amendment shall have the validity and effect as if it had been a part of the above mentioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned.</text>
@@ -6572,6 +6797,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-16</num>
       <heading>1920 addition of Charlotte Avenue.</heading>
       <text>With the approval of the Topographical Survey Commission, the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, is hereby altered and amended so as to show <em>{on?}</em> the aforesaid plan a street known as Charlotte Avenue. The said amendment to have the same validity and effect as though it had been a part of the afore-mentioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned, the said street being located and described as follows:</text>
@@ -6585,6 +6811,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-17</num>
       <heading>1920 deletion of part of East Wabash Avenue.</heading>
       <text>With the approval of the Topographical Survey Commission, the general plan of streets, adopted by § 32-1 of this article, for the territory annexed to the City of Baltimore by the Act of 1888, Chapter 98, as said plan has been amended from time to time, is hereby altered and amended so as to eliminate from the aforesaid plan a portion of the street known as East Wabash Avenue, said portion of said street lying between Grantly Avenue and Umatilla Avenue, the said amendment to have the same validity and effect as though it had been a part of the aforementioned general plan of streets at the time of its adoption by the sections hereinbefore mentioned, the said portion of said street being located and described as follows:</text>
@@ -6616,6 +6843,7 @@
       <num>I</num>
       <heading>Definitions; Applicability</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -6667,6 +6895,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-2</num>
         <heading>Applicability of subtitle.</heading>
         <para>
@@ -6695,7 +6924,7 @@
       </section>
       <section>
         <num>40-3 to 40-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6703,6 +6932,7 @@
       <num>II</num>
       <heading>Complete Streets Transportation System</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-6</num>
         <heading>Department to construct and operate system.</heading>
         <text>The Department must construct and operate a comprehensive Complete Streets Transportation System that enables access, mobility, economic development, attractive public spaces, health, and well-being for all people.</text>
@@ -6712,6 +6942,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-7</num>
         <heading>System to ensure safety, etc., and convenience of all users.</heading>
         <text>This Transportation System must be designed and operated in ways that ensure the safety, security, comfort, access, and convenience of all users of the streets, including pedestrians, bicyclists, public transit users, emergency responders, transporters of commercial goods, motor vehicles, and freight providers.</text>
@@ -6720,6 +6951,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-8</num>
         <heading>System to include connected facilities accommodating all travel modes.</heading>
         <text>This Transportation System must include integrated networks of connected facilities accommodating all modes of travel.</text>
@@ -6728,6 +6960,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-9</num>
         <heading>System to promote walking, biking, and public transit.</heading>
         <text>This Transportation System must, to the greatest extent possible, promote walking, biking, and public transit.</text>
@@ -6736,6 +6969,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-10</num>
         <heading>System to promote economic development.</heading>
         <text>This Transportation System must, to the greatest extent possible, promote economic development.</text>
@@ -6744,6 +6978,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-11</num>
         <heading>System to ensure equity.</heading>
         <text>This Transportation System must, to the greatest extent possible, ensure equity by actively pursuing the elimination of health, economic, and access disparities.</text>
@@ -6752,6 +6987,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-12</num>
         <heading>System may be constructed incrementally.</heading>
         <text>This Transportation System may be achieved through projects that fully implement complete streets or projects that incrementally implement complete streets through a series of smaller improvements over time.</text>
@@ -6761,7 +6997,7 @@
       </section>
       <section>
         <num>40-13 to 40-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6769,6 +7005,7 @@
       <num>III</num>
       <heading>Complete Streets Advisory Committee</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-16</num>
         <heading>Committee established.</heading>
         <text>There is a Complete Streets Advisory Committee.</text>
@@ -6777,6 +7014,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-17</num>
         <heading>Composition.</heading>
         <para>
@@ -6832,6 +7070,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-18</num>
         <heading>Meetings; Quorum; Voting.</heading>
         <para>
@@ -6854,6 +7093,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-19</num>
         <heading>Minutes.</heading>
         <para>
@@ -6871,6 +7111,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-20</num>
         <heading>Staff.</heading>
         <text>The Transportation Department must provide staff for the Advisory Committee.</text>
@@ -6879,6 +7120,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-21</num>
         <heading>Duties.</heading>
         <text>In addition to the other duties specified elsewhere in this subtitle, the Advisory Committee is responsible for:</text>
@@ -6912,7 +7154,7 @@
       </section>
       <section>
         <num>40-22 to 40-25</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6920,6 +7162,7 @@
       <num>IV</num>
       <heading>Design Standards</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-26</num>
         <heading>Definitions.</heading>
         <para>
@@ -6942,6 +7185,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-27</num>
         <heading>Design vehicles.</heading>
         <para>
@@ -6969,6 +7213,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-28</num>
         <heading>Design speed.</heading>
         <para>
@@ -7001,6 +7246,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-29</num>
         <heading>Lane widths.</heading>
         <para>
@@ -7037,6 +7283,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-30</num>
         <heading>DoT to use latest and best standards.</heading>
         <text>In constructing and operating its Complete Streets Transportation System, the Transportation Department must use the latest and best standards, including:</text>
@@ -7101,6 +7348,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-31</num>
         <heading>Compliance with State and Federal funding requirements.</heading>
         <text>The technical design standards required for state or federally funded projects will supersede local requirements in this subtitle and the Complete Streets Manual if there is an actual conflict between the local and state or federal standards and if funding will be impacted by adherence to the local standard.</text>
@@ -7111,7 +7359,7 @@
       </section>
       <section>
         <num>40-32 to 40-35</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -7141,6 +7389,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>40-36</num>
         <heading>Director to adopt Complete Streets Manual.</heading>
         <text>The Transportation Director, in consultation with the Complete Streets Advisory Committee, must adopt and may amend from time to time a Complete Streets Manual to carry out this subtitle.</text>
@@ -7150,6 +7399,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-37</num>
         <heading>Modal hierarchy.</heading>
         <text>The Complete Streets Manual must include a hierarchy of the various modes of travel, indicating the priority to be given to each mode.</text>
@@ -7158,6 +7408,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-38</num>
         <heading>Street typologies.</heading>
         <para>
@@ -7239,6 +7490,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-39</num>
         <heading>Project prioritization process.</heading>
         <para>
@@ -7257,6 +7509,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-40</num>
         <heading>Project delivery process.</heading>
         <para>
@@ -7290,6 +7543,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-41</num>
         <heading>Equity in community engagement.</heading>
         <text>The Complete Streets Manual must include community engagement policies that overcome barriers to engagement associated with race, income, age, disability, English language proficiency, and vehicle access of populations affected by a project, including a means of measuring success in overcoming these barriers.</text>
@@ -7298,6 +7552,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-42</num>
         <heading>Public comment period.</heading>
         <para>
@@ -7354,6 +7609,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-43</num>
         <heading>Final adoption.</heading>
         <para>
@@ -7378,7 +7634,7 @@
       </section>
       <section>
         <num>40-44 to 40-45</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -7386,6 +7642,7 @@
       <num>VI</num>
       <heading>Annual Report and Public Accountability</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-46</num>
         <heading>Annual report required.</heading>
         <text>On or before August 31 of each year, the Director, in consultation with the Advisory Committee, must:</text>
@@ -7411,6 +7668,7 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-47</num>
         <heading>Performance measures.</heading>
         <para>
@@ -7541,6 +7799,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-48</num>
         <heading>Equity lens.</heading>
         <para>
@@ -7570,6 +7829,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-49</num>
         <heading>Report and data to be publically available.</heading>
         <para>
@@ -7587,6 +7847,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-50</num>
         <heading>Accountability to communities.</heading>
         <text>The Transportation Department, in consultation with the Complete Streets Advisory Committee, must conduct public meetings and other community engagement and outreach activities to present the Complete Streets annual report to the public and solicit public input.</text>

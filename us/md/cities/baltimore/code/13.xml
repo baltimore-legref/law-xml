@@ -19,6 +19,7 @@
       <num>2</num>
       <heading>Department of Housing and Community Development</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-1</num>
         <heading>Determinations, declarations, and definitions.</heading>
         <para>
@@ -143,6 +144,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-2</num>
         <heading>Department; Commissioner.</heading>
         <para>
@@ -168,6 +170,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-3</num>
         <heading>General powers.</heading>
         <para>
@@ -262,6 +265,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-4</num>
         <heading>Areas of operation.</heading>
         <para>
@@ -304,6 +308,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-5</num>
         <heading>Renewal and Conservation Plans.</heading>
         <para>
@@ -374,6 +379,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-6</num>
         <heading>Adoption and approval of plan.</heading>
         <para>
@@ -611,6 +617,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-7</num>
         <heading>Specific powers.</heading>
         <para>
@@ -911,6 +918,17 @@
           </para>
         </para>
         <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §26</annotation>
+          <annotation doc="City of Balt., Md., Ord. 68-152" type="History">Ord. 68-152</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1972-017" type="History">Ord. 1972-017</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1975-1022" type="History">Ord. 1975-1022</annotation>
+          <annotation doc="City of Balt., Md., Ord. 1977-325" type="History">Ord. 1977-325</annotation>
+          <annotation doc="City of Balt., Md., Ord. 99-508" type="History">Ord. 99-508</annotation>
+          <annotation doc="City of Balt., Md., Ord. 03-517" type="History">Ord. 03-517</annotation>
+          <annotation doc="City of Balt., Md., Ord. 07-504" type="History">Ord. 07-504</annotation>
+          <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+          <annotation type="History">Texts Conformed 02/19/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (w) and (y)(1)) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Editor's Notes">
             <text>See Note to subsection (w).</text>
             <para>
@@ -1121,20 +1139,10 @@
               </para>
             </para>
           </annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (w) and (y)(1)) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §26</annotation>
-          <annotation doc="City of Balt., Md., Ord. 68-152" type="History">Ord. 68-152</annotation>
-          <annotation doc="City of Balt., Md., Ord. 1972-017" type="History">Ord. 1972-017</annotation>
-          <annotation doc="City of Balt., Md., Ord. 1975-1022" type="History">Ord. 1975-1022</annotation>
-          <annotation doc="City of Balt., Md., Ord. 1977-325" type="History">Ord. 1977-325</annotation>
-          <annotation doc="City of Balt., Md., Ord. 99-508" type="History">Ord. 99-508</annotation>
-          <annotation doc="City of Balt., Md., Ord. 03-517" type="History">Ord. 03-517</annotation>
-          <annotation doc="City of Balt., Md., Ord. 07-504" type="History">Ord. 07-504</annotation>
-          <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
-          <annotation type="History">Texts Conformed 02/19/21</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-8</num>
         <heading>Duties.</heading>
         <para>
@@ -1158,6 +1166,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-9</num>
         <heading>Cooperation by other City agencies.</heading>
         <text>The several officers, departments, bureaus, and agencies of the City of Baltimore shall cooperate with the Department of Housing and Community Development in the exercise of its powers and functions, and upon request, shall furnish such available information, records and statistics as may be needed by the Department of Housing and Community Development in the exercise of its powers and functions.</text>
@@ -1167,6 +1176,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-10</num>
         <heading>Title to property.</heading>
         <text>Title to all land and property and any interests therein acquired by the Department of Housing and Community Development shall be taken in the name of the Mayor and City Council of Baltimore, but the Department of Housing and Community Development shall act as custodian of all such land and property and interests therein.</text>
@@ -1176,6 +1186,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-11</num>
         <heading>Sale or lease proceeds.</heading>
         <para>
@@ -1194,6 +1205,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-12</num>
         <heading>Dissolution of Baltimore Urban Renewal and Housing Agency.</heading>
         <para>
@@ -1246,6 +1258,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-13</num>
         <heading>Transfer of powers from Department of Public Works.</heading>
         <para>
@@ -1283,6 +1296,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-14</num>
         <heading>Conflicts of interest.</heading>
         <para>
@@ -1320,6 +1334,7 @@
       <num>2A</num>
       <heading>Affordable Housing Program</heading>
       <section>
+        <prefix>§</prefix>
         <num>2A-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -1362,6 +1377,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2A-2</num>
         <heading>Findings.</heading>
         <para>
@@ -1394,6 +1410,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2A-3</num>
         <heading>Program established.</heading>
         <para>
@@ -1459,6 +1476,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2A-4</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -1472,12 +1490,13 @@
           <text>All rules and regulations adopted under this section must be approved by the Board of Estimates before they may take effect.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 06-181" type="History">Ord. 06-181</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2A-5</num>
         <heading>Program capitalization.</heading>
         <text>It is the intent of the Mayor and City Council of Baltimore that the Program be capitalized annually by appropriations of the Mayor and City Council of Baltimore.</text>
@@ -1486,6 +1505,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2A-6</num>
         <heading>Annual report.</heading>
         <text>The Commissioner shall issue to the Mayor and City Council of Baltimore an annual report that describes the Program's performance in the preceding year.</text>
@@ -1506,6 +1526,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>2B-1</num>
           <heading>Definitions – General.</heading>
           <para>
@@ -1535,9 +1556,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>
-              <em>{Repealed}</em>
-            </text>
+            <reason>Repealed</reason>
           </para>
           <para>
             <num>(g)</num>
@@ -1656,19 +1675,22 @@
             </para>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation doc="City of Balt., Md., Ord. 14-264" type="History">Ord. 14-264</annotation>
             <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
             <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+            <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
           </annotations>
         </section>
         <section>
           <num>2B-2</num>
-          <heading>{Repealed by Ord. 22-125}</heading>
-          <text><strong>Editor's Note</strong><strong><em>:</em></strong> For the Code-wide standard uses of <em>mandatory terms  ("must" and "shall"), prohibitory terms </em>("may not", "must not", and "no ... may"), and <em>permissive terms </em> ("may"). <em>see</em> City General Provisions Article, § 1-104.</text>
+          <reason>Repealed by Ord. 22-125</reason>
+          <annotations>
+            <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”). see City General Provisions Article, § 1-104.</annotation>
+          </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-3</num>
           <heading>Definitions – Affordability standards.</heading>
           <para>
@@ -1750,6 +1772,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-4</num>
           <heading>Findings and policy.</heading>
           <para>
@@ -1810,6 +1833,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-5</num>
           <heading>Rules of construction.</heading>
           <para>
@@ -1840,6 +1864,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-6</num>
           <heading>Scope and applicability.</heading>
           <para>
@@ -1898,6 +1923,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-7</num>
           <heading>Rules and regulations.</heading>
           <para>
@@ -1980,14 +2006,14 @@
             </para>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation type="History">Text Conformed 02/19/21</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </section>
         <section>
           <num>2B-8 to 2B-10</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -1995,6 +2021,7 @@
         <num>II</num>
         <heading>Inclusionary Housing Board</heading>
         <section>
+          <prefix>§</prefix>
           <num>2B-11</num>
           <heading>Board Established.</heading>
           <text>There is an Inclusionary Housing Board.</text>
@@ -2003,6 +2030,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-12</num>
           <heading>Composition.</heading>
           <para>
@@ -2089,6 +2117,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-13</num>
           <heading>Board officers; expenses.</heading>
           <para>
@@ -2122,6 +2151,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-14</num>
           <heading>Meetings; quorum; voting.</heading>
           <para>
@@ -2144,6 +2174,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-15</num>
           <heading>Staff.</heading>
           <text>The Department of Housing and Community Development must provide staff for the Board.</text>
@@ -2152,6 +2183,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-16</num>
           <heading>Annual Report.</heading>
           <para>
@@ -2218,6 +2250,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-17</num>
           <heading>Duties.</heading>
           <text>In addition to the other duties specified elsewhere in this subtitle, the Board is responsible for:</text>
@@ -2235,7 +2268,7 @@
         </section>
         <section>
           <num>2B-18 to 2B-20</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2243,6 +2276,7 @@
         <num>III</num>
         <heading>Inclusionary Requirements</heading>
         <section>
+          <prefix>§</prefix>
           <num>2B-21</num>
           <heading>Project receiving major public subsidy.</heading>
           <para>
@@ -2460,6 +2494,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-22</num>
           <heading>Project benefitting from significant land use authorization or rezoning.</heading>
           <para>
@@ -2610,6 +2645,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-23</num>
           <heading>Other projects – 30 or more units.</heading>
           <para>
@@ -2779,6 +2815,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-24</num>
           <heading>Other projects – Less than 30 units.</heading>
           <text>A developer of a project with less than 30 residential units may request the Housing Commissioner to provide cost offsets under § 2B-23 {"Other projects – 30 or more units"} if the developer voluntarily includes affordable housing in the project in accordance with subsection (b) of that section.</text>
@@ -2787,6 +2824,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-25</num>
           <heading>Source of income discrimination.</heading>
           <para>
@@ -2850,7 +2888,7 @@
         </section>
         <section>
           <num>2B-26 to 2B-30</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2858,6 +2896,7 @@
         <num>IV</num>
         <heading>Standards for Affordable Units</heading>
         <section>
+          <prefix>§</prefix>
           <num>2B-31</num>
           <heading>Comparable design.</heading>
           <para>
@@ -2910,6 +2949,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-32</num>
           <heading>Placement.</heading>
           <para>
@@ -2946,6 +2986,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-33</num>
           <heading>Simultaneous offering.</heading>
           <para>
@@ -2986,6 +3027,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-34</num>
           <heading>Right of first refusal.</heading>
           <para>
@@ -3015,6 +3057,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-35</num>
           <heading>Eligibility to purchase or rent.</heading>
           <para>
@@ -3045,6 +3088,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-36</num>
           <heading>Owner-occupancy of ownership units.</heading>
           <text>An affordable unit that is sold under this subtitle to an eligible household must be owner-occupied.</text>
@@ -3053,6 +3097,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-37</num>
           <heading>Management of rental units.</heading>
           <text>An affordable rental unit provided under this subtitle must be managed under the same management standards as all market-rate rental units in the development.</text>
@@ -3062,7 +3107,7 @@
         </section>
         <section>
           <num>2B-38 to 2B-40</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -3070,6 +3115,7 @@
         <num>V</num>
         <heading>Off-Site Substitution</heading>
         <section>
+          <prefix>§</prefix>
           <num>2B-41</num>
           <heading>"Off-site" defined.</heading>
           <text>In this Part V, "off-site" means outside the metes and bounds of the property on which a residential project is located.</text>
@@ -3078,6 +3124,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-42</num>
           <heading>In general.</heading>
           <text>The developer of a residential project may apply to provide off-site affordable residential units in whole or partial substitution for the units required by § 2B-22 {"Project benefitting from significant land-use authorization or rezoning"} or § 2B-23 {"Other projects – 30 or more units}, as the case may be.</text>
@@ -3086,6 +3133,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-43</num>
           <heading>Application.</heading>
           <para>
@@ -3115,6 +3163,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-44</num>
           <heading>Minimum criteria.</heading>
           <text>Off-site units may be allowed under this Part V only if:</text>
@@ -3131,6 +3180,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-45</num>
           <heading>Review.</heading>
           <text>The Housing Commissioner, with approval by the Board of Estimates, may approve a request if the requested variance will promote mixed-income housing opportunities in Baltimore City to an extent equal to or greater than compliance with this subtitle.</text>
@@ -3140,7 +3190,7 @@
         </section>
         <section>
           <num>2B-46 to 2B-50</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -3148,6 +3198,7 @@
         <num>VI</num>
         <heading>Continued Affordability</heading>
         <section>
+          <prefix>§</prefix>
           <num>2B-51</num>
           <heading>Rental units.</heading>
           <para>
@@ -3218,6 +3269,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-52</num>
           <heading>Ownership units.</heading>
           <para>
@@ -3265,7 +3317,7 @@
         </section>
         <section>
           <num>2B-53 to 2B-60</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -3273,6 +3325,7 @@
         <num>VII</num>
         <heading>Inclusionary Housing Offset Fund</heading>
         <section>
+          <prefix>§</prefix>
           <num>2B-61</num>
           <heading>Fund established.</heading>
           <para>
@@ -3290,6 +3343,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-62</num>
           <heading>Revenue sources.</heading>
           <text>The Offset Fund comprises:</text>
@@ -3306,6 +3360,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-63</num>
           <heading>Use of Fund – General.</heading>
           <text>Money deposited in the Offset Fund, along with any interest earned on that money, may be used only for the following purposes:</text>
@@ -3334,6 +3389,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-64</num>
           <heading>Use of Fund – Administration.</heading>
           <text>No more than 5% of the money in the Offset Fund may be used in any fiscal year for personnel or other costs of administering the Offset Fund.</text>
@@ -3342,6 +3398,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-65</num>
           <heading>Use of Fund – Public assistance.</heading>
           <text>At least half of the households that receive assistance from the Offset Fund must have earnings of not more than 60% of the AMI.</text>
@@ -3350,6 +3407,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-66</num>
           <heading>Administration.</heading>
           <para>
@@ -3367,6 +3425,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-67</num>
           <heading>Reporting to Board.</heading>
           <para>
@@ -3413,7 +3472,7 @@
         </section>
         <section>
           <num>2B-68 to 2B-70</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -3421,6 +3480,7 @@
         <num>VIII</num>
         <heading>Administrative and Judicial Review</heading>
         <section>
+          <prefix>§</prefix>
           <num>2B-71</num>
           <heading>Administrative appeals.</heading>
           <para>
@@ -3451,6 +3511,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2B-72</num>
           <heading>Judicial and appellate review.</heading>
           <para>
@@ -3464,7 +3525,6 @@
             <text>A party to the judicial review may appeal the court's final judgment to the Court of Special Appeals in accordance with the Maryland Rules of Procedure.</text>
           </para>
           <annotations>
-            <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation type="Editor's Notes">
               <text>Ordinance 07-474 contained the following special provisions dealing with the applicability / effectiveness of various provisions</text>
               <text>Section 2.  That, within 120 days of the effective date of this Ordinance, the Commissioner of Housing and Community Development shall adopt rules and regulations to implement this Ordinance.</text>
@@ -3528,6 +3588,7 @@
       <num>3</num>
       <heading>Human Services Division</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-1</num>
         <heading>Declaration of policy and findings of fact.</heading>
         <para>
@@ -3575,6 +3636,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-2</num>
         <heading>Human Services Division; Commission.</heading>
         <para>
@@ -3656,6 +3718,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-3</num>
         <heading>Staff.</heading>
         <para>
@@ -3708,6 +3771,7 @@
         <annotation type="Editor's Notes">Ordinance 18-130, which substantially amended Subtitle 5 {“Licensing of Rental Dwellings”} of this article, also amended '' 4-1, 4-6, 4-8, and 4-9 of this subtitle, all with a general effective date of August 1, 2018.  Subsequently,  Ordinance 20-428 (i) added a new § 4-12 to require the public posting of certain vacant structures with information of the structure’s ownership; (ii) repealed a provision (§ 4-7) that required certain vacant structure registration information to be confidential; and (iii) added a new § 4-14 to require the Housing Commissioner to submit an annual report detailing compliance with this subtitle – all with an effective date of May 1, 2021.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>4-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -3817,6 +3881,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-2</num>
         <heading>Scope.</heading>
         <text>This subtitle applies to:</text>
@@ -3839,20 +3904,22 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-3</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>4-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-5</num>
         <heading>Registration required.</heading>
         <para>
@@ -3892,6 +3959,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-6</num>
         <heading>Registration statement.</heading>
         <para>
@@ -3928,9 +3996,10 @@
       </section>
       <section>
         <num>4-7</num>
-        <heading>{Repealed by Ord. 20-428}</heading>
+        <reason>Repealed by Ord. 20-428</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-8</num>
         <heading>Registration fees.</heading>
         <para>
@@ -4021,6 +4090,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-9</num>
         <heading>Term and renewal.</heading>
         <text>A registration expires on December 31 of each year, unless it is renewed and the annual registration fee  paid before then.</text>
@@ -4031,9 +4101,10 @@
       </section>
       <section>
         <num>4-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-11</num>
         <heading>Interest and late fees.</heading>
         <para>
@@ -4076,6 +4147,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-12</num>
         <heading>Vacant structures: Posting ownership information.</heading>
         <para>
@@ -4124,9 +4196,10 @@
       </section>
       <section>
         <num>4-13</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-14</num>
         <heading>Annual report.</heading>
         <text>On or before June 30 of each year, the Commissioner shall submit an annual report to the Mayor and City Council detailing compliance with this subtitle, including:</text>
@@ -4144,9 +4217,10 @@
       </section>
       <section>
         <num>4-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-16</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -4166,6 +4240,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-17</num>
         <heading>Penalties.</heading>
         <para>
@@ -4190,7 +4265,6 @@
       <num>5</num>
       <heading>Licensing of Rental Dwellings</heading>
       <annotations>
-        <annotation type="Editor's Notes">The following text incorporates the many amendments made to this subtitle by Ordinance 18-130, subject to a general effective of August 1, 2018.</annotation>
         <annotation type="Editor's Notes">
           <text>Ordinance 18-130 added the following uncodified, short-term transitional provisions for (i) preexisting, currently licensed multiple-family dwellings and rooming houses (Ord. 18-130, at Section 3) and (ii) non-owner-occupied dwelling units in 1- or 2-family dwellings (Ord. 18-130, at Section 4)</text>
           <text>Section 3 -- </text>
@@ -4225,8 +4299,10 @@
             <text>the Housing Commissioner has not yet issued an approval or denial of that application.</text>
           </para>
         </annotation>
+        <annotation type="Editor's Notes">The following text incorporates the many amendments made to this subtitle by Ordinance 18-130, subject to a general effective of August 1, 2018.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>5-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -4314,21 +4390,23 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-2</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>5-3</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-4</num>
         <heading>License required.</heading>
         <para>
@@ -4355,6 +4433,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-5</num>
         <heading>Application for new or renewal license.</heading>
         <para>
@@ -4386,6 +4465,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-6</num>
         <heading>Prerequisites for new or renewal license – In general.</heading>
         <text>A rental dwelling license may be issued or renewed under this subtitle only if:</text>
@@ -4422,12 +4502,6 @@
           </para>
         </para>
         <annotations>
-          <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
-          <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
-          <annotation doc="City of Balt., Md., Ord. 13-093" type="History">Ord. 13-093</annotation>
-          <annotation doc="City of Balt., Md., Ord. 15-353" type="History">Ord. 15-353</annotation>
-          <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
-          <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
           <annotation type="Editor's Notes">
             <text>Chapter 494 {“Balcony Railing Inspections (Jonathon’s Law)”}, Acts of 2014, amended State Public Safety Article § 12-203 {“Minimum Livability Code”} to also require special inspections of balcony railings.  Specifically, new subsection (f)(4) provides</text>
             <para>
@@ -4446,6 +4520,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-7</num>
         <heading>Prerequisites for new or renewal license – Inspection.</heading>
         <para>
@@ -4605,6 +4680,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-8</num>
         <heading>License fees.</heading>
         <text>No fee is imposed for a rental dwelling license issued under this subtitle.</text>
@@ -4615,6 +4691,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-9</num>
         <heading>Tiered license terms.</heading>
         <para>
@@ -4668,9 +4745,10 @@
       </section>
       <section>
         <num>5-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-11</num>
         <heading>Posting license.</heading>
         <text>The license issued under this subtitle must be  prominently displayed:</text>
@@ -4688,6 +4766,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-12</num>
         <heading>Transfer of license.</heading>
         <para>
@@ -4706,6 +4785,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-13</num>
         <heading>Discontinuance of multiple-family or rooming-house operations.</heading>
         <text>Notwithstanding any discontinuance, in whole or in part, of a multiple-family dwelling's or a rooming house's operations, a license issued under this subtitle is still required unless the Housing Commissioner has issued a permit reflecting a change of use for the property.</text>
@@ -4716,9 +4796,10 @@
       </section>
       <section>
         <num>5-14</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-15</num>
         <heading>Denial, suspension, or revocation of license – In general.</heading>
         <para>
@@ -4801,6 +4882,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-16</num>
         <heading>Denial, suspension, or revocation of license – Notice and hearing.</heading>
         <para>
@@ -4827,6 +4909,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-17</num>
         <heading>Vacating premises.</heading>
         <text>The Commissioner may require a rental dwelling to be vacated within 24 hours if:</text>
@@ -4845,9 +4928,10 @@
       </section>
       <section>
         <num>5-18</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-19</num>
         <heading>Impairing constitutional rights.</heading>
         <para>
@@ -4875,6 +4959,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-20</num>
         <heading>Sanitation Guide.</heading>
         <para>
@@ -4901,9 +4986,10 @@
       </section>
       <section>
         <num>5-21</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-22</num>
         <heading>Public access to information.</heading>
         <text>The Housing Commissioner shall make freely available for review on and download from the website of the Department of Housing and Community Development:</text>
@@ -4929,9 +5015,10 @@
       </section>
       <section>
         <num>5-23</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-24</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -4961,6 +5048,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-25</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -4979,6 +5067,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-26</num>
         <heading>Penalties.</heading>
         <para>
@@ -5003,6 +5092,7 @@
       <num>6</num>
       <heading>Tenant's Right of First Refusal</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-1</num>
         <heading>Statement of public policy and purpose.</heading>
         <text>It is the intent and purpose of this subtitle that before title to any single-family residential rental property is voluntarily transferred, the tenant of that property shall have the opportunity to purchase the property on terms accepted as reasonable in the residential real estate market; and that residential property owners shall not be unreasonably impeded in selling their properties nor required to accept unreasonable terms of sale.</text>
@@ -5013,6 +5103,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-2</num>
         <heading>Definitions.</heading>
         <para>
@@ -5043,6 +5134,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-3</num>
         <heading>Tenant's right of first refusal.</heading>
         <text>Before a voluntary transfer of title to a single-family rental residential property may occur, the tenant of that property shall have the right of first refusal to purchase the property.  Such right shall be exercised in accordance with the provisions of this subtitle.</text>
@@ -5053,6 +5145,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-4</num>
         <heading>Exercise of right of first refusal.</heading>
         <para>
@@ -5143,6 +5236,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-5</num>
         <heading>Required conditions of offers and contracts.</heading>
         <para>
@@ -5205,6 +5299,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-6</num>
         <heading>Miscellaneous.</heading>
         <para>
@@ -5260,6 +5355,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-7</num>
         <heading>Exemptions.</heading>
         <text>The following transfers of title to single-family residential rental properties are exempt from the requirements of this subtitle:</text>
@@ -5354,6 +5450,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-8</num>
         <heading>Penalties.</heading>
         <para>
@@ -5380,6 +5477,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-9</num>
         <heading>Affidavit on transfers to third parties.</heading>
         <para>
@@ -5432,7 +5530,7 @@
       </section>
       <section>
         <num>6-10</num>
-        <heading>{Repealed by Ord.  22-125}</heading>
+        <reason>Repealed by Ord.  22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide standard for ity, see City General Provisions Article, § 1-214.</annotation>
         </annotations>
@@ -5476,6 +5574,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>6A-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -5573,9 +5672,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(i)</num>
@@ -5592,23 +5689,25 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">See also § 6A-4 {“Additional Commission member”} of this subtitle.</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
+          <annotation type="Editor's Notes">See also § 6A-4 {“Additional Commission member”} of this subtitle.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6A-2</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner, with the advice and consultation of the Commission, shall adopt rules and regulations to carry out this subtitle, including providing tenant education regarding their rights under this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6A-3</num>
         <heading>Right to counsel in eviction-related proceedings.</heading>
         <para>
@@ -5663,6 +5762,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6A-4</num>
         <heading>Additional Commission member.</heading>
         <para>
@@ -5697,6 +5797,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6A-5</num>
         <heading>Annual report.</heading>
         <para>
@@ -5736,8 +5837,10 @@
       </section>
       <section>
         <num>6A-6</num>
-        <heading>{Repealed by Ord.  22-125}</heading>
-        <text><strong>Editor's Note:</strong> For the Code-wide standard for severability,<em> see</em> City General Provisions Article, § 1-214.</text>
+        <reason>Repealed by Ord.  22-125</reason>
+        <annotations>
+          <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
+        </annotations>
       </section>
     </container>
     <container>
@@ -5748,6 +5851,7 @@
         <annotation type="Editor's Notes">This subtitle was added by Ordinance 21-040, effective October 30, 2021.  Section 3 of the Ordinance further provides that the Ordinance “will remain effective through September 30, 2022, and, immediately after that date, with no further action by the Mayor and the City Council, this Ordinance will be abrogated and of no further effect”.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>6B-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -5811,6 +5915,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6B-2</num>
         <heading>Program established.</heading>
         <para>
@@ -5833,6 +5938,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6B-3</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -5858,6 +5964,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6B-4</num>
         <heading>Program eligibility.</heading>
         <para>
@@ -5883,6 +5990,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6B-5</num>
         <heading>Program admission.</heading>
         <para>
@@ -5901,10 +6009,12 @@
       </section>
       <section>
         <num>6B-6</num>
-        <heading>{Reserved}</heading>
-        <text>
-          <strong>§ 6B-7.  Grant payment.</strong>
-        </text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>6B-7</num>
+        <heading>Grant payment.</heading>
         <para>
           <num>(a)</num>
           <heading>Manner of payment.</heading>
@@ -5920,6 +6030,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6B-8</num>
         <heading>Grant priority; equity.</heading>
         <text>To ensure that grants are disbursed in an equitable manner, the Mayor's Office shall prioritize grant recipients based on:</text>
@@ -5936,6 +6047,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6B-9</num>
         <heading>Denial of grant by the Mayor's Office.</heading>
         <para>
@@ -5996,6 +6108,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6B-10</num>
         <heading>Compliance.</heading>
         <text>Tenants and landlords involved in the Program must comply with all State and local laws regarding security deposits.</text>
@@ -6009,6 +6122,7 @@
       <num>7</num>
       <heading>Residential Lease Requirements</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-1</num>
         <heading>In general.</heading>
         <text>After August 1, 1981, any landlord who rents dwelling units by means of written leases shall comply with the following requirements.</text>
@@ -6018,6 +6132,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-2</num>
         <heading>Copy of lease to tenant.</heading>
         <text>A copy of the lease, signed by tenant and landlord, shall be given to tenant at the time of signing of the lease.</text>
@@ -6027,6 +6142,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-3</num>
         <heading>Information required.</heading>
         <para>
@@ -6191,12 +6307,13 @@
           <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
           <annotation doc="City of Balt., Md., Ord. 21-014" type="History">Ord. 21-014</annotation>
-          <annotation type="Editor's Notes">Subsection (a-1) was enacted on January 13, 2020, by Ord. 20-336 {“Water Accountability and Equity Act”).  For the effective date of this subsection, as more recently set  by Ord. 20-468 {“Water Accountability ... Act – Modifications”}, see Editor’s Note in City Code Article 24 {“Water”}, at the end of that article’s Subtitle 2 {“Bills”} – especially the quotes there from Ord. 20-468, Sections 4 and 5(b).</annotation>
-          <annotation type="Editor's Notes">Subsection (a-2) was enacted by Ordinance 21-014 {“Late Fees for Past Due Rent ”}, with an effective date of April 30, 2021. Section 3 of Ord. 21-014, however, specifies that “this Ordinance shall only apply prospectively to new leases and shall have no retroactive effect on leases entered into prior to the effective date of this Ordinance”.</annotation>
           <annotation type="Editor's Notes">In conjunction with its enactment of Subtitle 6A, Ordinance 20-465 also amended this § 7-3(c), subject to the same delayed effective date of April 1, 2021.</annotation>
+          <annotation type="Editor's Notes">Subsection (a-2) was enacted by Ordinance 21-014 {“Late Fees for Past Due Rent ”}, with an effective date of April 30, 2021. Section 3 of Ord. 21-014, however, specifies that “this Ordinance shall only apply prospectively to new leases and shall have no retroactive effect on leases entered into prior to the effective date of this Ordinance”.</annotation>
+          <annotation type="Editor's Notes">Subsection (a-1) was enacted on January 13, 2020, by Ord. 20-336 {“Water Accountability and Equity Act”).  For the effective date of this subsection, as more recently set  by Ord. 20-468 {“Water Accountability ... Act – Modifications”}, see Editor’s Note in City Code Article 24 {“Water”}, at the end of that article’s Subtitle 2 {“Bills”} – especially the quotes there from Ord. 20-468, Sections 4 and 5(b).</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-4</num>
         <heading>Exemptions.</heading>
         <text>The provisions of this subtitle do not apply to the following:</text>
@@ -6222,6 +6339,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-5</num>
         <heading>Responsibility for compliance.</heading>
         <text>The owner of the property has primary responsibility for compliance with the provisions of this subtitle.</text>
@@ -6231,6 +6349,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-6</num>
         <heading>Enforcement by tenant.</heading>
         <text>A tenant may seek relief from an appropriate court to restrain or enjoin any violation of the provisions of this subtitle.</text>
@@ -6240,6 +6359,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-7</num>
         <heading>Penalties.</heading>
         <text>Any property owner or landlord who leases residential property under a written lease which does not conform to the provisions of this subtitle, or who fails to give a tenant a copy of the lease as provided in § 7-2 of this subtitle and the tenants rights brochure as provided in § 7-3(c) of this subtitle, shall be guilty of a misdemeanor and, upon conviction, shall be subject to a fine of up to $100 for each violation.</text>
@@ -6262,6 +6382,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>8-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -6332,6 +6453,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-2</num>
         <heading>Rent  increase barred — on violation notice not generated by tenant.</heading>
         <para>
@@ -6365,6 +6487,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-3</num>
         <heading>Rent  increase barred — on violation notice generated by tenant.</heading>
         <para>
@@ -6391,6 +6514,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-4</num>
         <heading>Rent increases barred – during states of emergency.</heading>
         <para>
@@ -6481,6 +6605,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-5</num>
         <heading>Landlord's right of review.</heading>
         <text>The provisions of this subtitle do not limit a landlord's right, under the applicable provisions of the City Building, Fire, and Related Codes Article, to an administrative review of a violation notice.</text>
@@ -6493,6 +6618,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-6</num>
         <heading>Enforcement by tenant.</heading>
         <text>A tenant may seek relief from an appropriate court to restrain or enjoin any violation of § 8-2 and § 8-3 of this subtitle in accordance with State law.</text>
@@ -6503,6 +6629,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-7</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -6527,6 +6654,7 @@
       <num>8A</num>
       <heading>Eviction Chattels</heading>
       <section>
+        <prefix>§</prefix>
         <num>8A-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -6575,6 +6703,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8A-2</num>
         <heading>Notice of pending dispossession.</heading>
         <para>
@@ -6673,6 +6802,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8A-3</num>
         <heading>Vacating execution of warrant.</heading>
         <para>
@@ -6696,6 +6826,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8A-4</num>
         <heading>Unclaimed property is abandoned.</heading>
         <para>
@@ -6713,6 +6844,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8A-5</num>
         <heading>Disposition of abandoned property.</heading>
         <para>
@@ -6761,13 +6893,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b)(1) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b)(1) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8A-6</num>
         <heading>Prohibited placement in public way.</heading>
         <text>Under no circumstances may eviction chattels, abandoned or otherwise, be placed in a public right-of-way or on any public property.</text>
@@ -6777,9 +6910,10 @@
       </section>
       <section>
         <num>8A-7 to 8A-8</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8A-9</num>
         <heading>Penalties.</heading>
         <para>
@@ -6802,6 +6936,7 @@
       <num>8B</num>
       <heading>Foreclosure Chattels</heading>
       <section>
+        <prefix>§</prefix>
         <num>8B-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -6839,6 +6974,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8B-2</num>
         <heading>Notice of pending dispossession.</heading>
         <para>
@@ -6890,6 +7026,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8B-3</num>
         <heading>Vacating execution of writ.</heading>
         <para>
@@ -6914,6 +7051,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8B-4</num>
         <heading>Unclaimed property is abandoned.</heading>
         <para>
@@ -6931,6 +7069,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8B-5</num>
         <heading>Disposition of abandoned property.</heading>
         <text>The foreclosure purchaser shall dispose of abandoned personal property by:</text>
@@ -6955,6 +7094,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8B-6</num>
         <heading>Prohibited placement in public way.</heading>
         <text>Under no circumstances may any property, abandoned or otherwise, be placed in a public right-of-way or on any public property.</text>
@@ -6964,9 +7104,10 @@
       </section>
       <section>
         <num>8B-7 to 8B-8</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8B-9</num>
         <heading>Penalties.</heading>
         <para>
@@ -6989,6 +7130,7 @@
       <num>8C</num>
       <heading>Lease Renewals</heading>
       <section>
+        <prefix>§</prefix>
         <num>8C-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -7035,6 +7177,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8C-2</num>
         <heading>Lease renewal required.</heading>
         <para>
@@ -7086,6 +7229,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8C-3</num>
         <heading>Method of notice.</heading>
         <text>A landlord's offer to renew the lease or notice declining to offer a renewal must be in writing and delivered to the tenant by first-class mail with certificate of mailing or by electronic means if consented to in advance by the tenant in the writing.</text>
@@ -7094,6 +7238,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8C-4</num>
         <heading>Presumption of offer and acceptance.</heading>
         <para>
@@ -7124,10 +7269,12 @@
       </section>
       <section>
         <num>8C-5</num>
-        <heading>{Reserved}</heading>
-        <text>
-          <strong>§ 8C-6.  Penalties.</strong>
-        </text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>8C-6</num>
+        <heading>Penalties.</heading>
         <text>Any person who violates any provision of this subtitle or any provision of a rule, regulation, or order adopted or issued under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
@@ -7135,10 +7282,12 @@
       </section>
       <section>
         <num>8C-7</num>
-        <heading>{Reserved}</heading>
-        <text>
-          <strong>§ 8C-8.  Termination of subtitle.</strong>
-        </text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>8C-8</num>
+        <heading>Termination of subtitle.</heading>
         <text>This subtitle shall automatically expire on the 181<sup>st</sup> day following the expiration of the catastrophic health emergency declared by the Governor of Maryland on March 5, 2020, as amended or extended by the Governor.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
@@ -7150,6 +7299,7 @@
       <num>9</num>
       <heading>Rental Units in Floodplain District</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -7189,6 +7339,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-2</num>
         <heading>Notice to prospective tenant.</heading>
         <text>If any part of a rental unit, including the parking area or separate storage area for that unit, is within the Floodplain District, and the City has notified the landlord of that fact by first class mail, bulk mail, or otherwise, or the landlord has received notice of that fact from some other governmental agency, the landlord shall provide any prospective tenant with the following notice and acknowledgment:</text>
@@ -7206,6 +7357,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-3</num>
         <heading>Form of notice.</heading>
         <text>The notice and acknowledgment required by § 9-2 of this subtitle shall be in printed form, utilizing bold face type, and set apart from the body of the lease.  The acknowledgment shall provide space for a written acknowledgment that the tenant is cognizant of the flood risk.</text>
@@ -7216,6 +7368,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-4</num>
         <heading>Method of presentment.</heading>
         <para>
@@ -7235,6 +7388,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-5</num>
         <heading>Liability for omission.</heading>
         <text>Any landlord who has received notice from the City or any other governmental agency that the tenant's unit is within the Floodplain District and who has failed to give the notice and acknowledgment referred to in § 9-2 of this subtitle shall be liable for actual damages proximately caused by natural flooding.</text>
@@ -7246,9 +7400,10 @@
       </section>
       <section>
         <num>9-6</num>
-        <heading>{Vacant}</heading>
+        <reason>Vacant</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-7</num>
         <heading>Affidavit of owner.</heading>
         <text>Prior to the transfer of title from owner to purchaser of rental units situated in an area prone to flooding during unusually heavy or prolonged steady periods of rain, it shall be a precondition to the payment of the transfer tax imposed by Article 28, Subtitle 17 of the Baltimore City Code that the owner file an averment under penalty of perjury stating that he has notified the purchaser in writing of the possibility of such flooding.  Such averment shall be filed with the Director of Finance of Baltimore City.</text>
@@ -7258,6 +7413,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-8</num>
         <heading>Landlord's burden of proof.</heading>
         <para>
@@ -7286,6 +7442,7 @@
       <num>10</num>
       <heading>Condominiums</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-1</num>
         <heading>Legislative findings.</heading>
         <para>
@@ -7314,6 +7471,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-2</num>
         <heading>Definitions.</heading>
         <para>
@@ -7381,9 +7539,7 @@
         </para>
         <para>
           <num>(i)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(j)</num>
@@ -7420,6 +7576,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-3</num>
         <heading>Notices to City.</heading>
         <para>
@@ -7443,6 +7600,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-4</num>
         <heading>Designated areas.</heading>
         <text>The provisions of this subtitle shall apply only to the designated areas which are bounded by the following streets, the boundary streets to be included:</text>
@@ -7462,6 +7620,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-5</num>
         <heading>Extended leases.</heading>
         <para>
@@ -7481,6 +7640,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-6</num>
         <heading>Substantial rehabilitation.</heading>
         <text>If a conversion to condominium involves substantial rehabilitation or reconstruction of a unit, before a designated household can be required to vacate that unit the developer must obtain certification from the Commissioner of Housing and Community Development that the rehabilitation will constitute a danger to the health and safety of the tenants.</text>
@@ -7490,6 +7650,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-7</num>
         <heading>Applicability of subtitle.</heading>
         <text>The provisions of this subtitle and of § 11-137 of the Real Property Article shall apply to all rental facilities containing 5 or more units.</text>
@@ -7499,6 +7660,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-8</num>
         <heading>Complaints; penalties; enforcement.</heading>
         <para>
@@ -7551,6 +7713,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-9</num>
         <heading>Extended lease benefits; income eligibility.</heading>
         <para>
@@ -7578,6 +7741,7 @@
       <num>11</num>
       <heading>Registration of Vacant Lots</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -7623,6 +7787,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-2</num>
         <heading>Registration required.</heading>
         <para>
@@ -7682,6 +7847,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-3</num>
         <heading>Information required with registration.</heading>
         <para>
@@ -7723,6 +7889,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-4</num>
         <heading>Interest and late fees.</heading>
         <para>
@@ -7770,6 +7937,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-5</num>
         <heading>Criminal penalties.</heading>
         <para>
@@ -7798,6 +7966,7 @@
       <num>13</num>
       <heading>Licensing of Peep Show Establishments</heading>
       <section>
+        <prefix>§</prefix>
         <num>13-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -7848,20 +8017,21 @@
         </para>
         <para>
           <num>(e)</num>
-          <text><em>{Repealed</em>}</text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-093" type="History">Ord. 13-093</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
         <num>13-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-3</num>
         <heading>License and compliance required.</heading>
         <text>No person may operate a peep show establishment unless the person:</text>
@@ -7878,6 +8048,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-4</num>
         <heading>License term; fee.</heading>
         <para>
@@ -7908,6 +8079,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-5</num>
         <heading>Investigation of applicant.</heading>
         <text>The Commissioner must investigate each applicant for a new or renewal license to determine that:</text>
@@ -7941,6 +8113,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-6</num>
         <heading>Issuance of license.</heading>
         <text>The Commissioner must issue or renew the license if, on investigation, the Commissioner finds that all the requirements of this subtitle are met.</text>
@@ -7949,6 +8122,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-7</num>
         <heading>Denial of license.</heading>
         <para>
@@ -7966,6 +8140,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-8</num>
         <heading>Revocation or suspension of license.</heading>
         <para>
@@ -8020,6 +8195,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-9</num>
         <heading>Hearings.</heading>
         <para>
@@ -8068,9 +8244,10 @@
       </section>
       <section>
         <num>13-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-11</num>
         <heading>Device permit tags.</heading>
         <para>
@@ -8117,9 +8294,10 @@
       </section>
       <section>
         <num>13-12</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-13</num>
         <heading>Building and construction requirements.</heading>
         <para>
@@ -8194,6 +8372,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-14</num>
         <heading>Number of devices.</heading>
         <para>
@@ -8212,9 +8391,10 @@
       </section>
       <section>
         <num>13-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-16</num>
         <heading>Enforcement.</heading>
         <text>In addition to any other remedy provided in this subtitle or otherwise by law, this subtitle may be enforced by the Commissioner in the manner provided in § 104 {"Duties and powers of Building Official"} of the Baltimore City Building Code.</text>
@@ -8224,6 +8404,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-17</num>
         <heading>Penalties.</heading>
         <para>
@@ -8255,6 +8436,7 @@
       <num>16</num>
       <heading>Gas Appliances And Piping</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-1</num>
         <heading>Approval criteria.</heading>
         <text>To be approved for installation in Baltimore City, appliances, accessories and equipment must:</text>
@@ -8272,6 +8454,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-2</num>
         <heading>Registration of appliances.</heading>
         <para>
@@ -8302,6 +8485,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-3</num>
         <heading>Examination of equipment.</heading>
         <para>
@@ -8337,6 +8521,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-4</num>
         <heading>Cancellation of registration.</heading>
         <para>
@@ -8355,6 +8540,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-5</num>
         <heading>Gas tubing instruments.</heading>
         <text>Appliances, accessories and equipment herein referred to shall be construed to include instruments for use in connection with gas tubing or appliances which affect the normal and regular use of such tubing or appliances without said device, such as economy devices, accessories, solid tops, and other such equipment which is intended to be used in conjunction with self-contained appliances and which cannot be considered as a gas consuming appliance.</text>
@@ -8364,6 +8550,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-6</num>
         <heading>Information.</heading>
         <text>Any person, firm, or corporation may, without charge, secure from the Commissioner of Housing and Community Development of Baltimore City, information regarding the registration with the said Commissioner of any appliance, accessory, or equipment.</text>
@@ -8373,6 +8560,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-7</num>
         <heading>Establishment of Gas Appliance Board.</heading>
         <para>
@@ -8425,6 +8613,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-8</num>
         <heading>Duties of Gas Appliance Board.</heading>
         <para>
@@ -8464,6 +8653,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-9</num>
         <heading>Registration and examination of gas fitters.</heading>
         <para>
@@ -8554,6 +8744,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-10</num>
         <heading>Fees for examination and license.</heading>
         <para>
@@ -8606,6 +8797,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-11</num>
         <heading>Renewal of licenses.</heading>
         <text>All persons who are registered pursuant to the provisions of this subtitle shall have their gas fitter license for Baltimore City renewed annually on January 1 without the necessity for reexamination upon the payment of $75 for Master Gas Fitter or $25 for Journeyman Gas Fitter.</text>
@@ -8616,6 +8808,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-12</num>
         <heading>Lapse of registration.</heading>
         <para>
@@ -8639,6 +8832,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-13</num>
         <heading>Suspension of registration.</heading>
         <para>
@@ -8657,6 +8851,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-14</num>
         <heading>Permits for installation of gas piping and gas appliances.</heading>
         <text>Only registered Master Gas Fitters of Baltimore City may apply and receive permits to install gas piping and gas appliances.</text>
@@ -8666,6 +8861,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-15</num>
         <heading>Duties of Health Commissioner.</heading>
         <text>Inasmuch as the purpose of this subtitle is to safeguard the people of Baltimore City:</text>
@@ -8683,6 +8879,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-16</num>
         <heading>Penalties.</heading>
         <text>Any person, firm, or corporation violating any of the provisions of this subtitle shall be subject to prosecution, and upon conviction shall be subject to a fine of not less than $5 nor more than $100 for each offense.</text>
@@ -8697,6 +8894,7 @@
       <num>17</num>
       <heading>Board of Electrical Examiners and Supervisors</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -8735,6 +8933,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-2</num>
         <heading>Board.</heading>
         <para>
@@ -8858,6 +9057,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-3</num>
         <heading>Licensing required.</heading>
         <para>
@@ -8876,6 +9076,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-4</num>
         <heading>Qualifications of applicants.</heading>
         <para>
@@ -8899,6 +9100,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-5</num>
         <heading>Applications for license.</heading>
         <para>
@@ -8917,6 +9119,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-6</num>
         <heading>Appeal to board of arbitration.</heading>
         <para>
@@ -8940,6 +9143,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-7</num>
         <heading>Examinations.</heading>
         <para>
@@ -8986,6 +9190,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-8</num>
         <heading>Maintenance electricians.</heading>
         <para>
@@ -9015,6 +9220,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-9</num>
         <heading>Surety bond.</heading>
         <para>
@@ -9040,6 +9246,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-10</num>
         <heading>License issuance, renewal; fees.</heading>
         <para>
@@ -9180,6 +9387,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-11</num>
         <heading>Display of license.</heading>
         <text>Any and all persons granted a license or renewal of same shall display the same in a conspicuous place in the office or place of business of such licensee.</text>
@@ -9191,6 +9399,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-12</num>
         <heading>License not assignable.</heading>
         <text>No license or renewal of same granted or issued under the provisions of this subtitle shall be assignable or transferable, and every license and renewal of same shall specify the name of the person, firm, or corporation to whom it is issued, and in the case of a corporation, the principal officer or the designated representatives of said corporation, through whom the application for the said license was made.</text>
@@ -9202,6 +9411,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-13</num>
         <heading>Suspensions and revocations.</heading>
         <text>The Board shall have full power to suspend for not more than 90 days or revoke for proper cause any license or renewal of the same after a full hearing of all parties in interest.</text>
@@ -9213,6 +9423,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-14</num>
         <heading>Application of subtitle.</heading>
         <para>
@@ -9239,6 +9450,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-15</num>
         <heading>Penalties.</heading>
         <text>Any person, firm, or corporation who shall practice or engage or continue in the work of a master or maintenance electrician without having complied with all the provisions of this subtitle, and any person not licensed as master or maintenance electrician who shall do or perform any such work except under the direction of a master or maintenance electrician, and any person having been licensed as a master or maintenance electrician and who shall fail to renew his license as herein provided and shall do or perform any such work, or who shall violate any of the provisions of this subtitle, shall be guilty of a misdemeanor and, upon conviction thereof, shall be sentenced to pay a fine of not less than $25 nor more than $500 or to an imprisonment not exceeding 90 days, or both, in the discretion of the Court, and any such conviction shall ipso facto revoke and annul any license that may have been issued to such person.</text>
@@ -9253,6 +9465,7 @@
       <num>18</num>
       <heading>On-Site Utility Contractors</heading>
       <section>
+        <prefix>§</prefix>
         <num>18-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -9302,21 +9515,20 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
         <num>18-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-3</num>
         <heading>On-Site Utility Contractors Board.</heading>
         <para>
@@ -9378,6 +9590,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-4</num>
         <heading>General authority of Board.</heading>
         <text>To safeguard the health and safety of the people of the City, the Board may:</text>
@@ -9408,6 +9621,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-5</num>
         <heading>Health Commissioner to consult.</heading>
         <text>The Commissioner of Health or the Commissioner's representative must consult with the Board as necessary from time to time.</text>
@@ -9417,9 +9631,10 @@
       </section>
       <section>
         <num>18-6</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-7</num>
         <heading>License required.</heading>
         <text>No person may perform or directly supervise any on-site utility work in the City unless licensed to do so under this subtitle.</text>
@@ -9428,6 +9643,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-8</num>
         <heading>Only individuals to be licensed.</heading>
         <para>
@@ -9453,6 +9669,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-9</num>
         <heading>Qualifications for license.</heading>
         <para>
@@ -9491,6 +9708,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-10</num>
         <heading>Bonds.</heading>
         <para>
@@ -9529,6 +9747,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-11</num>
         <heading>License fee and term.</heading>
         <para>
@@ -9546,6 +9765,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-12</num>
         <heading>Renewal of license.</heading>
         <text>A license may be renewed annually, on or before December 31, on payment of a renewal fee of $150.</text>
@@ -9554,6 +9774,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-13</num>
         <heading>License non-assignable; single-company representation.</heading>
         <para>
@@ -9571,6 +9792,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-14</num>
         <heading>Lapsed license.</heading>
         <para>
@@ -9589,9 +9811,10 @@
       </section>
       <section>
         <num>18-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-16</num>
         <heading>Suspensions, revocations, denials.</heading>
         <para>
@@ -9634,6 +9857,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-17</num>
         <heading>Hearing.</heading>
         <para>
@@ -9692,9 +9916,10 @@
       </section>
       <section>
         <num>18-18</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-19</num>
         <heading>Enforcement.</heading>
         <text>In addition to any other remedy provided in this subtitle or otherwise by law, this subtitle may be enforced by the Commissioner in the manner provided in § 104{"Duties and powers of Building Official"} of the Baltimore City Building Code.</text>
@@ -9704,6 +9929,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-20</num>
         <heading>Penalties.</heading>
         <para>
@@ -9731,6 +9957,7 @@
       <num>21</num>
       <heading>Registration of Licensed Service Providers</heading>
       <section>
+        <prefix>§</prefix>
         <num>21-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -9745,9 +9972,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(d)</num>
@@ -9778,9 +10003,10 @@
       </section>
       <section>
         <num>21-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-3</num>
         <heading>Registration required.</heading>
         <text>Every service provider must:</text>
@@ -9809,6 +10035,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-4</num>
         <heading>Registration fees.</heading>
         <text>For the registration of  a service provider under this subtitle, the fee is as $25.</text>
@@ -9818,9 +10045,10 @@
       </section>
       <section>
         <num>21-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-6</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each violation.</text>

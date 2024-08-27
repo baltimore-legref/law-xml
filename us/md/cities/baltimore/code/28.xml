@@ -11,6 +11,7 @@
       <num>1</num>
       <heading>Oaths</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-1</num>
         <heading>Director may administer.</heading>
         <para>
@@ -37,6 +38,7 @@
       <num>2</num>
       <heading>Lien Certificates</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-1</num>
         <heading>Bureau of Liens created; lien certificates established.</heading>
         <text>The Director of Finance is hereby authorized and directed, in accordance with Article II, § (19) of the City Charter:</text>
@@ -58,6 +60,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-2</num>
         <heading>Chief Clerk and assistant.</heading>
         <para>
@@ -85,6 +88,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-3</num>
         <heading>Issuance and effect of lien certificates.</heading>
         <para>
@@ -137,6 +141,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-4</num>
         <heading>Bureau access to supporting information.</heading>
         <para>
@@ -158,6 +163,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-5</num>
         <heading>Payments by certificate holder.</heading>
         <text>In addition to the ordinary method of payment now in practice, immediately after the establishment of the Bureau herein provided for, any person holding a certificate issued by the said Bureau, as provided, shall be entitled to pay, and the Director of Finance shall receive in 1 payment all or any of the amounts constituting the separate charges or assessments shown by said certificates to be due, and the said Director shall thereafter distribute the various items thus collected to the respective departments to which they were primarily payable.</text>
@@ -171,6 +177,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-6</num>
         <heading>Certificate required for recordation.</heading>
         <para>
@@ -249,6 +256,7 @@
       <num>3</num>
       <heading>Refunds</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-1</num>
         <heading>Limitations period.</heading>
         <text>No refunds shall be made by the Director of Finance nor ordered by the Board of Municipal and Zoning Appeals where the claim is filed more than 3 years from the date of payment of the taxes or other municipal charges.</text>
@@ -263,6 +271,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-2</num>
         <heading>Director to examine.</heading>
         <text>The Director of Finance is hereby authorized to examine all claims for return of taxes and other municipal charges which are alleged to have been paid in error resulting in an overpayment or a double payment.</text>
@@ -277,6 +286,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-3</num>
         <heading>Required documentation; appeal to BMZA.</heading>
         <text>(a <em>)  In general.</em></text>
@@ -301,7 +311,6 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b)(1) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1950, art. 37, §31(1st sen.)(1st cl.), (2nd sen.)</annotation>
           <annotation type="Prior Codifications">1966, art. 28, §32(1st sen.)(1st cl.), (2nd sen.)</annotation>
           <annotation type="Prior Codifications">1976/83, art. 28, §1(a)(2nd, 3rd sens.), (b)</annotation>
@@ -310,9 +319,11 @@
           <annotation doc="City of Balt., Md., Ord. 67-1090" type="History">Ord. 67-1090</annotation>
           <annotation doc="City of Balt., Md., Ord. 76-147" type="History">Ord. 76-147</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b)(1) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-4</num>
         <heading>Action by BMZA.</heading>
         <para>
@@ -341,6 +352,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-5</num>
         <heading>Abatement of claim already paid.</heading>
         <para>
@@ -362,6 +374,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-6</num>
         <heading>List of refunds and abatements.</heading>
         <text>The Board of Municipal and Zoning Appeals shall keep a correct list or account of all claims for the refund or abatement of taxes or other municipal charges presented to or examined by said Board, which said list or account shall contain the names and addresses of the person or persons presenting such claims, the amount of taxes or other municipal charges refunded or abated, including those rejected and the reasons for their action in the premises.</text>
@@ -379,6 +392,7 @@
       <num>4</num>
       <heading>Collections</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-1</num>
         <heading>Director to collect.</heading>
         <para>
@@ -402,6 +416,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-2</num>
         <heading>Banks as tax-collection agents.</heading>
         <para>
@@ -444,9 +459,10 @@
       </section>
       <section>
         <num>4-3</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-4</num>
         <heading>Warning of lien and potential foreclosure.</heading>
         <para>
@@ -478,9 +494,9 @@
           <text>"<strong>Warning:  These charges are a lien on the property identified.  Failure to timely pay these charges can lead to sale of the lien at auction and possible foreclosure of the property identified.  Foreclosure can result in the loss of ownership of the property.</strong>"</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Subsection (a) was amended by Ordinance 20-336 {“Water Accountability and Equity Act”} to add an exception for certain water and wastewater bills.  That Ordinance was enacted on January 13, 2020, but with a delayed effective date of July 13, 2020.  Subsequently, Ordinance 20-468 {“Water Accountability ... Act – Modifications”}extended the effective date for this exception to Jan, 13, 2021.  See Editor’s Note in City Code Article 24 {“Water”}, at the end of that article’s Subtitle 2 {“Bills”} – especially the quote there from Ord. 20-468, Sections 3 and 5(e)(5).</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-411" type="History">Ord. 15-411</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
+          <annotation type="Editor's Notes">Subsection (a) was amended by Ordinance 20-336 {“Water Accountability and Equity Act”} to add an exception for certain water and wastewater bills.  That Ordinance was enacted on January 13, 2020, but with a delayed effective date of July 13, 2020.  Subsequently, Ordinance 20-468 {“Water Accountability ... Act – Modifications”}extended the effective date for this exception to Jan, 13, 2021.  See Editor’s Note in City Code Article 24 {“Water”}, at the end of that article’s Subtitle 2 {“Bills”} – especially the quote there from Ord. 20-468, Sections 3 and 5(e)(5).</annotation>
         </annotations>
       </section>
     </container>
@@ -498,6 +514,7 @@
       <num>6</num>
       <heading>Discounts, Interest, and Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-1</num>
         <heading>Discounts authorized.</heading>
         <text>On all bills for taxes for municipal purposes for real estate, chattels real, and personal property levied and imposed for a taxable year, the Director of Finance shall allow a discount of 0.5% if paid on or before July 31.</text>
@@ -520,6 +537,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-2</num>
         <heading>Interest and civil penalties imposed.</heading>
         <para>
@@ -594,6 +612,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-3</num>
         <heading>Three-quarter year taxes.</heading>
         <para>
@@ -644,6 +663,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-4</num>
         <heading>One-half year taxes.</heading>
         <para>
@@ -689,6 +709,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-5</num>
         <heading>One-quarter year taxes.</heading>
         <para>
@@ -744,6 +765,7 @@
       <num>7</num>
       <heading>Semiannual Payments for Owner-Occupied Dwellings</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -763,6 +785,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-2</num>
         <heading>Election of semiannual payment.</heading>
         <text>The real property taxes due on any owner-occupied residential property may be paid on a semiannual payment schedule as provided in State Tax-Property Article § 10-204.3.</text>
@@ -773,6 +796,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-3</num>
         <heading>Service charge.</heading>
         <para>
@@ -797,6 +821,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-4</num>
         <heading>Contents of bill.</heading>
         <text>The property tax bill under a semiannual schedule shall contain the information required by State Tax-Property Article § 10-204.3.</text>
@@ -807,6 +832,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-5</num>
         <heading>Due dates; interest and civil penalties.</heading>
         <para>
@@ -834,6 +860,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-6</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations:</text>
@@ -846,11 +873,11 @@
           <text>to conduct investigations to assure compliance with this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §16B(j)</annotation>
           <annotation doc="City of Balt., Md., Ord. 94-323" type="History">Ord. 94-323</annotation>
           <annotation doc="City of Balt., Md., Ord. 03-534" type="History">Ord. 03-534</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
     </container>
@@ -862,6 +889,7 @@
         <annotation type="Editor's Notes">This subtitle was added by Ordinance 21-065, effective July 1, 2023.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>7A-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -884,6 +912,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7A-2</num>
         <heading>Election of installment payments.</heading>
         <para>
@@ -913,6 +942,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7A-3</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City  General Provisions Article, the Director may adopt rules and regulations to carry out the provisions of this subtitle.</text>
@@ -926,6 +956,7 @@
       <num>8</num>
       <heading>Tax Sales</heading>
       <section>
+        <prefix>§</prefix>
         <num>8-1</num>
         <heading>Interest rate on redemptions from tax sales.</heading>
         <text>Pursuant to the authorization contained in State Tax-Property Article §14-820(b)(3), the interest rate applicable to redemptions of property from tax sales in Baltimore City is:</text>
@@ -948,6 +979,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-2</num>
         <heading>Tax deeds copied, recorded.</heading>
         <text>The Comptroller of the City shall, on receipt of a deed from the Director of Finance of any property purchased by the City of Baltimore at any sale for taxes:</text>
@@ -968,7 +1000,6 @@
           <text>when recorded, retain the original deed in the Comptroller's office.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This section was amended by Ordinance 21-032, effective January 10, 2022, to coordinate with the online database that will be required by that Ordinance.  Cf. Code Article 5, § 16-1, and accompanying Editor’s Note.</annotation>
           <annotation type="Prior Codifications">City Code, 1893, art. 50, §67</annotation>
           <annotation type="Prior Codifications">1927, art. 46, §76</annotation>
           <annotation type="Prior Codifications">1950, art. 37, §45</annotation>
@@ -977,9 +1008,11 @@
           <annotation doc="City of Balt., Md., Ord. 1880-045" type="History">Ord. 1880-045</annotation>
           <annotation doc="City of Balt., Md., Ord. 76-141" type="History">Ord. 76-141</annotation>
           <annotation doc="City of Balt., Md., Ord. 21-032" type="History">Ord. 21-032</annotation>
+          <annotation type="Editor's Notes">This section was amended by Ordinance 21-032, effective January 10, 2022, to coordinate with the online database that will be required by that Ordinance.  Cf. Code Article 5, § 16-1, and accompanying Editor’s Note.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-3</num>
         <heading>Resales of tax property.</heading>
         <para>
@@ -1044,6 +1077,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-4</num>
         <heading>Reporting resales.</heading>
         <text>The City Comptroller shall report to the Supervisor of Assessments for Baltimore City, all property that may be sold by him under the provisions of the foregoing sections, with the names of the purchasers thereof, in order that the same may be properly assessed to the owners.</text>
@@ -1058,6 +1092,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-5</num>
         <heading>Properties exempt from sale.</heading>
         <para>
@@ -1156,13 +1191,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">'' 8-5 and 8-6 of this subtitle were enacted November 2, 2020, by Ordinance 20-427, with an effective date of July 21, 2021.</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-427" type="History">Ord. 20-427</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">'' 8-5 and 8-6 of this subtitle were enacted November 2, 2020, by Ordinance 20-427, with an effective date of July 21, 2021.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-6</num>
         <heading>City Tax Sale Ombudsman.</heading>
         <para>
@@ -1220,8 +1256,8 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">'' 8-5 and 8-6 of this subtitle were enacted November 2, 2020, by Ordinance 20-427, with an effective date of July 21, 2021.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-427" type="History">Ord. 20-427</annotation>
+          <annotation type="Editor's Notes">'' 8-5 and 8-6 of this subtitle were enacted November 2, 2020, by Ordinance 20-427, with an effective date of July 21, 2021.</annotation>
         </annotations>
       </section>
     </container>
@@ -1230,6 +1266,7 @@
       <num>8.1</num>
       <heading>In Rem Foreclosure – Vacant and Abandoned Property</heading>
       <section>
+        <prefix>§</prefix>
         <num>8.1-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -1267,41 +1304,8 @@
           <text>"Tax" has the meaning stated in § 14-801 {"Definitions: Tax"} of the State Tax-Property Article<em>.</em></text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">
-            <text>State Tax-Property Art. § 14-873(b), as enacted by Chapter 276, 2019 Laws of Maryland, reads as follows</text>
-            <para>
-              <num>(b)</num>
-              <text>"Interested party" means:</text>
-              <para>
-                <num>(1)</num>
-                <text>the person who last appears as owner of the real property on the collector's tax roll;</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>a mortgagee of the property or assignee of a mortgage of record;</text>
-              </para>
-              <para>
-                <num>(3)</num>
-                <text>a holder of a beneficial interest in a deed of trust recorded against the real property;</text>
-              </para>
-              <para>
-                <num>(4)</num>
-                <text>a taxing agency that has the authority to collect tax on the real property; or</text>
-              </para>
-              <para>
-                <num>(5)</num>
-                <text>any person having an interest in the real property whose identity and address are:</text>
-                <para>
-                  <num>(i)</num>
-                  <text>reasonably ascertainable from the county land records; or</text>
-                </para>
-                <para>
-                  <num>(ii)</num>
-                  <text>revealed by a full title search consisting of at least 50 years.</text>
-                </para>
-              </para>
-            </para>
-          </annotation>
+          <annotation doc="City of Balt., Md., Ord. 20-393" type="History">Ord. 20-393</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">
             <text>State Tax-Property Art. § 14-801(d), as re-enacted by Chapter 276, 2019 Laws of Maryland, reads as follows</text>
             <para>
@@ -1316,11 +1320,10 @@
               </para>
             </para>
           </annotation>
-          <annotation doc="City of Balt., Md., Ord. 20-393" type="History">Ord. 20-393</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8.1-2</num>
         <heading>Authorization.</heading>
         <text>In accordance with State Tax-Property Article '' 14-873 through 14-876, the Mayor and City Council is authorized to subject certain property to judicial in rem foreclosure and sale.</text>
@@ -1329,6 +1332,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8.1-3</num>
         <heading>HCD may initiate action; Applicable properties.</heading>
         <para>
@@ -1406,23 +1410,27 @@
       </section>
       <section>
         <num>8.1-4</num>
-        <heading>{Reserved}</heading>
-        <text>
-          <strong>§ 8.1-5.  Rules and regulations.</strong>
-        </text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>8.1-5</num>
+        <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner of Housing and Community Development may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-393" type="History">Ord. 20-393</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>8.1-6</num>
-        <heading>{Reserved}</heading>
-        <text>
-          <strong>§ 8.1-7.  Complaint.</strong>
-        </text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>8.1-7</num>
+        <heading>Complaint.</heading>
         <para>
           <num>(a)</num>
           <heading>Pre-complaint notice.</heading>
@@ -1546,6 +1554,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8.1-8</num>
         <heading>Defendants; Service of process.</heading>
         <para>
@@ -1729,6 +1738,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8.1-9</num>
         <heading>Post-filing notice.</heading>
         <text>Within 5 days after the filing of the complaint, the Department shall send a copy of the complaint to each interested party to the action, by first-class mail and certified mail, postage pre-paid, return receipt requested, to the address or addresses identified in the caption of the complaint, if those addresses were found.</text>
@@ -1737,6 +1747,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8.1-10</num>
         <heading>Sufficiency of notice.</heading>
         <text>The provisions of this subtitle as to notice and service of process to persons who may have an interest in a property, in conjunction with the order of publication, routine tax notices, and the pre-filing and post-filing notices required by this subtitle, as well as the knowledge of the taxes and the consequences for nonpayment of the taxes is declared:</text>
@@ -1754,6 +1765,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8.1-11</num>
         <heading>Hearing.</heading>
         <para>
@@ -1778,6 +1790,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8.1-12</num>
         <heading>Judgment.</heading>
         <para>
@@ -1836,6 +1849,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8.1-13</num>
         <heading>Title; Recordation.</heading>
         <para>
@@ -1866,10 +1880,12 @@
       </section>
       <section>
         <num>8.1-14</num>
-        <heading>{Reserved}</heading>
-        <text>
-          <strong>§ 8.1-15.  Post-judgment sale.</strong>
-        </text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>8.1-15</num>
+        <heading>Post-judgment sale.</heading>
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
@@ -1919,6 +1935,7 @@
       <num>9</num>
       <heading>Exemptions</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-1</num>
         <heading>Household furnishings.</heading>
         <text>On and after the year 1943, household furniture and effects held for the household use of the owner or members of his family, and not held or employed for purposes of profit or in connection with any business, profession, or occupation, shall be exempt from assessment and taxation.</text>
@@ -1930,6 +1947,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-2</num>
         <heading>Manufacturers.</heading>
         <para>
@@ -1999,6 +2017,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-3</num>
         <heading>Stock in business.</heading>
         <text>The stock in business of every person, firm, corporation, or other legal entity engaged in any commercial business in the City of Baltimore is exempt from taxation for all ordinary municipal purposes of the Mayor and City Council of Baltimore.</text>
@@ -2011,6 +2030,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-4</num>
         <heading>Inventory of importer.</heading>
         <text>The inventories of foreign imports of importers located within Baltimore City shall be exempt from ordinary municipal taxation, provided the imported property is in the hands of the importer and is in the original package.</text>
@@ -2020,6 +2040,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-5</num>
         <heading>New and expanded manufacturers, milk processors, laundries.</heading>
         <para>
@@ -2085,6 +2106,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-6</num>
         <heading>Affordable and inclusionary housing.</heading>
         <para>
@@ -2227,12 +2249,13 @@
           <text>The property tax exemption granted by this section is contingent on the enactment and continuation of State legislation that authorizes the exemption.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-7</num>
         <heading>Private aircraft landing areas.</heading>
         <para>
@@ -2258,12 +2281,13 @@
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out the provisions of this section.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this subsection to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-275" type="History">Ord. 10-275</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this subsection to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-8</num>
         <heading>Community-managed open space.</heading>
         <para>
@@ -2350,9 +2374,9 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-499" type="History">Ord. 16-499</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
     </container>
@@ -2361,6 +2385,7 @@
       <num>10</num>
       <heading>Credits</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-1</num>
         <heading>Homestead property.</heading>
         <text>Pursuant to the authorization contained in State Tax-Property Article § 9-105, for the taxable year beginning July 1, 1993, the homestead credit percentage for the City property tax is 104%.</text>
@@ -2372,6 +2397,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-1.1</num>
         <heading>Portable homestead.</heading>
         <para>
@@ -2626,18 +2652,17 @@
         </para>
         <para>
           <num>(l)</num>
-          <text>
-            <em>{Repealed by Ord. 22-166.; subsection titled: "Termination of program"}</em>
-          </text>
+          <reason>Repealed by Ord. 22-166.; subsection titled: “Termination of program”</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-303" type="History">Ord. 14-303</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-166" type="History">Ord. 22-166</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-2</num>
         <heading>Dwellings on cemetery property.</heading>
         <para>
@@ -2676,14 +2701,15 @@
           <text>Any applicant who makes a false statement for the purpose of obtaining a tax credit under this section is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment for not more than 90 days or both fine and imprisonment.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75A</annotation>
           <annotation doc="City of Balt., Md., Ord. 86-780" type="History">Ord. 86-780</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-3</num>
         <heading>Vacant dwellings.</heading>
         <para>
@@ -2781,17 +2807,18 @@
           <text>Any applicant who, for the purpose of obtaining a tax credit under the provisions of this section, makes a false statement on the application shall be guilty of a misdemeanor and shall be fined not more than $500.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75B</annotation>
           <annotation doc="City of Balt., Md., Ord. 93-234" type="History">Ord. 93-234</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>10-4</num>
-        <heading>{Repealed by Ord. 09-217}</heading>
+        <reason>Repealed by Ord. 09-217</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-5</num>
         <heading>Newly constructed dwellings.</heading>
         <para>
@@ -2933,7 +2960,6 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75D</annotation>
           <annotation doc="City of Balt., Md., Ord. 95-464" type="History">Ord. 95-464</annotation>
           <annotation doc="City of Balt., Md., Ord. 98-283" type="History">Ord. 98-283</annotation>
@@ -2944,9 +2970,11 @@
           <annotation doc="City of Balt., Md., Ord. 09-197" type="History">Ord. 09-197</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-260" type="History">Ord. 14-260</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-6</num>
         <heading>Home improvements.</heading>
         <para>
@@ -3051,6 +3079,12 @@
           </para>
         </para>
         <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75E</annotation>
+          <annotation doc="City of Balt., Md., Ord. 94-446" type="History">Ord. 94-446</annotation>
+          <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
+          <annotation doc="City of Balt., Md., Ord. 07-552" type="History">Ord. 07-552</annotation>
+          <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
+          <annotation type="History">Text Conformed 02/25/21</annotation>
           <annotation type="Editor's Notes">
             <text>Cf. Editor’s Note to § 10-1.1(j).</text>
             <para>
@@ -3062,15 +3096,10 @@
               <text>delegate powers, duties, or functions in connection with the administration of the credit authorized by this section to the City Collector or any other employee of the City.</text>
             </para>
           </annotation>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75E</annotation>
-          <annotation doc="City of Balt., Md., Ord. 94-446" type="History">Ord. 94-446</annotation>
-          <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
-          <annotation doc="City of Balt., Md., Ord. 07-552" type="History">Ord. 07-552</annotation>
-          <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
-          <annotation type="History">Text Conformed 02/25/21</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-7</num>
         <heading>Neighborhood preservation and stabilization demonstration project.</heading>
         <para>
@@ -3155,14 +3184,15 @@
           <text>Any person who makes a false statement for the purpose of obtaining a tax credit under this section is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment for not more than 6 months, or both.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75F</annotation>
           <annotation doc="City of Balt., Md., Ord. 96-049" type="History">Ord. 96-049</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-588" type="History">Ord. 99-588</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-8</num>
         <heading>Historic improvements, restorations, and rehabilitations.</heading>
         <para>
@@ -3499,7 +3529,6 @@
           <text>Any person who knowingly makes a false statement on or in connection with an application for a tax credit under this section or in connection with any report or statement supporting a property's continued eligibility for a tax credit granted under this section is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75G</annotation>
           <annotation doc="City of Balt., Md., Ord. 95-668" type="History">Ord. 95-668</annotation>
           <annotation doc="City of Balt., Md., Ord. 97-183" type="History">Ord. 97-183</annotation>
@@ -3520,9 +3549,11 @@
           <annotation doc="City of Balt., Md., Ord. 21-105" type="History">Ord. 21-105</annotation>
           <annotation doc="City of Balt., Md., Ord. 23-192" type="History">Ord. 23-192</annotation>
           <annotation doc="City of Balt., Md., Ord. 23-253" type="History">Ord. 23-253</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-9</num>
         <heading>Newly constructed market-rate rental housing.</heading>
         <para>
@@ -3628,13 +3659,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75H</annotation>
           <annotation doc="City of Balt., Md., Ord. 95-680" type="History">Ord. 95-680</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-10</num>
         <heading>Brownfields.</heading>
         <para>
@@ -3758,13 +3790,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75I</annotation>
           <annotation doc="City of Balt., Md., Ord. 98-248" type="History">Ord. 98-248</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-11</num>
         <heading>South Baltimore Little League.</heading>
         <para>
@@ -3789,13 +3822,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75J</annotation>
           <annotation doc="City of Balt., Md., Ord. 98-282" type="History">Ord. 98-282</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-12</num>
         <heading>Northwest Family Sport Center.</heading>
         <para>
@@ -3816,13 +3850,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75K</annotation>
           <annotation doc="City of Balt., Md., Ord. 98-284" type="History">Ord. 98-284</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-13</num>
         <heading>Telecommunications renovations.</heading>
         <para>
@@ -3958,14 +3993,15 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75L</annotation>
           <annotation doc="City of Balt., Md., Ord. 98-350" type="History">Ord. 98-350</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-14</num>
         <heading>Arts and entertainment districts.</heading>
         <para>
@@ -4188,6 +4224,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-15</num>
         <heading>"Fallen Heroes".</heading>
         <para>
@@ -4297,12 +4334,13 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-664" type="History">Ord. 04-664</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-16</num>
         <heading>Targeted Homeowner's Tax Credit.</heading>
         <para>
@@ -4359,12 +4397,13 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord.  12-009" type="History">Ord.  12-009</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-17</num>
         <heading>High-performance market-rate rental housing – Targeted areas.</heading>
         <para>
@@ -4688,7 +4727,6 @@
           <text>Applications for the credit may not be accepted after December 31, 2017.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-112" type="History">Ord. 13-112</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-175" type="History">Ord. 13-175</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-278" type="History">Ord. 14-278</annotation>
@@ -4696,9 +4734,11 @@
           <annotation doc="City of Balt., Md., Ord. 16-554" type="History">Ord. 16-554</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-068" type="History">Ord. 17-068</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-18</num>
         <heading>High-performance market-rate rental housing – Citywide.</heading>
         <para>
@@ -4951,8 +4991,6 @@
           <text>Applications for the credit may not be accepted after December 31, 2027.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-          <annotation type="Editor's Notes">Ordinance 19-331, enacted December 18, 2019, amended subsection (a)(3)(i) to reduce the required number of rental units from 20 units to 10 units.  Section 2 of Ord. 19-331 states that the amendment “shall apply retroactively to all projects under construction pursuant to a building permit that is valid as of the date this Ordinance is enacted, provided that: (i) the project has not received a final occupancy permit prior to the date this Ordinance is enacted; and (ii) an Initial Application has been submitted to the Department of Finance within 90 days of the date this Ordinance is enacted.”</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-278" type="History">Ord. 14-278</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-554" type="History">Ord. 16-554</annotation>
@@ -4961,9 +4999,12 @@
           <annotation type="History">19-331</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
           <annotation doc="City of Balt., Md., Ord. 21-104" type="History">Ord. 21-104</annotation>
+          <annotation type="Editor's Notes">Ordinance 19-331, enacted December 18, 2019, amended subsection (a)(3)(i) to reduce the required number of rental units from 20 units to 10 units.  Section 2 of Ord. 19-331 states that the amendment “shall apply retroactively to all projects under construction pursuant to a building permit that is valid as of the date this Ordinance is enacted, provided that: (i) the project has not received a final occupancy permit prior to the date this Ordinance is enacted; and (ii) an Initial Application has been submitted to the Department of Finance within 90 days of the date this Ordinance is enacted.”</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-18.1</num>
         <heading>High-performance newly constructed dwellings.</heading>
         <para>
@@ -5135,18 +5176,19 @@
           <text>Notwithstanding any other provision of this section, additional owners whose settlement on the purchase of a high-performance newly constructed dwelling occurs after June 30, 2027, may not apply for a credit under this section.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This section was enacted by Ordinance 19-290 and became effective on August 29, 2019.  Ord. 19-290 proposed to codify this section as a new § 10-31 but, for various reasons, the section is better codified here, adjacent to two preexisting tax credits for “high-performance” structures.</annotation>
-          <annotation type="Editor's Notes">This section was amended by Ordinance 21-027, effective June 14, 2021, among other things, to revise the definition of “newly constructed dwelling” and to clarify and extend the credit qualification deadlines for certain high-performance newly constructed dwellings.  Section 3 of that Ordinance provides: “[I]f settlement on the purchase of the high-performance newly constructed dwelling occurred prior to the enactment of this Ordinance {i.e., June 14, 2021} and if the building permit for the construction of the ... dwelling was issued on or after July 1, 2019, but before July 1, 2020, an application for a tax credit under ... this Ordinance must be filed no later than December 31, 2021.”</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-290" type="History">Ord. 19-290</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-317" type="History">Ord. 19-317</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
           <annotation doc="City of Balt., Md., Ord. 21-027" type="History">Ord. 21-027</annotation>
           <annotation doc="City of Balt., Md., Ord. 21-106" type="History">Ord. 21-106</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">This section was amended by Ordinance 21-027, effective June 14, 2021, among other things, to revise the definition of “newly constructed dwelling” and to clarify and extend the credit qualification deadlines for certain high-performance newly constructed dwellings.  Section 3 of that Ordinance provides: “[I]f settlement on the purchase of the high-performance newly constructed dwelling occurred prior to the enactment of this Ordinance {i.e., June 14, 2021} and if the building permit for the construction of the ... dwelling was issued on or after July 1, 2019, but before July 1, 2020, an application for a tax credit under ... this Ordinance must be filed no later than December 31, 2021.”</annotation>
+          <annotation type="Editor's Notes">This section was enacted by Ordinance 19-290 and became effective on August 29, 2019.  Ord. 19-290 proposed to codify this section as a new § 10-31 but, for various reasons, the section is better codified here, adjacent to two preexisting tax credits for “high-performance” structures.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-19</num>
         <heading>Urban agricultural property.</heading>
         <para>
@@ -5370,17 +5412,18 @@
           <text>The Sustainability Office, after consultation with the Director of Finance, must analyze the public costs and benefits of the credits granted under this section and annually report its findings to the Board of Estimates and the City Council.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This section was enacted by Ordinance 15-350, effective June 7, 2015.  Section 3 of that Ordinance calls for future evaluation of the credit’s effectiveness, as follows: “[A]fter the 3rd tax year for which a tax credit is authorized  under this Ordinance, the Mayor and City Council must evaluate the effectiveness of the credit in promoting the use of property for urban agricultural purposes.”</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-350" type="History">Ord. 15-350</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">This section was enacted by Ordinance 15-350, effective June 7, 2015.  Section 3 of that Ordinance calls for future evaluation of the credit’s effectiveness, as follows: “[A]fter the 3rd tax year for which a tax credit is authorized  under this Ordinance, the Mayor and City Council must evaluate the effectiveness of the credit in promoting the use of property for urban agricultural purposes.”</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-20</num>
         <heading>City Supplement to Homeowners' Tax Credit Program.</heading>
         <para>
@@ -5481,6 +5524,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-21</num>
         <heading>Public safety officers.</heading>
         <para>
@@ -5676,14 +5720,15 @@
           <text>Applications for this credit may not be accepted after June 30, 2028.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-074" type="History">Ord. 17-074</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-209" type="History">Ord. 18-209</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-22</num>
         <heading>9-1-1 specialists.</heading>
         <para>
@@ -5875,13 +5920,14 @@
           <text>Applications for this credit may not be accepted after June 30, 2029.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This section was enacted by Ordinance 19-298 on September 30, 2019.  Per Section 3 of Ord. 19-298, the Ordinance became effective when enacted, “applicable for all taxable years beginning on or after July 1, 2019”.</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-298" type="History">Ord. 19-298</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">This section was enacted by Ordinance 19-298 on September 30, 2019.  Per Section 3 of Ord. 19-298, the Ordinance became effective when enacted, “applicable for all taxable years beginning on or after July 1, 2019”.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-23</num>
         <heading>Low-income employees.</heading>
         <para>
@@ -6077,17 +6123,18 @@
           <text>Applications for this credit may not be accepted after June 30, 2030.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This section was enacted by Ordinance 20-348, effective January 1, 2021.</annotation>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-348" type="History">Ord. 20-348</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation type="Editor's Notes">This section was enacted by Ordinance 20-348, effective January 1, 2021.</annotation>
         </annotations>
       </section>
       <section>
         <num>10-24 to 10-29</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-30</num>
         <heading>Food Desert Incentive Areas (Personal Property Tax Credit).</heading>
         <para>
@@ -6305,15 +6352,16 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-434" type="History">Ord. 15-434</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-151" type="History">Ord. 18-151</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-31</num>
         <heading>Energy Conservation Devices (Real Property Tax Credit).</heading>
         <para>
@@ -6541,6 +6589,7 @@
       <num>12</num>
       <heading>Payments in Lieu of Taxes:  Hotel Facilities in Urban Renewal Areas</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -6600,6 +6649,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-2</num>
         <heading>Findings and determinations.</heading>
         <text>The Mayor and City Council finds and determines that:</text>
@@ -6616,6 +6666,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-3</num>
         <heading>PILOTs authorized.</heading>
         <para>
@@ -6649,6 +6700,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-4</num>
         <heading>PILOT Agreements authorized.</heading>
         <para>
@@ -6685,6 +6737,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-5</num>
         <heading>Board of Estimates to set final terms.</heading>
         <text>The final terms of any PILOT Agreement or disposition agreement affecting any hotel facility and the final forms of all documents drafted in connection with it, are subject to the approval of the Board of Estimates.</text>
@@ -6710,6 +6763,7 @@
         <annotation type="Editor's Notes">Ordinance 04-727 amended § 16-1 to increase the tax rate and added a new § 16-2.  Section 3 of Ord. 04-727 provides that the Ordinance “takes effect on September 1, 2004, as to any instrument conveying title or securing a debt that contains a notary acknowledgment dated on or after September 1, 2004, and is presented for recordation on or after September 1, 2004.”</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>16-1</num>
         <heading>Tax imposed.</heading>
         <text>Pursuant to State Tax-Property Article § 12-103(b), the rate of tax applicable to instruments recorded with the Clerk of the Circuit Court for Baltimore City is:</text>
@@ -6730,6 +6784,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-2</num>
         <heading>Partial exemption for owner-occupied residence.</heading>
         <para>
@@ -6760,6 +6815,7 @@
       <num>17</num>
       <heading>Transfer Tax</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -6820,6 +6876,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-2</num>
         <heading>Tax imposed — In general.</heading>
         <para>
@@ -6889,7 +6946,6 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Ordinance 06-312 added subsection (d).  Section 3 of Ord. 06-312 provides that it “takes effect July 1, 2007, as to any instrument conveying title or securing a debt that contains a notary acknowledgment dated on or after July 1, 2007, and is presented for recordation on or after July 1, 2007.”</annotation>
           <annotation type="Prior Codifications">City Code, 1966, art. 28, §122(a)</annotation>
           <annotation type="Prior Codifications">1976/83, art. 28, §68(a)(1st par.)</annotation>
           <annotation doc="City of Balt., Md., Ord. 63-048" type="History">Ord. 63-048</annotation>
@@ -6904,9 +6960,11 @@
           <annotation doc="City of Balt., Md., Ord. 76-151" type="History">Ord. 76-151</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-367" type="History">Ord. 81-367</annotation>
           <annotation type="History">06-312</annotation>
+          <annotation type="Editor's Notes">Ordinance 06-312 added subsection (d).  Section 3 of Ord. 06-312 provides that it “takes effect July 1, 2007, as to any instrument conveying title or securing a debt that contains a notary acknowledgment dated on or after July 1, 2007, and is presented for recordation on or after July 1, 2007.”</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-3</num>
         <heading>Tax imposed — Corporate transfers.</heading>
         <para>
@@ -6941,6 +6999,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-4</num>
         <heading>Tax imposed — Other instruments.</heading>
         <para>
@@ -6968,6 +7027,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-5</num>
         <heading>Taxable basis.</heading>
         <para>
@@ -7072,6 +7132,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-6</num>
         <heading>Life estates, remainders, and reversions.</heading>
         <para>
@@ -7091,6 +7152,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-7</num>
         <heading>Property partly outside City.</heading>
         <text>In the case of a transfer of property lying partly within and partly without Baltimore City, the tax levied and imposed by this subtitle shall be based only upon the taxable basis of the portion or fractional part of said property which lies within Baltimore City.</text>
@@ -7101,6 +7163,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-8</num>
         <heading>Exemptions.</heading>
         <text>The tax levied and imposed by this subtitle shall not apply to the following:</text>
@@ -7168,6 +7231,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-9</num>
         <heading>Payment required for recordation.</heading>
         <para>
@@ -7189,6 +7253,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-10</num>
         <heading>Interest and civil penalties.</heading>
         <text>In the event any written instrument intending to effect a transfer subject to the tax levied and imposed under this subtitle is recorded by the Clerk of the Circuit Court for Baltimore City without such tax having been first paid, the person and/or other legal entity liable for the payment of such tax shall be assessed by the Director of Finance of Baltimore City for:</text>
@@ -7213,6 +7278,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-11</num>
         <heading>Liability for tax.</heading>
         <para>
@@ -7233,6 +7299,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-12</num>
         <heading>Administration of subtitle.</heading>
         <para>
@@ -7298,15 +7365,16 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1966, art. 28, §122(k)</annotation>
           <annotation type="Prior Codifications">1976/83, art. 28, §68(k)</annotation>
           <annotation doc="City of Balt., Md., Ord. 63-048" type="History">Ord. 63-048</annotation>
           <annotation doc="City of Balt., Md., Ord. 76-141" type="History">Ord. 76-141</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-13</num>
         <heading>Appeals.</heading>
         <para>
@@ -7350,6 +7418,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-14</num>
         <heading>Court Clerk not responsible for collections.</heading>
         <text>Nothing contained in this subtitle shall be taken or construed as imposing any duty or liability upon the Clerk of the Circuit Court for Baltimore City in connection with the imposition, payment or collection of the tax imposed by this subtitle, or the administration or enforcement of the provisions of this subtitle.</text>
@@ -7361,9 +7430,10 @@
       </section>
       <section>
         <num>17-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-16</num>
         <heading>Criminal penalties.</heading>
         <para>
@@ -7414,6 +7484,7 @@
         <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 18-215, effective January 11, 2019.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>17.1-1</num>
         <heading>Tax imposed.</heading>
         <para>
@@ -7448,6 +7519,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17.1-2</num>
         <heading>Transactions assessed; Tax rate.</heading>
         <para>
@@ -7460,6 +7532,8 @@
           <heading>Tax rate.</heading>
         </para>
         <annotations>
+          <annotation doc="City of Balt., Md., Ord. 18-215" type="History">Ord. 18-215</annotation>
+          <annotation doc="City of Balt., Md., Ord. 19-233" type="History">Ord. 19-233</annotation>
           <annotation type="Editor's Notes">
             <text>This “rate of tax” in this subsection was amended by Ord. 19-233, effective March 19, 2019.</text>
             <text>The rate of tax shall be as follows:</text>
@@ -7472,11 +7546,10 @@
               <text>40% on the amount collected under Subtitle 17 of this article.</text>
             </para>
           </annotation>
-          <annotation doc="City of Balt., Md., Ord. 18-215" type="History">Ord. 18-215</annotation>
-          <annotation doc="City of Balt., Md., Ord. 19-233" type="History">Ord. 19-233</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17.1-3</num>
         <heading>Dedication of tax proceeds.</heading>
         <text>Proceeds from the tax imposed by this subtitle up to $16 million, and one-half of the proceeds in excess of $16 million, if any, shall be deposited in the continuing, nonlapsing fund created by City Charter, Article I, § 14 {"Affordable Housing Trust Fund"}, to be used exclusively for the purposes specified in that section, subject to appropriation pursuant to the annual Ordinance of Estimates.</text>
@@ -7485,6 +7558,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17.1-4</num>
         <heading>Interest and civil penalties.</heading>
         <text>In the event that the tax levied and imposed under this subtitle is not paid as required by this subtitle, the person and/or other legal entity liable for the payment of that tax shall be assessed by the Director of Finance for:</text>
@@ -7505,6 +7579,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17.1-5</num>
         <heading>Liability of transferors and transferees.</heading>
         <text>The tax levied and imposed by this subtitle, and all increases, interest, and penalties thereon, shall be and become, from the time due and payable, the debt of the legal and equitable transferors and transferees, jointly and severally, of the property subject to the recordation and transfer taxes upon which the Yield Tax is calculated.</text>
@@ -7513,6 +7588,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17.1-6</num>
         <heading>Administration of subtitle.</heading>
         <text>In order to properly carry out and enforce the provisions of this subtitle and to collect the tax levied and imposed by this subtitle, the Director of Finance is hereby authorized and empowered:</text>
@@ -7549,12 +7625,13 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-215" type="History">Ord. 18-215</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17.1-7</num>
         <heading>Criminal penalties.</heading>
         <text>Any person who participates or aids in any manner in the evasion of the tax levied and imposed by this subtitle or who willfully violates any provision of this subtitle or of the rules and regulations adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
@@ -7568,6 +7645,7 @@
       <num>18</num>
       <heading>Local Income Tax</heading>
       <section>
+        <prefix>§</prefix>
         <num>18-1</num>
         <heading>Tax imposed.</heading>
         <text>A local income tax is levied and imposed on each resident of Baltimore City.</text>
@@ -7578,6 +7656,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-2</num>
         <heading>Rate of tax.</heading>
         <text>For each calendar year, the tax rate is 3.2% of an individual's Maryland taxable income for that year.</text>
@@ -7590,6 +7669,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-3</num>
         <heading>Administration.</heading>
         <text>The income tax imposed by this subtitle:</text>
@@ -7612,6 +7692,7 @@
       <num>19</num>
       <heading>Admissions and Amusement Tax</heading>
       <section>
+        <prefix>§</prefix>
         <num>19-1</num>
         <heading>Tax on admissions.</heading>
         <para>
@@ -7648,6 +7729,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-2</num>
         <heading>Tax on reduced charges.</heading>
         <text>In the City of Baltimore, there is levied and imposed a tax on reduced charges or free admissions, as set forth in State Tax-General Article § 4-105(f).</text>
@@ -7670,6 +7752,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-3</num>
         <heading>Exemptions – Community associations; restaurants.</heading>
         <text>The following are exempt from the tax imposed by this subtitle:</text>
@@ -7702,6 +7785,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-4</num>
         <heading>Exemptions – Arts and entertainment district.</heading>
         <para>
@@ -7769,13 +7853,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-462" type="History">Ord. 02-462</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-534" type="History">Ord. 16-534</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-5</num>
         <heading>Exemptions – Simulated slot machines.</heading>
         <para>
@@ -7789,8 +7874,8 @@
           <text>The tax imposed by this subtitle does not apply to the gross receipts from a simulated slot machine that is licensed and registered as required by City Code Article 15 {"Licensing and Regulation"}, Subtitle 2 {"Amusements"}, Part 3 {"Amusement Devices"}.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This section was added by Ordinance 10-337.  Section 4 of Ord. 10-337, provides that the Ordinance “takes effect on January 1, 2011, or, if later, on the 60th day after notice is given to the State Comptroller” of the enactment of this amendment to the City Admissions and Amusement Tax.</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-337" type="History">Ord. 10-337</annotation>
+          <annotation type="Editor's Notes">This section was added by Ordinance 10-337.  Section 4 of Ord. 10-337, provides that the Ordinance “takes effect on January 1, 2011, or, if later, on the 60th day after notice is given to the State Comptroller” of the enactment of this amendment to the City Admissions and Amusement Tax.</annotation>
         </annotations>
       </section>
     </container>
@@ -7802,6 +7887,7 @@
         <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 10-343, effective July 25, 2010, with a 3-year “sunset” provision.  Subsequently, Ordinance 12-045 repealed the “sunset”.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>20-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -7983,6 +8069,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-2</num>
         <heading>Tax imposed.</heading>
         <text>A tax is imposed on every distributor who supplies to a dealer operating in the City any non-reusable beverage containers.</text>
@@ -7991,6 +8078,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-3</num>
         <heading>Amount of tax.</heading>
         <text>The amount of the tax imposed is 5¢ per non-reusable beverage container.</text>
@@ -8000,6 +8088,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-4</num>
         <heading>When payable; monthly reports.</heading>
         <para>
@@ -8032,6 +8121,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-5</num>
         <heading>Dealer self-transport.</heading>
         <para>
@@ -8049,6 +8139,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-6</num>
         <heading>Records.</heading>
         <text>Every distributor and every dealer must:</text>
@@ -8065,6 +8156,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-7</num>
         <heading>Interest and civil penalties.</heading>
         <text>If a distributor fails to pay the tax imposed by this subtitle when due, the distributor must pay the Director, in addition to the tax due:</text>
@@ -8081,6 +8173,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-8</num>
         <heading>Tax determination by Director.</heading>
         <para>
@@ -8110,6 +8203,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-9</num>
         <heading>Closing or sale of business.</heading>
         <text>If a person required to pay a tax under this subtitle sells his, her, or its business or otherwise ceases to do business:</text>
@@ -8126,6 +8220,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-10</num>
         <heading>Lien on property.</heading>
         <text>The tax, interest, and penalties imposed by this subtitle are a lien on the property of any person liable for their payment.</text>
@@ -8134,6 +8229,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-11</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations as necessary or appropriate to:</text>
@@ -8158,16 +8254,17 @@
           <text>otherwise administer, enforce, and carry out this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-343" type="History">Ord. 10-343</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>20-12</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>20-13</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provision of this subtitle or of any rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
@@ -8181,6 +8278,7 @@
       <num>21</num>
       <heading>Hotel Room Tax</heading>
       <section>
+        <prefix>§</prefix>
         <num>21-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -8253,6 +8351,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-2</num>
         <heading>Tax imposed.</heading>
         <text>A tax of 9.5%, to be paid and collected as provided in this subtitle, is levied and  imposed on all gross amounts of money that are:</text>
@@ -8284,9 +8383,10 @@
       </section>
       <section>
         <num>21-3</num>
-        <heading>{Repealed by Ord. 04-845}</heading>
+        <reason>Repealed by Ord. 04-845</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-4</num>
         <heading>Collections.</heading>
         <para>
@@ -8318,6 +8418,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-5</num>
         <heading>Interest and civil penalties.</heading>
         <para>
@@ -8369,6 +8470,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-6</num>
         <heading>Refunds.</heading>
         <para>
@@ -8401,6 +8503,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-7</num>
         <heading>Conveyance of hotel business.</heading>
         <para>
@@ -8455,6 +8558,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-8</num>
         <heading>Administration of subtitle.</heading>
         <para>
@@ -8488,20 +8592,21 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1966, art. 28, §78(b), (c)</annotation>
           <annotation type="Prior Codifications">1976/83, art. 28, §38(b), (c)</annotation>
           <annotation doc="City of Balt., Md., Ord. 57-1096" type="History">Ord. 57-1096</annotation>
           <annotation doc="City of Balt., Md., Ord. 58-1386" type="History">Ord. 58-1386</annotation>
           <annotation doc="City of Balt., Md., Ord. 76-141" type="History">Ord. 76-141</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>21-9</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-10</num>
         <heading>Criminal penalties.</heading>
         <text>The willful refusal on the part of any person, firm, association, or corporation to collect the said taxes, file proper returns when due, or pay the taxes collected by him or it over to the Director of Finance when due, as required by this subtitle or by regulations of the Director of Finance adopted pursuant hereto, or the filing of a return known to be false or incomplete, shall be a misdemeanor, and any person, firm, association, or corporation convicted thereof shall be subject to a fine of not more than $500 or imprisonment not exceeding 6 months, or to both fine and imprisonment, in the discretion of the Court.</text>
@@ -8518,6 +8623,7 @@
       <num>22</num>
       <heading>Parking Tax</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -8592,6 +8698,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-2</num>
         <heading>Tax imposed.</heading>
         <para>
@@ -8617,6 +8724,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-3</num>
         <heading>Rate of tax.</heading>
         <para>
@@ -8646,6 +8754,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-4</num>
         <heading>Exceptions.</heading>
         <para>
@@ -8682,6 +8791,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-5</num>
         <heading>Collection and remittance.</heading>
         <para>
@@ -8741,6 +8851,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-6</num>
         <heading>Interest and civil penalties.</heading>
         <text>If an operator fails to remit the tax imposed by this subtitle when due, the operator must pay the Director, in addition to the tax due:</text>
@@ -8761,6 +8872,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-7</num>
         <heading>Records.</heading>
         <para>
@@ -8833,6 +8945,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-8</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
@@ -8857,15 +8970,16 @@
           <text>otherwise administer, enforce, and carry out this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §73(h)(part)</annotation>
           <annotation doc="City of Balt., Md., Ord. 68-146" type="History">Ord. 68-146</annotation>
           <annotation doc="City of Balt., Md., Ord. 89-318" type="History">Ord. 89-318</annotation>
           <annotation doc="City of Balt., Md., Ord. 01-271" type="History">Ord. 01-271</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-9</num>
         <heading>Delegation.</heading>
         <para>
@@ -8911,9 +9025,10 @@
       </section>
       <section>
         <num>22-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-11</num>
         <heading>Prohibited conduct.</heading>
         <text>The operator of a parking lot or garage may not:</text>
@@ -8947,6 +9062,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-12</num>
         <heading>Criminal penalties.</heading>
         <text>Any person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 6 months or to both fine and imprisonment for each offense.</text>
@@ -8965,6 +9081,7 @@
       <num>23</num>
       <heading>Pole License Fee</heading>
       <section>
+        <prefix>§</prefix>
         <num>23-1</num>
         <heading>Scope of subtitle.</heading>
         <text>It is hereby declared that nothing contained in this subtitle shall be deemed or held to apply to any pole bearing a public lamp or lamp used to light any street, lane, or alley, or other public place in the City.</text>
@@ -8977,6 +9094,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-2</num>
         <heading>Identification and report.</heading>
         <text>All persons and corporations having, using, or maintaining any telegraph, telephone, electric light, or other poles in any of the streets, lanes, or alleys of the City of Baltimore, shall:</text>
@@ -9000,6 +9118,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-3</num>
         <heading>Registration, fees, etc.</heading>
         <para>
@@ -9044,6 +9163,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-4</num>
         <heading>Metal plates.</heading>
         <para>
@@ -9078,6 +9198,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-5</num>
         <heading>Removal of noncomplying poles.</heading>
         <text>All telegraph, telephone, electric light, and other poles in any of the streets, lanes, and alleys of the City (except trolley poles used exclusively for wires used in the propulsion of street passenger cars):</text>
@@ -9111,9 +9232,10 @@
       </section>
       <section>
         <num>23-6</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-7</num>
         <heading>Criminal penalties.</heading>
         <text>Any person or persons, or corporation using, possessing, or maintaining any telegraph, telephone, electric light, or other poles in any of the streets, lanes, and alleys of the City:</text>
@@ -9155,6 +9277,7 @@
       <num>24</num>
       <heading>Passenger-for-Hire Services</heading>
       <section>
+        <prefix>§</prefix>
         <num>24-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -9199,6 +9322,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-2</num>
         <heading>Tax imposed.</heading>
         <text>An excise tax is levied and imposed on every person who operates a passenger-for-hire service within or from Baltimore City.</text>
@@ -9213,6 +9337,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-3</num>
         <heading>Amount of tax.</heading>
         <text>The amount of the tax imposed is 25¢ for each trip:</text>
@@ -9230,6 +9355,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-4</num>
         <heading>Exceptions.</heading>
         <text>This subtitle does not apply to:</text>
@@ -9263,6 +9389,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-5</num>
         <heading>Remittance and reports.</heading>
         <para>
@@ -9302,6 +9429,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-6</num>
         <heading>Interest and civil penalties.</heading>
         <text>If the operator fails to remit the tax imposed by this subtitle when due, the operator must pay the Finance Director, in addition to the tax due:</text>
@@ -9322,6 +9450,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-7</num>
         <heading>Records.</heading>
         <text>Every operator must:</text>
@@ -9343,6 +9472,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-8</num>
         <heading>Tax determination by Director.</heading>
         <para>
@@ -9372,6 +9502,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-9</num>
         <heading>Sale or closing of business.</heading>
         <text>If an operator sells its business or otherwise ceases to do business:</text>
@@ -9388,6 +9519,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-10</num>
         <heading>Lien on property.</heading>
         <text>The tax, interest, and penalties imposed by this subtitle are a lien on the property of any person liable for their payment.</text>
@@ -9396,6 +9528,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-11</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -9429,16 +9562,17 @@
           <text>The rules and regulations adopted under this subtitle may include standards and procedures by which an operating group or association, as described in COMAR 20.90.02.08 {"Operating Associations"}, may remit the taxes, submit the reports, and maintain the records otherwise required  by this subtitle for and on behalf of taxicab service operators associated with that operating group or association.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-135" type="History">Ord. 13-135</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>24-12</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-13</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
@@ -9461,6 +9595,7 @@
         <num>1</num>
         <heading>Telecommunications Tax</heading>
         <section>
+          <prefix>§</prefix>
           <num>25-1</num>
           <heading>Definitions.</heading>
           <para>
@@ -9517,6 +9652,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-2</num>
           <heading>Tax imposed.</heading>
           <text>A tax is levied and imposed on each person who leases, licenses, or sells a telecommunications line to any customer:</text>
@@ -9551,6 +9687,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-3</num>
           <heading>Rate of tax.</heading>
           <text>The rate of the tax imposed by this Part 1 is:</text>
@@ -9563,11 +9700,6 @@
             <text>$4.00 per month or part of a month for every other telecommunications line, whether a residence, business, PBX local exchange, or other wired or wireless telecommunications line.</text>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">
-              <text>This section was amended by Ord. 10-303.  Sections 3 and 4 of that Ordinance provide as follows</text>
-              <text>Section 3.  And be it further ordained, That the tax rates established in ... this Ordinance, as applied to members of the Maryland Hospital Association and members of the Maryland Independent College and University Association, may not be increased as long as the Memorandum of Understanding between the City and these Associations is in effect and the Associations are in compliance with the terms and conditions of the Memorandum of Understanding.</text>
-              <text>Section 4.  And be it further ordained, That the tax rates established in ... this Ordinance may not be increased for residential customers as long as the Memorandum of Understanding referred to in Section 3 of this Ordinance is in effect and the Associations are in compliance with its terms and conditions.</text>
-            </annotation>
             <annotation type="Prior Codifications">City Code, 1950, art. 37, §76(1st sen.)</annotation>
             <annotation type="Prior Codifications">1966, art. 28, §95(a)(2nd cl.)</annotation>
             <annotation type="Prior Codifications">1976/83, art. 28, §55(a)</annotation>
@@ -9589,9 +9721,15 @@
             <annotation doc="City of Balt., Md., Ord. 04-726" type="History">Ord. 04-726</annotation>
             <annotation doc="City of Balt., Md., Ord. 06-247" type="History">Ord. 06-247</annotation>
             <annotation doc="City of Balt., Md., Ord. 10-303" type="History">Ord. 10-303</annotation>
+            <annotation type="Editor's Notes">
+              <text>This section was amended by Ord. 10-303.  Sections 3 and 4 of that Ordinance provide as follows</text>
+              <text>Section 3.  And be it further ordained, That the tax rates established in ... this Ordinance, as applied to members of the Maryland Hospital Association and members of the Maryland Independent College and University Association, may not be increased as long as the Memorandum of Understanding between the City and these Associations is in effect and the Associations are in compliance with the terms and conditions of the Memorandum of Understanding.</text>
+              <text>Section 4.  And be it further ordained, That the tax rates established in ... this Ordinance may not be increased for residential customers as long as the Memorandum of Understanding referred to in Section 3 of this Ordinance is in effect and the Associations are in compliance with its terms and conditions.</text>
+            </annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-4</num>
           <heading>Exemptions.</heading>
           <text>The tax imposed by this Part 1 does not apply to a telecommunications line furnished to a telecommunications "lifeline service" customer, as defined by the rules of the Federal Communications Commission and the State Public Service Commission.</text>
@@ -9612,6 +9750,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-5</num>
           <heading>Report and remittance.</heading>
           <para>
@@ -9638,6 +9777,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-6</num>
           <heading>Records.</heading>
           <text>Every person who leases, licenses, or sells telecommunications lines subject to the tax imposed by the Part 1 must:</text>
@@ -9654,6 +9794,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-7</num>
           <heading>Interest and civil penalties.</heading>
           <text>If a person fails to pay the tax imposed by this Part 1 when due, the person must pay to the Director of Finance, in addition to the tax due:</text>
@@ -9670,6 +9811,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-8</num>
           <heading>Rules and regulations.</heading>
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate:</text>
@@ -9682,7 +9824,6 @@
             <text>to define or further define any terms used in this Part 1.</text>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation type="Prior Codifications">City Code, 1950, art. 37, §76(2nd par.)</annotation>
             <annotation type="Prior Codifications">1966, art. 28, §95(d)</annotation>
             <annotation type="Prior Codifications">1976/83, art. 28, §55(d)</annotation>
@@ -9694,13 +9835,15 @@
             <annotation doc="City of Balt., Md., Ord. 99-441" type="History">Ord. 99-441</annotation>
             <annotation doc="City of Balt., Md., Ord. 04-726" type="History">Ord. 04-726</annotation>
             <annotation type="History">Text Conformed 02/25/21</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </section>
         <section>
           <num>25-9</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-10</num>
           <heading>Penalties.</heading>
           <text>Any person who violates any provision of this Part 1or of any rule or regulation adopted under this Part 1, or who makes any false statement or improper return, is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
@@ -9719,6 +9862,7 @@
         <num>2</num>
         <heading>Energy Tax</heading>
         <section>
+          <prefix>§</prefix>
           <num>25-11</num>
           <heading>Definitions.</heading>
           <para>
@@ -9771,6 +9915,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-12</num>
           <heading>Tax imposed.</heading>
           <text>There is levied and imposed a tax on energy delivered through pipes, wires, or conduits to all users in the City other than those exempted by this Part.</text>
@@ -9781,6 +9926,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-13</num>
           <heading>Exemptions.</heading>
           <text>The tax imposed by this Part 2 does not apply to energy delivered to any of the following:</text>
@@ -9803,6 +9949,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-14</num>
           <heading>Rates.</heading>
           <para>
@@ -9922,19 +10069,20 @@
             </para>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">
-              <text>Subsections (c) and (e) of this section were amended by Ord. 10-300.  Sections 3 and 4 of that Ordinance provide as follows</text>
-              <text>Section 3.  And be it further ordained, That, notwithstanding the tax rates set by this Ordinance, the rate applicable to members of the Maryland Hospital Association and members of the Maryland Independent College and University Association may not exceed that agreed to in the Memorandum of Understanding between the City and these Associations, as long as the Memorandum of Understanding is in effect and the Associations are in compliance with its terms and conditions.</text>
-              <text>Section 4.  And be it further ordained, That the tax rate set by this Ordinance for residential users may not be increased as long as the Memorandum of Understanding referred to in Section 3 of this Ordinance is in effect and the Associations are in compliance with its terms and conditions.</text>
-            </annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §56A(c)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-441" type="History">Ord. 99-441</annotation>
             <annotation doc="City of Balt., Md., Ord. 04-728" type="History">Ord. 04-728</annotation>
             <annotation doc="City of Balt., Md., Ord. 10-300" type="History">Ord. 10-300</annotation>
             <annotation doc="City of Balt., Md., Ord. 19-266" type="History">Ord. 19-266</annotation>
+            <annotation type="Editor's Notes">
+              <text>Subsections (c) and (e) of this section were amended by Ord. 10-300.  Sections 3 and 4 of that Ordinance provide as follows</text>
+              <text>Section 3.  And be it further ordained, That, notwithstanding the tax rates set by this Ordinance, the rate applicable to members of the Maryland Hospital Association and members of the Maryland Independent College and University Association may not exceed that agreed to in the Memorandum of Understanding between the City and these Associations, as long as the Memorandum of Understanding is in effect and the Associations are in compliance with its terms and conditions.</text>
+              <text>Section 4.  And be it further ordained, That the tax rate set by this Ordinance for residential users may not be increased as long as the Memorandum of Understanding referred to in Section 3 of this Ordinance is in effect and the Associations are in compliance with its terms and conditions.</text>
+            </annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-15</num>
           <heading>Collection.</heading>
           <para>
@@ -9953,6 +10101,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-16</num>
           <heading>Remittance.</heading>
           <text>By the 25<sup>th</sup> day of the month, each vendor shall:</text>
@@ -9971,6 +10120,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-17</num>
           <heading>Refunds – Uncollectible accounts; tax erroneously paid.</heading>
           <para>
@@ -10020,6 +10170,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-18</num>
           <heading>Refunds – Residential uses.</heading>
           <para>
@@ -10080,14 +10231,15 @@
             </para>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §56A(g)(3)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-441" type="History">Ord. 99-441</annotation>
             <annotation doc="City of Balt., Md., Ord. 04-728" type="History">Ord. 04-728</annotation>
             <annotation type="History">Text Conformed 02/25/21</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-19</num>
           <heading>Records.</heading>
           <para>
@@ -10115,6 +10267,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-20</num>
           <heading>Interest and civil penalties.</heading>
           <text>If a vendor fails to pay the tax imposed by this Part 2 when due, the vendor must pay to the Director, in addition to the tax due:</text>
@@ -10133,6 +10286,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-21</num>
           <heading>Rules and regulations.</heading>
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate:</text>
@@ -10145,25 +10299,23 @@
             <text>to define or further define any terms used in this Part 2.</text>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §56A(i)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-441" type="History">Ord. 99-441</annotation>
             <annotation doc="City of Balt., Md., Ord. 04-728" type="History">Ord. 04-728</annotation>
             <annotation type="History">Text Conformed 02/25/21</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </section>
         <section>
           <num>25-22</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>25-23</num>
           <heading>Penalties.</heading>
           <text>Any person who violates any provision of this Part 2 or of any rule or regulation adopted under this Part 2, or who makes any false statement or improper return, is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than$1,000 or imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
           <annotations>
-            <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §56A(j)</annotation>
-            <annotation doc="City of Balt., Md., Ord. 99-441" type="History">Ord. 99-441</annotation>
-            <annotation doc="City of Balt., Md., Ord. 04-728" type="History">Ord. 04-728</annotation>
             <annotation type="Editor's Notes">
               <text>Section 4 of Ord. 04-728 provides for the severability of the provisions enacted.  Section 6 of that Ordinance provides for periodic reporting to the City Council, as follows</text>
               <text>[O]n or before October 1, 2005, and October 1 of each 5th year following, the Director of Finance shall submit a report to the City Council on the revenues derived from and the effect of the tax established under this Ordinance during the preceding fiscal years.</text>
@@ -10177,6 +10329,7 @@
       <num>26</num>
       <heading>911 Telephone Fee</heading>
       <section>
+        <prefix>§</prefix>
         <num>26-1</num>
         <heading>Fee imposed.</heading>
         <text>In accordance with State Public Safety Article § 1-311, an additional charge of $1 per month is levied and imposed on all current bills rendered for switched local exchange access service, wireless telephone service, or other 911-accessible service within Baltimore City.</text>
@@ -10190,6 +10343,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>26-2</num>
         <heading>Application.</heading>
         <text>This charge:</text>
@@ -10221,6 +10375,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>27-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -10352,6 +10507,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-2</num>
         <heading>Tax imposed.</heading>
         <text>A tax is imposed on every distributor who supplies to a dealer operating in the City any:</text>
@@ -10373,6 +10529,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-3</num>
         <heading>Amount of tax.</heading>
         <para>
@@ -10443,6 +10600,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-4</num>
         <heading>When payable; Monthly reports.</heading>
         <para>
@@ -10484,6 +10642,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-5</num>
         <heading>Dealer self-transport.</heading>
         <para>
@@ -10502,6 +10661,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-6</num>
         <heading>Records.</heading>
         <text>Every distributor and every dealer must:</text>
@@ -10519,6 +10679,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-7</num>
         <heading>Interest and civil penalties.</heading>
         <text>If a distributor fails to pay the tax imposed by this subtitle when due, the distributor must pay the Director, in addition to the tax due:</text>
@@ -10536,6 +10697,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-8</num>
         <heading>Tax determination by Director.</heading>
         <para>
@@ -10566,6 +10728,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-9</num>
         <heading>Closing or sale of business.</heading>
         <text>If a person required to pay a tax under this subtitle sells his, her, or its business or otherwise ceases to do business:</text>
@@ -10583,6 +10746,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-10</num>
         <heading>Lien on property.</heading>
         <text>The tax, interest, and penalties imposed by this subtitle are a lien on the property of any person liable for their payment.</text>
@@ -10592,6 +10756,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-11</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, Director may adopt rules and regulations as necessary or appropriate to:</text>
@@ -10616,17 +10781,18 @@
           <text>otherwise administer, enforce, and carry out this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §102</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-388" type="History">Ord. 99-388</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>27-12</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-13</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provision of this subtitle or of any rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
@@ -10641,6 +10807,7 @@
       <num>28</num>
       <heading>Sales or Use Tax on Controlled Dangerous Substances</heading>
       <section>
+        <prefix>§</prefix>
         <num>28-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -10751,6 +10918,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-2</num>
         <heading>Tax imposed.</heading>
         <text>There is hereby levied and imposed a tax on each separate sale, or use, storage, or consumption of controlled dangerous substances within Baltimore City.</text>
@@ -10760,6 +10928,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-3</num>
         <heading>Rate of tax.</heading>
         <text>The tax rate is 15% of the value in money of the controlled substance as evidenced by the actual money or money value consideration for its sale, or use, storage, or consumption or by its street value at or about the time of the taxable event.</text>
@@ -10769,6 +10938,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-4</num>
         <heading>Exemptions.</heading>
         <text>This subtitle does not apply to sales, use, storage, or consumption by any person who registers under or complies with Article 27, § 281 of the Maryland Code, or any person who otherwise complies with that section of the Code.  The burden of proof of an exemption is upon the person claiming it.</text>
@@ -10778,6 +10948,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-5</num>
         <heading>Payment and assessment.</heading>
         <para>
@@ -10818,6 +10989,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-6</num>
         <heading>Interest and civil penalties.</heading>
         <text>All taxes upon controlled substances which are not paid within 15 days following the due date shall be overdue, and from and after that date they shall bear, until paid:</text>
@@ -10835,6 +11007,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-7</num>
         <heading>Tax made a lien.</heading>
         <para>
@@ -10874,6 +11047,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-8</num>
         <heading>Assessment presumed valid and correct.</heading>
         <para>
@@ -10892,6 +11066,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-9</num>
         <heading>Collections.</heading>
         <para>
@@ -10930,6 +11105,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-10</num>
         <heading>Refunds.</heading>
         <para>
@@ -10973,6 +11149,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-11</num>
         <heading>Revisions.</heading>
         <para>
@@ -11011,6 +11188,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-12</num>
         <heading>Appeal of decision on refund or revision.</heading>
         <para>
@@ -11077,6 +11255,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-13</num>
         <heading>Confidentiality of information.</heading>
         <para>
@@ -11118,6 +11297,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-14</num>
         <heading>Liability not abated by death.</heading>
         <text>Taxes, penalties, and interest assessed under this subtitle shall not abate by death of taxpayer.</text>
@@ -11127,17 +11307,19 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-15</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may promulgate such rules, regulations, and procedures as are necessary or appropriate to administer this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §87(1st sen.)</annotation>
           <annotation doc="City of Balt., Md., Ord. 86-687" type="History">Ord. 86-687</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-16</num>
         <heading>Judicial assistance.</heading>
         <text>The Director may apply to a court of competent jurisdiction for an order compelling such testimony, records, or evidence under proper safeguards as the court may deem necessary or appropriate to carry out the provisions of this subtitle.</text>
@@ -11147,6 +11329,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-17</num>
         <heading>Compromise of claims.</heading>
         <para>
@@ -11178,9 +11361,10 @@
       </section>
       <section>
         <num>28-18</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-19</num>
         <heading>Criminal and civil penalties.</heading>
         <para>
@@ -11212,6 +11396,7 @@
       <num>29</num>
       <heading>Outdoor Advertising</heading>
       <section>
+        <prefix>§</prefix>
         <num>29-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -11261,6 +11446,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-2</num>
         <heading>Tax imposed.</heading>
         <text>An excise tax is imposed on the privilege of exhibiting outdoor advertising displays in the City.</text>
@@ -11269,6 +11455,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-3</num>
         <heading>Amount of tax.</heading>
         <para>
@@ -11303,9 +11490,10 @@
       </section>
       <section>
         <num>29-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-5</num>
         <heading>Annual reports; Payment of tax.</heading>
         <para>
@@ -11347,6 +11535,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-6</num>
         <heading>Interest and civil penalties.</heading>
         <text>If an advertising host fails to pay the tax imposed by this subtitle when due, the advertising host must pay the Finance Director, in addition to the tax due:</text>
@@ -11363,6 +11552,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-7</num>
         <heading>Records.</heading>
         <text>Every advertising host must:</text>
@@ -11379,6 +11569,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-8</num>
         <heading>Tax determination by Director.</heading>
         <para>
@@ -11408,6 +11599,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-9</num>
         <heading>Sale or closing of business.</heading>
         <text>If an advertising host sells or otherwise closes all or part of its operations:</text>
@@ -11424,6 +11616,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-10</num>
         <heading>Lien on property.</heading>
         <text>The tax, interest, and penalties imposed by this subtitle are a lien on all property, real and personal, of any advertising host liable for their payment.</text>
@@ -11432,6 +11625,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-11</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations as necessary or appropriate to:</text>
@@ -11456,23 +11650,24 @@
           <text>otherwise administer, enforce, and carry out this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-139" type="History">Ord. 13-139</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>29-12</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">See City General Provisions Article, § 1-214, for the Code-wide standard for severability.</annotation>
         </annotations>
       </section>
       <section>
         <num>29-13</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>29-14</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provision of this subtitle or of any rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
@@ -11486,6 +11681,7 @@
       <num>30</num>
       <heading>Property Assessed Clean Energy (PACE) Loan Program</heading>
       <section>
+        <prefix>§</prefix>
         <num>30-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -11596,6 +11792,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>30-2</num>
         <heading>PACE Program established.</heading>
         <text>As authorized by the Enabling Law, there is a Property Assessed Clean Energy Loan Program for Baltimore City.</text>
@@ -11604,6 +11801,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>30-3</num>
         <heading>Program administration – In general.</heading>
         <para>
@@ -11674,6 +11872,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>30-4</num>
         <heading>Program administration – Rules and regulations.</heading>
         <para>
@@ -11727,12 +11926,13 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-533" type="History">Ord. 16-533</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>30-5</num>
         <heading>Eligibility of property and property owner.</heading>
         <para>
@@ -11770,6 +11970,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>30-6</num>
         <heading>Qualifying Energy Improvements.</heading>
         <para>
@@ -11837,6 +12038,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>30-7</num>
         <heading>Financing.</heading>
         <para>
@@ -11889,6 +12091,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>30-8</num>
         <heading>Surcharge.</heading>
         <para>
@@ -12067,6 +12270,7 @@
         <annotation type="Editor's Notes">City Code Article 31, Subtitle 38 (providing for the regulation of “dockless vehicles”) and this Article 28, Subtitle 31 (imposing an excise tax on “dockless vehicles for hire”) were both enacted by Ordinance 19-251 on May 6, 2019.  Section 3 of that Ordinance provided for Art. 31, § 38-3, {“Rules and regulations”} to become effective on “the date of enactment”.  Section 4, in turn, provides that the rest of Ord. 19-251 “takes effect on the effective date of the rules and regulations adopted ... pursuant to ... Article 31, ... § 38-3”.  The effective date of these rules and regulations – and, thus, the effective date of this subtitle – was July 5, 2019.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>31-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -12094,6 +12298,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-2</num>
         <heading>Tax imposed.</heading>
         <text>An excise tax is levied and imposed upon every provider of dockless vehicles for hire.</text>
@@ -12102,6 +12307,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-3</num>
         <heading>Amount of tax.</heading>
         <text>The amount of the tax is 10 cents per dockless-vehicle-for-hire rental.</text>
@@ -12110,6 +12316,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-4</num>
         <heading>Remittance and reports.</heading>
         <para>
@@ -12134,13 +12341,14 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-5</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-251" type="History">Ord. 19-251</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
     </container>
@@ -12152,6 +12360,7 @@
         <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 20-337, effective January 13, 2021.  (Although Ord. 20-337 proposed this as Subtitle 31, Ordinance 19-221 {“Dockless Vehicles”} managed to beat “Checkout Bags” to that number.)</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>32-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -12251,9 +12460,10 @@
       </section>
       <section>
         <num>32-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-3</num>
         <heading>Surcharge imposed.</heading>
         <para>
@@ -12276,6 +12486,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-4</num>
         <heading>Collection and remittance.</heading>
         <para>
@@ -12340,9 +12551,10 @@
       </section>
       <section>
         <num>32-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-6</num>
         <heading>Interest and civil penalties.</heading>
         <para>
@@ -12369,23 +12581,25 @@
       </section>
       <section>
         <num>32-7</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-8</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-337" type="History">Ord. 20-337</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>32-9</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-10</num>
         <heading>Prohibited conduct.</heading>
         <text>A person may not:</text>
@@ -12414,6 +12628,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-11</num>
         <heading>Criminal penalties.</heading>
         <text>Any person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 6 months or to both fine and imprisonment for each offense.</text>

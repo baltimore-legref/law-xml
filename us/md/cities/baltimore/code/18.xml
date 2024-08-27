@@ -15,6 +15,7 @@
         <num>1</num>
         <heading>Bequests and Donations</heading>
         <section>
+          <prefix>§</prefix>
           <num>1-1</num>
           <heading>In general.</heading>
           <para>
@@ -39,6 +40,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-2</num>
           <heading>Allocation of funds.</heading>
           <para>
@@ -78,7 +80,7 @@
         </section>
         <section>
           <num>1-3 to 1-5</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -86,6 +88,7 @@
         <num>2</num>
         <heading>Intestate's Estate</heading>
         <section>
+          <prefix>§</prefix>
           <num>1-6</num>
           <heading>Scope of Part.</heading>
           <text>This Part applies to all funds which shall be paid to or received by the Director of Finance, or in any other way, or through any other person or persons, passed over and transferred to the Mayor and City Council of Baltimore, pursuant to the provisions of '' 19-1 through 19-4 of the Baltimore City Public Local Laws.</text>
@@ -99,6 +102,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-7</num>
           <heading>Allocation of funds.</heading>
           <text>Funds received from an intestate's estate:</text>
@@ -119,6 +123,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-8</num>
           <heading>Notice to Board.</heading>
           <text>It shall be the duty of the Director of Finance to notify and inform the Board of School Commissioners, by a communication in writing, whenever any funds arising from the aforesaid source shall be hereafter received by him, and the amount of the same.</text>
@@ -133,6 +138,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-9</num>
           <heading>Accounts.</heading>
           <para>
@@ -156,6 +162,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-10</num>
           <heading>Collection of claims.</heading>
           <text>The Mayor is authorized, upon the presentation to him of satisfactory evidence of the existence of any just and valid claim on the part of the corporation, on account of the school fund, against a certain estate, and which claim it is, in his judgment, judicious to prosecute, to employ for that purpose the services of one or more agents, and to agree with such agent or agents for such compensation to him or them as he may deem fair and reasonable, provided the said compensation shall be entirely contingent upon the recovery of the money.</text>
@@ -170,7 +177,7 @@
         </section>
         <section>
           <num>1-11 to 1-15</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -178,6 +185,7 @@
         <num>3</num>
         <heading>Tuition</heading>
         <section>
+          <prefix>§</prefix>
           <num>1-16</num>
           <heading>Free attendance for residents and certain others.</heading>
           <para>
@@ -225,6 +233,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-17</num>
           <heading>Tuition for nonresidents.</heading>
           <para>
@@ -262,7 +271,7 @@
         </section>
         <section>
           <num>1-18 to 1-20</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -270,6 +279,7 @@
         <num>4</num>
         <heading>Employee Organizations</heading>
         <section>
+          <prefix>§</prefix>
           <num>1-21</num>
           <heading>Definitions.</heading>
           <para>
@@ -313,6 +323,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-22</num>
           <heading>Exclusive representative to be determined by election.</heading>
           <para>
@@ -339,6 +350,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-23</num>
           <heading>Subsequent elections.</heading>
           <para>
@@ -374,6 +386,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-24</num>
           <heading>Determining appropriate units.</heading>
           <text>In all elections, the School Board may determine the appropriate unit, the composition of which shall remain unchanged for a period of 2 years.</text>
@@ -383,6 +396,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-25</num>
           <heading>Conduct of elections.</heading>
           <para>
@@ -413,6 +427,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-26</num>
           <heading>Certified organization as exclusive representative.</heading>
           <para>
@@ -431,6 +446,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-27</num>
           <heading>Strikes, etc., prohibited.</heading>
           <para>
@@ -481,7 +497,7 @@
         </section>
         <section>
           <num>1-28 to 1-30</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -489,6 +505,7 @@
         <num>5</num>
         <heading>School Board Nominating Committee</heading>
         <section>
+          <prefix>§</prefix>
           <num>1-31</num>
           <heading>Committee established.</heading>
           <text>There is a School Board Nominating Committee in the Office of the Mayor.</text>
@@ -498,6 +515,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-32</num>
           <heading>Membership.</heading>
           <para>
@@ -558,6 +576,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-33</num>
           <heading>Purpose and duties.</heading>
           <para>
@@ -601,6 +620,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-34</num>
           <heading>Expenditures.</heading>
           <text>The Committee may expend funds authorized in the Ordinance of Estimates or any supplemental appropriation.</text>
@@ -611,7 +631,7 @@
         </section>
         <section>
           <num>1-35</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -619,6 +639,7 @@
         <num>6</num>
         <heading>Miscellaneous</heading>
         <section>
+          <prefix>§</prefix>
           <num>1-36</num>
           <heading>Selection of school sites.</heading>
           <para>
@@ -644,6 +665,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-37</num>
           <heading>Parking on school property.</heading>
           <para>
@@ -662,6 +684,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-38</num>
           <heading>Registration of visitors.</heading>
           <para>
@@ -690,6 +713,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-39</num>
           <heading>Return of school property.</heading>
           <para>
@@ -712,6 +736,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-40</num>
           <heading>Library book selections.</heading>
           <text>The selection of the books, which shall be only of an instructive and moral character, shall be made by the said Board, or a committee appointed by it for the purpose, and no book deemed by it to be injurious to the morals of the pupils, or of a sectarian character, whether obtained by purchase or donation, shall be admitted in said libraries.</text>
@@ -726,6 +751,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-41</num>
           <heading>Peabody Prizes.</heading>
           <text>The Board of School Commissioners of the City of Baltimore is hereby authorized:</text>
@@ -754,6 +780,7 @@
       <num>2</num>
       <heading>Scholarships to Maryland Institute</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-1</num>
         <heading>Contracts for instruction.</heading>
         <text>The Mayor, City Comptroller, and Director of Finance annually may contract with the Maryland Institute for the instruction of students in the Institute's schools, at the tuition rate charged by the Institute.</text>
@@ -770,6 +797,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-2</num>
         <heading>Basic scholarships.</heading>
         <para>
@@ -816,6 +844,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-3</num>
         <heading>Continuing studies classes.</heading>
         <text>Each member of the City Council, its President, and Mayor may, in addition to the scholarships provided for in § 2-2, allocate 3 tuition scholarships each year in the Continuing Studies Division of the Institute to 1 or more students for instruction and materials, provided each appointee meets the requirements of the Institute for such students.</text>
@@ -825,6 +854,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-4</num>
         <heading>Reappointments authorized.</heading>
         <text>Any appointment provided for in this subtitle may be a new appointment or may be a reappointment, in the discretion of the appointing official.</text>
@@ -834,6 +864,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-5</num>
         <heading>Unfilled appointments; subsequent vacancies.</heading>
         <para>
@@ -866,6 +897,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-6</num>
         <heading>Budget submission.</heading>
         <text>The President of the Institute annually shall submit to the Director of Finance, for inclusion in the preliminary operating budget of the next ensuing fiscal year, an amount for tuition to the Institute computed from the number of appointments provided for in this subtitle.</text>
@@ -877,6 +909,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-7</num>
         <heading>Inspections; payment.</heading>
         <para>
@@ -912,6 +945,7 @@
       <num>3</num>
       <heading>Scholarships to Baltimore City Community College</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-1</num>
         <heading>Program established.</heading>
         <text>There is hereby established a program of City scholarships for students enrolled as full-time or half-time students at the Baltimore City Community College.</text>
@@ -923,6 +957,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-2</num>
         <heading>Appointments.</heading>
         <para>
@@ -960,6 +995,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-3</num>
         <heading>Student qualifications.</heading>
         <text>Any scholarship to be awarded or renewed according to the provisions of this subtitle shall be awarded only to an applicant who has met the following conditions:</text>
@@ -982,6 +1018,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-4</num>
         <heading>Vacancies.</heading>
         <text>In case of a vacancy for any reason among any such appointments, the President of the Baltimore City Community College shall promptly notify the official entitled to make any such appointment, who is then entitled to fill the vacancy by awarding the scholarship to another applicant who meets the qualifications listed in § 3-3.</text>
@@ -992,6 +1029,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-5</num>
         <heading>Budget appropriations.</heading>
         <para>
@@ -1011,6 +1049,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-6</num>
         <heading>Rules and regulations.</heading>
         <text>The Board of Trustees of the Community College of Baltimore are hereby empowered to adopt and promulgate such reasonable rules and regulation pertaining to the tuition scholarship program established under this subtitle as are necessary and convenient for the administration of the program.</text>
@@ -1026,6 +1065,7 @@
       <num>4</num>
       <heading>McDonogh Educational Fund and Institute</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-1</num>
         <heading>Property invested in Board of Trustees.</heading>
         <text>All the money, stock, securities, investments, property, and estate of every kind and description, with the increment thereon, which has heretofore come into the possession of the City of Baltimore, or which hereafter may come into its possession, or which is now held by any agent, trustees, or board of trustees, heretofore created by any ordinance, and which has been or may hereafter be received under the bequests and devises contained in the will of John McDonogh, by the City of Baltimore, shall pass to and be invested in said Board of Trustees.</text>
@@ -1040,6 +1080,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-2</num>
         <heading>Trustees - number; vacancies.</heading>
         <para>
@@ -1068,6 +1109,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-3</num>
         <heading>Trustees - general powers.</heading>
         <para>
@@ -1108,6 +1150,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-4</num>
         <heading>Purchase of land for school farm.</heading>
         <para>
@@ -1146,6 +1189,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-5</num>
         <heading>Maintenance of school farm.</heading>
         <text>So soon as the purchase of the real estate and the erection thereon of the buildings mentioned in § 4-4 shall have been completed and paid for, the said Trustees shall apply the interest issuing from said funds, as well as the interest which may be derived from all other property devised to the City of Baltimore by the said John McDonogh, to the support and maintenance of said school farm, and the expenses incident to the proper instruction and education of the youth directed by said will of said John McDonogh.</text>
@@ -1160,6 +1204,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-6</num>
         <heading>Annual report of Trustees.</heading>
         <para>
@@ -1188,6 +1233,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-7</num>
         <heading>Inspection of books and records.</heading>
         <para>
@@ -1211,6 +1257,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-8</num>
         <heading>Investment powers of Trustees.</heading>
         <para>
@@ -1250,6 +1297,7 @@
         <num>1</num>
         <heading>Establishment</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-1</num>
           <heading>Conveyance and annuity approved.</heading>
           <para>
@@ -1272,6 +1320,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-2</num>
           <heading>Annual payments by City.</heading>
           <text>Upon the conveyance by said Enoch Pratt or his representatives, by a valid deed, of the clear, unencumbered fee simple estate in said lot of ground, with the improvements thereon, situate on Mulberry Street, in said City of Baltimore, unto the said Mayor and City Council, and upon the payment by said Enoch Pratt or his representatives, unto said Mayor and City Council, of said sum of $833,333.33, the Mayor of the City of Baltimore, at the time of the execution of said deed, is authorized and empowered to join in the execution of the same, for and on behalf of the Mayor and City Council of Baltimore, and to contract, covenant and agree, for and on their behalf, to pay perpetually thereafter the yearly sum of $50,000, in equal quarterly payments, unto the Trustees of the "Enoch Pratt Free Library of Baltimore City", and their successors, forever, the said "Enoch Pratt Free Library of Baltimore City" also joining in said deed, and agreeing to appropriate said sum for its corporate purposes, and to make an annual report to the Mayor and City Council of Baltimore, of the proceedings of said body corporate, and of the condition of said library and its branches, with a full account of the monies received and expended by said Trustees.</text>
@@ -1285,6 +1334,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-3</num>
           <heading>Investment in sinking fund.</heading>
           <text>So soon as Enoch Pratt shall pay to the Mayor and City Council of Baltimore, the sum of $833,333.33, according to the terms and provisions of § 7-1 of this Part, it shall be the duty of the Board of Finance to invest the same in Baltimore City stock heretofore authorized to be issued at par as a sinking fund, to be known by the name of the "Enoch Pratt Free Library Sinking Fund".</text>
@@ -1298,6 +1348,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-4</num>
           <heading>Investment of interest.</heading>
           <text>The interest upon said investment so as aforesaid directed to be made, shall also be invested from time to time, as the same shall be received, in the public debt of the City of Baltimore, and such investments of said interest, and of the interest upon said interest, shall also constitute a part of said sinking fund; and said investment of said interest, and of interest on said interest, shall continue so to be made in the public debt of the City of Baltimore until the annual income from said investments shall reach the sum of $50,000; and in the meanwhile, the sum of $50,000, to pay said annuity, shall be levied for as other city taxes are levied for.</text>
@@ -1311,6 +1362,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-5</num>
           <heading>Income from investments.</heading>
           <text>When the said annual income upon the investments in said sinking fund shall reach the sum of $50,000, the making of said investments for said purpose shall cease, and the said annual income of $50,000 arising therefrom shall be thereafter appropriated and applied to the payment of the annuity of $50,000 to the Trustees of the Enoch Pratt Free Library of Baltimore City, and all taxation for the purpose of raising said annuity of $50,000 for such purpose, shall cease and be discontinued.</text>
@@ -1324,6 +1376,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-6</num>
           <heading>Mayor to appoint Visitor.</heading>
           <text>There shall be appointed by the Mayor a Visitor to the Enoch Pratt Free Library of Baltimore City, in accordance with the provisions of the Act of 1882, Chapter 181, and it shall be the duty of the Visitor so appointed, and of his successors in said office, to perform the duties prescribed for such Visitor by said Act of Assembly.</text>
@@ -1339,7 +1392,7 @@
         </section>
         <section>
           <num>7-7 to 7-10</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -1347,6 +1400,7 @@
         <num>2</num>
         <heading>Carnegie Fund</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-11</num>
           <heading>Branch libraries.</heading>
           <text>The Mayor and City Council of Baltimore does hereby accept the offer of said Andrew Carnegie, and does hereby undertake and agree that as the sum of $500,000 offered the City of Baltimore by said Andrew Carnegie shall be received and expended by the Trustees of the Enoch Pratt Free Library in the erection of branch library buildings upon sites furnished or provided by the said Mayor and City Council and accepted by the said Trustees, that upon the completion of such of said branch libraries, the same shall be maintained by said Mayor and City Council by a yearly provision in the tax levy of a sum not less than 10% of the amount given by said Andrew Carnegie for the construction of each of said buildings, such annual appropriation by the Mayor and City Council to be expended by said Trustees for the maintenance as aforesaid in such manner as may be specified from year to year in the Ordinance of Estimates.</text>
@@ -1360,6 +1414,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-12</num>
           <heading>Appropriations subject to approval of General Assembly.</heading>
           <text>No appropriation shall be effective for the purposes set forth in this Part until authority to make such appropriations by the Mayor and City Council of Baltimore to the Trustees of the Enoch Pratt Library shall be authorized by the General Assembly of Maryland.</text>
@@ -1387,6 +1442,7 @@
       <num>10</num>
       <heading>Art Museum Building Commission</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-1</num>
         <heading>Created; composition.</heading>
         <para>
@@ -1408,6 +1464,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-2</num>
         <heading>Powers of Commission.</heading>
         <para>
@@ -1439,6 +1496,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-3</num>
         <heading>Lease of building to corporation.</heading>
         <text>In the event that the members of the Art Museum Building Commission form a corporation under the laws of this State, or in the event that the members of the Art Museum Building Commission become the board of directors or trustees of any existing body corporate with charter powers enabling such corporation to acquire and exhibit objects of art, then plans shall be formulated by the proper City officials to lease the building provided for herein to such corporation at a nominal rental, provided that the board of directors or trustees of such corporation shall always include the Mayor, the President of the City Council, and the City Comptroller; and provided further that the terms under which such lease is made shall, before it take effect, be approved by an ordinance of the Mayor and City Council.</text>
@@ -1456,6 +1514,7 @@
       <num>11</num>
       <heading>Baltimore Museum of Art</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-1</num>
         <heading>Agreement with City ratified.</heading>
         <text>The said Mayor and City Council of Baltimore does hereby approve, ratify, and confirm said Agreement dated October 7, 1930, entered into by and between the Mayor and City Council of Baltimore and The Baltimore Museum of Art, Incorporated, which said Agreement is as follows.</text>
@@ -1616,6 +1675,7 @@
       <num>12</num>
       <heading>Peale Museum</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-1</num>
         <heading>Agreement with City ratified.</heading>
         <text>The Mayor and City Council of Baltimore does hereby approve, ratify, and confirm said Agreement dated April 29, 1931, entered into by and between the Mayor and City Council of Baltimore and the Trustees of the Municipal Museum of the City of Baltimore, Incorporated, which said Agreement is as follows:</text>
@@ -1776,6 +1836,7 @@
         <num>1</num>
         <heading>Acceptance of Property</heading>
         <section>
+          <prefix>§</prefix>
           <num>14-1</num>
           <heading>Acceptance of property.</heading>
           <text>The Mayor of the City of Baltimore is hereby authorized and directed to accept from the Safe Deposit and Trust Company of Baltimore, executor under the last will and testament of Henry Walters, late of Baltimore City, deceased, all property and funds which the said executor is required to convey, transfer and pay over to the Mayor and City of Baltimore under the terms and provisions of said last will and testament; and the Mayor of the City of Baltimore is hereby further authorized and directed to give to said executor receipts and releases, adequate in form and substance, for each property and funds so conveyed, transferred, and paid over.</text>
@@ -1787,6 +1848,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>14-2</num>
           <heading>Use of property.</heading>
           <text>The Walters Art Gallery and the property at 5 West Mount Vernon Place, and the contents of the buildings, shall be used for the benefit of the public, as directed by Item 2 of said last will and testament; and the income from the endowment fund created under paragraph C of Item 3 of said last will and testament shall be used for the purpose of maintaining the Walters Art Gallery for the benefit of the public.</text>
@@ -1800,7 +1862,7 @@
         </section>
         <section>
           <num>14-3 to 14-5</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -1808,6 +1870,7 @@
         <num>2</num>
         <heading>Trustees of Walters Art Gallery</heading>
         <section>
+          <prefix>§</prefix>
           <num>14-6</num>
           <heading>Trustees created.</heading>
           <text>The Trustees of the Walters Art Gallery are created as a body corporate, as provided in Chapter 217, Laws of Maryland 1933.</text>
@@ -1820,6 +1883,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>14-7</num>
           <heading>Organization.</heading>
           <para>
@@ -1892,6 +1956,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>14-8</num>
           <heading>Powers and duties.</heading>
           <para>
@@ -1941,6 +2006,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>14-9</num>
           <heading>Annual report.</heading>
           <text>As soon as convenient after January 1 of each year, but not later than March 15, the Trustees of Walters Art Gallery shall submit a report of the activities and operations of Walters Art Gallery to the Board of Estimates and each member of the City Council.</text>
@@ -1953,6 +2019,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>14-10</num>
           <heading>Name and continuation of gallery.</heading>
           <para>
@@ -1975,6 +2042,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>14-11</num>
           <heading>Dispositions, loans, and exhibitions.</heading>
           <para>
@@ -1997,6 +2065,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>14-12</num>
           <heading>Charter and Bylaws.</heading>
           <para>
@@ -2034,6 +2103,7 @@
       <num>17</num>
       <heading>City Music Programs</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-1</num>
         <heading>In general.</heading>
         <text>The Department of Recreation and Parks is hereby authorized to provide concerts, symphonies, and other musical entertainment for the people of Baltimore City, to the end that a proper appreciation of music may be developed and encouraged and that an opportunity may be afforded the residents of Baltimore City with musical talent to develop the same.</text>
@@ -2045,6 +2115,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-2</num>
         <heading>Arrangements and contracts.</heading>
         <para>
@@ -2080,6 +2151,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-3</num>
         <heading>Admission fees.</heading>
         <text>The Department is hereby authorized and empowered to charge and collect admission fees for concerts, symphonies, and other musical activities given or sponsored by it.</text>
@@ -2091,6 +2163,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-4</num>
         <heading>Administration.</heading>
         <para>
@@ -2120,9 +2193,10 @@
       </section>
       <section>
         <num>17-5 to 7-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-11</num>
         <heading>Using name "Municipal Band", etc.</heading>
         <para>

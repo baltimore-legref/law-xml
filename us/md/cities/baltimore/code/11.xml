@@ -11,6 +11,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -81,6 +82,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-2</num>
         <heading>Findings; policy.</heading>
         <para>
@@ -148,7 +150,7 @@
       </section>
       <section>
         <num>1-3</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
         </annotations>
@@ -159,6 +161,7 @@
       <num>2</num>
       <heading>Wage Commission</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-1</num>
         <heading>Commission established.</heading>
         <text>There is hereby created and established the Wage Commission of Baltimore City, with the membership, powers, and duties as in this Division I provided, which shall be responsible for the administration and proper operation of the minimum wage law.</text>
@@ -170,6 +173,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-2</num>
         <heading>Members.</heading>
         <para>
@@ -201,6 +205,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-3</num>
         <heading>Voting; quorum.</heading>
         <para>
@@ -220,6 +225,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-4</num>
         <heading>Chair, staff, and expenses.</heading>
         <para>
@@ -249,6 +255,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-5</num>
         <heading>General powers and duties.</heading>
         <text>The Commission is authorized to and shall have the power to:</text>
@@ -287,6 +294,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-6</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -349,7 +357,6 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1966, art. 19, §55(4)</annotation>
           <annotation type="Prior Codifications">1976/83, art. 19, §63(4)</annotation>
           <annotation doc="City of Balt., Md., Ord. 64-370" type="History">Ord. 64-370</annotation>
@@ -358,6 +365,7 @@
           <annotation doc="City of Balt., Md., Ord. 70-798" type="History">Ord. 70-798</annotation>
           <annotation doc="City of Balt., Md., Ord. 78-778" type="History">Ord. 78-778</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
     </container>
@@ -366,6 +374,7 @@
       <num>3</num>
       <heading>Wage Requirements</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-1</num>
         <heading>Minimum wage required.</heading>
         <para>
@@ -391,6 +400,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-2</num>
         <heading>Exceptions.</heading>
         <para>
@@ -468,6 +478,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-3</num>
         <heading>Overtime pay required.</heading>
         <para>
@@ -499,6 +510,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-4</num>
         <heading>Withholding.</heading>
         <para>
@@ -518,6 +530,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-5</num>
         <heading>Wages due on termination of employment.</heading>
         <text>It shall be a violation of this Division I for any employer to refuse to pay to any employee who is terminated, resigns, retires, or who otherwise ends or suspends his employment, all wages due end owing to said employee on the next regular payday that said wages would otherwise have been paid.</text>
@@ -528,6 +541,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-6</num>
         <heading>Posting summary of law.</heading>
         <para>
@@ -549,6 +563,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-7</num>
         <heading>Notices to employees.</heading>
         <para>
@@ -618,6 +633,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-8</num>
         <heading>Payroll records.</heading>
         <para>
@@ -687,6 +703,7 @@
       <num>4</num>
       <heading>Enforcement Procedures</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-1</num>
         <heading>Complaints by employee.</heading>
         <para>
@@ -706,6 +723,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-2</num>
         <heading>Complaints by Commission.</heading>
         <text>The Commission shall have the right, acting upon its own initiative and without any complaint from an employee, to file a complaint against an employer whenever the Commission has reasonable cause to believe that such employer is or has been in violation of the provisions of this Division I.</text>
@@ -716,6 +734,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-3</num>
         <heading>Investigation for probable cause.</heading>
         <text>After the filing of any such complaint, either by a person claiming to be aggrieved as set forth in § 4-1 or by the Commission, the Commission shall:</text>
@@ -734,6 +753,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-4</num>
         <heading>Subpoenas; oaths.</heading>
         <para>
@@ -789,6 +809,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-5</num>
         <heading>Dismissal for lack of probable cause.</heading>
         <text>If the finding of the Commission is that the complaint lacks probable cause, then it shall dismiss said complaint and mail copies of its finding to respondent and complainant.</text>
@@ -799,6 +820,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-6</num>
         <heading>Probable cause conference; settlement agreement.</heading>
         <para>
@@ -830,6 +852,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-7</num>
         <heading>Final order.</heading>
         <para>
@@ -874,6 +897,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-8</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -894,6 +918,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-9</num>
         <heading>Referral to Solicitor.</heading>
         <text>If, within 30 days of the passage of such order, the respondent shall have failed to comply therewith, the Wage Commission may certify such proceedings to the City Solicitor and request that he petition the Circuit Court of Baltimore City to enforce the said order and direct payment to the aggrieved employee.</text>
@@ -904,6 +929,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-10</num>
         <heading>Confidential information.</heading>
         <para>
@@ -936,6 +962,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-11</num>
         <heading>Disposition of unclaimed recoveries.</heading>
         <text>Any sums recovered by the Wage Commission for Baltimore City and not paid to the employee because of inability to locate said employee within a period of 1 year shall be paid into the Treasury of the City of Baltimore.</text>
@@ -950,6 +977,7 @@
       <num>5</num>
       <heading>Other Prohibited Conduct</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-1</num>
         <heading>By employer - retaliation against employee.</heading>
         <para>
@@ -984,6 +1012,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-2</num>
         <heading>By employer - violation of rule or regulation.</heading>
         <text>It shall be unlawful, and a violation of this Division I, for any employer to violate the rules and regulations of the Commission.</text>
@@ -994,9 +1023,10 @@
       </section>
       <section>
         <num>5-3 to 5-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-6</num>
         <heading>By employees.</heading>
         <text>It shall be unlawful, and a violation of this Division I, for any employee to:</text>
@@ -1019,6 +1049,7 @@
       <num>6</num>
       <heading>Penalties and Fines</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-1</num>
         <heading>Interest on unpaid wages.</heading>
         <para>
@@ -1045,6 +1076,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-2</num>
         <heading>Fines.</heading>
         <text>Any employer or employee who violates this Division I shall forfeit and pay to the City of Baltimore a penalty as follows:</text>
@@ -1069,6 +1101,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-3</num>
         <heading>Actions by employee.</heading>
         <para>
@@ -1116,6 +1149,7 @@
       <num>11</num>
       <heading>Lie Detector Tests</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-1</num>
         <heading>"Employer" defined.</heading>
         <text>The term "employer" as used in this subtitle means every employer engaged in any business or enterprise in this City, other than the government of the State of Maryland, or of the Mayor and City Council of Baltimore.</text>
@@ -1126,6 +1160,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-2</num>
         <heading>Prohibited conduct.</heading>
         <para>
@@ -1145,6 +1180,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-3</num>
         <heading>Penalties.</heading>
         <text>Any employer who violates the provisions of this subtitle shall be guilty of a misdemeanor and subject to a fine not to exceed $500.</text>
@@ -1160,6 +1196,7 @@
       <num>12</num>
       <heading>Temporary Help Businesses</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-1</num>
         <heading>Construction of subtitle.</heading>
         <text>This subtitle shall not in any way be interpreted to interfere with the rights of an employer as guaranteed by the National Labor Relations Act as amended.</text>
@@ -1169,6 +1206,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-2</num>
         <heading>Supplying labor during work stoppage or strike.</heading>
         <para>
@@ -1187,6 +1225,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-3</num>
         <heading>Penalties.</heading>
         <text>Any person, firm, or corporation violating this subtitle shall be guilty of a misdemeanor and, upon conviction thereof, shall be subject to a fine not to exceed $500 or by imprisonment for a term of not more than 12 months, or both, at the discretion of the court.</text>
@@ -1201,6 +1240,7 @@
       <num>13</num>
       <heading>Labor Peace Agreements for Hotel Projects</heading>
       <section>
+        <prefix>§</prefix>
         <num>13-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -1252,17 +1292,16 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-578" type="History">Ord. 07-578</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-2</num>
         <heading>Findings and declarations.</heading>
         <para>
@@ -1329,6 +1368,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-3</num>
         <heading>Scope of subtitle.</heading>
         <text>This subtitle does not apply to:</text>
@@ -1345,6 +1385,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-4</num>
         <heading>Construction of subtitle.</heading>
         <para>
@@ -1373,9 +1414,10 @@
       </section>
       <section>
         <num>13-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-6</num>
         <heading>Determining need for agreement.</heading>
         <para>
@@ -1409,11 +1451,12 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 07-578, effective December 26, 2007.  Section 4 of Ord. 07-578 provides that the subtitle “does not apply to any economic participation granted by the City before the effective date of this Ordinance”.</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-578" type="History">Ord. 07-578</annotation>
+          <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 07-578, effective December 26, 2007.  Section 4 of Ord. 07-578 provides that the subtitle “does not apply to any economic participation granted by the City before the effective date of this Ordinance”.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-7</num>
         <heading>Agreement required.</heading>
         <para>
@@ -1436,6 +1479,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-8</num>
         <heading>Tenor and contents of agreement.</heading>
         <para>
@@ -1453,6 +1497,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-9</num>
         <heading>Violation of agreement by union.</heading>
         <text>An employer that performs its obligations under a labor peace agreement is relieved of further obligation under the agreement if the labor organization engages in adverse economic action such as striking, picketing, or boycotting the employer.</text>
@@ -1462,9 +1507,10 @@
       </section>
       <section>
         <num>13-10 to 13-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-16</num>
         <heading>Notice of subtitle.</heading>
         <para>
@@ -1487,6 +1533,7 @@
       <num>14</num>
       <heading>Mandatory Bicycle Parking</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -1511,31 +1558,31 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-383" type="History">Ord. 10-383</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-2</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Transportation may adopt rules and regulations to implement this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-383" type="History">Ord. 10-383</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>14-3 to 14-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-6</num>
         <heading>Required bicycle parking.</heading>
         <para>
@@ -1567,6 +1614,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-7</num>
         <heading>Specifications.</heading>
         <para>
@@ -1612,9 +1660,10 @@
       </section>
       <section>
         <num>14-8 to 14-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-11</num>
         <heading>Penalties.</heading>
         <text>Any employer who violates a provision of this subtitle or of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500.</text>
@@ -1635,6 +1684,7 @@
         <num>1</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>15-1</num>
           <heading>Definitions.</heading>
           <para>
@@ -1706,9 +1756,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>
-              <em>{Repealed}</em>
-            </text>
+            <reason>Repealed</reason>
           </para>
           <para>
             <num>(g)</num>
@@ -1717,18 +1765,17 @@
           </para>
           <para>
             <num>(h)</num>
-            <text>
-              <em>{Repealed}</em>
-            </text>
+            <reason>Repealed</reason>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
-            <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105, .</annotation>
             <annotation doc="City of Balt., Md., Ord. 14-221" type="History">Ord. 14-221</annotation>
             <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+            <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105, .</annotation>
+            <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>15-2</num>
           <heading>Findings; Intent and purpose.</heading>
           <para>
@@ -1786,6 +1833,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>15-3</num>
           <heading>Interpretation.</heading>
           <para>
@@ -1807,19 +1855,17 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>
-              <em>{Repealed}</em>
-            </text>
+            <reason>Repealed</reason>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
             <annotation doc="City of Balt., Md., Ord. 14-221" type="History">Ord. 14-221</annotation>
             <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+            <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
           </annotations>
         </section>
         <section>
           <num>15-4 to 15-5</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -1827,6 +1873,7 @@
         <num>2</num>
         <heading>Prohibited Conduct</heading>
         <section>
+          <prefix>§</prefix>
           <num>15-6</num>
           <heading>Preliminary inquiries into criminal record.</heading>
           <para>
@@ -1864,6 +1911,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>15-7</num>
           <heading>Exceptions.</heading>
           <para>
@@ -1889,7 +1937,7 @@
         </section>
         <section>
           <num>15-8 to 15-10</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -1897,6 +1945,7 @@
         <num>3</num>
         <heading>Administrative Enforcement; Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>15-11</num>
           <heading>Complaint to Community Relations Commission.</heading>
           <para>
@@ -1945,6 +1994,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>15-12</num>
           <heading>Judicial and appellate review.</heading>
           <para>
@@ -1963,6 +2013,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>15-13</num>
           <heading>Retaliation or discrimination prohibited.</heading>
           <text>A covered employer may not take or refuse to take a personnel action or otherwise retaliate or discriminate against any person as a reprisal for the person's having claimed a violation of this subtitle.</text>
@@ -1972,9 +2023,10 @@
         </section>
         <section>
           <num>15-14 to 15-15</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>15-16</num>
           <heading>Criminal penalties.</heading>
           <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 or imprisonment for not more than 90 days or both fine and imprisonment for each offense.</text>
@@ -1996,6 +2048,7 @@
         <num>1</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>16-1</num>
           <heading>Definitions.</heading>
           <para>
@@ -2084,7 +2137,7 @@
         </section>
         <section>
           <num>16-2</num>
-          <heading>{Repealed by Ord. 22-125}</heading>
+          <reason>Repealed by Ord. 22-125</reason>
           <annotations>
             <annotation type="Editor's Notes">
               <text>For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”),</text>
@@ -2094,24 +2147,25 @@
         </section>
         <section>
           <num>16-3</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-4</num>
           <heading>Rules and regulations.</heading>
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Community Relations Commission must adopt rules and regulations to carry out this subtitle.</text>
           <annotations>
+            <annotation doc="City of Balt., Md., Ord. 18-213" type="History">Ord. 18-213</annotation>
+            <annotation type="History">Text Conformed 02/18/21</annotation>
             <annotation type="Editor's Notes">
               <text>By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in</text>
               <text>consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</text>
             </annotation>
-            <annotation doc="City of Balt., Md., Ord. 18-213" type="History">Ord. 18-213</annotation>
-            <annotation type="History">Text Conformed 02/18/21</annotation>
           </annotations>
         </section>
         <section>
           <num>16-5 to 16-9</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2119,6 +2173,7 @@
         <num>2</num>
         <heading>Required Accommodations</heading>
         <section>
+          <prefix>§</prefix>
           <num>16-10</num>
           <heading>Lactation breaks.</heading>
           <para>
@@ -2143,6 +2198,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-11</num>
           <heading>Lactation location – In general.</heading>
           <para>
@@ -2216,6 +2272,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-12</num>
           <heading>Lactation location – Multi-purpose locations.</heading>
           <text>An employer may provide a lactation location that is also used for other purposes, but only as long as:</text>
@@ -2244,6 +2301,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-13</num>
           <heading>Lactation location – Multi-tenant building.</heading>
           <text>If an employer's workspace is inadequate to satisfy the requirements of this Part 2 and other employers are located in the same building, the employer may fulfill the requirements of this Part 2 by providing a lactation location that:</text>
@@ -2264,6 +2322,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-14</num>
           <heading>Waiver or variance for undue hardship.</heading>
           <para>
@@ -2306,7 +2365,7 @@
         </section>
         <section>
           <num>16-15 to 16-19</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2314,6 +2373,7 @@
         <num>3</num>
         <heading>Employer Policy and Process; Records</heading>
         <section>
+          <prefix>§</prefix>
           <num>16-20</num>
           <heading>Employer policy and process.</heading>
           <para>
@@ -2392,6 +2452,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-21</num>
           <heading>Employer records.</heading>
           <para>
@@ -2444,7 +2505,7 @@
         </section>
         <section>
           <num>16-22 to 16-24</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2452,6 +2513,7 @@
         <num>4</num>
         <heading>Administrative Enforcement</heading>
         <section>
+          <prefix>§</prefix>
           <num>16-25</num>
           <heading>Complaint to Community Relations Commission.</heading>
           <para>
@@ -2469,6 +2531,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-26</num>
           <heading>Judicial and appellate review.</heading>
           <para>
@@ -2488,7 +2551,7 @@
         </section>
         <section>
           <num>16-27</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2496,6 +2559,7 @@
         <num>5</num>
         <heading>Prohibited Conduct; Criminal Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>16-28</num>
           <heading>Retaliation or discrimination prohibited.</heading>
           <text>No employer or other person may take or refuse to take a personnel action or otherwise retaliate or discriminate against any person as a reprisal for that person's having alleged a violation of this subtitle or otherwise having exercised a right granted by this subtitle.</text>
@@ -2505,9 +2569,10 @@
         </section>
         <section>
           <num>16-29</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-30</num>
           <heading>Criminal penalties.</heading>
           <text>Any person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
@@ -2522,6 +2587,7 @@
       <num>17</num>
       <heading>Retaliation for Human Trafficking Reports</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -2549,22 +2615,21 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-359" type="History">Ord. 15-359</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
         <num>17-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-3</num>
         <heading>Retaliation or discrimination prohibited.</heading>
         <text>A covered employer may not take or refuse to take a personnel action or otherwise retaliate or discriminate against any person as a reprisal for the person's having made a good-faith report of a suspected act of human trafficking to that person's employer or any appropriate agency.</text>
@@ -2574,9 +2639,10 @@
       </section>
       <section>
         <num>17-4 to 17-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-6</num>
         <heading>Criminal penalties.</heading>
         <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment for not more than 90 days or both fine and imprisonment for each offense.</text>
@@ -2590,6 +2656,7 @@
       <num>18</num>
       <heading>Displaced Service Workers Protection</heading>
       <section>
+        <prefix>§</prefix>
         <num>18-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -2636,9 +2703,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(g)</num>
@@ -2719,22 +2784,24 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-028" type="History">Ord. 17-028</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-2</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission may adopt rules and regulations to implement this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-028" type="History">Ord. 17-028</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-3</num>
         <heading>Transition employment period.</heading>
         <para>
@@ -2808,9 +2875,10 @@
       </section>
       <section>
         <num>18-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-5</num>
         <heading>Subtitle not bar to contract termination.</heading>
         <text>This subtitle does not limit the ability of an awarding authority to terminate a service contract or replace a contractor with another contractor.</text>
@@ -2819,6 +2887,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-6</num>
         <heading>Retaliation against employees prohibited.</heading>
         <para>
@@ -2844,6 +2913,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-7</num>
         <heading>Enforcement procedures.</heading>
         <para>
@@ -3030,6 +3100,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>18-8</num>
         <heading>Penalties and fines.</heading>
         <para>
@@ -3075,7 +3146,7 @@
       </section>
       <section>
         <num>18-9</num>
-        <heading>{Repealed by Ord.  22-125}</heading>
+        <reason>Repealed by Ord.  22-125</reason>
         <text><strong>Note:</strong> For the new, Code-wide standard for severability,<em> see</em> City General Provisions Article, § 1-214.</text>
       </section>
     </container>
@@ -3091,6 +3162,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>19-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -3209,9 +3281,7 @@
         </para>
         <para>
           <num>(i)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(j)</num>
@@ -3224,15 +3294,16 @@
           <text>"Transfer document" means the purchase agreement or other documents creating a binding agreement to effect the change in control.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-479" type="History">Ord. 20-479</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
         <num>19-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-3</num>
         <heading>Employer responsibilities.</heading>
         <para>
@@ -3335,9 +3406,10 @@
       </section>
       <section>
         <num>19-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-5</num>
         <heading>Notice of change in control.</heading>
         <para>
@@ -3385,9 +3457,10 @@
       </section>
       <section>
         <num>19-6</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-7</num>
         <heading>Retaliation prohibited.</heading>
         <para>
@@ -3414,9 +3487,10 @@
       </section>
       <section>
         <num>19-8</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-9</num>
         <heading>Enforcement procedures.</heading>
         <para>
@@ -3602,6 +3676,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-10</num>
         <heading>Penalties.</heading>
         <para>
@@ -3646,6 +3721,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-11</num>
         <heading>Collective bargaining agreements.</heading>
         <text>Any or all of the provisions of this subtitle may be waived in a bona fide collective bargaining agreement, but only if the waiver is expressly set forth in clear and unmistakable terms.</text>
@@ -3654,6 +3730,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-12</num>
         <heading>Waiver of subtitle prohibited.</heading>
         <para>
@@ -3671,16 +3748,18 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-13</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission may adopt rules and regulations to implement this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-479" type="History">Ord. 20-479</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-14</num>
         <heading>Report to Mayor and City Council.</heading>
         <text>On or before June 30, 2022, the Wage Commission shall report to the Mayor and City Council on:</text>
@@ -3702,7 +3781,7 @@
       </section>
       <section>
         <num>19-15</num>
-        <heading>{Repealed by Ord.  22-125}</heading>
+        <reason>Repealed by Ord.  22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
         </annotations>
@@ -3719,6 +3798,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>19A-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -3882,22 +3962,22 @@
         </para>
         <para>
           <num>(j)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-480" type="History">Ord. 20-480</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
         <num>19A-2</num>
-        <heading>{Reserved}</heading>
-        <text>
-          <strong>§ 19A-3.  Right of recall.</strong>
-        </text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>19A-3</num>
+        <heading>Right of recall.</heading>
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
@@ -3949,10 +4029,12 @@
       </section>
       <section>
         <num>19A-4</num>
-        <heading>{Reserved}</heading>
-        <text>
-          <strong>§ 19A-5.  Retaliation prohibited.</strong>
-        </text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>19A-5</num>
+        <heading>Retaliation prohibited.</heading>
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
@@ -3977,8 +4059,12 @@
       </section>
       <section>
         <num>19A-6</num>
-        <heading>{Reserved}</heading>
-        <text><strong>§ 19A-7</strong>.  <strong>Enforcement procedures.</strong></text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>19A-7</num>
+        <heading>Enforcement procedures.</heading>
         <para>
           <num>(a)</num>
           <heading>Filing complaints.</heading>
@@ -4162,6 +4248,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-8</num>
         <heading>Penalties.</heading>
         <para>
@@ -4206,6 +4293,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-9</num>
         <heading>Collective bargaining agreements.</heading>
         <text>Any or all of the provisions of this subtitle may be waived in a bona fide collective bargaining agreement, but only if the waiver is expressly set forth in clear and unmistakable terms.</text>
@@ -4214,6 +4302,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-10</num>
         <heading>Waiver of subtitle prohibited.</heading>
         <para>
@@ -4231,16 +4320,18 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-11</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission may adopt rules and regulations to implement this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-480" type="History">Ord. 20-480</annotation>
           <annotation type="History">Text Conformed 02/18/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19A-12</num>
         <heading>Report to Mayor and City Council.</heading>
         <text>On or before June 30, 2022, the Wage Commission shall report to the Mayor and City Council on:</text>
@@ -4262,8 +4353,10 @@
       </section>
       <section>
         <num>19A-13</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
-        <text><strong>Editor's Note:</strong> For the new, Code-wide standard for severability,<em> see</em> City General Provisions Article, § 1-214.</text>
+        <reason>Repealed by Ord. 22-125</reason>
+        <annotations>
+          <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
+        </annotations>
       </section>
     </container>
   </container>

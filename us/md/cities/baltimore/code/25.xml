@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Definitions; General Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -327,17 +328,19 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Rules and regulations.</heading>
       <text>In order to properly carry out and enforce the provisions of this article, the Director of Public Works is hereby authorized, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend from time to time rules and regulations and operating procedures as he may deem necessary or proper to carry out and enforce the provisions of this article and which are not inconsistent therewith.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §28(d)</annotation>
         <annotation doc="City of Balt., Md., Ord. 91-775" type="History">Ord. 91-775</annotation>
         <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Authorized representatives; certifications.</heading>
       <para>
@@ -415,6 +418,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Falsifying information.</heading>
       <text>Any person who knowingly makes any false statement, representation, record, report, plan, or other document filed with the Director of Public Works, or who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required under this article shall be subject to a fine, imprisonment, or both as provided in § 23-4.</text>
@@ -426,9 +430,10 @@
     </section>
     <section>
       <num>1-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Revision of article.</heading>
       <text>The City reserves the right to amend this article in any manner and to establish more stringent limitations or regulations where deemed necessary to comply with the objectives of this article.</text>
@@ -439,6 +444,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-7</num>
       <heading>Repeal of inconsistent provisions.</heading>
       <text>This article regulating sewer construction, sewer use, wastewater discharges, and waste haulers shall supersede all previous regulations and policies of the City governing items covered in this article.  All other articles and regulations, or parts thereof, inconsistent or conflicting with any part of this article are hereby repealed to the extent of such inconsistency or conflict.</text>
@@ -450,7 +456,7 @@
     </section>
     <section>
       <num>1-8</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
+      <reason>Repealed by Ord. 22-125</reason>
       <annotations>
         <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
       </annotations>
@@ -461,6 +467,7 @@
     <num>2</num>
     <heading>Control of Sanitary and Storm Sewers</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -506,6 +513,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Scope of subtitle.</heading>
       <text>The following restrictions are applicable to users of all sewers which are part of or tributary to the Baltimore City sewer system.</text>
@@ -516,6 +524,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Prohibited discharges into sanitary sewers.</heading>
       <para>
@@ -543,6 +552,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-4</num>
       <heading>Prohibited discharges into sanitary or storm sewers.</heading>
       <para>
@@ -555,7 +565,7 @@
         <heading>Flammable or explosive substances.</heading>
         <para>
           <num>(1)</num>
-          <text>No person may discharge or cause to be discharged any flammable or explosive liquid, solid, or gaseous material or other substance which may be injurious to the system, including but not limited to any pollutant causing the wastestream to have a closed cup flashpoint of less than 140\uF0B0F. or 60\uF0B0C., using the test methods specified in the 40 CFR 261.21.</text>
+          <text>No person may discharge or cause to be discharged any flammable or explosive liquid, solid, or gaseous material or other substance which may be injurious to the system, including but not limited to any pollutant causing the wastestream to have a closed cup flashpoint of less than 140°F. or 60°C., using the test methods specified in the 40 CFR 261.21.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -576,8 +586,8 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>causing the temperature of the influent at a wastewater treatment plant to exceed 104\uF0B0F. or 40\uF0B0C.;</text>
-          <text>such temperatures unless otherwise noted to be 150\uF0B0F. or 65\uF0B0C.</text>
+          <text>causing the temperature of the influent at a wastewater treatment plant to exceed 104°F. or 40°C.;</text>
+          <text>such temperatures unless otherwise noted to be 150°F. or 65°C.</text>
         </para>
       </para>
       <para>
@@ -641,6 +651,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-5</num>
       <heading>Limitations on discharges into sanitary sewers.</heading>
       <para>
@@ -797,6 +808,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-6</num>
       <heading>Prohibited discharges into storm drains.</heading>
       <text>No person shall discharge into any storm drain any of the following materials:</text>
@@ -828,6 +840,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-7</num>
       <heading>Excessive concentrations.</heading>
       <text>Wastes containing permissible constituents, with BOD, suspended solids, total phosphorus, and, if so established, other concentrations greater than that set by the Director of Public Works:</text>
@@ -847,6 +860,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-8</num>
       <heading>Special approval required for certain flows.</heading>
       <text>Where average daily flows into the sanitary sewers are greater than 2% of the average daily flow at the wastewater treatment plant, or where flow occurs in slugs, the discharge shall be subject to review and special regulation or approval of the Director of Public Works before discharge is permitted.</text>
@@ -856,6 +870,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-9</num>
       <heading>Required notices.</heading>
       <para>
@@ -874,6 +889,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-10</num>
       <heading>Measurement of discharges to sanitary sewers.</heading>
       <para>
@@ -933,6 +949,7 @@
     <num>3</num>
     <heading>Wastewater Discharge Permits</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Permit required.</heading>
       <para>
@@ -992,6 +1009,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Applications.</heading>
       <para>
@@ -1047,6 +1065,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Evaluation and issuance.</heading>
       <para>
@@ -1073,6 +1092,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Permit fee.</heading>
       <para>
@@ -1099,6 +1119,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Permit conditions - in general.</heading>
       <para>
@@ -1143,6 +1164,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-6</num>
       <heading>Permit conditions - specific requirements.</heading>
       <para>
@@ -1259,6 +1281,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-7</num>
       <heading>Permit conditions - compliance required.</heading>
       <para>
@@ -1278,6 +1301,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-8</num>
       <heading>Changes in operations.</heading>
       <para>
@@ -1317,6 +1341,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-9</num>
       <heading>Term and reissuance of permits.</heading>
       <para>
@@ -1355,6 +1380,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-10</num>
       <heading>Permit transfers.</heading>
       <para>
@@ -1381,6 +1407,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-11</num>
       <heading>Suspension of permit.</heading>
       <para>
@@ -1440,6 +1467,7 @@
     <num>4</num>
     <heading>Sampling and Monitoring</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>In general.</heading>
       <para>
@@ -1469,6 +1497,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Scope and frequency of reports.</heading>
       <para>
@@ -1494,6 +1523,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Required sampling and analytical techniques.</heading>
       <para>
@@ -1517,6 +1547,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-4</num>
       <heading>Violations discovered by self-monitoring.</heading>
       <para>
@@ -1550,6 +1581,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-5</num>
       <heading>Additional monitoring to be reported.</heading>
       <text>Any wastewater monitoring conducted more frequently than that required by the Director, using the procedures prescribed in this subtitle, shall be reported to the Director and included with the self-monitoring compliance report.</text>
@@ -1559,6 +1591,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-6</num>
       <heading>Construction and placement of sampling and monitoring facilities.</heading>
       <para>
@@ -1585,6 +1618,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-7</num>
       <heading>Number of measurements; equipment.</heading>
       <text>Significant users required by the Director of Public Works to make periodic measurements of industrial wastewater flows and constituents shall annually make the minimum number of such measurements as required in the wastewater discharge permit.  When required by the Director, users shall install and maintain in proper order automatic flow-proportional sampling equipment and/or automatic analysis and recording equipment.</text>
@@ -1595,6 +1629,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-8</num>
       <heading>Right of entry; inspections.</heading>
       <para>
@@ -1641,6 +1676,7 @@
     <num>5</num>
     <heading>Pretreatment</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>In general.</heading>
       <text>Users shall make wastewater acceptable under the limitations established by the permit before discharging to any public sanitary or combine sewer.</text>
@@ -1651,6 +1687,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Pretreatment standards and requirements.</heading>
       <text>All industrial users shall comply with:</text>
@@ -1672,6 +1709,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Schedule of compliance.</heading>
       <para>
@@ -1697,6 +1735,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-4</num>
       <heading>Pretreatment facilities and operations.</heading>
       <para>
@@ -1739,6 +1778,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-5</num>
       <heading>Public notice of significant violators.</heading>
       <para>
@@ -1795,6 +1835,7 @@
     <num>6</num>
     <heading>Notice of Hazardous Waste Discharge</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Notice required.</heading>
       <text>The IU shall notify:</text>
@@ -1817,6 +1858,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Contents of notice.</heading>
       <text>Such notification shall include:</text>
@@ -1854,6 +1896,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Notice deadline.</heading>
       <para>
@@ -1872,6 +1915,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Notice under amended regulation.</heading>
       <text>In the event of new regulations under § 3001 of the Resource Conservation Recovery Act identifying additional characteristics of hazardous wastes or listing any additional substance as a hazardous waste, the user must notify the individuals listed in § 6-1 above, or their authorized representatives, of the discharge of such substance(s) within 90 days of the effective date of such regulation.</text>
@@ -1881,6 +1925,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-5</num>
       <heading>Program to reduce volume and toxicity.</heading>
       <text>In the case of any notification made under this subtitle, the user must certify that a program has been implemented to reduce the volume and toxicity of hazardous waste generated, to the degree it has been determined to be economically practical.</text>
@@ -1890,6 +1935,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-6</num>
       <heading>Exceptions.</heading>
       <para>
@@ -1920,6 +1966,7 @@
     <num>7</num>
     <heading>Upsets, Spills, and Accidental Discharges</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Protection against accidental discharges.</heading>
       <para>
@@ -1951,6 +1998,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Immediate notice required.</heading>
       <para>
@@ -1986,6 +2034,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Subsequent written report required.</heading>
       <text>Within 5 days following the accident, the user shall submit to the Director a detailed written report describing:</text>
@@ -2016,6 +2065,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>User's liability.</heading>
       <text>Such notification shall not relieve the user of any expense, loss, damages, or other liability which may be incurred as a result of damage to the wastewater system, fish kills, or any other damage to persons or property; nor shall such notification relieve the user of any fines, civil penalties, or other liability which may be imposed by this article or other applicable law.</text>
@@ -2026,6 +2076,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-5</num>
       <heading>Upset as affirmative defense.</heading>
       <para>
@@ -2081,6 +2132,7 @@
     <num>8</num>
     <heading>Bypass of Treatment Facilities</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Scope of subtitle.</heading>
       <text>An industrial user may allow any bypass to occur which does not cause pretreatment standards or requirements to be violated, but only if it also is for essential maintenance to assure efficient operation.  These bypasses are not subject to the provisions of this subtitle.</text>
@@ -2090,6 +2142,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Bypass prohibited.</heading>
       <para>
@@ -2157,6 +2210,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Notice of anticipated bypass.</heading>
       <text>If an industrial user knows in advance of the need for a bypass, it shall submit prior notice to the Director, if possible at least 10 days before the date of the bypass.</text>
@@ -2166,6 +2220,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-4</num>
       <heading>Notice of unanticipated bypass.</heading>
       <para>
@@ -2217,6 +2272,7 @@
     <num>11</num>
     <heading>Waste Haulers</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2235,6 +2291,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Waste hauler permit required.</heading>
       <para>
@@ -2259,6 +2316,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-3</num>
       <heading>Applications.</heading>
       <para>
@@ -2310,6 +2368,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-4</num>
       <heading>Evaluation, inspection, and issuance.</heading>
       <para>
@@ -2333,6 +2392,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-5</num>
       <heading>Permit conditions — in general.</heading>
       <para>
@@ -2372,6 +2432,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-6</num>
       <heading>Permit conditions — terms and conditions.</heading>
       <text>Permits may contain the following:</text>
@@ -2422,6 +2483,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-7</num>
       <heading>Term, transfer, and suspension of permits.</heading>
       <text>Waste hauler permits are subject to the same limitations on duration, transfer, and suspension as wastewater discharge permits as provided under '' 3-9 through 3-11 of this article.</text>
@@ -2432,6 +2494,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-8</num>
       <heading>Scavenger vehicle permit tags.</heading>
       <text>No vehicle shall discharge any material into the sewer system unless the hauler:</text>
@@ -2449,6 +2512,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-9</num>
       <heading>Fees.</heading>
       <para>
@@ -2487,6 +2551,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-10</num>
       <heading>Refusal of wastewater.</heading>
       <para>
@@ -2536,6 +2601,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-11</num>
       <heading>Reciprocity.</heading>
       <para>
@@ -2583,6 +2649,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-12</num>
       <heading>Sources outside City.</heading>
       <text>All waste haulers providing waste removal services to sources of wastewater outside the limits of the City of Baltimore will include in their service contracts provisions allowing the director of public works of the applicable jurisdiction to inspect the source of wastewater to be discharged into the sewer system.</text>
@@ -2603,6 +2670,7 @@
     <num>13</num>
     <heading>Sewer Service Charges</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Charges imposed.</heading>
       <para>
@@ -2645,6 +2713,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>Calculation – In general.</heading>
       <text>All charges imposed under this subtitle shall be:</text>
@@ -2672,6 +2741,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Calculation – Non-City water sources.</heading>
       <para>
@@ -2740,6 +2810,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4</num>
       <heading>Exceptions.</heading>
       <para>
@@ -2794,6 +2865,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-5</num>
       <heading>Storm drain discharge permits.</heading>
       <para>
@@ -2941,6 +3013,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-6</num>
       <heading>Unusual circumstances.</heading>
       <text>In all cases where:</text>
@@ -2961,6 +3034,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-7</num>
       <heading>Administrative review.</heading>
       <para>
@@ -2988,6 +3062,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-8</num>
       <heading>Meters.</heading>
       <para>
@@ -3009,6 +3084,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-9</num>
       <heading>Collections.</heading>
       <para>
@@ -3061,6 +3137,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-10</num>
       <heading>Charges to be liens.</heading>
       <text>The charges imposed under this subtitle and all increases, interest, and penalties thereon shall be a lien upon the property of any person liable to pay the same to the City.  Such lien shall be recorded in the Tax Lien Records maintained by the Department of Finance.</text>
@@ -3074,6 +3151,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-11</num>
       <heading>Regulations.</heading>
       <para>
@@ -3099,16 +3177,17 @@
         <text>In order to properly carry out and enforce the provisions of this subtitle, the Director of Public Works is hereby authorized and empowered, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend, from time to time, such rules and regulations deemed necessary or proper to carry out and enforce the provisions of this subtitle.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1966, art. 28, §106</annotation>
         <annotation type="Prior Codifications">1976/83, art. 28, §66</annotation>
         <annotation doc="City of Balt., Md., Ord. 59-016" type="History">Ord. 59-016</annotation>
         <annotation doc="City of Balt., Md., Ord. 76-141" type="History">Ord. 76-141</annotation>
         <annotation doc="City of Balt., Md., Ord. 87-868" type="History">Ord. 87-868</annotation>
         <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-12</num>
       <heading>Penalties.</heading>
       <text>Every person or other legal entity who shall:</text>
@@ -3135,6 +3214,7 @@
     <num>14</num>
     <heading>Surcharge for Industrial Wastewater</heading>
     <section>
+      <prefix>§</prefix>
       <num>14-1</num>
       <heading>Surcharge imposed.</heading>
       <para>
@@ -3156,6 +3236,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-2</num>
       <heading>By whom payable; annual basis.</heading>
       <para>
@@ -3182,6 +3263,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-3</num>
       <heading>Computation of surcharge.</heading>
       <para>
@@ -3235,6 +3317,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-4</num>
       <heading>Measuring volume of flow.</heading>
       <para>
@@ -3299,6 +3382,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-5</num>
       <heading>Disputed determinations.</heading>
       <text>In all cases where the volume of industrial wastewater and/or the cost of treating the constituents covered by the formula based on the type of discharge from any particular property which is being discharged into the City's sewage system or storm drain facilities cannot be reasonably agreed upon between the person discharging said industrial wastewater and the Director:</text>
@@ -3318,6 +3402,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-6</num>
       <heading>Billings; due date.</heading>
       <para>
@@ -3343,6 +3428,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-7</num>
       <heading>Administrative penalties.</heading>
       <para>
@@ -3410,6 +3496,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-8</num>
       <heading>Surcharges, etc., as liens.</heading>
       <text>The surcharges imposed under this subtitle and all increases, interest, and penalties thereon shall be a lien upon the property of any person liable to pay the same to the City.  Such lien shall be recorded in the Tax Lien Records maintained by the Department of Finance.</text>
@@ -3422,6 +3509,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-9</num>
       <heading>Lists of surcharge payors.</heading>
       <para>
@@ -3453,6 +3541,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-10</num>
       <heading>Rules and regulations.</heading>
       <text>In order to carry out and enforce the provisions of this subtitle and to collect the surcharges levied and imposed under this subtitle, the City Department of Finance and/or Department of Public Works are hereby authorized, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, to make, adopt, promulgate, and amend, from time to time, such rules and regulations as they may deem necessary or proper:</text>
@@ -3469,15 +3558,16 @@
         <text>to define or construe any of the terms and provisions used in this subtitle in connection with the imposition or collection of said surcharges.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §8(d)(7)</annotation>
         <annotation doc="City of Balt., Md., Ord. 76-131" type="History">Ord. 76-131</annotation>
         <annotation doc="City of Balt., Md., Ord. 84-129" type="History">Ord. 84-129</annotation>
         <annotation doc="City of Balt., Md., Ord. 91-775" type="History">Ord. 91-775</annotation>
         <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-11</num>
       <heading>Administrative review.</heading>
       <text>In the event that any person legally liable for payment of the surcharge imposed under this subtitle disagrees with, or is aggrieved by, any determination, decision, order, or notice of any kind, which is made, rendered, issued, or given under the provisions of this subtitle, such person has the right to file an appeal as described in § 21-7 of this article.</text>
@@ -3489,6 +3579,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-12</num>
       <heading>Penalties.</heading>
       <text>Every person or other legal entity who participates or aids in any manner in the evasion of the surcharges imposed under this subtitle or who violates any of the provisions of this subtitle or any of the rules or regulations made, adopted, or promulgated by the City under the provisions of this subtitle shall be guilty of a misdemeanor and, upon conviction thereof by any court of competent jurisdiction, shall be subject to a fine of not more than $500 or imprisonment not exceeding 6 months, or both, in the discretion of the court, for each offense.</text>
@@ -3510,6 +3601,7 @@
     <num>16</num>
     <heading>House Connections</heading>
     <section>
+      <prefix>§</prefix>
       <num>16-1</num>
       <heading>"Property owners" subject to subtitle.</heading>
       <text>Whenever any person or persons shall occupy, or shall be in actual possession, or have charge, care, or control of any property within the City, as executor, administrator, trustee, guardian, or other fiduciary, or as agent:</text>
@@ -3541,6 +3633,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-2</num>
       <heading>Service of notices.</heading>
       <text>The notices provided for in this subtitle:</text>
@@ -3564,6 +3657,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-3</num>
       <heading>Carrying pipe to inside of wall.</heading>
       <text>The Director of Public Works is hereby authorized and directed, in constructing all pipes connecting from the sewer or sewer pipes in the highway to a building on a lot adjacent to such highway, where the wall of such building stands upon or near to the building lines, to carry said connecting pipe to the inside of such wall, so that the connections with the house fixtures can be thereafter made from the inside, without digging up the pavement or surfaces outside of such wall.</text>
@@ -3579,6 +3673,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-4</num>
       <heading>Right of entry.</heading>
       <text>The Director of Public Works shall have the authority to enter upon the property of any person, association, or corporation through which the public or private sewers now or may hereafter run, in order to regulate or repair the same.</text>
@@ -3593,6 +3688,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-5</num>
       <heading>Notice to make connections.</heading>
       <para>
@@ -3641,6 +3737,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-6</num>
       <heading>Compliance with notice.</heading>
       <para>
@@ -3694,6 +3791,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-7</num>
       <heading>Approval of work required.</heading>
       <para>
@@ -3718,6 +3816,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-8</num>
       <heading>Work by City.</heading>
       <para>
@@ -3810,6 +3909,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-9</num>
       <heading>Ground water in system.</heading>
       <para>
@@ -3834,6 +3934,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-10</num>
       <heading>Interference with Director or Commissioner prohibited.</heading>
       <para>
@@ -3865,6 +3966,7 @@
     <num>17</num>
     <heading>Disturbing Sewers, etc.</heading>
     <section>
+      <prefix>§</prefix>
       <num>17-1</num>
       <heading>Disturbing sewer or stormwater drain.</heading>
       <para>
@@ -3913,6 +4015,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-2</num>
       <heading>Tapping, etc., sewer.</heading>
       <para>
@@ -3960,6 +4063,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-3</num>
       <heading>Disturbing manhole.</heading>
       <para>
@@ -3985,6 +4089,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-4</num>
       <heading>Refuse in sewers.</heading>
       <para>
@@ -4009,6 +4114,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-5</num>
       <heading>Unused connections.</heading>
       <para>
@@ -4047,6 +4153,7 @@
     <num>18</num>
     <heading>Jones' Falls</heading>
     <section>
+      <prefix>§</prefix>
       <num>18-1</num>
       <heading>Director may require walling.</heading>
       <text>The Director of Public Works is hereby authorized, whenever he shall deem it necessary, to notify the owner or owners of property binding upon Jones' Falls, or any part thereof, to have the same walled up on the line of said Jones' Falls, with a good and sufficient stone, brick, masonry, or concrete wall, to such height as said Director may direct, and to have the same backed up or filled with earth, so as to secure such property or other property in the vicinity from inundation or damage by water, and when the same shall have been walled up wholly or in part, to rebuild or repair in a good and sufficient manner any such wall; all such work to be done at the entire expense of such owner or owners.</text>
@@ -4065,6 +4172,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-2</num>
       <heading>Compliance with notice.</heading>
       <text>If any person, firm, or corporation shall refuse or neglect to have any such wall built, rebuilt, or repaired, as above provided, for within 2 months after receiving notice from the Director of Public Works, as set forth in § 18-1, it shall then be the duty of the Director, and he is hereby authorized and directed to cause such wall to be built, rebuilt, or repaired, as specified in said notice, and the cost thereof shall be a lien upon the property so walled up, repaired, or rebuilt, as aforesaid, to be recovered in due course of law from the owner or owners so refusing to build, rebuild, or repair after notice as aforesaid.</text>
@@ -4088,6 +4196,7 @@
     <num>19</num>
     <heading>Private Sewers</heading>
     <section>
+      <prefix>§</prefix>
       <num>19-1</num>
       <heading>Permit required.</heading>
       <text>It shall be unlawful for any person, firm, or corporation to construct within the City limits a private sewer under the streets, lanes, or alleys, without having had and obtained the written permission therefor from the Director of Public Works under a penalty not to exceed $1,000 for each and every day the same shall remain without such permit.</text>
@@ -4106,6 +4215,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-2</num>
       <heading>Acquisition by City.</heading>
       <text>The Director of Public Works is hereby authorized to acquire, by purchase or condemnation, any sanitary or stormwater sewers or sewage disposal plants as authorized by Chapter 222, Laws of Maryland 1924, and also by Ordinance 24-233 of the Mayor and City Council of Baltimore, said ordinance having been submitted to the legal voters of Baltimore City at an election held in the City of Baltimore on Tuesday, November 4, 1924, and by said voters approved.</text>
@@ -4130,6 +4240,7 @@
     <num>21</num>
     <heading>General Administration of Article</heading>
     <section>
+      <prefix>§</prefix>
       <num>21-1</num>
       <heading>Records.</heading>
       <para>
@@ -4149,6 +4260,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-2</num>
       <heading>Confidential information.</heading>
       <para>
@@ -4180,6 +4292,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-3</num>
       <heading>Special agreements.</heading>
       <para>
@@ -4199,6 +4312,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-4</num>
       <heading>Public hearings.</heading>
       <text>The Director of Public Works shall have the following duties:</text>
@@ -4217,6 +4331,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-5</num>
       <heading>Inspections.</heading>
       <para>
@@ -4260,6 +4375,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-6</num>
       <heading>Notices.</heading>
       <para>
@@ -4285,6 +4401,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-7</num>
       <heading>Administrative and judicial review.</heading>
       <para>
@@ -4326,6 +4443,7 @@
     <num>22</num>
     <heading>Administrative Remedies</heading>
     <section>
+      <prefix>§</prefix>
       <num>22-1</num>
       <heading>Violation notice.</heading>
       <para>
@@ -4370,6 +4488,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-2</num>
       <heading>Show cause order.</heading>
       <para>
@@ -4418,6 +4537,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-3</num>
       <heading>Cease and desist order.</heading>
       <text>Any person who violates or continues to violate Subtitles 2 through 11 or of '' 1-4, 21-1, or 21-5(d) of this article may be ordered by the Director to cease and desist all such actions by taking such appropriate remedial or preventive action as may be needed to properly address a continuing or threatened violation, including halting operations and terminating the discharge.</text>
@@ -4427,6 +4547,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-4</num>
       <heading>Consent order.</heading>
       <para>
@@ -4452,6 +4573,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-5</num>
       <heading>Right to legal action.</heading>
       <text>As an alternative to the actions set forth in § 22-4 of this subtitle, the Director of Public Works may refer the complaint or charges for violations to the City Solicitor or State's Attorney for Baltimore City.</text>
@@ -4462,6 +4584,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-6</num>
       <heading>Administrative penalties.</heading>
       <para>
@@ -4480,6 +4603,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-7</num>
       <heading>Suspension or termination of service.</heading>
       <para>
@@ -4545,6 +4669,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-8</num>
       <heading>Permit revocation.</heading>
       <text>Any user who violates any provision of this article is subject to permit revocation by the Director as described in § 3-11 of this article.</text>
@@ -4560,6 +4685,7 @@
     <num>23</num>
     <heading>Judicial Enforcement; Penalties</heading>
     <section>
+      <prefix>§</prefix>
       <num>23-1</num>
       <heading>Injunctive relief.</heading>
       <text>Whenever a discharge of wastewater is in violation of the provisions of this article or otherwise causes or threatens to cause a condition which could present an imminent and substantial danger to life, safety, the POTW, or environment, the Director of Public Works may petition the courts for issuance of an ex parte preliminary or permanent injunction or both, as may be appropriate to restrain the continuance of such discharge.</text>
@@ -4569,6 +4695,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-2</num>
       <heading>Civil penalties.</heading>
       <para>
@@ -4619,6 +4746,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-3</num>
       <heading>Penalties — § 16-10(a) and Subtitle 17.</heading>
       <para>
@@ -4642,6 +4770,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-4</num>
       <heading>Penalties — Subtitles 2 to 11 and '' 1-4, 21-1, and 21-5(d).</heading>
       <para>

@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Auctions</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Auction Advisory Board — created.</heading>
       <para>
@@ -38,6 +39,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Auction Advisory Board — duties.</heading>
       <text>The Auction Advisory Board:</text>
@@ -59,6 +61,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Auctioneers to be appointed and licensed.</heading>
       <text>No person or business organization shall conduct any auction sales in the City of Baltimore before being appointed and licensed in accordance with the provisions of this subtitle.</text>
@@ -68,6 +71,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Maximum appointees; applications.</heading>
       <para>
@@ -86,6 +90,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Qualifications for appointment.</heading>
       <text>Each applicant for appointment as an auctioneer shall:</text>
@@ -135,6 +140,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Designation of associates.</heading>
       <text>Within 30 days of his appointment, and upon any change thereafter, every auctioneer shall deposit with the Director of Finance the names of all officers, associates, partners, or employees designated by him to conduct auction sales.</text>
@@ -144,6 +150,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-7</num>
       <heading>License and surety bond required.</heading>
       <text>No auctioneer appointed under this subtitle shall conduct auction sales unless he first posts a surety bond and is issued a license therefor.</text>
@@ -153,6 +160,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-8</num>
       <heading>Surety bond.</heading>
       <para>
@@ -183,6 +191,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-9</num>
       <heading>License.</heading>
       <para>
@@ -214,6 +223,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-10</num>
       <heading>Commissions.</heading>
       <para>
@@ -278,6 +288,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-11</num>
       <heading>License suspension or revocation.</heading>
       <para>
@@ -305,6 +316,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-12</num>
       <heading>Civil violations — City enforcement.</heading>
       <para>
@@ -347,6 +359,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-13</num>
       <heading>Civil violations — private action.</heading>
       <para>
@@ -373,6 +386,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-14</num>
       <heading>Criminal violations.</heading>
       <para>
@@ -406,9 +420,10 @@
     </section>
     <section>
       <num>1-15 to 1-16</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-17</num>
       <heading>Auction sales of jewelry — restrictions.</heading>
       <para>
@@ -439,6 +454,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-18</num>
       <heading>Auction sales of jewelry — merchant's stock.</heading>
       <para>
@@ -592,6 +608,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-19</num>
       <heading>Auction sales of jewelry — penalties.</heading>
       <para>
@@ -615,6 +632,7 @@
     <num>2</num>
     <heading>Cable Communications Advisory Commission</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Commission established.</heading>
       <para>
@@ -674,6 +692,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Organization; operations.</heading>
       <para>
@@ -729,6 +748,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Duties and responsibilities.</heading>
       <text>The duty and responsibility of the Commission is to advise, assist, investigate, report on, review, and recommend to the Board of Estimates in connection with the following matters:</text>
@@ -779,6 +799,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-4</num>
       <heading>Reports.</heading>
       <para>
@@ -822,6 +843,7 @@
       <annotation type="Editor's Notes">Ordinance 23-266 repealed Section 4-1 and 4-2 and the subtitle designation “Subtitle 4. False Advertising” and added Sections 4-1 to 4-7 to be under the new subtitle designation “Subtitle 4. Unfair, Abusive, or Deceptive Trade Practices”. Subtitle 4. False Advertising was originally enacted by Ordinance 56-432, as amended by Ordinance 77-573, and as previously codified at City Code, 1966, art. 19, §23; 1976/83, art. 19, §27</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>Definitions.</heading>
       <text>The following terms have the meanings stated in Title 13 of the State Commercial Law Article:</text>
@@ -879,6 +901,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Practices generally prohibited.</heading>
       <text>In Baltimore City, a person may not engage in any unfair, abusive, or deceptive trade practice in:</text>
@@ -932,6 +955,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Civil penalties.</heading>
       <para>
@@ -951,6 +975,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-4</num>
       <heading>Criminal penalties.</heading>
       <para>
@@ -970,6 +995,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-5</num>
       <heading>Action by City Solicitor.</heading>
       <para>
@@ -1026,11 +1052,13 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-6</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City Solicitor may adopt rules and regulations to carry out this subtitle.</text>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-7</num>
       <heading>Exception.</heading>
       <text>This subtitle does not apply to the entities exempted by Title 13 of the State Commercial Law Article.</text>
@@ -1044,6 +1072,7 @@
     <num>5</num>
     <heading>Food Destruction</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Destruction to create scarcity prohibited.</heading>
       <text>It shall be unlawful for any person, firm, or corporation to destroy or permit to deteriorate or waste any food products fit for human or animal consumption, of the value of $5 or more, so that said food products become unfit for such use, with the intent to cause scarcity or to increase, control, maintain, or influence the market price of such food products.</text>
@@ -1056,6 +1085,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Penalties.</heading>
       <text>Any person, firm, or corporation violating the provisions of this subtitle shall be fined not less than $100 nor more than $500 or imprisoned for not more than 6 months or shall be both fined and imprisoned, as aforesaid, in the discretion of the Court.</text>
@@ -1073,6 +1103,7 @@
     <num>6</num>
     <heading>"Going Out of Business" Sales</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -1082,9 +1113,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -1151,6 +1180,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Prohibited activities.</heading>
       <para>
@@ -1180,6 +1210,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Exemptions.</heading>
       <text>This subtitle does not apply to or affect:</text>
@@ -1215,6 +1246,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Persons eligible for license.</heading>
       <para>
@@ -1239,6 +1271,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-5</num>
       <heading>Persons not eligible for license.</heading>
       <para>
@@ -1258,6 +1291,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-6</num>
       <heading>License for branch stores.</heading>
       <para>
@@ -1297,6 +1331,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-7</num>
       <heading>Application for license.</heading>
       <para>
@@ -1381,6 +1416,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-8</num>
       <heading>Investigation; denial of license.</heading>
       <para>
@@ -1436,6 +1472,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-9</num>
       <heading>Grant of license; conditions.</heading>
       <para>
@@ -1500,6 +1537,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-10</num>
       <heading>License fee.</heading>
       <text>The fee for the license to conduct a "Going Out of Business Sale", as provided in this subtitle, shall be $100, payable to the Director of Finance.</text>
@@ -1512,6 +1550,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-11</num>
       <heading>License renewal.</heading>
       <para>
@@ -1548,6 +1587,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-12</num>
       <heading>Location of sale.</heading>
       <text>A "Going Out of Business Sale", as provided for in this subtitle, shall be held only upon the premises where the business to be licensed has been conducted for 1 year last past; except, however, those cases in which the landlord forces the owner or owners of the business to vacate the premises before the "Going Out of Business Sale" can be held, and except sales conducted by the heirs, devisees or legatees of the deceased owner of the business.</text>
@@ -1558,6 +1598,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-13</num>
       <heading>Revocation of license.</heading>
       <text>Upon written complaint being filed with the licensor, or upon the initiative of said licensor, after making an investigation the licensor may revoke any license granted under the provisions of this subtitle</text>
@@ -1584,6 +1625,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-14</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -1605,6 +1647,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-15</num>
       <heading>Penalties.</heading>
       <para>
@@ -1629,6 +1672,7 @@
     <num>7</num>
     <heading>Scrap Collectors and Scavengers</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -1638,9 +1682,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -1662,6 +1704,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Scope of subtitle.</heading>
       <text>This subtitle does not apply to:</text>
@@ -1719,16 +1762,18 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 01-243" type="History">Ord. 01-243</annotation>
         <annotation type="History">Text Conformed 02/11/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Permit or photo ID required.</heading>
       <text>No individual may remove scrap from any premises in the City, transport scrap through any street or alley in the City, or sell or offer to sell any scrap in the City unless the individual has, on his or her person:</text>
@@ -1749,6 +1794,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-5</num>
       <heading>Permits — Application and issuance.</heading>
       <para>
@@ -1797,6 +1843,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-6</num>
       <heading>Permits — Term and fee.</heading>
       <para>
@@ -1823,6 +1870,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-7</num>
       <heading>Permits — Contents and display.</heading>
       <para>
@@ -1860,6 +1908,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-8</num>
       <heading>Permits — Refusal or revocation.</heading>
       <text>The Police Commissioner may refuse to issue a permit and may revoke any permit already issued if:</text>
@@ -1888,6 +1937,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-9</num>
       <heading>Operations.</heading>
       <para>
@@ -1930,6 +1980,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-10</num>
       <heading>Penalties.</heading>
       <para>
@@ -1963,6 +2014,7 @@
       </annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -1972,9 +2024,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -2031,20 +2081,22 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 01-243" type="History">Ord. 01-243</annotation>
         <annotation type="History">Text Conformed 02/12/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
       <num>8-3 to 8-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-6</num>
       <heading>License required.</heading>
       <text>No person may do business as a scrap metal dealer unless that person:</text>
@@ -2072,6 +2124,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-7</num>
       <heading>Applications.</heading>
       <text>The application for a license shall:</text>
@@ -2099,6 +2152,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-8</num>
       <heading>Fees.</heading>
       <para>
@@ -2128,9 +2182,10 @@
     </section>
     <section>
       <num>8-9 to 8-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-11</num>
       <heading>Denial, suspension, etc., of license.</heading>
       <text>The Police Commissioner may deny, suspend, revoke, or refuse to renew a license if, after giving the applicant or licensee notice and an opportunity to be heard, the Police Commissioner finds that the applicant or licensee:</text>
@@ -2168,6 +2223,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-12</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -2187,9 +2243,10 @@
     </section>
     <section>
       <num>8-13</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-14</num>
       <heading>Penalties.</heading>
       <para>
@@ -2221,6 +2278,7 @@
     <num>9</num>
     <heading>Laundries and Dry Cleaners</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>Prohibited hours of laundry operation.</heading>
       <para>
@@ -2256,9 +2314,10 @@
     </section>
     <section>
       <num>9-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-3</num>
       <heading>Laundry identification marks.</heading>
       <para>
@@ -2329,6 +2388,7 @@
     <num>10</num>
     <heading>Motor Fuel Sales</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2355,6 +2415,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-2</num>
       <heading>License required for retail dealers.</heading>
       <para>
@@ -2406,6 +2467,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-3</num>
       <heading>Motor fuel service station facilities.</heading>
       <para>
@@ -2476,6 +2538,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-4</num>
       <heading>Signs.</heading>
       <para>
@@ -2514,6 +2577,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-5</num>
       <heading>Brand names.</heading>
       <para>
@@ -2544,6 +2608,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-6</num>
       <heading>Sales to senior citizen drivers.</heading>
       <para>
@@ -2575,6 +2640,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-7</num>
       <heading>Injunctions.</heading>
       <text>Any court of competent jurisdiction shall have jurisdiction in equity to enjoin the habitual, continued, or repeated violation of any provision of this subtitle by any retail dealer.  Petitions for such relief may be filed by any person injured or damaged by such violation.</text>
@@ -2584,6 +2650,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-8</num>
       <heading>Penalties.</heading>
       <para>
@@ -2619,6 +2686,7 @@
     <num>11</num>
     <heading>Pawnbrokers</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2656,6 +2724,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Licenses.</heading>
       <para>
@@ -2705,6 +2774,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-3</num>
       <heading>License required.</heading>
       <para>
@@ -2739,6 +2809,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-4</num>
       <heading>Surety bonds.</heading>
       <para>
@@ -2763,6 +2834,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-5</num>
       <heading>Transactions with minors prohibited.</heading>
       <text>A pawnbroker may not acquire any merchandise in a pawn transaction with a minor.</text>
@@ -2772,6 +2844,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-6</num>
       <heading>Daily reports required.</heading>
       <para>
@@ -2879,6 +2952,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-7</num>
       <heading>Filing with police.</heading>
       <para>
@@ -2931,6 +3005,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-8</num>
       <heading>Holding requirements.</heading>
       <para>
@@ -2997,6 +3072,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-9</num>
       <heading>Release of stolen property.</heading>
       <para>
@@ -3093,6 +3169,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-10</num>
       <heading>Labels.</heading>
       <text>All items in a pawnshop shall be clearly marked or labeled to correlate with:</text>
@@ -3110,6 +3187,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-11</num>
       <heading>Retention of records.</heading>
       <text>All reported transaction sheets shall be kept on the premises for 3 years from the date of the transaction.</text>
@@ -3119,6 +3197,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-12</num>
       <heading>Inspection of records and items.</heading>
       <para>
@@ -3142,6 +3221,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-13</num>
       <heading>Authorized transactions.</heading>
       <text>Each and every pawnbroker licensed as aforesaid:</text>
@@ -3200,6 +3280,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-14</num>
       <heading>Redemption; sale.</heading>
       <para>
@@ -3257,6 +3338,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-15</num>
       <heading>Interest and charges; records.</heading>
       <para>
@@ -3309,6 +3391,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-16</num>
       <heading>Operational restrictions.</heading>
       <para>
@@ -3342,6 +3425,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-17</num>
       <heading>Suspension or revocation of license.</heading>
       <para>
@@ -3371,6 +3455,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-18</num>
       <heading>Action for default.</heading>
       <text>If any person or persons shall sustain any injury or damage from any act or default of a pawnbroker, contrary to the tenor of his obligation as aforesaid, such person or persons may institute an action in any court having jurisdiction, for his, her, or their use or benefit, in the name of the Mayor and City Council of Baltimore, upon the obligation given as aforesaid, in which action he, she, or they shall recover judgment for the amount of the damages sustained.</text>
@@ -3385,6 +3470,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-19</num>
       <heading>Penalties.</heading>
       <text>Any person, firm, corporation, or other legal entity violating any provision of this subtitle shall be guilty of a misdemeanor and upon conviction shall be subject to a fine of not less than $500 and not more than $1,000 or to imprisonment for not longer than 6 months, or to both fine and imprisonment, in the discretion of the court.</text>
@@ -3406,6 +3492,7 @@
     <num>12</num>
     <heading>Second-Hand Property, Antiques, and Consignment Goods</heading>
     <section>
+      <prefix>§</prefix>
       <num>12-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -3448,9 +3535,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(f)</num>
@@ -3471,6 +3556,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-2</num>
       <heading>Exemptions from subtitle.</heading>
       <para>
@@ -3500,6 +3586,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-3</num>
       <heading>License required.</heading>
       <para>
@@ -3524,6 +3611,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-4</num>
       <heading>Master license for cooperatives.</heading>
       <para>
@@ -3566,6 +3654,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-5</num>
       <heading>Transactions with minors prohibited.</heading>
       <text>A dealer may not acquire any item in a transaction with a minor.</text>
@@ -3575,6 +3664,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-6</num>
       <heading>Transferor to provide true name, etc.</heading>
       <text>An individual who transfers or otherwise disposes of an item to a dealer or to the agent or employee of a dealer may not fail or refuse to give:</text>
@@ -3592,6 +3682,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-7</num>
       <heading>Daily reports required.</heading>
       <para>
@@ -3723,6 +3814,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-8</num>
       <heading>Filing with police.</heading>
       <para>
@@ -3770,6 +3862,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-9</num>
       <heading>Holding requirements.</heading>
       <para>
@@ -3858,6 +3951,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-10</num>
       <heading>Release of stolen property.</heading>
       <para>
@@ -3954,6 +4048,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-11</num>
       <heading>Labels.</heading>
       <text>All items in the dealer's place of business shall be clearly marked or labeled to correlate with:</text>
@@ -3970,6 +4065,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-12</num>
       <heading>Retention of records.</heading>
       <text>For at least 3 years after the date of a transfer, the dealer shall hold all records of the transaction:</text>
@@ -3987,6 +4083,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-13</num>
       <heading>Inspection of records and items.</heading>
       <para>
@@ -4018,6 +4115,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-14</num>
       <heading>Exemptions from reporting and holding requirements.</heading>
       <para>
@@ -4114,18 +4212,20 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-15</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner may adopt rules and regulations to implement this subtitle and shall make these rules and regulations available to dealers and the general public.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §48K</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-641" type="History">Ord. 90-641</annotation>
         <annotation doc="City of Balt., Md., Ord. 97-206" type="History">Ord. 97-206</annotation>
         <annotation type="History">Text Conformed 02/12/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-16</num>
       <heading>Penalties.</heading>
       <para>
@@ -4154,6 +4254,7 @@
       <num>1</num>
       <heading>Definitions</heading>
       <section>
+        <prefix>§</prefix>
         <num>12A-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -4168,9 +4269,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 13-166" type="History">Ord. 13-166</annotation>
@@ -4179,7 +4278,7 @@
       </section>
       <section>
         <num>12A-2 to 12A-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4187,6 +4286,7 @@
       <num>2</num>
       <heading>Prohibited Use; Exceptions</heading>
       <section>
+        <prefix>§</prefix>
         <num>12A-5</num>
         <heading>General prohibition.</heading>
         <text>Except as otherwise expressly provided in this subtitle, no person may purchase or offer to purchase any personal property by means of an automated purchasing machine.</text>
@@ -4195,6 +4295,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12A-6</num>
         <heading>Exception for recycling materials.</heading>
         <para>
@@ -4208,15 +4309,15 @@
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner and the Commission on Sustainability may jointly adopt rules, regulations, and standards governing the recyclable materials and recycling programs that may be approved for purposes of this exception.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (b) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-166" type="History">Ord. 13-166</annotation>
           <annotation type="History">Text Conformed 02/12/21</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (b) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>12A-7 to 12A-9</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4224,6 +4325,7 @@
       <num>3</num>
       <heading>Seizure and Forfeiture</heading>
       <section>
+        <prefix>§</prefix>
         <num>12A-10</num>
         <heading>In general.</heading>
         <text>An automated purchasing machine ("APM") is subject to seizure and forfeiture if it is used in violation of this subtitle.</text>
@@ -4232,6 +4334,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12A-11</num>
         <heading>Seizure by police.</heading>
         <para>
@@ -4262,6 +4365,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12A-12</num>
         <heading>Referral to Solicitor.</heading>
         <para>
@@ -4290,6 +4394,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12A-13</num>
         <heading>Forfeiture petition; notice.</heading>
         <para>
@@ -4355,6 +4460,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12A-14</num>
         <heading>Answer to petition.</heading>
         <para>
@@ -4403,6 +4509,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12A-15</num>
         <heading>Order of forfeiture.</heading>
         <para>
@@ -4458,6 +4565,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12A-16</num>
         <heading>Order of release.</heading>
         <text>If, after a full hearing, the court determines that the APM should not be forfeited, the court shall order the APM released.</text>
@@ -4467,7 +4575,7 @@
       </section>
       <section>
         <num>12A-17 to 12A-19</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4475,6 +4583,7 @@
       <num>4</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>12A-20</num>
         <heading>Penalties.</heading>
         <para>
@@ -4498,6 +4607,7 @@
     <num>13</num>
     <heading>Real Estate Practices – Brokers, etc.</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4544,6 +4654,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>Scope of subtitle – Inclusions.</heading>
       <text>Any person, partnership, association, or corporation who, for another in consideration of compensation by fee, commission, salary, or otherwise or with the intention or in the expectation or upon the promise of receiving or collecting a fee, does, offers, or attempts or agrees to do, engages in or offers or attempts or agrees to engage in, either directly or indirectly, any single act or transaction contained in the definition of "real estate broker" or "real estate salesman" in this subtitle, whether said act be an incidental part of a transaction or the entire transaction, shall be deemed a real estate broker or real estate salesman within the meaning of this subtitle.</text>
@@ -4554,6 +4665,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Scope of subtitle – Exclusions.</heading>
       <text>Notwithstanding the foregoing definitions, the terms "real estate broker" and "real estate salesman" shall not include:</text>
@@ -4592,6 +4704,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4</num>
       <heading>Prohibited conduct – Brokers and salespersons.</heading>
       <para>
@@ -4704,6 +4817,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-5</num>
       <heading>Prohibited conduct – Brokers, salespersons, and dealers.</heading>
       <text>In transactions involving residential real or leasehold properties, no real estate broker, salesman, or dealer shall or shall attempt to:</text>
@@ -4817,6 +4931,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-6</num>
       <heading>Prohibited conduct – Salespersons.</heading>
       <text>No real estate salesman shall:</text>
@@ -4836,9 +4951,10 @@
     </section>
     <section>
       <num>13-7 to 13-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-9</num>
       <heading>Penalties.</heading>
       <para>
@@ -4878,6 +4994,7 @@
     <num>14</num>
     <heading>Real Estate Practices – Disclosures</heading>
     <section>
+      <prefix>§</prefix>
       <num>14-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4886,8 +5003,8 @@
         <text>In this subtitle, the following terms have the meanings indicated.</text>
       </para>
       <para>
-        <num>(b)</num>
-        <text>- (d) <em> {Repealed}</em></text>
+        <num>(b) - (d)</num>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(e)</num>
@@ -4910,9 +5027,10 @@
     </section>
     <section>
       <num>14-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-3</num>
       <heading>Single-family zoning limitation.</heading>
       <para>
@@ -4935,9 +5053,10 @@
     </section>
     <section>
       <num>14-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-5</num>
       <heading>Property tax.</heading>
       <para>
@@ -4985,6 +5104,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-6</num>
       <heading>Heavy-industrial and railroad operations.</heading>
       <text>On or before entering into a contract for the sale of any real property, the seller must provide the buyer with the following disclosure:</text>
@@ -5002,6 +5122,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-7</num>
       <heading>Historic districts.</heading>
       <para>
@@ -5121,6 +5242,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-8</num>
       <heading>Vacant structures.</heading>
       <para>
@@ -5157,8 +5279,8 @@
         <text>Any person who violates any provision of this section is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">This section was enacted by Ordinance 21-047, effective December 18, 2021.  Section 3 of that Ordinance provides that “this Ordinance may not be construed to operate retroactively to require any current property sellers to give the notice created by this Ordinance if an offer for sale of a property has already been accepted”.</annotation>
         <annotation doc="City of Balt., Md., Ord. 21-047" type="History">Ord. 21-047</annotation>
+        <annotation type="Editor's Notes">This section was enacted by Ordinance 21-047, effective December 18, 2021.  Section 3 of that Ordinance provides that “this Ordinance may not be construed to operate retroactively to require any current property sellers to give the notice created by this Ordinance if an offer for sale of a property has already been accepted”.</annotation>
       </annotations>
     </section>
   </container>
@@ -5176,6 +5298,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -5282,8 +5405,8 @@
           </para>
         </para>
         <para>
-          <num>(g)</num>
-          <text><em>- </em>(i) <em> {Repealed}</em></text>
+          <num>(g) - (i)</num>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(j)</num>
@@ -5340,9 +5463,10 @@
       </section>
       <section>
         <num>16-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-3</num>
         <heading>Applicability of other laws.</heading>
         <para>
@@ -5360,6 +5484,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-4</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
@@ -5372,14 +5497,14 @@
           <text>otherwise promote the implementation and enforcement of this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-157" type="History">Ord. 13-157</annotation>
           <annotation type="History">Text Conformed 02/12/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>16-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5387,6 +5512,7 @@
       <num>2</num>
       <heading>Charges by Operators and their Agents</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-6</num>
         <heading>In general.</heading>
         <text>An operator or an operator's authorized sales agent may not impose, accept, or receive, directly or indirectly, for any ticket more than the following:</text>
@@ -5407,6 +5533,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-7</num>
         <heading>Required disclosures.</heading>
         <para>
@@ -5485,7 +5612,7 @@
       </section>
       <section>
         <num>16-8 through 16-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5493,6 +5620,7 @@
       <num>3</num>
       <heading>Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-11</num>
         <heading>Prepayable citation.</heading>
         <para>
@@ -5518,6 +5646,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-12</num>
         <heading>Criminal penalties.</heading>
         <para>
@@ -5545,6 +5674,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -5589,9 +5719,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(e)</num>
@@ -5642,7 +5770,7 @@
       </section>
       <section>
         <num>17-2 to 17-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5650,6 +5778,7 @@
       <num>2</num>
       <heading>Prohibited Conduct</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-6</num>
         <heading>Using ticket purchasing software.</heading>
         <text>No person may use ticket purchasing software to purchase tickets.</text>
@@ -5658,6 +5787,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-7</num>
         <heading>Resale of tickets obtained by using ticket purchasing software.</heading>
         <text>No person may resell or offer to resell a ticket that the person knows was obtained by using ticket purchasing software.</text>
@@ -5666,6 +5796,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-8</num>
         <heading>Maintaining interest in or control of ticket purchasing software.</heading>
         <text>No person may intentionally maintain any interest in or control of ticket purchasing software.</text>
@@ -5675,7 +5806,7 @@
       </section>
       <section>
         <num>17-9 to 17-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5683,6 +5814,7 @@
       <num>3</num>
       <heading>Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-11</num>
         <heading>Prepayable citation.</heading>
         <para>
@@ -5708,6 +5840,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-12</num>
         <heading>Criminal penalties.</heading>
         <para>

@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Advertising Circulars</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -53,6 +54,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Placement prohibited without permission.</heading>
       <para>
@@ -90,6 +92,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Persons responsible.</heading>
       <para>
@@ -107,6 +110,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -133,6 +137,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Penalties.</heading>
       <para>
@@ -158,6 +163,7 @@
     <num>2</num>
     <heading>Assaults on Elderly</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>"Elderly individual" defined.</heading>
       <text>"Elderly individual" means any individual who is 65 years or older.</text>
@@ -168,6 +174,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Enhanced penalties.</heading>
       <text>When a defendant is found guilty of assault or assault and battery on an elderly individual and the defendant is charged under this section:</text>
@@ -190,6 +197,7 @@
     <num>3</num>
     <heading>Body Armor</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -218,6 +226,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Prohibited conduct.</heading>
       <para>
@@ -251,6 +260,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Exceptions.</heading>
       <text>This subtitle does not apply to or prevent the possession of body armor by or the  sale or other transfer of body armor to:</text>
@@ -295,6 +305,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Authorized possession, transfer, etc.</heading>
       <text>The possession of body armor by and the  sale or other transfer of body armor to any person is authorized only if:</text>
@@ -331,6 +342,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Identification required.</heading>
       <text>No person may sell, give, or otherwise transfer or attempt to sell, give, or otherwise transfer any body armor to any individual without first verifying that the individual is authorized under this subtitle to obtain body armor.</text>
@@ -339,6 +351,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-6</num>
       <heading>Rules and regulations; fees.</heading>
       <para>
@@ -356,6 +369,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-7</num>
       <heading>Penalties.</heading>
       <text>Any person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of $1,000 or imprisonment for 1 year or both.</text>
@@ -369,6 +383,7 @@
     <num>4</num>
     <heading>Body Studios</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>"Body studio" defined.</heading>
       <para>
@@ -419,6 +434,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Exceptions.</heading>
       <text>The term body studio shall not be construed to mean:</text>
@@ -476,6 +492,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Body studios prohibited.</heading>
       <text>It is unlawful for any person:</text>
@@ -497,6 +514,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-4</num>
       <heading>Penalties.</heading>
       <para>
@@ -520,6 +538,7 @@
     <num>5</num>
     <heading>Burglar Alarms - False Alarms</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Scope of subtitle.</heading>
       <text>This section shall not apply to an accidental setting off of an intrusion detection device by the owner of such device or by his employee or agent.</text>
@@ -529,6 +548,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Prohibited conduct.</heading>
       <text>It shall be unlawful for any person or persons to knowingly set off or cause to be set off any intrusion detection device or burglar alarm on the premises of another.</text>
@@ -538,6 +558,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Penalties.</heading>
       <text>Any person violating the provisions of this subtitle shall be guilty of a misdemeanor and any person convicted thereof shall be subject to a fine of not more than $500 or to imprisonment for not more than 12 months or to both such fine and imprisonment at the discretion of the court.</text>
@@ -552,6 +573,7 @@
     <num>6</num>
     <heading>Burglar Alarms - Public Nuisance Alarms</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -589,6 +611,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Public nuisance alarm prohibited.</heading>
       <text>A person may not allow a public nuisance alarm to be maintained on any property owned or occupied by that person.</text>
@@ -598,6 +621,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Procedures.</heading>
       <para>
@@ -627,6 +651,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Penalties.</heading>
       <text>A person who violates § 6-2 of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not less than $50 and not more than $500 for each offense.</text>
@@ -642,6 +667,7 @@
     <num>7</num>
     <heading>Burglar Alarms - Vehicle Alarms</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -673,6 +699,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Prohibited devices.</heading>
       <para>
@@ -712,6 +739,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Impounding vehicle.</heading>
       <para>
@@ -738,6 +766,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Civil penalties.</heading>
       <para>
@@ -778,6 +807,7 @@
     <num>8</num>
     <heading>Burglar Alarms - Registration and Regulation</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -910,6 +940,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -955,13 +986,14 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-069" type="History">Ord. 00-069</annotation>
         <annotation doc="City of Balt., Md., Ord. 02-329" type="History">Ord. 02-329</annotation>
         <annotation type="History">Text Conformed 02/21/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Registration – Contractors.</heading>
       <para>
@@ -986,6 +1018,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-4</num>
       <heading>Registration – Monitors.</heading>
       <para>
@@ -1009,6 +1042,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-5</num>
       <heading>Registration – Users.</heading>
       <para>
@@ -1040,6 +1074,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-6</num>
       <heading>Notices and reports.</heading>
       <para>
@@ -1129,6 +1164,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-7</num>
       <heading>Unregistered users.</heading>
       <para>
@@ -1170,6 +1206,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-8</num>
       <heading>False alarm fees.</heading>
       <para>
@@ -1321,6 +1358,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-9</num>
       <heading>No-response status.</heading>
       <para>
@@ -1370,6 +1408,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-10</num>
       <heading>Automatic dialers prohibited.</heading>
       <text>No contractor, monitor, or user may install, operate, or maintain any device that, on activation of an alarm system, automatically sends a pre-recorded message or a coded signal to the Police Department or other City office.</text>
@@ -1378,6 +1417,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-11</num>
       <heading>Verification of alarm signal.</heading>
       <para>
@@ -1396,9 +1436,10 @@
     </section>
     <section>
       <num>8-12 to 8-15</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-16</num>
       <heading>Administrative and judicial review.</heading>
       <para>
@@ -1444,6 +1485,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-17</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -1471,6 +1513,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-18</num>
       <heading>Criminal penalties.</heading>
       <para>
@@ -1494,6 +1537,7 @@
     <num>9</num>
     <heading>Chemically Treated Paper</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>"Chemically treated paper" defined.</heading>
       <text>For the purposes of this subtitle, "chemically treated paper" is paper which:</text>
@@ -1515,6 +1559,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2</num>
       <heading>Sale or possession prohibited.</heading>
       <text>It shall be unlawful for any person to sell, use, or possess chemically treated paper, except magicians or other entertainers or their suppliers who have a lawful business purpose for the sale, use, or possession of such paper.</text>
@@ -1524,6 +1569,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-3</num>
       <heading>Record keeping.</heading>
       <para>
@@ -1596,6 +1642,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-4</num>
       <heading>Penalties.</heading>
       <text>Any person who violates this subtitle, upon conviction, is guilty of a misdemeanor and subject to a fine of no more than $250 or to imprisonment for not more than 1 year, or to both the fine and imprisonment in the discretion of the court.</text>
@@ -1610,6 +1657,7 @@
     <num>10</num>
     <heading>Criminal Street Gangs</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -1664,6 +1712,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-2</num>
       <heading>Prohibited conduct.</heading>
       <text>It is unlawful for any person:</text>
@@ -1681,6 +1730,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-3</num>
       <heading>Penalties.</heading>
       <text>Any person who violates the provisions of this section is guilty of a misdemeanor and, upon conviction thereof, is subject to a fine of not more than $1,000 or imprisonment in jail for not more than 1 year, or to both fine and imprisonment, in the discretion of the court.</text>
@@ -1695,6 +1745,7 @@
     <num>11</num>
     <heading>Criminal Tools</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -1735,6 +1786,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Possession to commit crime prohibited.</heading>
       <text>No person shall knowingly possess or have under his control any device, instrument, or article listed herein, with purpose to do any unlawful act:</text>
@@ -1769,6 +1821,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-3</num>
       <heading>Sale, etc., to minors prohibited.</heading>
       <text>A person may not give, sell, rent, or offer for sale any of the following devices to any minor child who is known to be under the age of 18:</text>
@@ -1802,6 +1855,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-4</num>
       <heading>Record keeping.</heading>
       <para>
@@ -1828,6 +1882,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-5</num>
       <heading>Recipient to give true information.</heading>
       <text>No person who purchases, receives, or accepts said regulated tools shall fail or refuse to give his true name, correct age, and correct address.</text>
@@ -1837,6 +1892,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-6</num>
       <heading>Penalties.</heading>
       <text>Any person violating the provisions of this subtitle is guilty of a misdemeanor and, upon the conviction thereof, shall be fined not more than $500 or imprisoned for not more than 6 months, or both.</text>
@@ -1856,6 +1912,7 @@
     <num>13</num>
     <heading>Disorderly Drinking</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Prohibited conduct - in general.</heading>
       <text>A person may not:</text>
@@ -1873,6 +1930,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>Prohibited conduct - parents or guardians of minors.</heading>
       <text>A parent or guardian shall not knowingly permit a minor for whom the parent or guardian has responsibility to violate the provisions of this subtitle.</text>
@@ -1882,6 +1940,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Enforcement - adult offenders.</heading>
       <para>
@@ -1908,6 +1967,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4</num>
       <heading>Enforcement - minors.</heading>
       <para>
@@ -1941,6 +2001,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4.1</num>
       <heading>Enforcement – citation.</heading>
       <para>
@@ -1958,6 +2019,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-5</num>
       <heading>Penalties.</heading>
       <para>
@@ -1987,6 +2049,7 @@
     <num>14</num>
     <heading>Drinking in Public Places</heading>
     <section>
+      <prefix>§</prefix>
       <num>14-1</num>
       <heading>Exemptions from subtitle.</heading>
       <para>
@@ -2016,6 +2079,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-2</num>
       <heading>Prohibited conduct - in general.</heading>
       <para>
@@ -2037,6 +2101,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-3</num>
       <heading>Prohibited conduct - parents or guardians of minors.</heading>
       <text>A parent or guardian shall not knowingly permit a minor under the age of 18 years for whom the parent or guardian has responsibility to violate the provisions of this subtitle.</text>
@@ -2046,6 +2111,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-4</num>
       <heading>Enforcement - by citation.</heading>
       <para>
@@ -2074,6 +2140,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-5</num>
       <heading>Enforcement - minors.</heading>
       <para>
@@ -2107,6 +2174,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-6</num>
       <heading>Penalties.</heading>
       <para>
@@ -2139,6 +2207,7 @@
     <num>15</num>
     <heading>Drugs - Codeine and Opium Derivatives</heading>
     <section>
+      <prefix>§</prefix>
       <num>15-1</num>
       <heading>Scope of subtitle.</heading>
       <text>Opium or derivatives thereof shall include codeine and any compound, manufacture, salt, derivative, mixture, or preparation of opium, natural or synthetic.</text>
@@ -2148,6 +2217,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-2</num>
       <heading>Sale without prescription prohibited.</heading>
       <para>
@@ -2174,6 +2244,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-3</num>
       <heading>Possession without prescription prohibited.</heading>
       <text>It shall be unlawful for any person to possess or have under his control, except where such is in the regular course of business, occupation, profession, employment, or duty of such person, any preparation containing opium, unless such person obtained such drug on prescription of a physician, dentist, or veterinarian.</text>
@@ -2183,6 +2254,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-4</num>
       <heading>Penalties.</heading>
       <text>Any person who violates the provisions of this subtitle shall be guilty of a misdemeanor and, upon conviction thereof:</text>
@@ -2209,6 +2281,7 @@
     <num>16</num>
     <heading>Drugs - LSD</heading>
     <section>
+      <prefix>§</prefix>
       <num>16-1</num>
       <heading>"LSD" defined.</heading>
       <text>The drug or compound herein referred to as "LSD" means:</text>
@@ -2227,6 +2300,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-2</num>
       <heading>Prohibited conduct.</heading>
       <para>
@@ -2256,6 +2330,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-3</num>
       <heading>Penalties.</heading>
       <para>
@@ -2285,6 +2360,7 @@
     <num>17</num>
     <heading>Drugs - Paraphernalia</heading>
     <section>
+      <prefix>§</prefix>
       <num>17-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2313,6 +2389,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-2</num>
       <heading>Use or possession prohibited.</heading>
       <text>A person may not use or possess with intent to use any of the following to manufacture, process, prepare, package, repackage, store, contain, or conceal or to ingest, inhale, or otherwise introduce into the human body a controlled dangerous substance in violation of the Maryland Controlled Dangerous Substances Act:</text>
@@ -2331,6 +2408,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-3</num>
       <heading>Sale or delivery prohibited – In general.</heading>
       <text>A person may not sell or deliver or possess with the intent to sell or deliver any of the following knowing or under circumstances where one reasonably should know that it will be used to manufacture, process, prepare, package, repackage, store, contain, or conceal or to ingest, inhale, or otherwise introduce into the human body a controlled dangerous substance in violation of the Maryland Controlled Dangerous Substances Act:</text>
@@ -2349,6 +2427,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-4</num>
       <heading>Sale or delivery prohibited – Minors.</heading>
       <para>
@@ -2366,6 +2445,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-5</num>
       <heading>Advertising prohibited.</heading>
       <text>A person may not advertise in any newspaper, magazine, handbill, poster, sign, mailing, or other writing or publication, knowing or under circumstances where one should reasonably know that the purpose of the advertisement, in whole or in part, is to promote the use, sale, or delivery of any object prohibited by this subtitle.</text>
@@ -2376,6 +2456,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-6</num>
       <heading>Relevant factors.</heading>
       <para>
@@ -2452,6 +2533,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-7</num>
       <heading>Commercial display to minors prohibited.</heading>
       <para>
@@ -2502,9 +2584,10 @@
     </section>
     <section>
       <num>17-8 to 17-9</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-10</num>
       <heading>Penalties.</heading>
       <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of $1,000 or imprisonment for 1 year or both fine and imprisonment.</text>
@@ -2520,6 +2603,7 @@
     <num>18</num>
     <heading>Surveillance</heading>
     <section>
+      <prefix>§</prefix>
       <num>18-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2632,6 +2716,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-2</num>
       <heading>Use of face surveillance technology prohibited.</heading>
       <text>A person may not obtain, retain, access, or use in Baltimore City:</text>
@@ -2648,6 +2733,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-3</num>
       <heading>Penalties.</heading>
       <para>
@@ -2666,9 +2752,10 @@
     </section>
     <section>
       <num>18-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-5</num>
       <heading>Annual report and assessment.</heading>
       <para>
@@ -2764,6 +2851,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-6</num>
       <heading>Termination of subtitle.</heading>
       <text>This subtitle automatically expires on December 31, 2022, unless the City Council, after causing an appropriate study to be undertaken, conducting public hearings, and hearing testimonial evidence, finds that the prohibitions and requirements set forth in this subtitle remain in the public interest, in which case this section may be extended for 5 more years.</text>
@@ -2777,6 +2865,7 @@
     <num>19</num>
     <heading>Fraud - Against Restaurant</heading>
     <section>
+      <prefix>§</prefix>
       <num>19-1</num>
       <heading>Prohibited conduct; penalties.</heading>
       <text>Any person who:</text>
@@ -2809,6 +2898,7 @@
     <num>20</num>
     <heading>Fraud - Identification Cards</heading>
     <section>
+      <prefix>§</prefix>
       <num>20-1</num>
       <heading>Issuance of inaccurate cards.</heading>
       <para>
@@ -2828,6 +2918,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-2</num>
       <heading>Use of inaccurate card.</heading>
       <text>Any person who makes use of any such identification card or paper, for which he himself wilfully has provided false information, shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be subject to the same penalty.</text>
@@ -2843,6 +2934,7 @@
     <num>21</num>
     <heading>Fraud - Impersonations and False Representations</heading>
     <section>
+      <prefix>§</prefix>
       <num>21-1</num>
       <heading>Impersonating inspector or other official.</heading>
       <text>It shall be unlawful for any person falsely to represent or imply within the City of Baltimore that he is an inspector or other official or employee of any department, bureau, board, commission, or other agency of the Mayor and City Council of Baltimore</text>
@@ -2853,6 +2945,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-2</num>
       <heading>Misrepresenting regulated structures, etc.</heading>
       <text>It shall be unlawful for any person wilfully to make a false representation or implication within the City of Baltimore as to the condition, workability, or efficiency of any building, structure, mechanical device, or other thing which is subject in any way to the regulating powers or control of the Mayor and City Council of Baltimore, for the purpose of persuading or inducing the owner or person in control thereof to have made any change, repair, or improvement in the building, structure, mechanical device, or thing.</text>
@@ -2863,6 +2956,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-3</num>
       <heading>Penalties.</heading>
       <text>Any person, firm, or corporation violating any provision of this subtitle shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be subject to a fine not exceeding $500, or to imprisonment for a period not exceeding 12 months, or to both such fine and imprisonment, in the discretion of the court.</text>
@@ -2878,6 +2972,7 @@
     <num>22</num>
     <heading>Fraud - Professional Baseball</heading>
     <section>
+      <prefix>§</prefix>
       <num>22-1</num>
       <heading>Purpose and findings.</heading>
       <para>
@@ -2919,6 +3014,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-2</num>
       <heading>Prohibited conduct.</heading>
       <text>Major league baseball games shall not be played at Oriole Park at Camden Yards with non-major league baseball players.</text>
@@ -2928,6 +3024,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-3</num>
       <heading>Penalties.</heading>
       <para>
@@ -2951,6 +3048,7 @@
     <num>23</num>
     <heading>Hate Crimes</heading>
     <section>
+      <prefix>§</prefix>
       <num>23-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -3020,6 +3118,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-2</num>
       <heading>Purpose of subtitle.</heading>
       <para>
@@ -3052,6 +3151,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-3</num>
       <heading>Prohibited conduct.</heading>
       <text>A person may not:</text>
@@ -3101,6 +3201,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-4</num>
       <heading>Penalties.</heading>
       <para>
@@ -3134,6 +3235,7 @@
     <num>25</num>
     <heading>Loitering - General</heading>
     <section>
+      <prefix>§</prefix>
       <num>25-1</num>
       <heading>Public places.</heading>
       <para>
@@ -3217,6 +3319,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-2</num>
       <heading>Liquor establishments, drug abuse centers, or amusement arcades.</heading>
       <para>
@@ -3266,6 +3369,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-3</num>
       <heading>Bus and railroad stations.</heading>
       <para>
@@ -3301,6 +3405,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-4</num>
       <heading>Schools, day care centers, and family-support centers.</heading>
       <para>
@@ -3321,9 +3426,10 @@
     </section>
     <section>
       <num>25-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-6</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -3349,6 +3455,7 @@
       <annotation type="Editor's Notes">The following provisions formerly appeared as §58C, as enacted by Ord. 89-375 and extended by Ord. 90-561A.   Ord. 92-131 later amended §58C to add provisions for a curfew; that Ordinance, however, had a “sunset” date of September 30, 1993.  This recodification, therefore, is based on §58C as it existed before Ord. 92-131 temporarily modified it.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>26-1</num>
       <heading>"Certified drug-free zone" defined.</heading>
       <text>A "certified drug-free zone" is a geographical area of Baltimore City certified as such by the Police Commissioner, including but not limited to identifiable segments of streets, alleys, walkways, parks, recreation centers, schools, bus stations, train depots, taxi stands, commercial parking lots, places of public accommodation and convenience, public housing complexes, and public access areas in residential apartment structures.</text>
@@ -3359,6 +3466,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-2</num>
       <heading>Findings and declarations.</heading>
       <text>The Mayor and City Council finds and declares that:</text>
@@ -3382,6 +3490,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-3</num>
       <heading>Commissioner to certify zones; term.</heading>
       <para>
@@ -3402,6 +3511,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-4</num>
       <heading>Considerations for certification.</heading>
       <text>To determine whether to certify an area as a "drug-free zone", the Commissioner shall consider the following:</text>
@@ -3428,6 +3538,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-5</num>
       <heading>Public notices of zones.</heading>
       <para>
@@ -3463,6 +3574,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-6</num>
       <heading>Prohibited conduct.</heading>
       <para>
@@ -3489,6 +3601,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-7</num>
       <heading>Considerations.</heading>
       <para>
@@ -3597,6 +3710,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-7.1</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -3614,6 +3728,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-8</num>
       <heading>Penalties.</heading>
       <text>Any person who violates the provisions of this subtitle is guilty of a misdemeanor and, upon conviction, shall be subject to imprisonment for not more than 30 days or a fine of not more than $400, or both.</text>
@@ -3633,6 +3748,7 @@
       <num>1</num>
       <heading>In General</heading>
       <section>
+        <prefix>§</prefix>
         <num>27-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -3679,6 +3795,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-2</num>
         <heading>Legislative findings.</heading>
         <text>The Mayor and City Council hereby finds and declares that:</text>
@@ -3698,6 +3815,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-3</num>
         <heading>Prohibited conduct.</heading>
         <text>It shall be unlawful for any person or persons, who are remaining, standing, loitering, or wandering about at any public place or place open or legally accessible to the public in such a manner as to beckon to, or repeatedly stop, or repeatedly attempt to engage passersby in conversation, or repeatedly stop or attempt to stop motor vehicles, or repeatedly interfere with the free passage of other persons, for the purpose or with the intention of either engaging in and/or promoting prostitution, lewdness, or assignation, to disobey a request by a police officer to move on.</text>
@@ -3709,6 +3827,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-3.1</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -3726,6 +3845,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-4</num>
         <heading>Penalties.</heading>
         <text>Any person violating any of the provisions of this Part shall be guilty of a misdemeanor and, upon conviction thereof, shall be subject to a fine of not more than $1,000 or imprisonment in jail not exceeding 12 months, or to both fine and imprisonment, in the discretion of the court.</text>
@@ -3739,7 +3859,7 @@
       </section>
       <section>
         <num>27-5 to 27-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3747,6 +3867,7 @@
       <num>2</num>
       <heading>Prostitution-Free Zones</heading>
       <section>
+        <prefix>§</prefix>
         <num>27-11</num>
         <heading>"Certified prostitution-free zone" defined.</heading>
         <text>A "certified prostitution-free zone" is a geographical area of Baltimore City certified as such by the Police Commissioner, encompassing specified segments of streets, alleys, walkways, parks, public access areas in residential apartment structures, places of public accommodations, schools, bus stations, train depots, and taxi stands.</text>
@@ -3756,6 +3877,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-12</num>
         <heading>Commissioner to certify zones; term.</heading>
         <para>
@@ -3788,6 +3910,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-13</num>
         <heading>Considerations for certification.</heading>
         <text>To determine whether to certify an area as a "prostitution-free zone", the Police Commissioner shall consider the following:</text>
@@ -3809,6 +3932,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-14</num>
         <heading>Public notices of zones.</heading>
         <para>
@@ -3839,6 +3963,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-15</num>
         <heading>Prohibited conduct.</heading>
         <text>It shall be unlawful for any person to loiter or remain at any public place or place open or legally accessible to the public within a certified prostitution-free zone, as herein provided, if the person intentionally engages in or promotes prostitution, lewdness, or assignation.</text>
@@ -3848,6 +3973,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-15.1</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -3865,6 +3991,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-16</num>
         <heading>Penalties.</heading>
         <text>Any person violating any of the provisions of this Part shall be guilty of a misdemeanor and, upon conviction thereof, shall be subject to a fine of not more than $1,000 or imprisonment in jail not exceeding 90 days, or both fine and imprisonment, in the discretion of the court.</text>
@@ -3886,17 +4013,18 @@
     <heading>Mass Transit Vehicles</heading>
     <section>
       <num>29-1</num>
-      <heading>{Repealed by Ord. 09-142}</heading>
+      <reason>Repealed by Ord. 09-142</reason>
     </section>
     <section>
       <num>29-2</num>
-      <heading>{Repealed by Ord. 07-392}</heading>
+      <reason>Repealed by Ord. 07-392</reason>
     </section>
     <section>
       <num>29-3</num>
-      <heading>{Repealed by Ord. 09-142}</heading>
+      <reason>Repealed by Ord. 09-142</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-4</num>
       <heading>Outside riding.</heading>
       <para>
@@ -3916,7 +4044,7 @@
     </section>
     <section>
       <num>29-5</num>
-      <heading>{Repealed by Ord. 09-142}</heading>
+      <reason>Repealed by Ord. 09-142</reason>
     </section>
   </container>
   <container>
@@ -3924,6 +4052,7 @@
     <num>30</num>
     <heading>Merchandise Carts</heading>
     <section>
+      <prefix>§</prefix>
       <num>30-1</num>
       <heading>Scope of subtitle.</heading>
       <text>The provisions of this subtitle apply only to wheeled carts and other similar devices which have the name and address of the owners thereof clearly marked thereon.</text>
@@ -3934,6 +4063,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-2</num>
       <heading>Prohibited conduct.</heading>
       <text>Any person who:</text>
@@ -3962,6 +4092,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-3</num>
       <heading>Penalties.</heading>
       <text>Upon conviction thereof, he is subject to a fine of not more than $100 for each such offense.</text>
@@ -3983,6 +4114,7 @@
     <num>32</num>
     <heading>Minors - Sales in Proximity to Liquor Store</heading>
     <section>
+      <prefix>§</prefix>
       <num>32-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4065,9 +4197,10 @@
     </section>
     <section>
       <num>32-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-3</num>
       <heading>Sales to minors.</heading>
       <text>No person in close proximity to a liquor store may sell any food, goods, supplies, or other merchandise (even if non-alcoholic) to any minor<strong>.</strong></text>
@@ -4076,6 +4209,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-4</num>
       <heading>Inducing minor to purchase.</heading>
       <text>No person may request or induce a minor to purchase any food, goods, supplies, or other merchandise in violation of  § 32-3 {"Sales to minors"} of this subtitle.</text>
@@ -4084,6 +4218,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-5</num>
       <heading>False representation by minor.</heading>
       <text>No minor may knowingly and falsely represent her- or himself to any person as being 18 years old or older for the purpose of purchasing any food, goods, supplies, or other merchandise in violation of  § 32-3 {"Sales to minors"} of this subtitle.</text>
@@ -4093,9 +4228,10 @@
     </section>
     <section>
       <num>32-6 to 32-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-9</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -4121,6 +4257,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-10</num>
       <heading>Criminal penalties.</heading>
       <para>
@@ -4158,6 +4295,7 @@
     <num>33</num>
     <heading>Minors - Alcoholic Beverages</heading>
     <section>
+      <prefix>§</prefix>
       <num>33-1</num>
       <heading>"Minor" defined.</heading>
       <text>In this subtitle, "minor" applies to every individual under 21 years of age, except to bona fide employees in the course of their employment and whose employment is not prohibited by the State Alcoholic Beverages Article.</text>
@@ -4171,6 +4309,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-2</num>
       <heading>Purchase or possession by minor.</heading>
       <para>
@@ -4216,6 +4355,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-3</num>
       <heading>False representation.</heading>
       <para>
@@ -4243,6 +4383,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-4</num>
       <heading>Providing to or inducing minor.</heading>
       <para>
@@ -4277,6 +4418,7 @@
     <num>34</num>
     <heading>Minors - Daytime and Nighttime Curfews</heading>
     <section>
+      <prefix>§</prefix>
       <num>34-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4299,9 +4441,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Vacant}</em>
-        </text>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(d)</num>
@@ -4370,6 +4510,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-2</num>
       <heading>Legislative findings.</heading>
       <text>The Mayor and City Council find that:</text>
@@ -4397,6 +4538,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-3</num>
       <heading>Prohibited conduct of minors – Nighttime curfew.</heading>
       <para>
@@ -4474,6 +4616,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-4</num>
       <heading>Prohibited conduct of minors – Daytime curfew.</heading>
       <para>
@@ -4512,6 +4655,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-5</num>
       <heading>Prohibited conduct of parents, guardians, etc.</heading>
       <text>It is unlawful for the parent of any minor to knowingly permit or, by insufficient control, to allow that minor to be in or about any public place or any establishment if that minor's presence would violate § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or § 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle.</text>
@@ -4527,6 +4671,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-6</num>
       <heading>Prohibited conduct of establishments.</heading>
       <text>No operator of an establishment or his agents or employees may knowingly permit any minor to remain on the premises of that establishment if that minor's presence would violate § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or § 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle.</text>
@@ -4542,6 +4687,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-7</num>
       <heading>Detention of minor not an arrest.</heading>
       <text>Detention of a minor under this subtitle is not considered an arrest and does not create a criminal record for the minor under State law.</text>
@@ -4552,6 +4698,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-8</num>
       <heading>Enforcement generally.</heading>
       <para>
@@ -4671,6 +4818,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-8.1</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -4688,6 +4836,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-9</num>
       <heading>Penalties.</heading>
       <para>
@@ -4742,6 +4891,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-10</num>
       <heading>Continuing evaluation.</heading>
       <text>The Mayor and City Council shall continue evaluating and updating this subtitle through methods including but not limited to:</text>
@@ -4777,6 +4927,7 @@
     <num>35</num>
     <heading>Minors - Harmful Substances</heading>
     <section>
+      <prefix>§</prefix>
       <num>35-1</num>
       <heading>Controlled dangerous substances.</heading>
       <para>
@@ -4832,6 +4983,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-2</num>
       <heading>Glue, carbon tetrachloride, paints, etc.</heading>
       <para>
@@ -4910,6 +5062,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-3</num>
       <heading>Butyl nitrate, amyl nitrate, etc.</heading>
       <para>
@@ -4928,6 +5081,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-4</num>
       <heading>Spray paint.</heading>
       <para>
@@ -4961,6 +5115,7 @@
     <num>36</num>
     <heading>Minors - Indecent Materials</heading>
     <section>
+      <prefix>§</prefix>
       <num>36-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -5048,6 +5203,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-2</num>
       <heading>Prohibited conduct.</heading>
       <text>It shall be unlawful for any person knowingly to sell, exhibit, or transfer to a minor:</text>
@@ -5081,6 +5237,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-3</num>
       <heading>Penalties.</heading>
       <text>Any person violating any of the provisions of this subtitle shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than $100 nor more than $500 or by imprisonment for not more than 12 months, or both, for each offense.</text>
@@ -5091,7 +5248,7 @@
     </section>
     <section>
       <num>36-4</num>
-      <heading>{Repealed by Ord. 22-125)</heading>
+      <reason>Repealed by Ord. 22-125</reason>
     </section>
   </container>
   <container>
@@ -5099,6 +5256,7 @@
     <num>37</num>
     <heading>Minors - Misappropriations or Neglect</heading>
     <section>
+      <prefix>§</prefix>
       <num>37-1</num>
       <heading>Scope of subtitle.</heading>
       <para>
@@ -5121,7 +5279,7 @@
         <text>No parent or duly appointed guardian may be proceeded against under this subtitle for any alleged mistreatment or abuse of his or her own child or children or child or children for whom he or she has been appointed guardian.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">City Code, 1927, art. 32, §§33(2nd sen.), 34(2nd sen.)</annotation>
+        <annotation type="Prior Codifications">City Code, 1927, art. 32, ''33(2nd sen.), 34(2nd sen.)</annotation>
         <annotation type="Prior Codifications">1950, art. 24, ''27(2nd sen.), 28(2nd sen.)</annotation>
         <annotation type="Prior Codifications">1966, art. 19, ''64(2nd sen.), 65(2nd sen.)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 19, ''74(2nd sen.), 75(2nd sen.)</annotation>
@@ -5131,6 +5289,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-2</num>
       <heading>Misappropriation of minor's property.</heading>
       <text>Any person having the custody of any minor child or children, and who shall appropriate to his own use or for his personal gain or profit any sum of money or any valuable article contributed or given for the support or maintenance of said minor child or children shall be deemed guilty of a misdemeanor and, upon conviction of said offense by a court of competent jurisdiction, shall be punished by a fine of not more than $300, or imprisonment for not more than 30 days, or both fine and imprisonment.</text>
@@ -5143,6 +5302,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-3</num>
       <heading>General neglect; inducing to beg.</heading>
       <text>Any person who shall induce a minor child to beg or ask alms, or any person having the custody of any minor child or children who shall refuse or neglect to provide food, clothing, housing facilities, or medical attention sufficient to preserve the health of such child or children, shall be deemed guilty of a misdemeanor and, upon conviction of said offense by a court of competent jurisdiction, shall be punished by a fine of not more than $300, or imprisonment for not more than 30 days, or both.</text>
@@ -5155,6 +5315,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-4</num>
       <heading>Child left unattended in vehicle.</heading>
       <text>Any person, having the care or custody of any child under the age of 11 years who shall cause or permit the child to remain in a motor vehicle while not attended or accompanied in that motor vehicle by a person at least 13 years of age or more shall be deemed guilty of a misdemeanor and, upon conviction, shall be subject to a fine of not more than $500 or imprisonment for not more than 30 days, or both fine and imprisonment.</text>
@@ -5165,9 +5326,10 @@
     </section>
     <section>
       <num>37-5 to 37-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-11</num>
       <heading>Enjoining custody.</heading>
       <text>Any person convicted of violating the provisions of this subtitle may be enjoined from:</text>
@@ -5188,6 +5350,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-12</num>
       <heading>Enforcement by Social Services.</heading>
       <text>It shall be the duty of the Department of Social Services to:</text>
@@ -5213,6 +5376,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-13</num>
       <heading>Application of subtitle.</heading>
       <text>This subtitle shall not be construed to repeal any existing provision of law, but shall be in addition to any existing provisions of law on this subject.</text>
@@ -5230,6 +5394,7 @@
     <num>38</num>
     <heading>Minors - Miscellaneous</heading>
     <section>
+      <prefix>§</prefix>
       <num>38-1</num>
       <heading>Enticing minor into vehicle.</heading>
       <para>
@@ -5272,7 +5437,7 @@
     </section>
     <section>
       <num>38-2</num>
-      <heading>{Repealed by Ord. 09-144}</heading>
+      <reason>Repealed by Ord. 09-144</reason>
     </section>
   </container>
   <container>
@@ -5284,6 +5449,7 @@
       <num>1</num>
       <heading>In General</heading>
       <section>
+        <prefix>§</prefix>
         <num>39-1</num>
         <heading>"Replica gun" defined.</heading>
         <para>
@@ -5301,6 +5467,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-2</num>
         <heading>Possession prohibited.</heading>
         <text>Except as otherwise provided in this subtitle, no person may own, carry, or possess a replica gun in the City of Baltimore.</text>
@@ -5309,6 +5476,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-3</num>
         <heading>Exemptions.</heading>
         <para>
@@ -5359,6 +5527,7 @@
       <num>2</num>
       <heading>Seizure and Forfeiture</heading>
       <section>
+        <prefix>§</prefix>
         <num>39-4</num>
         <heading>Seizure and forfeiture authorized.</heading>
         <text>A replica gun is subject to seizure and forfeiture if it is found in violation of this subtitle.</text>
@@ -5367,6 +5536,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-5</num>
         <heading>Seizure by police.</heading>
         <para>
@@ -5397,6 +5567,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-6</num>
         <heading>Referral to Solicitor.</heading>
         <para>
@@ -5425,6 +5596,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-7</num>
         <heading>Judicial review.</heading>
         <para>
@@ -5443,9 +5615,10 @@
       </section>
       <section>
         <num>39-8</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-9</num>
         <heading>Forfeiture.</heading>
         <para>
@@ -5470,6 +5643,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-10</num>
         <heading>Order of release.</heading>
         <text>If, after a full hearing, the court determines that the replica gun should not be forfeited, the court shall order the replica gun released<strong>.</strong></text>
@@ -5479,7 +5653,7 @@
       </section>
       <section>
         <num>39-11</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5487,6 +5661,7 @@
       <num>3</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>39-12</num>
         <heading>Enforcement by civil citation.</heading>
         <para>
@@ -5504,6 +5679,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-13</num>
         <heading>Criminal penalties for 3rd or subsequent offense.</heading>
         <text>Any person who violates any provision of this subtitle after having twice previously been found to have violated this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 30 days or to both fine and imprisonment for each offense.</text>
@@ -5522,6 +5698,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -5657,6 +5834,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-2</num>
         <heading>Exclusions from subtitle.</heading>
         <para>
@@ -5694,19 +5872,20 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-3</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 00-040" type="History">Ord. 00-040</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-398" type="History">Ord. 07-398</annotation>
           <annotation type="History">Text Conformed 02/21/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>40-4 to 40-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5714,6 +5893,7 @@
       <num>2</num>
       <heading>Prohibited Operations</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-6</num>
         <heading>Driving or riding; leaving unimmobilized.</heading>
         <para>
@@ -5741,6 +5921,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-7</num>
         <heading>Permitting another to drive or ride.</heading>
         <text>No owner or other person in control or custody of a dirt bike or an unregistered motorcycle or similar vehicle may permit it to be driven or ridden by any other person on any public or private property that is located in Baltimore City or, wherever located, that is owned or regulated by the City.</text>
@@ -5750,6 +5931,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-8</num>
         <heading>Parents and guardians.</heading>
         <text>No parent or guardian of a minor may knowingly permit the minor to violate any provision of § 40-6 or § 40-7 of this subtitle.</text>
@@ -5758,6 +5940,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-9</num>
         <heading>Motor fuel sales.</heading>
         <para>
@@ -5778,14 +5961,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Chapters 114 and 115, Acts of 2010, enacted state legislation that, among other things, imposes additional penalties on persons dispensing motor fuel into a dirt bike (State Transportation Article § 21-1128 and § 27-101(dd)) and requires service stations in Baltimore City to post signs of the State and City prohibitions relating to dispensing motor fuel for dirt bikes (State Business Regulation Article § 10-503).</annotation>
           <annotation doc="City of Balt., Md., Ord. 00-130" type="History">Ord. 00-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-683" type="History">Ord. 04-683</annotation>
+          <annotation type="Editor's Notes">Chapters 114 and 115, Acts of 2010, enacted state legislation that, among other things, imposes additional penalties on persons dispensing motor fuel into a dirt bike (State Transportation Article § 21-1128 and § 27-101(dd)) and requires service stations in Baltimore City to post signs of the State and City prohibitions relating to dispensing motor fuel for dirt bikes (State Business Regulation Article § 10-503).</annotation>
         </annotations>
       </section>
       <section>
         <num>40-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5793,6 +5976,7 @@
       <num>3</num>
       <heading>Seizure and Forfeiture</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-11</num>
         <heading>When authorized.</heading>
         <para>
@@ -5811,6 +5995,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-12</num>
         <heading>Seizure by police.</heading>
         <para>
@@ -5842,6 +6027,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-13</num>
         <heading>Referral to Solicitor.</heading>
         <para>
@@ -5870,6 +6056,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-14</num>
         <heading>Forfeiture petition; notice.</heading>
         <para>
@@ -5936,6 +6123,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-15</num>
         <heading>Answer to petition.</heading>
         <para>
@@ -5985,9 +6173,10 @@
       </section>
       <section>
         <num>40-16</num>
-        <heading>{Repealed by Ord. 08-060.}</heading>
+        <reason>Repealed by Ord. 08-060.</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-17</num>
         <heading>Order of forfeiture.</heading>
         <para>
@@ -6062,6 +6251,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-18</num>
         <heading>Order of release.</heading>
         <text>If, after a full hearing, the court determines that the vehicle should not be forfeited, the court shall order the vehicle released.</text>
@@ -6071,7 +6261,7 @@
       </section>
       <section>
         <num>40-19 to 40-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6079,6 +6269,7 @@
       <num>4</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-21</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense or to imprisonment for not more than 90 days, or both fine and imprisonment, for each offense.</text>
@@ -6096,9 +6287,10 @@
     <heading>Outdoor Telephones</heading>
     <section>
       <num>41-1</num>
-      <heading>{Repealed by Ord.  22-125}</heading>
+      <reason>Repealed by Ord.  22-125</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-2</num>
       <heading>Prohibited placement.</heading>
       <text>A person may not install an outdoor telephone:</text>
@@ -6125,6 +6317,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-3</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -6153,13 +6346,14 @@
     </section>
     <section>
       <num>41-4</num>
-      <heading>{Repealed by Ord. 15-435.}</heading>
+      <reason>Repealed by Ord. 15-435.</reason>
     </section>
     <section>
       <num>41-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-6</num>
       <heading>Penalties.</heading>
       <para>
@@ -6183,6 +6377,7 @@
     <num>42</num>
     <heading>Press Cards for News Media</heading>
     <section>
+      <prefix>§</prefix>
       <num>42-1</num>
       <heading>Commissioner authorized to issue.</heading>
       <text>The Police Commissioner of Baltimore City is authorized to issue personal press identification cards and press vehicle identification cards to any employee of a newspaper, news gathering agency, news photography agency, motion picture newsreel agency, radio broadcasting company, or television company operating in Baltimore City who is designated by his employer to gather information or pictures for distribution or broadcast to the general public as news.</text>
@@ -6199,6 +6394,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-2</num>
       <heading>Applications.</heading>
       <text>Application for such identification cards shall be made by the individual employee, with appropriate verification of his employment responsibilities and duties, to the Police Commissioner on forms to be designated by the Police Commissioner.</text>
@@ -6215,6 +6411,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-3</num>
       <heading>Issuance, term, revocation.</heading>
       <para>
@@ -6239,6 +6436,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-4</num>
       <heading>Rules and regulations.</heading>
       <text>The Police Commissioner of Baltimore City is authorized to promulgate and issue rules and regulations concerning:</text>
@@ -6257,6 +6455,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-5</num>
       <heading>Prohibited conduct; penalties.</heading>
       <text>Any person who shall:</text>
@@ -6289,6 +6488,7 @@
     <num>43</num>
     <heading>Public Nuisances</heading>
     <section>
+      <prefix>§</prefix>
       <num>43-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -6424,9 +6624,10 @@
     </section>
     <section>
       <num>43-2</num>
-      <heading>{Repealed by Ord. 07-619.}</heading>
+      <reason>Repealed by Ord. 07-619.</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-3</num>
       <heading>Nuisance abatement authorized.</heading>
       <para>
@@ -6475,6 +6676,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-4</num>
       <heading>Notice and opportunity for hearing.</heading>
       <para>
@@ -6532,6 +6734,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-5</num>
       <heading>Applicable standards.</heading>
       <para>
@@ -6551,6 +6754,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-6</num>
       <heading>Issuance and enforcement of order.</heading>
       <para>
@@ -6620,9 +6824,10 @@
     </section>
     <section>
       <num>43-7</num>
-      <heading>{Repealed by Ord. 07-619.}</heading>
+      <reason>Repealed by Ord. 07-619.</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-8</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -6643,6 +6848,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-9</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -6664,9 +6870,10 @@
     </section>
     <section>
       <num>43-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-11</num>
       <heading>Prohibited conduct.</heading>
       <para>
@@ -6707,6 +6914,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-12</num>
       <heading>Penalties.</heading>
       <para>
@@ -6740,6 +6948,7 @@
     <num>43A</num>
     <heading>Neighborhood Nuisances – Abatement</heading>
     <section>
+      <prefix>§</prefix>
       <num>43A-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -6813,6 +7022,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43A-2</num>
       <heading>Nuisance abatement authorized.</heading>
       <para>
@@ -6857,6 +7067,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43A-3</num>
       <heading>Notice and opportunity for hearing.</heading>
       <para>
@@ -6911,6 +7122,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43A-4</num>
       <heading>Issuance and enforcement of order.</heading>
       <para>
@@ -6977,6 +7189,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43A-5</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -6994,6 +7207,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43A-6</num>
       <heading>Judicial review.</heading>
       <para>
@@ -7011,6 +7225,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43A-7</num>
       <heading>Prohibited conduct.</heading>
       <para>
@@ -7036,6 +7251,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43A-8</num>
       <heading>Penalties.</heading>
       <para>
@@ -7066,6 +7282,7 @@
     <num>43B</num>
     <heading>Neighborhood Nuisances and Unruly Social Events</heading>
     <section>
+      <prefix>§</prefix>
       <num>43B-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -7088,9 +7305,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Reserved}</em>
-        </text>
+        <reason>Reserved</reason>
       </para>
       <para>
         <num>(d)</num>
@@ -7216,6 +7431,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43B-2</num>
       <heading>Exemptions from subtitle.</heading>
       <text>The activities described in § 43B-1(o)(1) of this subtitle <em>{underage consumption, possession, etc., of alcoholic beverages} </em>do not apply to:</text>
@@ -7233,10 +7449,12 @@
     </section>
     <section>
       <num>43B-3</num>
-      <heading>{Reserved}</heading>
-      <text>
-        <strong>§ 43B-4.  Duties of persons responsible.</strong>
-      </text>
+      <reason>Reserved</reason>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>43B-4</num>
+      <heading>Duties of persons responsible.</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -7287,6 +7505,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43B-5</num>
       <heading>Prohibited conduct.</heading>
       <text>No person responsible for any premises may conduct, cause, permit, aid, or condone a neighborhood nuisance or any unruly social event on or in those premises.</text>
@@ -7297,9 +7516,10 @@
     </section>
     <section>
       <num>43B-6 to 43B-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43B-8</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -7359,13 +7579,11 @@
     </section>
     <section>
       <num>43B-9</num>
-      <heading>{Reserved}</heading>
-      <text>
-        <strong>§ 43B-10.  </strong>
-        <strong>
-          <em>{Repealed by Ord. 22-125}</em>
-        </strong>
-      </text>
+      <reason>Reserved</reason>
+    </section>
+    <section>
+      <num>43B-10</num>
+      <reason>Repealed by Ord. 22-125</reason>
     </section>
   </container>
   <container>
@@ -7373,6 +7591,7 @@
     <num>44</num>
     <heading>Scavenging Recyclable Materials</heading>
     <section>
+      <prefix>§</prefix>
       <num>44-1</num>
       <heading>"Scavenging" defined.</heading>
       <text>"Scavenging" means removing recyclable materials from a designated recycling container or area without approval from the owner or operator of the recycling operation designated to recover and process the materials.</text>
@@ -7382,6 +7601,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>44-2</num>
       <heading>Prohibited conduct.</heading>
       <text>It is unlawful for any person not authorized by the Director of Public Works to remove or cause to be removed, any materials separated for the purpose of recycling and set at curbside or other pick-up locations for collection by authorized collectors.</text>
@@ -7393,9 +7613,10 @@
     </section>
     <section>
       <num>44-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>44-4</num>
       <heading>Penalties.</heading>
       <text>Any person violating a provision of this subtitle is guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $500.</text>
@@ -7410,6 +7631,7 @@
     <num>45</num>
     <heading>Signs - On or Affecting Public Property</heading>
     <section>
+      <prefix>§</prefix>
       <num>45-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -7435,6 +7657,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>45-2</num>
       <heading>Postings prohibited.</heading>
       <text>No person may post, place, or affix a sign:</text>
@@ -7485,6 +7708,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>45-3</num>
       <heading>Removal of illegal signs.</heading>
       <para>
@@ -7562,6 +7786,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>45-4</num>
       <heading>Liability for costs and expenses.</heading>
       <para>
@@ -7628,6 +7853,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>45-5</num>
       <heading>Persons responsible.</heading>
       <para>
@@ -7655,9 +7881,10 @@
     </section>
     <section>
       <num>45-6</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>45-7</num>
       <heading>Enforcement; penalties.</heading>
       <para>
@@ -7703,6 +7930,7 @@
     <num>47</num>
     <heading>Soliciting and Aggressive Soliciting</heading>
     <section>
+      <prefix>§</prefix>
       <num>47-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -7758,6 +7986,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-2</num>
       <heading>Findings and declarations.</heading>
       <text>The Mayor and City Council:</text>
@@ -7777,6 +8006,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-3</num>
       <heading>Aggressive soliciting in public places prohibited.</heading>
       <text>It is unlawful for any person to engage in aggressive soliciting in any place open to the general public.</text>
@@ -7787,6 +8017,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-4</num>
       <heading>Soliciting in certain ways and places prohibited.</heading>
       <text>It is unlawful for any person to engage in soliciting:</text>
@@ -7817,6 +8048,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-5</num>
       <heading>Nighttime soliciting prohibited.</heading>
       <para>
@@ -7854,7 +8086,6 @@
         </para>
       </para>
       <annotations>
-        <annotation doc="City of Balt., Md., Ord. 04-675" type="History">Ord. 04-675</annotation>
         <annotation type="Editor's Notes">
           <text>Ord. 04-675, which added § 47-5 and amended the succeeding sections, provides</text>
           <text>“[T]his Ordinance ... will remain effective until the repeal or abrogation of City Code Article 1, Subtitle 41 {“Civil Citations”}, as enacted by Ordinance 03-595; on the repeal or abrogation of that subtitle, with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect.”</text>
@@ -7863,9 +8094,10 @@
     </section>
     <section>
       <num>47-6</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-7</num>
       <heading>Other soliciting permitted.</heading>
       <text>"Soliciting" as defined in § 47-1(c) of this subtitle is lawful except only as specified in this subtitle.</text>
@@ -7878,9 +8110,10 @@
     </section>
     <section>
       <num>47-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-9</num>
       <heading>Penalties.</heading>
       <para>
@@ -7914,6 +8147,7 @@
     <num>48</num>
     <heading>Sporting Events</heading>
     <section>
+      <prefix>§</prefix>
       <num>48-1</num>
       <heading>Throwing missiles.</heading>
       <para>
@@ -7952,9 +8186,10 @@
     </section>
     <section>
       <num>48-2</num>
-      <heading>{Repealed by Ord. 07-471.}</heading>
+      <reason>Repealed by Ord. 07-471.</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>48-3</num>
       <heading>Preakness Stakes tickets.</heading>
       <para>
@@ -7989,6 +8224,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>48-4</num>
       <heading>Flying over stadium.</heading>
       <para>
@@ -8002,7 +8238,7 @@
         <text>Any person who violates a provision of this section is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">City Code, 1927, art. 32, §§5, 6</annotation>
+        <annotation type="Prior Codifications">City Code, 1927, art. 32, ''5, 6</annotation>
         <annotation type="Prior Codifications">1950, art. 24, ''1, 2</annotation>
         <annotation type="Prior Codifications">1966, art. 19, ''1, 2</annotation>
         <annotation type="Prior Codifications">1976/83, art. 19, ''2, 3</annotation>
@@ -8018,6 +8254,7 @@
     <num>49</num>
     <heading>Star-Spangled Banner</heading>
     <section>
+      <prefix>§</prefix>
       <num>49-1</num>
       <heading>To be performed as entirety.</heading>
       <para>
@@ -8039,6 +8276,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-2</num>
       <heading>Use for dancing or exit march prohibited.</heading>
       <text>Nor shall "The Star-Spangled Banner" be played at or in any of the places mentioned for dancing or as an exit march.</text>
@@ -8051,6 +8289,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-3</num>
       <heading>Performers, etc., to stand.</heading>
       <text>And whenever and wherever practicable, the musicians, performers, or other persons shall stand while playing, singing, or rendering "The Star-Spangled Banner".</text>
@@ -8063,6 +8302,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-4</num>
       <heading>Proprietor responsible.</heading>
       <text>No owner, proprietor, or manager of any theatre, moving picture hall, or restaurant, cafe or other place in the City of Baltimore where the public gathers shall permit or allow anyone playing, singing, or performing therein to play, sing, or render "The Star-Spangled Banner" in violation of the provisions of this subtitle, and in the event of any such permission or allowance, such owner, proprietor, or manager, upon conviction thereof, shall be subject to the penalties imposed by § 49-6 of this subtitle.</text>
@@ -8076,9 +8316,10 @@
     </section>
     <section>
       <num>49-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-6</num>
       <heading>Penalties.</heading>
       <text>Any person violating the provisions of this subtitle shall be guilty of a misdemeanor and, upon conviction thereof before a Court of competent jurisdiction of this State, shall be fined not more than $100.</text>
@@ -8101,9 +8342,10 @@
       <heading>Obstructions</heading>
       <section>
         <num>50-1</num>
-        <heading>{Repealed by Ord. 09-146}</heading>
+        <reason>Repealed by Ord. 09-146</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>50-2</num>
         <heading>Obstructing street, etc., or gutter.</heading>
         <para>
@@ -8167,6 +8409,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>50-3</num>
         <heading>Merchandise projecting from building.</heading>
         <para>
@@ -8223,6 +8466,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>50-4</num>
         <heading>Throwing bales, etc.; using slides, etc.</heading>
         <para>
@@ -8260,9 +8504,10 @@
       </section>
       <section>
         <num>50-5 to 50-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>50-11</num>
         <heading>Removal of obstructions by City.</heading>
         <text>The Director of Transportation is authorized and empowered to remove or cause to be removed any obstruction to passage through a street, lane, or alley.</text>
@@ -8279,14 +8524,14 @@
       </section>
       <section>
         <num>50-12</num>
-        <heading>{Repealed}</heading>
+        <reason>Repealed</reason>
         <annotations>
           <annotation type="Editor's Notes">Ordinance 07-496 repealed former § 50-12, “Eviction chattels”, and enacted new City Code Article 13, Subtitle 8A, in its stead.</annotation>
         </annotations>
       </section>
       <section>
         <num>50-13 to 50-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8294,8 +8539,10 @@
       <num>2</num>
       <heading>Coasting</heading>
       <reason>Repealed by Ord. 15-435</reason>
-      <num>50-16 to 50-20</num>
-      <heading>{Reserved}</heading>
+      <section>
+        <num>50-16 to 50-20</num>
+        <reason>Reserved</reason>
+      </section>
     </container>
     <container>
       <prefix>Part</prefix>
@@ -8305,8 +8552,10 @@
       <annotations>
         <annotation type="Editor's Notes">Ordinance 04-854 repealed former Part 3, “Street Sales Near Farmers’ Markets”, and rewrote City Code Article 15, Subtitle 17, to include similar provisions.</annotation>
       </annotations>
-      <num>50-21 to 50-25</num>
-      <heading>{Reserved}</heading>
+      <section>
+        <num>50-21 to 50-25</num>
+        <reason>Reserved</reason>
+      </section>
     </container>
     <container>
       <prefix>Part</prefix>
@@ -8316,14 +8565,17 @@
       <annotations>
         <annotation type="Editor's Notes">Ordinance 15-435 repealed former Part 4, dealing with the fires in streets, lanes, and alleys.  The provisions of that part (virtually unchanged since their enactment in 1858) have been effectively superseded by the more extensive provisions of the International Fire Code Chapter 3 {“General Requirements”}, as adopted by Part VIII of the City’s Building, Fire, and Related Codes Article.  See, e.g., FC § 303 {“Asphalt kettles”}, § 307 {“Open burning...”}, and § 308 {“Open flames”}.</annotation>
       </annotations>
-      <num>50-26 to 50-30</num>
-      <heading>{Reserved}</heading>
+      <section>
+        <num>50-26 to 50-30</num>
+        <reason>Reserved</reason>
+      </section>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>5</num>
       <heading>Parades</heading>
       <section>
+        <prefix>§</prefix>
         <num>50-31</num>
         <heading>Permit required.</heading>
         <para>
@@ -8366,7 +8618,7 @@
       </section>
       <section>
         <num>50-32 to 50-40</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8374,21 +8626,25 @@
       <num>6</num>
       <heading>Playing Ball, etc.</heading>
       <reason>Repealed by Ord. 20-353</reason>
-      <num>50-41</num>
-      <heading>{Repealed by Ord. 20-353}</heading>
-      <num>50-42 to 50-45</num>
-      <heading>{Reserved}</heading>
+      <section>
+        <num>50-41</num>
+        <reason>Repealed by Ord. 20-353</reason>
+      </section>
+      <section>
+        <num>50-42 to 50-45</num>
+        <reason>Reserved</reason>
+      </section>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>7</num>
-      <heading>{Repealed}</heading>
+      <reason>Repealed</reason>
       <annotations>
         <annotation type="Editor's Notes">Ordinance 09-148 repealed this Part 7, in its entirety, and enacted a new section, Property Maintenance Code § 305.8, with similar requirements.</annotation>
       </annotations>
       <section>
         <num>50-46 to 50-55</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8399,6 +8655,7 @@
         <annotation type="Editor's Notes">As introduced, Ordinance 09-149 (Council Bill 08-253) would have amended § 50-56 to add the solicitation of donations to its coverage.  Accordingly, the bill also amended the name of this Part to “Soliciting Customers or Donations”.  Before enactment, however, the proposed reference to donations was deleted from the section, but not from the Part’s title.  In codifying the amended section, we have omitted the no-longer relevant title change.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>50-56</num>
         <heading>Obstructing passage prohibited.</heading>
         <text>It is unlawful for any person in or on any street or sidewalk or footways to obstruct passage along the street or sidewalk by catching hold of or soliciting persons or in any way interfering with their free passage, for the purpose of inducing or compelling them to buy any article or thing.</text>
@@ -8416,9 +8673,10 @@
       </section>
       <section>
         <num>50-57 to 50-58</num>
-        <heading>{Repealed by Ord. 09-149.}</heading>
+        <reason>Repealed by Ord. 09-149.</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>50-59</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -8437,6 +8695,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>50-60</num>
         <heading>Criminal penalties.</heading>
         <text>Any person who violates a provision of § 50-56 of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $200 for each offense.</text>
@@ -8450,6 +8709,7 @@
       <num>9</num>
       <heading>Sand, Water, etc.</heading>
       <section>
+        <prefix>§</prefix>
         <num>50-61</num>
         <heading>Sand, ashes, etc., prohibited on streets.</heading>
         <para>
@@ -8478,7 +8738,7 @@
       </section>
       <section>
         <num>50-62</num>
-        <heading>{Repealed by Ord. 09-150}</heading>
+        <reason>Repealed by Ord. 09-150</reason>
       </section>
     </container>
   </container>
@@ -8487,6 +8747,7 @@
     <num>51</num>
     <heading>Park Rules</heading>
     <section>
+      <prefix>§</prefix>
       <num>51-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -8500,12 +8761,13 @@
         <text>"Park rule" means any rule or regulation adopted by the Director of Recreation and Parks under the authority of Article VII, § 67(f) of the City Charter and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 03-572" type="History">Ord. 03-572</annotation>
         <annotation type="History">Text Conformed 02/21/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-2</num>
       <heading>Compliance with rules required.</heading>
       <text>No person may violate a park rule.</text>
@@ -8514,6 +8776,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-3</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -8544,6 +8807,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-4</num>
       <heading>Penalties.</heading>
       <text>Any person who violates any provision of a park rule is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
@@ -8557,6 +8821,7 @@
     <num>52</num>
     <heading>Taxicabs</heading>
     <section>
+      <prefix>§</prefix>
       <num>52-1</num>
       <heading>Refusal to pay fare.</heading>
       <para>
@@ -8581,6 +8846,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-2</num>
       <heading>Providing taxi services without license.</heading>
       <para>
@@ -8617,6 +8883,7 @@
     <num>53</num>
     <heading>Telephone Harassment</heading>
     <section>
+      <prefix>§</prefix>
       <num>53-1</num>
       <heading>Prohibited conduct.</heading>
       <text>It is unlawful for any person to make use of telephone facilities or equipment:</text>
@@ -8635,6 +8902,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>53-2</num>
       <heading>Penalties.</heading>
       <text>A violation of any one of the provisions of this section is a misdemeanor, subject upon conviction of a fine not greater than $500 or to imprisonment for a period not longer than 12 months, or to both such fine and imprisonment in the discretion of the Court.</text>
@@ -8650,6 +8918,7 @@
     <num>54</num>
     <heading>Theatrical Exhibitions</heading>
     <section>
+      <prefix>§</prefix>
       <num>54-1</num>
       <heading>Obscene performances prohibited.</heading>
       <para>
@@ -8703,6 +8972,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>54-2</num>
       <heading>Nets required for high acts.</heading>
       <para>
@@ -8716,7 +8986,7 @@
         <text>Any agent, owner, or lessee of any house of public amusement, or any agent, owner, or lessee of any show, circus, or public exhibition of any kind whatsoever, offending against the provisions of this section shall forfeit and pay a fine of $50 for every time such offense may be committed in his, her, or their house or place of public amusement, to be recovered as other fines are recoverable.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">City Code, 1879, art. 51, §§3, 4</annotation>
+        <annotation type="Prior Codifications">City Code, 1879, art. 51, ''3, 4</annotation>
         <annotation type="Prior Codifications">1893, art. 52, ''3, 4</annotation>
         <annotation type="Prior Codifications">1927, art. 32, ''123, 124</annotation>
         <annotation type="Prior Codifications">1950, art. 24, ''161, 163</annotation>
@@ -8745,6 +9015,7 @@
     <num>57</num>
     <heading>Vandalism</heading>
     <section>
+      <prefix>§</prefix>
       <num>57-1</num>
       <heading>In general.</heading>
       <para>
@@ -8772,6 +9043,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>57-2</num>
       <heading>Religious desecration.</heading>
       <para>
@@ -8804,6 +9076,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>57-3</num>
       <heading>Utility structures, etc.</heading>
       <para>
@@ -8851,6 +9124,7 @@
       <num>1</num>
       <heading>Firearms — In General</heading>
       <section>
+        <prefix>§</prefix>
         <num>59-1</num>
         <heading>Carrying long-barrel firearms.</heading>
         <para>
@@ -8934,6 +9208,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-2</num>
         <heading>Discharging firearms.</heading>
         <para>
@@ -8967,9 +9242,10 @@
       </section>
       <section>
         <num>59-3 and 59-4</num>
-        <heading>{Repealed by Ord. 14-307.}</heading>
+        <reason>Repealed by Ord. 14-307.</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-5</num>
         <heading>Illegal carrying, etc., of handguns.</heading>
         <para>
@@ -9108,7 +9384,7 @@
       </section>
       <section>
         <num>59-6 to 59-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -9116,6 +9392,7 @@
       <num>2</num>
       <heading>Firearms — Access by Minors</heading>
       <section>
+        <prefix>§</prefix>
         <num>59-11</num>
         <heading>Definitions.</heading>
         <para>
@@ -9163,6 +9440,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-12</num>
         <heading>Access by minors prohibited.</heading>
         <para>
@@ -9202,6 +9480,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-13</num>
         <heading>Safety locks.</heading>
         <para>
@@ -9243,6 +9522,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-14</num>
         <heading>Rules and regulations.</heading>
         <text>The Police Commissioner may adopt rules and regulations to carry out this Part, including but not limited to rules or regulations governing the wording, size, and placement of the notices required by this Part.</text>
@@ -9254,9 +9534,10 @@
       </section>
       <section>
         <num>59-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-16</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provision of this Part or of a rule or regulation adopted under this Part is guilty of a misdemeanor and, on conviction, is subject to a fine of $1,000 or to imprisonment for 1 year or both.</text>
@@ -9272,6 +9553,7 @@
       <num>2A</num>
       <heading>Firearms — Reporting Theft or Loss</heading>
       <section>
+        <prefix>§</prefix>
         <num>59-17</num>
         <heading>"Firearm" defined.</heading>
         <text>In this Part 2A, "firearm" includes any pistol, revolver, rifle, shotgun, short-barreled rifle, short-barreled shotgun, or other firearm.</text>
@@ -9280,6 +9562,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-18</num>
         <heading>Reporting required.</heading>
         <text>If a firearm is lost or stolen, the person who owned the firearm shall report the theft or loss to the Baltimore Police Department.  The report shall be made within 48 hours after the theft or loss is first discovered.</text>
@@ -9288,6 +9571,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-19</num>
         <heading>Entry to NCIC Database.</heading>
         <text>On receipt of a report of a stolen or lost firearm, the Baltimore Police Department shall enter into the National Crime Information Center Database the following information, to the extent known:</text>
@@ -9305,9 +9589,10 @@
       </section>
       <section>
         <num>59-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-20A</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -9325,6 +9610,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-20B</num>
         <heading>Criminal penalties.</heading>
         <text>Any person who violates § 59-18 of this Part 2A is guilty of a misdemeanor and, on conviction, is subject to the following penalties:</text>
@@ -9346,6 +9632,7 @@
       <num>3</num>
       <heading>Other Weapons</heading>
       <section>
+        <prefix>§</prefix>
         <num>59-21</num>
         <heading>Metal knuckles, etc.</heading>
         <para>
@@ -9380,6 +9667,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-22</num>
         <heading>Switchblade knives – Possession or sale, etc.</heading>
         <para>
@@ -9402,6 +9690,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-23</num>
         <heading>Dangerous knives – Transfer, etc.; Commercial displays.</heading>
         <para>
@@ -9487,6 +9776,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-24</num>
         <heading>Mini- and pistol-crossbows.</heading>
         <para>
@@ -9550,9 +9840,10 @@
       </section>
       <section>
         <num>59-25</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-26</num>
         <heading>Gas- or air-pellet guns.</heading>
         <para>
@@ -9618,6 +9909,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-27</num>
         <heading>Dart or blow guns.</heading>
         <para>
@@ -9644,6 +9936,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-28</num>
         <heading>Electronic control devices.</heading>
         <para>
@@ -9750,9 +10043,10 @@
       </section>
       <section>
         <num>59-29</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-30</num>
         <heading>Stench bombs.</heading>
         <para>
@@ -9806,9 +10100,10 @@
       </section>
       <section>
         <num>59-31</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-32</num>
         <heading>Tear gas devices.</heading>
         <para>
@@ -9828,16 +10123,16 @@
       </section>
       <section>
         <num>59-33 to 59-40</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
       <prefix>Part</prefix>
       <num>4</num>
-      <heading>{Repealed}</heading>
+      <reason>Repealed</reason>
       <section>
         <num>59-41 to 59-60</num>
-        <heading>{Repealed by Ord. 02-452.}</heading>
+        <reason>Repealed by Ord. 02-452.</reason>
       </section>
     </container>
     <container>
@@ -9845,6 +10140,7 @@
       <num>5</num>
       <heading>Forfeitures</heading>
       <section>
+        <prefix>§</prefix>
         <num>59-61</num>
         <heading>Weapon forfeited on conviction.</heading>
         <para>
@@ -9870,6 +10166,7 @@
     <num>60</num>
     <heading>Gun Offender Registration</heading>
     <section>
+      <prefix>§</prefix>
       <num>60-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -10074,6 +10371,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-2</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -10112,6 +10410,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-3</num>
       <heading>Registration – In general.</heading>
       <para>
@@ -10130,6 +10429,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-4</num>
       <heading>Registration – When and where.</heading>
       <para>
@@ -10168,6 +10468,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-5</num>
       <heading>Registration – Content and form.</heading>
       <para>
@@ -10232,6 +10533,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-6</num>
       <heading>Verification by resident offenders.</heading>
       <para>
@@ -10285,6 +10587,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-7</num>
       <heading>Term of verification requirement.</heading>
       <para>
@@ -10304,6 +10607,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-8</num>
       <heading>Sharing registration information.</heading>
       <text>The Police Commissioner may make the information collected under this subtitle available to:</text>
@@ -10320,6 +10624,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-9</num>
       <heading>Cooperation with other agencies.</heading>
       <text>The Police Commissioner may cooperate with other federal, state and City agencies and the judiciary to facilitate implementation of this subtitle.</text>
@@ -10328,6 +10633,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-10</num>
       <heading>Prohibited conduct.</heading>
       <text>No gun offender may:</text>
@@ -10352,6 +10658,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>60-11</num>
       <heading>Penalties.</heading>
       <para>
@@ -10379,6 +10686,7 @@
     <num>71</num>
     <heading>Special Enforcement Officers</heading>
     <section>
+      <prefix>§</prefix>
       <num>71-1</num>
       <heading>Appointment; duties.</heading>
       <para>
@@ -10454,6 +10762,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>71-2</num>
       <heading>Prepayable criminal citations.</heading>
       <para>
@@ -10718,6 +11027,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>71-3</num>
       <heading>Code enforcement injunction.</heading>
       <para>
@@ -10946,6 +11256,7 @@
     <num>72</num>
     <heading>Special Traffic Enforcement Officers</heading>
     <section>
+      <prefix>§</prefix>
       <num>72-1</num>
       <heading>Appointment.</heading>
       <para>
@@ -10974,6 +11285,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>72-2</num>
       <heading>Powers.</heading>
       <para>
@@ -10999,6 +11311,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>72-3</num>
       <heading>Badges and uniforms.</heading>
       <text>The form of badge and type of uniform, if any, worn by the appointed Special Traffic Enforcement Officers shall be approved by the Police Commissioner.</text>
@@ -11008,6 +11321,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>72-4</num>
       <heading>Record of appointments.</heading>
       <text>A record of the appointment of Special Traffic Enforcement Officers shall be kept by the Police Commissioner.</text>
@@ -11022,6 +11336,7 @@
     <num>73</num>
     <heading>Special Parking Enforcement Officers</heading>
     <section>
+      <prefix>§</prefix>
       <num>73-1</num>
       <heading>Appointment.</heading>
       <para>
@@ -11042,6 +11357,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>73-2</num>
       <heading>Powers.</heading>
       <para>
@@ -11074,6 +11390,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>73-3</num>
       <heading>Badges and uniforms.</heading>
       <text>The form of badge and type of uniform that may be worn by these Officers shall be approved by the Police Commissioner.</text>
@@ -11084,6 +11401,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>73-4</num>
       <heading>Record of appointments.</heading>
       <text>A record of appointment of the Officers shall be kept by the Police Commissioner.</text>

@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Downtown Management District</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -61,6 +62,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Findings.</heading>
       <para>
@@ -177,6 +179,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>District created; boundaries.</heading>
       <para>
@@ -197,9 +200,7 @@
         <text>The District may be expanded (and as so expanded, shall be deemed included within the term "District" as used hereafter), in 1 or more resolutions of this Council, up to, but not beyond, the boundaries authorized in the Enabling Legislation upon a recommendation from the governing board of the Authority created by this subtitle which is endorsed by the Board of Estimates of the City.</text>
       </para>
       <annotations>
-        <annotation doc="City of Balt., Md., Ord. 92-057" type="History">Ord. 92-057</annotation>
-        <annotation doc="City of Balt., Md., Ord. 96-093" type="History">Ord. 96-093</annotation>
-        <annotation doc="City of Balt., Md., Ord. 09-191" type="History">Ord. 09-191</annotation>
+        <annotation type="Editor's Notes">Ordinance 09-191 modified the District’s boundaries, contingent on “the successful completion of a protest period and, if required, referendum.”  See Ord. 09-191, at Section 3.</annotation>
         <annotation type="Editor's Notes">
           <text>This § 1-3 was amended by Ordinance 09-191, effective July 23, 2009.  Section 1 of Ord. 09-191 contains the following “Exhibit A. District Boundaries” setting forth the boundaries of the Downtown Management District.</text>
           <text>Exhibit A.  District Boundaries</text>
@@ -208,10 +209,10 @@
           <text>Exhibit A-1</text>
           <text>{Repealed by Ord. 09-191.}</text>
         </annotation>
-        <annotation type="Editor's Notes">Ordinance 09-191 modified the District’s boundaries, contingent on “the successful completion of a protest period and, if required, referendum.”  See Ord. 09-191, at Section 3.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Authority created.</heading>
       <para>
@@ -246,6 +247,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Powers of Authority.</heading>
       <text>Except as limited by the Enabling Legislation and this subtitle, the Authority shall possess the following powers:</text>
@@ -315,6 +317,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Limitations on Authority.</heading>
       <text>The Authority shall be subject to the following limitations:</text>
@@ -364,6 +367,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-7</num>
       <heading>Board of Directors.</heading>
       <para>
@@ -511,9 +515,6 @@
         <text>The Board shall select from among its members, individuals to serve, at the pleasure of the Board, as president, vice-president, treasurer, and secretary of the Authority, delegating to such individuals such responsibilities as the Board deems appropriate.</text>
       </para>
       <annotations>
-        <annotation doc="City of Balt., Md., Ord. 92-057" type="History">Ord. 92-057</annotation>
-        <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
-        <annotation doc="City of Balt., Md., Ord. 10-304" type="History">Ord. 10-304</annotation>
         <annotation type="Editor's Notes">
           <text>Exhibit B of Ordinance 92-057 was as follows</text>
           <text>Exhibit B</text>
@@ -527,6 +528,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-8</num>
       <heading>Fiscal affairs.</heading>
       <text>The fiscal affairs of the Authority shall be conducted in accordance with the following provisions.</text>
@@ -535,6 +537,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-9</num>
       <heading>Annual Financial Plan.</heading>
       <para>
@@ -590,6 +593,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-10</num>
       <heading>Supplemental Tax.</heading>
       <para>
@@ -636,6 +640,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-11</num>
       <heading>Other charges.</heading>
       <para>
@@ -660,6 +665,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-12</num>
       <heading>Baseline City services.</heading>
       <para>
@@ -710,6 +716,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-13</num>
       <heading>Partnerships.</heading>
       <para>
@@ -744,6 +751,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-14</num>
       <heading>Vacancy factor.</heading>
       <text>The Authority is directed to recommend to the Board of Estimates whether some process or automatic adjustment is necessary to reflect the direction of the Enabling Legislation regarding current rates of occupancy in buildings.</text>
@@ -752,6 +760,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-15</num>
       <heading>Collection and disbursement.</heading>
       <para>
@@ -832,6 +841,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-16</num>
       <heading>Long-term debt.</heading>
       <para>
@@ -903,6 +913,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-17</num>
       <heading>Administrator.</heading>
       <para>
@@ -956,6 +967,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-18</num>
       <heading>Oversight by Board of Estimates.</heading>
       <para>
@@ -1004,6 +1016,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-19</num>
       <heading>Election approval process.</heading>
       <para>
@@ -1075,6 +1088,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-20</num>
       <heading>Renewal and expiration.</heading>
       <para>
@@ -1127,6 +1141,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-21</num>
       <heading>Minority involvement.</heading>
       <para>
@@ -1154,6 +1169,7 @@
     <num>6</num>
     <heading>Charles Village Community Benefits District</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Declarations.</heading>
       <para>
@@ -1188,6 +1204,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>District created; boundaries.</heading>
       <para>
@@ -1492,6 +1509,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Authority created.</heading>
       <para>
@@ -1510,6 +1528,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Powers of Authority.</heading>
       <text>The Authority shall:</text>
@@ -1587,6 +1606,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-5</num>
       <heading>Limitations on Authority.</heading>
       <text>The Authority may not:</text>
@@ -1636,6 +1656,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-6</num>
       <heading>Board of Directors.</heading>
       <para>
@@ -1823,6 +1844,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-7</num>
       <heading>Annual Financial Plan.</heading>
       <para>
@@ -1862,6 +1884,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-8</num>
       <heading>Supplemental Tax.</heading>
       <para>
@@ -1934,6 +1957,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-9</num>
       <heading>Other charges.</heading>
       <para>
@@ -1959,6 +1983,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-10</num>
       <heading>Baseline City services.</heading>
       <para>
@@ -2002,6 +2027,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-11</num>
       <heading>Partnerships.</heading>
       <para>
@@ -2037,6 +2063,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-12</num>
       <heading>Collection and disbursement.</heading>
       <para>
@@ -2117,6 +2144,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-13</num>
       <heading>Administrator.</heading>
       <para>
@@ -2172,6 +2200,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-14</num>
       <heading>Oversight by Board of Estimates.</heading>
       <para>
@@ -2216,6 +2245,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-15</num>
       <heading>Election approval process.</heading>
       <para>
@@ -2271,6 +2301,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-16</num>
       <heading>4-year reviews.</heading>
       <para>
@@ -2295,6 +2326,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-17</num>
       <heading>Dissolution of District.</heading>
       <para>
@@ -2323,6 +2355,7 @@
     <num>7</num>
     <heading>Midtown Community Benefits District</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Declarations.</heading>
       <para>
@@ -2350,6 +2383,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>District created; boundaries.</heading>
       <para>
@@ -2371,6 +2405,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Authority created.</heading>
       <para>
@@ -2389,6 +2424,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Powers and functions of Authority.</heading>
       <text>The Authority shall:</text>
@@ -2466,6 +2502,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-5</num>
       <heading>Limitations on Authority.</heading>
       <text>The Authority may not:</text>
@@ -2515,6 +2552,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-6</num>
       <heading>Board of Directors.</heading>
       <para>
@@ -2699,6 +2737,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-7</num>
       <heading>Annual Financial Plan.</heading>
       <para>
@@ -2738,6 +2777,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-8</num>
       <heading>Supplemental Tax.</heading>
       <para>
@@ -2805,6 +2845,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-9</num>
       <heading>Other charges.</heading>
       <para>
@@ -2830,6 +2871,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-10</num>
       <heading>Baseline City services.</heading>
       <para>
@@ -2873,6 +2915,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-11</num>
       <heading>Partnerships.</heading>
       <para>
@@ -2908,6 +2951,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-12</num>
       <heading>Collection and disbursement.</heading>
       <para>
@@ -2988,6 +3032,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-13</num>
       <heading>Administrator.</heading>
       <para>
@@ -3043,6 +3088,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-14</num>
       <heading>Oversight by Board of Estimates.</heading>
       <para>
@@ -3087,6 +3133,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-15</num>
       <heading>Election approval process.</heading>
       <para>
@@ -3137,6 +3184,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-16</num>
       <heading>4-year reviews.</heading>
       <para>
@@ -3160,6 +3208,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-17</num>
       <heading>Dissolution of District.</heading>
       <para>
@@ -3189,6 +3238,7 @@
     <num>8</num>
     <heading>Waterfront Management District</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Findings.</heading>
       <para>
@@ -3284,6 +3334,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>District created; boundaries.</heading>
       <para>
@@ -3320,9 +3371,6 @@
         <text>If boundary descriptions result in a property's being located in 2 or more community benefit districts, then the property is considered to be contained in the first community benefit district created.</text>
       </para>
       <annotations>
-        <annotation doc="City of Balt., Md., Ord. 07-417" type="History">Ord. 07-417</annotation>
-        <annotation doc="City of Balt., Md., Ord. 15-433" type="History">Ord. 15-433</annotation>
-        <annotation doc="City of Balt., Md., Ord. 17-039" type="History">Ord. 17-039</annotation>
         <annotation type="Editor's Notes">
           <text>Ordinance 17-039 amended subsection (a) to extend the District to include the areas described in ¶ (1)(iv).  Section 3 of that Ordinance provides that this amendment</text>
           <text>is contingent on a successful referendum, to be conducted substantially in accordance with the requirements of City Code Article 14, § 8-15 {“Election approval process”}, but with participation limited to the owners of the properties being added to the District. </text>
@@ -3330,6 +3378,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Authority created.</heading>
       <para>
@@ -3367,6 +3416,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-4</num>
       <heading>Powers and functions of Authority.</heading>
       <para>
@@ -3439,6 +3489,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-5</num>
       <heading>Limitations on Authority.</heading>
       <para>
@@ -3511,6 +3562,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-6</num>
       <heading>Board of Directors.</heading>
       <para>
@@ -3606,6 +3658,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-7</num>
       <heading>Annual Financial Plan.</heading>
       <para>
@@ -3628,6 +3681,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-8</num>
       <heading>Supplemental Tax.</heading>
       <para>
@@ -3741,6 +3795,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-9</num>
       <heading>Other charges.</heading>
       <para>
@@ -3781,6 +3836,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-10</num>
       <heading>Baseline City services.</heading>
       <para>
@@ -3831,6 +3887,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-11</num>
       <heading>Partnerships.</heading>
       <para>
@@ -3864,6 +3921,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-12</num>
       <heading>Collection and disbursement.</heading>
       <para>
@@ -3943,6 +4001,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-13</num>
       <heading>Administrator.</heading>
       <para>
@@ -3989,6 +4048,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-14</num>
       <heading>Oversight by Board of Estimates.</heading>
       <para>
@@ -4027,6 +4087,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-15</num>
       <heading>Election approval process.</heading>
       <para>
@@ -4075,6 +4136,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-16</num>
       <heading>4-year reviews.</heading>
       <para>
@@ -4093,11 +4155,12 @@
         <text>This process shall be repeated periodically to satisfy the requirements of City Charter Article II, § (63) .</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By Resolution 19-015, the Mayor and City Council continued the Authority and District through April 23, 2023.</annotation>
         <annotation doc="City of Balt., Md., Ord. 07-417" type="History">Ord. 07-417</annotation>
+        <annotation type="Editor's Notes">By Resolution 19-015, the Mayor and City Council continued the Authority and District through April 23, 2023.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-17</num>
       <heading>Dissolution of District.</heading>
       <para>
@@ -4136,6 +4199,7 @@
       <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 19-249, effective May 6, 2019, by authority of City Charter Article II, § (63).  Although Ord. 19-249 proposed to codify the new district in “Subtitle 20” of this article, that designation was already taken.  The new subtitle has therefore been codified here, in Subtitle 9, to closely accompany the other special districts (codified in Subtitles 6, 7, and 8) that have also been established by authority of Charter Art. II, § (63).</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>Findings.</heading>
       <para>
@@ -4205,6 +4269,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2</num>
       <heading>District established.</heading>
       <para>
@@ -4222,6 +4287,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-3</num>
       <heading>Authority created.</heading>
       <para>
@@ -4255,6 +4321,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-4</num>
       <heading>Powers and functions of Authority.</heading>
       <para>
@@ -4327,6 +4394,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-5</num>
       <heading>Limitations on Authority.</heading>
       <para>
@@ -4399,6 +4467,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-6</num>
       <heading>Board of Directors.</heading>
       <para>
@@ -4497,6 +4566,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-7</num>
       <heading>Annual Financial Plan.</heading>
       <para>
@@ -4519,6 +4589,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-8</num>
       <heading>Supplemental Tax.</heading>
       <para>
@@ -4616,6 +4687,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-9</num>
       <heading>Other charges.</heading>
       <para>
@@ -4656,6 +4728,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-10</num>
       <heading>Baseline City services.</heading>
       <para>
@@ -4706,6 +4779,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-11</num>
       <heading>Partnerships.</heading>
       <para>
@@ -4739,6 +4813,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-12</num>
       <heading>Collection and disbursement.</heading>
       <para>
@@ -4818,6 +4893,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-13</num>
       <heading>Administrator.</heading>
       <para>
@@ -4864,6 +4940,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-14</num>
       <heading>Oversight by Board of Estimates.</heading>
       <para>
@@ -4902,6 +4979,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-15</num>
       <heading>Election approval process.</heading>
       <para>
@@ -4950,6 +5028,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-16</num>
       <heading>4-year reviews.</heading>
       <para>
@@ -4972,6 +5051,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-17</num>
       <heading>Dissolution of District.</heading>
       <para>
@@ -5007,6 +5087,7 @@
     <num>10</num>
     <heading>Port Covington Community Benefits District</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Findings.</heading>
       <para>
@@ -5060,6 +5141,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-2</num>
       <heading>District established.</heading>
       <para>
@@ -5077,6 +5159,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-3</num>
       <heading>Authority created.</heading>
       <para>
@@ -5110,6 +5193,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-4</num>
       <heading>Powers and functions of Authority.</heading>
       <para>
@@ -5210,6 +5294,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-5</num>
       <heading>Limitations on Authority.</heading>
       <para>
@@ -5278,6 +5363,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-6</num>
       <heading>Board of Directors.</heading>
       <para>
@@ -5368,6 +5454,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-7</num>
       <heading>Annual Financial Plan.</heading>
       <para>
@@ -5395,6 +5482,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-8</num>
       <heading>Supplemental Tax.</heading>
       <para>
@@ -5460,6 +5548,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-9</num>
       <heading>Other charges.</heading>
       <para>
@@ -5505,6 +5594,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-10</num>
       <heading>Baseline City Services.</heading>
       <para>
@@ -5555,6 +5645,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-11</num>
       <heading>Partnerships.</heading>
       <para>
@@ -5588,6 +5679,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-12</num>
       <heading>Collection and disbursement.</heading>
       <para>
@@ -5667,6 +5759,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-13</num>
       <heading>Administrator.</heading>
       <para>
@@ -5713,6 +5806,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-14</num>
       <heading>Oversight by Board of Estimates.</heading>
       <para>
@@ -5751,6 +5845,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-15</num>
       <heading>Election approval process.</heading>
       <para>
@@ -5799,6 +5894,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-16</num>
       <heading>4-year reviews.</heading>
       <para>
@@ -5821,6 +5917,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-17</num>
       <heading>Dissolution of District.</heading>
       <para>
@@ -5860,6 +5957,7 @@
       <num>1</num>
       <heading>General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -5901,11 +5999,13 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §110</annotation>
+          <annotation doc="City of Balt., Md., Ord. 82-838" type="History">Ord. 82-838</annotation>
+          <annotation doc="City of Balt., Md., Ord. 09-137" type="History">Ord. 09-137</annotation>
+          <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">
             <text>For the Code-wide standard definition of “person”, see General Provisions Article, § 1-107,.</text>
             <para>
@@ -5914,13 +6014,10 @@
               <text>"Retail Business District" means a geographic area in Baltimore City, designated by an ordinance under this subtitle, encompassing a concentration of business establishments.</text>
             </para>
           </annotation>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §110</annotation>
-          <annotation doc="City of Balt., Md., Ord. 82-838" type="History">Ord. 82-838</annotation>
-          <annotation doc="City of Balt., Md., Ord. 09-137" type="History">Ord. 09-137</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-2</num>
         <heading>Legislative intent.</heading>
         <para>
@@ -5973,6 +6070,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-3</num>
         <heading>Establishment of Districts.</heading>
         <para>
@@ -6003,6 +6101,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-4</num>
         <heading>Modifications.</heading>
         <text>By ordinance, the Mayor and City Council may modify the boundaries, licensing procedures, fee calculation method, or rates for any Retail Business District established pursuant to the provisions of § 11-3.</text>
@@ -6012,6 +6111,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-5</num>
         <heading>District license.</heading>
         <para>
@@ -6035,6 +6135,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-6</num>
         <heading>Establishment of fee.</heading>
         <para>
@@ -6081,6 +6182,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-7</num>
         <heading>Collection of fee.</heading>
         <para>
@@ -6129,6 +6231,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-8</num>
         <heading>Transfers and renewals.</heading>
         <text>Subject to all applicable provisions of other ordinances of Baltimore City, statutes of Maryland, and laws of the Federal Government, the Retail Business District License shall be transferable, upon written notice to the Director of Finance, and renewable from year to year during the continuous operation of the business by the Retail Business District licensee within the Retail Business District, and so long as such area continues to be designated as a Retail Business District.</text>
@@ -6138,6 +6241,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-9</num>
         <heading>Business Associations.</heading>
         <para>
@@ -6187,6 +6291,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-10</num>
         <heading>Special fund accounts.</heading>
         <para>
@@ -6224,6 +6329,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-11</num>
         <heading>Penalty for nonpayment.</heading>
         <para>
@@ -6257,6 +6363,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-12</num>
         <heading>Appeals Board.</heading>
         <para>
@@ -6288,6 +6395,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-13</num>
         <heading>Appeals procedure.</heading>
         <para>
@@ -6311,6 +6419,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-14</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner is hereby authorized and empowered to make, adopt, promulgate, and amend, from time to time, such rules and regulations as the Commissioner may deem necessary or proper:</text>
@@ -6327,13 +6436,14 @@
           <text>to provide for the procedures of the Appeals Board created herein.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §117</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-838" type="History">Ord. 82-838</annotation>
           <annotation type="History">Text Conformed 02/21/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-15</num>
         <heading>Compliance with other laws.</heading>
         <text>Any person who operates or owns a business in a Retail Business District shall be subject to all applicable provisions of all other ordinances of Baltimore City, statutes of Maryland, and laws of the Federal Government.</text>
@@ -6344,7 +6454,7 @@
       </section>
       <section>
         <num>11-16 to 11-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6352,6 +6462,7 @@
       <num>2</num>
       <heading>Designated Districts</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-21</num>
         <heading>Oldtown Mall.</heading>
         <para>
@@ -6391,6 +6502,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-22</num>
         <heading>Market Center.</heading>
         <para>
@@ -6435,10 +6547,13 @@
       </section>
       <section>
         <num>11-23</num>
-        <heading>York Road.  {Repealed by Ord. 19-249, effective Dec. 31, 2019.}</heading>
-        <text>
-          <strong>§ 11-24.  Pimlico.</strong>
-        </text>
+        <heading>York Road.</heading>
+        <reason>Repealed by Ord. 19-249, effective Dec. 31, 2019.</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>11-24</num>
+        <heading>Pimlico.</heading>
         <para>
           <num>(a)</num>
           <heading>District established.</heading>
@@ -6499,6 +6614,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-25</num>
         <heading>Monument Street.</heading>
         <para>
@@ -6541,6 +6657,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-26</num>
         <heading>Highlandtown.</heading>
         <para>
@@ -6596,6 +6713,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-27</num>
         <heading>Hamilton.</heading>
         <para>
@@ -6651,6 +6769,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-28</num>
         <heading>Federal Hill Market Place.</heading>
         <para>
@@ -6693,6 +6812,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-29</num>
         <heading>Pennsylvania Avenue/Lafayette Market Business District.</heading>
         <para>
@@ -6735,6 +6855,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-30</num>
         <heading>Mount Washington Business District.</heading>
         <para>
@@ -6796,6 +6917,7 @@
     <num>16</num>
     <heading>Bmore Safe Places {a/k/a "NeighborWatch Areas"}</heading>
     <section>
+      <prefix>§</prefix>
       <num>16-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -6831,6 +6953,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-2</num>
       <heading>Program established.</heading>
       <para>
@@ -6872,6 +6995,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-3</num>
       <heading>Board established.</heading>
       <para>
@@ -6924,6 +7048,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-4</num>
       <heading>Quorum.</heading>
       <para>
@@ -6941,6 +7066,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-5</num>
       <heading>Officers.</heading>
       <para>
@@ -6958,6 +7084,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-6</num>
       <heading>General duties.</heading>
       <text>The Board shall:</text>
@@ -6982,6 +7109,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-7</num>
       <heading>Meetings.</heading>
       <text>The Board shall meet on the call of the its Chair or the Mayor as frequently as required to perform its duties, but not less than once every 6 months.</text>
@@ -6990,6 +7118,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-8</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board shall adopt rules and regulations to:</text>
@@ -7006,15 +7135,16 @@
         <text>otherwise carry out this subtitle.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §242</annotation>
         <annotation doc="City of Balt., Md., Ord. 93-209" type="History">Ord. 93-209</annotation>
         <annotation doc="City of Balt., Md., Ord. 10-399" type="History">Ord. 10-399</annotation>
         <annotation doc="City of Balt., Md., Ord. 18-106" type="History">Ord. 18-106</annotation>
         <annotation type="History">Text Conformed 02/21/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-9</num>
       <heading>Applications for designation.</heading>
       <para>
@@ -7063,6 +7193,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-10</num>
       <heading>Referral to police district.</heading>
       <para>
@@ -7082,6 +7213,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-11</num>
       <heading>Action by Board.</heading>
       <para>
@@ -7101,6 +7233,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-12</num>
       <heading>Operation of Program.</heading>
       <para>
@@ -7151,6 +7284,7 @@
     <num>19</num>
     <heading>South Baltimore Gateway Community Impact District</heading>
     <section>
+      <prefix>§</prefix>
       <num>19-1</num>
       <heading>Findings.</heading>
       <para>
@@ -7225,6 +7359,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-2</num>
       <heading>District established.</heading>
       <para>
@@ -7320,6 +7455,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-3</num>
       <heading>Authority established.</heading>
       <para>
@@ -7369,6 +7505,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-4</num>
       <heading>Powers and functions of Authority.</heading>
       <para>
@@ -7478,6 +7615,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-5</num>
       <heading>Limitations on Authority.</heading>
       <para>
@@ -7541,6 +7679,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-6</num>
       <heading>Board of Directors.</heading>
       <para>
@@ -7753,6 +7892,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-7</num>
       <heading>Annual financial plan.</heading>
       <para>
@@ -7776,9 +7916,10 @@
     </section>
     <section>
       <num>19-8 to 19-9</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-10</num>
       <heading>MoU on baseline City services.</heading>
       <para>
@@ -7849,9 +7990,10 @@
     </section>
     <section>
       <num>19-11</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-12</num>
       <heading>Disbursement.</heading>
       <para>
@@ -7876,6 +8018,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-13</num>
       <heading>Administrator.</heading>
       <para>
@@ -7923,9 +8066,10 @@
     </section>
     <section>
       <num>19-14 to19-15</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-16</num>
       <heading>4-year reviews.</heading>
       <para>
@@ -7948,6 +8092,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-17</num>
       <heading>Dissolution of District.</heading>
       <para>
@@ -7987,6 +8132,7 @@
     <num>20</num>
     <heading>Baltimore Tourism Improvement District</heading>
     <section>
+      <prefix>§</prefix>
       <num>20-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -8044,6 +8190,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-2</num>
       <heading>Findings.</heading>
       <para>
@@ -8128,6 +8275,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-3</num>
       <heading>District created; Boundaries.</heading>
       <para>
@@ -8145,6 +8293,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-4</num>
       <heading>Association designated.</heading>
       <para>
@@ -8179,6 +8328,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-5</num>
       <heading>Powers and functions of Association.</heading>
       <para>
@@ -8245,6 +8395,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-6</num>
       <heading>Limitations on Association.</heading>
       <para>
@@ -8288,6 +8439,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-7</num>
       <heading>District Management Committee.</heading>
       <para>
@@ -8374,6 +8526,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-8</num>
       <heading>Annual financial plan.</heading>
       <para>
@@ -8397,6 +8550,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-9</num>
       <heading>District special assessment.</heading>
       <para>
@@ -8497,6 +8651,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-10</num>
       <heading>Baseline City funding.</heading>
       <text>To the extent of its authority, the Mayor and City Council shall maintain the requisite level of funding of the Association as set forth in the Baltimore City Charter Article II, § 40(e) and may not reduce the existing funding provided by the City in the District due to the establishment of the District or the designation of the Association.</text>
@@ -8505,6 +8660,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-11</num>
       <heading>Partnerships.</heading>
       <para>
@@ -8543,6 +8699,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-12</num>
       <heading>Collection and disbursement.</heading>
       <para>
@@ -8598,6 +8755,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-13</num>
       <heading>Administration of the District.</heading>
       <para>
@@ -8639,6 +8797,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-14</num>
       <heading>Oversight by Board of Estimates.</heading>
       <para>
@@ -8677,6 +8836,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-15</num>
       <heading>Petition process.</heading>
       <para>
@@ -8728,6 +8888,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-16</num>
       <heading>Renewal.</heading>
       <para>
@@ -8747,6 +8908,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-17</num>
       <heading>Dissolution of District.</heading>
       <para>

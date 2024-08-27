@@ -7,7 +7,6 @@
     <prefix>Division</prefix>
     <num>I</num>
     <annotations>
-      <annotation type="Editor's Notes">Ordinance 11-516 extensively amended this Division I, effective February 2, 2012.  Later, as a result of new requirements by, among others, the Federal Emergency Management Agency and the National Flood Insurance Program, an even more comprehensive revision of this Division and of other related City Code provisions was enacted by Ordinance 14-208 {‘Flood Management Code – Revision”} and Ordinance 14-209 {“Floodplain Management Code – Cross-References and Corrections”}, both effective April 2, 2014.  See also Editor’s Note following Subtitle 9.</annotation>
       <annotation type="Editor's Notes">
         <text>Section 4 of Ord. 21-020 sets forth the general transition rules for the 2021 revised Division I as follows</text>
         <text>“Section 4.  And be it further ordained, That:</text>
@@ -24,12 +23,14 @@
           <text>if any change in nomenclature involves a change in name or designation of any City agency or official, the successor agency or official has all the powers and obligations granted the predecessor agency or official."</text>
         </para>
       </annotation>
+      <annotation type="Editor's Notes">Ordinance 11-516 extensively amended this Division I, effective February 2, 2012.  Later, as a result of new requirements by, among others, the Federal Emergency Management Agency and the National Flood Insurance Program, an even more comprehensive revision of this Division and of other related City Code provisions was enacted by Ordinance 14-208 {‘Flood Management Code – Revision”} and Ordinance 14-209 {“Floodplain Management Code – Cross-References and Corrections”}, both effective April 2, 2014.  See also Editor’s Note following Subtitle 9.</annotation>
     </annotations>
     <container>
       <prefix>Subtitle</prefix>
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-1</num>
         <heading>Definitions – In general.</heading>
         <text>In this Division I, the following terms have the meanings indicated.</text>
@@ -38,6 +39,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-2</num>
         <heading>Definitions – "Accessory structure" to "Floodplain District".</heading>
         <para>
@@ -284,6 +286,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-3</num>
         <heading>Definitions – "Floodproofing" to "Wet floodproofing".</heading>
         <para>
@@ -697,9 +700,10 @@
       </section>
       <section>
         <num>1-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-5</num>
         <heading>Rules of interpretation.</heading>
         <para>
@@ -752,15 +756,14 @@
       </section>
       <section>
         <num>1-6</num>
-        <heading>{Transferred to § 1-5(c)}</heading>
-        <text>
-          <strong>'' 1-7 to 1-8.  </strong>
-          <strong>
-            <em>{Reserved}</em>
-          </strong>
-        </text>
+        <reason>Transferred to § 1-5(c)</reason>
       </section>
       <section>
+        <num>1-7 to 1-8</num>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
         <num>1-9</num>
         <heading>Findings, intent, and design.</heading>
         <para>
@@ -876,6 +879,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-10</num>
         <heading>Short title.</heading>
         <text>This Division I may be cited as the "Baltimore City Floodplain Management Code".</text>
@@ -892,6 +896,7 @@
       <num>2</num>
       <heading>Floodplain District</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-1</num>
         <heading>Establishment of district.</heading>
         <para>
@@ -937,6 +942,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-2</num>
         <heading>Subdistricts.</heading>
         <para>
@@ -1065,6 +1071,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-3</num>
         <heading>Official map.</heading>
         <para>
@@ -1115,6 +1122,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-4</num>
         <heading>Flood elevations.</heading>
         <para>
@@ -1170,6 +1178,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-5</num>
         <heading>Changes to District.</heading>
         <para>
@@ -1204,6 +1213,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-6</num>
         <heading>Unmapped streams.</heading>
         <para>
@@ -1231,6 +1241,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-7</num>
         <heading>Floodplain Manager.</heading>
         <para>
@@ -1284,6 +1295,7 @@
         <num>1</num>
         <heading>Overview</heading>
         <section>
+          <prefix>§</prefix>
           <num>3-1</num>
           <heading>In general.</heading>
           <para>
@@ -1347,6 +1359,7 @@
         <num>2</num>
         <heading>Districtwide Regulations</heading>
         <section>
+          <prefix>§</prefix>
           <num>3-2</num>
           <heading>In general.</heading>
           <text>In the entire Floodplain District, the following regulations and restrictions apply.</text>
@@ -1358,6 +1371,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-3</num>
           <heading>Conformance to programs, plans, and BFR Codes.</heading>
           <para>
@@ -1393,6 +1407,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-4</num>
           <heading>Residential structures.</heading>
           <para>
@@ -1453,6 +1468,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-5</num>
           <heading>Nonresidential or mixed use structures.</heading>
           <para>
@@ -1514,6 +1530,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-6</num>
           <heading>Less than substantial improvement.</heading>
           <para>
@@ -1558,6 +1575,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-7</num>
           <heading>Impacts on habitat.</heading>
           <text>All development must be undertaken in a manner that minimizes adverse impacts on aquatic and terrestrial habitat and their related flora and fauna.</text>
@@ -1569,6 +1587,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-8</num>
           <heading>Design, anchoring, and materials.</heading>
           <para>
@@ -1632,6 +1651,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-9</num>
           <heading>Landscape design.</heading>
           <para>
@@ -1652,6 +1672,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-10</num>
           <heading>Electric, plumbing, and mechanical systems.</heading>
           <para>
@@ -1685,6 +1706,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-11</num>
           <heading>Storage.</heading>
           <text>Materials and products that are buoyant, flammable, or explosive, or that in times of flooding could be injurious to human, animal, or plant life may not be stored below the flood-protection elevation.</text>
@@ -1698,6 +1720,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-12</num>
           <heading>Fill.</heading>
           <para>
@@ -1802,6 +1825,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-13</num>
           <heading>Accessory structures.</heading>
           <para>
@@ -1857,6 +1881,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-14</num>
           <heading>Enclosures below lowest floor or flood-protection elevation.</heading>
           <para>
@@ -1889,6 +1914,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-15</num>
           <heading>Watercourses.</heading>
           <para>
@@ -1946,6 +1972,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-16</num>
           <heading>Flood protection setback.</heading>
           <para>
@@ -1985,6 +2012,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-17</num>
           <heading>Utilities and facilities.</heading>
           <para>
@@ -2059,6 +2087,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-18</num>
           <heading>Nontidal AE Zones without designated floodways.</heading>
           <text>New development is not permitted within a nontidal AE Zone that is without a designated floodway, unless it is demonstrated that the cumulative effect of all past and projected development will not increase the base-flood elevation by more than 1 foot.</text>
@@ -2069,6 +2098,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-19</num>
           <heading>Recreational vehicles.</heading>
           <para>
@@ -2112,6 +2142,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-20</num>
           <heading>Temporary structures or storage.</heading>
           <para>
@@ -2156,6 +2187,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-21</num>
           <heading>Letter of Map Change.</heading>
           <para>
@@ -2194,7 +2226,7 @@
         </section>
         <section>
           <num>3-22</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2202,6 +2234,7 @@
         <num>3</num>
         <heading>Floodway Regulations</heading>
         <section>
+          <prefix>§</prefix>
           <num>3-23</num>
           <heading>In general.</heading>
           <text>In the Floodway, the following regulations and restrictions apply.</text>
@@ -2213,6 +2246,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-24</num>
           <heading>New private principal structures prohibited.</heading>
           <text>New construction of private principal structures, whether residential, commercial, or industrial, is prohibited.</text>
@@ -2226,6 +2260,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-25</num>
           <heading>All development requires offset.</heading>
           <text>Public infrastructure and environmental projects taking place on public land that aim to improve drainage and water quality are permitted in the floodway if:</text>
@@ -2252,6 +2287,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-26</num>
           <heading>Engineering report.</heading>
           <para>
@@ -2273,6 +2309,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-27</num>
           <heading>Map revision.</heading>
           <text>Any development in the floodway that proposes to increase the water surface elevation or change the delineation of the floodway requires a Conditional Letter of Map Revision and a Letter of Map Revision as described in § 3-21 {"Letter of map change"} of this subtitle.</text>
@@ -2287,6 +2324,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-28</num>
           <heading>Alternative analysis.</heading>
           <para>
@@ -2333,6 +2371,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-29</num>
           <heading>Changes to existing structures.</heading>
           <para>
@@ -2395,6 +2434,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-30</num>
           <heading>Prohibited structures.</heading>
           <para>
@@ -2436,7 +2476,7 @@
         </section>
         <section>
           <num>3-31 to 3-32</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2444,6 +2484,7 @@
         <num>4</num>
         <heading>Other Subdistrict Regulations</heading>
         <section>
+          <prefix>§</prefix>
           <num>3-33</num>
           <heading>Approximated Floodplain.</heading>
           <para>
@@ -2471,6 +2512,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-34</num>
           <heading>Coastal Floodplain and Flood Resilience Area.</heading>
           <text>In the Coastal Floodplain and the Flood Resilience Area, the regulations specified in ASCE 24, § 4.0 {"Coastal High Hazard Areas and Coastal A Zones"} apply.</text>
@@ -2482,6 +2524,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-35</num>
           <heading>Coastal High Hazard Area.</heading>
           <para>
@@ -2591,6 +2634,7 @@
       <num>4</num>
       <heading>Development Permits</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-1</num>
         <heading>Permit required.</heading>
         <text>A Building permit issued by the Building Official under the Baltimore City Building Code:</text>
@@ -2612,6 +2656,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-2</num>
         <heading>Applications.</heading>
         <para>
@@ -2712,6 +2757,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-3</num>
         <heading>Plans for subdivisions or new development.</heading>
         <para>
@@ -2769,6 +2815,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-4</num>
         <heading>Conformance to codes required.</heading>
         <text>A permit may be granted only after it has been determined that the proposed work will be in conformance with the requirements of this and all other applicable laws.</text>
@@ -2780,6 +2827,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-5</num>
         <heading>Alteration of watercourse.</heading>
         <para>
@@ -2809,6 +2857,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-6</num>
         <heading>Changes to application, permit, etc.</heading>
         <text>After the issuance of a building permit by the Building Official, no changes of any kind may be made to the application, permit, or any of the plans, specifications, or other documents submitted with the application without the written consent or approval of the Building Official.</text>
@@ -2820,6 +2869,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-7</num>
         <heading>Inspections; permit revocation.</heading>
         <para>
@@ -2849,6 +2899,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-8</num>
         <heading>Requisites for occupancy permit.</heading>
         <para>
@@ -2879,6 +2930,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-9</num>
         <heading>Record of permit actions.</heading>
         <para>
@@ -2926,6 +2978,7 @@
       <num>5</num>
       <heading>Floodplain Variances</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-1</num>
         <heading>In general.</heading>
         <text>Applications for variances may be considered by the Planning Department, after a review by the City agencies responsible for stormwater management and erosion control, for the following:</text>
@@ -2951,6 +3004,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-2</num>
         <heading>Prohibited variances.</heading>
         <text>A variance may not be granted for:</text>
@@ -2974,6 +3028,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-3</num>
         <heading>Considerations; Findings of fact.</heading>
         <para>
@@ -3052,6 +3107,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-4</num>
         <heading>Limitations on granting variances.</heading>
         <text>The Planning Department may make an affirmative decision on a variance request only on:</text>
@@ -3088,6 +3144,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-5</num>
         <heading>Applications.</heading>
         <para>
@@ -3124,6 +3181,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-6</num>
         <heading>Agreement not to convert accessary structures.</heading>
         <text>The owner of any accessory structure for which a variance is granted must sign an agreement that the structure will never be converted to any use other than for parking vehicles or limited storage, and the deed restriction must be recorded with the Land Records.</text>
@@ -3136,6 +3194,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-7</num>
         <heading>Record of variance actions.</heading>
         <text>A record of all variance actions, including the justification for their issuance, must be:</text>
@@ -3160,9 +3219,10 @@
       </section>
       <section>
         <num>5-8</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-9</num>
         <heading>Notice on deed.</heading>
         <text>Notice of the flood hazard and the variance action must be placed on the deed that conveys title to land on which construction has occurred under this subtitle.</text>
@@ -3180,6 +3240,7 @@
       <num>6</num>
       <heading>Administration</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-1</num>
         <heading>Municipal non-liability.</heading>
         <text>The granting of a permit or approval is not a representation, guarantee, or warranty of any kind and does not create or impose any liability on the City, its officials, employees, or agents.</text>
@@ -3191,6 +3252,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-2</num>
         <heading>Administrative fees.</heading>
         <para>
@@ -3236,6 +3298,7 @@
       <num>7</num>
       <heading>Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-1</num>
         <heading>Compliance required.</heading>
         <para>
@@ -3264,9 +3327,10 @@
       </section>
       <section>
         <num>7-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-3</num>
         <heading>Violation notice; Stop work order.</heading>
         <para>
@@ -3325,6 +3389,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-4</num>
         <heading>Enforcement of notice or order.</heading>
         <para>
@@ -3364,6 +3429,7 @@
       <num>8</num>
       <heading>Administrative and Judicial Review</heading>
       <section>
+        <prefix>§</prefix>
         <num>8-1</num>
         <heading>Administrative review – In general.</heading>
         <para>
@@ -3406,6 +3472,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-2</num>
         <heading>Administrative review – Delegation of hearing authority.</heading>
         <para>
@@ -3451,6 +3518,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-3</num>
         <heading>Administrative review – Conduct of hearing.</heading>
         <para>
@@ -3499,6 +3567,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-4</num>
         <heading>Administrative review – Evidence.</heading>
         <para>
@@ -3577,6 +3646,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-5</num>
         <heading>Administrative review – Final decision.</heading>
         <para>
@@ -3615,6 +3685,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-6</num>
         <heading>Administrative appeals.</heading>
         <para>
@@ -3637,6 +3708,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-7</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -3660,6 +3732,7 @@
       <num>9</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-1</num>
         <heading>In general.</heading>
         <para>
@@ -3676,6 +3749,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-2</num>
         <heading>Department of Housing and Community Development to enforce.</heading>
         <text>This Division I may be enforced by the Department of Housing and Community Development in the manner provided in § 104 {"Duties and powers of Building Official"} of the Baltimore City Building Code.</text>
@@ -3684,6 +3758,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-3</num>
         <heading>Each day a separate offense.</heading>
         <para>
@@ -3706,6 +3781,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-4</num>
         <heading>Penalty not a substitute for remediation.</heading>
         <para>
@@ -3757,6 +3833,7 @@
       <num>21</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>21-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -3901,9 +3978,7 @@
         </para>
         <para>
           <num>(k)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(l)</num>
@@ -4097,9 +4172,7 @@
         </para>
         <para>
           <num>(z)</num>
-          <text>
-            <em>{Vacant}</em>
-          </text>
+          <reason>Vacant</reason>
         </para>
         <para>
           <num>(aa)</num>
@@ -4125,6 +4198,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-2</num>
         <heading>Rules of interpretation.</heading>
         <para>
@@ -4160,6 +4234,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-3</num>
         <heading>Incorporation by reference.</heading>
         <para>
@@ -4221,6 +4296,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-4</num>
         <heading>Purpose, goal, etc.</heading>
         <para>
@@ -4286,6 +4362,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-5</num>
         <heading>Administration.</heading>
         <para>
@@ -4299,12 +4376,13 @@
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department may adopt rules and regulations to carry out this Division II.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-367" type="History">Ord. 02-367</annotation>
           <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-6</num>
         <heading>Scope.</heading>
         <para>
@@ -4364,6 +4442,7 @@
       <num>22</num>
       <heading>Stormwater Management Plans</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-1</num>
         <heading>Phased plans required.</heading>
         <text>Except as otherwise expressly provided in this Division II, no person may develop any land unless:</text>
@@ -4390,6 +4469,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-2</num>
         <heading>Design and construction.</heading>
         <text>These stormwater management measures must:</text>
@@ -4415,6 +4495,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-3</num>
         <heading>Minimum control requirements.</heading>
         <para>
@@ -4476,6 +4557,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-4</num>
         <heading>Environmental site design; Structural practices.</heading>
         <para>
@@ -4736,6 +4818,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-5</num>
         <heading>Contents of plan.</heading>
         <para>
@@ -4958,6 +5041,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-6</num>
         <heading>Report for final plan.</heading>
         <text>The report submitted for final stormwater management plan approval must contain the following, minimum information:</text>
@@ -5003,6 +5087,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-7</num>
         <heading>Construction drawings for final plan.</heading>
         <para>
@@ -5121,6 +5206,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-8</num>
         <heading>Preparation of plan.</heading>
         <para>
@@ -5139,6 +5225,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-9</num>
         <heading>Easements for runoff.</heading>
         <para>
@@ -5157,6 +5244,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-10</num>
         <heading>Review and approval of plan.</heading>
         <para>
@@ -5237,6 +5325,7 @@
       <num>23</num>
       <heading>Waivers</heading>
       <section>
+        <prefix>§</prefix>
         <num>23-1</num>
         <heading>Quantitative control waiver.</heading>
         <para>
@@ -5323,6 +5412,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-2</num>
         <heading>Qualitative control waiver.</heading>
         <text>Except as provided for in § 23-5 {"Phased development projects"} of this subtitle, the Department may grant a waiver of qualitative control requirements for a project if:</text>
@@ -5356,6 +5446,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-3</num>
         <heading>Conditions of waiver.</heading>
         <para>
@@ -5378,6 +5469,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-4</num>
         <heading>Applications.</heading>
         <para>
@@ -5412,6 +5504,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-4.1</num>
         <heading>Public notices and comment.</heading>
         <para>
@@ -5477,6 +5570,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-5</num>
         <heading>Phased development projects.</heading>
         <text>The Department may grant a quantitative and qualitative control waiver for a phased development project if:</text>
@@ -5509,6 +5603,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-6</num>
         <heading>Watershed management plan.</heading>
         <para>
@@ -5601,6 +5696,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-7</num>
         <heading>Redevelopment.</heading>
         <para>
@@ -5787,6 +5883,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>23-8</num>
         <heading>Administrative waiver.</heading>
         <para>
@@ -5921,6 +6018,7 @@
       <num>24</num>
       <heading>Variances</heading>
       <section>
+        <prefix>§</prefix>
         <num>24-1</num>
         <heading>When authorized.</heading>
         <text>The Department may grant a variance from any requirement of this Division II if, because of exceptional circumstances applicable to the site, strict adherence to that requirement will result in unnecessary hardship and not fulfill the intent of this Division II.</text>
@@ -5929,6 +6027,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-2</num>
         <heading>Application for variance.</heading>
         <text>The application for a variance must:</text>
@@ -5958,6 +6057,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-2.1</num>
         <heading>Public notices and comment.</heading>
         <para>
@@ -6023,6 +6123,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-3</num>
         <heading>Justification required.</heading>
         <text>The Department may not grant a variance unless the applicant provides sufficient satisfactorily demonstrates that the implementation of environmental site design to the maximum extent practicable has been thoroughly investigated.</text>
@@ -6032,6 +6133,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>24-4</num>
         <heading>Offset fee.</heading>
         <text>The Department may require a person who is granted a variance to pay an offset fee to the City.</text>
@@ -6045,6 +6147,7 @@
       <num>25</num>
       <heading>Permits; Fees; Security</heading>
       <section>
+        <prefix>§</prefix>
         <num>25-1</num>
         <heading>Approved plan prerequisite to permits.</heading>
         <para>
@@ -6087,6 +6190,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>25-2</num>
         <heading>Fees.</heading>
         <para>
@@ -6116,6 +6220,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>25-3</num>
         <heading>Performance security.</heading>
         <para>
@@ -6176,6 +6281,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>25-4</num>
         <heading>Permit suspension or revocation.</heading>
         <text>After written notice to the permit holder, the Department may suspend or revoke any grading or building permit for any of the following reasons:</text>
@@ -6210,6 +6316,7 @@
       <num>26</num>
       <heading>Inspections</heading>
       <section>
+        <prefix>§</prefix>
         <num>26-1</num>
         <heading>By whom conducted.</heading>
         <text>All inspections under this Division II must be:</text>
@@ -6227,6 +6334,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>26-2</num>
         <heading>Notices by applicant.</heading>
         <text>The applicant must notify the Department:</text>
@@ -6248,6 +6356,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>26-3</num>
         <heading>Inspections during construction.</heading>
         <para>
@@ -6416,6 +6525,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>26-4</num>
         <heading>Inspection reports.</heading>
         <para>
@@ -6459,6 +6569,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>26-5</num>
         <heading>Work stoppage pending inspection.</heading>
         <text>At the completion of each construction stage for which an inspection is required, no further work may be done until the Department inspects and approves the work completed to date.</text>
@@ -6467,6 +6578,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>26-6</num>
         <heading>Final inspection.</heading>
         <text>A final inspection must be conducted after construction is completed.</text>
@@ -6475,6 +6587,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>26-7</num>
         <heading>As-built certification.</heading>
         <para>
@@ -6506,6 +6619,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>26-8</num>
         <heading>Notice to State Administration.</heading>
         <para>
@@ -6542,6 +6656,7 @@
       <num>27</num>
       <heading>Maintenance</heading>
       <section>
+        <prefix>§</prefix>
         <num>27-1</num>
         <heading>Maintenance responsibility.</heading>
         <para>
@@ -6597,6 +6712,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-2</num>
         <heading>Maintenance schedule.</heading>
         <para>
@@ -6632,6 +6748,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-3</num>
         <heading>Maintenance agreement.</heading>
         <para>
@@ -6667,6 +6784,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-4</num>
         <heading>Maintenance inspections.</heading>
         <para>
@@ -6767,6 +6885,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>27-5</num>
         <heading>Deficiencies.</heading>
         <para>
@@ -6820,6 +6939,7 @@
       <num>28</num>
       <heading>Enforcement; Reviews; Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>28-1</num>
         <heading>Violation notices.</heading>
         <para>
@@ -6853,6 +6973,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-2</num>
         <heading>Enforcement of notice.</heading>
         <para>
@@ -6896,9 +7017,10 @@
       </section>
       <section>
         <num>28-3 to 28-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-5</num>
         <heading>Administrative review – In general.</heading>
         <para>
@@ -6942,6 +7064,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-6</num>
         <heading>Administrative review – Delegation of hearing authority.</heading>
         <para>
@@ -6987,6 +7110,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-7</num>
         <heading>Administrative review – Conduct of hearing.</heading>
         <para>
@@ -7035,6 +7159,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-8</num>
         <heading>Administrative review – Evidence.</heading>
         <para>
@@ -7113,6 +7238,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-9</num>
         <heading>Administrative review – Final decisions.</heading>
         <para>
@@ -7151,9 +7277,10 @@
       </section>
       <section>
         <num>28-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-11</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -7174,9 +7301,10 @@
       </section>
       <section>
         <num>28-12</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-13</num>
         <heading>Criminal penalties.</heading>
         <para>
@@ -7208,6 +7336,7 @@
       <num>31</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>31-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -7257,9 +7386,7 @@
         </para>
         <para>
           <num>(j)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(k)</num>
@@ -7370,6 +7497,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-2</num>
         <heading>Rules of interpretation.</heading>
         <para>
@@ -7405,6 +7533,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-3</num>
         <heading>Incorporation by reference.</heading>
         <para>
@@ -7453,6 +7582,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-4</num>
         <heading>Purpose, goal, authority.</heading>
         <para>
@@ -7475,6 +7605,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-5</num>
         <heading>Administration.</heading>
         <para>
@@ -7488,16 +7619,17 @@
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department may adopt rules and regulations to carry out this Division III.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-095" type="History">Ord. 13-095</annotation>
           <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>31-6 to 31-8</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-8</num>
         <heading>Prohibited conduct generally.</heading>
         <text>Except as otherwise provided in this Division III, no person may disturb land without implementing soil erosion and sediment controls in accordance with this Division III and the Standards and Specifications.</text>
@@ -7506,6 +7638,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-9</num>
         <heading>Exemptions.</heading>
         <para>
@@ -7562,6 +7695,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-10</num>
         <heading>Variances.</heading>
         <para>
@@ -7604,6 +7738,7 @@
       <num>32</num>
       <heading>Erosion and Sediment Control Plans</heading>
       <section>
+        <prefix>§</prefix>
         <num>32-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -7648,6 +7783,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-2</num>
         <heading>Plans required.</heading>
         <text>Except as otherwise provided in this Division III, no person may grade land without erosion and sediment control plans approved by the Department.</text>
@@ -7656,6 +7792,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-3</num>
         <heading>Review and approval of plans.</heading>
         <para>
@@ -7753,6 +7890,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-4</num>
         <heading>Contents of plans.</heading>
         <para>
@@ -7815,6 +7953,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-5</num>
         <heading>Concept plan.</heading>
         <para>
@@ -7912,6 +8051,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-6</num>
         <heading>Site development plan.</heading>
         <para>
@@ -8013,6 +8153,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-7</num>
         <heading>Final erosion and sediment control and stormwater management plans.</heading>
         <para>
@@ -8187,6 +8328,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-8</num>
         <heading>Modifications to plans.</heading>
         <para>
@@ -8218,6 +8360,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>32-9</num>
         <heading>Standard erosion and sediment control plan.</heading>
         <para>
@@ -8247,6 +8390,7 @@
       <num>33</num>
       <heading>Permits; Fees; Security</heading>
       <section>
+        <prefix>§</prefix>
         <num>33-1</num>
         <heading>Approved plan prerequisite to permits.</heading>
         <text>For any development that requires an erosion and sediment control plan under this Division III, a grading or building permit may not be issued or extended unless a final erosion and sediment control plan has been approved by the Department.</text>
@@ -8255,6 +8399,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-2</num>
         <heading>Fees.</heading>
         <para>
@@ -8283,6 +8428,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-3</num>
         <heading>Performance bond.</heading>
         <para>
@@ -8334,6 +8480,7 @@
       <num>34</num>
       <heading>Inspections; Investigations</heading>
       <section>
+        <prefix>§</prefix>
         <num>34-1</num>
         <heading>Inspections required.</heading>
         <para>
@@ -8353,6 +8500,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>34-2</num>
         <heading>By whom conducted.</heading>
         <text>All inspections under this Division III must be conducted by:</text>
@@ -8369,6 +8517,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>34-3</num>
         <heading>Reports on inspections.</heading>
         <para>
@@ -8407,9 +8556,10 @@
       </section>
       <section>
         <num>34-4 to 34-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>34-6</num>
         <heading>Right of entry.</heading>
         <text>It is a condition of every grading or building permit that the Department has the right to enter property periodically to inspect for compliance with the approved plan and this Division III.</text>
@@ -8418,6 +8568,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>34-7</num>
         <heading>Investigations.</heading>
         <para>
@@ -8461,6 +8612,7 @@
       <num>35</num>
       <heading>Enforcement; Reviews; Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>35-1</num>
         <heading>Violation notices.</heading>
         <para>
@@ -8503,6 +8655,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-2</num>
         <heading>Enforcement of notice.</heading>
         <para>
@@ -8538,15 +8691,17 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-3</num>
         <heading>Injunctive relief.</heading>
         <text>Any State or City agency or any interested person may seek an injunction against any person who violates or threatens to violate any provision of this Division III.</text>
       </section>
       <section>
         <num>35-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-5</num>
         <heading>Administrative review – In general.</heading>
         <para>
@@ -8589,6 +8744,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-6</num>
         <heading>Administrative review – Delegation of hearing authority.</heading>
         <para>
@@ -8635,6 +8791,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-7</num>
         <heading>Administrative review – Conduct of hearing.</heading>
         <para>
@@ -8683,6 +8840,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-8</num>
         <heading>Administrative review – Evidence.</heading>
         <para>
@@ -8761,6 +8919,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-9</num>
         <heading>Administrative review – Final decisions.</heading>
         <para>
@@ -8800,9 +8959,10 @@
       </section>
       <section>
         <num>35-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-11</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -8822,9 +8982,10 @@
       </section>
       <section>
         <num>35-12</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-13</num>
         <heading>Penalties.</heading>
         <para>
@@ -8875,6 +9036,7 @@
       <num>41</num>
       <heading>Purpose; Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>41-1</num>
         <heading>Purpose.</heading>
         <text>The purpose of this Division IV is to:</text>
@@ -8903,6 +9065,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>41-2</num>
         <heading>Definitions.</heading>
         <para>
@@ -9036,6 +9199,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>41-3</num>
         <heading>Statutory references.</heading>
         <text>Whenever a provision of this Division IV refers to any portion of the Maryland Code, the Code of Maryland Regulations <em>{COMAR}</em>, and the State Forest Conservation Manual, the reference applies to any subsequent amendment to that portion of the code, regulations, or manual unless the referring provision expressly provides otherwise.</text>
@@ -9046,6 +9210,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>41-4</num>
         <heading>Scope of Division – In general.</heading>
         <para>
@@ -9075,6 +9240,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>41-5</num>
         <heading>Scope of Division – Exemptions.</heading>
         <para>
@@ -9216,6 +9382,7 @@
       <num>42</num>
       <heading>General Requirements</heading>
       <section>
+        <prefix>§</prefix>
         <num>42-1</num>
         <heading>In general.</heading>
         <para>
@@ -9251,6 +9418,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>42-2</num>
         <heading>Preparation of plans.</heading>
         <text>The forest stand delineation, the forest conservation plan, including preliminary and final plan, and the afforestation plan shall be prepared by a licensed forester, licensed landscape architect, or other qualified professional as provided in COMAR 08.19.06.01B.</text>
@@ -9260,6 +9428,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>42-3</num>
         <heading>Authorized signatory.</heading>
         <para>
@@ -9294,6 +9463,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>42-4</num>
         <heading>Review.</heading>
         <text>The Department shall review an application for a forest stand delineation, forestation and deforestation plans, and preliminary and final forest conservation plans to determine whether they are complete and correct, and shall acknowledge receipt of the application in writing by regular first class mail or email.</text>
@@ -9304,6 +9474,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>42-5</num>
         <heading>Completeness of application.</heading>
         <text>The Department shall consider a forest stand delineation, preliminary and final forest conservation plans, and afforestation plans complete if they contain all of the required information listed in the Baltimore City Forest Conservation Manual.</text>
@@ -9313,6 +9484,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>42-6</num>
         <heading>Notification of completeness.</heading>
         <para>
@@ -9337,6 +9509,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>42-7</num>
         <heading>Declaration of intent.</heading>
         <para>
@@ -9360,6 +9533,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>42-8</num>
         <heading>Area subject to calculations.</heading>
         <text>For a grading or building permit application for an area 40,000 square feet or greater in size, only the area of disturbance is subject to reforestation and afforestation calculations, unless the grading or building permit is part of a master plan, development plan, planned unit development, or subdivision for which the entire master plan, development plan, planned unit development, or subdivision is subject to reforestation and afforestation calculations.</text>
@@ -9375,6 +9549,7 @@
       <num>43</num>
       <heading>Forest Stand Delineation</heading>
       <section>
+        <prefix>§</prefix>
         <num>43-1</num>
         <heading>Time for submission.</heading>
         <para>
@@ -9406,6 +9581,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>43-2</num>
         <heading>Simplified delineation – When authorized.</heading>
         <text>A simplified forest stand delineation may be submitted for an area:</text>
@@ -9431,6 +9607,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>43-3</num>
         <heading>Simplified delineation – Requirements.</heading>
         <text>The Department shall consider a simplified forest stand delineation complete if it includes:</text>
@@ -9456,6 +9633,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>43-4</num>
         <heading>Effective term.</heading>
         <text>An approved forest stand delineation may remain in effect for a period not longer than 5 years.</text>
@@ -9470,6 +9648,7 @@
       <num>44</num>
       <heading>Forest Conservation Plan</heading>
       <section>
+        <prefix>§</prefix>
         <num>44-1</num>
         <heading>Preliminary plan.</heading>
         <para>
@@ -9488,6 +9667,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>44-2</num>
         <heading>Retention of existing forest and specimen trees.</heading>
         <text>In developing a forest conservation plan, the applicant shall give priority to techniques for retaining existing forest and specimen trees on the site.  If existing forest or specimen trees on the site subject to a forest conservation plan cannot be retained, the applicant shall demonstrate to the satisfaction of the Department how techniques for retention have been exhausted.</text>
@@ -9498,6 +9678,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>44-3</num>
         <heading>Impacts to specimen trees and forests on adjacent properties.</heading>
         <text>The Department may only approve clearing or significant critical root zone impacts to specimen trees or forests on adjacent properties if the applicant submits written notification of the proposed clearing or significant critical root zone impacts to the owners.</text>
@@ -9506,6 +9687,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>44-4</num>
         <heading>Revocation of plan – Grounds.</heading>
         <text>The Department, its designee, or other responsible agency at the request of the Department, may revoke an approved forest conservation plan, including a reforestation and afforestation plan, if it finds that:</text>
@@ -9528,6 +9710,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>44-5</num>
         <heading>Revocation of plan – Notice and hearing.</heading>
         <text>Prior to revoking approval of a forest conservation plan, the Department shall notify the owner and/or developer in writing and provide an opportunity for hearing before the Baltimore City Planning Commission.</text>
@@ -9538,6 +9721,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>44-6</num>
         <heading>Cutting prohibited pending approval.</heading>
         <text>If a forest conservation plan is required by this Division IV, a person shall not cut, clear, or grade on the development site until the Department has approved the plan.  All grading or building permits, and subdivision or development plan approvals shall be issued conditioned on approval of, and compliance with a Forest Conservation Plan.</text>
@@ -9548,6 +9732,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>44-7</num>
         <heading>Approval of plan alteration.</heading>
         <text>The plan cannot be altered without first obtaining approval from the Department.</text>
@@ -9558,6 +9743,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>44-8</num>
         <heading>Modification of a forest conservation easement.</heading>
         <para>
@@ -9705,6 +9891,7 @@
       <num>45</num>
       <heading>Reforestation, Afforestation, and Specimen Tree Mitigation</heading>
       <section>
+        <prefix>§</prefix>
         <num>45-1</num>
         <heading>Preference for retention.</heading>
         <text>After every reasonable effort to minimize the cutting of trees and other woody plants is exhausted in the development of a subdivision plan, and/or grading and sediment control plans, the forest conservation plan shall provide for reforestation, afforestation, and/or specimen tree mitigation.</text>
@@ -9715,6 +9902,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>45-2</num>
         <heading>Required sequence.</heading>
         <para>
@@ -9759,6 +9947,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>45-3</num>
         <heading>Reforestation, etc., guidelines; time limits.</heading>
         <para>
@@ -9778,6 +9967,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>45-4</num>
         <heading>Security required.</heading>
         <text>Before the issuance of a grading or building permit, a person required to conduct afforestation, reforestation, or specimen tree mitigation under this Division IV shall furnish financial security in the form of a bond, an irrevocable letter of credit, or other security approved by the Department, as provided in the Baltimore City Conservation Supplement to the State Conservation Manual.</text>
@@ -9793,6 +9983,7 @@
       <num>46</num>
       <heading>Forest Conservation Fund</heading>
       <section>
+        <prefix>§</prefix>
         <num>46-1</num>
         <heading>Forest Conservation Fund established.</heading>
         <text>There is hereby created a Baltimore City Forest Conservation Fund that meets the requirements of Natural Resources Article, §5-1610(h-l), Annotated Code of Maryland.</text>
@@ -9803,6 +9994,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>46-2</num>
         <heading>When payments in lieu permitted.</heading>
         <text>If reforestation, afforestation, or specimen tree mitigation is not possible, and appropriate credits generated by a forest mitigation bank in the City are not available, the applicant may make payment into the Forest Conservation Fund.  Payment may be accepted into the Conservation Fund under the following circumstances:</text>
@@ -9825,6 +10017,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>46-3</num>
         <heading>Contribution rate.</heading>
         <para>
@@ -9844,6 +10037,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>46-4</num>
         <heading>When payable.</heading>
         <text>Money contributed in lieu of afforestation, reforestation, or specimen tree mitigation  shall be paid at the time of the issuance of the grading or building permit for the development project.</text>
@@ -9854,6 +10048,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>46-5</num>
         <heading>Period for City reforestation, etc.</heading>
         <para>
@@ -9873,6 +10068,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>46-6</num>
         <heading>Management of Fund.</heading>
         <para>
@@ -9909,6 +10105,7 @@
       <num>47</num>
       <heading>Variances</heading>
       <section>
+        <prefix>§</prefix>
         <num>47-1</num>
         <heading>"Variance" defined; When request required.</heading>
         <text>"Variance" means the process of obtaining approval for a forest conservation plan that does not strictly conform to the standards and requirements set forth in this Division IV.  A variance must be requested in advance of approval of a Forest Conservation Plan and in advance of any activity requiring approval of a Forest Conservation Plan.</text>
@@ -9919,6 +10116,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>47-2</num>
         <heading>When authorized.</heading>
         <text>Variances from this Division IV may be granted by the Planning Commission, if the applicant demonstrates that enforcement would result in unwarranted hardship to the applicant.</text>
@@ -9928,6 +10126,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>47-3</num>
         <heading>Applications.</heading>
         <text>An applicant for a variance shall:</text>
@@ -9964,11 +10163,11 @@
           <text>such other criteria that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Planning Commission may set by rule or regulation.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this item (8) to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 9A, §11-2</annotation>
           <annotation doc="City of Balt., Md., Ord. 93-170" type="History">Ord. 93-170</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-401" type="History">Ord. 20-401</annotation>
           <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this item (8) to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
     </container>
@@ -9977,6 +10176,7 @@
       <num>48</num>
       <heading>Enforcement; Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>48-1</num>
         <heading>HCD to enforce.</heading>
         <text>This Division IV may be enforced by the Department of Housing and Community Development in the manner provided in § 104 {"Duties and powers of Building Official"} of the Baltimore City Building Code.</text>
@@ -9988,6 +10188,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-2</num>
         <heading>Fines.</heading>
         <para>
@@ -10007,6 +10208,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-3</num>
         <heading>Civil penalties.</heading>
         <para>
@@ -10025,6 +10227,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-4</num>
         <heading>Injunctions.</heading>
         <text>The Department may request the City Solicitor to seek an injunction requiring a person to cease violation of this title and to take corrective action to restore or reforest an area.</text>
@@ -10058,6 +10261,7 @@
       <num>51</num>
       <heading>Department Jurisdiction</heading>
       <section>
+        <prefix>§</prefix>
         <num>51-1</num>
         <heading>Cahill Recreation Center.</heading>
         <text>The Department of Recreation and Parks is hereby authorized and directed to assume and hereafter exercise, exclusively, control of the property formerly known as Mt. Holly Inn, and all lands adjacent thereto, and all appurtenances thereto, which property was conveyed by Winfield S. Cahill and wife to the Mayor and City Council of Baltimore on July 27, 1939, said property to be hereafter used for park purposes.</text>
@@ -10069,6 +10273,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>51-2</num>
         <heading>Venable Park.</heading>
         <para>
@@ -10076,7 +10281,7 @@
           <heading>Department jurisdiction.</heading>
           <text>The Department of Recreation and Parks is hereby authorized and directed to assume jurisdiction, for park purposes, over the following described part of Venable Park lying south of Thirty-Third Street:</text>
           <include>
-            <text>Beginning for the same at the point formed by the intersection of the south side of Thirty-third Street as condemned and opened 120 feet wide under Ordinance No. 251, approved April 5, 1907, and the east side of Ellerslie Avenue as condemned and opened 66 feet wide under Ordinance No. 134, approved May 10, 1916, and running thence binding on the south side of said Thirty-third Street due East 489.81 feet, thence for lines of division, due South 568.50 feet to intersect the southeast side of Independence Street produced northeasterly, thence reversing said line so produced and binding thereon South 26\uF0B0-32'-50" West 208.37 feet to intersect the southernmost outline of Venable Park as now surveyed, thence binding on said southernmost outline of Venable Park the two following courses and distances, namely, North 58\uF0B0-41'-45" West 50.61 feet and North 62\uF0B0-04'-22" West 498.71 feet to intersect the easternmost side of said Ellerslie Avenue and thence binding on the easternmost side of said Ellerslie Avenue the three following courses and distances, namely, North 26 \uF0B0-32'-50" East 115.08 feet by a line curving to the left with a 339.12 foot radius the distance of 157.13 feet which arc is subtended by a chord bearing North 13\uF0B0-16'-25" East 155.72 feet and due north 240.53 feet to the place of beginning.</text>
+            <text>Beginning for the same at the point formed by the intersection of the south side of Thirty-third Street as condemned and opened 120 feet wide under Ordinance No. 251, approved April 5, 1907, and the east side of Ellerslie Avenue as condemned and opened 66 feet wide under Ordinance No. 134, approved May 10, 1916, and running thence binding on the south side of said Thirty-third Street due East 489.81 feet, thence for lines of division, due South 568.50 feet to intersect the southeast side of Independence Street produced northeasterly, thence reversing said line so produced and binding thereon South 26°-32'-50" West 208.37 feet to intersect the southernmost outline of Venable Park as now surveyed, thence binding on said southernmost outline of Venable Park the two following courses and distances, namely, North 58°-41'-45" West 50.61 feet and North 62°-04'-22" West 498.71 feet to intersect the easternmost side of said Ellerslie Avenue and thence binding on the easternmost side of said Ellerslie Avenue the three following courses and distances, namely, North 26 °-32'-50" East 115.08 feet by a line curving to the left with a 339.12 foot radius the distance of 157.13 feet which arc is subtended by a chord bearing North 13°-16'-25" East 155.72 feet and due north 240.53 feet to the place of beginning.</text>
             <text>The courses in the above description are all referred to the true meridian established by the City of Baltimore Topographical Survey Commission.</text>
           </include>
         </para>
@@ -10093,6 +10298,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>51-3</num>
         <heading>Park Avenue Squares.</heading>
         <text>The City will:</text>
@@ -10114,9 +10320,10 @@
       </section>
       <section>
         <num>51-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>51-5</num>
         <heading>Report on closings and other public-access restrictions.</heading>
         <para>
@@ -10159,6 +10366,7 @@
       <num>52</num>
       <heading>Protective Measures</heading>
       <section>
+        <prefix>§</prefix>
         <num>52-1</num>
         <heading>Obstructions in parks and squares.</heading>
         <para>
@@ -10182,6 +10390,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>52-2</num>
         <heading>Glass containers.</heading>
         <para>
@@ -10200,6 +10409,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>52-3</num>
         <heading>Defacement, etc., of monuments.</heading>
         <para>
@@ -10239,6 +10449,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>52-4</num>
         <heading>Mount Vernon Place – Ornamental structures.</heading>
         <text>It shall not be lawful for any person to erect or set up any portico, steps, or any other ornamental structure whatever, on Mount Vernon Place, a greater distance into the place than 9 feet, measuring from the building line thereof.</text>
@@ -10253,6 +10464,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>52-5</num>
         <heading>Mount Vernon Place – Injuring grass or shrubs.</heading>
         <para>
@@ -10275,6 +10487,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>52-6</num>
         <heading>Battle Monument, etc.</heading>
         <para>
@@ -10306,6 +10519,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>52-7</num>
         <heading>Herring Run Park.</heading>
         <para>
@@ -10337,13 +10551,12 @@
       <num>53</num>
       <heading>Trees along City Streets, etc.</heading>
       <section>
+        <prefix>§</prefix>
         <num>53-1</num>
         <heading>Definitions.</heading>
         <para>
           <num>(a)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
           <text>The word "person", whenever used in this subtitle, shall be construed to include individuals, firms, and corporations.</text>
         </para>
         <para>
@@ -10362,6 +10575,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-2</num>
         <heading>Jurisdiction of Department of Recreation and Parks.</heading>
         <para>
@@ -10386,6 +10600,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-3</num>
         <heading>Additional duties of Department of Recreation and Parks.</heading>
         <text>It is the duty of the Department of Recreation and Parks:</text>
@@ -10417,6 +10632,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-4</num>
         <heading>Planting and care program.</heading>
         <para>
@@ -10457,6 +10673,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-5</num>
         <heading>Public notice of tree removal.</heading>
         <para>
@@ -10514,9 +10731,10 @@
       </section>
       <section>
         <num>53-6 to 53-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-11</num>
         <heading>Permit requirements – Planting trees.</heading>
         <para>
@@ -10550,6 +10768,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-12</num>
         <heading>Permit requirements – Treating trees.</heading>
         <para>
@@ -10574,6 +10793,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-13</num>
         <heading>Permit requirements – Impeding roots.</heading>
         <text>No person may, without first having received a written permit issued by the Department of Transportation, in consultation with the Department of Recreation and Parks, place or maintain upon the ground in any street, lane, or alley, any stone, cement, or other substance that will impede the free entrance of water and air to the roots of any tree without leaving an open space of ground outside the trunk of the tree, in area not less than 16 square feet.</text>
@@ -10590,6 +10810,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-14</num>
         <heading>Permit requirements – Time for completing work.</heading>
         <text>All work covered by a permit issued under this subtitle shall be completed within 30 days from the date shown on the permit.</text>
@@ -10606,9 +10827,10 @@
       </section>
       <section>
         <num>53-15 to 53-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-21</num>
         <heading>Injuring or defacing trees, etc.</heading>
         <para>
@@ -10636,6 +10858,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-22</num>
         <heading>Breaking or hurting trees, etc.</heading>
         <para>
@@ -10669,6 +10892,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-23</num>
         <heading>Inconsistent ordinances.</heading>
         <text>All ordinances and parts of ordinances heretofore passed which are inconsistent with this subtitle, or any of its provisions, are hereby repealed to the extent of such inconsistency.</text>
@@ -10683,9 +10907,10 @@
       </section>
       <section>
         <num>53-24 to 53-25</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>53-26</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provision of '' 53-11, 53-12, 53-13, 53-21, or 53-22 of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
@@ -10710,6 +10935,7 @@
         <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 19-305, effective October 23, 2020.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>54-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -10844,22 +11070,24 @@
       </section>
       <section>
         <num>54-2</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">See City General Provisions Article, § 1-104, for the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”).</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>54-3</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord.19-305" type="History">Ord.19-305</annotation>
           <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>54-4</num>
         <heading>Training required.</heading>
         <para>
@@ -10916,6 +11144,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>54-5</num>
         <heading>Removal from play.</heading>
         <para>
@@ -10954,6 +11183,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>54-6</num>
         <heading>Automated external defibrillators.</heading>
         <para>
@@ -10972,9 +11202,10 @@
       </section>
       <section>
         <num>54-7</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>54-8</num>
         <heading>Civil liability of Department, etc.</heading>
         <text>Nothing in this subtitle may be construed to create, establish, expand, reduce, contract, or eliminate any civil liability on the part of the Department, its employees, any youth sports programs, or any coaches.</text>
@@ -10997,6 +11228,7 @@
       <num>61</num>
       <heading>Inactive Quarries</heading>
       <section>
+        <prefix>§</prefix>
         <num>61-1</num>
         <heading>Fencing required.</heading>
         <para>
@@ -11027,6 +11259,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>61-2</num>
         <heading>Maintenance of fences.</heading>
         <para>
@@ -11049,6 +11282,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>61-3</num>
         <heading>Administrative enforcement.</heading>
         <para>
@@ -11071,6 +11305,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>61-4</num>
         <heading>Penalties.</heading>
         <text>Any owners, agents, or persons in possession of any such quarry who shall fail to comply with the terms of this subtitle within 10 days after being notified by the Commissioner of Housing and Community Development to fence any such quarry or repair an existing fence shall be guilty of a misdemeanor and, upon conviction, shall be imprisoned for not more than 30 days or fined not more than $100 or both, said fine or fines to be collected and disposed of as other fines.</text>
@@ -11089,6 +11324,7 @@
       <num>62</num>
       <heading>Plastic Bag Reduction</heading>
       <section>
+        <prefix>§</prefix>
         <num>62-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -11186,9 +11422,10 @@
       </section>
       <section>
         <num>62-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>62-3</num>
         <heading>Prohibited conduct.</heading>
         <text>Except as provided in § 62-4 {"Exemption: Bags for certain products"} of this subtitle, no dealer may supply customers with plastic checkout bags.</text>
@@ -11197,6 +11434,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>62-4</num>
         <heading>Exemption: Bags for certain products.</heading>
         <text>This subtitle does not apply to a plastic checkout bag solely used to contain:</text>
@@ -11254,9 +11492,10 @@
       </section>
       <section>
         <num>62-5 to 62-6</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>62-7</num>
         <heading>Data Reporting.</heading>
         <text>The Baltimore City Department of Information Technology, using available data from the 311 system and the Environmental Control Board, shall publish data on the Open Baltimore web portal that reflects:</text>
@@ -11274,9 +11513,10 @@
       </section>
       <section>
         <num>62-8 to 62-9</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>62-10</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -11294,6 +11534,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>62-11</num>
         <heading>Criminal penalties.</heading>
         <para>

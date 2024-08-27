@@ -14,6 +14,7 @@
       <num>1</num>
       <heading>Fire Department</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-1</num>
         <heading>Fire Chief in general command.</heading>
         <text>The Chief of the Fire Department:</text>
@@ -45,6 +46,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-2</num>
         <heading>Control of persons and property at fires.</heading>
         <text>The Chief of the Fire Department shall, during the occurrence of fires or alarm of fires, have authority for himself, and the power to delegate to his assistants, the authority to control all persons and property in the vicinity of a fire, during the continuance thereof; provided, that the exercise of such authority does not conflict with any law of the United States, or of the State of Maryland.</text>
@@ -59,6 +61,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-3</num>
         <heading>Facilities.</heading>
         <para>
@@ -82,6 +85,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-4</num>
         <heading>Control of fire hydrants.</heading>
         <text>On the occurrence of fires, the Chief of the Fire Department, or his assistants, shall have the use and control of any and all fire hydrants belonging to the City of Baltimore.</text>
@@ -97,11 +101,11 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-5</num>
         <heading>Regulations for fire companies.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Chief of the Fire Department shall prepare rules and regulations for the government of the Fire Department and members thereof, and furnish each member of the Fire Department a copy of the rules, and have same posted in Fire Department Headquarters and in all stations.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1879, art. 20, §19</annotation>
           <annotation type="Prior Codifications">1893, art. 20, §24</annotation>
           <annotation type="Prior Codifications">1927, art. 13, §25</annotation>
@@ -111,26 +115,29 @@
           <annotation doc="City of Balt., Md., Ord. 1858-005" type="History">Ord. 1858-005</annotation>
           <annotation doc="City of Balt., Md., Ord. 76-136" type="History">Ord. 76-136</annotation>
           <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-6</num>
         <heading>Regulations for relief from duty.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Chief of the Fire Department shall have the authority and power to adopt reasonable rules and regulations to permit members of the Fire Department to be relieved from duty when their respective relief reports for duty.</text>
         <annotations>
-          <annotation type="Editor's Notes">See Editor’s Note to § 1-5.</annotation>
           <annotation type="Prior Codifications">City Code, 1950, art. 9, §1</annotation>
           <annotation type="Prior Codifications">1966, art. 9, §1</annotation>
           <annotation type="Prior Codifications">1976/83, art. 9, §1</annotation>
           <annotation doc="City of Balt., Md., Ord. 44-080" type="History">Ord. 44-080</annotation>
           <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">See Editor’s Note to § 1-5.</annotation>
         </annotations>
       </section>
       <section>
         <num>1-7</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-8</num>
         <heading>Board of Fire Commissioners.</heading>
         <para>
@@ -163,6 +170,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-9</num>
         <heading>Reporting requirements.</heading>
         <para>
@@ -289,7 +297,6 @@
           </para>
         </para>
         <annotations>
-          <annotation doc="City of Balt., Md., Ord.  21-006" type="History">Ord.  21-006</annotation>
           <annotation type="Editor's Notes">
             <text>Ordinance 21-006 enacted this section, effective March 10, 2021. Section 2 of that Ordinance provides</text>
             <text>[T]he first reports under [§ 1-9] shall be due within 90 calendar days after the effective date of this Ordinance, and shall include information from each of the previous 5 calendar years; thereafter, each report need only include information from the previous calendar year.</text>
@@ -302,6 +309,7 @@
       <num>2</num>
       <heading>Comprehensive Fire Protection Plan</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-1</num>
         <heading>Plan required.</heading>
         <text>On or before May 1 of 2013, and every year following, the Chief of the Fire Department shall present to the Mayor and City Council a written, comprehensive Baltimore City Fire Protection Plan for the City as 1 territorial unit.</text>
@@ -312,6 +320,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-2</num>
         <heading>Required elements and factors.</heading>
         <para>
@@ -375,6 +384,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-3</num>
         <heading>Adoption procedures.</heading>
         <para>
@@ -401,6 +411,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-4</num>
         <heading>Adherence to adopted plan.</heading>
         <text>Following review of the plan by the Mayor and City Council:</text>
@@ -419,6 +430,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-5</num>
         <heading>Consolidations, closings, or relocations.</heading>
         <para>
@@ -481,6 +493,7 @@
       <num>2A</num>
       <heading>Decennial Fire and Emergency Medical Services Redistricting Plan</heading>
       <section>
+        <prefix>§</prefix>
         <num>2A-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -513,6 +526,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2A-2</num>
         <heading>Plan requirements.</heading>
         <text>Following each decennial census of the United States, the Fire Chief shall:</text>
@@ -565,6 +579,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2A-3</num>
         <heading>Approval process.</heading>
         <para>
@@ -599,6 +614,7 @@
       <num>3</num>
       <heading>Ambulance Service - Fees</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -617,6 +633,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-2</num>
         <heading>Authority to set fees.</heading>
         <para>
@@ -674,6 +691,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-3</num>
         <heading>Access to services not to be affected.</heading>
         <text>The Chief of the Fire Department shall not deny any individual access to emergency medical services as a result of the provisions of this subtitle.</text>
@@ -683,6 +701,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-4</num>
         <heading>Use of fee revenues.</heading>
         <para>
@@ -713,14 +732,15 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-5</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Chief of the Fire Department shall adopt rules and regulations necessary to implement the provisions of this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 9, §12A(d)(1)</annotation>
           <annotation doc="City of Balt., Md., Ord. 89-381" type="History">Ord. 89-381</annotation>
           <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
     </container>
@@ -729,15 +749,16 @@
       <num>4</num>
       <heading>Ambulance Service - Out-of-City Transportation</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-1</num>
         <heading>Rules and regulations to govern.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Chief of the Fire Department shall have power and authority to adopt reasonable rules and regulations to permit the Fire Department Ambulance Service to send its vehicles to hospitals outside the boundaries of Baltimore City, in order to deliver sick, indigent, and emergency persons from Baltimore City to those hospitals; and to proceed outside the boundaries of Baltimore City to any hospital in order to return any indigent persons residing in Baltimore City.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1966, art. 9, §12</annotation>
           <annotation type="Prior Codifications">1976/83, art. 9, §12</annotation>
           <annotation doc="City of Balt., Md., Ord. 65-560" type="History">Ord. 65-560</annotation>
           <annotation type="History">Text Conformed 02/16/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
     </container>
@@ -746,6 +767,7 @@
       <num>5</num>
       <heading>Fire and Police Alarms</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-1</num>
         <heading>Fire alarm boxes in buildings.</heading>
         <para>
@@ -774,6 +796,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-2</num>
         <heading>Police and fire wires in conduits.</heading>
         <text>The subways and conduits of the Chesapeake and Potomac Telephone Company shall be used, as far as practicable, under provisions of Ordinance 1889-041, Section 4, passed by the Mayor and City Council of Baltimore and approved May 9, 1889, being Article 26, Subtitle 24 of the City Code; which ordinance reserves the right to place the wires of the Police and Fire Alarm Telegraph and Police Patrol Telegraph in the conduits and subways of said telephone company.</text>
@@ -792,6 +815,7 @@
       <num>6</num>
       <heading>Care of Members of Department</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-1</num>
         <heading>Sickness of certain employees.</heading>
         <text>For all employees hired into the fire service prior to July 1, 1979, no deduction shall be made in the salaries of employees on account of non-line-of-duty illness or injury, provided such sickness does not last longer than 6 months; and provided further, that if an employee shall absent himself from duty on account of non-line-of-duty illness or injury he shall, before receiving his salary, present or have presented to the unit officer of the company of which he is a member, a certificate from the physician employed by the Fire Department, stating that the employee on account of illness or injury, is unable to perform his or her duties.</text>
@@ -806,6 +830,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-2</num>
         <heading>Injury or disability.</heading>
         <text>Any member of the Fire Department of the City of Baltimore, receiving injury or becoming disabled while in the discharge of his duties, so as to prevent him from following his daily occupation or attending to his duties as a member of said Department, such member shall, for the space of 12 months, provided his disability shall last that time, receive his usual salary.</text>
@@ -820,6 +845,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-3</num>
         <heading>Loss of life.</heading>
         <text>If any member of said Fire Department shall lose his life while in the discharge of his duties, it shall be the duty of the Chief of the Fire Department (as soon as may be convenient after such death) to cause to be paid to the wife or family, including father and mother, depending on the deceased member, the sum of $500; and if said member shall leave neither wife or children, father or mother, surviving him, then said Chief shall and he is hereby authorized to, defray the proper funeral expenses of said member, the same to be taken out of the appropriation for the Fire Department for the current year.</text>
@@ -834,6 +860,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-4</num>
         <heading>Widows' benefits.</heading>
         <para>
@@ -904,6 +931,7 @@
       <num>9</num>
       <heading>Hazardous Materials</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -936,26 +964,29 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-2</num>
         <heading>Security and safeguarding required.</heading>
         <text>All facilities on or in which any hazardous material is stored, dispensed, used, or handled must be secured against unauthorized entry and safeguarded with protective measures and facilities in accordance with the rules, regulations, and standards adopted under this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">See § 9-3 and accompanying Editor’s Note.</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-443" type="History">Ord. 02-443</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+          <annotation type="Editor's Notes">See § 9-3 and accompanying Editor’s Note.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-3</num>
         <heading>Rules, regulations, and standards.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Fire Chief, in consultation with the Police Commissioner and affected industries, shall adopt rules, regulations, and standards, including a schedule for compliance, for the security and safeguarding of hazardous materials.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, generally governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 02-443" type="History">Ord. 02-443</annotation>
           <annotation type="History">Text Conformed 04/07/22</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, generally governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-4</num>
         <heading>Confidentiality.</heading>
         <text>To the extent permissible by State law, information obtained from an owner or operator under this subtitle:</text>
@@ -980,6 +1011,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-5</num>
         <heading>Administration and enforcement.</heading>
         <para>
@@ -1040,6 +1072,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-6</num>
         <heading>Penalties.</heading>
         <para>
@@ -1062,6 +1095,7 @@
       <num>10</num>
       <heading>Prohibited Conduct</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-1</num>
         <heading>Property damage; interference at fire.</heading>
         <text>Should any person damage or destroy any property of the Fire Department, or should any person interfere with any unit or member of the Fire Department in the execution of assigned duty or duties, he shall be fined not less than $50 nor more than $500, to be recovered as other City fines are recovered, or 6 months imprisonment, or both.</text>
@@ -1078,6 +1112,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-2</num>
         <heading>False fire alarms.</heading>
         <text>Should any person knowingly give or cause to be given any false alarm of fire by means of a fire alarm box connected with the fire alarm system of the Baltimore City Fire Department, or by means of a telephone connected directly or indirectly with the Fire Department of the City of Baltimore or by any other means, he shall be subject to a fine of not less than $500 or of not more than 1 year imprisonment, or both.</text>
@@ -1099,6 +1134,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-3</num>
         <heading>Unauthorized use of keys.</heading>
         <text>Should any unauthorized person have in his possession, make, or cause to be made, any key or keys to any Fire Department facility, or use, or cause to be used, the same, except the Mayor, Fire Commissioners, Chief of the Fire Department, or other duly authorized member of the Fire Department, without the consent of the proper authority, he shall be subject to a fine of not less than $100, nor more than $200; to be recovered as other fines are recoverable.</text>
@@ -1114,6 +1150,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-4</num>
         <heading>Unauthorized use of uniforms.</heading>
         <text>Should any person or persons not a member of the City Fire Department use the uniform determined upon by the Chief of the Fire Department, or any part thereof, or otherwise represent themselves as members of the Baltimore City Fire Department, without permission, such person or persons shall each be fined not less than $50, nor more than $500, for each and every offense, to be recovered as other fines are recoverable.</text>
@@ -1129,6 +1166,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-5</num>
         <heading>Obstructing fire hydrants.</heading>
         <text>Any person or persons who shall place or cause to be placed, around or near any of the fire hydrants of the City, any goods, structure, or other things, in such a manner as to obstruct the free access to any of said hydrants, shall be subject to a fine of $20, and a further fine of $10 for each and every day that such obstruction may continue, to be recovered as other fines and penalties are recovered.</text>

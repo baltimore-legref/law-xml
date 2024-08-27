@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Definitions; General Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -158,6 +159,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Findings and policy.</heading>
       <para>
@@ -188,6 +190,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Special employees.</heading>
       <text>Anything to the contrary in this article notwithstanding, if the governing body of</text>
@@ -225,6 +228,7 @@
     <num>2</num>
     <heading>Office of Labor Commissioner</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Office created.</heading>
       <para>
@@ -243,6 +247,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Duties.</heading>
       <para>
@@ -277,14 +282,15 @@
         <text>The Labor Commissioner shall study and make recommendations with respect to the establishment, revision, or correction of policies and procedures governing the relations between the City of Baltimore and its employees, including the activities of the Civil Service Commission, the Department of Human Resources, and the Board of Estimates, and further make recommendations with respect to the introduction of ordinances to effectuate these policies.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (a)(2)  to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §121(2nd, 3rd pars.)</annotation>
         <annotation doc="City of Balt., Md., Ord. 68-251" type="History">Ord. 68-251</annotation>
         <annotation doc="City of Balt., Md., Ord. 04-822" type="History">Ord. 04-822</annotation>
         <annotation type="History">Text Conformed 02/18/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (a)(2)  to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Staff; expenses.</heading>
       <para>
@@ -308,6 +314,7 @@
     <num>3</num>
     <heading>Reserved Rights</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Employee rights.</heading>
       <text>Employees shall have, and shall be protected in the exercise of, the right of self-organization, to form, join, assist, or participate in any employee organization, or to refrain from forming, joining, assisting, or participating in any employee organization, freely and without fear of penalty or reprisal, to negotiate collectively through representatives of their own choosing on terms and conditions of employment subject to the limitations herein stated and the administration of grievances arising thereunder, subject to the applicable provisions of any law, ordinance, or charter provisions relating thereto.</text>
@@ -317,6 +324,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Employer rights.</heading>
       <para>
@@ -395,6 +403,7 @@
     <num>4</num>
     <heading>Certification and Recognition of Employee Organizations</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>In general.</heading>
       <para>
@@ -449,6 +458,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Determining questions of representation.</heading>
       <para>
@@ -520,6 +530,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Election of exclusive representative.</heading>
       <para>
@@ -579,6 +590,7 @@
     <num>5</num>
     <heading>Labor Negotiations</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>"Negotiation" defined.</heading>
       <text>The term "negotiation", as used herein, shall include the duty to:</text>
@@ -596,6 +608,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Duty to negotiate.</heading>
       <text>On certification of an employee organization as the exclusive representative of employees, the employer and the employee organization have the duty, through appropriate officials or their representatives, to negotiate collectively with respect to the terms and conditions of employment of the employees in the unit.</text>
@@ -606,6 +619,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Negotiators.</heading>
       <para>
@@ -632,6 +646,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-4</num>
       <heading>Scope limitations.</heading>
       <para>
@@ -674,6 +689,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-5</num>
       <heading>Impasse.</heading>
       <para>
@@ -697,6 +713,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-6</num>
       <heading>Selection of Impasse Panel.</heading>
       <para>
@@ -734,6 +751,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-7</num>
       <heading>Panel findings and recommendations.</heading>
       <para>
@@ -787,6 +805,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-8</num>
       <heading>Time table.</heading>
       <para>
@@ -810,6 +829,7 @@
     <num>6</num>
     <heading>Dues; Service Fees</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Dues check-off.</heading>
       <para>
@@ -846,6 +866,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Service fees.</heading>
       <para>
@@ -870,6 +891,7 @@
     <num>7</num>
     <heading>Unfair Labor Practices</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>In general.</heading>
       <text>The following shall be deemed unfair labor practices which are prohibited.</text>
@@ -879,6 +901,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Prohibited conduct by employer.</heading>
       <text>The employer is prohibited from:</text>
@@ -906,6 +929,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Prohibited conduct by employee organization.</heading>
       <text>Employee organizations are prohibited from:</text>
@@ -927,6 +951,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Referring complaints to third-party agency.</heading>
       <para>
@@ -958,6 +983,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-5</num>
       <heading>Conduct of hearing.</heading>
       <text>Any such hearing shall be conducted without regard for the strict rules of evidence and a transcript of testimony shall be taken.</text>
@@ -967,6 +993,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-6</num>
       <heading>Decision.</heading>
       <para>
@@ -1010,6 +1037,7 @@
     <num>8</num>
     <heading>Negotiated Grievance Procedures</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Authorized.</heading>
       <para>
@@ -1029,6 +1057,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Alternative procedures.</heading>
       <para>
@@ -1060,6 +1089,7 @@
     <num>9</num>
     <heading>Union Activities</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>When activities permitted.</heading>
       <para>
@@ -1078,6 +1108,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2</num>
       <heading>Strikes, secondary boycotts, and picketing prohibited.</heading>
       <para>
@@ -1119,6 +1150,7 @@
     <num>10</num>
     <heading>Professional and Supervisory Units</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Limitation for professional and supervisory units.</heading>
       <para>

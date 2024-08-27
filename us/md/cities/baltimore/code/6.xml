@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Definitions; General Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -66,9 +67,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(h)</num>
@@ -156,22 +155,23 @@
     </section>
     <section>
       <num>1-2</num>
-      <heading>{Repealed by Ord.  22-125}</heading>
+      <reason>Repealed by Ord.  22-125</reason>
       <annotations>
+        <annotation doc="City of Balt., Md., Ord. 93-169" type="History">Ord. 93-169</annotation>
+        <annotation doc="City of Balt., Md., Ord. 15-408" type="History">Ord. 15-408</annotation>
+        <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
         <annotation type="Editor's Notes">
           <text>Ord. 22-125 repealed this section, which contained rules of interpretation that have been superseded by uniform Code-wide rules codified in the newly enacted General Provisions Article.</text>
           <text>For the text of all of the Code-wide rules of interpretation, see General Provisions Article, '' 1-201 (In general), 1-203 (Gender), 1-204 (Mandatory, prohibitory, and permissive terms), 1-205 (Singular and plural), 1-208 (Captions or headers), 1-209 (Editor’s or Revisor’s Notes), 1-211 (Effect of repeal or amendment of statute), 1-212 (References to other laws), 1-214 (Severability), and 1-301 et seq. (Time Computations).</text>
         </annotation>
-        <annotation doc="City of Balt., Md., Ord. 93-169" type="History">Ord. 93-169</annotation>
-        <annotation doc="City of Balt., Md., Ord. 15-408" type="History">Ord. 15-408</annotation>
-        <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
       </annotations>
     </section>
     <section>
       <num>1-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Purpose of article.</heading>
       <para>
@@ -207,6 +207,7 @@
     <num>2</num>
     <heading>Commission for Historical and Architectural Preservation</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>CHAP established.</heading>
       <text>There is a Commission for Historical and Architectural Preservation, constituted as an independent unit of the Department of Planning.</text>
@@ -219,6 +220,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Composition.</heading>
       <para>
@@ -276,6 +278,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Qualifications.</heading>
       <para>
@@ -348,6 +351,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-4</num>
       <heading>Term of appointed members.</heading>
       <para>
@@ -399,6 +403,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-5</num>
       <heading>Officers; Compensation.</heading>
       <para>
@@ -436,6 +441,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-6</num>
       <heading>Executive Director.</heading>
       <para>
@@ -495,6 +501,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-7</num>
       <heading>Staff; Consultants.</heading>
       <para>
@@ -524,6 +531,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-8</num>
       <heading>Meetings; Records.</heading>
       <para>
@@ -567,6 +575,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-9</num>
       <heading>CHAP purposes; Funding.</heading>
       <para>
@@ -637,6 +646,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-10</num>
       <heading>Incentive improvement program.</heading>
       <para>
@@ -669,17 +679,18 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-11</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission for Historical and Architectural Preservation must adopt, after notice and a public hearing, rules and regulations to carry out the provisions of this article.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(i)(1st sen.)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §2-4(a)</annotation>
         <annotation doc="City of Balt., Md., Ord. 64-229" type="History">Ord. 64-229</annotation>
         <annotation doc="City of Balt., Md., Ord. 67-939" type="History">Ord. 67-939</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-408" type="History">Ord. 15-408</annotation>
         <annotation type="History">Text Conformed 02/15/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
   </container>
@@ -688,6 +699,7 @@
     <num>3</num>
     <heading>Designation of Districts</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Ordinance and findings required.</heading>
       <para>
@@ -732,6 +744,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Initial study and proposal by CHAP.</heading>
       <text>After undertaking a full and proper study, the Commission for Historical and Architectural Preservation may propose as an Historical and Architectural Preservation District any area in Baltimore City within which are located structures that have historical or architectural value, the preservation of which is considered to be for the educational, cultural, economic, and general welfare of the public.</text>
@@ -747,6 +760,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>CHAP to prepare proposed ordinance and findings.</heading>
       <text>In support of its proposed designation of an area, the Commission must:</text>
@@ -773,9 +787,10 @@
     </section>
     <section>
       <num>3-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Council action – Agency referrals.</heading>
       <para>
@@ -813,6 +828,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-6</num>
       <heading>Council action – Public notice and hearing.</heading>
       <para>
@@ -928,6 +944,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-7</num>
       <heading>Council action – Disposition.</heading>
       <text>Subject to the requirements of § 3-8 {"Council action – Amendments"} and § 3-9 {"Council action – Limitations"} of this subtitle, the City Council may:</text>
@@ -944,6 +961,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-8</num>
       <heading>Council action – Amendments.</heading>
       <para>
@@ -969,6 +987,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-9</num>
       <heading>Council action – Limitations.</heading>
       <para>
@@ -1028,6 +1047,7 @@
     <num>4</num>
     <heading>Designation of Landmarks</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>List components.</heading>
       <text>The Landmark List consists of two components:</text>
@@ -1044,6 +1064,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Ordinance required.</heading>
       <text>An ordinance of the Mayor and City Council is required to:</text>
@@ -1065,6 +1086,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Criteria for designation.</heading>
       <para>
@@ -1106,9 +1128,10 @@
     </section>
     <section>
       <num>4-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-5</num>
       <heading>Council action – Agency referrals.</heading>
       <para>
@@ -1146,6 +1169,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-6</num>
       <heading>Council action – Public notice and hearing.</heading>
       <para>
@@ -1241,6 +1265,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-7</num>
       <heading>Council action – Disposition.</heading>
       <text>Subject to the requirements of § 4-8 {"Council action – Limitations"} of this subtitle, the City Council may:</text>
@@ -1257,6 +1282,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-8</num>
       <heading>Council action – Limitations.</heading>
       <para>
@@ -1300,6 +1326,7 @@
     <num>5</num>
     <heading>Designation of Potential Landmarks</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>List components.</heading>
       <text>The Potential-Landmark List consists of two components:</text>
@@ -1316,6 +1343,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>CHAP to designate.</heading>
       <text>Only the Commission for Historical and Architectural Preservation may:</text>
@@ -1332,6 +1360,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Criteria for designation.</heading>
       <para>
@@ -1372,6 +1401,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-4</num>
       <heading>Procedure to designate.</heading>
       <para>
@@ -1438,6 +1468,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-5</num>
       <heading>Protections pending decision.</heading>
       <text>From the time the sign is posted until the Commission makes its final decision, the structure is subject to the requirements, procedures, and protections of Subtitle 8 {"Alterations, etc., to or affecting Properties"} of this article.</text>
@@ -1448,6 +1479,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-6</num>
       <heading>Expiration of designation.</heading>
       <text>The inclusion of any property in the Potential-Landmark List: Exteriors or the Potential-Landmark List: Public Interiors, as the case may be, automatically expires:</text>
@@ -1464,6 +1496,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-7</num>
       <heading>Limitations on re-proposal.</heading>
       <para>
@@ -1538,6 +1571,7 @@
     <num>6</num>
     <heading>Inventory of Historic Places</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>CHAP to maintain Inventory.</heading>
       <text>The Commission's Executive Director shall create and maintain an Inventory of Historic Places, to identify areas or structures that, while not designated as Preservation Districts, Landmarks, or Potential Landmarks, are nonetheless historically or architecturally noteworthy.</text>
@@ -1546,6 +1580,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Purpose of Inventory.</heading>
       <text>The primary purpose of the Inventory is to serve as a research and documentation instrument that informs and provides guidance to the Department of Planning and the Commission for Historical and Architectural Preservation.</text>
@@ -1554,6 +1589,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Non-regulatory nature of Inventory.</heading>
       <para>
@@ -1576,6 +1612,7 @@
     <num>7</num>
     <heading>Subdivision of Designated Properties</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Scope of subtitle.</heading>
       <text>This subtitle applies to any land or other property within the boundaries of a structure on the Landmark List: Exteriors or the Potential-Landmark List: Exteriors.</text>
@@ -1584,6 +1621,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Effect of subdivision.</heading>
       <text>If any land or other property subject to this subtitle is subdivided, all lots, plats, sites, or other divisions land resulting from the subdivision are automatically considered to retain the same Landmark or Potential-Landmark designation and protection as the original site had before its subdivision.</text>
@@ -1592,6 +1630,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Planning Commission to notify CHAP of subdivision.</heading>
       <text>As soon as possible after a Final Subdivision Plan has been recorded for any land or other property subject to this subtitle:</text>
@@ -1621,6 +1660,7 @@
     <num>8</num>
     <heading>Alterations, etc., to or Affecting Properties</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Related rules and regulations.</heading>
       <para>
@@ -1654,6 +1694,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Building permit required.</heading>
       <para>
@@ -1732,9 +1773,10 @@
     </section>
     <section>
       <num>8-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-4</num>
       <heading>CHAP to review.</heading>
       <para>
@@ -1778,6 +1820,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-5</num>
       <heading>Public hearing.</heading>
       <para>
@@ -1815,6 +1858,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-6</num>
       <heading>CHAP determination.</heading>
       <para>
@@ -1872,9 +1916,10 @@
     </section>
     <section>
       <num>8-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-8</num>
       <heading>Issuance of Authorization to Proceed.</heading>
       <para>
@@ -1938,6 +1983,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-9</num>
       <heading>Denial of Authorization to Proceed – Districts and Landmarks.</heading>
       <text>In the case of a structure located within a Preservation District or included on the Landmark List, if the Commission determines that an Authorization to Proceed should not be issued, the Commission must promptly notify the applicant and the Building Official in writing of:</text>
@@ -1960,6 +2006,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-10</num>
       <heading>Denial of Authorization to Proceed – Potential Landmarks.</heading>
       <para>
@@ -1996,6 +2043,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-11</num>
       <heading>Building Official bound by CHAP decision.</heading>
       <text>The Building Official is bound by the Commission's determinations under this subtitle and must approve, if otherwise in conformance with the Building, Fire, and Related Codes Article, or disapprove the application for the proposed alteration in accordance with those determinations.</text>
@@ -2011,9 +2059,10 @@
     </section>
     <section>
       <num>8-12</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-13</num>
       <heading>Municipal structures.</heading>
       <para>
@@ -2068,9 +2117,10 @@
     </section>
     <section>
       <num>8-14</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-15</num>
       <heading>Permissible maintenance and repair.</heading>
       <para>
@@ -2099,6 +2149,7 @@
     <num>9</num>
     <heading>Judicial Review and Enforcement</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -2124,9 +2175,10 @@
     </section>
     <section>
       <num>9-2 to 9-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-6</num>
       <heading>Enforcement generally.</heading>
       <para>
@@ -2146,6 +2198,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-7</num>
       <heading>Injunctions.</heading>
       <text>On application of the Commission, the District Court or the Circuit Court for Baltimore City may:</text>
@@ -2176,6 +2229,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-8</num>
       <heading>Criminal penalties.</heading>
       <para>
@@ -2209,6 +2263,7 @@
     <num>11</num>
     <heading>Preservation Districts</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Mount Vernon District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be an Historical and Architectural Preservation District, and may be referred to as "Mount Vernon Historical and Architectural Preservation District":</text>
@@ -2228,6 +2283,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Bolton Hill District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be an Historical and Architectural Preservation District, and may be referred to as "Bolton Hill Historical and Architectural Preservation District":</text>
@@ -2244,10 +2300,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-3</num>
       <heading>Seton Hill District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be an Historical and Architectural Preservation District, and may be referred to as "Seton Hill Historical and Architectural Preservation District":</text>
-      <text>Beginning for the same at the point formed by the intersection of the center line of Eutaw Street, as now laid out 66 feet wide and the center line of Franklin Street, as now laid out 66 feet wide, and running thence binding on the center line of said Franklin Street and crossing Paca Street westerly 760 feet, more or less, to intersect the center line of Pennsylvania Avenue, as now laid out; thence binding on the center line of said Pennsylvania Avenue northwesterly 675 feet, more or less, to intersect the center line of Orchard Street, as now laid out 60 feet wide; thence binding on the center line of said Orchard Street and crossing Tessier Street and Druid Hill Avenue northeasterly 1,150 feet, more or less, to intersect the center line of McCulloh Street, as now laid out 65 feet wide; thence binding on the center line of said McCulloh Street and crossing St. Mary Street South 38\uF0B0-12'-00" East 415 feet, more or less, to intersect a line drawn parallel with and distant 30.0 feet northeasterly, measured at right angles, from the southwest side of Monument Street, as now laid out; thence binding on said line so drawn southeasterly 135 feet, more or less, to intersect the center line of said Eutaw Street and thence binding on the center line of said Eutaw Street and crossing Druid Hill Avenue and George Street southerly 835 feet, more or less, to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the center line of Eutaw Street, as now laid out 66 feet wide and the center line of Franklin Street, as now laid out 66 feet wide, and running thence binding on the center line of said Franklin Street and crossing Paca Street westerly 760 feet, more or less, to intersect the center line of Pennsylvania Avenue, as now laid out; thence binding on the center line of said Pennsylvania Avenue northwesterly 675 feet, more or less, to intersect the center line of Orchard Street, as now laid out 60 feet wide; thence binding on the center line of said Orchard Street and crossing Tessier Street and Druid Hill Avenue northeasterly 1,150 feet, more or less, to intersect the center line of McCulloh Street, as now laid out 65 feet wide; thence binding on the center line of said McCulloh Street and crossing St. Mary Street South 38°-12'-00" East 415 feet, more or less, to intersect a line drawn parallel with and distant 30.0 feet northeasterly, measured at right angles, from the southwest side of Monument Street, as now laid out; thence binding on said line so drawn southeasterly 135 feet, more or less, to intersect the center line of said Eutaw Street and thence binding on the center line of said Eutaw Street and crossing Druid Hill Avenue and George Street southerly 835 feet, more or less, to the place of beginning.</text>
       <text>Provided, however, that not withstanding the provisions hereinabove in this section, the following properties are excluded from and are not included in the described area:</text>
       <para>
         <num>(1)</num>
@@ -2297,10 +2354,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-4</num>
       <heading>Seton Hill District Addition.</heading>
       <text>The parcel of land located within the boundaries set forth in this section is hereby declared to be within the Seton Hill Historical and Architectural District:</text>
-      <text>Beginning for the same at the point formed by the intersection of the center line of Eutaw Street, as now laid out 66 feet wide, and the center line of Franklin Street, as now laid out 66 feet wide, and running thence binding on the center line of said Franklin Street and crossing Paca Street Westerly 760 feet, more or less, to intersect the center line of Pennsylvania Avenue, as now laid out; thence binding on the center line of said Pennsylvania Avenue Northwesterly 675 feet, more or less, to intersect the center line of Orchard Street, as now laid out 60 feet wide; thence binding on the center line of said Orchard Street and crossing Tessier Street and Druid Hill Avenue Northeasterly 1,150 feet, more or less, to intersect the center line of McCulloh Street, as now laid out 65 feet wide; thence binding on the center line of said McCulloh Street and crossing St. Mary Street South 38\uF0B0-12'-00" East 415 feet, more or less, to intersect a line drawn parallel with and distant 30.0 feet northerly, measured at right angles, from the southwest side of Monument Street, as now laid out; thence binding on said line so drawn Southeasterly 135 feet, more or less, to intersect the center line of said Eutaw Street; thence binding on the center line of said Eutaw Street, Southerly 245 feet, more or less, to intersect the line of the southwest side of Centre Street, as now laid out 60 feet wide, if projected northwesterly; thence binding in part reversely on said line so projected, in part on the southwest side of said Centre Street, and in all, Southeasterly 132 feet, more or less, to the west side of Academy Alley, as now laid out 16 feet wide; thence binding on the west side of Academy Alley, southerly 201 feet, more or less, to intersect the north side of George Street, as now laid out; thence binding, in part on the north side of said George Street, if projected westerly, and in all Westerly 116 feet, more or less, to intersect the center line of said Eutaw Street and thence binding on the center line of said Eutaw Street, Southerly 333 feet, more or less, to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the center line of Eutaw Street, as now laid out 66 feet wide, and the center line of Franklin Street, as now laid out 66 feet wide, and running thence binding on the center line of said Franklin Street and crossing Paca Street Westerly 760 feet, more or less, to intersect the center line of Pennsylvania Avenue, as now laid out; thence binding on the center line of said Pennsylvania Avenue Northwesterly 675 feet, more or less, to intersect the center line of Orchard Street, as now laid out 60 feet wide; thence binding on the center line of said Orchard Street and crossing Tessier Street and Druid Hill Avenue Northeasterly 1,150 feet, more or less, to intersect the center line of McCulloh Street, as now laid out 65 feet wide; thence binding on the center line of said McCulloh Street and crossing St. Mary Street South 38°-12'-00" East 415 feet, more or less, to intersect a line drawn parallel with and distant 30.0 feet northerly, measured at right angles, from the southwest side of Monument Street, as now laid out; thence binding on said line so drawn Southeasterly 135 feet, more or less, to intersect the center line of said Eutaw Street; thence binding on the center line of said Eutaw Street, Southerly 245 feet, more or less, to intersect the line of the southwest side of Centre Street, as now laid out 60 feet wide, if projected northwesterly; thence binding in part reversely on said line so projected, in part on the southwest side of said Centre Street, and in all, Southeasterly 132 feet, more or less, to the west side of Academy Alley, as now laid out 16 feet wide; thence binding on the west side of Academy Alley, southerly 201 feet, more or less, to intersect the north side of George Street, as now laid out; thence binding, in part on the north side of said George Street, if projected westerly, and in all Westerly 116 feet, more or less, to intersect the center line of said Eutaw Street and thence binding on the center line of said Eutaw Street, Southerly 333 feet, more or less, to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(bb-1)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §7-4</annotation>
@@ -2309,6 +2367,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-5</num>
       <heading>Dickeyville District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be an Historical and Architectural Preservation District, and may be referred to as "Dickeyville Historical and Architectural Preservation District":</text>
@@ -2321,6 +2380,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-6</num>
       <heading>Union Square District.</heading>
       <text>Beginning for the same at the point formed by the intersection of the north side of Baltimore Street and the west outline of the property known as No. 1800 W. Baltimore Street and running thence binding on the west outline of said property, Northerly 104 feet, more or less, to the south side of a 9.5 foot alley; thence binding on the south side of said 9.5 foot alley, Easterly 16 feet, more or less, to intersect the west side of Fulton Avenue; thence binding on the west side of said Fulton Avenue, Southerly 44 feet, more or less, to intersect the line of the north outline of the property known as No. 1 North Fulton Avenue if projected westerly; thence binding in part reversely on said line so projected in part on the north outline of last said property and in all, Easterly 177 feet, more or less, to the west side of a 10 foot alley; thence binding on the west side of last said 10 foot alley, Southerly 10 feet, more or less, to intersect the line of the north outline of the property known as 1726/30 W. Baltimore Street if projected westerly; thence binding in part reversely on last said line so projected, in part on the north outline of last said property, in part on the line of the north outline of said property if projected easterly and in all, Easterly 80 feet, more or less, to intersect the east side of Bruce Street; thence binding on the east side of said Bruce Street, Northerly 10 feet, more or less, to the north outline of the property known as No. 1724 W. Baltimore Street; thence binding in part on the north outline of the properties known as Nos. 1724 through and including 1700/02 W. Baltimore Street, in part on the line of the north outline of the property known as No. 1700/02 W. Baltimore Street if projected easterly and in all, Easterly 223 feet, more or less, to intersect the east side of Mount Street; thence binding on the east side of said Mount Street, Northerly 40 feet, more or less, to the north outline of the property known as No. 1640 W. Baltimore Street; thence binding on the north outline of the properties known as Nos. 1640 through and including 1622 W. Baltimore Street, Easterly 157 feet, more or less, to the west side of Vincent Street; thence binding on the west side of said Vincent Street, Southerly 10 feet, more or less, to intersect the line of the north outline of the property known as No. 1620 W. Baltimore Street if projected westerly; thence binding in part reversely on last said line so projected, in part on the north outline of the properties known as Nos. 1620 through and including 1600 W. Baltimore Street, in part on the line of the north outline of the property known as No. 1600 W. Baltimore Street if projected easterly and in all, Easterly 243 feet, more or less, to intersect the east side of Gilmor Street; thence binding on the east side of said Gilmor Street, Northerly 10 feet, more or less, to the north outline of the property known as No. 1538 W. Baltimore Street; thence binding in part on the north outline of last said property, in part on the north outline of last said property if projected easterly and in all, Easterly 54 feet, more or less, to intersect the east side of a 5 foot alley; thence binding on the east side of said 5 foot alley, Southerly 1 foot more or less, to the north outline of the property known as No. 1532/1518 W. Baltimore Street; thence binding on the north outline of the properties known as Nos. 1532/1518 through and including 1508 W. Baltimore Street, Easterly 201 feet, more or less, to an east outline of the property known as No. 1508 W. Baltimore Street; thence binding on the east outline of last said property, Southerly 6 feet, more or less, to the north outline of the property known as No. 1506 W. Baltimore Street; thence binding on the north and east outlines of last said property the two following courses and distances; namely, Easterly 28 feet, more or less, and Southerly 19 feet, more or less, to the north outline of the property known as No. 1504 W. Baltimore Street; thence binding on the north outline of last said property, Easterly 17 feet, more or less to the westernmost outline of the property known as No. 1500 W. Baltimore Street; thence binding on the westernmost and northernmost outlines of last said property the two following courses and distances; namely, Northerly 15 feet, more or less, and Easterly 34 feet, more or less, to the west side of Stricker Street; thence by a straight line, crossing said Stricker Street, Easterly 66 feet, more or less, to the point formed by the intersection of the east side of said Stricker Street and the north outline of the property known as No. 1436 W. Baltimore Street; thence binding on the north outline of the properties known as Nos. 1436 through and including 1424 W. Baltimore Street, Easterly 157 feet, more or less, to the west side of Norris Alley; thence binding on the west side of said Norris Alley, Southerly 6 feet, more or less, to intersect the line of the north outline of the property known as No. 1418/1416 W. Baltimore Street if projected westerly; thence binding in part reversely on last said line so projected, in part on the north outline of the properties known as Nos. 1418/1416 through and including 1400 W. Baltimore Street, in part on the line of the north outline of the property known as No. 1400 W. Baltimore Street if projected easterly and in all, Easterly 242 feet, more or less, to intersect the east side of Calhoun Street; thence binding on the east side of said Calhoun Street, Southerly 46 feet, more or less, to the northernmost outline of the property known as No. 1/3 N. Calhoun Street; thence binding on the northernmost, east, and north outlines of last said property the three following courses and distances; namely, Easterly 31 feet, more or less, Southerly 3 feet, more or less, and Easterly 69 feet, more or less, to the west outline of the property known as No. 1318 W. Baltimore Street; thence binding on the west outline of last said property, Northerly 15 feet, more or less, to the north outline of last said property; thence binding in part on the north outline of the properties known as Nos. 1318 through and including 1314 W. Baltimore Street, in part on the line of the north outline of the property known as No. 1314 W. Baltimore Street if projected easterly and in all, Easterly 74 feet, more or less, to intersect the east side of Woodyear Street; thence binding on the east side of said Woodyear Street, Northerly 30 feet, more or less, to the north outline of the property known as No. 1312/1310 W. Baltimore Street; thence binding on the north and east outlines of last said property the two following courses and distances; namely, Easterly 48 feet, more or less, and Southerly 65 feet, more or less, to the north outline of the property known as No. 2 N. Carey Street; thence binding in part on the north outline of last said property, in part on the line of the north outline of last said property if projected easterly and in all, Easterly 175 feet, more or less, to intersect the east side of Carey Street; thence binding on the east side of said Carey Street, Northerly 27 feet, more or less, to the north outline of the property known as No. 1/3 N. Carey Street; thence binding on the north outline of last said property, Easterly 116 feet, more or less, to the east outline of last said property; thence binding on the east outline of last said property, Southerly 3 feet, more or less, to the north outline of the property known as No. 1220 W. Baltimore Street; thence binding in part on the north outline of the properties known as No. 1220 and No. 1218 W. Baltimore Street, in part on the line of the north outline of last said property if projected easterly and in all, Easterly 61 feet, more or less, to intersect the east side of Stockton Street; thence binding on the east side of said Stockton Street, Northerly 7 feet, more or less, to the north outline of the property known as No. 1216 W. Baltimore Street; thence binding on the north outline of the properties known as No. 1216 and No. 1214 W. Baltimore Street, Easterly 36 feet, more or less, to the west outline of the property known as No. 1212/1210 W. Baltimore Street; thence binding in part on the west outline of last said property, in part on the line of the west outline of the last said property if projected northerly and in all, Northerly 140 feet, more or less, to intersect the north side of Fairmount Avenue; thence binding in part on the north side of said Fairmount Avenue, in part on the line of the north side of said Fairmount Avenue if projected easterly and in all, Easterly 187 feet, more or less, to intersect the east side of Carrollton Avenue; thence binding on the east side of said Carrollton Avenue, Southerly 110 feet, more or less, to the north outline of the property known as No. 1128 W. Baltimore Street; thence binding on the north outline of last said property, Easterly 12 feet, more or less, to the west outline of the property known as No. 1126 W. Baltimore Street; thence binding on the west outline of last said property, Northerly 75 feet, more or less, to the south side of Fairmount Avenue; thence binding on the south side of said Fairmount Avenue, easterly 141 feet, more or less, to the east outline of the property known as No. 1120/1110 W. Baltimore Street; thence binding on the east outline of last said property, Southerly 60 feet, more or less, to the north outline of the property known as No. 1108 W. Baltimore Street; thence binding on the north outline of the properties known as Nos. 1108 through and including 1104 W. Baltimore Street, Easterly 59 feet, more or less, to the east outline of the property known as No. 1104 W. Baltimore Street; thence binding on the east outline of last said property, Southerly 20 feet, more or less, to the north outline of the property known as No. 1102 W. Baltimore Street; thence binding in part on the north outline of the properties known as No. 1102 and No. 1100 W. Baltimore Street, in part on the line of the north outline of last said property if projected easterly and in all, Easterly 53 feet, more or less, to the east side of Carlton Street; then binding on the east side of said Carlton Street, Northerly 5 feet, more or less, to the north outline of the property known as No. 1058 W. Baltimore Street; thence binding on the north outline of the properties known as No. 1058 and No. 1056 W. Baltimore Street, Easterly 37 feet, more or less, to the west outline of the property known as No. 1054 W. Baltimore Street; thence binding on the west outline of last said property, Northerly 22 feet, more or less, to the north outline of last said property; thence binding on the north outline of last said property and continuing to bind on the northernmost outline of the property known as No. 1052 W. Baltimore Street, Easterly 30 feet, more or less, to an east outline of last said property; thence binding on an east outline of last said property Southerly 4 feet, more or less, to a north outline of last said property; thence binding on the north outline of the properties known as Nos. 1052 through and including 1042 W. Baltimore Street, Easterly 77 feet, more or less, to the west outline of the property known as No. 1040/1032 W. Baltimore Street; thence binding in part on the west outline of last said property, in part on the line of the west outline of last said property if projected northerly and in all, Northerly 85 feet, more or less, to intersect the north side of Fairmount Avenue; thence binding in part on the north side of said Fairmount Avenue, in part on the line of the north side of said Fairmount Avenue if projected easterly and in all, Easterly 425 feet, more or less, to intersect the east side of Schroeder Street; thence binding on the east side of said Schroeder Street, Southerly 93 feet, more or less, to the north outline of the property known as No. 946 W. Baltimore Street; thence binding on the north outline of last said property, Easterly 16 feet, more or less, to the east outline of last said property; thence binding in part on the east outline of last said property, in part on the line of the east outline of last said property if projected southerly and in all, Southerly 143 feet, more or less, to intersect the south side of Baltimore Street; thence binding on the south side of said Baltimore Street, Easterly 1 foot, more or less, to the east outline of the property known as No. 947 W. Baltimore Street; thence binding on the east outline of last said property, Southerly 61 feet, more or less, to the north outline of the property known as No. 3 S. Schroeder Street; thence binding on the north outline of last said property, Easterly 27 feet, more or less, to the east outline of last said property; thence binding in part on the east outline of the properties known as Nos. 3 through and including 13 S. Schroeder Street, in part on the line of the east outline of the property known as No. 13 S. Schroeder Street if projected southerly and in all, Southerly 98 feet, more or less, to intersect the south side of Booth Street; thence binding on the south side of said Booth Street, Westerly 44 feet, more or less, to intersect the east side of Schroeder Street; thence binding on the east side of said Schroeder Street, Southerly 426 feet, more or less, to the north outline of the property known as No. 950 W. Lombard Street; thence binding on the north outline of last said property, Easterly 14 feet, more or less, to the east outline of last said property; thence binding on the east outline of last said property, Southerly 69 feet, more or less, to the north side of Lombard Street; thence binding on the north side of said Lombard Street, crossing Schroeder Street, Mt. Clare Street, Arlington Avenue, Carlton Street, Carrollton Avenue, Stockton Street, and Carey Street, Westerly 1325 feet, more or less, to the northwest corner of Lombard Street and Carey Street; thence binding on the west side of said Carey Street, Southerly 216 feet, more or less, to intersect the north side of Lemmon Street; thence binding on the north side of said Lemmon Street, Westerly 84 feet, more or less, to intersect the extension of the west side of the second 3 foot alley west of Carey Street; thence binding on the extension of and the west side of said 3 foot alley, Southerly 197 feet, more or less, to intersect the south side of Pratt Street; thence binding on the south side of Pratt Street, Westerly 8 feet, more or less, to the western property line of No. 1311 West Pratt Street; thence binding on the western property line of No. 1311 West Pratt Street, Southerly 90 feet, more or less, to the north side of the first 10 foot alley; thence binding in part on the south outline of the properties known as No. 1313 through and including No. 1321 W. Pratt Street, in part on the line of the south outline of the property known as No. 1321 W. Pratt Street, if projected westerly, and in all, Westerly 86 feet, more or less, to intersect the west side of Woodyear Street; thence binding on the west side of said Woodyear Street, Northerly 20 feet, more or less, to the south outline of the property known as No. 1323 W. Pratt Street; thence binding on the south outline of the properties known as Nos. 1323 through and including 1337 W. Pratt Street, Westerly 96 feet, more or less, to the west outline of the property known as No. 1337 W. Pratt Street; thence binding on the west outline of last said property, Northerly 55 feet, more or less, to intersect the line of the south outline of the property known as No. 201 S. Calhoun Street if projected easterly; thence binding in part reversely on last said line so projected, in part on the south outline of last said property, in part on the line of the south outline of last said property if projected westerly and in all, Westerly 127 feet more or less, to intersect the west side of Calhoun Street; thence binding on the west side of said Calhoun Street, Southerly 35 feet, more or less, to the south outline of the property known as No. 200/06 S. Calhoun Street; thence binding in part on the south outline of last said property, in part on the line of the south outline of last said property if projected westerly and in all, Westerly 177 feet, more or less, to intersect the west side of Norris Street; thence binding on the west side of said Norris Street, Southerly 20 feet, more or less, to the south outline of the property known as No. 1409 W. Pratt Street; thence binding on the south outline of the properties known as Nos. 1409 through and including 1419 W. Pratt Street, Westerly 84 feet, more or less, to the west outline of the property known as No. 1419 W. Pratt Street; thence binding on the west outline of last said property, Northerly 56 feet, more or less, to intersect the line of the south outline of the property known as No. 201 S. Stricker Street if projected easterly; thence binding in part reversely on last said line so projected, in part on the south outline of last said property, in part on the line of the south outline of last said property if projected westerly and in all, Westerly 138 feet, more or less, to intersect the west side of Stricker Street; thence binding on the west side of said Stricker Street, Northerly 1 foot, more or less, to the south outline of the property known as No. 200 S. Stricker Street; thence binding in part on the south outline of last said property, in part on the line of the south outline of last said property if projected westerly and in all, Westerly 66 feet, more or less, to intersect the east outline of the property known as No. 1505 W. Pratt Street; thence binding on the east outline of last said property, Southerly 52 feet, more or less, to the south outline of last said property; thence binding on the south outline of the properties known as Nos. 1505 through and including 1517 W. Pratt Street, Westerly 91 feet, more or less, to the east side of Parrish Street; thence binding on the east side of said Parrish Street, Southerly 8 feet, more or less, to intersect the line of the south outline of the property known as No. 1519 W. Pratt Street if projected easterly; thence binding in part reversely on last said line so projected, in part on the south outline of the properties known as Nos. 1519 through and including 1527 W. Pratt Street and in all, Westerly 93 feet, more or less, to the west outline of the property known as No. 1527 W. Pratt Street; thence binding on the west outline of last said property, Northerly 57 feet, more or less, to intersect the line of the south outline of the property known as No. 201 S. Gilmor Street if projected easterly; thence binding in part reversely on last said line so projected, in part on the south outline of last said property, in part on the line of the south outline of last said property if projected westerly and in all, Westerly 150 feet, more or less, to intersect the west side of Gilmor Street; thence binding on the west side of Gilmor Street, Northerly 1 foot, more or less, to the south outline of the property known as No. 200 S. Gilmor Street; thence binding in part on the south outline of last said property, in part on the line of the south outline of last said property if projected westerly and in all, Westerly 78 feet, more or less, to intersect the east outline of the property known as No. 1601 W. Pratt Street; thence binding on the east, south, and west outlines of last said property the three following courses and distances; namely, Southerly 64 feet, more or less, Westerly 16 feet, more or less, and Northerly 22 feet, more or less, to the south outline of the property known as No. 1603 W. Pratt Street; thence binding on the south outline of the properties known as Nos. 1603 and including 1609 W. Pratt Street, Westerly 50 feet, more or less, to the east outline of the property known as No. 1611 W. Pratt Street; thence binding on the east outline of last said property, Southerly 2 feet, more or less, on the south outline of last said property; thence binding in part on the south outline of last said property, in part on the line of the south outline of last said property if projected westerly and in all, Westerly 33 feet, more or less, to intersect the west side of said Vincent Street; thence binding on the west side of Vincent Street, Southerly 10 feet, more or less, to the south outline of the property known as No. 1613 W. Pratt Street; thence binding in part on the south outline of the properties known as Nos. 1613 through and including 1635 W. Pratt Street, in part on the line of the south outline of the property known as No. 1635 W. Pratt Street if projected westerly and in all, Westerly 223 feet, more or less, to intersect the west side of Mount Street; thence binding on the west side of said Mount Street, Southerly 156 feet, more or less, to a south outline of the property known as No. 1700 McHenry Street; thence binding on the south and east outlines of last said property the two following courses and distances; namely, Westerly 60 feet, more or less, and Southerly 55 feet, more or less, to the north side of McHenry Street; thence binding on the north side of said McHenry Street, Westerly 96 feet, more or less, to intersect the east side of Bruce Street; thence binding on the east side of said Bruce Street, Northerly 219 feet, more or less, to intersect the line of the south outline of the property known as No. 1719 W. Pratt Street if projected easterly; thence binding in part reversely on last said line so projected, in part on the south outline of the properties known as Nos. 1719 through and including 1725 W. Pratt Street, in part on the line of the south outline of the property known as No. 1725 W. Pratt Street if projected westerly, crossing a 10 foot alley, in part on the south outline of the properties known as Nos. 1727 through and including 1735 W. Pratt Street and in all, Westerly 160 feet, more or less, to the east outline of the property known as No. 1737 W. Pratt Street; thence binding on the east outline of last said property, Southerly 2 feet, more or less, to the south outline of last said property; thence binding in part on the south outline of last said property, in part on the line of the south outline of last said property if projected westerly and in all, Westerly 83 feet, more or less, to intersect the west side of Fulton Avenue; thence binding on the west side of said Fulton Avenue, Southerly 8 feet, more or less, to the south outline of the property known as No. 1801 W. Pratt Street; thence binding on the south outline of last said property, Westerly 16 feet, more or less, to the west outline of last said property; thence binding in part on the west outline of last said property, in part on the line of the west outline of last said property if projected northerly and in all, Northerly 136 feet, more or less, to intersect the north side of Pratt Street; thence binding on the north side of said Pratt Street, Westerly 84 feet, more or less, to the west outline of the property known as No. 1800 W. Pratt Street; thence binding in part on the west outline of the property known as No. 1800 W. Pratt Street, in part on the west outline of the properties known as Nos. 126 through and including 122 S. Fulton Avenue and in all, Northerly 108 feet, more or less, to the south outline of the property known as No. 120 S. Fulton Avenue; thence binding on the south, west, and north outlines of last said property the three following courses and distances; namely, Westerly 56 feet, more or less, Northerly 18 feet, more or less, and Easterly 14 feet, more or less, to the west outline of the property known as No. 118 S. Fulton Avenue; thence binding on the west and north outlines of last said property the two following courses and distances; namely, Northerly 15 feet, more or less, and Easterly 62 feet, more or less, to the west outline of the property known as No. 116 S. Fulton Avenue; thence binding on the west outline of the properties known as Nos. 116 through and including 110 S. Fulton Avenue, Northerly 60 feet, more or less, to the south outline of the property known as No. 108 S. Fulton Avenue; thence binding on the south outline of last said property, Westerly 20 feet, more or less, to the west outline of last said property; thence binding in part on the west outline of the properties known as Nos. 108 through and including 104/100 S. Fulton Avenue, in part on the line of the west outline of the property known as No. 104/100 S. Fulton Avenue if projected northerly and in all, Northerly 163 feet, more or less, to intersect the north side of Lombard Street, thence binding on the north side of said Lombard Street, Easterly 10 feet, more or less, to the west outline of the property known as No. 54 S. Fulton Avenue; thence binding on the west outline of the properties known as Nos. 54 through and including 46 S. Fulton Avenue, Northerly 90 feet, more or less, to the south outline of the property known as No. 44 S. Fulton Avenue; thence binding on the south outline of last said property, Westerly 35 feet, more or less, to the west outline of last said property; thence binding on the west outline of the properties known as No. 44 and No. 42 S. Fulton Avenue; Northerly 36 feet, more or less, to the south outline of the property known as No. 40 S. Fulton Avenue; thence binding on the south and west outlines of last said property the two following courses and distances; namely, Westerly 7 feet, more or less, and Northerly 18 feet, more or less, to the south outline of the property known as No. 38 S. Fulton Avenue; thence binding on the south outline of last said property, Westerly 70 feet, more or less, to the east side of Addison Street; thence binding on the east side of said Addison Street, Northerly 18 feet, more or less, to the north outline of last said property; thence binding on the north outline of last said property, Easterly 105 feet, more or less, to the west outline of the property known as No. 36 S. Fulton Avenue; thence binding in part on the west outline of the properties known as Nos. 36 through and including 26/22 S. Fulton Avenue, in part on the line of the west outline of the property known as No. 26/22 S. Fulton Avenue if projected northerly and in all, Northerly 210 feet, more or less, to intersect the north side of Hollins Street; thence binding on the north side of said Hollins Street, Westerly 105 feet, more or less, to intersect the line of the east side of Addison Street if projected northerly; thence binding on last said line so projected, Northerly 150 feet, more or less, to intersect the north side of Booth Street, thence binding on the north side of said Booth Street, Easterly 182 feet, more or less, to the west outline of the property known as No. 1801 W. Baltimore Street; thence binding in part on the west outline of last said property, in part on the line of the west outline of last said property if projected northerly and in all, Northerly 233 feet, more or less, to intersect the north side of said Baltimore Street and thence binding on the north side of said Baltimore Street, Westerly 10 feet, more or less, to the place of beginning.</text>
@@ -2333,6 +2393,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-7</num>
       <heading>Mt. Royal Terrace-Reservoir Hill District.</heading>
       <text>The parcel of land located within the boundaries set forth in this section is hereby declared to be within the Mt. Royal Terrace-Reservoir Hill Historical and Architectural District:</text>
@@ -2349,6 +2410,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-8</num>
       <heading>Madison Park District.</heading>
       <text>The parcel of land located within the boundaries set forth in this section are hereby declared to be within the Madison Park Historic and Architectural Preservation District.</text>
@@ -2361,6 +2423,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-9</num>
       <heading>Waverly District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be a Historic and Architectural District and may be referred to as Waverly Historic and Architectural District:</text>
@@ -2374,6 +2437,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-10</num>
       <heading>Loft District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be a Historic and Architectural District and may be referred to as Loft Historic and Architectural District:</text>
@@ -2391,6 +2455,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-11</num>
       <heading>Ridgely's Delight District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be a Historic and Architectural District, and may be referred to as Ridgely's Delight Historical and Architectural Preservation District:</text>
@@ -2405,10 +2470,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-12</num>
       <heading>Stirling Street District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be a Historical and Architectural District and may be referred to as Stirling Street Historical and Architectural Preservation District:</text>
-      <text>Beginning for the same at the point formed by the intersection of the south side of Monument Street, as now laid out 66 feet wide and west side of Flatiron Alley, 51 feet wide, as shown on the final subdivision plan of the Department of Housing and Community Development Oldtown Project recorded or intended to be recorded among the Land Records of Baltimore City immediately prior hereto and running thence binding on the west side of said Flatiron Alley, South 02\uF0B0-55'-25" East 50.97 feet to the northwest side of Flatiron Alley, varying in width, as shown on said final subdivision plan; thence binding on the northwest side of last said Flatiron Alley, varying in width, by a line curving to the right with a radius of 16.01 feet the distance of 8.20 feet which arc is subtended by a chord bearing South 53\uF0B0-07'-16" West 8.11 feet; thence binding in part on the northwest side of last said Flatiron Alley, varying in width, in part on the northwest side of Flatiron Alley, 36 feet wide, as shown on said final subdivision plan, and in all, South 67\uF0B0-47'-40" West 39.65 feet; thence binding in part on the northwest side of last said Flatiron Alley, 36 feet wide, in part on northwest side of Flatiron Alley, varying in width, as shown on said final subdivision plan, and in all, by a line curving to the left with a radius of 121.00 feet the distance of 97.00 feet which arc is subtended by a chord bearing 44\uF0B0-49'-42" West 94.43 feet; thence continuing to bind on the northwest side of last said Flatiron Alley, varying in width, by a line curving to the right with a radius of 60.00 feet the distance of 25.45 feet which arc is subtended by a chord bearing South 34\uF0B0-00'-54.5" West 25.26 feet; thence binding on the northwest side of Flatiron Alley, 36 feet wide, as shown on said final subdivision plan, South 46\uF0B0-10'-05" West 357.42 feet to the northeast side of Mott Street, 60 feet wide, as shown on said final subdivision plan; thence binding on the northeast side of said Mott Street, North 40\uF0B0-57'-55" West 213.15 feet to the southeast side of Ensor Street, as realigned and widened, as shown on said final subdivision plan; thence binding on the southeast side of said Ensor Street, as realigned and widened, the three following courses and distances; namely, by a line curving to the right with a radius of 414.74 feet the distance of 16.83 feet which arc is subtended by a chord bearing North 45\uF0B0-38'-20.5" East 16.83 feet, by a line curving to the left with a radius of 562.62 feet the distance of 185.42 feet which arc is subtended by a chord bearing North 37\uF0B0-20'-35.5" East 184.59 feet and by a line curving to the right with a radius of 136.34 feet the distance of 140.81 feet which arc is subtended by a chord bearing North 57\uF0B0-29'-20.5" East 134.63 feet to the south side of said Monument Street and thence binding on the south side of said Monument Street, North 87\uF0B0-04'-35" East 281.71 feet to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the south side of Monument Street, as now laid out 66 feet wide and west side of Flatiron Alley, 51 feet wide, as shown on the final subdivision plan of the Department of Housing and Community Development Oldtown Project recorded or intended to be recorded among the Land Records of Baltimore City immediately prior hereto and running thence binding on the west side of said Flatiron Alley, South 02°-55'-25" East 50.97 feet to the northwest side of Flatiron Alley, varying in width, as shown on said final subdivision plan; thence binding on the northwest side of last said Flatiron Alley, varying in width, by a line curving to the right with a radius of 16.01 feet the distance of 8.20 feet which arc is subtended by a chord bearing South 53°-07'-16" West 8.11 feet; thence binding in part on the northwest side of last said Flatiron Alley, varying in width, in part on the northwest side of Flatiron Alley, 36 feet wide, as shown on said final subdivision plan, and in all, South 67°-47'-40" West 39.65 feet; thence binding in part on the northwest side of last said Flatiron Alley, 36 feet wide, in part on northwest side of Flatiron Alley, varying in width, as shown on said final subdivision plan, and in all, by a line curving to the left with a radius of 121.00 feet the distance of 97.00 feet which arc is subtended by a chord bearing 44°-49'-42" West 94.43 feet; thence continuing to bind on the northwest side of last said Flatiron Alley, varying in width, by a line curving to the right with a radius of 60.00 feet the distance of 25.45 feet which arc is subtended by a chord bearing South 34°-00'-54.5" West 25.26 feet; thence binding on the northwest side of Flatiron Alley, 36 feet wide, as shown on said final subdivision plan, South 46°-10'-05" West 357.42 feet to the northeast side of Mott Street, 60 feet wide, as shown on said final subdivision plan; thence binding on the northeast side of said Mott Street, North 40°-57'-55" West 213.15 feet to the southeast side of Ensor Street, as realigned and widened, as shown on said final subdivision plan; thence binding on the southeast side of said Ensor Street, as realigned and widened, the three following courses and distances; namely, by a line curving to the right with a radius of 414.74 feet the distance of 16.83 feet which arc is subtended by a chord bearing North 45°-38'-20.5" East 16.83 feet, by a line curving to the left with a radius of 562.62 feet the distance of 185.42 feet which arc is subtended by a chord bearing North 37°-20'-35.5" East 184.59 feet and by a line curving to the right with a radius of 136.34 feet the distance of 140.81 feet which arc is subtended by a chord bearing North 57°-29'-20.5" East 134.63 feet to the south side of said Monument Street and thence binding on the south side of said Monument Street, North 87°-04'-35" East 281.71 feet to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(kk)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §7-12</annotation>
@@ -2417,6 +2483,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-13</num>
       <heading>Butchers Hill District.</heading>
       <text>Beginning for the same at the southeastern intersection of North Chester Street and Moyer Street; thence binding easterly on Moyer Street 60'3" more or less to intersect a 9'9" alley running parallel to North Chester Street; thence binding southernly on said alley 53'9" more or less to intersect a 10' alley running parallel to East Baltimore Street 100' north of East Baltimore Street; thence binding easternly on the southern edge of said alley 160' more or less to intersect North Duncan Street; thence crossing North Duncan Street and binding easternly 84' more or less on the northern outlines of the properties known as 2122 through 2130 East Baltimore Street; thence binding southernly 12' more or less on the eastern outline of the property known as 2130 East Baltimore Street to intersect the northern outline of the property known as 2132 East Baltimore Street; thence binding easternly 69' more or less on the northern outlines of the properties known as 2132 through 2140 East Baltimore Street to intersect North Collington Avenue; thence crossing North Collington Avenue and binding easternly 140' more or less on the northern outlines of the properties known as 2200 through 2216 East Baltimore Street to intersect North Madeira Street; thence crossing North Madeira Street and binding easternly 82'6" more or less on the northern outlines of the properties known as 2234 through 2240 East Baltimore Street and the northern outline of the property known as 2 North Patterson Park Avenue to intersect North Patterson Park Avenue; thence binding southernly on Patterson Park Avenue 245' more or less to a point 96' from the southwestern intersection of East Baltimore Street and South Patterson Park Avenue; thence binding westernly 85'2" more or less on the southern outline of the property known as 2 South Patterson Park Avenue and the southern outlines of the properties known as 2231 through 2237 East Baltimore Street; thence binding southernly 3' more or less on a brick alley running parallel to East Baltimore Street 96' south of East Baltimore Street; thence binding westernly 15' more or less on the southern outline of the property known as 2229½ East Baltimore Street to intersect the eastern outline of the property known as 2229 East Baltimore Street; thence binding on the dividing line between the property known as 2229 East Baltimore Street and the properties known as 6 through 10 South Patterson Park Avenue in a southernly direction 51' more or less to intersect Boyer Street; thence binding westernly on Boyer Street 139' more or less to intersect the dividing line between the properties known as 2215 East Baltimore Street and 2214 Boyer Street; thence binding on said dividing line northernly 66' more or less; thence binding westernly 72' more or less on the southern outlines of the properties known as 2207 through 2213 East Baltimore Street; thence binding southernly 5'8" more or less on the eastern outline of the property known as 2205 East Baltimore Street; thence binding westernly 53' more or less on the southern outline of the properties known as 2201 through 2205 East Baltimore Street to intersect South Collington Avenue; thence crossing South Collington Avenue and binding westernly 80' more or less on a 10' alley running parallel with East Baltimore Street 80' south of East Baltimore Street; thence binding southernly 20' more or less on the eastern outline of the property known as 2119 East Baltimore Street to intersect the dividing line between said property and the property known as 2122 Boyer Street; thence binding westernly on said dividing line 17'6" more or less; thence binding southernly 50' more or less on the dividing line between the properties known as 2122 Boyer Street and 2115-2117 East Baltimore Street to intersect Boyer Street; thence binding westernly 26' more or less on Boyer Street to intersect South Duncan Street; thence binding northernly 50' more or less on South Duncan Street to intersect a 10' alley running parallel with East Baltimore Street 100' south of East Baltimore Street; thence binding on said alley westernly 123' more or less to intersect South Chester Street; thence binding northernly on Chester Street 232' more or less to the place of the beginning.</text>
@@ -2428,6 +2495,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-14</num>
       <heading>Butchers Hill District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be the Butchers Hill Historical and Architectural Preservation District:</text>
@@ -2440,6 +2508,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-15</num>
       <heading>Eutaw Place-Madison Avenue District.</heading>
       <text>Beginning for the same at the north side of North Avenue and the west side of Jordan Street; thence binding from said point of beginning on the west side of Jordan Street northerly to intersect the north side of the first 3-foot alley south of Chauncey Avenue; thence binding on the north side of said 3-foot alley westerly to intersect the east side of the first 5-foot alley west of and parallel to Jordan Street; thence binding on the east side of said 5-foot alley on an extended line northerly to intersect the north side of Chauncey Avenue; thence binding on the north side of Chauncey Avenue easterly to intersect the west side of Jordan Street; thence binding on the west side of Jordan Street northerly to intersect the north side of Hendler Lane; thence binding on the north side of Hendler Lane easterly to intersect the west property line of 913 Druid Park Lake Drive; thence binding on said property line northerly to intersect the south side of Druid Park Lake Drive westerly to intersect a point at the intersection of Eutaw Place and Cloverdale Road; thence binding from said point of intersection to the south side of Cloverdale Road; thence binding on the south side of Cloverdale Road westerly to intersect the east side of McCulloh Street; thence binding on the east side of McCulloh Street southerly to intersect the south side of Hendler Lane; thence binding on the south side of Hendler Lane easterly to intersect the east side of Tiffany Alley; thence binding on the east side of Tiffany Alley southerly to intersect the south side of Clendenin Street; thence binding on the south side of Clendenin Street easterly to intersect the east property line of 1101 Clendenin Street; thence binding on said east property line southerly to intersect the east property line of 1124-1126 East North Avenue; thence binding on said east property line southerly to intersect the north side of North Avenue; thence binding on the north side of North Avenue easterly to the point of beginning.</text>
@@ -2451,6 +2520,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-16</num>
       <heading>Otterbein District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be a Historical and Architectural Preservation District and may be referred to as the Otterbein Historical and Architectural Preservation District:</text>
@@ -2463,10 +2533,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-17</num>
       <heading>Upton's Marble Hill District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be the Upton's Marble Hill Historical and Architectural Preservation District:</text>
-      <text>Beginning for the same at the point formed by the intersection of the centerline of McMechen Street and the centerline of McCulloh Street and running thence binding on the centerline of McCulloh Street, Southeasterly 396 feet, more or less, to intersect the centerline of Mosher Street; thence binding on the centerline of Mosher Street, Northeasterly 145 feet, more or less, to intersect the centerline of Tiffany Street; thence binding on the centerline of Tiffany Street, Northwesterly 396 feet, more or less, to intersect the centerline of McMechen Street; thence binding on the centerline of McMechen Street, Northeasterly 160 feet, more or less, to intersect the centerline of Madison Avenue; thence binding on the centerline of Madison Avenue, Southeasterly 396 feet, more or less, to intersect the centerline of Mosher Street; thence binding on the centerline of Mosher Street, Northeasterly 182 feet, more or less, to intersect the centerline of Morris Street; thence binding on the centerline of Morris Street, Southeasterly 198 feet, more or less, to an offset in Morris Street; thence Southwesterly 10 feet, more or less, to intersect the centerline of Morris Street laid out 130 feet, more or less, northeast of Madison Avenue; thence binding on the centerline of last said Morris Street, Southeasterly 198 feet, more or less, to intersect the centerline of Lafayette Avenue; thence binding on the centerline of Lafayette Avenue, Southwesterly 777 feet, more or less, to intersect the centerline of Druid Hill Avenue; thence binding on the centerline of Druid Hill Avenue, Southeasterly 415 feet more or less, to intersect the centerline of Lanvale Street; thence binding on the centerline of Lanvale Street, Southwesterly 213 feet, more or less, to intersect the centerline of Etting Street; thence binding on the centerline of Etting Street, Northwesterly 147 feet, more or less, to intersect the centerline of a 10 foot alley; thence binding on the centerline of said 10 foot alley, Northeasterly 86 feet, more or less, to intersect the centerline of another 10 foot alley laid out 90 feet, more or less, southwest of Druid Hill Avenue; thence binding on the centerline of last said 10 foot alley, crossing Lafayette Avenue, Northwesterly 415 feet, more or less, to the southeast outline of the property known as No. 1412 Druid Hill Avenue; thence binding in part on said outline, in part on the northwest outline of the property known as No. 1403 Etting Street, and in all, Southwesterly 22 feet, more or less, to the centerline of another 10 foot alley laid out 45 feet, more or less, northeast of Etting Street; thence binding on the centerline of last said 10 foot alley, Northwesterly 40 feet, more or less, to the southeast outline of the property known as No. 1411/1413 Etting Street; thence binding in part on last said outline, in part on the division line between last said outline and the property adjoining on the southeast thereof known as No. 1409 Etting Street, in part on the line of said division line if projected southwesterly, and in all, Southwesterly 70 feet, more or less, to intersect the centerline of Etting Street; thence binding on the centerline of Etting Street, Northwesterly 85 feet, more or less, to intersect the centerline of a 10 foot alley; thence binding on the centerline of last said 10 foot alley, Northeasterly 76 feet, more or less, to intersect the centerline of another 10 foot alley laid out 100 feet, more or less, southwest of Druid Hill Avenue; thence binding on the centerline of last said 10 foot alley, Northwesterly 136 feet, more or less, to intersect the centerline of Mosher Street; thence binding on the centerline of Mosher Street, Northeasterly 138 feet, more or less, to intersect the centerline of Druid Hill Avenue; thence binding on the centerline of Druid Hill Avenue, Northwesterly 398 feet, more or less, to intersect the centerline of McMechen Street; thence binding on the centerline of McMechen Street, Southwesterly 125 feet, more or less, to intersect the centerline of a 4 foot alley laid out in the rear of the properties known as Nos. 1600 through 1608 Druid Hill Avenue; thence binding on the centerline of said 4 foot alley, Northwesterly 113 feet, more or less, to intersect the centerline of a 3 foot alley laid out adjacent to the southeast outline of the property known as No. 1610/1614 Druid Hill Avenue; thence binding on the centerline of said 3 foot alley, Southwesterly 24 feet, more or less, to intersect the line of the southwest outlines of the properties known as Nos. 1610 through 1624 Druid Hill Avenue, if projected southeasterly; thence reversely in part on last said line so projected, in part on the southwest outlines of last said properties, and in all, Northwesterly 161.5 feet, more or less, to the rear outline of the property known as No. 503 Wilson Street; thence binding in part on part of the rear outline of last said property, in part on part of the northwest outline of the property known as No. 1624 Druid Hill Avenue, and in all, Northeasterly 16 feet, more or less, to intersect the centerline of a 10 foot alley laid out 95 feet, more or less, southwest of Druid Hill Avenue; thence binding on the centerline of last said 10 foot alley, Northwesterly 124 feet, more or less, to intersect the centerline of Wilson Street; thence binding on the centerline of Wilson Street, Southwesterly 5 feet, more or less, to intersect the centerline of a 10 foot alley laid out 100 feet, more or less, southwest of Druid Hill Avenue; thence binding on the centerline of last said 10 foot alley, Northwesterly 183 feet, more or less, to a southeast outline of Lot 62 of Block 339 known as No. 520 Wilson Street, also known as Lot 34 as shown on a plat entitled, "Amended Upton Project Final Subdivision Plan", recorded among the land records of Baltimore City and filed in Pocket Folder W.A. No. 2699, dated: January 23, 1980; thence binding on last said outline and on an east outline of said lot the two following courses and distances; namely, North 46\uF0B0-25'-00" East 10 feet, more or less, and North 02\uF0B0-28'-50" West 5.35 feet to the division line between said Lot 62 and the properties known as No. 1720 through 1732 Druid Hill Avenue; thence binding on last said division line, North 43\uF0B0-58'-00" West 102 feet, more or less, to the northwest outline of said property known as No. 1732 Druid Hill Avenue; thence binding on part of the northwest outline of last said property, Northeasterly 14 feet, more or less, to the rear outline of the property known as No. 1734 Druid Hill Avenue; thence binding on part of the rear outline of last said property, Northerly 11 feet, more or less, to intersect the centerline of an alley laid out in the rear of the properties known as Nos. 1734 through 1742 Druid Hill Avenue; thence binding on the centerline of last said alley, Northwesterly 95 feet, more or less, to intersect the centerline of Laurens Street; thence binding on the centerline of Laurens Street, Northeasterly 243 feet, more or less, to intersect the centerline of Stoddard Alley; thence binding on the centerline of Stoddard Alley, Southeasterly 792 feet, more or less, to intersect the centerline of McMechen Street, and thence binding on the centerline of McMechen Street, Northeasterly 163 feet, more or less, to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the centerline of McMechen Street and the centerline of McCulloh Street and running thence binding on the centerline of McCulloh Street, Southeasterly 396 feet, more or less, to intersect the centerline of Mosher Street; thence binding on the centerline of Mosher Street, Northeasterly 145 feet, more or less, to intersect the centerline of Tiffany Street; thence binding on the centerline of Tiffany Street, Northwesterly 396 feet, more or less, to intersect the centerline of McMechen Street; thence binding on the centerline of McMechen Street, Northeasterly 160 feet, more or less, to intersect the centerline of Madison Avenue; thence binding on the centerline of Madison Avenue, Southeasterly 396 feet, more or less, to intersect the centerline of Mosher Street; thence binding on the centerline of Mosher Street, Northeasterly 182 feet, more or less, to intersect the centerline of Morris Street; thence binding on the centerline of Morris Street, Southeasterly 198 feet, more or less, to an offset in Morris Street; thence Southwesterly 10 feet, more or less, to intersect the centerline of Morris Street laid out 130 feet, more or less, northeast of Madison Avenue; thence binding on the centerline of last said Morris Street, Southeasterly 198 feet, more or less, to intersect the centerline of Lafayette Avenue; thence binding on the centerline of Lafayette Avenue, Southwesterly 777 feet, more or less, to intersect the centerline of Druid Hill Avenue; thence binding on the centerline of Druid Hill Avenue, Southeasterly 415 feet more or less, to intersect the centerline of Lanvale Street; thence binding on the centerline of Lanvale Street, Southwesterly 213 feet, more or less, to intersect the centerline of Etting Street; thence binding on the centerline of Etting Street, Northwesterly 147 feet, more or less, to intersect the centerline of a 10 foot alley; thence binding on the centerline of said 10 foot alley, Northeasterly 86 feet, more or less, to intersect the centerline of another 10 foot alley laid out 90 feet, more or less, southwest of Druid Hill Avenue; thence binding on the centerline of last said 10 foot alley, crossing Lafayette Avenue, Northwesterly 415 feet, more or less, to the southeast outline of the property known as No. 1412 Druid Hill Avenue; thence binding in part on said outline, in part on the northwest outline of the property known as No. 1403 Etting Street, and in all, Southwesterly 22 feet, more or less, to the centerline of another 10 foot alley laid out 45 feet, more or less, northeast of Etting Street; thence binding on the centerline of last said 10 foot alley, Northwesterly 40 feet, more or less, to the southeast outline of the property known as No. 1411/1413 Etting Street; thence binding in part on last said outline, in part on the division line between last said outline and the property adjoining on the southeast thereof known as No. 1409 Etting Street, in part on the line of said division line if projected southwesterly, and in all, Southwesterly 70 feet, more or less, to intersect the centerline of Etting Street; thence binding on the centerline of Etting Street, Northwesterly 85 feet, more or less, to intersect the centerline of a 10 foot alley; thence binding on the centerline of last said 10 foot alley, Northeasterly 76 feet, more or less, to intersect the centerline of another 10 foot alley laid out 100 feet, more or less, southwest of Druid Hill Avenue; thence binding on the centerline of last said 10 foot alley, Northwesterly 136 feet, more or less, to intersect the centerline of Mosher Street; thence binding on the centerline of Mosher Street, Northeasterly 138 feet, more or less, to intersect the centerline of Druid Hill Avenue; thence binding on the centerline of Druid Hill Avenue, Northwesterly 398 feet, more or less, to intersect the centerline of McMechen Street; thence binding on the centerline of McMechen Street, Southwesterly 125 feet, more or less, to intersect the centerline of a 4 foot alley laid out in the rear of the properties known as Nos. 1600 through 1608 Druid Hill Avenue; thence binding on the centerline of said 4 foot alley, Northwesterly 113 feet, more or less, to intersect the centerline of a 3 foot alley laid out adjacent to the southeast outline of the property known as No. 1610/1614 Druid Hill Avenue; thence binding on the centerline of said 3 foot alley, Southwesterly 24 feet, more or less, to intersect the line of the southwest outlines of the properties known as Nos. 1610 through 1624 Druid Hill Avenue, if projected southeasterly; thence reversely in part on last said line so projected, in part on the southwest outlines of last said properties, and in all, Northwesterly 161.5 feet, more or less, to the rear outline of the property known as No. 503 Wilson Street; thence binding in part on part of the rear outline of last said property, in part on part of the northwest outline of the property known as No. 1624 Druid Hill Avenue, and in all, Northeasterly 16 feet, more or less, to intersect the centerline of a 10 foot alley laid out 95 feet, more or less, southwest of Druid Hill Avenue; thence binding on the centerline of last said 10 foot alley, Northwesterly 124 feet, more or less, to intersect the centerline of Wilson Street; thence binding on the centerline of Wilson Street, Southwesterly 5 feet, more or less, to intersect the centerline of a 10 foot alley laid out 100 feet, more or less, southwest of Druid Hill Avenue; thence binding on the centerline of last said 10 foot alley, Northwesterly 183 feet, more or less, to a southeast outline of Lot 62 of Block 339 known as No. 520 Wilson Street, also known as Lot 34 as shown on a plat entitled, "Amended Upton Project Final Subdivision Plan", recorded among the land records of Baltimore City and filed in Pocket Folder W.A. No. 2699, dated: January 23, 1980; thence binding on last said outline and on an east outline of said lot the two following courses and distances; namely, North 46°-25'-00" East 10 feet, more or less, and North 02°-28'-50" West 5.35 feet to the division line between said Lot 62 and the properties known as No. 1720 through 1732 Druid Hill Avenue; thence binding on last said division line, North 43°-58'-00" West 102 feet, more or less, to the northwest outline of said property known as No. 1732 Druid Hill Avenue; thence binding on part of the northwest outline of last said property, Northeasterly 14 feet, more or less, to the rear outline of the property known as No. 1734 Druid Hill Avenue; thence binding on part of the rear outline of last said property, Northerly 11 feet, more or less, to intersect the centerline of an alley laid out in the rear of the properties known as Nos. 1734 through 1742 Druid Hill Avenue; thence binding on the centerline of last said alley, Northwesterly 95 feet, more or less, to intersect the centerline of Laurens Street; thence binding on the centerline of Laurens Street, Northeasterly 243 feet, more or less, to intersect the centerline of Stoddard Alley; thence binding on the centerline of Stoddard Alley, Southeasterly 792 feet, more or less, to intersect the centerline of McMechen Street, and thence binding on the centerline of McMechen Street, Northeasterly 163 feet, more or less, to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(oo)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §7-17</annotation>
@@ -2476,6 +2547,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-18</num>
       <heading>Washington Hill District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be the Washington Hill Historical and Architectural Preservation District:</text>
@@ -2489,6 +2561,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-19</num>
       <heading>Mount Washington District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be the Mount Washington Historical and Architectural Preservation District:</text>
@@ -2504,6 +2577,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-20</num>
       <heading>Bancroft Park District.</heading>
       <text>The area located within the boundaries set forth in this section is hereby declared to be a Historical and Architectural Preservation District and may be referred to as the Bancroft Park Historical and Architectural Preservation District:</text>
@@ -2516,6 +2590,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-21</num>
       <heading>Mill Hill Deck of Cards Block District.</heading>
       <text>The area located within the boundaries set forth in this section is declared to be the Mill Hill Deck of Cards Block Historical and Architectural Preservation District:</text>
@@ -2528,6 +2603,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-22</num>
       <heading>Franklintown District.</heading>
       <text>The area located within the following boundaries is declared to be the Franklintown Historical and Architectural Preservation District:</text>
@@ -2540,6 +2616,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-23</num>
       <heading>Railroad District.</heading>
       <text>The properties known as 902-920 and 905-915 Lemmon Street are declared to be the Railroad Historic District.</text>
@@ -2551,6 +2628,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-24</num>
       <heading>Ten Hills District.</heading>
       <text>The area located within the following boundaries is declared to be the Ten Hills Historic District:</text>
@@ -2562,6 +2640,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-25</num>
       <heading>Perlman Place District.</heading>
       <text>The 1900 block of Perlman Place, comprising the properties known as 1901-1979 Perlman Place and 1900-1958 Perlman Place, is declared to be the Perlman Place Historic District.</text>
@@ -2572,6 +2651,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-26</num>
       <heading>Jonestown District.</heading>
       <text>The area located within the following boundaries is declared to be the Jonestown Historic District.</text>
@@ -2583,6 +2663,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-27</num>
       <heading>Hunting Ridge District.</heading>
       <text>The area located within the following boundaries is declared to be the Hunting Ridge Historic District.</text>
@@ -2595,6 +2676,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-28</num>
       <heading>Better Waverly District.</heading>
       <text>The area located within the following boundaries is declared to be the Better Waverly Historic District.</text>
@@ -2606,6 +2688,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-29</num>
       <heading>Barclay Greenmount District.</heading>
       <text>The area located within the following boundaries is declared to be the Barclay Greenmount Historic District.</text>
@@ -2617,6 +2700,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-30</num>
       <heading>Auchentoroly Terrace District.</heading>
       <text>The area located within the following boundaries is declared to be the Auchentoroly Terrace Historic District.</text>
@@ -2628,6 +2712,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-31</num>
       <heading>Oldtown Mall Local District.</heading>
       <text>The area located within the following boundaries is declared to be the Oldtown Mall Local Historic District.</text>
@@ -2639,6 +2724,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-32</num>
       <heading>Fells Point District.</heading>
       <para>
@@ -2679,6 +2765,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-33</num>
       <heading>Wyndhurst District.</heading>
       <text>The area located within the following boundaries is declared to be the Wyndhurst Historic District.</text>
@@ -2691,6 +2778,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-34</num>
       <heading>Sharp Leadenhall District.</heading>
       <text>The area located within the following boundaries is declared to be the Sharp Leadenhall Historic District.</text>
@@ -2702,6 +2790,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-35</num>
       <heading>Ashburton District.</heading>
       <text>The area located within the following boundaries is declared to be the Ashburton Historic District.</text>
@@ -2713,6 +2802,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-36</num>
       <heading>Federal Hill Local Historic District.</heading>
       <text>The area located within the following boundaries is declared to be the Federal Hill Local Historic District.</text>
@@ -2722,6 +2812,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-37</num>
       <heading>Five and Dime Historic District.</heading>
       <text>The area located within the following boundaries is declared to be the Five and Dime Historic District.</text>
@@ -2731,6 +2822,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-38</num>
       <heading>Howard Street Commercial Historic District.</heading>
       <text>The area located within the following boundaries is declared to be the Howard Street Commercial Historic District.</text>
@@ -2740,6 +2832,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-39</num>
       <heading>Woodberry Historic District.</heading>
       <para>
@@ -2783,6 +2876,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-40</num>
       <heading>Sarah Ann Street Historic District.</heading>
       <text>The area located within the following boundaries is declared to be the Sarah Ann Street Historic District.</text>
@@ -2802,6 +2896,7 @@
     <num>13</num>
     <heading>Landmark List – 1970s</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>In general.</heading>
       <text>The following structures, having been approved by the Planning Commission, are hereby declared to be historical or architectural landmarks.</text>
@@ -2813,6 +2908,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>City Hall.</heading>
       <text>City Hall, 100 N. Holliday Street, the property being further described as follows:</text>
@@ -2825,6 +2921,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Otterbein Evangelical United Brethren Church.</heading>
       <text>Otterbein Evangelical United Brethren Church, 112 W. Conway Street, the property being further described as follows:</text>
@@ -2837,6 +2934,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4</num>
       <heading>McKim Free School.</heading>
       <text>McKim Free School, 1120 E. Baltimore Street, the property being further described as follows:</text>
@@ -2849,6 +2947,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-5</num>
       <heading>First Unitarian Church.</heading>
       <text>First Unitarian Church, 2-12 W. Franklin Street, the property being further described as follows:</text>
@@ -2861,6 +2960,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-6</num>
       <heading>Ebenezer African Methodist Episcopal Church.</heading>
       <text>Ebenezer African Methodist Episcopal Church, 18 and 20-30 West Montgomery Street, the property being further described as follows:</text>
@@ -2873,6 +2973,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-7</num>
       <heading>Peale Museum.</heading>
       <text>Municipal Museum of Baltimore (Peale Museum), 225 N. Holliday Street, the property being further described in a deed by William Thomas Wilson and wife to Mayor and City Council of Baltimore, dated January 8, 1901, and recorded among the land records of Baltimore City in Liber R.O. 1883 Folio 429.</text>
@@ -2884,6 +2985,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-8</num>
       <heading>Carroll Mansion Complex.</heading>
       <text>Carroll Mansion Complex, 33 South Front Street, the property being further described as follows:</text>
@@ -2897,6 +2999,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-9</num>
       <heading>Lovely Lane Methodist Church.</heading>
       <text>Lovely Lane Methodist Church, 2200 St. Paul Street, the property being further described in a deed by William W. Spence and wife to Trustees of the Methodist Episcopal Church in the City and Precincts of Baltimore, dated March 2, 1890, and recorded among the land records of Baltimore City in Liber J.B. 1284 Folio 486.</text>
@@ -2908,6 +3011,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-10</num>
       <heading>Lloyd Street Synagogue.</heading>
       <text>Lloyd Street Synagogue, 11 Lloyd Street, the property being further described in a deed by Shomre Mishmereth Hakadesh Anshe Wolin Congregation of Baltimore City to Jewish Historical Society of Maryland, Inc., dated February 15, 1963, and recorded among the land records of Baltimore City in Liber J.F.C. 1438 Folio 102.</text>
@@ -2919,6 +3023,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-11</num>
       <heading>Bethel A.M.E. Church.</heading>
       <text>Bethel A.M.E. Church, 1300 Druid Hill Avenue, the property being further described as two parcels in a deed by Vestry of St. Peters P.E. Church to African Methodist Bethel Church, dated November 22, 1910, and recorded among the land records of Baltimore City in Liber S.C.L. 2622 Folio 82.</text>
@@ -2930,6 +3035,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-12</num>
       <heading>Eutaw Place Baptist Church.</heading>
       <text>Eutaw Place Baptist Church, 327 Dolphin Street, the property being further described in a deed by Hiram Woods and wife to Trustees of Eutaw Place Baptist Church, dated February 20, 1871 and recorded among the land records of Baltimore City in Liber G.R. 514 Folio 163; in a deed by Hiram Woods, Jr. to Trustees of Eutaw Place Baptist Church of Baltimore, dated May 11, 1907, and recorded among the land records of Baltimore City in Liber R.O. 2348, Folio 161; in a deed by Susan L. Littell to Trustees of Eutaw Place Baptist Church of Baltimore, dated April 30, 1907, and recorded among the land records of Baltimore City in Liber R.O. 2336, Folio 117; and in a deed by Safe Deposit and Trust Company of Baltimore, Trustee to Trustees of Eutaw Place Baptist Church of Baltimore, dated July 7, 1914, and recorded among the land records of Baltimore City in Liber S.C.L. 2913, Folio 71.</text>
@@ -2941,10 +3047,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-13</num>
       <heading>Eastern Female High School.</heading>
       <text>Eastern Female High School, 249 Aisquith Street, the property being further described as follows:</text>
-      <text>Beginning for the same at the point formed by the intersection of the east side of Aisquith Street, as now laid out, and the south side of Orleans Street, as now laid out 66 feet wide, and running thence binding on the south side of said Orleans Street, North 87\uF0B0-08-00" East 335.63 feet to intersect the west side of Lewis Street, as now laid out 30 feet wide; thence binding on the west side of said Lewis Street, South 02\uF0B0-52'-00" East 181.02 feet to the south side of Mullikin Street, as laid out 40 feet wide; thence for a new line of division through the property now or formerly owned by the Mayor and City Council of Baltimore and binding on a line drawn parallel with and distant 181.02 feet southerly, measured at right angles from the south side of said Orleans Street, South 87\uF0B0-08'-00" West 336 feet, more or less, to intersect the aforesaid east side of Aisquith Street and thence binding on the east side of said Aisquith Street, North 02\uF0B0-45'-40" West 181 feet, more or less, to the place of beginning; the improvements thereon being known as 249 Aisquith Street.</text>
+      <text>Beginning for the same at the point formed by the intersection of the east side of Aisquith Street, as now laid out, and the south side of Orleans Street, as now laid out 66 feet wide, and running thence binding on the south side of said Orleans Street, North 87°-08-00" East 335.63 feet to intersect the west side of Lewis Street, as now laid out 30 feet wide; thence binding on the west side of said Lewis Street, South 02°-52'-00" East 181.02 feet to the south side of Mullikin Street, as laid out 40 feet wide; thence for a new line of division through the property now or formerly owned by the Mayor and City Council of Baltimore and binding on a line drawn parallel with and distant 181.02 feet southerly, measured at right angles from the south side of said Orleans Street, South 87°-08'-00" West 336 feet, more or less, to intersect the aforesaid east side of Aisquith Street and thence binding on the east side of said Aisquith Street, North 02°-45'-40" West 181 feet, more or less, to the place of beginning; the improvements thereon being known as 249 Aisquith Street.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(12)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §9-13</annotation>
@@ -2953,6 +3060,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-14</num>
       <heading>Belvedere Hotel.</heading>
       <text>Belvedere Hotel, 1 East Chase Street, the property being further described as follows:</text>
@@ -2965,6 +3073,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-15</num>
       <heading>Battle Monument.</heading>
       <text>Battle Monument, Calvert Street, north of Fayette Street, the property being further described as follows:</text>
@@ -2977,6 +3086,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-16</num>
       <heading>St. Paul's P.E. Church.</heading>
       <text>St. Paul's P.E. Church, 233 N. Charles Street, the property being further described as follows:</text>
@@ -2989,6 +3099,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-17</num>
       <heading>St. Paul's P.E. Church Rectory.</heading>
       <text>St. Paul's P.E. Church Rectory, 24 W. Saratoga St., the property being further described as follows:</text>
@@ -3001,6 +3112,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-18</num>
       <heading>Cylburn House.</heading>
       <text>Cylburn House, being further described as follows:</text>
@@ -3013,6 +3125,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-19</num>
       <heading>Davidge Hall.</heading>
       <text>Davidge Hall, 522 W. Lombard Street, being further described as follows:</text>
@@ -3025,6 +3138,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-20</num>
       <heading>Mt. Clare Station Roundhouse.</heading>
       <text>Mt. Clare Station Roundhouse, being further described as follows:</text>
@@ -3037,6 +3151,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-21</num>
       <heading>Evergreen House.</heading>
       <text>Evergreen House, 4545 N. Charles Street, being a building known as Evergreen House and designated as No. 4545 N. Charles Street and located north of E. Cold Spring Lane and east of N. Charles Street.</text>
@@ -3048,6 +3163,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-22</num>
       <heading>Old Post Office Building.</heading>
       <text>Old Post Office Building, 111 N. Calvert Street, the property being further described as follows:</text>
@@ -3060,6 +3176,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-23</num>
       <heading>Homewood House.</heading>
       <text>Homewood House, being further described as follows:</text>
@@ -3072,6 +3189,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-24</num>
       <heading>Certain structures in Druid Hill Park.</heading>
       <text>Fifteen structures in Druid Hill Park, being further described as follows:</text>
@@ -3094,10 +3212,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-25</num>
       <heading>Baltimore Arts Tower (Bromo Seltzer Tower).</heading>
       <text>The Baltimore Arts Tower (Bromo Seltzer):</text>
-      <text>Beginning for the same at the point formed by the intersection of the north side of Lombard Street, as now laid out 66 feet wide, and the east side of Eutaw Street, as now laid out 82.5 feet wide, and running thence binding on the east side of said Eutaw Street, North 02\uF0B0-40'-10" West 35.00 feet; thence binding on a line drawn parallel with said Lombard Street, North 87\uF0B0-18'-20" East 35.00 feet; thence binding on a line drawn parallel with said Eutaw Street, South 02\uF0B0-40'-10" East 35.00 feet to intersect the aforesaid north side of Lombard Street and thence binding on the north side of said Lombard Street, South 87\uF0B0-18'-20" West 35.00 feet to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the north side of Lombard Street, as now laid out 66 feet wide, and the east side of Eutaw Street, as now laid out 82.5 feet wide, and running thence binding on the east side of said Eutaw Street, North 02°-40'-10" West 35.00 feet; thence binding on a line drawn parallel with said Lombard Street, North 87°-18'-20" East 35.00 feet; thence binding on a line drawn parallel with said Eutaw Street, South 02°-40'-10" East 35.00 feet to intersect the aforesaid north side of Lombard Street and thence binding on the north side of said Lombard Street, South 87°-18'-20" West 35.00 feet to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(24)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §9-25</annotation>
@@ -3106,6 +3225,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-26</num>
       <heading>Mercantile Safe Deposit and Trust Building.</heading>
       <text>Mercantile Safe Deposit and Trust Building, 202 E. Redwood Street, the property being further described as follows:</text>
@@ -3118,6 +3238,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-27</num>
       <heading>Star Spangled Banner Flag House.</heading>
       <text>Star Spangled Banner Flag House, 844 E. Pratt Street, the property being further described as follows:</text>
@@ -3130,6 +3251,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-28</num>
       <heading>Peabody Institute.</heading>
       <text>Peabody Institute, 1/21 E. Mount Vernon Place, the property being further described as follows:</text>
@@ -3142,6 +3264,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-29</num>
       <heading>Old Town Friends' Meeting House.</heading>
       <text>Old Town Friends' Meeting House, 1201 E. Fayette Street, the property being further described as follows:</text>
@@ -3154,6 +3277,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-30</num>
       <heading>Mother Seton House.</heading>
       <text>Mother Seton House, 600 N. Paca Street, the property being further described as follows:</text>
@@ -3166,6 +3290,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-31</num>
       <heading>Washington Monument and Mount Vernon Place.</heading>
       <text>The Washington Monument and Mount Vernon Place, the property being further described as follows:</text>
@@ -3178,10 +3303,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-32</num>
       <heading>Westminster Presbyterian Church.</heading>
       <text>Westminster Presbyterian Church, 509/13 W. Fayette Street, the property being further described as follows:</text>
-      <text>Beginning for the same at the point formed by the intersection of the south side of Fayette Street, 66 feet wide, and the east side of Greene Street, 66 feet wide, and running thence binding on the south side of said Fayette Street, Easterly 152 feet, more or less, to the end of the fifth line of the second parcel of land conveyed by the Mayor and City Council of Baltimore to the State of Maryland by deed dated July 12, 1965 and recorded among the Land Records of Baltimore City in Liber J.F.C. No. 1921 Folio 97; thence binding reversely on the fifth and fourth lines of the second parcel of land described in said deed, respectively, the two following courses and distances, namely, South 01\uF0B0-47'-30" East 208.12 feet and South 86\uF0B0-54'-40" West 151.72 feet to the aforesaid east side of Greene Street and thence binding on the east side of said Greene Street, Northerly 208 feet, more or less, to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the south side of Fayette Street, 66 feet wide, and the east side of Greene Street, 66 feet wide, and running thence binding on the south side of said Fayette Street, Easterly 152 feet, more or less, to the end of the fifth line of the second parcel of land conveyed by the Mayor and City Council of Baltimore to the State of Maryland by deed dated July 12, 1965 and recorded among the Land Records of Baltimore City in Liber J.F.C. No. 1921 Folio 97; thence binding reversely on the fifth and fourth lines of the second parcel of land described in said deed, respectively, the two following courses and distances, namely, South 01°-47'-30" East 208.12 feet and South 86°-54'-40" West 151.72 feet to the aforesaid east side of Greene Street and thence binding on the east side of said Greene Street, Northerly 208 feet, more or less, to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(31)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §9-32</annotation>
@@ -3190,6 +3316,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-33</num>
       <heading>Basilica of the Assumption.</heading>
       <text>Basilica of the Assumption, the property being further described as follows:</text>
@@ -3202,6 +3329,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-34</num>
       <heading>H. L. Mencken House.</heading>
       <para>
@@ -3220,6 +3348,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-35</num>
       <heading>Shot Tower.</heading>
       <text>Shot Tower, the property being further described as follows:</text>
@@ -3232,6 +3361,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-36</num>
       <heading>Engine House No. 6.</heading>
       <text>Engine House No. 6, 416 N. Gay Street, the property being further described as follows:</text>
@@ -3244,6 +3374,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-37</num>
       <heading>St. Vincent de Paul Church.</heading>
       <text>St. Vincent de Paul Church, the property being further described as follows:</text>
@@ -3256,6 +3387,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-38</num>
       <heading>Old Cathedral School.</heading>
       <text>Old Cathedral School, the property being further described as follows:</text>
@@ -3268,6 +3400,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-39</num>
       <heading>Edgar Allan Poe House.</heading>
       <text>Edgar Allan Poe House, located at 203 N. Amity Street, Ward 18, Section 13, Block 173, Lot 4.</text>
@@ -3280,6 +3413,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-40</num>
       <heading>Thomas-Jencks-Gladding House.</heading>
       <text>Thomas-Jencks-Gladding House, 1 W. Mt. Vernon Place, the property being further described as follows:</text>
@@ -3292,6 +3426,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-41</num>
       <heading>Clifton Mansion.</heading>
       <text>Clifton Mansion:</text>
@@ -3304,6 +3439,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-42</num>
       <heading>Roland Park Shopping Center.</heading>
       <text>Roland Park Shopping Center.</text>
@@ -3315,10 +3451,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-43</num>
       <heading>St. Mary's Seminary Chapel.</heading>
       <text>St. Mary's Seminary Chapel, 600 N. Paca Street, the property being further described as follows:</text>
-      <text>Beginning for the same at a bend in the outline of the parcel of land to be conveyed by the Associated Sulpicians of the United States to the Mayor and City Council of Baltimore being part of the property known as No. 600 Paca Street, the coordinates of said bend based upon the Baltimore survey control system being west 2344.83 feet and south 674.46 feet and running thence binding on a southeast outline of said parcel of land, North 45\uF0B0-43'-40" East 175 feet, more or less, to intersect the line of the northeast face of the brick chapel situate on said property if projected northwesterly; thence binding in part reversely on said line so projected, in part on the northeast faces of said brick chapel and in all, in a generally southeasterly direction 95 feet, more or less, to the easternmost corner of said brick chapel and to the southwest side of a wooden roof, situate on said property; thence binding on the southwest side of said wooden roof, southeasterly 17 feet, more or less, to intersect the southeast side of a brick walk situate on said property; thence binding on the southeast side of said brick walk, southwesterly 149 feet, more or less, to intersect the north outline of the aforesaid parcel of land to be conveyed by the Associated Sulpicians of the United States to the Mayor and City Council of Baltimore and thence binding on the north and northeast outlines of the aforesaid parcel of land the two following courses and distances; namely, South 87\uF0B0-50'-15" West 28 feet, more or less, and North 47\uF0B0-18'-15" West 92.25 feet to the place of beginning.</text>
+      <text>Beginning for the same at a bend in the outline of the parcel of land to be conveyed by the Associated Sulpicians of the United States to the Mayor and City Council of Baltimore being part of the property known as No. 600 Paca Street, the coordinates of said bend based upon the Baltimore survey control system being west 2344.83 feet and south 674.46 feet and running thence binding on a southeast outline of said parcel of land, North 45°-43'-40" East 175 feet, more or less, to intersect the line of the northeast face of the brick chapel situate on said property if projected northwesterly; thence binding in part reversely on said line so projected, in part on the northeast faces of said brick chapel and in all, in a generally southeasterly direction 95 feet, more or less, to the easternmost corner of said brick chapel and to the southwest side of a wooden roof, situate on said property; thence binding on the southwest side of said wooden roof, southeasterly 17 feet, more or less, to intersect the southeast side of a brick walk situate on said property; thence binding on the southeast side of said brick walk, southwesterly 149 feet, more or less, to intersect the north outline of the aforesaid parcel of land to be conveyed by the Associated Sulpicians of the United States to the Mayor and City Council of Baltimore and thence binding on the north and northeast outlines of the aforesaid parcel of land the two following courses and distances; namely, South 87°-50'-15" West 28 feet, more or less, and North 47°-18'-15" West 92.25 feet to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(42)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §9-43</annotation>
@@ -3327,6 +3464,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-44</num>
       <heading>B'Nai Israel Synagogue.</heading>
       <text>B'Nai Israel Synagogue, located at 27-35 Lloyd Street, Ward 3, Section 3, Block 1365, Lot 28.</text>
@@ -3338,6 +3476,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-45</num>
       <heading>First Baptist Church.</heading>
       <text>First Baptist Church, located at 525 N. Caroline Street, Ward 7, Section 9, Block 1281, Lot 45.</text>
@@ -3349,6 +3488,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-46</num>
       <heading>Sharon Baptist Church.</heading>
       <text>Sharon Baptist Church, located at 1373 N. Stricker Street, Ward 15, Section 10, Block 35, Lot 37.</text>
@@ -3360,6 +3500,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-47</num>
       <heading>Taylor's Chapel &amp; Burial Ground.</heading>
       <text>Taylor's Chapel &amp; Burial Ground, located at 6001 Hillen Road, Ward 27, Section 29, Block 5288B, Lot 1.</text>
@@ -3371,6 +3512,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-48</num>
       <heading>Zion Lutheran Church and Parish House.</heading>
       <text>Zion Lutheran Church and Parish House, located at 140-146 N. Gay Street, Ward 4, Section 12, Block 1303A, Lot 1.</text>
@@ -3382,6 +3524,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-49</num>
       <heading>Furness House.</heading>
       <text>Furness House, located at 19-21 South Street, Ward 4, Section 11, Block 1348, Lot 7.</text>
@@ -3393,6 +3536,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-50</num>
       <heading>Goucher House.</heading>
       <text>Goucher House, located at 2313 St. Paul Street, Ward 12, Section 6, Block 3821, Lot 3.</text>
@@ -3404,6 +3548,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-51</num>
       <heading>United States Customs House.</heading>
       <text>United States Customs House, located at 40 S. Gay Street, Ward 4, Section 11, Block 1371, Lot 1.</text>
@@ -3415,6 +3560,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-52</num>
       <heading>Pennsylvania Station.</heading>
       <text>Pennsylvania Station, located at 1525 N. Charles Street, Ward 12, Section 10, Block 427, Lot 6.</text>
@@ -3426,6 +3572,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-53</num>
       <heading>Ascot House.</heading>
       <text>Ascot House, located at 104 W. 39th Street, Ward 12, Section 1, Block 3701F, Lot 2.</text>
@@ -3437,6 +3584,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-54</num>
       <heading>Babe Ruth House.</heading>
       <text>Babe Ruth House, located at 216 Emory Street, Ward 22, Section 4, Block 675, Lot 80.</text>
@@ -3448,6 +3596,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-55</num>
       <heading>War Memorial.</heading>
       <text>War Memorial, located at 101 N. Gay Street, Ward 3, Section 12, Block 1303B, Lot 1.</text>
@@ -3464,6 +3613,7 @@
     <num>14</num>
     <heading>Landmark List – 1980s</heading>
     <section>
+      <prefix>§</prefix>
       <num>14-1</num>
       <heading>Alexander Brown and Sons.</heading>
       <text>Alexander Brown and Sons, located at 135 East Baltimore Street, Ward 4, Section 11, Block 649, Lot 12.</text>
@@ -3475,6 +3625,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-2</num>
       <heading>Baltimore City Courthouse.</heading>
       <text>Baltimore City Courthouse, located at 100 North Calvert Street, Ward 4, Section 12, Block 624, Lot 1.</text>
@@ -3486,6 +3637,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-3</num>
       <heading>Carroll Hunting Lodge.</heading>
       <text>"Carroll Hunting Lodge," located at 5914 Greenspring Avenue, Ward 27, Section 22, Block 4400B, Lot 2.</text>
@@ -3497,6 +3649,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-4</num>
       <heading>Continental Building.</heading>
       <text>Continental Building, located at 201 East Baltimore Street, Ward 4, Section 11, Block 650, Lot 4.</text>
@@ -3508,6 +3661,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-5</num>
       <heading>Crimea House, Chapel, and Stables.</heading>
       <text>Crimea House, Chapel, and Stables, the Crimea House property being described as follows:</text>
@@ -3525,6 +3679,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-6</num>
       <heading>Etting Cemetery.</heading>
       <text>Etting Cemetery, located in the 1500 block north side of West North Avenue, Ward 13, Section 7, Block 3406, Lot 2.</text>
@@ -3536,6 +3691,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-7</num>
       <heading>Gallagher Mansion.</heading>
       <text>Gallagher Mansion, located at 431 Notre Dame Lane, the property being further described as follows:</text>
@@ -3548,6 +3704,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-8</num>
       <heading>Greenmount Cemetery Chapel and Gates.</heading>
       <text>Greenmount Cemetery Chapel and Gates, the Gates property being described as follows:</text>
@@ -3562,6 +3719,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-9</num>
       <heading>James Lawrence Kernan Hospital.</heading>
       <text>James Lawrence Kernan Hospital, located at 2200 North Forest Park Avenue, the property being further described as follows:</text>
@@ -3575,6 +3733,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-10</num>
       <heading>Leadenhall Baptist Church.</heading>
       <text>Leadenhall Baptist Church, located at 1021 Leadenhall Street, Ward 23, Section 3, Block 932, Lot 52.</text>
@@ -3586,6 +3745,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-11</num>
       <heading>Mount Clare Mansion.</heading>
       <text>Mount Clare Mansion, the property being described as follows:</text>
@@ -3599,6 +3759,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-12</num>
       <heading>Mount Royal Station and Shed.</heading>
       <text>Mount Royal Station and Shed, located at 1400 Cathedral Street, Ward 11, Section 3, Block 442, Lot 1.</text>
@@ -3610,6 +3771,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-13</num>
       <heading>New Psalmist Baptist Church and Parsonage.</heading>
       <text>New Psalmist Baptist Church and Parsonage, located at 100 West Franklin Street, Ward 11, Section 10, Block 550, Lot 1.</text>
@@ -3621,6 +3783,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-14</num>
       <heading>Patterson Park Observatory.</heading>
       <text>Patterson Park Observatory, the property being described as follows:</text>
@@ -3634,6 +3797,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-15</num>
       <heading>Saint Frances Academy.</heading>
       <text>Saint Frances Academy, located at 501 East Chase Street, Ward 10, Section 5, Block 1180, Lot 24.</text>
@@ -3645,6 +3809,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-16</num>
       <heading>Saint Leo's Church.</heading>
       <text>Saint Leo's Church, located at 225 South Exeter Street, Ward 3, Section 6, Block 1415, Lot 17.</text>
@@ -3656,6 +3821,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-17</num>
       <heading>Saint Peter Claver Church.</heading>
       <text>Saint Peter Claver Church, located at 1542 North Fremont Avenue, Ward 15, Section 12, Block 306, Lot 8.</text>
@@ -3667,6 +3833,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-18</num>
       <heading>Sharp Street United Methodist Church.</heading>
       <text>Sharp Street United Methodist Church, located at 508 Dolphin Street, Ward 17, Section 1, Block 415, Lot 44.</text>
@@ -3678,6 +3845,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-19</num>
       <heading>Fort McHenry.</heading>
       <text>Fort McHenry, located at 1401 Constellation Plaza, Lot 1 in Block 24-11-2058A, having an area of 43.61 acres, more or less.</text>
@@ -3689,6 +3857,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-20</num>
       <heading>G. Krug and Sons.</heading>
       <para>
@@ -3703,10 +3872,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-21</num>
       <heading>Hutzler's Palace Building.</heading>
       <text>Hutzler's Palace Building (formerly known as 210-218 N. Howard Street), being further described as follows:</text>
-      <text>Beginning for the same at a point on the west side of Howard Street, 82.5 feet wide, distant North 02\uF0B0-50'-14" West 107.50 feet measured along the west side of said Howard Street from the north side of Lexington Street, 66 feet wide, and running thence binding on the south face of the south wall of the five story brick building situate on the parcel of land now being described, Westerly 118.25 feet; thence binding on the west face of the west wall of said five story building, Northerly 95.33 feet to the south side of the former bed of Clay Street; thence binding on the south side of the former bed of said Clay Street and on the north face of the north wall of said five story building, there situate, with the privilege in and to the use of said wall by the abutting property for support, North 86\uF0B0-54'-55" East 118.25 feet to the west side of said Howard Street and thence binding on the west side of said Howard Street, South 02\uF0B0-50'-14" East 96 feet, more or less, to the place of beginning.</text>
+      <text>Beginning for the same at a point on the west side of Howard Street, 82.5 feet wide, distant North 02°-50'-14" West 107.50 feet measured along the west side of said Howard Street from the north side of Lexington Street, 66 feet wide, and running thence binding on the south face of the south wall of the five story brick building situate on the parcel of land now being described, Westerly 118.25 feet; thence binding on the west face of the west wall of said five story building, Northerly 95.33 feet to the south side of the former bed of Clay Street; thence binding on the south side of the former bed of said Clay Street and on the north face of the north wall of said five story building, there situate, with the privilege in and to the use of said wall by the abutting property for support, North 86°-54'-55" East 118.25 feet to the west side of said Howard Street and thence binding on the west side of said Howard Street, South 02°-50'-14" East 96 feet, more or less, to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(75)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §10-21</annotation>
@@ -3715,6 +3885,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-22</num>
       <heading>Mount Washington Octagon (U.S.F.&amp;G.) Building.</heading>
       <text>The Mount Washington Octagon Building (U.S.F.&amp;G.), being further described as follows:</text>
@@ -3727,10 +3898,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-23</num>
       <heading>Mount Auburn Cemetery.</heading>
       <text>Mount Auburn Cemetery, 2614 Annapolis Road, the property being further described as follows:</text>
-      <text>Beginning for the same at the point formed by the intersection of the southwest side of Waterview Avenue and the southeast side of Hollins Ferry Road and running thence binding on the southeast side of said Hollins Ferry Road, South 33\uF0B0-15' West 528 feet; thence binding on a southwest outline of Mount Auburn Cemetery, South 76\uF0B0-15' East 704 feet; thence binding on the southeast outline of said Mount Auburn Cemetery, South 34\uF0B0-30' West 534.6 feet; thence binding on another southwest outline of said Mount Auburn Cemetery, South 76\uF0B0-15' East 1204.5 feet, more or less, to the northwest side of Annapolis Road; thence binding on the northwest, west, southwest and south sides of said Annapolis Road, the nine following courses and distances; namely, North 28\uF0B0-43'-23" East 22.34 feet, North 24\uF0B0-50'-40" East 335.36 feet, North 24\uF0B0-05'-30" East 217.59 feet, North 05\uF0B0-51'-40" East 8 feet, more or less, North 84\uF0B0-08'-20" West 7 feet, more or less, North 24\uF0B0-41'-52" East 17 feet, more or less, North 05\uF0B0-51'-40" East 286 feet, more or less, North 79\uF0B0-57' West 53.37 feet and North 25\uF0B0-09'-32" East 54.46 feet to the southwest side of said Waterview Avenue and thence binding on the southwest side of said Waterview Avenue the three following courses and distances; namely, North 79\uF0B0-57' West 30.38 feet, North 75\uF0B0-45' West 885.40 feet and North 76\uF0B0-15' West 704 feet to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the southwest side of Waterview Avenue and the southeast side of Hollins Ferry Road and running thence binding on the southeast side of said Hollins Ferry Road, South 33°-15' West 528 feet; thence binding on a southwest outline of Mount Auburn Cemetery, South 76°-15' East 704 feet; thence binding on the southeast outline of said Mount Auburn Cemetery, South 34°-30' West 534.6 feet; thence binding on another southwest outline of said Mount Auburn Cemetery, South 76°-15' East 1204.5 feet, more or less, to the northwest side of Annapolis Road; thence binding on the northwest, west, southwest and south sides of said Annapolis Road, the nine following courses and distances; namely, North 28°-43'-23" East 22.34 feet, North 24°-50'-40" East 335.36 feet, North 24°-05'-30" East 217.59 feet, North 05°-51'-40" East 8 feet, more or less, North 84°-08'-20" West 7 feet, more or less, North 24°-41'-52" East 17 feet, more or less, North 05°-51'-40" East 286 feet, more or less, North 79°-57' West 53.37 feet and North 25°-09'-32" East 54.46 feet to the southwest side of said Waterview Avenue and thence binding on the southwest side of said Waterview Avenue the three following courses and distances; namely, North 79°-57' West 30.38 feet, North 75°-45' West 885.40 feet and North 76°-15' West 704 feet to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(77)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §10-23</annotation>
@@ -3739,6 +3911,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-24</num>
       <heading>Booker T. Washington Jr. Middle School.</heading>
       <text>Booker T. Washington Jr. Middle, School No. 130, 1300 Madison Avenue, Lot 1/7, Block 11-6-398, measuring 240 by 330 feet, more or less.</text>
@@ -3751,6 +3924,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-25</num>
       <heading>Walters Bath House and Engine House # 10.</heading>
       <text>Walters Bath House and Engine House # 10, 906 Washington Boulevard, the property being further described as follows:</text>
@@ -3764,6 +3938,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-26</num>
       <heading>Warden's House.</heading>
       <text>Warden's House (Baltimore City Jail), being further described as follows:</text>
@@ -3776,6 +3951,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-27</num>
       <heading>Robert Long House.</heading>
       <text>Robert Long House, 810 and 812 S. Ann Street, Lot 30, Block 2-6-1861, measuring 48 by 65 feet, more or less.</text>
@@ -3787,10 +3963,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-28</num>
       <heading>Greenway Cottages.</heading>
       <text>Greenway Cottages, 818, 822 and 826 West 40th Street, the property being further described as follows:</text>
-      <text>Beginning for the same at a point on the north side of 40th Street distant 390 feet, more or less, easterly measured along the north side of said 40th Street from Roland Avenue and running thence binding on a line drawn at right angles to the north side of said 40th Street, Northerly 81 feet, more or less, to intersect a line drawn parallel with and distant 81 feet, more or less, northerly measured at right angles from the north side of said 40th Street; thence binding on said line so drawn Easterly 180 feet, more or less, to intersect a line drawn parallel to the first line mentioned herein; thence binding on last said line so drawn, Northerly 19 feet, more or less, to intersect a line drawn parallel with and distant 100 feet, more or less, northerly, measured at right angles to the north side of said 40th Street; thence binding on last said line so drawn, Easterly 81 feet, more or less, to intersect a line drawn at right angles to the north side of said 40th Street; thence binding reversely on the last said line so drawn, Southerly 100 feet, more or less, to intersect the north side of said 40th Street, and thence binding on the north side of said 40th Street, South 87\uF0B0-04'-24" West 263 feet, more or less, to the place of beginning.</text>
+      <text>Beginning for the same at a point on the north side of 40th Street distant 390 feet, more or less, easterly measured along the north side of said 40th Street from Roland Avenue and running thence binding on a line drawn at right angles to the north side of said 40th Street, Northerly 81 feet, more or less, to intersect a line drawn parallel with and distant 81 feet, more or less, northerly measured at right angles from the north side of said 40th Street; thence binding on said line so drawn Easterly 180 feet, more or less, to intersect a line drawn parallel to the first line mentioned herein; thence binding on last said line so drawn, Northerly 19 feet, more or less, to intersect a line drawn parallel with and distant 100 feet, more or less, northerly, measured at right angles to the north side of said 40th Street; thence binding on last said line so drawn, Easterly 81 feet, more or less, to intersect a line drawn at right angles to the north side of said 40th Street; thence binding reversely on the last said line so drawn, Southerly 100 feet, more or less, to intersect the north side of said 40th Street, and thence binding on the north side of said 40th Street, South 87°-04'-24" West 263 feet, more or less, to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(82)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §10-28</annotation>
@@ -3799,6 +3976,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-29</num>
       <heading>1124 Riverside Avenue.</heading>
       <text>1124 Riverside Avenue, Lot 29/30, Block 24-5-1918.</text>
@@ -3810,6 +3988,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-30</num>
       <heading>Provident Bank Building.</heading>
       <text>Provident Bank of Maryland, 240 N. Howard Street, Lot 26/27, Block 4-10-596.</text>
@@ -3821,6 +4000,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-31</num>
       <heading>Southern Hotel.</heading>
       <text>Southern Hotel, 7-11 Light Street, Lot 1, Block 4-11-649, measuring 92 by 148 feet, more or less.</text>
@@ -3832,6 +4012,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-32</num>
       <heading>Macht Building.</heading>
       <text>Macht Building, 11-13 E. Fayette Street, Lot 2, Block 4-11-635, measuring 25 by 113 feet, more or less.</text>
@@ -3843,6 +4024,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-33</num>
       <heading>Old Federal Reserve Bank.</heading>
       <text>Old Federal Reserve Bank (now headquarters for Provident Bank of Maryland), 114-120 E. Lexington Street, Lot 8/12, Block 4-1-610, measuring 125 by 100 feet more or less.</text>
@@ -3854,6 +4036,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-34</num>
       <heading>Chamber of Commerce Building.</heading>
       <text>Chamber of Commerce Building, 17 Commerce Street, Lot 3, Block 4-11-1349, measuring 81.5 feet by 186 feet, more or less.</text>
@@ -3865,10 +4048,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-35</num>
       <heading>Old St. Paul's Cemetery.</heading>
       <text>Old St. Paul's Cemetery, 733 W. Redwood Street, the property being further described as follows:</text>
-      <text>Beginning for the same at the point formed by the intersection of the south side of Redwood Street, as now laid out 60 feet wide, and the east side of Martin Luther King Jr. Boulevard, as now laid out varying in width, and running thence binding on the south side of said Redwood Street, North 86\uF0B0-38'-10" East 265 feet, more or less, to the east outline of the St. Paul's Cemetery property known as No. 733 W. Redwood Street; thence binding on the east outline of said St. Paul's Cemetery property, and on the east face of a stone wall, there situate, southerly 344 feet, more or less, to intersect the north side of Lombard Street, as now laid out 66 feet wide; thence binding on the north side of said Lombard Street, Westerly 306 feet, more or less, to intersect the northeast side of Martin Luther King Jr. Boulevard and thence binding on the northeast and east sides of said Martin Luther King Jr. Boulevard the three following courses and distances: namely, North 23\uF0B0-01'-10" West 4 feet, more or less, and by a line curving to the right with a radius of 1081.92 feet the distance of 342.00 feet which arc is subtended by a chord bearing North 03\uF0B048'-44" East 340.58 feet and North 12\uF0B0-52'-05" East 0.41 foot to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the south side of Redwood Street, as now laid out 60 feet wide, and the east side of Martin Luther King Jr. Boulevard, as now laid out varying in width, and running thence binding on the south side of said Redwood Street, North 86°-38'-10" East 265 feet, more or less, to the east outline of the St. Paul's Cemetery property known as No. 733 W. Redwood Street; thence binding on the east outline of said St. Paul's Cemetery property, and on the east face of a stone wall, there situate, southerly 344 feet, more or less, to intersect the north side of Lombard Street, as now laid out 66 feet wide; thence binding on the north side of said Lombard Street, Westerly 306 feet, more or less, to intersect the northeast side of Martin Luther King Jr. Boulevard and thence binding on the northeast and east sides of said Martin Luther King Jr. Boulevard the three following courses and distances: namely, North 23°-01'-10" West 4 feet, more or less, and by a line curving to the right with a radius of 1081.92 feet the distance of 342.00 feet which arc is subtended by a chord bearing North 03°48'-44" East 340.58 feet and North 12°-52'-05" East 0.41 foot to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(89)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §10-35</annotation>
@@ -3877,6 +4061,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-36</num>
       <heading>Wooden houses.</heading>
       <text>Wooden houses, located at 612-614 S. Wolfe Street, Lots 7 and 8 in Block 2-8-1829, measuring 25 x 75 feet, more or less.</text>
@@ -3888,6 +4073,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-37</num>
       <heading>Pascault Row.</heading>
       <text>Pascault Row, 651-665 W. Lexington Street, Lot 10 in Block 4-7-614.</text>
@@ -3899,6 +4085,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-38</num>
       <heading>Baltimore Museum of Art.</heading>
       <text>The Baltimore Museum of Art, 10 Art Museum Drive, Lot 1A in Block 12-2-3690.</text>
@@ -3910,6 +4097,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-39</num>
       <heading>Hutzler's Tower Building.</heading>
       <text>Hutzler's Tower Building, 222 N. Howard Street, Lot 28/32 in Block 4-10-596.</text>
@@ -3921,6 +4109,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-40</num>
       <heading>Gilman Hall.</heading>
       <text>Johns Hopkins University, Gilman Hall, being further described as follows:</text>
@@ -3933,6 +4122,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-41</num>
       <heading>D'Alesandro House.</heading>
       <text>The D'Alesandro House, 245 Albermarle Street, Lot 9 in Block 3-5-1413, measuring 17 x 50 feet.</text>
@@ -3949,10 +4139,11 @@
     <num>15</num>
     <heading>Landmark List – 1990s</heading>
     <section>
+      <prefix>§</prefix>
       <num>15-1</num>
       <heading>St. Joseph's Monastery.</heading>
       <text>St. Joseph's Monastery, 3800 Frederick Avenue, the property being further described as follows:</text>
-      <text>Beginning for the same at the point formed by the intersection of the north side of Frederick Avenue, 66 feet wide and the east side of Monastery Avenue, 50 feet wide, and running thence binding on the east side of said Monastery Avenue, North 02\uF0B0-22'-30" West 516.28 feet to intersect the division line between No. 3800 Frederick Avenue and No. 3831 Old Frederick Road; thence binding on said division line and continuing on another division line, the two following courses and distances; namely, North 85\uF0B0-42'-30" East 153.77 feet and North 04\uF0B0-57'-30" West 241.06 feet to the south side of Old Frederick Road; thence binding on the south and southwest sides of said Old Frederick Road, the three following courses and distances; namely, South 79\uF0B0-24'-21" East 304.25 feet, South 76\uF0B0-06'-41" East 149.01 feet and South 71\uF0B0-23'-05" East 455.32 feet to the west side of Morley Street, 66 feet wide; thence binding on the west side of said Morley Street, South 11\uF0B0-25'-45" West 547.35 feet to the north side of said Frederick Avenue and thence binding on the north side of said Frederick Avenue, the four following courses and distances; namely, by a line curving to the left with a radius of 1433.00 feet the distance of 319.57 feet which arc is subtended by a chord bearing North 85\uF0B0-05'-41" West 318.90 feet, South 88\uF0B0-31'-00" West 191.40 feet, by a line curving to the left with a radius of 4033.00 feet the distance of 109.10 feet which arc is subtended by a chord bearing South 87\uF0B0-44'-30" West 109.10 feet and South 86\uF0B0-58'-00" West 260.00 feet to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the north side of Frederick Avenue, 66 feet wide and the east side of Monastery Avenue, 50 feet wide, and running thence binding on the east side of said Monastery Avenue, North 02°-22'-30" West 516.28 feet to intersect the division line between No. 3800 Frederick Avenue and No. 3831 Old Frederick Road; thence binding on said division line and continuing on another division line, the two following courses and distances; namely, North 85°-42'-30" East 153.77 feet and North 04°-57'-30" West 241.06 feet to the south side of Old Frederick Road; thence binding on the south and southwest sides of said Old Frederick Road, the three following courses and distances; namely, South 79°-24'-21" East 304.25 feet, South 76°-06'-41" East 149.01 feet and South 71°-23'-05" East 455.32 feet to the west side of Morley Street, 66 feet wide; thence binding on the west side of said Morley Street, South 11°-25'-45" West 547.35 feet to the north side of said Frederick Avenue and thence binding on the north side of said Frederick Avenue, the four following courses and distances; namely, by a line curving to the left with a radius of 1433.00 feet the distance of 319.57 feet which arc is subtended by a chord bearing North 85°-05'-41" West 318.90 feet, South 88°-31'-00" West 191.40 feet, by a line curving to the left with a radius of 4033.00 feet the distance of 109.10 feet which arc is subtended by a chord bearing South 87°-44'-30" West 109.10 feet and South 86°-58'-00" West 260.00 feet to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(96)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §11-1</annotation>
@@ -3961,10 +4152,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-2</num>
       <heading>Orchard Street Church.</heading>
       <text>Orchard Street Church, 510 Orchard Street.</text>
-      <text>Beginning for the same at the point formed by the intersection of the northwest side of Orchard Street, as now laid out 60 feet wide, and the division line between the parcel of land known as Lot 1CR and the parcel of land adjoining on the northeast thereof known as Lot 1A, all as shown on a plat entitled "Amended Orchard-Biddle Neighborhood Development Program Final Subdivision Plan" and recorded among the plat records of Baltimore City in plat record R.H.B. No. 2514 on May 7, 1976, and running thence binding on the northwest side of said Orchard Street, South 43\uF0B0-32'-30" West 96.01 feet to the division line between the parcel of land known as Lot 1BR and the parcel of land adjoining on the southwest thereof known as Lot 1A, all as shown on said final subdivision plan; thence binding on last said division line between said Lot 1BR and Lot 1A, North 43\uF0B0-47'-30" West 64.00 feet to another division line between said Lot 1BR and Lot 1A; thence binding on last said division line between said Lot 1BR and Lot 1A and parallel with said Orchard Street North 43\uF0B0-32'-30" East 12.33 feet to the division line between said Lot 1CR and said Lot 1A; thence binding on last said division line between said Lot 1CR and Lot 1A, North 43\uF0B0-47''-30" West 61.10 feet; thence binding on another division line between said Lot 1CR and said Lot 1A and parallel with said Orchard Street, North 43\uF0B0-32'-30" East 83.68 feet to the division line between said Lot 1CR and said Lot 1A mentioned firstly herein and thence binding on the division line between said Lot 1CR and said Lot 1A mentioned firstly herein, South 43\uF0B0-47'-30" East 125.10 feet to the place of beginning.</text>
+      <text>Beginning for the same at the point formed by the intersection of the northwest side of Orchard Street, as now laid out 60 feet wide, and the division line between the parcel of land known as Lot 1CR and the parcel of land adjoining on the northeast thereof known as Lot 1A, all as shown on a plat entitled "Amended Orchard-Biddle Neighborhood Development Program Final Subdivision Plan" and recorded among the plat records of Baltimore City in plat record R.H.B. No. 2514 on May 7, 1976, and running thence binding on the northwest side of said Orchard Street, South 43°-32'-30" West 96.01 feet to the division line between the parcel of land known as Lot 1BR and the parcel of land adjoining on the southwest thereof known as Lot 1A, all as shown on said final subdivision plan; thence binding on last said division line between said Lot 1BR and Lot 1A, North 43°-47'-30" West 64.00 feet to another division line between said Lot 1BR and Lot 1A; thence binding on last said division line between said Lot 1BR and Lot 1A and parallel with said Orchard Street North 43°-32'-30" East 12.33 feet to the division line between said Lot 1CR and said Lot 1A; thence binding on last said division line between said Lot 1CR and Lot 1A, North 43°-47''-30" West 61.10 feet; thence binding on another division line between said Lot 1CR and said Lot 1A and parallel with said Orchard Street, North 43°-32'-30" East 83.68 feet to the division line between said Lot 1CR and said Lot 1A mentioned firstly herein and thence binding on the division line between said Lot 1CR and said Lot 1A mentioned firstly herein, South 43°-47'-30" East 125.10 feet to the place of beginning.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §40(ff)(97)</annotation>
         <annotation type="Prior Codifications">2000, art. 6, §11-2</annotation>
@@ -3973,6 +4165,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-3</num>
       <heading>Douglas Memorial Community Church.</heading>
       <text>Douglas Memorial Community Church, 1325 Madison Avenue, the property being further described as follows:</text>
@@ -3985,6 +4178,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-4</num>
       <heading>Buena Vista.</heading>
       <text>Buena Vista, 1705 North Longwood Street, Lot 16 in Block 517.</text>
@@ -3996,6 +4190,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-5</num>
       <heading>George Howard House.</heading>
       <text>The George Howard House, 8 East Madison Street, Lot 37A in Block 2411.</text>
@@ -4007,6 +4202,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-6</num>
       <heading>Charles Theater.</heading>
       <text>Charles Theater, 1711-1717 North Charles Street, Ward 12, Section 9, Block 408, Lot 6.</text>
@@ -4018,6 +4214,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-7</num>
       <heading>St. Katherine of Alexandria Protestant Episcopal Church.</heading>
       <text>St. Katherine of Alexandria Protestant Episcopal Church, 2001 Division Street, Ward 14, Section 6, Block 314, Lot 53.</text>
@@ -4029,6 +4226,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-8</num>
       <heading>Hecht Company Building.</heading>
       <text>The Hecht Company Building, 118 North Howard Street.</text>
@@ -4040,6 +4238,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-9</num>
       <heading>Congress Hotel.</heading>
       <text>The Congress Hotel (Hotel Kernan), 306-312 West Franklin Street.</text>
@@ -4051,6 +4250,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-10</num>
       <heading>Carlton Street Arab Stables.</heading>
       <text>The Carlton Street Arab Stables, 112 South Carlton Street.</text>
@@ -4062,6 +4262,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-11</num>
       <heading>Friends Burial Ground.</heading>
       <text>Friends Burial Ground, 2506 Harford Road.</text>
@@ -4073,6 +4274,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-12</num>
       <heading>Patterson Theater.</heading>
       <text>The Patterson Theater, 3136 Eastern Avenue.</text>
@@ -4084,6 +4286,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-13</num>
       <heading>Standard Oil Building.</heading>
       <text>The Standard Oil Building, 501 St. Paul Place.</text>
@@ -4100,6 +4303,7 @@
     <num>16</num>
     <heading>Landmark List – 2000s</heading>
     <section>
+      <prefix>§</prefix>
       <num>16-1</num>
       <heading>Northern District Police Station.</heading>
       <text>Northern District Police Station, 3355 Keswick Road.</text>
@@ -4110,6 +4314,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-2</num>
       <heading>Samuel Coleridge Taylor Elementary School #122.</heading>
       <text>Samuel Coleridge Taylor Elementary School #122, 501 West Preston Street.</text>
@@ -4120,6 +4325,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-3</num>
       <heading>Grace Hampden Methodist Church.</heading>
       <text>Grace Hampden Methodist Church, 1014 West 36<sup>th</sup> Street.</text>
@@ -4130,6 +4336,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-4</num>
       <heading>DuVal/Hirschhorn House.</heading>
       <text>DuVal/Hirschhorn House, 800 West Lake Avenue.</text>
@@ -4140,6 +4347,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-5</num>
       <heading>Patricia Grace Thomas Inn/Sankofa CDC/Museum on the National Roadway.</heading>
       <text>Patricia Grace Thomas Inn/Sankofa CDC/Museum on the National Roadway, 5002 Frederick Avenue.</text>
@@ -4150,6 +4358,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-6</num>
       <heading>New Life Missionary Baptist Church.</heading>
       <text>New Life Missionary Baptist Church, 1801 North Bond Street.</text>
@@ -4160,6 +4369,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-7</num>
       <heading>Cedarwood.</heading>
       <text>Cedarwood, 4604 North Charles Street.</text>
@@ -4170,6 +4380,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-8</num>
       <heading>Masjid Al Haqq.</heading>
       <text>Masjid Al Haqq, 514 Islamic Way.</text>
@@ -4180,6 +4391,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-9</num>
       <heading>Fire Engine Company No. 25.</heading>
       <text>Fire Engine Company No. 25, 2140 McCulloh Street.</text>
@@ -4190,6 +4402,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-10</num>
       <heading>Arch Social Club.</heading>
       <text>Arch Social Club, 2426 Pennsylvania Avenue.</text>
@@ -4200,6 +4413,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-11</num>
       <heading>Douglass Place.</heading>
       <text>Douglass Place, 516-524 South Dallas Street.</text>
@@ -4210,6 +4424,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-12</num>
       <heading>Weaver House.</heading>
       <text>Weaver House, 4319 Arabia Avenue.</text>
@@ -4220,6 +4435,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-13</num>
       <heading>Divine Mission Apostolic Church.</heading>
       <text>Divine Mission Apostolic Church, 1 North Fulton Avenue.</text>
@@ -4230,6 +4446,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-14</num>
       <heading>First English Lutheran Church.</heading>
       <text>First English Lutheran Church, 3807 North Charles Street.</text>
@@ -4240,6 +4457,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-15</num>
       <heading>Cherry Hill Elementary School #159.</heading>
       <text>Cherry Hill Elementary School #159, 801 Bridgeview Road.</text>
@@ -4250,6 +4468,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-16</num>
       <heading>Schwing Motor Company Building.</heading>
       <text>Schwing Motor Company Building, 3324 Keswick Road.</text>
@@ -4260,6 +4479,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-17</num>
       <heading>The Mount.</heading>
       <text>The Mount, 3706 Nortonia Road.</text>
@@ -4270,6 +4490,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-18</num>
       <heading>Saint Matthew United Church of Christ.</heading>
       <text>Saint Matthew United Church of Christ, 2320 Mayfield Avenue.</text>
@@ -4280,6 +4501,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-19</num>
       <heading>Baltimore City College.</heading>
       <text>Baltimore City College, 3320 The Alameda.</text>
@@ -4290,6 +4512,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-20</num>
       <heading>Johnny Eck House.</heading>
       <text>Johnny Eck House, 622 North Milton Avenue.</text>
@@ -4300,6 +4523,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-21</num>
       <heading>Christ Church United Church of Christ.</heading>
       <text>Christ Church United Church of Christ, 1308 Beason Street.</text>
@@ -4310,6 +4534,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-22</num>
       <heading>Ruscombe Mansion.</heading>
       <text>Ruscombe Mansion, 4901 Greenspring Avenue - 4901 Springarden Drive.</text>
@@ -4320,6 +4545,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-23</num>
       <heading>Union Baptist Church.</heading>
       <text>Union Baptist Church, 1219 Druid Hill Avenue.</text>
@@ -4330,6 +4556,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-24</num>
       <heading>Dr. John E.T. Camper House.</heading>
       <text>Dr. John E.T. Camper House, 639 North Carey Street.</text>
@@ -4340,6 +4567,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-25</num>
       <heading>Senator Theatre.</heading>
       <text>Senator Theatre, 5904 York Road.</text>
@@ -4350,6 +4578,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-26</num>
       <heading>American Brewery.</heading>
       <text>American Brewery, 1701 North Gay Street.</text>
@@ -4360,6 +4589,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-27</num>
       <heading>W.E.B. Du Bois House.</heading>
       <text>W.E.B. Du Bois House, 2302 Montebello Terrace.</text>
@@ -4370,6 +4600,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-28</num>
       <heading>Riverside Park.</heading>
       <text>Riverside Park, 301 East Randall Street.</text>
@@ -4380,6 +4611,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-29</num>
       <heading>Roland Park Water Tower.</heading>
       <text>Roland Park Water Tower, 4210 Roland Avenue.</text>
@@ -4390,6 +4622,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-30</num>
       <heading>Upton Mansion.</heading>
       <text>Upton Mansion, 811 West Lanvale Street.</text>
@@ -4400,6 +4633,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-31</num>
       <heading>Bolton Square.</heading>
       <text>Bolton Square, 1400 to 1420 Mason Street, 300 to 310 West Lafayette Avenue, 236 to 250 West Lafayette Avenue, and 1401 to 1421 Jordon Street.</text>
@@ -4410,6 +4644,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-32</num>
       <heading>Castalia.</heading>
       <text>Castalia, 200 Tuscany Road.</text>
@@ -4420,6 +4655,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-33</num>
       <heading>Mount Calvary Church.</heading>
       <text>Mount Calvary Church, 816 North Eutaw Street.</text>
@@ -4430,6 +4666,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-34</num>
       <heading>Saint Paul Community Baptist Church.</heading>
       <text>Saint Paul Community Baptist Church, 1901 East Federal Street.</text>
@@ -4440,6 +4677,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-35</num>
       <heading>St. Mark's Evangelical Lutheran Church.</heading>
       <text>St. Mark's Evangelical Lutheran Church, 1920 Saint Paul Street.</text>
@@ -4450,6 +4688,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-36</num>
       <heading>Scottish Rite Temple.</heading>
       <text>Scottish Rite Temple, 3800 North Charles Street.</text>
@@ -4460,6 +4699,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-37</num>
       <heading>Nazarene Baptist Church.</heading>
       <text>Nazarene Baptist Church, 1201 Harford Avenue.</text>
@@ -4470,6 +4710,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-38</num>
       <heading>St. Stanislaus Kostka Church.</heading>
       <text>St. Stanislaus Kostka Church, 700 block of South Ann Street.</text>
@@ -4480,6 +4721,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-39</num>
       <heading>Raffel Building.</heading>
       <text>Raffel Building, 107 West Heath Street.</text>
@@ -4490,6 +4732,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-40</num>
       <heading>Four Bay House.</heading>
       <text>Four Bay House, 1733 Aliceanna Street.</text>
@@ -4500,6 +4743,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-41</num>
       <heading>Dr. Giering House.</heading>
       <text>Dr. Giering House, 3906 Parkside Drive.</text>
@@ -4510,6 +4754,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-42</num>
       <heading>Melvin Cade Armory.</heading>
       <text>Melvin Cade Armory, 2620 Winchester Street.</text>
@@ -4520,6 +4765,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-43</num>
       <heading>Harford Commons (William Fuld Company).</heading>
       <text>Harford Commons (William Fuld Company), 1508 Harford Avenue.</text>
@@ -4530,6 +4776,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-44</num>
       <heading>President Street Station.</heading>
       <text>President Street Station, 601 President Street/801 Fleet Street.</text>
@@ -4540,6 +4787,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-45</num>
       <heading>Ann Wiggins Brown House.</heading>
       <text>Ann Wiggins Brown House, 1501 Presstman Street.</text>
@@ -4550,6 +4798,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-46</num>
       <heading>Kresge Building.</heading>
       <text>Kresge Building, 117 West Lexington Street.</text>
@@ -4560,6 +4809,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-47</num>
       <heading>Sellers Mansion.</heading>
       <text>Sellers Mansion, 801 North Arlington Avenue.</text>
@@ -4575,6 +4825,7 @@
     <num>17A</num>
     <heading>Landmark List: Exteriors – 2010s</heading>
     <section>
+      <prefix>§</prefix>
       <num>17A-1</num>
       <heading>Waverly Town Hall.</heading>
       <text>Waverly Town Hall, 3100 Greenmount Avenue (Block 3881, Lot 10/12).</text>
@@ -4585,6 +4836,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-2</num>
       <heading>Franklin-Delphey Hotel.</heading>
       <text>Franklin-Delphey Hotel, 300 West Franklin Street.</text>
@@ -4595,6 +4847,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-3</num>
       <heading>Grand Masonic Temple.</heading>
       <text>Grand Masonic Temple, 221-227 North Charles Street.</text>
@@ -4605,6 +4858,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-4</num>
       <heading>Mayfair Theater.</heading>
       <text>Mayfair Theater, 506 North Howard Street.</text>
@@ -4615,6 +4869,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-5</num>
       <heading>Hansa Haus.</heading>
       <text>Hansa Haus, 11 South Charles Street.</text>
@@ -4625,6 +4880,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-6</num>
       <heading>Grace Turnbull House.</heading>
       <text>Grace Turnbull House, 223 Chancery Road.</text>
@@ -4635,6 +4891,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-7</num>
       <heading>St. Peter the Apostle Church Complex.</heading>
       <text>St. Peter the Apostle Church Complex, 13 South Poppleton Street, 11 South Poppleton Street, 848 Hollins Street, and 16 South Poppleton Street.</text>
@@ -4645,6 +4902,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-8</num>
       <heading>Old Dunbar High School.</heading>
       <text>Old Dunbar High School, 540 North Caroline Street.</text>
@@ -4655,6 +4913,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-9</num>
       <heading>Shelley House.</heading>
       <text>Shelley House, 3849 Roland Avenue.</text>
@@ -4665,6 +4924,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-10</num>
       <heading>Abell Building.</heading>
       <text>Abell Building, 329-335 West Baltimore Street.</text>
@@ -4675,6 +4935,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-11</num>
       <heading>Appold-Faust Building.</heading>
       <text>Appold-Faust Building, 307-309 West Baltimore Street.</text>
@@ -4685,6 +4946,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-12</num>
       <heading>Baltimore Equitable Society Building.</heading>
       <text>Baltimore Equitable Society Building, 21 North Eutaw Street.</text>
@@ -4695,6 +4957,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-13</num>
       <heading>Equitable Building.</heading>
       <text>Equitable Building, 10-12 North Calvert Street.</text>
@@ -4705,6 +4968,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-14</num>
       <heading>Old Town National Bank Building.</heading>
       <text>Old Town National Bank Building, 221 North Gay Street.</text>
@@ -4715,6 +4979,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-15</num>
       <heading>St. Alphonsus Hall.</heading>
       <text>St. Alphonsus Hall, 125 West Saratoga Street.</text>
@@ -4725,6 +4990,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-16</num>
       <heading>Terminal Warehouse Building.</heading>
       <text>Terminal Warehouse Building, 320 Guilford Avenue.</text>
@@ -4735,6 +5001,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-17</num>
       <heading>Turnbull Building.</heading>
       <text>Turnbull Building, 311-313 West Baltimore Street.</text>
@@ -4745,6 +5012,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-18</num>
       <heading>Frederick Douglass High School #450.</heading>
       <text>Frederick Douglass High School #450, 2301 Gwynns Falls Parkway.</text>
@@ -4755,6 +5023,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-19</num>
       <heading>Historic Frederick Douglass High School.</heading>
       <text>Historic Frederick Douglass High School, 1645 North Calhoun Street.</text>
@@ -4765,6 +5034,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-20</num>
       <heading>Florence Crittenton Home.</heading>
       <text>Florence Crittenton Home, 3110 Crittenton Place.</text>
@@ -4775,6 +5045,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-21</num>
       <heading>Trinity A.M.E. Church.</heading>
       <text>Trinity A.M.E. Church, 2130 East Hoffman Street.</text>
@@ -4785,6 +5056,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-22</num>
       <heading>Union Mill (Historic Druid Mill).</heading>
       <text>Union Mill (Historic Druid Mill), 1500 Union Avenue.</text>
@@ -4795,6 +5067,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-23</num>
       <heading>C.J. Youse Building.</heading>
       <text>C.J. Youse Building, 235 North Holliday Street.</text>
@@ -4805,6 +5078,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-24</num>
       <heading>Brinks Building.</heading>
       <text>Brinks Building, 231 North Holliday Street.</text>
@@ -4815,6 +5089,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-25</num>
       <heading>Canton Methodist Episcopal Church.</heading>
       <text>Canton Methodist Episcopal Church, 1000 South Ellwood Street.</text>
@@ -4825,6 +5100,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-26</num>
       <heading>Messiah English Lutheran Church.</heading>
       <text>Messiah English Lutheran Church, 1025 South Potomac Street.</text>
@@ -4835,6 +5111,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-27</num>
       <heading>Parkway Theatre.</heading>
       <text>Parkway Theatre, 3 West North Avenue.</text>
@@ -4845,6 +5122,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-28</num>
       <heading>Monumental Lodge No. 3, Improved Benevolent Protective Order of Elks of the World.</heading>
       <text>Monumental Lodge No. 3, Improved Benevolent Protective Order of Elks of the World, 1528 Madison Avenue.</text>
@@ -4855,6 +5133,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-29</num>
       <heading>Haven Street Factory.</heading>
       <text>Haven Street Factory, 101 North Haven Street.</text>
@@ -4865,6 +5144,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-30</num>
       <heading>Public School No. 103, Henry Highland Garnet School.</heading>
       <text>Public School No. 103, Henry Highland Garnet School, 1315 Division Street.</text>
@@ -4875,6 +5155,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-31</num>
       <heading>Cross Keys Valve House.</heading>
       <text>Cross Keys Valve House, 5106 Falls Road.</text>
@@ -4885,6 +5166,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-32</num>
       <heading>Enoch Pratt House.</heading>
       <text>Enoch Pratt House, 201 West Monument Street.</text>
@@ -4895,6 +5177,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-33</num>
       <heading>St. John's in the Village.</heading>
       <text>St. John's in the Village, 3009-3009½ Greenmount Avenue and 3001 Old York Road.</text>
@@ -4905,6 +5188,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-34</num>
       <heading>Rehoboth Church of God in Christ Jesus Apostolic.</heading>
       <text>Rehoboth Church of God in Christ Jesus Apostolic, 700 Poplar Grove Street.</text>
@@ -4915,6 +5199,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-35</num>
       <heading>Olmsted Parkways.</heading>
       <para>
@@ -4961,6 +5246,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-36</num>
       <heading>American Legion Federal Post # 19.</heading>
       <text>American Legion Federal Post # 19, 1502 Madison Avenue.</text>
@@ -4969,6 +5255,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-37</num>
       <heading>Apostolic Faith Church of God Building.</heading>
       <text>Apostolic Faith Church of God Building, 1939 Walbrook Avenue.</text>
@@ -4977,6 +5264,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-38</num>
       <heading>Ambassador Theatre.</heading>
       <text>Ambassador Theatre, 4604 Liberty Heights Avenue.</text>
@@ -4985,6 +5273,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-39</num>
       <heading>St. Mark's Institutional Baptist Church.</heading>
       <text>St. Mark's Institutional Baptist Church, 655 North Bentalou Street.</text>
@@ -4993,6 +5282,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-40</num>
       <heading>Eastern Avenue Pumping Station.</heading>
       <text>Eastern Avenue Pumping Station, 751 Eastern Avenue.</text>
@@ -5001,6 +5291,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-41</num>
       <heading>Dr. John Ruhrah Elementary Middle School (School #228).</heading>
       <text>Dr. John Ruhrah Elementary Middle School (School #228), 701 Rappolla Street.</text>
@@ -5009,6 +5300,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-42</num>
       <heading>Patterson Park.</heading>
       <text>Patterson Park in its entirety and all of its existing structures, 100 South Linwood Avenue (Block 1740, Lot 001) and 201 South Linwood Avenue (Block 1740, Lot 002).</text>
@@ -5017,6 +5309,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-43</num>
       <heading>Greater Faith Baptist Church.</heading>
       <text>Greater Faith Baptist Church, 3000-3004 Huntingdon Avenue.</text>
@@ -5025,6 +5318,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-44</num>
       <heading>Harry O. Wilson House.</heading>
       <text>Harry O. Wilson House, 4423 Craddock Avenue and Block 5191, Lot 009.</text>
@@ -5033,6 +5327,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-45</num>
       <heading>Chuck Webb Memorial Recreation Center.</heading>
       <text>Chuck Webb Memorial Recreation Center, 1401 East Monument Street, historically known as 623 North Eden Street.</text>
@@ -5041,6 +5336,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-46</num>
       <heading>Our Saviour Lutheran Church.</heading>
       <text>Our Saviour Lutheran Church, 3301 The Alameda.</text>
@@ -5049,6 +5345,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17A-47</num>
       <heading>Hanlon Park.</heading>
       <text>Hanlon Park in its entirety, 3051 Liberty Heights Avenue (Block 3099, Lot 001), 3001 North Hilton Street (Block 3099, Lot 002), and 2731 North Longwood Street (Block 3099, Lot 004).</text>
@@ -5062,6 +5359,7 @@
     <num>17B</num>
     <heading>Landmark List: Public Interiors – 2010s</heading>
     <section>
+      <prefix>§</prefix>
       <num>17B-1</num>
       <heading>Senator Theatre.</heading>
       <text>Senator Theatre, 5904 York Road.</text>
@@ -5072,6 +5370,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17B-2</num>
       <heading>St. Mark's Evangelical Lutheran Church.</heading>
       <text>St. Mark's Evangelical Lutheran Church, 1920 Saint Paul Street.</text>
@@ -5082,6 +5381,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17B-3</num>
       <heading>St. John's in the Village.</heading>
       <text>St. John's in the Village, 3009-3009½ Greenmount Avenue and 3001 Old York Road.</text>
@@ -5092,6 +5392,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17B-4</num>
       <heading>City Hall Rotunda.</heading>
       <text>City Hall Rotunda, 100 North Holliday Street.</text>
@@ -5107,6 +5408,7 @@
     <num>18A</num>
     <heading>Landmark List: Exteriors – 2020s</heading>
     <section>
+      <prefix>§</prefix>
       <num>18A-1</num>
       <heading>Clifton School.</heading>
       <text>Clifton School, 2670 Kennedy Avenue.</text>
@@ -5115,6 +5417,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18A-2</num>
       <heading>Harlem Theatre.</heading>
       <text>Harlem Theatre, 614 North Gilmor Street (Block 0110, Lot 008).</text>
@@ -5123,6 +5426,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18A-3</num>
       <heading>Baltimore City Engine Company 14 Firehouse.</heading>
       <text>Baltimore City Engine Company 14 Firehouse, 1908 Hollins Street (Block 0207, Lot 005).</text>
@@ -5131,6 +5435,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18A-4</num>
       <heading>Canton Railroad Transfer Bridge.</heading>
       <text>Canton Railroad Transfer Bridge, Improvement Only Parcel: Ward 01, Section 10, Block 1902-F, Lot 001.</text>
@@ -5139,6 +5444,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18A-5</num>
       <heading>3818 Roland Avenue.</heading>
       <text>3818 Roland Avenue (Block 3563A, Lot 039).</text>
@@ -5147,6 +5453,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18A-6</num>
       <heading>Reed Calloway House.</heading>
       <text>Reed Calloway House, 1316 North Carey Street {Block 0036A, Lot 010}.</text>
@@ -5155,6 +5462,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18A-7</num>
       <heading>Truck House No. 5 (Oliver Community Firehouse).</heading>
       <text>Truck House No. 5 (Oliver Community Firehouse), 1220 East Oliver Street {Block 1123, Lot 017}.</text>

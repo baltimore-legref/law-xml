@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>City Comptroller</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Oath of office.</heading>
       <text>The Comptroller, before entering upon his duties, shall take the usual oath of office.</text>
@@ -21,6 +22,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Clerk to the Board of Estimates.</heading>
       <text>The Comptroller or the Comptroller's designee shall perform the duties of Clerk to the Board of Estimates.</text>
@@ -43,6 +45,7 @@
     <num>2</num>
     <heading>Director of Finance</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Surety bond.</heading>
       <text>Before he enters upon the duties of his office, the Director of Finance shall execute a bond to the corporation, with such securities as the Mayor may approve, in the penal sum of $150,000, with the condition that he will faithfully discharge the duties and trust reposed in him.</text>
@@ -58,6 +61,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Deputy Director.</heading>
       <text>In the event of the necessary absence of the Director of Finance from sickness or other cause, the Deputy Director shall have full power and authority to exercise and perform all the duties of the Director.</text>
@@ -75,6 +79,7 @@
     <num>3</num>
     <heading>Deposit of City Funds</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Required deposit and accounting.</heading>
       <para>
@@ -115,6 +120,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Agreements with custodians.</heading>
       <text>The Director of Finance, the Board of Estimates, and the Board of Finance are hereby authorized and empowered to execute and approve, on behalf of the Mayor and City Council of Baltimore, from time to time, agreements pertaining to the safekeeping by such custodial institutions as may from time to time be selected by them of collateral posted by financial institutions to secure funds deposited therein by the Mayor and City Council of Baltimore and the Director of Finance and other departments, agencies, and officials of the municipality.</text>
@@ -129,6 +135,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Petty cash checking account.</heading>
       <para>
@@ -187,6 +194,7 @@
     <num>4</num>
     <heading>Stocks and Certificates of Indebtedness</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>Records required.</heading>
       <para>
@@ -218,6 +226,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Lost certificates — publication.</heading>
       <text>In all cases of application for renewal of certificates of City stock or indebtedness of the City of Baltimore, where said certificates may have been lost or destroyed, the person making such application shall give at least 60 day's notice by publication once a week, in 2 of the daily newspapers published in the City of Baltimore, describing such certificate or certificates, and at the same time, declaring his or her intention to make such application.</text>
@@ -232,6 +241,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Lost certificates — bond.</heading>
       <text>The Director of Finance shall, before he issues such duplicate certificate or certificates, require the person making such application to enter into a bond, with security to be approved by him, in double the amount of such certificate or certificates.</text>
@@ -246,6 +256,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-4</num>
       <heading>Faith and credit of City.</heading>
       <text>The faith and credit of the Mayor and City Council of Baltimore and its corporate property are hereby pledged for the redemption of its stock and certificates of indebtedness and the payment of interest thereon, at such times as may be specified in the ordinances authorizing the same.</text>
@@ -260,6 +271,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-5</num>
       <heading>Sinking fund investments.</heading>
       <para>
@@ -283,6 +295,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-6</num>
       <heading>Consolidation of certificates.</heading>
       <text>The Board of Finance is hereby authorized and empowered in its discretion to consolidate the several certificates of City stock or certificates of indebtedness held by it with any and every sinking fund under its care.</text>
@@ -297,6 +310,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-7</num>
       <heading>Duties of Board Clerk.</heading>
       <para>
@@ -345,6 +359,7 @@
     <num>5</num>
     <heading>Investments</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Rules, regulations, or guidelines for investments.</heading>
       <text>The Board of Finance of the City of Baltimore is hereby designated as the agency of the Mayor and City Council of Baltimore which is authorized to adopt rules, regulations or guidelines covering the exercise of the investment authority granted to the Treasurer of Baltimore City by Chapter 755 of the Laws of Maryland of 1974.</text>
@@ -355,6 +370,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Local government investment policy.</heading>
       <para>
@@ -397,6 +413,7 @@
     <num>6</num>
     <heading>Social Services Expenditures</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Payments to Social Services Director.</heading>
       <text>Upon the receipt of the written request of the Director of Social Services or his duly authorized agent, for the funds for the assistance rolls and foster care program of the Department of Social Services, previously approved by the Director of Finance for payment, the Mayor and the Director of Finance, are hereby authorized and empowered to pay funds of the Mayor and City Council of Baltimore to the Director of Social Services for the assistance rolls and foster care program of the Department of Social Services.</text>
@@ -409,6 +426,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Deposit of funds.</heading>
       <text>All money received by the Director of Social Services from the Mayor and City Council of Baltimore under the provisions of this subtitle must be deposited in a depository or depositories designated by the Board of Finance from time to time.</text>
@@ -421,6 +439,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Withdrawal of funds.</heading>
       <para>
@@ -461,6 +480,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Surety bond.</heading>
       <text>The Director of Social Services and the Disbursing Officer designated by the Director of Social Services as aforesaid, before performing any act under the provisions of this subtitle, shall give bond to the Mayor and City Council of Baltimore in such amount, in such form, and upon such conditions as may be required for employees of the Department of Finance.</text>
@@ -478,6 +498,7 @@
     <num>7</num>
     <heading>Human Services Expenditures</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Payments to Executive Deputy Commissioner.</heading>
       <text>Upon the receipt of a written request of the Executive Deputy Commissioner of the Human Services Division of the Department of Housing and Community Development or his duly authorized agent, for funds for such programs as approved for payment by the Board of Estimates on recommendation of the Director of Finance, the Mayor and the Director of Finance are hereby authorized and empowered to pay funds of the Mayor and City Council of Baltimore to the Executive Deputy Commissioner for such programs.</text>
@@ -487,6 +508,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Deposit of funds.</heading>
       <text>All money received by the Executive Deputy Commissioner of the Human Services Division from the Mayor and City Council of Baltimore under the provisions of this subtitle shall be deposited in a depository or depositories designated by the Board of Finance from time to time.</text>
@@ -496,6 +518,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Withdrawal of funds.</heading>
       <para>
@@ -533,6 +556,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Surety bond.</heading>
       <text>The Executive Deputy Commissioner of the Urban Services Agency and the designated Disbursing Officer, before performing any act under the provisions of this subtitle, shall give bond to the Mayor and City Council of Baltimore in the amount and form and under the conditions as may be required for employees of the Department of Finance.</text>
@@ -547,6 +571,7 @@
     <num>8</num>
     <heading>Special Funds</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Public School Construction and Renovation Special Fund.</heading>
       <para>
@@ -600,6 +625,7 @@
     <num>9</num>
     <heading>Children and Youth Fund</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -628,6 +654,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2</num>
       <heading>Uses of Fund.</heading>
       <para>
@@ -657,6 +684,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-3</num>
       <heading>Purpose.</heading>
       <text>The fiscal agent shall be a community-centered grant-making institution that fosters and promotes:</text>
@@ -681,6 +709,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-4</num>
       <heading>Fiscal agent.</heading>
       <para>
@@ -739,6 +768,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-5</num>
       <heading>Board of directors.</heading>
       <para>
@@ -851,6 +881,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-6</num>
       <heading>Annual financial plan.</heading>
       <para>
@@ -919,9 +950,10 @@
     </section>
     <section>
       <num>9-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-8</num>
       <heading>Annual review; Dissolution of board.</heading>
       <para>
@@ -946,6 +978,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-9</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance must adopt rules and regulations to carry out this subtitle including:</text>
@@ -958,13 +991,14 @@
         <text>procedures for transferring money from the Fund to either the interim fiscal agent or directly to service and program providers designated by the interim fiscal agent.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 18-103" type="History">Ord. 18-103</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-363" type="History">Ord. 20-363</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-10</num>
       <heading>Annual report.</heading>
       <text>No later than June 30 of each year, the Board shall prepare and submit a report to the Mayor and City Council detailing the activities and the impact of the Fund.</text>
@@ -979,6 +1013,7 @@
     <num>10</num>
     <heading>Property Insurance</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Insurance claims.</heading>
       <para>
@@ -1016,6 +1051,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-2</num>
       <heading>Purchase of insurance.</heading>
       <para>
@@ -1040,6 +1076,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-3</num>
       <heading>City Property Insurance Fund — uses; appropriations.</heading>
       <para>
@@ -1085,6 +1122,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-4</num>
       <heading>City Property Insurance Fund — investments.</heading>
       <text>The Board of Finance is hereby authorized and directed to:</text>
@@ -1114,6 +1152,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-5</num>
       <heading>Restoration of damaged property.</heading>
       <para>
@@ -1166,6 +1205,7 @@
       <num>1</num>
       <heading>Definitions; Findings</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -1300,9 +1340,10 @@
       </section>
       <section>
         <num>11-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-3</num>
         <heading>Findings.</heading>
         <para>
@@ -1372,7 +1413,7 @@
       </section>
       <section>
         <num>11-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1380,6 +1421,7 @@
       <num>2</num>
       <heading>Fund; Commission</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-5</num>
         <heading>Fair Election Fund established.</heading>
         <para>
@@ -1453,9 +1495,10 @@
       </section>
       <section>
         <num>11-6</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-7</num>
         <heading>Fair Election Fund Commission.</heading>
         <para>
@@ -1481,6 +1524,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-8</num>
         <heading>Fund administration; Commission duties.</heading>
         <para>
@@ -1530,6 +1574,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-9</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director, in consultation with the Commission, must adopt rules and regulations to carry out the provisions of this subtitle, including specifying:</text>
@@ -1554,14 +1599,14 @@
           <text>other policies necessary to implement this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-338" type="History">Ord. 20-338</annotation>
           <annotation type="History">Text Conformed 02/14/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>11-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1569,6 +1614,7 @@
       <num>3</num>
       <heading>Community Engagement; Post-Election Reviews</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-11</num>
         <heading>Community education and engagement.</heading>
         <para>
@@ -1598,6 +1644,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-12</num>
         <heading>Commission review.</heading>
         <para>
@@ -1682,7 +1729,7 @@
       </section>
       <section>
         <num>11-13</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1690,6 +1737,7 @@
       <num>4</num>
       <heading>Candidate and Fund Procedures</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-14</num>
         <heading>Collecting qualifying contributions.</heading>
         <para>
@@ -1750,6 +1798,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-15</num>
         <heading>Requirements for certification.</heading>
         <para>
@@ -1879,6 +1928,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-16</num>
         <heading>Certification determination.</heading>
         <para>
@@ -1925,6 +1975,7 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-17</num>
         <heading>Distribution of public contribution.</heading>
         <para>
@@ -2081,6 +2132,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-18</num>
         <heading>Use of public contribution.</heading>
         <para>
@@ -2176,6 +2228,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-19</num>
         <heading>Withdrawal.</heading>
         <para>
@@ -2219,7 +2272,7 @@
       </section>
       <section>
         <num>11-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -2227,6 +2280,7 @@
       <num>5</num>
       <heading>Restrictions; Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-21</num>
         <heading>Restrictions on applicant and participating candidates.</heading>
         <para>
@@ -2281,9 +2335,10 @@
       </section>
       <section>
         <num>11-22</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-23</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -2320,6 +2375,7 @@
     <num>12</num>
     <heading>Comprehensive Insurance and Risk Management Program</heading>
     <section>
+      <prefix>§</prefix>
       <num>12-1</num>
       <heading>Legislative findings; losses to be covered.</heading>
       <para>
@@ -2338,6 +2394,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-2</num>
       <heading>Creation of Fund; funding.</heading>
       <para>
@@ -2379,6 +2436,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-3</num>
       <heading>Committee on Insurance and Risk Management.</heading>
       <para>
@@ -2420,6 +2478,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-4</num>
       <heading>Disbursement of funds.</heading>
       <text>No monies shall be disbursed from the Fund except:</text>
@@ -2440,6 +2499,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-5</num>
       <heading>Investment of funds.</heading>
       <text>The monies in the Self-Insurance Fund and the earnings thereon shall be invested by the Board of Finance as are other monies in its charge.</text>
@@ -2449,6 +2509,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-6</num>
       <heading>Administration of Fund.</heading>
       <para>
@@ -2484,6 +2545,7 @@
     <num>13</num>
     <heading>Self-Insurance Program for Commodity, Service, and Construction Contracts</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2518,6 +2580,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>Program established.</heading>
       <para>
@@ -2564,14 +2627,15 @@
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Estimates shall have the authority to promulgate rules and regulations for the administration of this program.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §202</annotation>
         <annotation doc="City of Balt., Md., Ord. 86-774" type="History">Ord. 86-774</annotation>
         <annotation doc="City of Balt., Md., Ord. 89-362" type="History">Ord. 89-362</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Liability Reserve Fund — established.</heading>
       <para>
@@ -2602,6 +2666,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4</num>
       <heading>Liability Reserve Fund — when to be used.</heading>
       <text>The Liability Reserve Fund shall be used to pay any losses which the Mayor and City Council of Baltimore sustains pursuant to its Self-Insurance Program, only after the sums provided for in § 13-2 of this subtitle have been fully expended or encumbered.</text>
@@ -2611,6 +2676,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-5</num>
       <heading>Payment under Program not waiver of remedies.</heading>
       <para>
@@ -2629,6 +2695,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-6</num>
       <heading>Investments; annual statement.</heading>
       <text>The Board of Finance for Baltimore City is hereby authorized and directed to:</text>
@@ -2658,6 +2725,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-7</num>
       <heading>Annual report.</heading>
       <text>After the close of each fiscal year, the Director of Finance shall report to the Mayor and City Council the year-end fund balances of the Self-Insurance Fund and the Liability Reserve Fund, the amount of excess funds credited to the General Fund, and the claims paid under this Self-Insurance Program, by itemizing in sufficient detail the total amounts paid for applicable commodity, service, and construction contracts.</text>
@@ -2675,6 +2743,7 @@
       <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 20-355.  Per Section 3 of that Ordinance, the subtitle became effective May 23, 2020, and “will remain effective through June 30, 2025, and immediately after that date, with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect”.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>14-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2689,9 +2758,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(d)</num>
@@ -2726,6 +2793,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-2</num>
       <heading>Program established.</heading>
       <para>
@@ -2757,9 +2825,10 @@
     </section>
     <section>
       <num>14-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-4</num>
       <heading>Rebate eligibility.</heading>
       <text>To be eligible for a rebate under this subtitle, a property owner or lessee shall:</text>
@@ -2780,6 +2849,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-5</num>
       <heading>Rebate application.</heading>
       <para>
@@ -2836,6 +2906,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-6</num>
       <heading>Rebate amount.</heading>
       <para>
@@ -2905,9 +2976,10 @@
     </section>
     <section>
       <num>14-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-8</num>
       <heading>Vouchers.</heading>
       <para>
@@ -2966,9 +3038,10 @@
     </section>
     <section>
       <num>14-9</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-10</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -3007,12 +3080,13 @@
         <text>Every 2 years from the date of initial adoption of the rules and regulations required by this section, the Director shall conduct a review of those rules and regulations and update them as necessary.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-355" type="History">Ord. 20-355</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-11</num>
       <heading>Annual report.</heading>
       <text>No later than June 30 of each year, the Director shall prepare and submit a report to the Mayor and City Council detailing data regarding the Program from the preceding year, including:</text>
@@ -3041,6 +3115,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-12</num>
       <heading>Penalties.</heading>
       <text>Any person who knowingly makes a false statement on or in connection with an application for a rebate or a voucher under this section or in connection with any statement supporting a property's eligibility for a rebate or a voucher granted under this section is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
@@ -3057,6 +3132,7 @@
       <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 20-429, effective January 1, 2021. Ord.20-429 proposed to codify this new enactment as “Subtitle 14”, but that designation  was already preempted by Ord.20-355.  Hence, this new enactment is codified in this Subtitle 15.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>15-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -3087,6 +3163,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-2</num>
       <heading>Reporting – In general.</heading>
       <para>
@@ -3109,6 +3186,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-3</num>
       <heading>Reporting – City contracts awarded to employee-owned businesses.</heading>
       <para>
@@ -3150,6 +3228,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-4</num>
       <heading>Assessments; Legislative and policy recommendations.</heading>
       <text>Utilizing the data contained in the report required by § 15-2 {"Reporting – In general"} of this subtitle, the Mayor's Office of Small Business (or its successor office, agency, or unit) shall, no later than June 30 of each year, submit a report to the Mayor and City Council setting forth:</text>
@@ -3171,6 +3250,7 @@
     <num>16</num>
     <heading>Records and Inventory of Real Property</heading>
     <section>
+      <prefix>§</prefix>
       <num>16-1</num>
       <heading>Record of conveyances and contracts.</heading>
       <para>
@@ -3204,6 +3284,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-2</num>
       <heading>Comprehensive inventory required.</heading>
       <para>
@@ -3247,10 +3328,10 @@
         <text>The inventory must be posted online for public inspection.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Subsection (d) was amended by Ordinance 21-032, effective January 10, 2022, to require posting the inventory online (rather than, as has been the practice, “kept in the office of the Comptroller” and only open for public inspection “during regular office business hours”). Cf.  Editor’s Note to the preceding § 16-1.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 5, §2A</annotation>
         <annotation doc="City of Balt., Md., Ord. 97-144" type="History">Ord. 97-144</annotation>
         <annotation doc="City of Balt., Md., Ord. 21-032" type="History">Ord. 21-032</annotation>
+        <annotation type="Editor's Notes">Subsection (d) was amended by Ordinance 21-032, effective January 10, 2022, to require posting the inventory online (rather than, as has been the practice, “kept in the office of the Comptroller” and only open for public inspection “during regular office business hours”). Cf.  Editor’s Note to the preceding § 16-1.</annotation>
       </annotations>
     </section>
   </container>
@@ -3259,6 +3340,7 @@
     <num>17</num>
     <heading>Real Property Acquisition</heading>
     <section>
+      <prefix>§</prefix>
       <num>17-1</num>
       <heading>Real Estate Department or designee of Board of Estimates authorized.</heading>
       <para>
@@ -3286,6 +3368,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-2</num>
       <heading>Negotiations confirmed.</heading>
       <text>Any acquisition of real property or an interest therein, and any and all negotiations for the purpose of acquiring real property or an interest therein made on behalf of the Mayor and City Council of Baltimore by such persons who shall have been designated by the aforesaid divers ordinances, or by the Department of Real Estate, or by the Board of Estimates in the exercise of the authority vested in it by § 39 of the Baltimore City Charter as aforesaid <em>{cf. Article V, §5(a) of the City Charter (1996 Edition)}</em>, are hereby ratified and confirmed, and shall be deemed to have been made by the persons designated in the aforesaid divers ordinances as the persons to negotiate for and acquire property on behalf of the Mayor and City Council of Baltimore, it being hereby declared to have been the legislative intent of said divers ordinances in purporting to designate the persons to negotiate for and acquire property on behalf of the Mayor and City Council of Baltimore to have named the persons designated by the Board of Estimates in the exercise of the powers vested in it by § 39 of the Baltimore City Charter, as aforesaid <em>{cf. Article V, §5(a)}</em>.</text>
@@ -3296,6 +3379,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-3</num>
       <heading>Effect of subtitle.</heading>
       <text>Nothing contained in this subtitle shall be construed to affect adversely the validity of any acquisition of property heretofore made, or to affect any pending or future acquisition of property by or on behalf of the Mayor and City Council of Baltimore, except as specifically provided in this subtitle.</text>
@@ -3311,6 +3395,7 @@
     <num>18</num>
     <heading>Condemnation Notice and Hearing</heading>
     <section>
+      <prefix>§</prefix>
       <num>18-1</num>
       <heading>User agency to list properties.</heading>
       <text>When an ordinance is introduced into the City Council for the condemnation of any property, the department, bureau, or agency by which the property would be used shall file with the Department of Transportation a complete list of all properties in the area proposed to be condemned.</text>
@@ -3325,6 +3410,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-2</num>
       <heading>DoT to notify owners.</heading>
       <para>
@@ -3380,6 +3466,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-3</num>
       <heading>Hearing.</heading>
       <text>Such a hearing shall not be scheduled by the City Council or its committees within a shorter period than 1 week following the time the said property owners should ordinarily have received the mailed notice of the introduction of the ordinance.</text>
@@ -3395,6 +3482,7 @@
     <num>19</num>
     <heading>Real Estate Appraisals</heading>
     <section>
+      <prefix>§</prefix>
       <num>19-1</num>
       <heading>Certified or licensed appraiser required.</heading>
       <para>
@@ -3418,6 +3506,7 @@
     <num>20</num>
     <heading>Naming City Property</heading>
     <section>
+      <prefix>§</prefix>
       <num>20-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -3449,6 +3538,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-2</num>
       <heading>Ordinance required for naming.</heading>
       <para>
@@ -3494,6 +3584,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-3</num>
       <heading>Inventories of property.</heading>
       <para>
@@ -3517,6 +3608,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-4</num>
       <heading>Subtitle inapplicable to streets.</heading>
       <text>This subtitle shall not apply to the naming of streets as provided in Article 26, Subtitle 7 of the City Code.</text>
@@ -3534,6 +3626,7 @@
       <annotation type="Editor's Notes">This subtitle was added by Ordinance 16-451 (Bill 15-590), effective March 9, 2016.  Bill 15-590 passed the City Council on January 11, 2016.  Pursuant to City Charter Art. IV, § 5(c), that bill became law February 8, 2016, without the Mayor’s signature.  See also Note to § 20A-1(b) of this subtitle.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>20A-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -3585,9 +3678,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(d)</num>
@@ -3604,8 +3695,6 @@
         </para>
       </para>
       <annotations>
-        <annotation doc="City of Balt., Md., Ord. 16-451" type="History">Ord. 16-451</annotation>
-        <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
         <annotation type="Editor's Notes">
           <text>The application of the definition in paragraph (b)(2) to school buildings has subsequently been limited by Chapter 607, Acts of 2016.  Among other things, Chapter 607 amended State Economic Development Article § 10-645 to add new subsection (m), as follows</text>
           <text>Notwithstanding any other provision of law, a demolition or partial demolition of a school building under the Baltimore City Public Schools’ 10–Year Plan shall be exempt from any required notice to the Baltimore City Council or the President of the Baltimore City Council. </text>
@@ -3613,6 +3702,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20A-2</num>
       <heading>Exclusions from subtitle.</heading>
       <text>This subtitle does not apply to a City structure for which the Building Official or his or her designee has certified in writing that its demolition is an emergency measure necessary to protect life, health, safety, or property from imminent danger.</text>
@@ -3621,6 +3711,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20A-3</num>
       <heading>Notice to City Council.</heading>
       <para>
@@ -3668,6 +3759,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20A-4</num>
       <heading>Council action on proposed ordinance.</heading>
       <para>
@@ -3717,6 +3809,7 @@
       <num>I</num>
       <heading>General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>21-1</num>
         <heading>Findings; purpose.</heading>
         <para>
@@ -3755,6 +3848,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-2</num>
         <heading>Definitions.</heading>
         <para>
@@ -3865,9 +3959,7 @@
         </para>
         <para>
           <num>(i)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(j)</num>
@@ -3881,7 +3973,7 @@
       </section>
       <section>
         <num>21-3 to 21-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3889,6 +3981,7 @@
       <num>II</num>
       <heading>Public Art Commission</heading>
       <section>
+        <prefix>§</prefix>
         <num>21-6</num>
         <heading>Commission established.</heading>
         <text>There is a Public Art Commission .</text>
@@ -3897,6 +3990,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-7</num>
         <heading>Composition.</heading>
         <para>
@@ -3949,6 +4043,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-8</num>
         <heading>Compensation and expenses; staff.</heading>
         <para>
@@ -3975,6 +4070,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-9</num>
         <heading>General functions and duties.</heading>
         <text>The Commission shall:</text>
@@ -3995,6 +4091,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-10</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -4042,6 +4139,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-11</num>
         <heading>Agency liaisons.</heading>
         <para>
@@ -4089,7 +4187,7 @@
       </section>
       <section>
         <num>21-12 to 21-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4097,6 +4195,7 @@
       <num>III</num>
       <heading>Artwork Allocation</heading>
       <section>
+        <prefix>§</prefix>
         <num>21-16</num>
         <heading>Amount required.</heading>
         <para>
@@ -4122,6 +4221,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-17</num>
         <heading>Grant and other funding requests.</heading>
         <text>In applying for grants or other funding for a construction project, a City agency shall request that:</text>
@@ -4138,6 +4238,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-18</num>
         <heading>Preliminary determinations.</heading>
         <para>
@@ -4186,6 +4287,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-19</num>
         <heading>Incorporation into contract specifications.</heading>
         <text>The contract specifications in the invitation to bid or request for proposals shall incorporate:</text>
@@ -4202,6 +4304,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-20</num>
         <heading>Allocation of funds.</heading>
         <text>On the award of a contract for the project, the contracting agency shall notify the Department of Finance that the aggregate amount of the artwork allocation, as determined under § 21-18(b) of this subtitle, shall be transferred as it become available to a capital account to be used for purposes of this subtitle.</text>
@@ -4211,7 +4314,7 @@
       </section>
       <section>
         <num>21-21 to 21-25</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4219,6 +4322,7 @@
       <num>IV</num>
       <heading>Artwork for Project</heading>
       <section>
+        <prefix>§</prefix>
         <num>21-26</num>
         <heading>Scope of Part.</heading>
         <text>This Part IV applies to the extent that some or all of an artwork allocation is used for artwork for the project that generated the allocation.</text>
@@ -4227,6 +4331,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-27</num>
         <heading>Preparation of proposal.</heading>
         <para>
@@ -4259,6 +4364,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-28</num>
         <heading>Commission review and action.</heading>
         <para>
@@ -4292,6 +4398,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-29</num>
         <heading>Disposition of artwork allocation.</heading>
         <para>
@@ -4317,7 +4424,7 @@
       </section>
       <section>
         <num>21-30</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4325,6 +4432,7 @@
       <num>V</num>
       <heading>Public Art Uses</heading>
       <section>
+        <prefix>§</prefix>
         <num>21-31</num>
         <heading>Commission to determine.</heading>
         <text>The Commission is responsible for determining the use of all eligible funds.</text>
@@ -4333,6 +4441,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-32</num>
         <heading>Priorities.</heading>
         <text>In making its determinations, the Commission shall be guided by the following priorities:</text>
@@ -4361,6 +4470,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>21-33</num>
         <heading>Authorized uses.</heading>
         <text>The uses to which eligible funds may be used include, but are not restricted to:</text>
@@ -4412,6 +4522,7 @@
     <num>24</num>
     <heading>Contract Bonding Requirements</heading>
     <section>
+      <prefix>§</prefix>
       <num>24-1</num>
       <heading>Surety bonds generally.</heading>
       <text>Hereafter, in all cases where any bond shall be taken from any contractor for the execution of any work to be done under and by virtue of any ordinance or resolution of the Mayor and City Council, or by any authority thereof, there shall be inserted in said bond, and as one of the conditions thereof, an express stipulation on the part of such contractor that he will defend, indemnify, and save harmless the Mayor and City Council of Baltimore against any suit or suits, loss, damage, or expense, to which the said Mayor and City Council of Baltimore may be subjected by reason of any default or negligence, want of skill, or care on the part of such contractor, his agent or employees, or of any subcontractor, in or about the performance and execution of said work.</text>
@@ -4425,6 +4536,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-2</num>
       <heading>Bid bonds.</heading>
       <text>Pursuant to the provisions of Article VI, § 11(h) of the City Charter, a bidder on a contract for any public work or the purchase of any supplies, materials, equipment, or services for the City or by any municipal agency is required to post a bid bond if the bid is more than $100,000.</text>
@@ -4434,6 +4546,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-3</num>
       <heading>Performance bonds.</heading>
       <text>A contractor on a contract for any public work or the purchase of any supplies, materials, equipment, or services for the City or by any municipal agency is required to post a performance bond if the contract is for more than $100,000.</text>
@@ -4443,6 +4556,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-4</num>
       <heading>Letters of credit for certain school contracts.</heading>
       <text>When a sole source contract between the City of Baltimore and a vendor to provide instructional, supervisory, or administrative services to the Board of School Commissioners is renegotiated, the vendor shall post an irrevocable letter of credit if the contract is for more than $100,000.</text>
@@ -4457,6 +4571,7 @@
     <num>25</num>
     <heading>Prevailing Wages for Work Under Construction Contracts</heading>
     <section>
+      <prefix>§</prefix>
       <num>25-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4491,6 +4606,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-2</num>
       <heading>Scope of subtitle.</heading>
       <para>
@@ -4518,6 +4634,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-3</num>
       <heading>Workday.</heading>
       <para>
@@ -4541,6 +4658,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-4</num>
       <heading>Worker classifications.</heading>
       <text>Every such laborer, mechanic, and apprentice shall be properly classified according to his trade and skill into a classification specifically set forth in the contract, which classification has been established by the Board of Estimates as provided herein.</text>
@@ -4551,6 +4669,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-5</num>
       <heading>Prevailing wages - In general.</heading>
       <para>
@@ -4590,6 +4709,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-6</num>
       <heading>Prevailing wages - Overtime.</heading>
       <para>
@@ -4614,6 +4734,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-7</num>
       <heading>Prevailing wages - Sanctions for underpayment.</heading>
       <para>
@@ -4644,6 +4765,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-8</num>
       <heading>Prevailing wages - Workers' complaints.</heading>
       <para>
@@ -4671,6 +4793,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-9</num>
       <heading>Required records - In general.</heading>
       <para>
@@ -4731,6 +4854,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-10</num>
       <heading>Required records - Project payroll reports.</heading>
       <para>
@@ -4810,6 +4934,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-11</num>
       <heading>Required records - Delinquencies.</heading>
       <para>
@@ -4832,6 +4957,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-12</num>
       <heading>Mechanics, apprentices, and laborers.</heading>
       <para>
@@ -4881,6 +5007,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-13</num>
       <heading>Withholding payments.</heading>
       <para>
@@ -4908,6 +5035,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-14</num>
       <heading>Investigations.</heading>
       <para>
@@ -4954,6 +5082,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-15</num>
       <heading>Penalties.</heading>
       <para>
@@ -4985,6 +5114,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-16</num>
       <heading>Schedules of prevailing wage rates.</heading>
       <para>
@@ -5032,6 +5162,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-17</num>
       <heading>"Prevailing" wage rates defined; obligation to pay.</heading>
       <para>
@@ -5075,6 +5206,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-18</num>
       <heading>Board of Estimates to adjudicate and assess.</heading>
       <para>
@@ -5088,7 +5220,6 @@
         <text>In no event shall such determination of restitution preclude an employee from instituting suit to recover any underpayments due him.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (a) to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1950, art. 1, §16</annotation>
         <annotation type="Prior Codifications">1966, art. 1, §19</annotation>
         <annotation type="Prior Codifications">1976/83, art. 1, §22</annotation>
@@ -5096,9 +5227,11 @@
         <annotation doc="City of Balt., Md., Ord. 67-969" type="History">Ord. 67-969</annotation>
         <annotation doc="City of Balt., Md., Ord. 73-348" type="History">Ord. 73-348</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (a) to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-19</num>
       <heading>Effect of federal law.</heading>
       <para>
@@ -5131,6 +5264,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-20</num>
       <heading>Existing contracts excepted.</heading>
       <text>Nothing contained herein shall in any manner affect or apply to any existing contract to which the Mayor and City Council of Baltimore is a party or to any contract that the Mayor and City Council of Baltimore may enter into pursuant to invitations for bids issued by the municipality prior to October 1, 1945.</text>
@@ -5142,6 +5276,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-21</num>
       <heading>Inconsistent laws repealed.</heading>
       <text>Any and all laws or ordinances and any and all parts of any and all laws or ordinances in force in the City of Baltimore inconsistent with the provisions of this subtitle are hereby repealed to the extent of any such inconsistency.</text>
@@ -5154,9 +5289,10 @@
     </section>
     <section>
       <num>25-22</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
+      <reason>Repealed by Ord. 22-125</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-23</num>
       <heading>Effect of repeal.</heading>
       <text>The repeal by this subtitle of any provision of law shall not revive any law heretofore repealed or superseded, nor shall any such repeal affect any act done, liability incurred, or any right accrued or vested, or affect, or abate, or prevent any right or penalty or punishment of any offense under the authority of such repealed laws.</text>
@@ -5173,6 +5309,7 @@
     <num>26</num>
     <heading>Living Wages for Work Under Service Contracts</heading>
     <section>
+      <prefix>§</prefix>
       <num>26-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -5192,9 +5329,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(e)</num>
@@ -5219,6 +5354,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-2</num>
       <heading>Scope of subtitle.</heading>
       <text>The provisions of this subtitle shall apply exclusively to service contracts and shall not be construed to conflict with Subtitle 25 of this article on Construction Contracts or any provisions on construction contracts as provided in this subtitle.</text>
@@ -5228,6 +5364,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-3</num>
       <heading>Workday.</heading>
       <text>8 hours shall constitute a regular work day for every individual working directly for any service contractor or subcontractor engaged in the performance of a service contract.</text>
@@ -5237,6 +5374,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-4</num>
       <heading>Worker classifications.</heading>
       <text>Employees of service contractors shall be classified as service workers or non-service workers as specifically set forth in the contract, pursuant to the classification schedule established by the Board of Estimates.</text>
@@ -5246,6 +5384,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-5</num>
       <heading>Living wages - In general.</heading>
       <para>
@@ -5272,6 +5411,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-6</num>
       <heading>Living wages - Overtime.</heading>
       <para>
@@ -5312,6 +5452,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-7</num>
       <heading>Living wages - Sanctions for underpayment.</heading>
       <para>
@@ -5341,6 +5482,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-8</num>
       <heading>Living wages - Workers' complaints.</heading>
       <para>
@@ -5368,6 +5510,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-9</num>
       <heading>Required records - In general.</heading>
       <para>
@@ -5420,6 +5563,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-10</num>
       <heading>Required records - Project payroll reports.</heading>
       <para>
@@ -5492,6 +5636,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-11</num>
       <heading>Required records - Delinquencies.</heading>
       <para>
@@ -5512,9 +5657,10 @@
     </section>
     <section>
       <num>26-12</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-13</num>
       <heading>Withholding payments.</heading>
       <para>
@@ -5542,6 +5688,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-14</num>
       <heading>Investigations.</heading>
       <para>
@@ -5587,6 +5734,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-15</num>
       <heading>Penalties.</heading>
       <para>
@@ -5613,6 +5761,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-16</num>
       <heading>Establishment of living wage.</heading>
       <para>
@@ -5644,6 +5793,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-17</num>
       <heading>Goal of 40-hour work week.</heading>
       <text>As a matter of policy it is a continuing goal to submit bids based on a 40-hour work week for service workers.</text>
@@ -5653,6 +5803,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-18</num>
       <heading>Manner of administration.</heading>
       <text>The Board of Estimates and the Wage Commission shall administer and enforce the provisions of this subtitle in the same manner that the Board of Estimates and the Wage Commission administer and enforce the provisions of Subtitle 25 of this article on Construction Contracts.</text>
@@ -5667,6 +5818,7 @@
     <num>26A</num>
     <heading>Labor Trafficking Notice Requirements</heading>
     <section>
+      <prefix>§</prefix>
       <num>26A-1</num>
       <heading>Applicability.</heading>
       <text>The requirements of this subtitle apply to:</text>
@@ -5691,6 +5843,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26A-2</num>
       <heading>Requirements.</heading>
       <para>
@@ -5746,6 +5899,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26A-3</num>
       <heading>Sign location.</heading>
       <text>A copy of the labor trafficking sign required by § 26A-2 {"Requirements"} of this subtitle shall be posted by the contractor at the site of the work in a clear and conspicuous place where it can be easily seen and read by the workers.  Example areas include break rooms, locker rooms, cafeterias, and other similar locations.</text>
@@ -5754,6 +5908,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26A-4</num>
       <heading>Penalties for failure to post signage.</heading>
       <para>
@@ -5793,6 +5948,7 @@
       <annotation type="Editor's Notes">This subtitle was added by Ordinance 13-142, effective December 22, 2013.  Pursuant to City Charter Art. IV, § 5(c), Bill 12-159 became law on June 25, 2013, as Ord. 13-102, without the Mayor’s signature.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>27-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -5845,9 +6001,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 13-142" type="History">Ord. 13-142</annotation>
@@ -5855,6 +6009,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-2</num>
       <heading>Scope of subtitle.</heading>
       <para>
@@ -5873,9 +6028,10 @@
     </section>
     <section>
       <num>27-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-4</num>
       <heading>Employment analysis.</heading>
       <text>Before the disbursement of any City funds, the beneficiary must perform an employment analysis with MOED to determine how many jobs will be required to complete the contract or project and how many of those jobs will require new hiring.</text>
@@ -5884,6 +6040,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-5</num>
       <heading>Initial hiring to be through MOED.</heading>
       <text>All new jobs needed for the contract or project must be posted through MOED for a period of 7 days before being publically advertised.</text>
@@ -5892,6 +6049,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-6</num>
       <heading>New employees to be Baltimore City residents.</heading>
       <para>
@@ -5925,16 +6083,18 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-7</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, MOED may adopt rules and regulations to carry out this subtitle or to clarify any terms or phrases in this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 13-142" type="History">Ord. 13-142</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-8</num>
       <heading>Employment plans.</heading>
       <para>
@@ -6106,6 +6266,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-9</num>
       <heading>Required reports.</heading>
       <text>In each month of the contract or project the beneficiary must submit a report to MOED, on the form designated by MOED, that includes the following:</text>
@@ -6168,9 +6329,10 @@
     </section>
     <section>
       <num>27-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-11</num>
       <heading>Penalties.</heading>
       <para>
@@ -6201,6 +6363,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-1</num>
           <heading>Definitions.</heading>
           <para>
@@ -6272,9 +6435,7 @@
           </para>
           <para>
             <num>(i)</num>
-            <text>
-              <em>{Repealed}</em>
-            </text>
+            <reason>Repealed</reason>
           </para>
           <para>
             <num>(j)</num>
@@ -6343,6 +6504,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-2</num>
           <heading>Liberal construction.</heading>
           <text>The provisions of this subtitle are to be liberally construed to accomplish its policies and purposes.</text>
@@ -6353,6 +6515,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-3</num>
           <heading>Legislative findings and policy.</heading>
           <para>
@@ -6447,6 +6610,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-4</num>
           <heading>Scope of subtitle.</heading>
           <para>
@@ -6464,6 +6628,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-5</num>
           <heading>Automatic termination.</heading>
           <text>This subtitle automatically expires on May 30, 2023, unless the City Council, after causing an appropriate study to be undertaken, conducting public hearings, and hearing testimonial evidence, finds that the purposes identified in this subtitle have not yet been achieved, in which case this subtitle may be extended for 5 more years.</text>
@@ -6487,7 +6652,7 @@
         </section>
         <section>
           <num>28-6 to 28-8</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6495,6 +6660,7 @@
         <num>II</num>
         <heading>Administration</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-9</num>
           <heading>Business Opportunity Office established.</heading>
           <para>
@@ -6513,6 +6679,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-10</num>
           <heading>General functions and duties of Office.</heading>
           <para>
@@ -6568,17 +6735,19 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-11</num>
           <heading>Rules and regulations.</heading>
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Office may adopt rules and regulations to carry out this subtitle.</text>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation doc="City of Balt., Md., Ord. 00-098" type="History">Ord. 00-098</annotation>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
             <annotation type="History">Text Conformed 02/14/21</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-12</num>
           <heading>Authority of Board of Estimates and Finance Department.</heading>
           <para>
@@ -6612,6 +6781,7 @@
         <num>I</num>
         <heading>Definitions; Short Title</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-13</num>
           <heading>Definitions.</heading>
           <para>
@@ -6728,6 +6898,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-14</num>
           <heading>Short title.</heading>
           <text>This chapter may be cited as the "Minority and Women's Business Program".</text>
@@ -6738,7 +6909,7 @@
         </section>
         <section>
           <num>28-15</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6746,6 +6917,7 @@
         <num>II</num>
         <heading>Annual Participation Goals</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-16</num>
           <heading>Establishment.</heading>
           <text>Annually, the Board of Estimates, with the advice of the Minority and Women's Business Opportunity Office, must review and establish the participation goals for Minority Business Enterprises and for Women's Business Enterprises.</text>
@@ -6755,6 +6927,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-17</num>
           <heading>Purpose.</heading>
           <para>
@@ -6774,7 +6947,7 @@
         </section>
         <section>
           <num>28-18 to 28-20</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6782,6 +6955,7 @@
         <num>III</num>
         <heading>Contract Participation Goals</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-21</num>
           <heading>Establishment.</heading>
           <text>The Minority and Women's Business Opportunity Office must establish appropriate MBE and WBE participation goals on each specific contract, as provided in this Part III.</text>
@@ -6791,6 +6965,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-22</num>
           <heading>Considerations.</heading>
           <para>
@@ -6820,9 +6995,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>
-              <em>{Vacant}</em>
-            </text>
+            <reason>Vacant</reason>
           </para>
           <para>
             <num>(c)</num>
@@ -6845,6 +7018,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-23</num>
           <heading>Publication.</heading>
           <text>The contract goals must be clearly published as part of the contract specifications in the invitation to bid or request for proposals.</text>
@@ -6853,6 +7027,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-24</num>
           <heading>Applicability to alternates, modifications, etc.</heading>
           <text>The contract goals apply to the initial contract amounts, to any alternates, and to all subsequent amendments, supplements, extra work orders, change orders, or other modifications that, whether individually or in the aggregate, increase the dollar value of the contract by more than 10%.</text>
@@ -6861,6 +7036,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-25</num>
           <heading>Office review and report.</heading>
           <para>
@@ -6880,7 +7056,7 @@
         </section>
         <section>
           <num>28-26 to 28-30</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6888,6 +7064,7 @@
         <num>IV</num>
         <heading>Counting MBE and WBE Participation</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-31</num>
           <heading>In general.</heading>
           <para>
@@ -6925,6 +7102,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-32</num>
           <heading>Commercially useful function.</heading>
           <para>
@@ -6975,6 +7153,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-33</num>
           <heading>Joint ventures.</heading>
           <para>
@@ -6998,6 +7177,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-34</num>
           <heading>Subcontracting by MBE or WBE.</heading>
           <para>
@@ -7015,6 +7195,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-35</num>
           <heading>One subcontractor, one goal.</heading>
           <text>A business enterprise that is certified as both an MBE and a WBE may not be counted toward both MBE and WBE goals for the same project.  The bidder must select the goal for which the business enterprise is to be counted toward.</text>
@@ -7023,6 +7204,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-36</num>
           <heading>Manufacturers.</heading>
           <text>A bidder may count towards the contract goal its entire expenditure to a certified business enterprise manufacturer.</text>
@@ -7031,6 +7213,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-37</num>
           <heading>Suppliers.</heading>
           <para>
@@ -7085,6 +7268,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-38</num>
           <heading>Insurance companies; travel agents.</heading>
           <text>A bidder may count towards the contract goals the fees or commissions charged by a certified business enterprise insurance company or travel agent, as long as the fee or commission is reasonable and not excessive as compared with fees or commissions customarily allowed for similar services.</text>
@@ -7094,6 +7278,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-39</num>
           <heading>Financial institutions.</heading>
           <text>A bidder may count towards the contract goals only the fees charged and earned by a certified business enterprise financial institution.</text>
@@ -7103,9 +7288,10 @@
         </section>
         <section>
           <num>28-40</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-41</num>
           <heading>Non-affiliation.</heading>
           <para>
@@ -7125,7 +7311,7 @@
         </section>
         <section>
           <num>28-42 to 28-45</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -7133,6 +7319,7 @@
         <num>V</num>
         <heading>Utilization Requirements</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-46</num>
           <heading>Contracts between $1,000 - $4,999.</heading>
           <para>
@@ -7173,6 +7360,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-47</num>
           <heading>Contracts between $5,000 - $49,999.</heading>
           <para>
@@ -7196,6 +7384,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-48</num>
           <heading>Contracts of $50,000 or more.</heading>
           <para>
@@ -7296,6 +7485,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-49</num>
           <heading>Leases and concessions.</heading>
           <para>
@@ -7351,6 +7541,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-50</num>
           <heading>Other services.</heading>
           <para>
@@ -7392,6 +7583,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-51</num>
           <heading>Emergencies.</heading>
           <para>
@@ -7477,6 +7669,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-52</num>
           <heading>All contracts – In general.</heading>
           <text>In addition to any other applicable requirements, the following requirements apply to all contracts awarded by the City.</text>
@@ -7485,6 +7678,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-53</num>
           <heading>All contracts – Bid specifications.</heading>
           <text>Bid conditions, requests for proposals, and all other specifications for contracts awarded by the City must require that, where a contract goal is applicable, the bidder must:</text>
@@ -7503,6 +7697,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-54</num>
           <heading>All contracts – Contract specifications.</heading>
           <text>Each contract must:</text>
@@ -7537,6 +7732,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-55</num>
           <heading>All contracts – Payments to subcontractors.</heading>
           <para>
@@ -7560,6 +7756,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-56</num>
           <heading>All contracts – Reports and documentation.</heading>
           <text>As a condition of each contract, the awardee of the contract must submit the following when requested by the Office:</text>
@@ -7582,7 +7779,7 @@
         </section>
         <section>
           <num>28-57 to 28-60</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -7590,6 +7787,7 @@
         <num>VI</num>
         <heading>Waivers</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-61</num>
           <heading>Agency's pre-solicitation request.</heading>
           <para>
@@ -7633,6 +7831,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-62</num>
           <heading>Bidder's pre-award request.</heading>
           <para>
@@ -7651,6 +7850,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-63</num>
           <heading>Contractor's post-award request.</heading>
           <para>
@@ -7704,6 +7904,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-64</num>
           <heading>Waiver by agency.</heading>
           <para>
@@ -7744,7 +7945,7 @@
         </section>
         <section>
           <num>28-65</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -7752,6 +7953,7 @@
         <num>VII</num>
         <heading>Agency's Duties</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-66</num>
           <heading>In general.</heading>
           <text>Each contracting agency must take the following actions to ensure that MBEs and WBEs have maximum opportunity to participate on City contracts.</text>
@@ -7760,6 +7962,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-67</num>
           <heading>Adherence to bid procedures, etc.</heading>
           <text>Every contracting agency must ensure that invitations to bid or requests for proposals emanating from the agency comply with this chapter.</text>
@@ -7769,6 +7972,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-68</num>
           <heading>Responsibility for achieving goals.</heading>
           <text>Each agency head or designee must:</text>
@@ -7785,6 +7989,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-69</num>
           <heading>Advertisements, notices, etc.</heading>
           <para>
@@ -7807,6 +8012,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-70</num>
           <heading>Contract division.</heading>
           <text>All contracting opportunities must be evaluated in an effort to divide the total requirements of a contract to provide reasonable opportunities for participation by minority and women's business enterprises.</text>
@@ -7815,6 +8021,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-71</num>
           <heading>Payment procedures.</heading>
           <text>Each contracting agency must establish procedures to ensure that:</text>
@@ -7831,6 +8038,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-72</num>
           <heading>Conditioning notice to proceed.</heading>
           <text>Each contracting agency must establish guidelines to ensure that a notice to proceed is not issued until the contracting agency has received copies of all documents needed to evidence the contractor's fulfillment of its commitments under this chapter.</text>
@@ -7840,6 +8048,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-73</num>
           <heading>Documentation.</heading>
           <text>Each contracting agency must submit to the Office all statistics and documentation that the Office requests.</text>
@@ -7849,7 +8058,7 @@
         </section>
         <section>
           <num>28-74 to 28-75</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -7857,6 +8066,7 @@
         <num>VIII</num>
         <heading>Certification</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-76</num>
           <heading>Required before bid opening.</heading>
           <para>
@@ -7875,9 +8085,10 @@
         </section>
         <section>
           <num>28-77</num>
-          <heading>{Repealed}</heading>
+          <reason>Repealed</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-78</num>
           <heading>MBEs and WBEs – General criteria.</heading>
           <para>
@@ -7917,6 +8128,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-79</num>
           <heading>MBEs and WBEs – Control.</heading>
           <para>
@@ -7969,6 +8181,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-80</num>
           <heading>MBEs and WBEs – Size standards.</heading>
           <para>
@@ -7998,6 +8211,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-81</num>
           <heading>Certification investigations.</heading>
           <para>
@@ -8039,6 +8253,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-82</num>
           <heading>Decertification.</heading>
           <text>The Office may decertify a business that it determines no longer meets the certification criteria.</text>
@@ -8047,6 +8262,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-83</num>
           <heading>Certification appeals.</heading>
           <para>
@@ -8114,7 +8330,7 @@
         </section>
         <section>
           <num>28-84 to 28-85</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8122,6 +8338,7 @@
         <num>IX</num>
         <heading>Enforcement</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-86</num>
           <heading>Office to monitor compliance.</heading>
           <text>During the term of a contract subject to this chapter, the Office must monitor continued compliance with this chapter.</text>
@@ -8131,6 +8348,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-87</num>
           <heading>Noncompliance – Contractor or subcontractor.</heading>
           <para>
@@ -8164,6 +8382,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-88</num>
           <heading>Noncompliance – Agency.</heading>
           <para>
@@ -8197,6 +8416,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-89</num>
           <heading>Office may require reports, etc.</heading>
           <text>The Office may require contractors, bidders, contracting agencies, and the head of any City agency to submit any reports, documents, or other information reasonably necessary to determine compliance with this chapter.</text>
@@ -8206,6 +8426,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-90</num>
           <heading>Agencies to keep records.</heading>
           <para>
@@ -8259,6 +8480,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-91</num>
           <heading>Annual report.</heading>
           <para>
@@ -8286,7 +8508,7 @@
         </section>
         <section>
           <num>28-92 to 28-95</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
     </container>
@@ -8299,6 +8521,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-96</num>
           <heading>Definitions.</heading>
           <para>
@@ -8400,6 +8623,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-97</num>
           <heading>Purpose; Scope.</heading>
           <para>
@@ -8428,6 +8652,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-98</num>
           <heading>Program objectives.</heading>
           <text>To meet the objectives of the SLBE Program, the City is committed to:</text>
@@ -8449,7 +8674,7 @@
         </section>
         <section>
           <num>28-99</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8457,6 +8682,7 @@
         <num>II</num>
         <heading>Administration</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-100</num>
           <heading>Minority and Women's Business Office – Duties.</heading>
           <text>The Office must:</text>
@@ -8485,12 +8711,13 @@
             <text>where appropriate, make recommendations for approval of changes to established size standards for SLBE firms.</text>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of item (5) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
             <annotation type="History">Text Conformed 02/14/21</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of item (5) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-101</num>
           <heading>Goal-setting committees – Establishment</heading>
           <para>
@@ -8553,6 +8780,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-102</num>
           <heading>Goal-setting committees – Duties</heading>
           <para>
@@ -8597,6 +8825,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-103</num>
           <heading>Program performance review.</heading>
           <para>
@@ -8645,7 +8874,7 @@
         </section>
         <section>
           <num>28-104</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8653,6 +8882,7 @@
         <num>III</num>
         <heading>SLBE Program Participation Criteria</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-105</num>
           <heading>Eligibility for SLBE Program.</heading>
           <para>
@@ -8745,6 +8975,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-106</num>
           <heading>Certification or decertification as an SLBE.</heading>
           <para>
@@ -8820,6 +9051,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-107</num>
           <heading>Certification or decertification as an Emerging SLBE.</heading>
           <para>
@@ -8895,9 +9127,10 @@
         </section>
         <section>
           <num>28-108</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-109</num>
           <heading>Graduation, suspension, or revocation.</heading>
           <para>
@@ -8984,6 +9217,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-110</num>
           <heading>Adverse determinations; Appeals.</heading>
           <para>
@@ -9050,7 +9284,7 @@
         </section>
         <section>
           <num>28-111 to 28-112</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -9058,6 +9292,7 @@
         <num>IV</num>
         <heading>Affirmative Procurement Initiatives</heading>
         <section>
+          <prefix>§</prefix>
           <num>28-113</num>
           <heading>Initiatives to be set by GSCs.</heading>
           <text>To promote the award of City contracts to SLBEs or Emerging SLBEs, each GSC may, subject to § 28-97(b), authorize the use of any or all of the SLBE affirmative procurement initiatives in this Part IV for contracts in its industry category.</text>
@@ -9066,6 +9301,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-114</num>
           <heading>Bonding or insurance waiver.</heading>
           <para>
@@ -9098,6 +9334,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-115</num>
           <heading>Price preferences.</heading>
           <para>
@@ -9127,6 +9364,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-116</num>
           <heading>Evaluation preferences.</heading>
           <para>
@@ -9157,6 +9395,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-117</num>
           <heading>Mandatory subcontracting.</heading>
           <para>
@@ -9248,6 +9487,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-118</num>
           <heading>Sheltered Market Program.</heading>
           <para>
@@ -9310,6 +9550,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>28-119</num>
           <heading>Competitive business development demonstration project.</heading>
           <para>
@@ -9352,7 +9593,7 @@
         </section>
         <section>
           <num>28-120 to 28-121</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
     </container>
@@ -9361,6 +9602,7 @@
       <num>4</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>28-122</num>
         <heading>Administrative penalties.</heading>
         <text>A contractor who fails to comply with any provision of this subtitle is subject to any or all of the following penalties:</text>
@@ -9395,9 +9637,10 @@
       </section>
       <section>
         <num>28-123</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-124</num>
         <heading>Criminal penalties.</heading>
         <para>
@@ -9445,6 +9688,7 @@
     <num>29</num>
     <heading>Commercial Non-Discrimination Policy</heading>
     <section>
+      <prefix>§</prefix>
       <num>29-1</num>
       <heading>Purpose and intent.</heading>
       <text>It is the intent of the City of Baltimore to avoid becoming a passive participant in private sector commercial discrimination by refusing to engage in business with business firms that discriminate in the solicitation, selection, hiring, or treatment of vendors, suppliers, subcontractors, or commercial customers on the basis of race, gender, religion, national origin, ethnicity, sexual orientation, gender identity or expression, age, or disability by providing a procedure for receiving, investigating, and resolving complaints of discrimination filed against business firms that have submitted a bid or proposal for, have been selected to engage in, or are engaged in doing business with the City.</text>
@@ -9453,6 +9697,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-2</num>
       <heading>Definitions.</heading>
       <para>
@@ -9520,9 +9765,7 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(k)</num>
@@ -9545,6 +9788,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-3</num>
       <heading>Scope.</heading>
       <para>
@@ -9579,6 +9823,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-4</num>
       <heading>Liberal construction.</heading>
       <text>The provisions of this subtitle are to be liberally construed to accomplish its policies and purposes.</text>
@@ -9588,6 +9833,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-5</num>
       <heading>Short title.</heading>
       <text>This subtitle may be cited as the "Commercial Non-Discrimination Policy".</text>
@@ -9596,6 +9842,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-6</num>
       <heading>Commercial non-discrimination policy.</heading>
       <text>It is the policy of the City of Baltimore not to accept bids or proposals from, nor to engage in business with, any business firm that has discriminated on the basis of race, gender, religion, national origin, ethnicity, sexual orientation, gender identity or expression, age, disability, or any other form of unlawful discrimination in its solicitation, selection, hiring, or treatment of another business.</text>
@@ -9604,6 +9851,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-7</num>
       <heading>Complaints of discrimination.</heading>
       <text>Any adult person, business entity, association, organization, or government agency may file an administrative complaint with the Chief stating facts showing or tending to show that a business firm has engaged in discrimination against one or more other businesses.  The complaint must be filed within 4 years from the date it accrues.  Within 10 business days, the Chief shall notify the business firm against whom the complaint was filed that a complaint has been received.</text>
@@ -9612,6 +9860,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-8</num>
       <heading>Investigation of complaints.</heading>
       <text>The Office's investigative unit shall review and investigate discrimination complaints filed under this subtitle.  The City Solicitor in consultation with the Chief shall exercise his or her best judgment to assign Office staff persons, other City personnel, and outside consultants to the investigative unit as necessary to conduct investigations in a comprehensive, fair, competent, and efficient manner.  The investigative unit shall seek all relevant evidence from the complainant, from the respondent business firm, and from external sources relating to the allegations of the complaint.</text>
@@ -9620,6 +9869,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-9</num>
       <heading>Initial findings and recommendations.</heading>
       <para>
@@ -9703,6 +9953,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-10</num>
       <heading>Hearings.</heading>
       <para>
@@ -9743,6 +9994,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-11</num>
       <heading>Remedies.</heading>
       <para>
@@ -9774,6 +10026,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-12</num>
       <heading>Sanctions for knowingly filing false or frivolous complaint.</heading>
       <text>If the Chief determines that one or more allegations of a complaint are false and that the complainant knew them to be false when filed, or that one or more of the allegations of a complaint are frivolous and without merit, the Chief may refuse to review or investigate any complaint filed under this subtitle by the same complainant for a period of up to 3 years.  The Chief may also recommend to the hearing examiner or the Board of Estimates that monetary sanctions be imposed against the complainant in the amount of the costs incurred for the investigation and review of the false or frivolous complaint.</text>
@@ -9782,6 +10035,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-13</num>
       <heading>Administrative appeals.</heading>
       <text>A business firm against whom a complaint has been filed or a complainant may appeal the decision of the hearing examiner by filing a request for an appeal in writing with the City Solicitor within 10 calendar days from service of the notice of the decision.  The City Solicitor, or his or her representative, shall within 10 calendar days of receipt of the request for appeal, notify all parties that an appeal has been requested, and refer the matter to the Board of Estimates to hear the appeal.  The City Solicitor shall also transfer the entire record of the investigation and administrative hearing to the Board of Estimates in advance of the appeal hearing.  The appeal shall be heard and the Board of Estimates shall render a final administrative decision within 90 calendar days of receipt of the request for appeal.  At the appeal hearing, the Chief or the Chief's designee shall be responsible for presenting the justifications for its findings and recommendations as previously sustained or modified by the hearing examiner.</text>
@@ -9790,6 +10044,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-14</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -9808,6 +10063,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-15</num>
       <heading>Mandatory nondiscrimination contract clause.</heading>
       <text>Every contract and subcontract shall contain a nondiscrimination clause that reads as follows:</text>
@@ -9817,6 +10073,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-16</num>
       <heading>Contractor bid requirements.</heading>
       <text>All requests for bids or proposals issued by the City shall include a clause that reads as follows:</text>
@@ -9826,6 +10083,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-17</num>
       <heading>Contract disclosure requirements.</heading>
       <text>Every contract shall include a clause that reads as follows:</text>
@@ -9835,6 +10093,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-18</num>
       <heading>Other legal remedies.</heading>
       <text>The remedies provided by this subtitle are in addition to any other statutory, legal, or equitable remedies that may be available and are not intended to be prerequisite to or exclusive of any other remedies.</text>
@@ -9843,6 +10102,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-19</num>
       <heading>Non-interruption of performance.</heading>
       <text>The filing, investigation, hearing, and appeal of a complaint under this subtitle does not hinder or affect the award of, performance of, or payment on a contract prior to a final administrative decision that establishes a violation.</text>
@@ -9851,13 +10111,14 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-20</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City Solicitor may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 06-186" type="History">Ord. 06-186</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
   </container>
@@ -9866,6 +10127,7 @@
     <num>30</num>
     <heading>Health Care Services Providers</heading>
     <section>
+      <prefix>§</prefix>
       <num>30-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -9913,9 +10175,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(e)</num>
@@ -9941,6 +10201,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-2</num>
       <heading>Prequalification requirements.</heading>
       <para>
@@ -9979,6 +10240,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-3</num>
       <heading>Board of Estimates' authority.</heading>
       <text>Nothing in this subtitle shall be deemed to abrogate the authority of the Board of Estimates to award contracts pursuant to the authority provided by Article VI, §11 of the City Charter<em>.</em></text>
@@ -9993,6 +10255,7 @@
     <num>31</num>
     <heading>Health Care Advisory Panel</heading>
     <section>
+      <prefix>§</prefix>
       <num>31-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -10002,9 +10265,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -10030,6 +10291,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>31-2</num>
       <heading>Composition of Advisory Panel.</heading>
       <text>The Health Care Advisory Panel shall consist of:</text>
@@ -10088,6 +10350,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>31-3</num>
       <heading>Annual review of providers, etc.</heading>
       <para>
@@ -10119,6 +10382,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>31-4</num>
       <heading>Annual report.</heading>
       <text>The Health Care Advisory Panel shall submit a written report of its findings and recommendations to the Mayor and City Council and the Board of Estimates by April 30 of each year.</text>
@@ -10133,6 +10397,7 @@
     <num>32</num>
     <heading>Purchase of Foodstuffs</heading>
     <section>
+      <prefix>§</prefix>
       <num>32-1</num>
       <heading>Purchases of $40,000 or more.</heading>
       <para>
@@ -10164,6 +10429,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-2</num>
       <heading>Purchases of $20,000 or more, but less than $40,000.</heading>
       <text>The contracting for and purchase of foodstuffs and related perishables involving an expenditure of more than $20,000 and less than $40,000, except those contracts awarded by the Board of Estimates pursuant to the provisions of Article VI, § 11(g) of the City Charter, shall be submitted to the Board of Estimates for its approval and shall be binding upon the City only when so approved.</text>
@@ -10174,6 +10440,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-3</num>
       <heading>Performance bonds.</heading>
       <text>It shall not be necessary for any bidder who has been awarded a contract to supply foodstuffs or related perishables to the City of Baltimore or any agency thereof to furnish a performance bond when the total amount of the contract does not exceed $40,000.</text>
@@ -10188,6 +10455,7 @@
     <num>33</num>
     <heading>Purchase of Recycled Products</heading>
     <section>
+      <prefix>§</prefix>
       <num>33-1</num>
       <heading>"Recycled paper" defined.</heading>
       <text>In this subtitle, "recycled paper" means a paper product meeting the Environmental Protection Agency recommended content standards as defined in 40 C.F.R. Part 250.</text>
@@ -10197,6 +10465,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-2</num>
       <heading>Purchasing requirements.</heading>
       <text>Whenever feasible or practicable, the City shall use the following guidelines in procurement of paper and other goods:</text>
@@ -10270,6 +10539,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-3</num>
       <heading>Use requirements.</heading>
       <para>
@@ -10300,6 +10570,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-4</num>
       <heading>Board of Estimates' authority.</heading>
       <text>The provisions of this subtitle and their applications are subject to the authority of the Board of Estimates as set forth in Article VI, §11 of the City Charter.</text>
@@ -10317,6 +10588,7 @@
       <annotation type="Editor's Notes">Ordinance 07-488 repealed former Subtitle 34 {“Commission on Resource Conservation and Recycling”} in its entirety and substituted the following new subtitle, effective August 14, 2007.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>34-1</num>
       <heading>Commission created; members.</heading>
       <para>
@@ -10378,6 +10650,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-2</num>
       <heading>Terms; Chair or Co-Chairs.</heading>
       <para>
@@ -10396,6 +10669,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-3</num>
       <heading>Compensation; expenses.</heading>
       <text>No member of the Commission may receive any compensation for services, but each member may be reimbursed for necessary and proper expenses incurred in the performance of his or her duties.</text>
@@ -10404,6 +10678,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-4</num>
       <heading>Duties.</heading>
       <para>
@@ -10426,6 +10701,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-5</num>
       <heading>Comprehensive Sustainability Plan.</heading>
       <text>The Commission's Comprehensive Sustainability Plan shall:</text>
@@ -10508,6 +10784,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-6</num>
       <heading>Commission staff.</heading>
       <para>
@@ -10525,6 +10802,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-7</num>
       <heading>Adoption of Plan.</heading>
       <text>To be become effective, the Sustainability Plan or an amendment to it must be approved by an Ordinance of the Mayor and City Council.</text>
@@ -10533,6 +10811,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-8</num>
       <heading>Effect of Plan.</heading>
       <text>The Sustainability Plan will be incorporated into the City's Comprehensive Master Plan as an appendix.</text>
@@ -10546,6 +10825,7 @@
     <num>35</num>
     <heading>American Preference for Vehicle Procurement</heading>
     <section>
+      <prefix>§</prefix>
       <num>35-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -10555,9 +10835,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -10581,6 +10859,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-2</num>
       <heading>Purpose of subtitle.</heading>
       <para>
@@ -10639,6 +10918,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-3</num>
       <heading>Procurement requirements.</heading>
       <text>All passenger cars and trucks which are provided pursuant to a vehicle procurement contract or subcontract shall be manufactured or assembled in the United States.</text>
@@ -10648,6 +10928,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-4</num>
       <heading>Bids; contracts; annual reports.</heading>
       <para>
@@ -10678,6 +10959,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-5</num>
       <heading>Exemptions.</heading>
       <para>
@@ -10704,14 +10986,15 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-6</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out the provisions of this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §238</annotation>
         <annotation doc="City of Balt., Md., Ord. 91-773" type="History">Ord. 91-773</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
   </container>
@@ -10720,6 +11003,7 @@
     <num>36</num>
     <heading>Purchase Orders</heading>
     <section>
+      <prefix>§</prefix>
       <num>36-1</num>
       <heading>Drafts authorized.</heading>
       <text>The City Purchasing Agent is authorized to send out with certain purchase orders to city suppliers a draft or other form of payment to cover the cost of the goods or services on the order.</text>
@@ -10730,6 +11014,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-2</num>
       <heading>Signatures.</heading>
       <para>
@@ -10757,6 +11042,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-3</num>
       <heading>Maximum amount.</heading>
       <text>The maximum dollar amount of a draft shall be $2,000.</text>
@@ -10772,6 +11058,7 @@
     <num>37</num>
     <heading>Payment of City Obligations</heading>
     <section>
+      <prefix>§</prefix>
       <num>37-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -10813,9 +11100,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(h)</num>
@@ -10835,6 +11120,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-2</num>
       <heading>City payment policy.</heading>
       <para>
@@ -10853,6 +11139,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-3</num>
       <heading>Interest.</heading>
       <para>
@@ -10871,6 +11158,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-4</num>
       <heading>Exemptions.</heading>
       <text>The City is not liable for the payment of interest pursuant to this subtitle:</text>
@@ -10896,6 +11184,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-5</num>
       <heading>Rules and regulations; allocation of interest charges.</heading>
       <para>
@@ -10909,10 +11198,10 @@
         <text>The Director may charge the contracting City agency the interest provided for in this subtitle when the City agency is the cause of any delay requiring the payment of interest; otherwise the Department of Finance shall pay the interest provided for in this subtitle.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §27A(e)</annotation>
         <annotation doc="City of Balt., Md., Ord. 89-280" type="History">Ord. 89-280</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
   </container>
@@ -10921,6 +11210,7 @@
     <num>38</num>
     <heading>Vendors' Hot Line</heading>
     <section>
+      <prefix>§</prefix>
       <num>38-1</num>
       <heading>Establishment; costs.</heading>
       <para>
@@ -10941,6 +11231,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-2</num>
       <heading>Purpose.</heading>
       <para>
@@ -10998,6 +11289,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-3</num>
       <heading>Weekly updates.</heading>
       <para>
@@ -11035,6 +11327,7 @@
       <num>I</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -11090,9 +11383,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(i)</num>
@@ -11142,6 +11433,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-2</num>
         <heading>Probation before judgment.</heading>
         <text>For purposes of this subtitle, the Board may treat the imposition of probation before judgment as a conviction.</text>
@@ -11150,16 +11442,18 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-3</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 00-005" type="History">Ord. 00-005</annotation>
           <annotation type="History">Text Conformed 02/14/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-4</num>
         <heading>Notices.</heading>
         <text>All notices required to be given under this subtitle must be in writing.</text>
@@ -11173,6 +11467,7 @@
       <num>II</num>
       <heading>Offenses Subject to Debarment</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-5</num>
         <heading>Automatic debarment for certain bribery offenses.</heading>
         <text>A person is debarred by operation of law from entering into a contract with the City if the person has been convicted under the laws of this State or of the United States for bribery, attempted bribery, or conspiracy to bribe, committed in furtherance of obtaining a contract with a public body.</text>
@@ -11181,6 +11476,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-6</num>
         <heading>Other bribery offenses.</heading>
         <text>The Board may debar a person from entering into a contract with the City, if the person:</text>
@@ -11201,6 +11497,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-7</num>
         <heading>Violations of other laws.</heading>
         <para>
@@ -11255,6 +11552,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-8</num>
         <heading>Other events.</heading>
         <text>The Board may debar a person from entering into a contract with the City:</text>
@@ -11292,6 +11590,7 @@
       <num>III</num>
       <heading>City Solicitor</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-9</num>
         <heading>Designation of representative.</heading>
         <text>The City Solicitor may designate one or more Assistant Solicitors to perform the functions and duties assigned by this subtitle.</text>
@@ -11300,6 +11599,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-10</num>
         <heading>Reports to Board.</heading>
         <text>The City Solicitor shall promptly report to the Board any information that indicates a basis for instituting debarment proceedings under this subtitle.</text>
@@ -11308,6 +11608,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-11</num>
         <heading>Investigations — in general.</heading>
         <text>The City Solicitor shall investigate the matters to be determined by the Board in any hearing held under this subtitle.</text>
@@ -11316,6 +11617,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-12</num>
         <heading>Investigations — investigative demand.</heading>
         <para>
@@ -11375,6 +11677,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-13</num>
         <heading>Preliminary recommendations.</heading>
         <text>On completing the  investigation of a person, the City Solicitor may recommend to the Board whether the Board should:</text>
@@ -11391,6 +11694,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-14</num>
         <heading>Participation in proceedings.</heading>
         <text>As a party to any proceeding brought under this subtitle, the City Solicitor may:</text>
@@ -11420,6 +11724,7 @@
       <num>IV</num>
       <heading>Debarment Procedures</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-15</num>
         <heading>Reports.</heading>
         <para>
@@ -11453,6 +11758,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-16</num>
         <heading>Notice and opportunity for hearing — automatic debarments.</heading>
         <para>
@@ -11486,6 +11792,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-17</num>
         <heading>Notice and opportunity for hearing — other debarments.</heading>
         <para>
@@ -11556,6 +11863,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-18</num>
         <heading>Suspension pending decision.</heading>
         <para>
@@ -11601,6 +11909,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-19</num>
         <heading>Hearing and decision.</heading>
         <para>
@@ -11681,6 +11990,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-20</num>
         <heading>Debarment of businesses.</heading>
         <para>
@@ -11721,6 +12031,7 @@
       <num>V</num>
       <heading>Reinstatements</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-21</num>
         <heading>Automatic reinstatement.</heading>
         <text>If the conviction that was the basis for a debarment or suspension is reversed or otherwise voided, the debarment or suspension terminates automatically.</text>
@@ -11729,6 +12040,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-22</num>
         <heading>Petitions for reinstatement.</heading>
         <para>
@@ -11768,6 +12080,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-23</num>
         <heading>Reinstatement hearing and decision.</heading>
         <para>
@@ -11833,6 +12146,7 @@
       <num>VI</num>
       <heading>Effect and Enforcement of Debarment</heading>
       <section>
+        <prefix>§</prefix>
         <num>40-24</num>
         <heading>Effect of debarment or suspension.</heading>
         <text>A person or business that is debarred or suspended under this subtitle may not, at any time during the period of debarment or suspension, be considered for the award of, be awarded, or perform, directly or indirectly, a contract with the City.</text>
@@ -11841,6 +12155,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-25</num>
         <heading>Roster of debarred and suspended persons and businesses.</heading>
         <para>
@@ -11858,6 +12173,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-26</num>
         <heading>Affidavits of qualification.</heading>
         <para>
@@ -11909,6 +12225,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-27</num>
         <heading>Limitations of actions.</heading>
         <para>
@@ -11944,6 +12261,7 @@
     <num>41</num>
     <heading>Prohibited Contracts</heading>
     <section>
+      <prefix>§</prefix>
       <num>41-1</num>
       <heading>Persons in contempt for unfair labor practices.</heading>
       <para>
@@ -11986,6 +12304,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-2</num>
       <heading>Persons owing delinquent taxes.</heading>
       <para>
@@ -12009,6 +12328,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-3</num>
       <heading>Contracts using tropical hardwood.</heading>
       <para>
@@ -12230,6 +12550,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-4</num>
       <heading>Face surveillance technology.</heading>
       <para>
@@ -12303,6 +12624,7 @@
     <num>44</num>
     <heading>Tangible Personal Property</heading>
     <section>
+      <prefix>§</prefix>
       <num>44-1</num>
       <heading>Sale of tangible personal property.</heading>
       <para>
@@ -12333,6 +12655,7 @@
     <num>45</num>
     <heading>Energy Costs</heading>
     <section>
+      <prefix>§</prefix>
       <num>45-1</num>
       <heading>DGS to supervise.</heading>
       <para>
@@ -12355,6 +12678,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>45-2</num>
       <heading>Annual energy consumption report.</heading>
       <para>
@@ -12427,6 +12751,7 @@
     <num>47</num>
     <heading>Miscellaneous Contract Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>47-1</num>
       <heading>No Dumping Clause.</heading>
       <text>Every contract awarded by the City shall include a provision that:</text>
@@ -12448,6 +12773,7 @@
     <num>48</num>
     <heading>Miscellaneous Fees</heading>
     <section>
+      <prefix>§</prefix>
       <num>48-1</num>
       <heading>Marriage license fees for domestic violence shelters.</heading>
       <para>
@@ -12489,6 +12815,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>48-2</num>
       <heading>Fees for copying, certifying, etc. records.</heading>
       <text>The Director of Finance shall charge and receive the following fees:</text>
@@ -12513,6 +12840,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>48-3</num>
       <heading>Penalty for bad checks.</heading>
       <para>
@@ -12547,6 +12875,7 @@
       <annotation type="Editor's Notes">Pursuant to Charter Art.  IV, § 5(c), this subtitle was enacted by Ordinance 22-107 without the Mayor’s signature, on January 11, 2022.  Section 2 of that Ordinance provides that it takes effect on February 10, 2022 (“the 30th day after the date it is enacted”) and that “[i]t shall remain effective until September 24, 2024; and, immediately after that date with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect”.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>49-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -12569,6 +12898,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-2</num>
       <heading>Oversight.</heading>
       <para>

@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Definitions; General Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -116,9 +117,7 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(k)</num>
@@ -232,23 +231,24 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">for the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
         <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-458" type="History">Ord. 20-458</annotation>
+        <annotation type="Editor's Notes">for the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
       </annotations>
     </section>
     <section>
       <num>1-2</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
+      <reason>Repealed by Ord. 22-125</reason>
       <annotations>
         <annotation type="Editor's Notes">See City General Provisions Article, Subtitles 2 and 3, for the Code-wide standard rules of interpretation, of severability, and of time computations.</annotation>
       </annotations>
     </section>
     <section>
       <num>1-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Plan established.</heading>
       <text>The Retirement Savings Plan of the City of Baltimore is established, effective as of July 1, 2014, for the purpose of providing retirement benefits for eligible employees.</text>
@@ -257,6 +257,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Qualification under Internal Revenue Code.</heading>
       <para>
@@ -283,6 +284,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Limitations on liability.</heading>
       <text>Notwithstanding any other provision of this article:</text>
@@ -303,6 +305,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-7</num>
       <heading>Exclusive benefit.</heading>
       <para>
@@ -341,6 +344,7 @@
     <num>2</num>
     <heading>Administration</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Board established.</heading>
       <text>There is a Board of Trustees of the Retirement Savings Plan.</text>
@@ -349,6 +353,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Board composition.</heading>
       <para>
@@ -437,6 +442,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Board functions.</heading>
       <para>
@@ -502,9 +508,10 @@
     </section>
     <section>
       <num>2-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-5</num>
       <heading>Oath of office.</heading>
       <text>Each Trustee must take an oath of office as required by City Charter Article IV, § 6(i), or other applicable law.</text>
@@ -513,6 +520,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-6</num>
       <heading>Officers.</heading>
       <para>
@@ -543,6 +551,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-7</num>
       <heading>Meetings; Voting; Records.</heading>
       <para>
@@ -593,6 +602,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-8</num>
       <heading>Retention of services; Right of reliance.</heading>
       <para>
@@ -640,19 +650,21 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-9</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to any limitations imposed by this article and to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees may adopt rules and regulations for the efficient administration of the Retirement Savings Plan.</text>
       <annotations>
+        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
+        <annotation type="History">Text Conformed 02/22/21</annotation>
         <annotation type="Editor's Notes">
           <text>By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in</text>
           <text>consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</text>
         </annotation>
-        <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
-        <annotation type="History">Text Conformed 02/22/21</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-10</num>
       <heading>Compensation; Expenses.</heading>
       <para>
@@ -673,6 +685,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-11</num>
       <heading>Legal advisor.</heading>
       <text>The City Solicitor is the legal advisor to the Board.</text>
@@ -681,6 +694,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-12</num>
       <heading>Fiduciary standards; Indemnification; Insurance.</heading>
       <para>
@@ -756,6 +770,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-13</num>
       <heading>Plan expenses.</heading>
       <text>Except for investment fund fees and expenses paid under § 6-2(e) {"Investments: Fund fees and expenses"} of this article, all expenses incurred in the administration of the Retirement Savings Plan and in the management of Plan assets may only be paid as follows:</text>
@@ -773,6 +788,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-14</num>
       <heading>Recovery of overpayments.</heading>
       <text>If the Board of Trustees determines that a member or beneficiary has received from the Retirement Savings Plan a distribution that exceeds the amount to which the member or beneficiary was entitled, the Board must take all necessary steps to recover the overpayment.</text>
@@ -782,9 +798,10 @@
     </section>
     <section>
       <num>2-15 and 2-16</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-17</num>
       <heading>Administrative appeal.</heading>
       <para>
@@ -847,12 +864,13 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (c)(2) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
         <annotation type="History">Text Conformed 02/22/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (c)(2) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-18</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -871,9 +889,10 @@
     </section>
     <section>
       <num>2-19</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-20</num>
       <heading>Conflicts of interest.</heading>
       <para>
@@ -974,6 +993,7 @@
     <num>3</num>
     <heading>Plan Membership</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Membership mandatory.</heading>
       <text>Every employee who is initially employed or reemployed by a participating employer on or July 1, 2014, must, as a condition of that employment, become either a hybrid member or a non-hybrid member of the Retirement Savings Plan.</text>
@@ -982,6 +1002,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Commencement of participation.</heading>
       <para>
@@ -1022,6 +1043,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Dual memberships precluded.</heading>
       <para>
@@ -1093,6 +1115,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Termination of participation.</heading>
       <text>A member's participation in the Retirement Savings Plan terminates on the complete distribution to the member or the member's beneficiary of the member's vested account.</text>
@@ -1106,6 +1129,7 @@
     <num>4</num>
     <heading>Service</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>"Service" defined.</heading>
       <para>
@@ -1142,6 +1166,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Applicability.</heading>
       <text>A member's service is used to determine whether the member is vested in his or her Employer Contribution Sub-Account.</text>
@@ -1150,6 +1175,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Military Service.</heading>
       <text>To the extent required by USERRA, the service of a member returning from an unpaid leave of absence on account of military service includes the period of the member's leave of absence.</text>
@@ -1158,6 +1184,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-4</num>
       <heading>Determination final and binding.</heading>
       <text>The determination of a member's service:</text>
@@ -1179,6 +1206,7 @@
     <num>5</num>
     <heading>Contributions</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Types of contributions.</heading>
       <text>The following contributions are made to the Retirement Savings Plan:</text>
@@ -1199,6 +1227,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Mandatory contributions by non-hybrid members.</heading>
       <para>
@@ -1258,6 +1287,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Employer contributions.</heading>
       <para>
@@ -1329,6 +1359,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-4</num>
       <heading>Rollover contributions.</heading>
       <para>
@@ -1407,6 +1438,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-5</num>
       <heading>Makeup contributions after military leave.</heading>
       <para>
@@ -1492,6 +1524,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-6</num>
       <heading>Maximum annual additions.</heading>
       <para>
@@ -1616,6 +1649,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-7</num>
       <heading>Compensation limit.</heading>
       <text>Pursuant to IRC § 401(a)(17) and the regulations adopted under that section, the annual compensation of each member taken into account in determining the amount of contributions under the Retirement Savings Plan may not exceed $200,000, as adjusted by cost-of-living increases under IRC § 415(d).</text>
@@ -1629,6 +1663,7 @@
     <num>6</num>
     <heading>Accounts</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Establishment.</heading>
       <para>
@@ -1684,6 +1719,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Investments.</heading>
       <para>
@@ -1773,6 +1809,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Valuations.</heading>
       <para>
@@ -1807,6 +1844,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Periodic statements.</heading>
       <text>On a periodic basis, but no less frequently than quarterly, a statement showing the value of a member's account as of the most recent valuation date will be made available to each member.</text>
@@ -1820,6 +1858,7 @@
     <num>7</num>
     <heading>Vesting</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Mandatory Employee Contribution Sub-Account.</heading>
       <text>A member's Mandatory Employee Contribution Sub-Account is immediately and at all times 100% vested and non-forfeitable.</text>
@@ -1828,6 +1867,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Employer Contribution Sub-Account.</heading>
       <text>A member's Employer Contribution Sub-Account becomes 100% vested and non-forfeitable on the earliest of:</text>
@@ -1860,6 +1900,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Rollover Contribution Sub-Account.</heading>
       <text>A member's Rollover Contribution Sub-Account is immediately and at all times 100% vested and non-forfeitable.</text>
@@ -1873,6 +1914,7 @@
     <num>8</num>
     <heading>Forfeitures</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Forfeiture of non-vested Employer Contributions.</heading>
       <text>The Employer Contribution Sub-Account of a member who terminates employment with a participating employer before that sub-account is vested under § 7-2 {"Vesting: Employer Contribution Sub-Account"} of this article is forfeited as of the date of the member's termination of employment, unless that member is reemployed by a participating employer within 30 days after termination of employment.</text>
@@ -1882,6 +1924,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Forfeiture Account.</heading>
       <text>Forfeitures under this subtitle will be held in a separate Forfeiture Account for bookkeeping purposes.</text>
@@ -1890,6 +1933,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Restoration.</heading>
       <para>
@@ -1907,6 +1951,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-4</num>
       <heading>Remaining amounts in Forfeiture Account.</heading>
       <para>
@@ -1929,6 +1974,7 @@
     <num>9</num>
     <heading>Distributions</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>Form and commencement of payment.</heading>
       <para>
@@ -2028,6 +2074,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2</num>
       <heading>Distributable events – Retirement.</heading>
       <text>A member who terminates employment on or after the member's normal retirement age is entitled to receive the value of the member's:</text>
@@ -2048,6 +2095,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2A</num>
       <heading>Distributable events - Transfers.</heading>
       <text>A member who terminates employment and transfers his or her service to another City retirement plan is entitled to receive the value of the member's:</text>
@@ -2064,6 +2112,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-3</num>
       <heading>Distributable events – Disability.</heading>
       <para>
@@ -2126,6 +2175,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-4</num>
       <heading>Distributable events – Death.</heading>
       <para>
@@ -2210,6 +2260,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-5</num>
       <heading>Distributable events – Other termination of employment.</heading>
       <text>If a member terminates employment before the member's normal retirement age and not as a result of disability or death, the member is entitled to receive the following:</text>
@@ -2226,6 +2277,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-6</num>
       <heading>No loans or withdrawals.</heading>
       <text>No loan against nor in-service withdrawal from any part of a member's account is permitted.</text>
@@ -2234,6 +2286,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-7</num>
       <heading>Direct rollovers.</heading>
       <para>
@@ -2371,6 +2424,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-8</num>
       <heading>Minimum distribution rules.</heading>
       <para>
@@ -2555,6 +2609,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-9</num>
       <heading>Distribution of small account balances.</heading>
       <text>If a member experiences a distributable event under § 9-2 {"Distributable events –  Retirement"}, § 9-3 {"Distributable events – Disability"}, § 9-4 {"Distributable events – Death"} or § 9-5 {"Distributable events – Other termination of employment"}, and if the member's total vested account balance on the date of the event is less than $1,000, then the total vested account balance will automatically be distributed to the member (or the member's beneficiary) without the member (or beneficiary) applying as soon as administratively practicable after 90 days following the distributable event.</text>
@@ -2568,6 +2623,7 @@
     <num>10</num>
     <heading>Anti-Alienation Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Prohibited assignments, attachments, etc.</heading>
       <text>Except as otherwise expressly provided in §§ 10-3 {"Exceptions – General applicability"} through 10-10 {"Exceptions – Funeral expenses"} of this subtitle:</text>
@@ -2585,9 +2641,10 @@
     </section>
     <section>
       <num>10-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-3</num>
       <heading>Exceptions – General applicability.</heading>
       <text>Subject to the requirements of § 10-12 {"Notice to Board"} of this subtitle, the exceptions provided in §§ 10-4 {"Exceptions - Court orders"} through 10-10 {"Exceptions – Funeral expenses"} apply notwithstanding § 10-1 {"Prohibited assignments, attachments, etc."} of this subtitle.</text>
@@ -2596,6 +2653,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-4</num>
       <heading>Exceptions – Court orders.</heading>
       <para>
@@ -2687,6 +2745,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-5</num>
       <heading>Exceptions – Tax liens.</heading>
       <text>All or any portion of a member's vested account may be paid in satisfaction of a federal or state tax lien.</text>
@@ -2695,6 +2754,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-6</num>
       <heading>Exceptions – Powers of attorney.</heading>
       <text>The amount otherwise due a member or beneficiary may be paid to the member's or beneficiary's attorney-in-fact, as agent of the member or beneficiary, if the member or beneficiary has properly designated the attorney-in-fact to act as agent under a duly-executed durable power of attorney.</text>
@@ -2703,6 +2763,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-7</num>
       <heading>Exceptions – Custodian under Uniform Transfers to Minors Act.</heading>
       <text>The amount otherwise due a minor beneficiary may be paid to a custodian validly appointed for the minor under the Maryland Uniform Transfers to Minors Act (State Estates and Trusts Article, Title 13, Subtitle 3) or similar provisions of another jurisdiction.  A "minor beneficiary" is a beneficiary who has not attained age 22.</text>
@@ -2712,6 +2773,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-8</num>
       <heading>Exceptions – Trustee.</heading>
       <text>The amount otherwise due a member or beneficiary may be paid to the member's or beneficiary's trustee, if the trustee was designated trustee of the member or beneficiary under an enforceable <em>inter vivos</em> or testamentary trust agreement.</text>
@@ -2720,6 +2782,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-9</num>
       <heading>Exceptions – Representative payee.</heading>
       <text>The amount otherwise due a member or beneficiary may be paid to the member's or beneficiary's Social Security "representative payee" pursuant to the Social Security Act, 42 U.S.C. § 405(j).</text>
@@ -2728,6 +2791,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-10</num>
       <heading>Exceptions – Funeral expenses.</heading>
       <text>All or any portion of a member's vested account that is payable on account of a member's death may be paid to a funeral establishment providing funeral services to the deceased member, if the member's beneficiary files with the Board of Trustees, in the form required by the Board, the beneficiary's consent to that payment.</text>
@@ -2737,9 +2801,10 @@
     </section>
     <section>
       <num>10-11</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-12</num>
       <heading>Notice to Board.</heading>
       <text>An assignment under §§ 10-4 {"Exceptions – Court orders"} through 10-10 {"Exceptions – Funeral expenses"} of this subtitle may be made only after the Board of Trustees receives:</text>
@@ -2757,9 +2822,10 @@
     </section>
     <section>
       <num>10-13</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-14</num>
       <heading>Fraud or misuse.</heading>
       <text>If the Board, the Social Security Administration, or a court of competent jurisdiction determines that any amount paid under §§ 10-4 {"Exceptions – Court orders"} through 10-10 {"Exceptions – Funeral expenses"} of this subtitle was obtained by fraud or misused, the Board must take all necessary steps to recover that amount.</text>
@@ -2773,6 +2839,7 @@
     <num>11</num>
     <heading>Plan Modifications</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Plan amendment.</heading>
       <para>
@@ -2790,6 +2857,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Discontinuance of payments; Plan termination.</heading>
       <para>
@@ -2824,6 +2892,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-3</num>
       <heading>Plan merger, consolidation, or transfer.</heading>
       <text>In the case of a merger or consolidation of the Retirement Savings Plan with, or a transfer of Plan assets or liabilities to, any other plan, each member of the Retirement Savings Plan is entitled to receive, immediately after the merger, consolidation, or transfer (as if the other plan had then terminated), a benefit that is equal to or greater than the benefit the member would have been entitled to receive immediately before the merger, consolidation, or transfer (as if the Retirement Savings Plan had then terminated).</text>

@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Railroad Cars</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Unauthorized use or interference.</heading>
       <para>
@@ -43,6 +44,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Unloading in streets.</heading>
       <text>It is unlawful to load or unload any railroad car in any of the streets, lanes, or alleys of the City, except with the consent of occupants of houses or lots opposite the proposed loading or unloading.</text>
@@ -59,6 +61,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Obstructing pedestrians and vehicles.</heading>
       <para>
@@ -98,6 +101,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Obstructing street passage.</heading>
       <para>
@@ -131,6 +135,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Openings between cars.</heading>
       <para>
@@ -156,6 +161,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Passing on right side of railway.</heading>
       <text>It shall be the duty of every person having charge of, driving, or operating any vehicle on or along any street in which any railway track is laid within the City to travel or pass only on the right hand side, between the curb stone and the track of the railway, except:</text>
@@ -179,6 +185,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-7</num>
       <heading>Moving railroad cars.</heading>
       <text>It is unlawful for any person or persons, corporation, or company to move or cause to be moved, on any railroad track leading through any of the streets of the City, more than 2 railroad cars in connection without the aid of propelling power.</text>
@@ -195,6 +202,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-8</num>
       <heading>Minors on cars.</heading>
       <text>It is unlawful for any minor not employed by the railroad company to jump on or from any railroad car while the car is in motion.</text>
@@ -211,6 +219,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-9</num>
       <heading>Penalties.</heading>
       <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, unless another penalty is provided, is subject on conviction to a fine of not more than $25 for each offense.</text>
@@ -232,6 +241,7 @@
     <num>2</num>
     <heading>Construction and Maintenance of Railways</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Obstruction of streets.</heading>
       <para>
@@ -276,6 +286,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Obstruction of gutters.</heading>
       <para>
@@ -309,6 +320,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Prohibited conduct.</heading>
       <text>If, at any time, any railway is constructed or maintained within the limits of the City in a mode or manner so as to obstruct the ordinary use of the street or streets in which the railway is laid down, the owners of the railway are subject to a penalty of $300 and a fine of $100 for each and every day the obstruction remains after notice of the Department of Transportation to remove it.</text>
@@ -331,6 +343,7 @@
     <num>3</num>
     <heading>Locomotive Engines</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Scope of subtitle.</heading>
       <text>This subtitle is intended to apply to all locomotive engines that now or may hereafter be used within the limits of the City of Baltimore.</text>
@@ -347,6 +360,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Where locomotives authorized.</heading>
       <text>Except as may be provided in any other ordinance or ordinances now or hereafter in force:</text>
@@ -374,6 +388,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Unauthorized use of locomotives prohibited.</heading>
       <text>If any railroad company shall use or cause to be used any locomotive engine or engines propelled by steam on any railway track within the City of Baltimore, other than those where authorized by ordinance of the City, the company shall forfeit and pay for every such offense, the sum of $20, to be collected as other fines and penalties of the City.</text>
@@ -388,6 +403,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Permitted fuels for steam engines.</heading>
       <para>
@@ -412,6 +428,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Horns and whistles prohibited.</heading>
       <para>
@@ -441,6 +458,7 @@
     <num>4</num>
     <heading>City Passenger Railways</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>Crossing railroads at grade.</heading>
       <para>
@@ -476,6 +494,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Stops for passengers.</heading>
       <para>
@@ -498,6 +517,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Crossing streets.</heading>
       <para>
@@ -529,6 +549,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-4</num>
       <heading>Operating under the influence.</heading>
       <para>
@@ -549,6 +570,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-5</num>
       <heading>Interference with facilities.</heading>
       <text>It shall not be lawful for any unauthorized person or persons, whether passengers or otherwise, to intentionally pull or otherwise interfere with the trolley or trolley-rope so that the trolley wheel shall be pulled from the overhead trolley-wire, or to apply or put on the brakes of any electric street railway car within the limits of the City of Baltimore, under a penalty of not less than $5, nor more than $20, to be recovered as other fines and penalties are now recoverable.</text>
@@ -566,6 +588,7 @@
     <num>5</num>
     <heading>Rules of the Road and Track</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Vehicles sharing tracks with railway cars.</heading>
       <para>
@@ -595,6 +618,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Delaying railway cars.</heading>
       <para>
@@ -619,6 +643,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>License fee for cars.</heading>
       <para>
@@ -649,6 +674,7 @@
     <num>6</num>
     <heading>Care of Tracks, Switches, and Track Areas</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Care of tracks and track facilities.</heading>
       <para>
@@ -671,6 +697,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Use of abrasive materials.</heading>
       <text>For the purpose of facilitating the movement of vehicles along the public highways, the several owners or operators of public passenger vehicles are authorized to spread upon the public highways of the City such abrasive or other materials, at such locations, at such times, and in such manner as may be generally or specifically approved by the Department of Transportation from time to time.</text>
@@ -687,6 +714,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Care of track areas.</heading>
       <text>Said railway companies:</text>
@@ -714,6 +742,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Scope of obligations.</heading>
       <text>In all cases where rights or privileges may be hereafter granted to any street railway to use or occupy the streets of Baltimore, the railroad company or companies so using the street shall be obliged in every case and shall assume the obligation, whether the same be provided for in the ordinance granting such rights or franchise or not, to keep the portion of the street over which their rails are laid in repair between the tracks so laid and 2 feet on either side, and they shall pay the cost of paving and repaving that portion of said street or streets in every case where the street or streets may be paved or repaved by public authority.</text>
@@ -727,6 +756,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-5</num>
       <heading>Ch. 401, Acts of 1906 - cost of street work.</heading>
       <text>There is hereby imposed upon all street railway companies occupying with their tracks parts of the beds of streets, avenues, or other highways in the City of Baltimore, upon which work shall have been done or shall hereafter be done, under the Act of 1906, Chapter 401, of the General Assembly of Maryland, and any amendment or amendments thereof, the obligation to pay for said work so far as the same shall have been done or shall be done between the rails of their said tracks and for a space of 2 feet on either side thereof.</text>
@@ -739,6 +769,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-6</num>
       <heading>Ch. 401, Acts of 1906 - work by DoT.</heading>
       <para>
@@ -784,6 +815,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-7</num>
       <heading>Ch. 401, Acts of 1906 - enforcement.</heading>
       <text>The obligation imposed by §§ 6-5 and 6-6 hereof may be enforced by the Mayor and City Council of Baltimore by a suit at law or any other remedy which, by any law or ordinance, may be appropriate and available for said purpose.</text>
@@ -796,6 +828,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-8</num>
       <heading>Ch. 401, Acts of 1906 - penalties.</heading>
       <para>
@@ -841,6 +874,7 @@
     <num>7</num>
     <heading>Tracks and Switches</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Tracks to be filled to grade.</heading>
       <text>Unless otherwise permitted or required by a particular franchise ordinance, all railroad tracks in any of the streets, lanes, and alleys in the City shall be filled up between their rails to the grade and with the materials approved from time to time by the Department of Transportation, this work to be done at the expense of the railroad company or companies operating over the tracks and switches.</text>
@@ -858,6 +892,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Ballast under tracks.</heading>
       <text>If any public street in the City, upon which the tracks of any corporation or individual are maintained, is paved or repaved at the expense, either in whole or in part, of the Mayor and City Council of Baltimore or of the abutting property owners, the corporation or individual, in addition to all other obligations of the corporation or individual, shall be required to place under the tracks, to prevent them from sinking, broken stone or gravel ballast whenever, in the judgment of the Department of Transportation, the existing ballast or the natural formation of the soil under the tracks is insufficient.</text>
@@ -872,6 +907,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Maintenance in good repair.</heading>
       <para>
@@ -897,6 +933,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Tracks on bridges.</heading>
       <para>
@@ -945,6 +982,7 @@
     <num>11</num>
     <heading>Savings Clauses</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Ordinances remaining in effective - in general.</heading>
       <text>All ordinances relating to railroads, street railways, and trackless trolleys in force when this Code is legalized, and not herein specially referred to, shall continue in force as fully as if incorporated herein.</text>
@@ -959,6 +997,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Ordinances remaining in effect - specific companies.</heading>
       <para>

@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Definitions; General Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -116,6 +117,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -129,14 +131,14 @@
         <text>A copy of all rules and regulations adopted by the Director of Public Works under this subtitle must be filed with the Department of Legislative Reference at least 30 days before they take effect.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Conformance TBA.</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">Conformance TBA.</annotation>
       </annotations>
     </section>
     <section>
       <num>1-3</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
+      <reason>Repealed by Ord. 22-125</reason>
       <annotations>
         <annotation type="Editor's Notes">See City General Provisions Article, § 1-214, for the Code-wide standard for severability.</annotation>
       </annotations>
@@ -147,6 +149,7 @@
     <num>2</num>
     <heading>Watershed Protection and Restoration Fund</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Purpose of fund.</heading>
       <text>The Watershed Protection and Restoration Fund is established pursuant to the Enabling Law for the purpose of financing the costs of improving the City stormwater management system, including its watershed protection and restoration program.</text>
@@ -156,6 +159,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Required deposits into Fund.</heading>
       <text>The City shall deposit in the Watershed Protection and Restoration Fund the following receipts:</text>
@@ -176,6 +180,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Permitted uses of Fund.</heading>
       <text>Money in the Watershed Protection and Restoration Fund may be used for the following purposes only:</text>
@@ -241,6 +246,7 @@
     <num>3</num>
     <heading>Fee Imposition and Collection</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Fee imposed.</heading>
       <para>
@@ -263,6 +269,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Assessment of base fee – Single-family properties.</heading>
       <para>
@@ -324,6 +331,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Assessment of base fee – All other properties.</heading>
       <para>
@@ -435,6 +443,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Initial rates though FY 2017.</heading>
       <para>
@@ -470,6 +479,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Subsequent rates.</heading>
       <para>
@@ -517,6 +527,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-6</num>
       <heading>Credits; Exemptions.</heading>
       <para>
@@ -601,6 +612,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-7</num>
       <heading>Collections.</heading>
       <para>
@@ -641,6 +653,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-8</num>
       <heading>Liability and lien for charges, interest, and penalties.</heading>
       <para>
@@ -663,6 +676,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-9</num>
       <heading>Rules and regulations by Finance Director.</heading>
       <para>
@@ -676,9 +690,9 @@
         <text>A copy of all rules and regulations adopted by the Director of Finance under this subtitle must be filed with the Department of Legislative Reference at least 30 days before they take effect.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Conformance TBA.</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 13-143" type="History">Ord. 13-143</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">Conformance TBA.</annotation>
       </annotations>
     </section>
   </container>
@@ -687,6 +701,7 @@
     <num>4</num>
     <heading>Administrative and Judicial Review</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>Administrative appeal of fees.</heading>
       <para>
@@ -726,6 +741,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Judicial review.</heading>
       <para>
@@ -748,6 +764,7 @@
     <num>5</num>
     <heading>Stormwater Utility</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>"Utility" defined.</heading>
       <text>In this subtitle, "utility" means the stormwater utility governed by City Charter Article VI, § 18.</text>
@@ -756,6 +773,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Accounting system.</heading>
       <para>
@@ -781,6 +799,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Annual report.</heading>
       <para>
@@ -843,6 +862,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-4</num>
       <heading>Excess revenues.</heading>
       <para>
@@ -873,6 +893,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-5</num>
       <heading>City loans to Utility.</heading>
       <para>
@@ -890,6 +911,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-6</num>
       <heading>Conflicts with covenants, etc.</heading>
       <text>If any provision of this subtitle for the stormwater utility is inconsistent with any covenant, condition, law, or rule or regulation governing any contract, project, or grant from the United States or from the State or funds dedicated by an Act of Congress or by State law or by the terms of any private grant, the provision in this subtitle applies only to the extent that it is not inconsistent with the covenant, condition, law, or rule or regulation.</text>
@@ -903,6 +925,7 @@
     <num>6</num>
     <heading>Prohibited Conduct; Penalties</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Prohibited conduct.</heading>
       <text>No person may:</text>
@@ -923,6 +946,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Criminal penalties.</heading>
       <text>Any person who violates a provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 or imprisonment not exceeding 6 months or both fine and imprisonment for each offense.</text>

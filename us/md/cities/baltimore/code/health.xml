@@ -16,6 +16,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>1-101</num>
         <heading>In general.</heading>
         <text>In this article, the following terms have the meanings indicated.</text>
@@ -24,6 +25,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-102</num>
         <heading>Commissioner.</heading>
         <text>"Commissioner" means the Commissioner of Health or the Commissioner's designee.</text>
@@ -33,6 +35,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-103</num>
         <heading>Department.</heading>
         <text>"Department" means the Baltimore City Department of Health.</text>
@@ -42,6 +45,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-104</num>
         <heading>Physician.</heading>
         <text>"Physician" means an individual authorized by law to practice medicine in the State of Maryland.</text>
@@ -51,6 +55,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-105</num>
         <heading>Police officer.</heading>
         <text>"Police officer" includes, to the extent of that individual's authority, any individual authorized to act as a Special Enforcement Officer under City Code Article 19, § 71-1 {"Special Enforcement Officers — Appointment; duties"}.</text>
@@ -71,6 +76,7 @@
         </annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>1-201</num>
         <heading>In general.</heading>
         <text>In interpreting and applying this article, the following rules of interpretation apply:</text>
@@ -88,6 +94,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-202</num>
         <heading>Conflicting provisions.</heading>
         <para>
@@ -106,6 +113,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-203</num>
         <heading>Mail.</heading>
         <text>Whenever this article requires the use of "registered mail" or "certified mail", either method may be used.</text>
@@ -120,6 +128,7 @@
       <num>3</num>
       <heading>Short Title</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-301</num>
         <heading>Short title.</heading>
         <text>This article may be cited as the "Health Code of Baltimore City".</text>
@@ -138,6 +147,7 @@
       <num>1</num>
       <heading>Organization and General Authority</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-101</num>
         <heading>Department established.</heading>
         <text>There is a Department of Health, as established in Article VII, § 54 of the City Charter.</text>
@@ -146,6 +156,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-102</num>
         <heading>Commissioner.</heading>
         <text>The head of the Department is the Commissioner of Health, who is appointed as provided in Article VII, § 55 of the City Charter.</text>
@@ -154,6 +165,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-103</num>
         <heading>Deputies, assistants, etc.</heading>
         <para>
@@ -172,6 +184,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-103.1</num>
         <heading>Suicide Prevention Coordinator.</heading>
         <para>
@@ -300,6 +313,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-104</num>
         <heading>Commissioner's Charter powers.</heading>
         <text>Under Article VII, § 56 of the City Charter, the Commissioner has the general care of and responsibility for:</text>
@@ -328,6 +342,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-105</num>
         <heading>General duties.</heading>
         <text>In addition to any duties set forth elsewhere, the Commissioner has the following duties:</text>
@@ -361,16 +376,18 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-106</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner may adopt and enforce rules and regulations to carry out this article.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-107</num>
         <heading>Right of entry.</heading>
         <para>
@@ -426,6 +443,7 @@
         <num>I</num>
         <heading>Physicians; Police</heading>
         <section>
+          <prefix>§</prefix>
           <num>2-201</num>
           <heading>Physicians to report and assist.</heading>
           <text>On notice from the Commissioner, any practicing physician in the City must provide information, advice, and assistance to the Commissioner in all matters that relate to the preservation of the health of the people and the prevention of communicable diseases.</text>
@@ -435,6 +453,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2-202</num>
           <heading>Police to execute orders.</heading>
           <text>Baltimore City Police Officers are directed to execute all orders of the Commissioner that relate to the preservation of the health in the City.</text>
@@ -445,7 +464,7 @@
         </section>
         <section>
           <num>2-203 to 2-204</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -453,6 +472,7 @@
         <num>II</num>
         <heading>Prohibited Conduct</heading>
         <section>
+          <prefix>§</prefix>
           <num>2-205</num>
           <heading>Obstructing, etc., Departmental personnel.</heading>
           <text>No person may knowingly obstruct, resist, or interfere with the Commissioner or any officer or employee of the Department while carrying out their powers and duties.</text>
@@ -462,6 +482,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2-206</num>
           <heading>Impersonating Departmental personnel.</heading>
           <text>No person may, without authority to do so:</text>
@@ -479,6 +500,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2-207</num>
           <heading>Failure to comply with Commissioner's order or notice.</heading>
           <text>No person may refuse, neglect, or otherwise fail to comply with any order or notice issued under this article by or under the authority of the Commissioner.</text>
@@ -489,7 +511,7 @@
         </section>
         <section>
           <num>2-208 to 2-209</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -497,6 +519,7 @@
         <num>III</num>
         <heading>Penalties.</heading>
         <section>
+          <prefix>§</prefix>
           <num>2-211</num>
           <heading>Violation a misdemeanor.</heading>
           <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to the penalties provided in this Part III.</text>
@@ -505,6 +528,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2-212</num>
           <heading>Basic penalty: $500.</heading>
           <text>Except as otherwise specified in this Part III, the penalty for a violation of this subtitle is a fine of not more than $500 for each offense.</text>
@@ -514,6 +538,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2-213</num>
           <heading>Failure to obey notice or order: $200 plus $50/day.</heading>
           <text>Unless a higher penalty is specified in this article for the same offense, the penalty for a violation of § 2-207 {"Failure to comply with order or notice"} of this subtitle is a fine of not more than $200 for each offense, plus $50 for each day that the offense continues.</text>
@@ -529,6 +554,7 @@
       <num>3</num>
       <heading>Administrative Hearings</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-301</num>
         <heading>Scope of subtitle.</heading>
         <para>
@@ -563,6 +589,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-302</num>
         <heading>Opportunity for hearing.</heading>
         <para>
@@ -614,6 +641,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-303</num>
         <heading>Delegation of hearing authority.</heading>
         <para>
@@ -659,6 +687,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-304</num>
         <heading>Conduct of hearing.</heading>
         <para>
@@ -707,6 +736,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-305</num>
         <heading>Evidence.</heading>
         <para>
@@ -785,6 +815,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-306</num>
         <heading>Final decisions.</heading>
         <para>
@@ -822,6 +853,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-307</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -855,6 +887,7 @@
       <num>2</num>
       <heading>Nursing Homes</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-201</num>
         <heading>"Nursing home" defined.</heading>
         <text>In this subtitle, "nursing home" means:</text>
@@ -876,6 +909,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-202</num>
         <heading>Cooling requirements.</heading>
         <text>From June 1 through September 30 of each year, every nursing home must maintain and operate, throughout all rooms and areas that are occupied or used by residents, a cooling system that maintains a temperature of less than 82° F.</text>
@@ -885,6 +919,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-203</num>
         <heading>Equipment and supply standards.</heading>
         <para>
@@ -916,9 +951,10 @@
       </section>
       <section>
         <num>3-204 to 3-205</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-206</num>
         <heading>Civil penalties: $1,000.</heading>
         <para>
@@ -942,6 +978,7 @@
       <num>3</num>
       <heading>City Clinics and Centers</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-301</num>
         <heading>Commissioner may establish.</heading>
         <text>The Commissioner of Health may establish health clinics and centers in the City.</text>
@@ -951,6 +988,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-302</num>
         <heading>Operational guidelines and procedures.</heading>
         <para>
@@ -977,6 +1015,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-303</num>
         <heading>Fees.</heading>
         <text>Fees for services at City clinics and centers:</text>
@@ -999,6 +1038,7 @@
       <num>4</num>
       <heading>Temporary Hospitals</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-401</num>
         <heading>Establishment.</heading>
         <text>To prevent morbidity or mortality constituting a threat to public health, the Commissioner of Health, with the approval of the Mayor may:</text>
@@ -1016,6 +1056,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-402</num>
         <heading>Rules and regulations.</heading>
         <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may, with the approval of the Mayor, adopt rules and regulations to govern:</text>
@@ -1028,13 +1069,14 @@
           <text>all individuals residing in or in any way concerned with them.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §196(1st, 3rd cls.)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-403</num>
         <heading>Individuals too sick to move.</heading>
         <text>If an individual cannot be moved without danger to his or her health, the house or place where he or she remains is considered to be a temporary hospital for purposes of this subtitle.</text>
@@ -1045,9 +1087,10 @@
       </section>
       <section>
         <num>3-404 to 3-405</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-406</num>
         <heading>Penalties: $500.</heading>
         <para>
@@ -1071,6 +1114,7 @@
       <num>5</num>
       <heading>Limited-Service Pregnancy Centers</heading>
       <section>
+        <prefix>§</prefix>
         <num>3-501</num>
         <heading>"Limited-service pregnancy center" defined.</heading>
         <text>In this subtitle, "limited-service pregnancy center" means any person:</text>
@@ -1103,6 +1147,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-502</num>
         <heading>Disclaimer required.</heading>
         <para>
@@ -1132,6 +1177,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-503</num>
         <heading>Violation notice.</heading>
         <text>If the Health Commissioner learns that a pregnancy center is in violation of this subtitle, the Commissioner shall issue a written notice ordering the center to correct the violation within 10 days of the notice or within any longer period that the Commissioner specifies in the notice.</text>
@@ -1141,9 +1187,10 @@
       </section>
       <section>
         <num>3-504 to 3-505</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>3-506</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -1179,6 +1226,7 @@
       <num>1</num>
       <heading>General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-101</num>
         <heading>Nature of reports.</heading>
         <para>
@@ -1197,6 +1245,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-102</num>
         <heading>Form and contents of reports.</heading>
         <para>
@@ -1239,6 +1288,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-103</num>
         <heading>Inspection of records.</heading>
         <text>The Commissioner may inspect the records of any person or facility subject to this title to determine compliance with this title.</text>
@@ -1257,6 +1307,7 @@
         <num>I</num>
         <heading>By Health Care Practitioners</heading>
         <section>
+          <prefix>§</prefix>
           <num>4-201</num>
           <heading>Physicians.</heading>
           <para>
@@ -1290,6 +1341,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-202</num>
           <heading>Health care facilities.</heading>
           <para>
@@ -1349,6 +1401,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-203</num>
           <heading>Laboratories — in general.</heading>
           <para>
@@ -1418,6 +1471,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-204</num>
           <heading>Laboratories — referral of cultures.</heading>
           <para>
@@ -1445,7 +1499,7 @@
         </section>
         <section>
           <num>4-205 to 4-206</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -1453,6 +1507,7 @@
         <num>II</num>
         <heading>By Others</heading>
         <section>
+          <prefix>§</prefix>
           <num>4-207</num>
           <heading>Lodging facilities.</heading>
           <para>
@@ -1498,6 +1553,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-208</num>
           <heading>Vessels in harbor.</heading>
           <para>
@@ -1544,6 +1600,7 @@
       <num>3</num>
       <heading>Reporting Diseases — Tuberculosis</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-301</num>
         <heading>Laboratory test results.</heading>
         <para>
@@ -1562,6 +1619,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-302</num>
         <heading>Drugs suggesting treatment.</heading>
         <para>
@@ -1624,6 +1682,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-303</num>
         <heading>Physician's contact investigation.</heading>
         <para>
@@ -1679,6 +1738,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-304</num>
         <heading>Patient leaving hospital or institution.</heading>
         <para>
@@ -1702,6 +1762,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-305</num>
         <heading>Discontinued treatment.</heading>
         <para>
@@ -1725,6 +1786,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-306</num>
         <heading>Death from tuberculosis.</heading>
         <para>
@@ -1753,16 +1815,18 @@
       <num>4</num>
       <heading>Controlling Communicable Diseases</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-401</num>
         <heading>"Communicable disease" defined.</heading>
         <text>In this subtitle, "communicable disease" means any contagious, infectious, or communicable disease or condition that the Commissioner specifies by rule or regulation adopted under § 2-106 {"Rules and regulations"} of this article for purposes of this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-402</num>
         <heading>Investigations generally.</heading>
         <text>The Commissioner may investigate any report of a case or suspected case of a communicable disease or communicable disease carrier, to determine the source of infection and the need for restricting movement or isolating affected individuals.</text>
@@ -1772,6 +1836,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-403</num>
         <heading>Examinations of individuals.</heading>
         <para>
@@ -1835,6 +1900,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-404</num>
         <heading>Action to prevent spread; public notice of disease.</heading>
         <text>Whenever a communicable disease is found to exist, the Commissioner may:</text>
@@ -1852,6 +1918,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-405</num>
         <heading>Vacating premises.</heading>
         <para>
@@ -1870,17 +1937,19 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-406</num>
         <heading>Medical isolation — in general.</heading>
         <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may require the medical isolation of individuals having a communicable or potentially communicable disease or condition dangerous to the public health.</text>
         <annotations>
-          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §212(1st par.(1st cl.))</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-407</num>
         <heading>Medical isolation — court papers to be sealed.</heading>
         <text>In any court proceeding brought to enforce a medical isolation, all papers filed with the court:</text>
@@ -1899,9 +1968,10 @@
       </section>
       <section>
         <num>4-408 to 4-409</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-410</num>
         <heading>Prohibited conduct.</heading>
         <text>No person may:</text>
@@ -1940,6 +2010,7 @@
         <num>I</num>
         <heading>Purpose and Need</heading>
         <section>
+          <prefix>§</prefix>
           <num>4-501</num>
           <heading>In general.</heading>
           <text>Immunizations are a proven preventive measure in reducing the morbidity and mortality associated with childhood communicable diseases.  Accordingly, to safeguard the public health and welfare, the City needs to attain and sustain an immunization coverage rate of at least 90% for age-appropriate vaccinations among infants and preschool children residing in the City.</text>
@@ -1950,7 +2021,7 @@
         </section>
         <section>
           <num>4-502</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -1958,17 +2029,19 @@
         <num>II</num>
         <heading>Immunization Required</heading>
         <section>
+          <prefix>§</prefix>
           <num>4-503</num>
           <heading>Parental responsibility.</heading>
           <text>Except as specified in § 4-506 {"Exceptions"} of this subtitle, every parent and guardian must provide for the timely and appropriate immunization of their minor children against all immunization-preventable childhood diseases, as specified by rule or regulation that the  Commissioner adopts under § 2-106 {"Rules and regulations"} of this article.</text>
           <annotations>
-            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §199</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-504</num>
           <heading>Scope of enforcement.</heading>
           <text>In enforcing this Part II, each child who is not properly immunized as required is considered a separate offense.</text>
@@ -1977,6 +2050,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-505</num>
           <heading>Rules and regulations.</heading>
           <text>In adopting rules and regulations under this Part II, the Commissioner must consider the recommendations of the Advisory Committee on Immunization Practices.</text>
@@ -1985,6 +2059,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-506</num>
           <heading>Exceptions.</heading>
           <text>This Part II does not apply:</text>
@@ -2002,7 +2077,7 @@
         </section>
         <section>
           <num>4-507 to 4-508</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2010,17 +2085,19 @@
         <num>III</num>
         <heading>Pediatric Registry</heading>
         <section>
+          <prefix>§</prefix>
           <num>4-509</num>
           <heading>Commissioner to establish registry.</heading>
           <text>The Commissioner of Health is directed to adopt rules and regulations under § 2-106 {"Rules and regulations"} of this article to implement a registry of immunization history for children residing in the City.</text>
           <annotations>
-            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §215A(b)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-510</num>
           <heading>Reports by health care providers.</heading>
           <para>
@@ -2039,6 +2116,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-511</num>
           <heading>Civil penalties: $1,000.</heading>
           <para>
@@ -2081,26 +2159,29 @@
         <num>I</num>
         <heading>Screening Required</heading>
         <section>
+          <prefix>§</prefix>
           <num>4-601</num>
           <heading>Parental responsibility.</heading>
           <text>Except as specified in § 4-603 {"Exceptions"} of this subtitle, every parent and guardian must provide for the timely and appropriate testing for lead poisoning of his or her minor children, as specified by the rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article.</text>
           <annotations>
-            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 00-020" type="History">Ord. 00-020</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-602</num>
           <heading>Provider's responsibility.</heading>
           <text>Except as specified in § 4-603 {"Exceptions"} of this subtitle, every pediatric and primary care health provider must order the timely and appropriate testing for lead poisoning of his or her minor patients, as specified by the rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article.</text>
           <annotations>
-            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 00-020" type="History">Ord. 00-020</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-603</num>
           <heading>Exceptions.</heading>
           <text>This Part I does not apply to any child whose parent or guardian, in accordance with the rules and regulations of the State Secretary of Health and Mental Hygiene, objects to testing on the ground that it conflicts with the parent's or guardian's bona fide religious beliefs and practices.</text>
@@ -2109,6 +2190,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-604</num>
           <heading>Enforcement.</heading>
           <para>
@@ -2137,7 +2219,7 @@
         </section>
         <section>
           <num>4-605</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2145,16 +2227,18 @@
         <num>II</num>
         <heading>Registry; Reports</heading>
         <section>
+          <prefix>§</prefix>
           <num>4-606</num>
           <heading>Commissioner to establish registry.</heading>
           <text>The Commissioner of Health is directed to adopt rules and regulations under § 2-106 {"Rules and regulations"} of this article to implement a registry of screening history for children residing in the City.</text>
           <annotations>
-            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 00-020" type="History">Ord. 00-020</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-607</num>
           <heading>Reports by medical laboratories.</heading>
           <para>
@@ -2180,6 +2264,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-608</num>
           <heading>Reports by child care facilities.</heading>
           <para>
@@ -2249,6 +2334,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-609</num>
           <heading>Civil penalties: $100.</heading>
           <para>
@@ -2267,7 +2353,7 @@
         </section>
         <section>
           <num>4-610</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -2275,6 +2361,7 @@
         <num>III</num>
         <heading>Public School Water Fountains</heading>
         <section>
+          <prefix>§</prefix>
           <num>4-611</num>
           <heading>Inspections required.</heading>
           <para>
@@ -2292,6 +2379,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>4-612</num>
           <heading>Failing fountains.</heading>
           <text>Any water fountain that fails to meet EPA standards must be taken out of service.</text>
@@ -2306,6 +2394,7 @@
       <num>7</num>
       <heading>Biological Terrorism Reporting</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-701</num>
         <heading>Definitions.</heading>
         <para>
@@ -2319,12 +2408,13 @@
           <text>"Suspect symptoms" means those symptoms that, by rule or regulation adopted under § 2-106 of this article, the Commissioner designates as being indicative of a possible biological terrorist attack.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           <annotation doc="City of Balt., Md., Ord. 01-259" type="History">Ord. 01-259</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-702</num>
         <heading>In general.</heading>
         <para>
@@ -2355,6 +2445,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-703</num>
         <heading>EMS calls.</heading>
         <para>
@@ -2380,6 +2471,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-704</num>
         <heading>Animal carcasses.</heading>
         <para>
@@ -2406,6 +2498,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-705</num>
         <heading>School absences.</heading>
         <para>
@@ -2431,6 +2524,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-706</num>
         <heading>Health Center treatments.</heading>
         <para>
@@ -2456,6 +2550,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-707</num>
         <heading>Emergency department visits.</heading>
         <para>
@@ -2481,6 +2576,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-708</num>
         <heading>Medications.</heading>
         <para>
@@ -2516,6 +2612,7 @@
       <num>9</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-901</num>
         <heading>Violation a misdemeanor.</heading>
         <text>Except as otherwise specified in this title, any person who violates any provision of this title is guilty of a misdemeanor and, on conviction, is subject to the penalties provided in this subtitle.</text>
@@ -2525,6 +2622,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-902</num>
         <heading>Basic penalty: $1,000 and 12 months.</heading>
         <text>Except as otherwise specified in this title, the penalty for a violation of this title is a fine of not more than $1,000 or imprisonment for not more than 12 months or both fine and imprisonment for each offense.</text>
@@ -2536,6 +2634,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-903</num>
         <heading>Failure to vaccinate: $500.</heading>
         <text>The penalty for a violation of § 4-503 {"Parental responsibility"} of this title is a fine of not more than $500 for each offense.</text>
@@ -2556,6 +2655,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -2607,6 +2707,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-102</num>
         <heading>Commissioner's duties.</heading>
         <text>The Commissioner of Health is responsible for:</text>
@@ -2629,6 +2730,7 @@
       <num>2</num>
       <heading>Nuisance Abatement — Generally</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-201</num>
         <heading>Responsibility of persons in charge.</heading>
         <text>Every person in charge of any property is obligated, jointly and severally with all other persons in charge of that property, to:</text>
@@ -2646,6 +2748,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-202</num>
         <heading>Notice to persons in charge.</heading>
         <text>Whenever the Commissioner of Health discovers a condition that the Commissioner considers to be a nuisance or potential nuisance, the Commissioner may issue a written notice to one or more of the following persons or their respective agents:</text>
@@ -2667,6 +2770,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-203</num>
         <heading>Contents of notice.</heading>
         <text>A notice issued under this subtitle must:</text>
@@ -2704,6 +2808,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-204</num>
         <heading>Service of notice.</heading>
         <para>
@@ -2729,6 +2834,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-205</num>
         <heading>Abatement by Commissioner.</heading>
         <text>If the condition is not corrected within the time specified in the notice, the Commissioner may proceed to remove or abate the condition at the expense of the person in charge of the property.</text>
@@ -2738,6 +2844,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-206</num>
         <heading>Costs and expenses.</heading>
         <para>
@@ -2765,9 +2872,10 @@
       </section>
       <section>
         <num>5-207 to 5-208</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-209</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -2785,6 +2893,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-210</num>
         <heading>Penalties: $1,000.</heading>
         <text>Any person in charge who refuses, neglects, or otherwise fails to comply with a notice issued under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
@@ -2799,6 +2908,7 @@
       <num>3</num>
       <heading>Nuisance Abatement — Dwellings</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-301</num>
         <heading>Definitions.</heading>
         <para>
@@ -2841,6 +2951,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-302</num>
         <heading>Scope of subtitle.</heading>
         <text>This subtitle applies only to dwellings and does not in any way modify or affect the authority of the Commissioner of Health to enter and inspect any building, structure, or premises other than a dwelling.</text>
@@ -2850,6 +2961,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-303</num>
         <heading>Enforcement of Maintenance Code.</heading>
         <text>The Commissioner may:</text>
@@ -2877,6 +2989,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-304</num>
         <heading>Right of entry.</heading>
         <para>
@@ -2895,6 +3008,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-305</num>
         <heading>Inspector's testimony.</heading>
         <para>
@@ -2928,7 +3042,7 @@
       </section>
       <section>
         <num>5-306</num>
-        <heading>{Repealed by Ord. 02-475.}</heading>
+        <reason>Repealed by Ord. 02-475.</reason>
       </section>
     </container>
     <container>
@@ -2936,6 +3050,7 @@
       <num>4</num>
       <heading>Lead-Based Paint</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-401</num>
         <heading>Definitions.</heading>
         <para>
@@ -2954,6 +3069,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-402</num>
         <heading>Warning label required.</heading>
         <text>No person may possess, offer for sale, sell, or give away in the City any lead-based paint unless it bears the following or substantially equivalent warning:</text>
@@ -2964,6 +3080,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-403</num>
         <heading>Placement.</heading>
         <text>The warning required by this subtitle must:</text>
@@ -2985,6 +3102,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-404</num>
         <heading>Labels not to indicate interior use.</heading>
         <text>No label on a container of lead-based paint may indicate in any way that the product is suitable for interior surfaces of dwellings or for interior surfaces of any places used for the care of children.</text>
@@ -2995,9 +3113,10 @@
       </section>
       <section>
         <num>5-405 to 5-406</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-407</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -3015,6 +3134,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-408</num>
         <heading>Penalties: $1,000.</heading>
         <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
@@ -3029,6 +3149,7 @@
       <num>5</num>
       <heading>Bodily Wastes</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-501</num>
         <heading>Spitting in public places.</heading>
         <text>No person may spit on:</text>
@@ -3059,9 +3180,10 @@
       </section>
       <section>
         <num>5-502</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-503</num>
         <heading>Urinating or defecating in public places — in general.</heading>
         <text>No person may urinate or defecate on or about:</text>
@@ -3079,6 +3201,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-504</num>
         <heading>Urinating or defecating in public places — parents or guardians of minors.</heading>
         <text>A parent or guardian may not knowingly permit a minor for whom the parent or guardian is responsible to violate § 5-503 {"Urinating or defecating in public places — in general"} of this subtitle.</text>
@@ -3089,9 +3212,10 @@
       </section>
       <section>
         <num>5-505 to 5-506</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-507</num>
         <heading>Minors urinating or defecating in public.</heading>
         <para>
@@ -3126,9 +3250,10 @@
       </section>
       <section>
         <num>5-508</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-509</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -3155,6 +3280,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-510</num>
         <heading>Penalties: Varied.</heading>
         <para>
@@ -3192,6 +3318,7 @@
       <num>6</num>
       <heading>Mosquitoes</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-601</num>
         <heading>Definitions.</heading>
         <para>
@@ -3217,6 +3344,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-602</num>
         <heading>Purpose of subtitle.</heading>
         <text>The purpose of this subtitle is to get rid of the discomfort, annoyance, and health hazards that are caused by mosquitoes.</text>
@@ -3226,6 +3354,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-603</num>
         <heading>Responsibility of persons in charge.</heading>
         <text>Every person in charge of any property is obligated, jointly and severally, to comply with the requirements of this subtitle.</text>
@@ -3235,6 +3364,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-604</num>
         <heading>Collections prohibited unless treated.</heading>
         <text>No person in charge may keep or permit to be kept any collection of water in which mosquitoes are likely to breed, unless the collection of water is treated to effectively prevent breeding.</text>
@@ -3244,6 +3374,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-605</num>
         <heading>Methods of treatment.</heading>
         <text>The method for treating a collection of water to prevent mosquitoes from breeding must be one or more of the following:</text>
@@ -3285,6 +3416,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-606</num>
         <heading>Prima facie evidence of breeding.</heading>
         <para>
@@ -3303,6 +3435,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-607</num>
         <heading>Notice to person in charge.</heading>
         <text>Whenever the Commissioner discovers a condition that could give rise to the breeding of mosquitoes, the Commissioner must issue a written notice to the person in charge, as provided in Subtitle 2 {"Nuisance Abatement — Generally"} of this title.</text>
@@ -3312,6 +3445,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-608</num>
         <heading>Abatement by Commissioner.</heading>
         <para>
@@ -3331,9 +3465,10 @@
       </section>
       <section>
         <num>5-609 to 5-610</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-611</num>
         <heading>Penalties: $500.</heading>
         <para>
@@ -3357,6 +3492,7 @@
       <num>7</num>
       <heading>Weeds</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-701</num>
         <heading>Responsibility of persons in charge.</heading>
         <text>Every person in charge of any property is obligated, jointly and severally, to comply with the requirements of this subtitle.</text>
@@ -3365,6 +3501,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-702</num>
         <heading>Cutting grass, weeds, etc., required.</heading>
         <text>No person in charge of any land may allow:</text>
@@ -3383,6 +3520,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-703</num>
         <heading>Destroying noxious weeds, etc., required.</heading>
         <para>
@@ -3417,6 +3555,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-704</num>
         <heading>Notice to person in charge.</heading>
         <text>Whenever the Commissioner of Health discovers a violation of this subtitle, the Commissioner may issue a written notice to the person in charge, as provided in Subtitle 2 {"Nuisance Abatement — Generally"} of this title.</text>
@@ -3426,6 +3565,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-705</num>
         <heading>Abatement by Public Works.</heading>
         <para>
@@ -3452,9 +3592,10 @@
       </section>
       <section>
         <num>5-706 to 5-707</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-708</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -3472,6 +3613,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-709</num>
         <heading>Penalties.</heading>
         <para>
@@ -3505,6 +3647,7 @@
       <num>9</num>
       <heading>Miscellaneous Requirements</heading>
       <section>
+        <prefix>§</prefix>
         <num>5-901</num>
         <heading>Cleaning sidewalks and gutters.</heading>
         <text>The person in charge of any premises or lot must keep the sidewalk and gutters bounding on the premises or lot open and free from waste or obstructions and clean at all times.</text>
@@ -3514,6 +3657,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-902</num>
         <heading>Keeping offensive materials on property.</heading>
         <para>
@@ -3576,6 +3720,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-903</num>
         <heading>Livestock.</heading>
         <text>Every person who keeps a cow, horse, or other livestock in the City must keep the animal and its stable or other housing in such a way that no filth or stench becomes offensive to or annoys any neighbor or other person.</text>
@@ -3585,6 +3730,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-904</num>
         <heading>Deposit on streets, etc. prohibited.</heading>
         <text>No person may place or cause or allow to be placed on any street any noxious or objectionable matter that from its acid content or otherwise might be injurious or harmful to any person or to the clothing, household furnishings, or personal effects of any person.</text>
@@ -3594,6 +3740,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-905</num>
         <heading>Plastic  bags.</heading>
         <para>
@@ -3670,6 +3817,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-906</num>
         <heading>Abandoned refrigerators, etc.</heading>
         <text>No person may place or permit anyone else to place in any location that is outside of a dwelling or other building and accessible to children any abandoned, unattended, or uncrated ice box, refrigerator, or freezer cabinet equipped with a door or lock that cannot be opened from the inside.</text>
@@ -3680,9 +3828,10 @@
       </section>
       <section>
         <num>5-907 to 5-909</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-910</num>
         <heading>Penalties.</heading>
         <para>
@@ -3728,6 +3877,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -3816,6 +3966,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-102</num>
         <heading>Commissioner's duties.</heading>
         <text>The Commissioner of Health is responsible for:</text>
@@ -3838,6 +3989,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-103</num>
         <heading>Rules and regulations.</heading>
         <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner, consistent with this title and State law:</text>
@@ -3856,6 +4008,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-104</num>
         <heading>Inspections; samples.</heading>
         <para>
@@ -3882,6 +4035,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-105</num>
         <heading>Confiscation of food.</heading>
         <para>
@@ -3918,6 +4072,7 @@
       <num>2</num>
       <heading>License Required</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-201</num>
         <heading>In general.</heading>
         <para>
@@ -3951,6 +4106,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-202</num>
         <heading>Applications.</heading>
         <para>
@@ -3977,6 +4133,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-203</num>
         <heading>Inspection and priority assessment of facility.</heading>
         <para>
@@ -4008,6 +4165,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-204</num>
         <heading>Issuance of license.</heading>
         <text>The Commissioner must issue a license to the applicant if:</text>
@@ -4025,6 +4183,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-205</num>
         <heading>Scope of license.</heading>
         <text>While a license is in effect, it authorizes the operation of the food service facility in accordance with the approved plans and specifications.</text>
@@ -4035,6 +4194,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-206</num>
         <heading>Material alterations.</heading>
         <para>
@@ -4065,6 +4225,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-207</num>
         <heading>Term and renewal of license.</heading>
         <para>
@@ -4095,6 +4256,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-208</num>
         <heading>Provisional licenses.</heading>
         <para>
@@ -4125,6 +4287,7 @@
       <num>3</num>
       <heading>Food Service Managers</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-301</num>
         <heading>Certain facilities to employ manager.</heading>
         <text>Each high priority or moderate priority food service facility must employ a food service manager.</text>
@@ -4134,6 +4297,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-302</num>
         <heading>Managers to be certified.</heading>
         <text>A food service manager who is employed by a high priority or moderate priority food service facility must, within 90 days of becoming employed by the facility, be certified by the Commissioner of Health in accordance with this subtitle.</text>
@@ -4143,6 +4307,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-303</num>
         <heading>Certification requirements.</heading>
         <para>
@@ -4179,6 +4344,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-304</num>
         <heading>Issuance to individuals only.</heading>
         <text>A food service manager certificate may only be issued in the name of an individual.</text>
@@ -4188,6 +4354,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-305</num>
         <heading>Term.</heading>
         <text>Unless sooner suspended or revoked, a food service manager certificate expires on the 3<sup>rd</sup> anniversary of its effective date.</text>
@@ -4197,6 +4364,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-306</num>
         <heading>Instructors to be certified.</heading>
         <text>Instructors of food service managers must be certified in the same manner as food service managers.</text>
@@ -4212,9 +4380,10 @@
       <heading>Fees</heading>
       <section>
         <num>6-401</num>
-        <heading>{Repealed}</heading>
+        <reason>Repealed</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-402</num>
         <heading>Processing fees.</heading>
         <para>
@@ -4240,6 +4409,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-403</num>
         <heading>Annual license fees.</heading>
         <text>Subject to § 6-404 {"Reduced fee for certain tax exempt entities"} and § 6-405 {"Waived fee for certain day care centers"} of this subtitle, the annual license fee for each class of food service facility is as set from time to time by the Commissioner, with the approval of the City Council.</text>
@@ -4251,6 +4421,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-404</num>
         <heading>Reduced fee for certain tax exempt entities.</heading>
         <para>
@@ -4282,6 +4453,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-405</num>
         <heading>Waived fee for certain day care centers.</heading>
         <text>As long as the Maryland Department of Human Resources continues to contract with the City Department of Health for 2 or more environmental sanitarians to inspect and monitor child group day care centers in the City, the annual license fee for those centers is waived.</text>
@@ -4291,6 +4463,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-406</num>
         <heading>Late fees.</heading>
         <para>
@@ -4312,6 +4485,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-407</num>
         <heading>Manager certification fees.</heading>
         <text>Fees imposed for certification of food service managers are as set by the Commissioner.</text>
@@ -4321,6 +4495,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-408</num>
         <heading>Use of fee proceeds.</heading>
         <para>
@@ -4359,6 +4534,7 @@
       <num>5</num>
       <heading>Miscellaneous Regulations</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-501</num>
         <heading>Definitions.</heading>
         <para>
@@ -4418,6 +4594,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-502</num>
         <heading>Compliance with health laws required.</heading>
         <text>Each food service facility must comply with all applicable health laws, rules, and regulations of the federal government, the State of Maryland, and the City of Baltimore.</text>
@@ -4427,6 +4604,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-503</num>
         <heading>Disguising adulterated, etc., food prohibited.</heading>
         <text>No food service facility may use any acid, drug, chemical, coloring, or other substance to disguise any adulterated or unwholesome food.</text>
@@ -4436,6 +4614,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-504</num>
         <heading>Possession, etc., of adulterated, etc., food prohibited.</heading>
         <text>No food service facility may sell, offer for sale, transport, or have on its premises, in any vehicle, or on the premises of any other person any adulterated or unwholesome food.</text>
@@ -4445,6 +4624,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-505</num>
         <heading>Frozen food regulations.</heading>
         <para>
@@ -4496,6 +4676,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-505.1</num>
         <heading>Dated food products.</heading>
         <para>
@@ -4576,6 +4757,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-506</num>
         <heading>Litter and rubbish prohibited.</heading>
         <para>
@@ -4622,6 +4804,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-507</num>
         <heading>Trans fats prohibited.</heading>
         <para>
@@ -4696,12 +4879,13 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           <annotation doc="City of Balt., Md., Ord. 08-001" type="History">Ord. 08-001</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-508</num>
         <heading>Polystyrene foam products.</heading>
         <para>
@@ -4760,6 +4944,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-509</num>
         <heading>Children's meals.</heading>
         <para>
@@ -4816,6 +5001,7 @@
       <num>6</num>
       <heading>Suspensions and Revocations</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-601</num>
         <heading>Notice of violation or hazard.</heading>
         <para>
@@ -4846,6 +5032,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-602</num>
         <heading>Suspension on failure to correct.</heading>
         <para>
@@ -4872,6 +5059,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-603</num>
         <heading>Suspension without notice.</heading>
         <para>
@@ -4907,6 +5095,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-603.1</num>
         <heading>Suspension or nonrenewal for multiple or unpaid citations.</heading>
         <para>
@@ -5042,6 +5231,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-604</num>
         <heading>Reinstatement of suspended licenses.</heading>
         <para>
@@ -5085,6 +5275,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-605</num>
         <heading>Revocation of licenses.</heading>
         <para>
@@ -5111,6 +5302,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-606</num>
         <heading>Public notices.</heading>
         <para>
@@ -5192,6 +5384,7 @@
       <num>8</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-801</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -5209,6 +5402,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-802</num>
         <heading>Penalties.</heading>
         <para>
@@ -5248,6 +5442,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -5429,6 +5624,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-102</num>
         <heading>Findings and declaration of public policy.</heading>
         <para>
@@ -5476,6 +5672,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-103</num>
         <heading>Rules and regulations.</heading>
         <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may include provisions, consistent with this title and State law, that govern:</text>
@@ -5502,6 +5699,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-201</num>
           <heading>Definitions.</heading>
           <para>
@@ -5525,6 +5723,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-202</num>
           <heading>Scope of subtitle.</heading>
           <text>This subtitle does not apply to:</text>
@@ -5557,7 +5756,7 @@
         </section>
         <section>
           <num>7-203 to 7-204</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -5565,6 +5764,7 @@
         <num>II</num>
         <heading>License Required</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-205</num>
           <heading>In general.</heading>
           <text>No person may operate as a hauler in the City without a license to do so from the Commissioner of Health.</text>
@@ -5574,6 +5774,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-206</num>
           <heading>Applications.</heading>
           <text>The application for a license:</text>
@@ -5591,6 +5792,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-207</num>
           <heading>Inspection of applicant.</heading>
           <text>On receipt of the application, the Commissioner may inspect the applicant's storage facilities, vehicles, and other equipment before issuing a license.</text>
@@ -5600,6 +5802,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-208</num>
           <heading>Issuance of license.</heading>
           <text>The Commissioner must issue a license to the applicant if the applicant:</text>
@@ -5617,6 +5820,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-209</num>
           <heading>Term and renewal of license.</heading>
           <para>
@@ -5663,6 +5867,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-210</num>
           <heading>License fees.</heading>
           <para>
@@ -5690,6 +5895,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-211</num>
           <heading>Inspection of licensee.</heading>
           <para>
@@ -5709,7 +5915,7 @@
         </section>
         <section>
           <num>7-212 to 7-213</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -5717,6 +5923,7 @@
         <num>III</num>
         <heading>Suspensions and Revocations</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-214</num>
           <heading>Suspension or revocation after notice.</heading>
           <para>
@@ -5764,6 +5971,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-215</num>
           <heading>Suspension or revocation after conviction.</heading>
           <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner may suspend or revoke the license of any licensee who is convicted of a violation of:</text>
@@ -5786,7 +5994,7 @@
         </section>
         <section>
           <num>7-216 to 7-217</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -5794,6 +6002,7 @@
         <num>IV</num>
         <heading>Haulers' Duties</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-218</num>
           <heading>Identification of vehicles.</heading>
           <para>
@@ -5839,6 +6048,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-219</num>
           <heading>Identification of containers.</heading>
           <para>
@@ -5881,6 +6091,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-220</num>
           <heading>Sanitation requirements.</heading>
           <para>
@@ -5911,6 +6122,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-221</num>
           <heading>Hours of collection.</heading>
           <para>
@@ -5935,6 +6147,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-222</num>
           <heading>Daily log.</heading>
           <para>
@@ -5970,7 +6183,7 @@
         </section>
         <section>
           <num>7-223 to 7-224</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -5978,6 +6191,7 @@
         <num>V</num>
         <heading>Using Unlicensed Haulers</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-225</num>
           <heading>List of licensees.</heading>
           <para>
@@ -5996,6 +6210,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-226</num>
           <heading>Prohibited conduct.</heading>
           <text>No person may contract with or hire any hauler who is not licensed under this subtitle.</text>
@@ -6006,7 +6221,7 @@
         </section>
         <section>
           <num>7-227 to 7-228</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6014,6 +6229,7 @@
         <num>VI</num>
         <heading>Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-229</num>
           <heading>Enforcement by citation.</heading>
           <para>
@@ -6040,6 +6256,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-230</num>
           <heading>Penalties: $500/day.</heading>
           <para>
@@ -6064,6 +6281,7 @@
       <num>3</num>
       <heading>Transporting Waste</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-301</num>
         <heading>Coverings and containers required.</heading>
         <para>
@@ -6094,6 +6312,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-302</num>
         <heading>Loading and care.</heading>
         <para>
@@ -6112,6 +6331,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-303</num>
         <heading>Noncommercial vehicles.</heading>
         <text>The owner of every noncommercial vehicle used to carry any waste or any sand, dirt, gravel, loam, earth, fertilizer, filth, stone, brick, or coal must keep the load in a tight and secure condition so that no part of the load can fall, leak, or spill.</text>
@@ -6121,6 +6341,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-304</num>
         <heading>Replacement of spills.</heading>
         <text>If any material falls, leaks, or spills from a vehicle or container, the individual operating the vehicle or in charge of the container must immediately stop and remove and secure the fallen, leaked, or spilled material.</text>
@@ -6131,9 +6352,10 @@
       </section>
       <section>
         <num>7-305 to 7-306</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-307</num>
         <heading>Penalties: $500.</heading>
         <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
@@ -6151,6 +6373,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-401</num>
           <heading>Definitions.</heading>
           <para>
@@ -6183,6 +6406,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-402</num>
           <heading>Exceptions from subtitle.</heading>
           <text>This subtitle does not apply to:</text>
@@ -6209,7 +6433,7 @@
         </section>
         <section>
           <num>7-403 to 7-405</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6217,6 +6441,7 @@
         <num>II</num>
         <heading>License Required</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-406</num>
           <heading>In general.</heading>
           <text>No person may operate a landfill in the City without a license to do so from the Commissioner of Health.</text>
@@ -6226,6 +6451,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-407</num>
           <heading>Applications.</heading>
           <text>The application for a license:</text>
@@ -6279,6 +6505,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-408</num>
           <heading>Issuance of license.</heading>
           <text>The Commissioner must issue a license to the applicant if:</text>
@@ -6300,6 +6527,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-409</num>
           <heading>Term and renewal of license.</heading>
           <para>
@@ -6330,6 +6558,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-410</num>
           <heading>License fees.</heading>
           <text>The annual fee for a license is as set by the Commissioner, with the approval of the Board of Estimates.</text>
@@ -6339,6 +6568,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-411</num>
           <heading>Notice of changed information.</heading>
           <text>A licensee must immediately notify the Commissioner of any change in any of the information contained in or accompanying the licensee's application for a license or a renewal.</text>
@@ -6349,7 +6579,7 @@
         </section>
         <section>
           <num>7-412 to 7-413</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6357,6 +6587,7 @@
         <num>III</num>
         <heading>Suspensions, Revocations, and Denials</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-414</num>
           <heading>Suspensions.</heading>
           <para>
@@ -6395,6 +6626,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-415</num>
           <heading>Revocations and denials of renewal.</heading>
           <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner of Health may revoke or refuse to renew the license of any licensee who repeatedly violates any of the conditions of the license or any of the provisions of this subtitle or of the rules and regulations adopted under this subtitle.</text>
@@ -6405,7 +6637,7 @@
         </section>
         <section>
           <num>7-416 to 7-417</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6413,6 +6645,7 @@
         <num>IV</num>
         <heading>Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-418</num>
           <heading>Enforcement by citation.</heading>
           <para>
@@ -6439,6 +6672,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-419</num>
           <heading>Penalties: $1,000 and $100/day.</heading>
           <text>Any person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense, plus $100 for each day that the offense continues.</text>
@@ -6454,6 +6688,7 @@
       <num>5</num>
       <heading>Hydraulic Fracturing</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-501</num>
         <heading>Definitions.</heading>
         <para>
@@ -6476,6 +6711,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-502</num>
         <heading>Hydraulic fracturing prohibited</heading>
         <text>No person may make use of hydraulic fracturing to extract oil, gas, or other hydrocarbons within the City of Baltimore.</text>
@@ -6484,6 +6720,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-503</num>
         <heading>Storing, treating, disposing, etc., wastewater prohibited.</heading>
         <text>No person may store, treat, discharge, or dispose of in the City or in or on any City-owned facility or property, wherever situated, any flow back or other wastewater resulting from hydraulic fracturing.</text>
@@ -6493,6 +6730,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-504</num>
         <heading>Penalties: $1,000 and 90 days.</heading>
         <para>
@@ -6520,6 +6758,7 @@
         <num>I</num>
         <heading>Scope of Subtitle</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-601</num>
           <heading>"Litter" excluded.</heading>
           <text>This subtitle does not apply to the disposal of "litter", as defined in Subtitle 7 of this title.</text>
@@ -6529,7 +6768,7 @@
         </section>
         <section>
           <num>7-602 to 7-605</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6537,6 +6776,7 @@
         <num>II</num>
         <heading>Prohibited Activities</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-606</num>
           <heading>In general.</heading>
           <text>No person may dispose of any waste or other material except:</text>
@@ -6559,6 +6799,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-607</num>
           <heading>Disposing of offensive materials.</heading>
           <para>
@@ -6622,6 +6863,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-608</num>
           <heading>Dumping on public property.</heading>
           <text>No person may dump or dispose of any garbage, waste, wire, glass, nails, or any other matter:</text>
@@ -6641,6 +6883,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-609</num>
           <heading>Dumping on private property.</heading>
           <text>No person may dump or otherwise dispose of any earth, dirt, sand, ashes, gravel, rocks, garbage, waste, or any other matter on any private property, including in or near any waste receptacle on the property, without the permission of the property owner or the owner's agent.</text>
@@ -6652,6 +6895,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-610</num>
           <heading>Burning waste.</heading>
           <text>No person may burn or cause to be burned any garbage or other waste except as specifically authorized by law.</text>
@@ -6663,7 +6907,7 @@
         </section>
         <section>
           <num>7-611 to 7-615</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -6671,6 +6915,7 @@
         <num>III</num>
         <heading>Seizure and Forfeiture of Vehicles</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-616</num>
           <heading>Responsibility of vehicle owner.</heading>
           <text>The registered owner of a vehicle or, for a leased or rented vehicle, the lessee or renter, as identified on the lease or rental agreement, is prima facie responsible for any waste or other material transported in or disposed of from that vehicle.</text>
@@ -6682,6 +6927,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-617</num>
           <heading>Grounds for seizure.</heading>
           <para>
@@ -6707,6 +6953,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-618</num>
           <heading>Seizure by police.</heading>
           <para>
@@ -6737,6 +6984,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-619</num>
           <heading>Referral to Solicitor.</heading>
           <para>
@@ -6765,6 +7013,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-620</num>
           <heading>Forfeiture petition; notice.</heading>
           <para>
@@ -6838,6 +7087,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-621</num>
           <heading>Answer to petition.</heading>
           <para>
@@ -6886,6 +7136,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-622</num>
           <heading>Early retrieval by owner.</heading>
           <para>
@@ -6942,6 +7193,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-623</num>
           <heading>Order of forfeiture.</heading>
           <para>
@@ -7011,6 +7263,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-624</num>
           <heading>Order of release.</heading>
           <text>If, after a full hearing, the court determines that the vehicle should not be forfeited, the court must order the vehicle released.</text>
@@ -7020,7 +7273,7 @@
         </section>
         <section>
           <num>7-625 to 7-626</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -7028,6 +7281,7 @@
         <num>IV</num>
         <heading>Enforcement; Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>7-627</num>
           <heading>Grants for reports of violations.</heading>
           <para>
@@ -7048,12 +7302,13 @@
             </para>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 09-202" type="History">Ord. 09-202</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-628</num>
           <heading>Liability for costs and expenses.</heading>
           <text>Any person who, in violation of § 7-608 {"Dumping on public property"} of this subtitle or in violation of any other provision of law, dumps or otherwise disposes of matter in or on property owned, leased, or controlled by the City is liable to the City for the costs of:</text>
@@ -7072,9 +7327,10 @@
         </section>
         <section>
           <num>7-629 to 7-630</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-631</num>
           <heading>Enforcement by Environmental or Civil Citation.</heading>
           <para>
@@ -7103,6 +7359,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>7-632</num>
           <heading>Criminal penalties.</heading>
           <para>
@@ -7150,6 +7407,7 @@
       <num>7</num>
       <heading>Littering</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-701</num>
         <heading>"Litter" defined.</heading>
         <text>"Litter" means to discard or otherwise dispose of, in any way other than as authorized by § 7-601 of this title, of small amounts of paper, beverage containers, glass, garbage, or other waste that:</text>
@@ -7171,6 +7429,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-702</num>
         <heading>Littering prohibited.</heading>
         <text>No person may:</text>
@@ -7188,6 +7447,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-703</num>
         <heading>Material from vehicle.</heading>
         <text>The registered owner of a vehicle is prima facie responsible for any litter disposed of from that vehicle.</text>
@@ -7197,9 +7457,10 @@
       </section>
       <section>
         <num>7-704</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-705</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -7226,6 +7487,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-706</num>
         <heading>Penalties: $500</heading>
         <para>
@@ -7258,6 +7520,7 @@
         <num>I</num>
         <heading>In General</heading>
         <section>
+          <prefix>§</prefix>
           <num>8-101</num>
           <heading>Definitions.</heading>
           <para>
@@ -7300,6 +7563,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-102</num>
           <heading>Commissioner's powers.</heading>
           <para>
@@ -7319,9 +7583,10 @@
         </section>
         <section>
           <num>8-103 to 8-104</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-105</num>
           <heading>Prohibited conduct.</heading>
           <text>No person may operate or use any source, whether indoors or outdoors, static or mobile, that contributes to air pollution in any way or amount that exceeds emission standards:</text>
@@ -7339,6 +7604,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-106</num>
           <heading>Order to correct conditions.</heading>
           <text>Whenever as the result of an investigation or study, the result of a complaint, or otherwise, the Commissioner of Health finds that any source is contributing to air pollution in excess of that permitted by law, the Commissioner may issue a written notice to the owner or operator of that source and order the owner or operator to remove or control the cause of the emission in the manner and within the time specified in the notice.</text>
@@ -7349,7 +7615,7 @@
         </section>
         <section>
           <num>8-107 to 8-109</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -7360,6 +7626,7 @@
           <annotation type="Editor's Notes">This Part II was added by Ordinance 19-232 (enacted March 7, 2019).  Section 2 of that Ordinance provides that, except as otherwise provided in Section 3, the new law takes effect 18 months after the date of enactment (i.e., on September 7, 2020).  Section 3, in turn, provides that “the Health Commissioner may begin to certify Air Monitoring Contractors in accordance with § 8-124 ... of this Ordinance on or after the date this Ordinance is enacted.”</annotation>
         </annotations>
         <section>
+          <prefix>§</prefix>
           <num>8-110</num>
           <heading>Short title; Purpose.</heading>
           <para>
@@ -7377,6 +7644,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-111</num>
           <heading>Definitions.</heading>
           <para>
@@ -7423,9 +7691,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>
-              <em>{Repealed}</em>
-            </text>
+            <reason>Repealed</reason>
           </para>
           <para>
             <num>(f)</num>
@@ -7444,21 +7710,24 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-112</num>
           <heading>Scope.</heading>
           <text>All commercial solid waste incinerators located within Baltimore City are subject to the requirements of this Part II.</text>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-113</num>
           <heading>Rules and regulations.</heading>
           <text>In the rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations"} of this article, the Health Commissioner may adopt rules and regulations to implement this Part II.</text>
           <annotations>
-            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
             <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-114</num>
           <heading>Pollutants to be continuously monitored.</heading>
           <text>Each facility must, at its own expense, contract with an Air Monitoring Contractor certified by the Health Commissioner in accordance with § 8-124 {"Certification of Air Monitoring Contractor"} to install, operate, and maintain Continuous Emissions Monitoring Systems ("CEMS") equipment to monitor, measure, and disclose the smokestack emission of the following pollutants:</text>
@@ -7503,6 +7772,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-115</num>
           <heading>Monitoring system to be continuously active.</heading>
           <para>
@@ -7520,6 +7790,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-116</num>
           <heading>Emission limits.</heading>
           <para>
@@ -7568,6 +7839,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-117</num>
           <heading>City adoption and enforcement of more stringent Federal and State requirements.</heading>
           <para>
@@ -7586,9 +7858,10 @@
         </section>
         <section>
           <num>8-118 to 8-119</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-120</num>
           <heading>Required CEMS reports.</heading>
           <para>
@@ -7632,6 +7905,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-121</num>
           <heading>Data disclosure.</heading>
           <para>
@@ -7668,6 +7942,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-122</num>
           <heading>Inspections.</heading>
           <para>
@@ -7691,9 +7966,10 @@
         </section>
         <section>
           <num>8-123</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-124</num>
           <heading>Certification of Air Monitoring Contractor.</heading>
           <para>
@@ -7744,6 +8020,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>8-125</num>
           <heading>Criminal penalties.</heading>
           <para>
@@ -7767,7 +8044,7 @@
         </section>
         <section>
           <num>8-126</num>
-          <heading>{Repealed by Ord. 22-125}</heading>
+          <reason>Repealed by Ord. 22-125</reason>
           <annotations>
             <annotation type="Editor's Notes">For the Code-wide standard for severability of provisions, see General Provisions Article, § 1-214.</annotation>
           </annotations>
@@ -7779,6 +8056,7 @@
       <num>2</num>
       <heading>Open Burning</heading>
       <section>
+        <prefix>§</prefix>
         <num>8-201</num>
         <heading>Definitions.</heading>
         <para>
@@ -7802,6 +8080,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-202</num>
         <heading>Purpose of subtitle.</heading>
         <para>
@@ -7820,6 +8099,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-203</num>
         <heading>Open burning prohibited.</heading>
         <text>Except as specified in § 8-204 {"Exceptions"} of this subtitle, no person may permit or carry on any open burning of waste.</text>
@@ -7829,6 +8109,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-204</num>
         <heading>Exceptions.</heading>
         <para>
@@ -7883,6 +8164,7 @@
       <num>3</num>
       <heading>Penalties.</heading>
       <section>
+        <prefix>§</prefix>
         <num>8-301</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -7909,6 +8191,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>8-302</num>
         <heading>Criminal penalties: $1,000.</heading>
         <para>
@@ -7938,6 +8221,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -7976,6 +8260,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-102</num>
         <heading>Construction of title.</heading>
         <para>
@@ -7994,6 +8279,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-103</num>
         <heading>Exemptions.</heading>
         <para>
@@ -8023,13 +8309,14 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §231</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-104</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -8085,6 +8372,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-201</num>
           <heading>Definitions.</heading>
           <para>
@@ -8194,6 +8482,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-202</num>
           <heading>Declaration of findings and policy.</heading>
           <para>
@@ -8233,7 +8522,7 @@
         </section>
         <section>
           <num>9-203 to 9-204</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8241,6 +8530,7 @@
         <num>II</num>
         <heading>Maximum Sound Levels</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-205</num>
           <heading>In general.</heading>
           <para>
@@ -8282,6 +8572,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-206</num>
           <heading>Limits.</heading>
           <para>
@@ -8357,6 +8648,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-207</num>
           <heading>Nighttime sound reductions.</heading>
           <text>Between the hours of 9 p.m. and 7 a.m., the maximum permissible sound specified in § 9-206 {"Limits"} of this subtitle must be reduced by 5 dB(A) for any use that:</text>
@@ -8374,6 +8666,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-208</num>
           <heading>Permitted deviations.</heading>
           <para>
@@ -8425,6 +8718,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-209</num>
           <heading>Temporary exemptions.</heading>
           <para>
@@ -8529,7 +8823,7 @@
         </section>
         <section>
           <num>9-210 to 9-211</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8537,6 +8831,7 @@
         <num>III</num>
         <heading>Enforcement</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-212</num>
           <heading>Notice of violation.</heading>
           <para>
@@ -8563,6 +8858,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-213</num>
           <heading>Enforcement by Commissioner.</heading>
           <text>If corrective action is not taken within the time specified in the notice, the Commissioner may institute injunctive or other legal proceedings in a court of competent jurisdiction</text>
@@ -8572,6 +8868,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-214</num>
           <heading>Private actions; civil damages.</heading>
           <para>
@@ -8606,7 +8903,7 @@
         </section>
         <section>
           <num>9-215 to 9-216</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8614,6 +8911,7 @@
         <num>IV</num>
         <heading>Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-217</num>
           <heading>Enforcement by citation.</heading>
           <para>
@@ -8640,6 +8938,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-218</num>
           <heading>Penalties: $1,000.</heading>
           <para>
@@ -8668,6 +8967,7 @@
         <num>I</num>
         <heading>General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-301</num>
           <heading>Declaration of findings and intent.</heading>
           <para>
@@ -8698,6 +8998,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-302</num>
           <heading>Scope of subtitle.</heading>
           <para>
@@ -8736,6 +9037,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-303</num>
           <heading>Temporary exemptions.</heading>
           <para>
@@ -8828,7 +9130,7 @@
         </section>
         <section>
           <num>9-304 to 9-305</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8836,6 +9138,7 @@
         <num>II</num>
         <heading>Entertainment Noise</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-306</num>
           <heading>Prohibited conduct — in general.</heading>
           <text>Except as authorized under § 9-303 {"Temporary exemptions"} of this subtitle, no person may play, operate, or permit to be played or operated any radio, musical instrument, phonograph, tape- or compact disc-player, or other device for the production or reproduction of sound if:</text>
@@ -8865,6 +9168,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-307</num>
           <heading>Prohibited conduct —parents or guardians of minors.</heading>
           <text>A parent or guardian may not knowingly permit a minor for whom the parent or guardian is responsible to violate § 9-306 {"Prohibited conduct — in general"} of this subtitle.</text>
@@ -8874,6 +9178,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-308</num>
           <heading>Presumptions.</heading>
           <para>
@@ -8892,6 +9197,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-309</num>
           <heading>Violations by minors.</heading>
           <para>
@@ -8926,7 +9232,7 @@
         </section>
         <section>
           <num>9-310 to 9-311</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8934,6 +9240,7 @@
         <num>III</num>
         <heading>Commercial Noise</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-312</num>
           <heading>Loudspeakers, etc.</heading>
           <para>
@@ -8952,6 +9259,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-313</num>
           <heading>Outcrying.</heading>
           <para>
@@ -8971,7 +9279,7 @@
         </section>
         <section>
           <num>9-314 to 9-315</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -8979,6 +9287,7 @@
         <num>IV</num>
         <heading>Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-316</num>
           <heading>Enforcement by citation.</heading>
           <para>
@@ -9005,6 +9314,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-317</num>
           <heading>Penalties.</heading>
           <para>
@@ -9054,6 +9364,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-401</num>
           <heading>Definitions.</heading>
           <para>
@@ -9106,6 +9417,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-402</num>
           <heading>Declaration of findings and intent.</heading>
           <para>
@@ -9179,6 +9491,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-403</num>
           <heading>Scope of subtitle.</heading>
           <para>
@@ -9198,7 +9511,7 @@
         </section>
         <section>
           <num>9-404 to 9-405</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -9206,6 +9519,7 @@
         <num>II</num>
         <heading>General Regulations</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-406</num>
           <heading>Commercial speech.</heading>
           <para>
@@ -9224,6 +9538,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-407</num>
           <heading>Noncommercial speech.</heading>
           <text>At all times in the Market Center Urban Renewal Area, no person may use any publicly amplified sound not containing commercial speech without a permit to do so from the Commissioner.</text>
@@ -9233,6 +9548,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-408</num>
           <heading>Loud and raucous sounds prohibited.</heading>
           <text>All loud and raucous sound is prohibited in the Market Center Urban Renewal Area.  The receipt of a permit is not a defense to a charge of producing or causing any loud and raucous sound.</text>
@@ -9243,7 +9559,7 @@
         </section>
         <section>
           <num>9-409 to 9-411</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -9251,6 +9567,7 @@
         <num>III</num>
         <heading>Permits</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-412</num>
           <heading>Applications.</heading>
           <para>
@@ -9288,6 +9605,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-413</num>
           <heading>Review and issuance.</heading>
           <para>
@@ -9332,6 +9650,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-414</num>
           <heading>Judicial review of denied application.</heading>
           <para>
@@ -9372,7 +9691,7 @@
         </section>
         <section>
           <num>9-415 to 9-416</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -9380,6 +9699,7 @@
         <num>IV</num>
         <heading>Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>9-417</num>
           <heading>Enforcement by citation.</heading>
           <para>
@@ -9406,6 +9726,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>9-418</num>
           <heading>Penalties: $500 and 10 days.</heading>
           <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 or to imprisonment for not more than 10 days or to both fine and imprisonment for each offense.</text>
@@ -9430,6 +9751,7 @@
         <num>I</num>
         <heading>Definitions; Purpose</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-101</num>
           <heading>Definitions.</heading>
           <para>
@@ -9499,9 +9821,7 @@
           </para>
           <para>
             <num>(j)</num>
-            <text>
-              <em>{Vacant}</em>
-            </text>
+            <reason>Vacant</reason>
           </para>
           <para>
             <num>(k)</num>
@@ -9821,6 +10141,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-102</num>
           <heading>Purpose of title.</heading>
           <text>The purpose of this title is:</text>
@@ -9846,7 +10167,7 @@
         </section>
         <section>
           <num>10-103</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -9854,6 +10175,7 @@
         <num>II</num>
         <heading>Administration</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-104</num>
           <heading>Rules and regulations</heading>
           <text>The rules and regulations that the Commissioner adopts under § 2-106 {"Rules and regulations'] of this article may include provisions:</text>
@@ -9893,6 +10215,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-105</num>
           <heading>Mayor's Anti-Animal Abuse Advisory Commission.</heading>
           <text>The Commissioner may request the Mayor's Anti-Animal Abuse Advisory Commission, established under City Code Article 1, Subtitle 55,. to research best practices and make recommendations to the Commissioner about the regulation and treatment of animals.</text>
@@ -9901,6 +10224,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-106</num>
           <heading>Fees.</heading>
           <para>
@@ -9932,6 +10256,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-107</num>
           <heading>Contracting with others for services.</heading>
           <text>With the approval of the Commissioner and the Board of Estimates, the Department may enter into a contract with others to provide services under this title, except for non-delegable government functions.</text>
@@ -9940,6 +10265,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-108</num>
           <heading>Inspections, investigation of complaints, and impoundment.</heading>
           <para>
@@ -9972,6 +10298,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-109</num>
           <heading>Office of Animal Control.</heading>
           <para>
@@ -9996,6 +10323,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-110</num>
           <heading>Animal enforcement officers.</heading>
           <para>
@@ -10143,6 +10471,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-111</num>
           <heading>Service of notice.</heading>
           <para>
@@ -10184,6 +10513,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-112</num>
           <heading>Obstructing, etc. officer; False statements.</heading>
           <para>
@@ -10202,7 +10532,7 @@
         </section>
         <section>
           <num>10-113</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -10210,6 +10540,7 @@
         <num>III</num>
         <heading>Complaint Process</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-114</num>
           <heading>Initiation of complaint.</heading>
           <para>
@@ -10260,6 +10591,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-115</num>
           <heading>Investigation of complaint.</heading>
           <para>
@@ -10282,6 +10614,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-116</num>
           <heading>Finding animal to be dangerous or vicious.</heading>
           <text>If, on investigation of a complaint, the Office believes that the animal is a dangerous or vicious animal, the Office must:</text>
@@ -10309,6 +10642,7 @@
         <num>I</num>
         <heading>Dog and Cat Licenses</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-201</num>
           <heading>License required.</heading>
           <para>
@@ -10337,6 +10671,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-202</num>
           <heading>License fees.</heading>
           <para>
@@ -10387,6 +10722,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-203</num>
           <heading>Applications.</heading>
           <text>The application for a license must:</text>
@@ -10430,6 +10766,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-204</num>
           <heading>Issuance of licenses and tags.</heading>
           <para>
@@ -10477,6 +10814,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-205</num>
           <heading>Term.</heading>
           <text>Unless sooner suspended or revoked, a dog or cat license (except for a Class C License) expires annually on the anniversary of its issuance.</text>
@@ -10488,6 +10826,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-206</num>
           <heading>Records; replacements.</heading>
           <para>
@@ -10516,6 +10855,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-207</num>
           <heading>Prohibited conduct.</heading>
           <text>No person may:</text>
@@ -10556,6 +10896,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-208</num>
           <heading>Owner to provide copy to custodian.</heading>
           <text>Whenever the owner of an animal places it in the care or custody of another person, the owner must provide that custodian with a copy of the license and identification tag issued under this Part for the animal.</text>
@@ -10565,7 +10906,7 @@
         </section>
         <section>
           <num>10-209</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -10573,6 +10914,7 @@
         <num>II</num>
         <heading>Facility Licenses</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-210</num>
           <heading>License required.</heading>
           <para>
@@ -10608,6 +10950,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-211</num>
           <heading>Applications.</heading>
           <text>The application for a facility license must:</text>
@@ -10633,6 +10976,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-212</num>
           <heading>Issuance.</heading>
           <text>The Office must issue the license if the applicant:</text>
@@ -10652,9 +10996,10 @@
         </section>
         <section>
           <num>10-213</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-214</num>
           <heading>Term.</heading>
           <text>Unless sooner suspended or revoked, a facility license expires annually on the anniversary date of its issuance.</text>
@@ -10665,6 +11010,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-215</num>
           <heading>Animal records.</heading>
           <para>
@@ -10703,6 +11049,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-216</num>
           <heading>Prohibited conduct.</heading>
           <text>No person may operate any facility subject to this Part II in violation of:</text>
@@ -10722,7 +11069,7 @@
         </section>
         <section>
           <num>10-217 to 10-218</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -10730,6 +11077,7 @@
         <num>III</num>
         <heading>Denials, Suspensions, and Revocations</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-219</num>
           <heading>Grounds for denial, etc.</heading>
           <para>
@@ -10775,6 +11123,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-220</num>
           <heading>Additional grounds for denial, etc.</heading>
           <text>Subject to the hearing procedures of Subtitle 10 of this title, the Commissioner also may deny, suspend, amend, revoke, or refuse to renew any license or permit issued under this title if the applicant, licensee, or permitee neglects, refuses, or otherwise fails to comply with any provision of:</text>
@@ -10799,9 +11148,10 @@
         </section>
         <section>
           <num>10-221</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-222</num>
           <heading>No refund on suspension, amendment, or revocation.</heading>
           <text>No part of a license or permit fee may be refunded when the license or permit is suspended, amended, or revoked.</text>
@@ -10812,6 +11162,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-223</num>
           <heading>Surrender or removal of animal on denial, etc.</heading>
           <para>
@@ -10938,6 +11289,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-224</num>
           <heading>Reapplication after denial or revocation.</heading>
           <text>Any person who is denied a license or permit under this title, or who has had a license or permit revoked under this title, may not reapply for for any license or permit under this title for:</text>
@@ -10964,6 +11316,7 @@
       <num>3</num>
       <heading>General Care and Control</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-301</num>
         <heading>Rabies – Vaccinations.</heading>
         <para>
@@ -11039,16 +11392,17 @@
           <text>Whenever the owner of an animal places it in the care or custody of another person, the owner must provide that custodian with a copy of the animal's rabies vaccination certificate.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Text of subsection (f) conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§27(k), 35(a) - (c)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation doc="City of Balt., Md., Ord. 00-024" type="History">Ord. 00-024</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-583" type="History">Ord. 07-583</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-573" type="History">Ord. 11-573</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text of subsection (f) conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-302</num>
         <heading>Rabies – Possible exposure.</heading>
         <para>
@@ -11129,6 +11483,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-303</num>
         <heading>Humane care required.</heading>
         <text>Every owner or custodian of an animal must provide the animal with humane care and treatment, which includes providing all of the following:</text>
@@ -11204,9 +11559,10 @@
       </section>
       <section>
         <num>10-304 to 10-306</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-307</num>
         <heading>Restraints required.</heading>
         <para>
@@ -11267,6 +11623,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-308</num>
         <heading>Transporting animals.</heading>
         <para>
@@ -11284,6 +11641,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-309</num>
         <heading>Disposition of dead animals.</heading>
         <para>
@@ -11317,9 +11675,10 @@
       </section>
       <section>
         <num>10-310 to 10-312</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-313</num>
         <heading>Animal waste.</heading>
         <para>
@@ -11369,6 +11728,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-314</num>
         <heading>Injury by vehicle.</heading>
         <text>If a motor vehicle hits or is hit by an animal, the driver of the motor vehicle must immediately:</text>
@@ -11400,6 +11760,7 @@
       <num>4</num>
       <heading>Animal Protection</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-401</num>
         <heading>Scope of subtitle.</heading>
         <text>This subtitle does not apply to:</text>
@@ -11424,6 +11785,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-402</num>
         <heading>Neglect of animal.</heading>
         <text>No person may neglect to provide humane care and treatment, as described in § 10-303 {"Humane care required"} of this title, for any animal that the person owns, keeps, restrains, or confines, whether as a pet or for any other purpose.</text>
@@ -11434,6 +11796,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-403</num>
         <heading>Abandonment of animal.</heading>
         <para>
@@ -11469,6 +11832,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-404</num>
         <heading>Cruelty to or abuse of animal.</heading>
         <text>No person may act cruelly to or abuse animals, which includes the following actions:</text>
@@ -11511,6 +11875,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-405</num>
         <heading>Animal fights and paraphernalia.</heading>
         <para>
@@ -11661,6 +12026,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-406</num>
         <heading>Animal shows.</heading>
         <para>
@@ -11680,6 +12046,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-407</num>
         <heading>Exposure to poisons.</heading>
         <text>No person may use or expose an animal to any pesticide or poison, whether mixed with food or not, without taking all necessary precautions to protect non-target animals from exposure to the pesticide or poison.</text>
@@ -11690,6 +12057,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-408</num>
         <heading>Confinement in cage.</heading>
         <text>No person may confine any animal in a cage that consists entirely of solid walls.</text>
@@ -11700,6 +12068,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-409</num>
         <heading>Prohibited tethering of dogs.</heading>
         <para>
@@ -11765,6 +12134,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-410</num>
         <heading>Animals as prizes or inducements.</heading>
         <text>No person may give away or offer to give away any live animal:</text>
@@ -11787,6 +12157,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-411</num>
         <heading>Molesting birds.</heading>
         <text>No person may:</text>
@@ -11810,6 +12181,7 @@
       <num>5</num>
       <heading>Public Nuisance Animals</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-501</num>
         <heading>Definitions.</heading>
         <para>
@@ -11917,6 +12289,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-502</num>
         <heading>Owner or custodian to exercise care and control.</heading>
         <text>Every owner or custodian of an animal must exercise proper care and control to prevent the animal from becoming a public nuisance animal.</text>
@@ -11925,6 +12298,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-503</num>
         <heading>Nuisances prohibited.</heading>
         <para>
@@ -11950,6 +12324,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-504</num>
         <heading>Animals at large.</heading>
         <para>
@@ -11998,6 +12373,7 @@
       <num>6</num>
       <heading>Wild Animals, etc.; Prohibited Animals</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-601</num>
         <heading>Wild, exotic, and hybrid animals.</heading>
         <para>
@@ -12044,15 +12420,16 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Text of subsection (b) conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§24(34), 32(h), 33, art. 19, §143</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation doc="City of Balt., Md., Ord. 06-182" type="History">Ord. 06-182</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-573" type="History">Ord. 11-573</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text of subsection (b) conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-602</num>
         <heading>Importation of wild rabbits and hares.</heading>
         <para>
@@ -12093,6 +12470,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-603</num>
         <heading>Other prohibited animals.</heading>
         <para>
@@ -12119,9 +12497,9 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Text of subsection (a) conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-573" type="History">Ord. 11-573</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text of subsection (a) conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
         </annotations>
       </section>
     </container>
@@ -12130,6 +12508,7 @@
       <num>7</num>
       <heading>Attack Dogs; Dangerous and Vicious Animals</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-701</num>
         <heading>Attack dogs.</heading>
         <para>
@@ -12154,6 +12533,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-702</num>
         <heading>Dangerous animals.</heading>
         <para>
@@ -12281,6 +12661,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-703</num>
         <heading>Vicious animals – Definition.</heading>
         <para>
@@ -12351,6 +12732,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-704</num>
         <heading>Vicious animals – Hearing.</heading>
         <text>The Animal Hearing Panel must determine if an animal is a vicious animal in accordance with the hearing procedures of Subtitle 10 of this title.</text>
@@ -12359,6 +12741,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-705</num>
         <heading>Vicious animals – At large.</heading>
         <text>If an animal enforcement officer, police officer, or humane officer finds an animal at large, and if the animal enforcement officer, police officer, or humane officer reasonably believes that the animal is a vicious animal and that the animal cannot be taken up or tranquilized and impounded, the animal enforcement officer, police officer, or humane officer may kill the animal.</text>
@@ -12369,6 +12752,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-706</num>
         <heading>Vicious animals – Keeping prohibited.</heading>
         <para>
@@ -12394,6 +12778,7 @@
       <num>8</num>
       <heading>Impoundment</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-801</num>
         <heading>Authority to impound.</heading>
         <text>An animal enforcement officer, police officer, humane officer, or other person authorized and contracting with the City to do so may impound any animal:</text>
@@ -12447,6 +12832,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-802</num>
         <heading>Right of entry and impoundment.</heading>
         <para>
@@ -12464,6 +12850,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-803</num>
         <heading>Notice.</heading>
         <para>
@@ -12518,6 +12905,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-804</num>
         <heading>Holding period; Hearing.</heading>
         <para>
@@ -12577,6 +12965,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-805</num>
         <heading>Reclaiming animal.</heading>
         <para>
@@ -12614,6 +13003,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-806</num>
         <heading>Unclaimed or surrendered animals.</heading>
         <para>
@@ -12648,6 +13038,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-807</num>
         <heading>Altering animal.</heading>
         <text>An animal that becomes City property under this subtitle may be altered before being released for adoption, rescue, or otherwise, unless the animal weighs less than 2 pounds.</text>
@@ -12656,6 +13047,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-808</num>
         <heading>Other fees.</heading>
         <text>Even if an animal is not reclaimed by the owner or custodian, the owner or custodian may still be required to pay for fees or expenses related to the impoundment through the date when the animal became City property.</text>
@@ -12673,6 +13065,7 @@
         <num>I</num>
         <heading>Definitions; Scope</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-901</num>
           <heading>Definitions.</heading>
           <para>
@@ -12761,6 +13154,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-902</num>
           <heading>Exemptions.</heading>
           <text>This subtitle does not apply to any horse that is:</text>
@@ -12784,7 +13178,7 @@
         </section>
         <section>
           <num>10-903 to 10-904</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -12792,6 +13186,7 @@
         <num>II</num>
         <heading>Driving Licenses</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-905</num>
           <heading>License required.</heading>
           <para>
@@ -12844,6 +13239,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-906</num>
           <heading>Applications.</heading>
           <text>The application for a driving license must:</text>
@@ -12874,6 +13270,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-907</num>
           <heading>Issuance; Form.</heading>
           <para>
@@ -12917,6 +13314,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-908</num>
           <heading>Term.</heading>
           <text>Unless sooner suspended or revoked, a driving license expires annually on the anniversary date of its issuance.</text>
@@ -12927,6 +13325,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-909</num>
           <heading>Denial, suspension, revocation, etc.</heading>
           <text>The Commissioner of Health may deny, amend, suspend, revoke, or refuse to renew a driving license as provided in Subtitle 2, Part III, of this title.</text>
@@ -12938,7 +13337,7 @@
         </section>
         <section>
           <num>10-910 to 10-911</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -12946,6 +13345,7 @@
         <num>III</num>
         <heading>Required Care</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-912</num>
           <heading>Examination by veterinarian.</heading>
           <para>
@@ -13006,6 +13406,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-913</num>
           <heading>General limitations on use.</heading>
           <text>Whenever a horse is being used for any purpose on the streets of the City, the custodian of the horse:</text>
@@ -13052,6 +13453,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-914</num>
           <heading>Limitations on driving – General.</heading>
           <text>Whenever a horse is being used for driving purposes on the streets of the City, the custodian of the horse:</text>
@@ -13079,6 +13481,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-915</num>
           <heading>Limitations on driving – Weather.</heading>
           <para>
@@ -13110,6 +13513,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-916</num>
           <heading>Equipment.</heading>
           <text>The custodian of every horse:</text>
@@ -13156,6 +13560,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-917</num>
           <heading>Quarters.</heading>
           <para>
@@ -13204,6 +13609,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-918</num>
           <heading>Sick or injured horses.</heading>
           <para>
@@ -13245,7 +13651,7 @@
         </section>
         <section>
           <num>10-919 to 10-920</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -13253,6 +13659,7 @@
         <num>IV</num>
         <heading>Miscellaneous Requirements</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-921</num>
           <heading>Identification cards.</heading>
           <para>
@@ -13309,6 +13716,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-922</num>
           <heading>Driving under the influence.</heading>
           <text>No one may ride, lead, control, drive, work, exhibit, handle, care for, maintain, or supervise any horse while:</text>
@@ -13331,6 +13739,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-923</num>
           <heading>Registry of rentals.</heading>
           <para>
@@ -13375,6 +13784,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-924</num>
           <heading>Display of vehicle license.</heading>
           <text>The owner or operator of any horsedrawn vehicle must assure that the City license issued for the vehicle is kept clean, securely fastened, and prominently displayed on the vehicle.</text>
@@ -13395,6 +13805,7 @@
         <num>I</num>
         <heading>Animal Hearing Panel</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-1001</num>
           <heading>Panel established.</heading>
           <text>There is an Animal Hearing Panel in the Department.</text>
@@ -13405,6 +13816,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-1002</num>
           <heading>Appointment and organization.</heading>
           <para>
@@ -13437,15 +13849,16 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-1003</num>
           <heading>Rules and regulations.</heading>
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Panel may adopt rules and regulations to govern its procedures and hearings.</text>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §40A(b)(3)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
             <annotation doc="City of Balt., Md., Ord. 11-573" type="History">Ord. 11-573</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </section>
       </container>
@@ -13454,6 +13867,7 @@
         <num>II</num>
         <heading>Hearings and Decisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-1004</num>
           <heading>Opportunity for hearing.</heading>
           <para>
@@ -13499,6 +13913,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-1005</num>
           <heading>Conduct of hearing.</heading>
           <para>
@@ -13540,6 +13955,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-1006</num>
           <heading>Panel decision.</heading>
           <para>
@@ -13615,6 +14031,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-1007</num>
           <heading>Corrective actions.</heading>
           <para>
@@ -13669,6 +14086,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-1008</num>
           <heading>Appeal to Commissioner.</heading>
           <para>
@@ -13711,6 +14129,7 @@
         <num>III</num>
         <heading>Costs of Care Pending Final Decision</heading>
         <section>
+          <prefix>§</prefix>
           <num>10-1009</num>
           <heading>Office to hold animal.</heading>
           <text>If an impounded animal's owner or custodian requests a hearing before the Panel, or appeals a decision of the Panel, the Office may continue to hold and care for the impounded animal while its case is before the Panel, and, if the Panel's decision is appealed, while the Commissioner is considering the appeal.</text>
@@ -13719,6 +14138,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>10-1010</num>
           <heading>Expenses of holding animal.</heading>
           <para>
@@ -13757,9 +14177,9 @@
             <text>If the final decision of the Commissioner overturns the impoundment, the City may not charge the owner or custodian for any costs incurred under this section.</text>
           </para>
           <annotations>
-            <annotation type="Editor's Notes">Text of subsection (b) conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
             <annotation doc="City of Balt., Md., Ord. 15-322" type="History">Ord. 15-322</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
+            <annotation type="Editor's Notes">Text of subsection (b) conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
           </annotations>
         </section>
       </container>
@@ -13769,6 +14189,7 @@
       <num>11</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-1101</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -13797,6 +14218,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-1102</num>
         <heading>Criminal penalties.</heading>
         <para>
@@ -13848,6 +14270,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>11-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -13883,6 +14306,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>11-102</num>
         <heading>Compliance with Swimming Pool and Spa Code.</heading>
         <text>In addition to the requirements of this title, all swimming pools must comply with the International Swimming Pool and Spa Code, as adopted and modified in Part XII of the City Building, Fire, and Related Codes Article.</text>
@@ -13900,6 +14324,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>11-201</num>
           <heading>"Private outdoor pool" defined.</heading>
           <text>In this subtitle, "private outdoor pool" means any swimming pool that :</text>
@@ -13916,6 +14341,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-202</num>
           <heading>Purpose.</heading>
           <text>The purpose of this subtitle is to protect the inhabitants of the City, particularly children, from the hazards to life and safety inherent in unenclosed outdoor swimming pools.</text>
@@ -13925,6 +14351,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-203</num>
           <heading>Scope of subtitle.</heading>
           <para>
@@ -13944,7 +14371,7 @@
         </section>
         <section>
           <num>11-204 to 11-205</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -13952,6 +14379,7 @@
         <num>II</num>
         <heading>Required Enclosure</heading>
         <section>
+          <prefix>§</prefix>
           <num>11-206</num>
           <heading>Fence or wall required.</heading>
           <text>Every outdoor swimming pool must be completely surrounded by a fence or wall that:</text>
@@ -13977,6 +14405,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-207</num>
           <heading>Gates and doors.</heading>
           <para>
@@ -13995,6 +14424,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-208</num>
           <heading>Owner and occupant responsible for compliance.</heading>
           <text>Compliance with the requirements of this subtitle is the duty, jointly and severally, of both:</text>
@@ -14012,6 +14442,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-209</num>
           <heading>Modifications.</heading>
           <para>
@@ -14031,7 +14462,7 @@
         </section>
         <section>
           <num>11-210 to 11-211</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -14039,6 +14470,7 @@
         <num>III</num>
         <heading>Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>11-212</num>
           <heading>Penalties: $500.</heading>
           <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
@@ -14058,6 +14490,7 @@
         <num>I</num>
         <heading>Definitions; General Provisions</heading>
         <section>
+          <prefix>§</prefix>
           <num>11-301</num>
           <heading>Definitions.</heading>
           <para>
@@ -14146,6 +14579,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-302</num>
           <heading>Scope of subtitle.</heading>
           <text>This subtitle applies to all public swimming pools and to the buildings and appurtenances used in connection with them.</text>
@@ -14155,6 +14589,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-303</num>
           <heading>General powers of Commissioner.</heading>
           <para>
@@ -14187,7 +14622,7 @@
         </section>
         <section>
           <num>11-304 to 11-305</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -14195,6 +14630,7 @@
         <num>II</num>
         <heading>License Required</heading>
         <section>
+          <prefix>§</prefix>
           <num>11-306</num>
           <heading>In general.</heading>
           <text>No person may operate any public swimming pool in the City without a license to do so from the Commissioner of Health.</text>
@@ -14204,6 +14640,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-307</num>
           <heading>Applications.</heading>
           <text>The application for a license must:</text>
@@ -14220,6 +14657,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-308</num>
           <heading>Issuance of license.</heading>
           <text>The Commissioner must issue a license to the applicant if:</text>
@@ -14245,6 +14683,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-309</num>
           <heading>Term of license.</heading>
           <para>
@@ -14275,6 +14714,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-310</num>
           <heading>License not transferable.</heading>
           <text>A license may not be transferred from place to place or person to person.</text>
@@ -14285,7 +14725,7 @@
         </section>
         <section>
           <num>11-311 to 11-312</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -14293,6 +14733,7 @@
         <num>III</num>
         <heading>Suspensions and Revocations</heading>
         <section>
+          <prefix>§</prefix>
           <num>11-313</num>
           <heading>In general.</heading>
           <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner of Health may suspend or revoke any license issued under this subtitle if the licensee:</text>
@@ -14318,6 +14759,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-314</num>
           <heading>Immediate suspension.</heading>
           <para>
@@ -14354,7 +14796,7 @@
         </section>
         <section>
           <num>11-315 to 11-316</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -14362,6 +14804,7 @@
         <num>IV</num>
         <heading>Penalties</heading>
         <section>
+          <prefix>§</prefix>
           <num>11-317</num>
           <heading>Enforcement by citation.</heading>
           <para>
@@ -14379,6 +14822,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>11-318</num>
           <heading>Penalties: $1,000 and 6 months.</heading>
           <para>
@@ -14411,6 +14855,7 @@
         <annotation type="Editor's Notes">Chapters 501 and 502, Laws of Maryland 2007 (approved May 17, 2007) enacted a statewide “Clean Indoor Air Act”, codified at State Health-General Article, Title 24, Subtitle 5.  The prohibitions become effective February 1, 2008 {He § 24-504}.  The State law expressly states that it does not “preempt a county ... from enacting and enforcing more stringent measures” {He § 24-510}.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>12-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -14484,6 +14929,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-102</num>
         <heading>Scope.</heading>
         <text>Nothing in this subtitle precludes an employer or other person in charge from prohibiting smoking in open or enclosed areas not covered by this subtitle.</text>
@@ -14493,9 +14939,10 @@
       </section>
       <section>
         <num>12-103 to 12-104</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-105</num>
         <heading>Where smoking prohibited.</heading>
         <text>Except as otherwise specified in this subtitle, smoking is prohibited in:</text>
@@ -14512,6 +14959,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-106</num>
         <heading>Exceptions – General.</heading>
         <text>This subtitle does not apply to the following:</text>
@@ -14548,6 +14996,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-107</num>
         <heading>Exceptions – Retail tobacco establishments; Hookah lounges.</heading>
         <para>
@@ -14608,6 +15057,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-107.1</num>
         <heading>Exceptions  –  Retail sellers of electronic smoking devices.</heading>
         <text>This subtitle does not apply to the use of electronic smoking devices in a business establishment in which:</text>
@@ -14628,6 +15078,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-107.2</num>
         <heading>Exceptions – Electronic smoking devices in certain restaurants and taverns.</heading>
         <para>
@@ -14696,6 +15147,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-107.3</num>
         <heading>Exceptions  –  Electronic smoking devices in video lottery facility.</heading>
         <text>This subtitle does not apply to the use of electronic smoking devices in a facility that has been awarded a Video Lottery Operation License by the Maryland Video Lottery Location Commission under State Government Article, Title 9, Subtitle 1A.</text>
@@ -14704,6 +15156,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-108</num>
         <heading>Waivers.</heading>
         <para>
@@ -14738,9 +15191,10 @@
       </section>
       <section>
         <num>12-109 to 12-110</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-111</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -14766,6 +15220,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-112</num>
         <heading>Penalties: Varied.</heading>
         <para>
@@ -14820,6 +15275,7 @@
       <num>2</num>
       <heading>Sale of Unpackaged Cigarettes</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-201</num>
         <heading>Definitions.</heading>
         <para>
@@ -14840,6 +15296,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-202</num>
         <heading>Sale of unpackaged cigarettes prohibited.</heading>
         <text>No person may sell or otherwise transfer for consideration unpackaged cigarettes to any other person.</text>
@@ -14849,6 +15306,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-203</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -14875,6 +15333,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-204</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any provisions of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
@@ -14890,6 +15349,7 @@
       <num>3</num>
       <heading>Distribution of Samples and Coupons</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-301</num>
         <heading>Definitions.</heading>
         <para>
@@ -14955,6 +15415,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-302</num>
         <heading>Exemptions.</heading>
         <para>
@@ -15008,6 +15469,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-303</num>
         <heading>Public distribution prohibited.</heading>
         <para>
@@ -15027,9 +15489,10 @@
       </section>
       <section>
         <num>12-304 to 12-305</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-306</num>
         <heading>Penalties.</heading>
         <para>
@@ -15055,6 +15518,7 @@
       <num>4</num>
       <heading>Placement of Tobacco Products and Smoking Devices</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-401</num>
         <heading>Definitions.</heading>
         <para>
@@ -15107,6 +15571,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-402</num>
         <heading>Placement requirements — In general.</heading>
         <para>
@@ -15145,6 +15610,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-403</num>
         <heading>Placement requirements — Exceptions.</heading>
         <text>This subtitle does not apply to:</text>
@@ -15171,9 +15637,10 @@
       </section>
       <section>
         <num>12-404 to 12-405</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-406</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -15200,6 +15667,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-407</num>
         <heading>Penalties: $500.</heading>
         <para>
@@ -15222,6 +15690,7 @@
       <num>5</num>
       <heading>Unlawful Distribution</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-501</num>
         <heading>Definitions.</heading>
         <para>
@@ -15260,6 +15729,9 @@
           <text>"Tobacco product" has the meaning stated in State Health-General Article, § 13-1001 {"Definitions: Tobacco Product"}.</text>
         </para>
         <annotations>
+          <annotation doc="City of Balt., Md., Ord. 02-322" type="History">Ord. 02-322</annotation>
+          <annotation doc="City of Balt., Md., Ord. 14-310" type="History">Ord. 14-310</annotation>
+          <annotation doc="City of Balt., Md., Ord. 20-340" type="History">Ord. 20-340</annotation>
           <annotation type="Editor's Notes">
             <text>State HG Art. § 13-1001(u) reads as follows</text>
             <para>
@@ -15306,12 +15778,10 @@
               <text>"Tobacco product" does not include a drug, device, or combination product authorized for sale by the U.S. Food and Drug Administration under the Federal Food, Drug, and Cosmetic Act.</text>
             </para>
           </annotation>
-          <annotation doc="City of Balt., Md., Ord. 02-322" type="History">Ord. 02-322</annotation>
-          <annotation doc="City of Balt., Md., Ord. 14-310" type="History">Ord. 14-310</annotation>
-          <annotation doc="City of Balt., Md., Ord. 20-340" type="History">Ord. 20-340</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-502</num>
         <heading>Unlawful distribution.</heading>
         <para>
@@ -15351,6 +15821,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-503</num>
         <heading>Exceptions.</heading>
         <para>
@@ -15407,9 +15878,10 @@
       </section>
       <section>
         <num>12-504 to 12-505</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-506</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -15435,6 +15907,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-507</num>
         <heading>Penalties: $1,000.</heading>
         <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
@@ -15448,6 +15921,7 @@
       <num>6</num>
       <heading>Flavored Tobacco Wrappings</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-601</num>
         <heading>Definitions.</heading>
         <para>
@@ -15492,6 +15966,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-602</num>
         <heading>Distribution prohibited</heading>
         <text>No person may distribute for consideration any flavored tobacco wrapping to any other person.</text>
@@ -15500,6 +15975,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-603</num>
         <heading>Exception for certain tobacco shops.</heading>
         <text>This subtitle does not apply to the distribution of flavored wrapping paper by or to a retail tobacco establishment that:</text>
@@ -15520,6 +15996,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-604</num>
         <heading>Exception for vending machine sales.</heading>
         <text>This subtitle does not apply to the sale or distribution of tobacco products by vending machines.</text>
@@ -15529,9 +16006,10 @@
       </section>
       <section>
         <num>12-605</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-606</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -15557,6 +16035,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-607</num>
         <heading>Penalties: $1,000.</heading>
         <para>
@@ -15580,6 +16059,7 @@
       <num>7</num>
       <heading>Smoking in Vendor Trucks</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-701</num>
         <heading>Definitions.</heading>
         <para>
@@ -15603,6 +16083,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-702</num>
         <heading>Smoking prohibited within vendor truck.</heading>
         <text>Smoking is prohibited in any vendor truck.</text>
@@ -15612,9 +16093,10 @@
       </section>
       <section>
         <num>12-703 to 12-704</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-705</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -15640,6 +16122,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-706</num>
         <heading>Penalties: $500.</heading>
         <text>Any person who violates any provisions of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
@@ -15653,6 +16136,7 @@
       <num>8</num>
       <heading>Smoking Near Playgrounds</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-801</num>
         <heading>Definitions.</heading>
         <para>
@@ -15726,9 +16210,10 @@
       </section>
       <section>
         <num>12-802</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-803</num>
         <heading>Where smoking prohibited.</heading>
         <text>Except as otherwise specified in this subtitle, smoking is prohibited in or within 50 feet of any:</text>
@@ -15754,6 +16239,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-804</num>
         <heading>Exceptions.</heading>
         <text>This subtitle does not apply to the following:</text>
@@ -15775,9 +16261,10 @@
       </section>
       <section>
         <num>12-805 to 12-806</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-807</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -15803,6 +16290,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-808</num>
         <heading>Civil penalties. $500.</heading>
         <text>Any person who smokes in violation of this subtitle is subject to a civil fine of not more than $500 for each offense.</text>
@@ -15819,6 +16307,7 @@
         <annotation type="Editor's Notes">This Subtitle was added by Ordinance 20-364A (enacted May 18, 2020).  Section 2 of that Ordinance provides that the new law takes effect one year after its enactment (i.e., on May 18 , 2020).</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>12-901</num>
         <heading>Definitions.</heading>
         <para>
@@ -15852,9 +16341,10 @@
       </section>
       <section>
         <num>12-902</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-903</num>
         <heading>Retailers to offernicotine replacement therapy products for sale.</heading>
         <para>
@@ -15891,9 +16381,10 @@
       </section>
       <section>
         <num>12-904 to 12-905</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-906</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -15934,6 +16425,7 @@
       <num>1</num>
       <heading>Definitions</heading>
       <section>
+        <prefix>§</prefix>
         <num>13-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -15966,6 +16458,7 @@
       <num>2</num>
       <heading>Licensing and Registration</heading>
       <section>
+        <prefix>§</prefix>
         <num>13-201</num>
         <heading>License required for tattoo establishments.</heading>
         <text>No person may maintain, operate, or conduct a tattoo establishment in the City without a license to do so from the Commissioner of Health.</text>
@@ -15975,6 +16468,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-202</num>
         <heading>Registration required for tattooists.</heading>
         <text>No tattoo establishment may employ or otherwise allow any individual to act as a tattooist, and no individual may act as a tattooist, unless that individual has first registered with the Commissioner of Health.</text>
@@ -15984,6 +16478,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-203</num>
         <heading>Applications for license.</heading>
         <text>An application for a tattoo establishment license must:</text>
@@ -16000,6 +16495,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-204</num>
         <heading>Issuance of license; fee.</heading>
         <text>The Commissioner must issue a license to the applicant on receipt of:</text>
@@ -16017,6 +16513,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-205</num>
         <heading>Term.</heading>
         <text>Unless sooner revoked, a license issued under this title expires annually on the anniversary of its issuance.</text>
@@ -16031,6 +16528,7 @@
       <num>3</num>
       <heading>Regulated Activities</heading>
       <section>
+        <prefix>§</prefix>
         <num>13-301</num>
         <heading>Safety and sanitary standards.</heading>
         <text>All tattooing must be done in conformance with:</text>
@@ -16049,9 +16547,10 @@
       </section>
       <section>
         <num>13-302 to 13-303</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-304</num>
         <heading>Tattooing minors prohibited.</heading>
         <text>No person may tattoo any minor.</text>
@@ -16066,6 +16565,7 @@
       <num>4</num>
       <heading>Enforcement; Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>13-401</num>
         <heading>Suspensions, revocations, etc.</heading>
         <text>Subject to the hearing provisions of Title 2, Subtitle 3 {"Administrative Hearings"} of this article, the Commissioner may suspend, revoke, or refuse to renew the license or registration of any person if that person, that person's tattoo establishment, or any tattooist employed by that person violates any provision of this title or of any order, rule, or regulation issued under this title.</text>
@@ -16076,9 +16576,10 @@
       </section>
       <section>
         <num>13-402 to 13-403</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>13-404</num>
         <heading>Penalties: $1,000.</heading>
         <text>Any person who violates any provision of this title or of any order, rule, or regulation issued under this title is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
@@ -16094,6 +16595,7 @@
     <num>14</num>
     <heading>Ammunition Sales to Minors</heading>
     <section>
+      <prefix>§</prefix>
       <num>14-101</num>
       <heading>Definitions.</heading>
       <para>
@@ -16122,9 +16624,10 @@
     </section>
     <section>
       <num>14-102</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-103</num>
       <heading>Sale, etc., to minors prohibited.</heading>
       <text>No person may sell, give, or otherwise transfer, or attempt to sell, give, or otherwise transfer any ammunition to a minor.</text>
@@ -16133,6 +16636,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-104</num>
       <heading>Purchase, etc., by minors prohibited.</heading>
       <text>No minor may:</text>
@@ -16149,6 +16653,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-105</num>
       <heading>Photo ID required.</heading>
       <text>No person may sell, give, or otherwise transfer or attempt to sell, give, or otherwise transfer any ammunition to any individual without first verifying, by means of photographic identification that contains the individual's date of birth, that the individual is not a minor.</text>
@@ -16158,9 +16663,10 @@
     </section>
     <section>
       <num>14-106</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-107</num>
       <heading>Registration.</heading>
       <para>
@@ -16205,6 +16711,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-108</num>
       <heading>Notices.</heading>
       <text>Every person engaged in the business of selling ammunition must post conspicuously in that person's place of business a notice of:</text>
@@ -16221,6 +16728,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-109</num>
       <heading>Sales log.</heading>
       <para>
@@ -16252,9 +16760,10 @@
     </section>
     <section>
       <num>14-110</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-111</num>
       <heading>Rules and regulations.</heading>
       <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner may include provisions governing:</text>
@@ -16276,9 +16785,10 @@
     </section>
     <section>
       <num>14-112</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14-113</num>
       <heading>Penalties.</heading>
       <text>Any person who violates any provision of this title or of a rule or regulation adopted under this title is guilty of a misdemeanor and, on conviction, is subject to a fine of $1,000 or imprisonment for 1 year or both.</text>
@@ -16296,6 +16806,7 @@
       <num>1</num>
       <heading>Definitions</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -16332,6 +16843,7 @@
       <num>2</num>
       <heading>Distribution to Minors</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-201</num>
         <heading>Unlawful distribution – Businesses.</heading>
         <text>A person engaged in the business of selling or otherwise distributing ephedrine products for commercial purposes may not:</text>
@@ -16348,6 +16860,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-202</num>
         <heading>Unlawful distribution – Others.</heading>
         <para>
@@ -16367,6 +16880,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-203</num>
         <heading>Exceptions – Identification as adult.</heading>
         <text>A person has not violated this subtitle if:</text>
@@ -16383,6 +16897,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-204</num>
         <heading>Exceptions – Published coupon.</heading>
         <text>This subtitle does not apply to the distribution of a coupon that is:</text>
@@ -16400,9 +16915,10 @@
       </section>
       <section>
         <num>15-205 to 15-208</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-209</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -16420,6 +16936,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-210</num>
         <heading>Criminal penalties: $1,000.</heading>
         <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
@@ -16433,6 +16950,7 @@
       <num>3</num>
       <heading>Product Placement</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-301</num>
         <heading>General requirements.</heading>
         <text>Except as otherwise specified in this subtitle, no establishment that sells ephedrine products at retail may display, store, or place any ephedrine product anywhere that is accessible to customers without the intervention of the seller or an employee of the seller.</text>
@@ -16441,6 +16959,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-302</num>
         <heading>Examples of complying placement.</heading>
         <text>The display, storage, or placement of ephedrine products in accord with one of the following methods does not violate § 15-301 of this subtitle:</text>
@@ -16470,9 +16989,10 @@
       </section>
       <section>
         <num>15-303 to 15-308</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-309</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -16490,6 +17010,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-310</num>
         <heading>Criminal penalties: $500.</heading>
         <para>
@@ -16517,6 +17038,7 @@
       <num>1</num>
       <heading>Definitions</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -16651,6 +17173,7 @@
       <num>2</num>
       <heading>Prohibited Conduct</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-201</num>
         <heading>Distribution prohibited.</heading>
         <text>No person may distribute a psychoactive substance.</text>
@@ -16668,6 +17191,7 @@
         <num>I</num>
         <heading>In general</heading>
         <section>
+          <prefix>§</prefix>
           <num>16-301</num>
           <heading>Notice of violation.</heading>
           <para>
@@ -16697,6 +17221,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-302</num>
           <heading>Authority to seize, test, etc.</heading>
           <para>
@@ -16731,7 +17256,7 @@
         </section>
         <section>
           <num>16-303 to 16-305</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -16739,6 +17264,7 @@
         <num>II</num>
         <heading>Licensees</heading>
         <section>
+          <prefix>§</prefix>
           <num>16-306</num>
           <heading>"License" defined.</heading>
           <text>In this Part II, "license" means a license or permit issued by the Baltimore City Health Department.</text>
@@ -16747,6 +17273,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-307</num>
           <heading>Suspension or revocation on notice and hearing.</heading>
           <para>
@@ -16764,6 +17291,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>16-308</num>
           <heading>Suspension without notice.</heading>
           <para>
@@ -16804,6 +17332,7 @@
       <num>4</num>
       <heading>Civil and Criminal Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-401</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -16829,6 +17358,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-402</num>
         <heading>Criminal penalties.</heading>
         <text>Any person who violates any provision of this title or of a rule or regulation adopted under this title is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
@@ -16837,6 +17367,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-403</num>
         <heading>Each package or container a separate offense.</heading>
         <text>Each package or container of a psychoactive substance that is distributed or intended for distribution in violation of this title is a separate offense.</text>
@@ -16856,6 +17387,7 @@
     <num>18</num>
     <heading>Miscellaneous Regulations</heading>
     <section>
+      <prefix>§</prefix>
       <num>18-101</num>
       <heading>Burials.</heading>
       <para>
@@ -16874,6 +17406,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-102</num>
       <heading>Youth baseball gear.</heading>
       <para>
@@ -16971,6 +17504,7 @@
       <num>1</num>
       <heading>General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>19-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -17175,6 +17709,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-102</num>
         <heading>Findings and purpose.</heading>
         <para>
@@ -17239,20 +17774,22 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-103</num>
         <heading>Rules and regulations.</heading>
         <text>In the rules and regulations adopted under § 2-106 {"Rules and regulations"} of this article, the Commissioner must include rules and regulations to carry out the provisions of this title.</text>
         <annotations>
-          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-430" type="History">Ord. 20-430</annotation>
           <annotation type="History">Text Conformed 03/10/21</annotation>
+          <annotation type="Editor's Notes">Text conformed to include express cross-reference to § 2-106.  Cf. Editor’s Note to that section..</annotation>
         </annotations>
       </section>
       <section>
         <num>19-104</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-105</num>
         <heading>Biennial reports.</heading>
         <para>
@@ -17288,6 +17825,7 @@
       <num>3</num>
       <heading>Prohibited Conduct</heading>
       <section>
+        <prefix>§</prefix>
         <num>19-301</num>
         <heading>Definitions.</heading>
         <para>
@@ -17367,6 +17905,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-301.1</num>
         <heading>Scope of subtitle - Baltimore City Public School System properties.</heading>
         <text>Nothing in this subtitle applies to any property that is used and maintained by the Baltimore City Board of School Commissioners.</text>
@@ -17375,6 +17914,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-302</num>
         <heading>Prohibited applications.</heading>
         <para>
@@ -17461,6 +18001,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-303</num>
         <heading>Glyphosate use prohibited.</heading>
         <para>
@@ -17504,6 +18045,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-304</num>
         <heading>Chlorpyrifos use prohibited.</heading>
         <para>
@@ -17521,6 +18063,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-305</num>
         <heading>Neonicotinoid pesticides on City-owned property.</heading>
         <para>
@@ -17551,6 +18094,7 @@
       <num>4</num>
       <heading>Enforcement; Penalties.</heading>
       <section>
+        <prefix>§</prefix>
         <num>19-401</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -17586,6 +18130,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>19-402</num>
         <heading>Criminal penalties.</heading>
         <para>

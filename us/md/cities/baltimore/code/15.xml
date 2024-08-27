@@ -12,6 +12,7 @@
       <num>I</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -107,34 +108,31 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(f)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 30, §13.0-1-6</annotation>
           <annotation doc="City of Balt., Md., Ord. 93-258" type="History">Ord. 93-258</annotation>
           <annotation doc="City of Balt., Md., Ord. 94-443" type="History">Ord. 94-443</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-417" type="History">Ord. 99-417</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         </annotations>
       </section>
       <section>
         <num>1-2</num>
-        <heading>{Repealed by Ord. 22- 125}</heading>
+        <reason>Repealed by Ord. 22- 125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-3</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -161,15 +159,16 @@
           <text>After the public hearing and comment period, the Board may adopt the final rules, regulations, and forms with an effective date of at least 15 days after the date of their adoption.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 30, §11.0-3f(5th-7th sens), §11.0-8b7</annotation>
           <annotation doc="City of Balt., Md., Ord. 93-258" type="History">Ord. 93-258</annotation>
           <annotation doc="City of Balt., Md., Ord. 94-443" type="History">Ord. 94-443</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-417" type="History">Ord. 99-417</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-4</num>
         <heading>Scope.</heading>
         <text>Nothing in this subtitle is intended to permit any activity that is otherwise prohibited by federal, state, or local law.</text>
@@ -179,7 +178,7 @@
       </section>
       <section>
         <num>1-5 to 1-6</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -187,6 +186,7 @@
       <num>2</num>
       <heading>Licensing</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-7</num>
         <heading>License required.</heading>
         <text>A person may not own or operate any adult-entertainment business without having first obtained an adult-entertainment business license as provided in this subtitle.</text>
@@ -198,6 +198,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-8</num>
         <heading>Applications — In general.</heading>
         <para>
@@ -230,6 +231,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-9</num>
         <heading>Applications — responsible party.</heading>
         <para>
@@ -262,6 +264,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-10</num>
         <heading>Investigation of applicants.</heading>
         <text>On receipt of the application, the Board must investigate the character and qualifications of the applicants.</text>
@@ -273,6 +276,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-11</num>
         <heading>Qualifications.</heading>
         <para>
@@ -333,6 +337,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-12</num>
         <heading>Posting; objections.</heading>
         <para>
@@ -369,6 +374,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-13</num>
         <heading>Decision on application.</heading>
         <para>
@@ -412,6 +418,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-14</num>
         <heading>Term and renewal of licenses.</heading>
         <para>
@@ -460,6 +467,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-15</num>
         <heading>Fee for license.</heading>
         <para>
@@ -480,6 +488,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-16</num>
         <heading>Waiting period after denial.</heading>
         <text>If the Board denies an adult-entertainment business license or renewal license, the applicant may not reapply for at least 9 months from the date of the Board's final decision or, if that decision was appealed, from the date of the final court decision.</text>
@@ -491,6 +500,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-17</num>
         <heading>Transfer of license.</heading>
         <text>An adult-entertainment business license is not transferable to a new owner or operator without a new application to the Board.</text>
@@ -503,7 +513,7 @@
       </section>
       <section>
         <num>1-18 to 1-19</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -511,6 +521,7 @@
       <num>3</num>
       <heading>Standards  of Operation</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-20</num>
         <heading>Hours of operation.</heading>
         <para>
@@ -531,6 +542,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-21</num>
         <heading>Entrances and exteriors of premises.</heading>
         <para>
@@ -572,6 +584,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-22</num>
         <heading>"Barking".</heading>
         <text>Any attempt to urge, invite, or entice people to enter the premises of an adult-entertainment business is prohibited anywhere within 50 feet of the premises.</text>
@@ -583,6 +596,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-23</num>
         <heading>Owner, etc., to prevent nuisance.</heading>
         <text>Every owner, operator, and manager of an adult-entertainment business must exercise proper care and control to prevent the business or its operations from becoming or creating a public nuisance, whether by the generation of noise, the blocking of public ways, or otherwise.</text>
@@ -592,9 +606,10 @@
       </section>
       <section>
         <num>1-24</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-25</num>
         <heading>License to be posted.</heading>
         <text>The person to whom an adult-entertainment business license is issued must display it in the lobby, vestibule, or other prominent place on the premises.</text>
@@ -607,11 +622,11 @@
       </section>
       <section>
         <num>1-26</num>
-        <heading>{Repealed by Ord. 19-218}</heading>
+        <reason>Repealed by Ord. 19-218</reason>
       </section>
       <section>
         <num>1-27</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -619,6 +634,7 @@
       <num>4</num>
       <heading>Administrative Sanctions</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-28</num>
         <heading>Denial, suspension, or revocation.</heading>
         <para>
@@ -706,6 +722,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-29</num>
         <heading>Fines.</heading>
         <text>For any violation that is cause for suspending or revoking a license, the Board may, instead of or in addition to suspending or revoking the license, impose a civil fine of:</text>
@@ -722,6 +739,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-30</num>
         <heading>Notice and hearing.</heading>
         <para>
@@ -750,6 +768,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-31</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -797,7 +816,7 @@
       </section>
       <section>
         <num>1-32</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -805,6 +824,7 @@
       <num>5</num>
       <heading>Advisory Task Force</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-33</num>
         <heading>Task Force established.</heading>
         <text>There is an Adult-Entertainment Business Advisory Task Force.</text>
@@ -816,6 +836,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-34</num>
         <heading>Purpose.</heading>
         <text>The purpose of the Advisory Task Force is to advise the appropriate administrative and elected officials on matters related to the conduct of adult-entertainment businesses.</text>
@@ -827,6 +848,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-35</num>
         <heading>Appointment and composition.</heading>
         <para>
@@ -889,7 +911,7 @@
       </section>
       <section>
         <num>1-36 to 1-37</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -897,6 +919,7 @@
       <num>6</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-38</num>
         <heading>Penalties.</heading>
         <para>
@@ -932,6 +955,7 @@
       <num>1</num>
       <heading>Billiards</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-1</num>
         <heading>License required.</heading>
         <para>
@@ -970,6 +994,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-2</num>
         <heading>Prohibited games.</heading>
         <text>Every game or games played upon billiard tables shall be deemed and considered unlawful, and are hereby prohibited, except only the game played with 2 balls, the game played with 3 balls, the game played with 4 balls, and the game commonly called pool, such being the usual games of billiards.</text>
@@ -984,6 +1009,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-3</num>
         <heading>Hours.</heading>
         <text>It is unlawful for any person having a license to erect or keep a pool or billiard saloon or pool or billiard table as mentioned in § 2-2:</text>
@@ -1011,7 +1037,7 @@
       </section>
       <section>
         <num>2-4 to 2-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1019,6 +1045,7 @@
       <num>2</num>
       <heading>Bowling Alleys</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-6</num>
         <heading>License required.</heading>
         <para>
@@ -1051,6 +1078,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-7</num>
         <heading>Hours.</heading>
         <text>It is unlawful for the proprietor of any bowling alley, device, or structure, or for any person who has a permit or license to erect or keep any bowling alley, device, or structure:</text>
@@ -1077,7 +1105,7 @@
       </section>
       <section>
         <num>2-8 to 2-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1088,6 +1116,7 @@
         <annotation type="Editor's Notes">This Part 3 was substantially amended by Ordinance 10-337.  Section 4 of Ord. 10-337, provides that the amendments “tak[e] effect on January 1, 2011, or, if later, on the 60th day after notice is given to the State Comptroller of the changes enacted by the Ordinance” to the City Admissions and Amusement Tax.</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>2-11</num>
         <heading>Definitions.</heading>
         <para>
@@ -1181,15 +1210,11 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(e)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(f)</num>
@@ -1200,11 +1225,12 @@
           <annotation doc="City of Balt., Md., Ord. 04-706" type="History">Ord. 04-706</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-337" type="History">Ord. 10-337</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-12</num>
         <heading>Licenses required.</heading>
         <para>
@@ -1271,6 +1297,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-13</num>
         <heading>Registration required.</heading>
         <para>
@@ -1325,6 +1352,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-14</num>
         <heading>Term and renewal.</heading>
         <para>
@@ -1342,6 +1370,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-15</num>
         <heading>Fees and taxes.</heading>
         <para>
@@ -1470,6 +1499,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-16</num>
         <heading>License to be posted.</heading>
         <text>The license for each amusement device must be:</text>
@@ -1486,17 +1516,19 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-17</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director shall adopt and enforce rules and regulations to carry out this Part 3.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-706" type="History">Ord. 04-706</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-337" type="History">Ord. 10-337</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-17.1</num>
         <heading>Bounty for unlicensed, etc., devices.</heading>
         <para>
@@ -1514,6 +1546,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-18</num>
         <heading>Operating without license.</heading>
         <para>
@@ -1604,6 +1637,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-19</num>
         <heading>Penalties.</heading>
         <para>
@@ -1622,7 +1656,7 @@
       </section>
       <section>
         <num>2-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1630,6 +1664,7 @@
       <num>4</num>
       <heading>Pinball Machines Operated by Minors</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-21</num>
         <heading>Minors under 16.</heading>
         <text>It is unlawful for the proprietor or person in charge of any premises on which there is a pinball machine (as that term is described and characterized in this article), which is or should be licensed under this article, to permit any person under 16 years of age to operate that device at any time.</text>
@@ -1641,6 +1676,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-22</num>
         <heading>Minors 16 or older.</heading>
         <text>It also is unlawful for the proprietor or person in charge of the premises to permit any minor 16 years old or older to operate the device between the hours of 8:00 a.m. and 4:00 p.m. on any day between September 1 of any year and June 15 of the following year, except on Sundays and public school holidays if otherwise permitted by law.</text>
@@ -1654,6 +1690,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-23</num>
         <heading>Identification required.</heading>
         <text>Any proprietor or person in charge who is asked to permit the playing of the device by any person whom he has reason to believe may be a minor within the terms of this subtitle, shall require identification and proof of age from the applicant.</text>
@@ -1666,7 +1703,7 @@
       </section>
       <section>
         <num>2-24 to 2-30</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1674,6 +1711,7 @@
       <num>5</num>
       <heading>Theaters, Halls, etc.</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-31</num>
         <heading>License required.</heading>
         <text>It shall be the duty of the owner of a for profit theater, motion picture theater, hall used for entertainment, sports center, or museum, before permitting any person to use such facility for gain, to obtain a license from the Director of Finance for an annual fee of $165.</text>
@@ -1689,6 +1727,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-32</num>
         <heading>Minors on premises, etc.</heading>
         <para>
@@ -1723,6 +1762,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-33</num>
         <heading>Minors at burlesque shows.</heading>
         <text>It is unlawful for any owner, operator, servant, agent, or employee of any burlesque show, whether it be held in a permanent theater, side show, carnival, or by a private organization, to allow on the premises any child, male or female, under the age of 16.</text>
@@ -1735,7 +1775,7 @@
       </section>
       <section>
         <num>2-34 to  2-35</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1743,6 +1783,7 @@
       <num>6</num>
       <heading>Dance and Music</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-36</num>
         <heading>Dancing schools.</heading>
         <para>
@@ -1771,6 +1812,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-37</num>
         <heading>Fee for musical parties.</heading>
         <para>
@@ -1808,7 +1850,7 @@
       </section>
       <section>
         <num>2-38 to 2-40</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1816,6 +1858,7 @@
       <num>7</num>
       <heading>Animated Riding Devices</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-41</num>
         <heading>Definitions.</heading>
         <para>
@@ -1850,6 +1893,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-42</num>
         <heading>License required; fee.</heading>
         <para>
@@ -1872,6 +1916,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-43</num>
         <heading>Inspections.</heading>
         <para>
@@ -1892,6 +1937,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-44</num>
         <heading>Financial responsibility.</heading>
         <para>
@@ -1912,6 +1958,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-45</num>
         <heading>Nonresidents.</heading>
         <para>
@@ -1940,6 +1987,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-46</num>
         <heading>Building Code.</heading>
         <text>The provisions of § 432.9 of the Baltimore City Building Code, which relate to the electrical and mechanical requirements for certain circuses and carnivals, apply in all respects to the animated riding devices provided for in this Part 7.  However, no other provisions of § 432 of the Building Code apply to animated riding devices.</text>
@@ -1955,7 +2003,7 @@
       </section>
       <section>
         <num>2-47 to 2-50</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1963,6 +2011,7 @@
       <num>8</num>
       <heading>Mobile Riding Units</heading>
       <section>
+        <prefix>§</prefix>
         <num>2-51</num>
         <heading>License required.</heading>
         <text>No person, firm, corporation, or other entity may operate any type of ride or riding device mounted on mobile equipment unless the device is licensed under Part 3 of this subtitle.</text>
@@ -1977,6 +2026,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-52</num>
         <heading>Inspections.</heading>
         <para>
@@ -1997,6 +2047,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-53</num>
         <heading>Financial responsibility.</heading>
         <para>
@@ -2017,6 +2068,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-54</num>
         <heading>Nonresidents.</heading>
         <para>
@@ -2045,6 +2097,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>2-55</num>
         <heading>Building Code; time limit on operation.</heading>
         <para>
@@ -2074,6 +2127,7 @@
     <num>3</num>
     <heading>Amusement Device Location Permits</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2093,9 +2147,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(e)</num>
@@ -2111,6 +2163,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Permit required.</heading>
       <para>
@@ -2131,6 +2184,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Applications.</heading>
       <text>The application must be in the form and contain the information that the Commissioner requires.</text>
@@ -2140,6 +2194,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Posting; objections.</heading>
       <para>
@@ -2164,6 +2219,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Hearing on objections; denial.</heading>
       <para>
@@ -2195,6 +2251,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-6</num>
       <heading>Term and renewal of permits.</heading>
       <para>
@@ -2229,6 +2286,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-7</num>
       <heading>Fee for permit.</heading>
       <para>
@@ -2248,6 +2306,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-8</num>
       <heading>Denial or suspension of permit.</heading>
       <para>
@@ -2314,6 +2373,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-9</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -2341,15 +2401,16 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Conformance TBA.</annotation>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a)(1) and (b)(1) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §92A-9</annotation>
         <annotation doc="City of Balt., Md., Ord. 83-1112" type="History">Ord. 83-1112</annotation>
         <annotation doc="City of Balt., Md., Ord. 99-547" type="History">Ord. 99-547</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a)(1) and (b)(1) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation type="Editor's Notes">Conformance TBA.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-10</num>
       <heading>Penalties.</heading>
       <text>Any person required to obtain a location permit who fails to do so is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $15 for each day of the violation.</text>
@@ -2377,6 +2438,7 @@
       </annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Issuance of license.</heading>
       <text>The Director of Finance shall issue all licenses for and numbers of carriages, wagons, and other vehicles, boats, and scows as enumerated in § 6-2.</text>
@@ -2393,6 +2455,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>License required.</heading>
       <para>
@@ -2447,6 +2510,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>"Commonly used or employed" defined.</heading>
       <text>Any vehicle mentioned in § 6-2 which is used upon the streets of Baltimore City upon more than 1 day per week, on an average, for a period of more than 3 months in any 1 year, shall be considered as "commonly used or employed", in the City, within the meaning of said § 6-2.</text>
@@ -2461,6 +2525,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Term of licenses.</heading>
       <text>All licenses shall terminate on January 1 annually, but the holder of a license can at any time between that time and the January 30 take out a new license without being subject to penalty.</text>
@@ -2476,6 +2541,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-5</num>
       <heading>Fees.</heading>
       <para>
@@ -2521,6 +2587,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-6</num>
       <heading>Rental records — in general.</heading>
       <para>
@@ -2542,9 +2609,10 @@
     </section>
     <section>
       <num>6-7</num>
-      <heading>{Repealed by Ord. 01-243}</heading>
+      <reason>Repealed by Ord. 01-243</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-8</num>
       <heading>License plates.</heading>
       <para>
@@ -2595,6 +2663,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-9</num>
       <heading>License numbers.</heading>
       <para>
@@ -2621,6 +2690,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-10</num>
       <heading>False entries.</heading>
       <text>No person may:</text>
@@ -2650,6 +2720,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-11</num>
       <heading>Transporters for hire.</heading>
       <para>
@@ -2687,6 +2758,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-12</num>
       <heading>Numbers and licenses.</heading>
       <text>It is unlawful for the owner or owners of any carriage, wagon, cart, dray, package cart, furniture wagon, boat, or scow to retain or suffer to be placed on that vehicle any other number than one corresponding with the license for the vehicle.</text>
@@ -2704,6 +2776,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-13</num>
       <heading>Withdrawal of license.</heading>
       <text>It shall be the duty of the Mayor to withdraw the license from any vehicle licensed by the City, the driver of which shall violate a 2<sup>nd</sup> time any of the provisions of this Code regulating the speed of horses and vehicles.</text>
@@ -2720,6 +2793,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-14</num>
       <heading>Subtitle to be advertised.</heading>
       <text>It shall be the duty of the Director of Finance to notify all persons annually of the necessity of attending to the provisions of this subtitle, by advertising the same at least 10 days previous to January 1 in a daily paper of general circulation in Baltimore City, and of the privilege accorded by § 6-9 by advertising the same at least 5 days previous to December 20 in a daily paper of the City.</text>
@@ -2742,6 +2816,7 @@
     <num>7</num>
     <heading>Employment Agencies</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2826,19 +2901,18 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §51(b)</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-506" type="History">Ord. 90-506</annotation>
         <annotation doc="City of Balt., Md., Ord. 94-382" type="History">Ord. 94-382</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>License required.</heading>
       <para>
@@ -2875,6 +2949,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Exhibition of license.</heading>
       <text>Every person, firm, or corporation, who shall take out a license under § 7-2, and who shall conduct an employment agency under such license:</text>
@@ -2909,6 +2984,7 @@
     <num>8</num>
     <heading>Garage and Lawn Sales</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Scope of subtitle.</heading>
       <text>This subtitle does not apply to:</text>
@@ -2930,6 +3006,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Limit on frequency and duration of sales.</heading>
       <para>
@@ -2949,6 +3026,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Penalties.</heading>
       <text>Any person violating any provision of this subtitle is guilty of a misdemeanor and, upon conviction thereof, is subject to a fine not exceeding $100 for each and every violation.</text>
@@ -2968,6 +3046,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -2977,9 +3056,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>
-            <em>{Vacant}</em>
-          </text>
+          <reason>Vacant</reason>
         </para>
         <para>
           <num>(c)</num>
@@ -3011,9 +3088,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(g)</num>
@@ -3022,37 +3097,37 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
           <annotation doc="City of Balt., Md., Ord.  12-011" type="History">Ord.  12-011</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-336" type="History">Ord. 15-336</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-496" type="History">Ord. 16-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-1215" type="History">Ord. 22-1215</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
         </annotations>
       </section>
       <section>
         <num>9-2</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-3</num>
         <heading>Rules, regulations, and forms.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Finance Department must adopt rules, regulations, and forms to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord.  12-011" type="History">Ord.  12-011</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-4</num>
         <heading>Scope.</heading>
         <para>
@@ -3106,7 +3181,7 @@
       </section>
       <section>
         <num>9-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3114,6 +3189,7 @@
       <num>2</num>
       <heading>Licensing</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-6</num>
         <heading>License required.</heading>
         <text>No business in a Residential Zoning District, Office-Residential Zoning District, or C-1, C-1-E, C-1-VC, C-2, or C-3 Commercial Zoning District may be open to the public at any time between the hours of midnight and 5 a.m. without having first obtained a late-night operations license under this subtitle.</text>
@@ -3124,6 +3200,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-6.1</num>
         <heading>Conditional license for late-night delivery services.</heading>
         <text>The Finance Department may issue a late-night operations license for a business to operate a late-night delivery-only service, conditioned upon all indoor sales and dining areas being closed to the public during late-night hours.</text>
@@ -3132,6 +3209,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-7</num>
         <heading>Applications.</heading>
         <para>
@@ -3158,6 +3236,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-8</num>
         <heading>Posting and notice; Objections.</heading>
         <para>
@@ -3243,6 +3322,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-9</num>
         <heading>Decision on review.</heading>
         <para>
@@ -3289,6 +3369,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-10</num>
         <heading>Term and renewal of license.</heading>
         <para>
@@ -3348,6 +3429,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-11</num>
         <heading>Fee for license.</heading>
         <text>The annual license fee is $460 per business, subject to adjustment in accordance with the City Fee Policy.</text>
@@ -3356,6 +3438,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-12</num>
         <heading>Waiting period after denial.</heading>
         <text>If a license or renewal license is denied under this subtitle, the applicant may not reapply for at least 12 months from the date of the final decision of the Department or, if judicial review of that decision was obtained, from the date of the final court decision.</text>
@@ -3366,7 +3449,7 @@
       </section>
       <section>
         <num>9-13 to 9-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3374,6 +3457,7 @@
       <num>3</num>
       <heading>Administrative Sanctions</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-16</num>
         <heading>Denial, suspension, or revocation.</heading>
         <text>The Finance Department or, on appeal, the Finance Director may deny, suspend, or revoke a late-night operations license or renewal license for any of the following causes:</text>
@@ -3412,6 +3496,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-17</num>
         <heading>Fines.</heading>
         <text>For any violation that is cause for suspending or revoking a license, the Finance Department or, on appeal, the Finance Director may, instead of or in addition to suspending or revoking the license, impose a civil fine of:</text>
@@ -3429,6 +3514,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-18</num>
         <heading>Appeal to Finance Director.</heading>
         <para>
@@ -3462,6 +3548,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-19</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -3494,7 +3581,7 @@
       </section>
       <section>
         <num>9-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3502,6 +3589,7 @@
       <num>4</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-21</num>
         <heading>Penalties.</heading>
         <para>
@@ -3525,6 +3613,7 @@
     <num>10</num>
     <heading>Hotels</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -3565,19 +3654,18 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-353" type="History">Ord. 15-353</annotation>
         <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-2</num>
       <heading>Registration required.</heading>
       <text>No person may operate a hotel in Baltimore City without first registering the hotel with the Housing Department on the form required by that Department.</text>
@@ -3587,20 +3675,22 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-3</num>
       <heading>Rules, regulations, and forms.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Housing Department must adopt rules, regulations, and forms to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-353" type="History">Ord. 15-353</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
       <num>10-4 and 10-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-6</num>
       <heading>Anti-trafficking training required.</heading>
       <para>
@@ -3634,6 +3724,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-7</num>
       <heading>Posting certification.</heading>
       <para>
@@ -3654,9 +3745,10 @@
     </section>
     <section>
       <num>10-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-9</num>
       <heading>Penalties.</heading>
       <para>
@@ -3679,6 +3771,7 @@
     <num>11</num>
     <heading>Massage Establishments</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -3708,19 +3801,18 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §58(a) - (d) and ("person")</annotation>
         <annotation doc="City of Balt., Md., Ord. 76-159" type="History">Ord. 76-159</annotation>
         <annotation doc="City of Balt., Md., Ord. 94-286" type="History">Ord. 94-286</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Rules of interpretation.</heading>
       <para>
@@ -3753,6 +3845,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-3</num>
       <heading>Purpose and intent.</heading>
       <text>It is the declared purpose and intent of the Mayor and City Council of Baltimore in ordaining this subtitle to protect and preserve the health, safety, and welfare of the inhabitants of this City by providing a program for regulating massage establishments in order to eliminate the social difficulties that now exist in many massage parlors and to promote higher standards of health, sanitation, and professional competence therein.</text>
@@ -3762,6 +3855,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-4</num>
       <heading>Exemptions.</heading>
       <text>This subtitle shall not apply to:</text>
@@ -3800,6 +3894,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-5</num>
       <heading>License required for massage establishments.</heading>
       <text>No person shall maintain, operate, or conduct a massage establishment within the City of Baltimore without a license previously issued by the Director of Finance.</text>
@@ -3809,6 +3904,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-6</num>
       <heading>Registration required for massagists.</heading>
       <text>No person maintaining, operating, or conducting a massage establishment shall employ, or otherwise allow, any individual to perform as a massagist, and no individual shall perform as a massagist, unless such individual shall have first been duly registered as a massagist for that particular massage establishment with the Board of Licenses for Massage Establishments.</text>
@@ -3818,6 +3914,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-7</num>
       <heading>Board of Licenses for Massage Establishments.</heading>
       <para>
@@ -3877,6 +3974,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-8</num>
       <heading>Application for license — contents; fee.</heading>
       <para>
@@ -3944,6 +4042,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-9</num>
       <heading>Application for license — investigation.</heading>
       <para>
@@ -3967,6 +4066,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-10</num>
       <heading>Denials; appeals.</heading>
       <para>
@@ -3996,6 +4096,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-11</num>
       <heading>Issuance of license; fee.</heading>
       <para>
@@ -4020,6 +4121,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-12</num>
       <heading>License not transferable.</heading>
       <text>No massage establishment license shall be transferable.</text>
@@ -4029,6 +4131,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-13</num>
       <heading>Unlawful acts.</heading>
       <para>
@@ -4069,6 +4172,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-14</num>
       <heading>Inspection.</heading>
       <para>
@@ -4092,6 +4196,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-15</num>
       <heading>Revocation of license; hearing.</heading>
       <para>
@@ -4116,12 +4221,13 @@
     </section>
     <section>
       <num>11-16</num>
-      <heading>{Repealed by Ord.  22-125}</heading>
+      <reason>Repealed by Ord.  22-125</reason>
       <annotations>
         <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-17</num>
       <heading>Penalties.</heading>
       <para>
@@ -4152,6 +4258,7 @@
     <num>12</num>
     <heading>Commercial Parking Facilities</heading>
     <section>
+      <prefix>§</prefix>
       <num>12-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4199,6 +4306,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-2</num>
       <heading>Subtitle inapplicable to special-event parking.</heading>
       <text>This subtitle does not apply to special-event parking lots operating under and in compliance with  Subtitle  13 {"Special-Event Parking Lots"} of this article.</text>
@@ -4209,9 +4317,10 @@
     </section>
     <section>
       <num>12-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-4</num>
       <heading>License required; fee.</heading>
       <para>
@@ -4286,6 +4395,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-5</num>
       <heading>Transfer of licenses.</heading>
       <text>Except as otherwise provided in this subtitle, a license issued under this subtitle is transferable during the license year.</text>
@@ -4300,6 +4410,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-6</num>
       <heading>Tax arrearage bars renewal or transfer.</heading>
       <text>A license may not be issued to, renewed by, or transferred from or to any person from whom taxes, interest, or penalties are due and unpaid under City Code Article 28, Subtitle 22.</text>
@@ -4309,6 +4420,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-7</num>
       <heading>Refund on acquisition, etc., by City.</heading>
       <text>If the City acquires title to or control of a commercial parking facility or terminates an existing lease covering any property used as a parking facility, and the owner, lessee, or operator of the commercial parking facility is thereby required to terminate the operation of the facility, then the owner, lessee, or operator is entitled to a refund of that portion of the license fee paid for the unexpired term of the license.</text>
@@ -4319,11 +4431,11 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-8</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations for the administration and enforcement of this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1966, art. 15, §56(d)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 15, §75(d)</annotation>
         <annotation doc="City of Balt., Md., Ord. 53-904" type="History">Ord. 53-904</annotation>
@@ -4331,9 +4443,11 @@
         <annotation doc="City of Balt., Md., Ord. 01-271" type="History">Ord. 01-271</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-264" type="History">Ord. 19-264</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-9</num>
       <heading>Cars left in street.</heading>
       <para>
@@ -4363,6 +4477,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-10</num>
       <heading>Proof-of-payment required.</heading>
       <para>
@@ -4381,6 +4496,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-11</num>
       <heading>Removal of vehicles.</heading>
       <text>A commercial parking lot may not tow or contract with another person to tow a motor vehicle from a commercial parking lot without the motor vehicle's or authorized representative's authorization, unless the facility holds a valid license under § 12-4 {"License required; fee" of this subtitle.</text>
@@ -4390,9 +4506,10 @@
     </section>
     <section>
       <num>12-12</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-13</num>
       <heading>License revocation.</heading>
       <para>
@@ -4422,6 +4539,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-14</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -4450,6 +4568,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-15</num>
       <heading>Criminal penalties.</heading>
       <para>
@@ -4478,6 +4597,7 @@
     <num>13</num>
     <heading>Special-Event Parking Lots</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4492,9 +4612,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(d)</num>
@@ -4559,26 +4677,28 @@
     </section>
     <section>
       <num>13-2</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
+      <reason>Repealed by Ord. 22-125</reason>
       <annotations>
         <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Rules, regulations, and forms.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules, regulations, and forms to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 11-572" type="History">Ord. 11-572</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
       <num>13-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-5</num>
       <heading>License required.</heading>
       <text>No person may operate a special-event parking lot without having first obtained a license to do so from the Director.</text>
@@ -4587,6 +4707,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-6</num>
       <heading>Applications – General.</heading>
       <para>
@@ -4604,6 +4725,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-7</num>
       <heading>Applications – Required information.</heading>
       <text>The application must include:</text>
@@ -4668,6 +4790,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-8</num>
       <heading>License term and renewal.</heading>
       <para>
@@ -4692,6 +4815,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-9</num>
       <heading>License fee.</heading>
       <text>The annual fee for a special-event parking lot license is as set by the Board of Estimates.</text>
@@ -4700,6 +4824,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-10</num>
       <heading>Issuance of license.</heading>
       <text>On receipt of  a  license application and the applicable license fee, the Director shall:</text>
@@ -4728,6 +4853,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-11</num>
       <heading>Transfer.</heading>
       <text>A special-event parking lot license is not transferable to a new operator, to a different location, or otherwise.</text>
@@ -4736,6 +4862,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-12</num>
       <heading>Tax arrearage bars issuance or renewal.</heading>
       <text>A license may not be issued to or renewed by any person from whom taxes, interest, or penalties are due and unpaid under City Code Article 28, Subtitle 22 {"Parking Tax"}.</text>
@@ -4744,6 +4871,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-13</num>
       <heading>Identification signs.</heading>
       <para>
@@ -4798,6 +4926,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-14</num>
       <heading>Attendant on duty.</heading>
       <text>An adult attendant must be present at all times while any vehicle remains parked on a special-event parking lot.</text>
@@ -4806,6 +4935,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-15</num>
       <heading>Cars left in street.</heading>
       <para>
@@ -4831,9 +4961,10 @@
     </section>
     <section>
       <num>13-16 to 13-20</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-21</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -4851,6 +4982,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-22</num>
       <heading>Criminal penalties.</heading>
       <para>
@@ -4878,6 +5010,7 @@
     <num>15</num>
     <heading>Street Entertainers</heading>
     <section>
+      <prefix>§</prefix>
       <num>15-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4892,21 +5025,15 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(e)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(f)</num>
@@ -4987,19 +5114,20 @@
         <annotation doc="City of Balt., Md., Ord. 04-801" type="History">Ord. 04-801</annotation>
         <annotation doc="City of Balt., Md., Ord. 06-191" type="History">Ord. 06-191</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
         <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
       </annotations>
     </section>
     <section>
       <num>15-2</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
+      <reason>Repealed by Ord. 22-125</reason>
     </section>
     <section>
       <num>15-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-4</num>
       <heading>Board of Licenses established.</heading>
       <para>
@@ -5030,6 +5158,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-5</num>
       <heading>Board officers; expenses.</heading>
       <para>
@@ -5064,6 +5193,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-6</num>
       <heading>Staff.</heading>
       <text>The Board may appoint employees, assistants, and investigators as provided in the Ordinances of Estimates.</text>
@@ -5072,20 +5202,22 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-7</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board shall adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 04-801" type="History">Ord. 04-801</annotation>
         <annotation type="History">Text Conformed 03/01/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
       <num>15-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-9</num>
       <heading>License required.</heading>
       <text>No person may perform as a street entertainer without first having obtained a license to do so from the Board of Licenses for Street Entertainers.</text>
@@ -5094,6 +5226,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-10</num>
       <heading>Classes and scope of licenses.</heading>
       <para>
@@ -5151,6 +5284,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-11</num>
       <heading>Limitations and conditions.</heading>
       <text>The Board may impose reasonable limitations on any license issued under this subtitle, as necessary or proper to carry out the purpose and intent of this subtitle.</text>
@@ -5159,6 +5293,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-12</num>
       <heading>Applications.</heading>
       <para>
@@ -5209,6 +5344,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-13</num>
       <heading>Term, renewal, fees.</heading>
       <para>
@@ -5239,6 +5375,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-14</num>
       <heading>Entertainer identification.</heading>
       <para>
@@ -5299,6 +5436,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-15</num>
       <heading>BOPA to assist.</heading>
       <text>The Baltimore Office of Promotion and The Arts shall assist the Board by:</text>
@@ -5315,6 +5453,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-16</num>
       <heading>Prohibited conduct.</heading>
       <text>A street entertainer may not:</text>
@@ -5332,9 +5471,10 @@
     </section>
     <section>
       <num>15-17</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-18</num>
       <heading>Revocations and suspensions.</heading>
       <para>
@@ -5369,6 +5509,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-19</num>
       <heading>Administrative appeals.</heading>
       <para>
@@ -5408,9 +5549,10 @@
     </section>
     <section>
       <num>15-20</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15-21</num>
       <heading>Penalties.</heading>
       <text>Any person who violates any provision of this subtitle or of the rules and regulations adopted under it is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
@@ -5436,6 +5578,7 @@
       <num>I</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -5493,9 +5636,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(i)</num>
@@ -5550,16 +5691,17 @@
       </section>
       <section>
         <num>17-2</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
         </annotations>
       </section>
       <section>
         <num>17-3</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-4</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -5589,6 +5731,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-5</num>
         <heading>Mobile vending zones.</heading>
         <para>
@@ -5660,6 +5803,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-6</num>
         <heading>Newspaper sales excepted from subtitle.</heading>
         <text>This subtitle does not apply to the sale of newspapers.</text>
@@ -5670,7 +5814,7 @@
       </section>
       <section>
         <num>17-7 to 17-14</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5678,6 +5822,7 @@
       <num>II</num>
       <heading>Licensing</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-15</num>
         <heading>License required.</heading>
         <text>No street vendor may operate in Baltimore City without first having obtained a license to do so from the Department of Transportation.</text>
@@ -5691,6 +5836,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-16</num>
         <heading>Classes and scope of licenses.</heading>
         <para>
@@ -5764,6 +5910,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-17</num>
         <heading>Limitations and conditions.</heading>
         <para>
@@ -5784,20 +5931,21 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">
-            <text>Section 3 of Ordinance 14-237 qualifies this subsection as follows</text>
-            <text>[N]otwithstanding Article 15, § 17-17(b)(2), as enacted by this Ordinance, a mobile vendor who, on the effective date of this Ordinance, held a valid street vendor’s license for a vehicle longer than 25 feet is entitled, if otherwise qualified for a license and renewals under this Ordinance, to obtain a license and 1 or more consecutive renewals for the continued operation of that vehicle for up to, but not beyond, 5 years after the effective date of this Ordinance.</text>
-            <text>Ord. 14-237 became effective February 28, 2015.</text>
-          </annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §100(c)(3)(2nd sen.), (h)</annotation>
           <annotation doc="City of Balt., Md., Ord. 74-590" type="History">Ord. 74-590</annotation>
           <annotation doc="City of Balt., Md., Ord. 77-493" type="History">Ord. 77-493</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-854" type="History">Ord. 04-854</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+          <annotation type="Editor's Notes">
+            <text>Section 3 of Ordinance 14-237 qualifies this subsection as follows</text>
+            <text>[N]otwithstanding Article 15, § 17-17(b)(2), as enacted by this Ordinance, a mobile vendor who, on the effective date of this Ordinance, held a valid street vendor’s license for a vehicle longer than 25 feet is entitled, if otherwise qualified for a license and renewals under this Ordinance, to obtain a license and 1 or more consecutive renewals for the continued operation of that vehicle for up to, but not beyond, 5 years after the effective date of this Ordinance.</text>
+            <text>Ord. 14-237 became effective February 28, 2015.</text>
+          </annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-18</num>
         <heading>Applications.</heading>
         <para>
@@ -5856,6 +6004,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-19</num>
         <heading>Term and renewal.</heading>
         <para>
@@ -5889,6 +6038,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-20</num>
         <heading>Temporary licenses.</heading>
         <para>
@@ -5922,6 +6072,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-21</num>
         <heading>Fees.</heading>
         <para>
@@ -5946,6 +6097,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-22</num>
         <heading>Department to maintain list of licenses.</heading>
         <text>The Department must maintain a list of all current licenses issued under this subtitle.</text>
@@ -5955,9 +6107,10 @@
       </section>
       <section>
         <num>17-23</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-24</num>
         <heading>Vendor identification – In general.</heading>
         <para>
@@ -6027,6 +6180,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-25</num>
         <heading>Vendor identification – Country growers.</heading>
         <para>
@@ -6106,7 +6260,7 @@
       </section>
       <section>
         <num>17-26 to 17-29</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6114,6 +6268,7 @@
       <num>III</num>
       <heading>Prohibited Conduct</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-30</num>
         <heading>Food vendors – Receptacles; clean-up.</heading>
         <para>
@@ -6135,9 +6290,10 @@
       </section>
       <section>
         <num>17-31</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-32</num>
         <heading>Mobile vendors – Near mobile vending zones.</heading>
         <text>A mobile vendor may not park a vendor truck within 2 blocks of a mobile vending zone.</text>
@@ -6146,6 +6302,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-33</num>
         <heading>Mobile vendors – Near retail store.</heading>
         <text>A mobile vendor may not park a vendor truck within 300 feet of any retail business establishment that is primarily engaged in selling the same type of food product, other merchandise, or service as that offered by the mobile vendor.</text>
@@ -6160,6 +6317,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-34</num>
         <heading>Mobile food vendors – Operating without logbook.</heading>
         <para>
@@ -6191,6 +6349,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-35</num>
         <heading>All Vendors – Residential areas.</heading>
         <para>
@@ -6216,6 +6375,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-36</num>
         <heading>All vendors – Between midnight and 6 a.m.</heading>
         <para>
@@ -6234,6 +6394,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-37</num>
         <heading>All vendors – Near City market.</heading>
         <text>No street vendor may operate within 2 blocks of a City market designated in City Code Article 16, § 1-2 {"Scope of article"}.</text>
@@ -6242,6 +6403,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-38</num>
         <heading>All vendors – Near school or school transit stop.</heading>
         <text>From 7 a.m. to 8 p.m., no street vendor may stand or park her or his vendor vehicle within 2 blocks of the grounds of:</text>
@@ -6261,6 +6423,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-39</num>
         <heading>All vendors – Near farmers' market.</heading>
         <para>
@@ -6291,7 +6454,7 @@
       </section>
       <section>
         <num>17-40</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6299,6 +6462,7 @@
       <num>IV</num>
       <heading>Penalties; Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>17-41</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -6324,6 +6488,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-42</num>
         <heading>Criminal penalties.</heading>
         <text>A person who violates any provision of this subtitle or of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a penalty of $500 for each offense.</text>
@@ -6333,9 +6498,10 @@
       </section>
       <section>
         <num>17-43</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-44</num>
         <heading>Revocations and suspensions.</heading>
         <para>
@@ -6379,6 +6545,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>17-45</num>
         <heading>Administrative appeals.</heading>
         <para>
@@ -6427,6 +6594,7 @@
     <num>18</num>
     <heading>Itinerant Wholesale Produce Dealers</heading>
     <section>
+      <prefix>§</prefix>
       <num>18-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -6447,6 +6615,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-2</num>
       <heading>Scope of subtitle - general exceptions.</heading>
       <para>
@@ -6467,6 +6636,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-3</num>
       <heading>Scope of subtitle - local produce.</heading>
       <para>
@@ -6517,6 +6687,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-4</num>
       <heading>License required for itinerant dealers.</heading>
       <text>It shall be unlawful for any person, firm, association, or corporation to conduct or operate the business of an itinerant wholesale produce dealer, as hereinbefore in this subtitle defined, without first having obtained a license so to do.</text>
@@ -6529,6 +6700,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-5</num>
       <heading>Applications.</heading>
       <para>
@@ -6569,6 +6741,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-6</num>
       <heading>Fees; term; transfers.</heading>
       <para>
@@ -6598,6 +6771,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-7</num>
       <heading>Regulations.</heading>
       <para>
@@ -6630,6 +6804,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-8</num>
       <heading>Revocation of license.</heading>
       <text>The Mayor may revoke such license at any time by notice in writing whenever it shall appear to his satisfaction that the licensee has violated the provisions of this subtitle and has failed to correct same upon due notice from the Director of Finance.</text>
@@ -6643,12 +6818,13 @@
     </section>
     <section>
       <num>18-9</num>
-      <heading>{Repealed by Ord. 22-124}</heading>
+      <reason>Repealed by Ord. 22-124</reason>
       <annotations>
         <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-10</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -6671,6 +6847,7 @@
     <num>19</num>
     <heading>Newspaper Vending Boxes in Downtown Area</heading>
     <section>
+      <prefix>§</prefix>
       <num>19-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -6755,6 +6932,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-2</num>
       <heading>Compliance with subtitle required.</heading>
       <text>No person shall knowingly place, install, use, or maintain any newspaper vending box which rests in whole or in part upon, in, or on any portion of a public right-of-way in the downtown area or which projects onto, into, or over any part of a public right-of-way in the downtown area, except in compliance with the provisions of this subtitle.</text>
@@ -6764,6 +6942,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-3</num>
       <heading>Standards for vending boxes.</heading>
       <para>
@@ -6860,6 +7039,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-4</num>
       <heading>Location of vending boxes.</heading>
       <para>
@@ -7026,6 +7206,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-5</num>
       <heading>Minor privilege requirements not affected.</heading>
       <text>This subtitle shall be deemed to have no effect on the minor privilege application process required by Article VIII of the City Charter.</text>
@@ -7035,6 +7216,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-6</num>
       <heading>Enforcement.</heading>
       <para>
@@ -7095,6 +7277,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-7</num>
       <heading>Appeals.</heading>
       <para>
@@ -7124,6 +7307,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-8</num>
       <heading>Summary correction of minor violations.</heading>
       <text>In the case of minor violations of this subtitle that can be corrected on the spot, any City employee, as an alternative to the removal of the newspaper vending box, is authorized to correct the violation summarily.</text>
@@ -7133,6 +7317,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-9</num>
       <heading>Abandonment.</heading>
       <text>In the event a newspaper vending box remains empty for a period of 30 continuous days, the same shall be deemed abandoned, and may be treated in the manner as provided in § 19-6 for newspaper vending boxes in violation of the provisions of this subtitle.</text>
@@ -7147,6 +7332,7 @@
     <num>20</num>
     <heading>Transient Merchants</heading>
     <section>
+      <prefix>§</prefix>
       <num>20-1</num>
       <heading>"Transient merchant" defined.</heading>
       <para>
@@ -7173,6 +7359,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-2</num>
       <heading>License required.</heading>
       <text>No person shall engage in business as a transient merchant unless he shall first have obtained a license to do so from the Director of Finance.</text>
@@ -7182,6 +7369,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-3</num>
       <heading>Application for license.</heading>
       <text>An applicant for a transient merchant's license shall provide the following information:</text>
@@ -7207,6 +7395,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-4</num>
       <heading>Fee.</heading>
       <text>The fee for a transient merchant's license shall be at the rate of $375 for each 60-day period or portion thereof.</text>
@@ -7217,6 +7406,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-5</num>
       <heading>Bonding; contracts; delivery.</heading>
       <para>
@@ -7254,6 +7444,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-6</num>
       <heading>Reports by hotel keepers.</heading>
       <text>The owner, proprietor, or manager of any hotel, motel, rooming house, or other place of public accommodation shall report, within 6 hours after renting, to the Commissioner of Police, the name of any person who has rented a room or other space for the sale and display of merchandise of a transient merchant, giving the location of the room so rented.</text>
@@ -7268,6 +7459,7 @@
     <num>21</num>
     <heading>Third-Party Food Delivery Platforms</heading>
     <section>
+      <prefix>§</prefix>
       <num>21-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -7346,12 +7538,13 @@
     </section>
     <section>
       <num>21-2</num>
-      <heading>{Repealed by Ord.  22-124}</heading>
+      <reason>Repealed by Ord.  22-124</reason>
       <annotations>
         <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-3</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act - Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations to carry out the provisions of this subtitle.</text>
@@ -7361,9 +7554,10 @@
     </section>
     <section>
       <num>21-4 to 21-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-6</num>
       <heading>Prohibited conduct.</heading>
       <text>A third-party delivery service may not:</text>
@@ -7405,9 +7599,10 @@
     </section>
     <section>
       <num>21-7 to 21-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-9</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -7430,6 +7625,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-10</num>
       <heading>Criminal penalties.</heading>
       <para>
@@ -7449,9 +7645,10 @@
     </section>
     <section>
       <num>21-11 to 21-12</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-13</num>
       <heading>Private actions not precluded.</heading>
       <text>Nothing in this subtitle may be in any way construed to limit or abridge any rights possessed by any food service facility at common law, by statute, or by ordinance to bring a civil action to redress claims against a third-party food delivery service.</text>
@@ -7461,12 +7658,13 @@
     </section>
     <section>
       <num>21-14</num>
-      <heading>{Repealed by Ord.  22-125}</heading>
+      <reason>Repealed by Ord.  22-125</reason>
       <annotations>
         <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-15</num>
       <heading>Termination of subtitle.</heading>
       <text>This subtitle shall automatically expire on the 91<sup>st</sup> day following the expiration of the catastrophic health emergency declared by the Governor of Maryland on March 5, 2020, as amended or extended by the Governor.</text>
@@ -7483,6 +7681,7 @@
       <annotation type="Editor's Notes">Ordinance 08-077 {“Accident and Disabled-Vehicle Towing”} renamed this subtitle to better distinguish its scope from that of Article 31, Subtitle 22 {“Towing Services – Accident Towing”}.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>22-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -7554,6 +7753,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-2</num>
       <heading>Board of Licenses for Towing Services.</heading>
       <para>
@@ -7631,6 +7831,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-3</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -7655,6 +7856,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-4</num>
       <heading>License required.</heading>
       <para>
@@ -7705,6 +7907,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-5</num>
       <heading>Applications.</heading>
       <para>
@@ -7804,6 +8007,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-6</num>
       <heading>Issuance; fees.</heading>
       <para>
@@ -7828,6 +8032,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-7</num>
       <heading>Display of license; truck identification.</heading>
       <para>
@@ -7853,6 +8058,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-8</num>
       <heading>Charges.</heading>
       <para>
@@ -7883,6 +8089,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-9</num>
       <heading>Surety bond; liability insurance.</heading>
       <para>
@@ -7909,6 +8116,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-10</num>
       <heading>Records and receipts.</heading>
       <para>
@@ -8022,6 +8230,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-11</num>
       <heading>Storage facilities.</heading>
       <para>
@@ -8062,6 +8271,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-12</num>
       <heading>Repairs.</heading>
       <para>
@@ -8087,6 +8297,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-13</num>
       <heading>Prohibited acts.</heading>
       <para>
@@ -8148,6 +8359,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-14</num>
       <heading>Denial, revocation, suspension, refusal to renew.</heading>
       <para>
@@ -8222,6 +8434,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-15</num>
       <heading>Notice and hearing.</heading>
       <para>
@@ -8264,6 +8477,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-16</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -8284,6 +8498,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-17</num>
       <heading>Enforcement.</heading>
       <para>
@@ -8302,6 +8517,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22-18</num>
       <heading>Penalties.</heading>
       <para>
@@ -8331,6 +8547,7 @@
     <num>26</num>
     <heading>Miscellaneous</heading>
     <section>
+      <prefix>§</prefix>
       <num>26-1</num>
       <heading>Defacing posters.</heading>
       <text>It is unlawful for any person to destroy, tear, or otherwise deface any bill (if posted where permitted) descriptive of any performance paying a license to the City for permission to hold the performance.</text>
@@ -8356,6 +8573,7 @@
     <num>41</num>
     <heading>Licensing of Convicted Drug Offenders</heading>
     <section>
+      <prefix>§</prefix>
       <num>41-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -8457,19 +8675,18 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §22A(a)</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-613" type="History">Ord. 90-613</annotation>
         <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-2</num>
       <heading>Disclosure of conviction.</heading>
       <text>Except as provided in this subtitle, as a condition to issuance of a license or renewal of a license, a licensing authority may require an individual or a licensee applying for a license to disclose whether the individual or licensee has ever been convicted of a controlled dangerous substance offense committed within 5 years of the date of the application for an initial license or an application for a renewal of a license.</text>
@@ -8479,6 +8696,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-3</num>
       <heading>Sanctions for nondisclosure.</heading>
       <text>Unless an individual shows good cause for failure to disclose the information required by this subtitle, and if an individual applying for a license has been convicted of committing a controlled dangerous substance offense within 5 years of the date of the application, a licensing authority may:</text>
@@ -8496,6 +8714,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-4</num>
       <heading>Court may report conviction to City.</heading>
       <text>When a person is convicted of a controlled dangerous substance offense, the court:</text>
@@ -8513,6 +8732,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-5</num>
       <heading>Options of licensing authority.</heading>
       <text>If a licensing authority receives notice that a licensee has been convicted of a controlled dangerous substance offense committed within 5 years of the date of an application for a renewal of a license, a licensing authority may:</text>
@@ -8546,6 +8766,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-6</num>
       <heading>Probation.</heading>
       <para>
@@ -8588,6 +8809,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-7</num>
       <heading>Notice and hearing.</heading>
       <para>
@@ -8606,6 +8828,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-8</num>
       <heading>Factors to be considered.</heading>
       <para>
@@ -8669,6 +8892,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-9</num>
       <heading>Regulations.</heading>
       <text>Each licensing authority may adopt regulations to carry out the provisions of this subtitle.</text>
@@ -8678,6 +8902,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-10</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -8703,6 +8928,7 @@
     <num>42</num>
     <heading>Human Trafficking Notice Requirements</heading>
     <section>
+      <prefix>§</prefix>
       <num>42-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -8727,9 +8953,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(f)</num>
@@ -8738,19 +8962,18 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-218" type="History">Ord. 19-218</annotation>
         <annotation doc="City of Balt., Md., Ord. 21-018" type="History">Ord. 21-018</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see City General Provisions Article, § 1-107.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-2</num>
       <heading>Human trafficking prevention signs to be posted.</heading>
       <para>
@@ -8851,6 +9074,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-2.1</num>
       <heading>City-owned or -occupied buildings.</heading>
       <para>
@@ -8889,9 +9113,10 @@
     </section>
     <section>
       <num>42-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-4</num>
       <heading>Agencies to enforce.</heading>
       <text>Enforcement of this subtitle shall be conducted by:</text>
@@ -8912,6 +9137,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-5</num>
       <heading>Annual report.</heading>
       <para>
@@ -8938,9 +9164,10 @@
     </section>
     <section>
       <num>42-6</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-7</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -8966,6 +9193,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42-8</num>
       <heading>Criminal penalties.</heading>
       <text>Any person who violates any provision of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
@@ -8983,6 +9211,7 @@
       <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 22-149, effective August 12,, 2022.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>42A-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -9029,6 +9258,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42A-2</num>
       <heading>Requirements.</heading>
       <para>
@@ -9069,6 +9299,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42A-3</num>
       <heading>Sign location.</heading>
       <para>
@@ -9099,6 +9330,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>42A-4</num>
       <heading>Penalties for failure to post signage.</heading>
       <para>
@@ -9135,6 +9367,7 @@
     <num>43</num>
     <heading>Public Restrooms</heading>
     <section>
+      <prefix>§</prefix>
       <num>43-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -9180,9 +9413,10 @@
     </section>
     <section>
       <num>43-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-3</num>
       <heading>Requirements for single-user restrooms.</heading>
       <text>Any public single-user restroom in a commercial or industrial establishment, a place of public accommodation, or a City-owned or -occupied building must be:</text>
@@ -9199,6 +9433,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-4</num>
       <heading>Agencies to enforce.</heading>
       <text>Enforcement of this subtitle shall be conducted by "Code Enforcement Officers" and "Enforcement Officers" (as defined in City Code Article 1, § 40-1(c) and § 41-1(c), respectively) who are employed by any of the following agencies:</text>
@@ -9239,6 +9474,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-5</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -9278,6 +9514,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-6</num>
       <heading>Criminal penalties.</heading>
       <para>
@@ -9305,6 +9542,7 @@
     <num>46</num>
     <heading>Administration and Enforcement</heading>
     <section>
+      <prefix>§</prefix>
       <num>46-1</num>
       <heading>Standard license year; fees not prorated.</heading>
       <text>Unless otherwise specified, wherever in this article or in any ordinance of the Mayor and City Council of Baltimore, an annual license fee is imposed, those provisions shall be construed to render the fee collectible in the 1<sup>st</sup> week of January in each and every year, and the entire charge prescribed for the entire year shall be collected when the license is issued.</text>
@@ -9319,6 +9557,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>46-2</num>
       <heading>Interest and penalties for unpaid fees.</heading>
       <para>
@@ -9355,9 +9594,10 @@
     </section>
     <section>
       <num>46-3 to 46-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>46-11</num>
       <heading>Refusal, revocation of license.</heading>
       <text>Upon the approval of the Mayor, the Director of Finance shall have full power and authority to refuse to grant licenses under the provisions of this article, and also, when directed by the Mayor, shall have full power and authority to revoke any license granted by virtue of this article.</text>
@@ -9374,6 +9614,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>46-12</num>
       <heading>Enforcement by Solicitor.</heading>
       <text>Whenever the City Solicitor shall be notified of any violation of the provisions of this article, it shall be his duty immediately to institute legal proceedings against the offender or offenders to recover from him, her, or them, the penalty or penalties prescribed by this article.</text>
@@ -9393,6 +9634,7 @@
     <num>47</num>
     <heading>Penalties</heading>
     <section>
+      <prefix>§</prefix>
       <num>47-1</num>
       <heading>In general.</heading>
       <text>Unless otherwise provided, a person, firm, corporation, or other legal entity that violates any provision of this article or of a rule or regulation adopted under this article is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $250 for each offense.</text>
@@ -9404,6 +9646,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-2</num>
       <heading>Continuing offenses.</heading>
       <text>Each day that a violation continues constitutes a separate offense.</text>
@@ -9427,6 +9670,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>48-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -9528,24 +9772,25 @@
       </section>
       <section>
         <num>48-2</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-3</num>
         <heading>Rules and Regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Housing Commissioner must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-217" type="History">Ord. 19-217</annotation>
           <annotation type="History">Text Conformed 03/01/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>48-4 to 48-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -9553,6 +9798,7 @@
       <num>2</num>
       <heading>Licensing</heading>
       <section>
+        <prefix>§</prefix>
         <num>48-6</num>
         <heading>License required.</heading>
         <para>
@@ -9570,6 +9816,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-7</num>
         <heading>Licensing prerequisites.</heading>
         <para>
@@ -9644,6 +9891,7 @@
           </para>
         </para>
         <annotations>
+          <annotation doc="City of Balt., Md., Ord. 19-217" type="History">Ord. 19-217</annotation>
           <annotation type="Editor's Notes">
             <text>Section 3 of Ordinance 19-217 provides for the following exception to the preceding section</text>
             <text>“[N]otwithstanding Article 15, § 48-7(a)(1) and (2) and (b)(2), as added by this Ordinance:</text>
@@ -9675,10 +9923,10 @@
               <text>Unless the dwelling unit licensed under this section subsequently becomes the host's "permanent residence", the host is not eligible for any additional license under Article 15, § 48-7(a)(2)."</text>
             </para>
           </annotation>
-          <annotation doc="City of Balt., Md., Ord. 19-217" type="History">Ord. 19-217</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-8</num>
         <heading>License term and renewal.</heading>
         <para>
@@ -9703,6 +9951,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-9</num>
         <heading>License fee.</heading>
         <text>The biennial license fee for a short-term residential rental license is $200 per dwelling unit, subject to adjustment in accordance with the City Fee Policy.</text>
@@ -9712,7 +9961,7 @@
       </section>
       <section>
         <num>48-10 to 48-14</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -9720,6 +9969,7 @@
       <num>3</num>
       <heading>Operational Requirements</heading>
       <section>
+        <prefix>§</prefix>
         <num>48-15</num>
         <heading>Hosts.</heading>
         <para>
@@ -9776,6 +10026,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-16</num>
         <heading>Hosting platforms.</heading>
         <para>
@@ -9884,7 +10135,7 @@
       </section>
       <section>
         <num>48-17 to 48-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -9892,6 +10143,7 @@
       <num>4</num>
       <heading>Administrative Sanctions</heading>
       <section>
+        <prefix>§</prefix>
         <num>48-21</num>
         <heading>Denial, suspension, or revocation of license – In general.</heading>
         <text>Subject to the hearing provisions of § 48-22 of this subtitle, the Housing Commissioner may deny, suspend, or revoke a short-term residential rental license or renewal license for any of the following causes:</text>
@@ -9920,6 +10172,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-22</num>
         <heading>Denial, suspension, or revocation of license – Notice and hearing.</heading>
         <para>
@@ -9945,6 +10198,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-23</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -9975,7 +10229,7 @@
       </section>
       <section>
         <num>48-24</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -9983,6 +10237,7 @@
       <num>5</num>
       <heading>Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>48-25</num>
         <heading>Enforcement by Environmental Citation.</heading>
         <para>
@@ -10000,6 +10255,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>48-26</num>
         <heading>Penalties.</heading>
         <para>

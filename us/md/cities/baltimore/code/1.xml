@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>City Council</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Other office or clerkship prohibited.</heading>
       <text>It shall not be lawful for any member of the City Council to be appointed or to accept appointment to any office or clerkship under the corporation during the term for which he was elected as a member of the City Council, the salary or emolument of which are fixed and determined by the Mayor and City Council, whether said appointment be made by the Mayor individually, or by the Mayor and City Council, or by any other officer or officers of the City.</text>
@@ -25,9 +26,10 @@
     </section>
     <section>
       <num>1-2</num>
-      <heading>{Repealed by Ord. 09-217}</heading>
+      <reason>Repealed by Ord. 09-217</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Ordinances and resolutions.</heading>
       <para>
@@ -79,6 +81,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Committee on Legislative Investigations.</heading>
       <para>
@@ -262,6 +265,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Agencies to provide budget status reports.</heading>
       <para>
@@ -293,6 +297,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Agencies to provide legislative information.</heading>
       <text>It shall be the duty of the head of every City department or bureau established by the Baltimore City Charter or by ordinance to provide all technical materials, plats, drawings, and information that are requested by any member or the President of the City Council for the purpose of introducing legislation into the Council.</text>
@@ -302,6 +307,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-7</num>
       <heading>Disorderly conduct prohibited.</heading>
       <para>
@@ -332,6 +338,7 @@
     <num>2</num>
     <heading>Office of Council Services</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Office created; duties.</heading>
       <para>
@@ -375,6 +382,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Oversight Committee.</heading>
       <para>
@@ -408,6 +416,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Director – appointment; term; removal.</heading>
       <para>
@@ -440,6 +449,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-4</num>
       <heading>Director — qualifications; duties.</heading>
       <para>
@@ -486,6 +496,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-5</num>
       <heading>Staff; supplies; agency assistance.</heading>
       <para>
@@ -515,6 +526,7 @@
     <num>3</num>
     <heading>Claims Before Council</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Limitations.</heading>
       <text>No claim shall be considered by the Council after the period of limitation has elapsed by which under the law of the State of Maryland such claim would be barred.</text>
@@ -529,6 +541,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Diary fund.</heading>
       <text>With the exception of the matter of the compensation to the members of the City Council for their services as now provided by Article III, § 1 of the City Charter, the City Council shall have the control of all matters of expenditure which relate to the business operations or diary of the City Council, embracing:</text>
@@ -570,6 +583,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Resolution required.</heading>
       <text>None of the items of expense embraced in § 3-2 of this subtitle shall be paid unless authorized by resolution or resolutions of the City Council.</text>
@@ -583,6 +597,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Presentation of expense bills.</heading>
       <text>All bills of expenses:</text>
@@ -618,6 +633,7 @@
     <num>5</num>
     <heading>Claims and Litigation</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -677,9 +693,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(d)</num>
@@ -766,6 +780,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Website reports – Civil actions involving alleged police misconduct.</heading>
       <para>
@@ -824,6 +839,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Website reports – Civil actions involving unlawful discrimination.</heading>
       <para>
@@ -882,6 +898,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-4</num>
       <heading>Reports to City Council on significant litigation.</heading>
       <para>
@@ -944,6 +961,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-5</num>
       <heading>Certain non-disparagement clauses prohibited.</heading>
       <para>
@@ -1014,6 +1032,7 @@
       <annotation type="Editor's Notes">State law imposes greater restraints than does the ensuing § 6-1 on the authority of public bodies to meet in “executive session”. The State law also contains provisions governing notices, minutes, and the like.  See generally State General Provisions Article, Title 3 {“State Open Meetings Act”}.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Meetings to be public.</heading>
       <para>
@@ -1033,6 +1052,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Failure of member to attend meetings.</heading>
       <para>
@@ -1064,6 +1084,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Yearly meetings required.</heading>
       <para>
@@ -1087,6 +1108,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3.1</num>
       <heading>No meeting on primary- or general-election day.</heading>
       <text>No board, commission, council, authority, committee, or other multi-member unit of City government may hold a public meeting, regular or special, on a day during which a primary or general election is being held in the City.</text>
@@ -1095,6 +1117,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Notice of meetings.</heading>
       <para>
@@ -1145,6 +1168,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-5</num>
       <heading>Minutes.</heading>
       <para>
@@ -1164,7 +1188,7 @@
     </section>
     <section>
       <num>6-6</num>
-      <heading>{Repealed}</heading>
+      <reason>Repealed</reason>
     </section>
   </container>
   <container>
@@ -1172,6 +1196,7 @@
     <num>7</num>
     <heading>City Officers and Employees</heading>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Extra compensation; in-term raises.</heading>
       <para>
@@ -1202,6 +1227,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Registration with Selective Service System.</heading>
       <para>
@@ -1220,6 +1246,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Militia service.</heading>
       <text>All employees of the Mayor and City Council of Baltimore who shall be members of the organized militia of the State of Maryland created by the Constitution or laws of this State shall be entitled to leave of absence from their respective duties, without loss or deduction from pay, regular vacation, time, or efficiency rating for all days during which they shall attend field or coast defense training camps as required by law or military regulation passed pursuant to law; and whenever any such employees shall be engaged in active military duty within the State of Maryland they shall likewise be entitled to the privileges herein conferred.</text>
@@ -1232,6 +1259,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Office hours.</heading>
       <para>
@@ -1252,6 +1280,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-5</num>
       <heading>Uniform allowance.</heading>
       <text>Every employee of the Police Department, including crossing guards, every employee of the Fire Department, and every public health nurse of the City of Baltimore whose duties require him or her to have and use, at any time, a uniform or other distinctive garb, shall either be provided with that uniform or other distinctive garb, free of cost, or shall be provided with an annual allowance in lieu thereof.</text>
@@ -1263,6 +1292,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-6</num>
       <heading>Presentation of City Flag.</heading>
       <para>
@@ -1281,6 +1311,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-7</num>
       <heading>Residence address.</heading>
       <para>
@@ -1299,12 +1330,13 @@
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance must adopt rules and regulations to carry out this section.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (c) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 01-244" type="History">Ord. 01-244</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (c) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-8</num>
       <heading>Hiring preference for persons with disabilities.</heading>
       <para>
@@ -1377,9 +1409,10 @@
     </section>
     <section>
       <num>7-9</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-10</num>
       <heading>Residency requirements – City officials generally.</heading>
       <para>
@@ -1437,8 +1470,6 @@
         </para>
       </para>
       <annotations>
-        <annotation doc="City of Balt., Md., Ord. 18-111" type="History">Ord. 18-111</annotation>
-        <annotation doc="City of Balt., Md., Ord. 20-415" type="History">Ord. 20-415</annotation>
         <annotation type="Editor's Notes">
           <text>State Local Government Article (“LG”) § 1-201 generally prohibits “a county or municipality [from] requir[ing] an employee to reside within the State, county, or municipality ... as a condition of employment” {LG § 1-201(b)(1)}, subject only to exceptions for</text>
           <para>
@@ -1475,6 +1506,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-11</num>
       <heading>Residency requirements – Police Department command staff.</heading>
       <para>
@@ -1550,7 +1582,6 @@
         <text>No later than June 30 of each year, the Police Commissioner or the Police Commissioner's designee shall submit a report to the Mayor and City Council detailing the residency and voter registration status of all command staff members.</text>
       </para>
       <annotations>
-        <annotation doc="City of Balt., Md., Ord. 20-415" type="History">Ord. 20-415</annotation>
         <annotation type="Editor's Notes">
           <text>This § 7-11 was enacted by Ordinance 20-415, effective January 1, 2022, in accord with and by authority of the PLL of Baltimore City § 16-1(6), (7), and (8), and § 16-2A, as amended by Ch.  512, Acts of 2020.  Section 2 of Ord. 20-415 contains the following “legacy clause”</text>
           <text>[T]his Ordinance applies only prospectively and may not be applied or interpreted to have any effect or application to the continued employment at the same level of any individual who, before the effective date of this Ordinance, is employed by the Baltimore Police Department as a member of its “command staff”, as that term is defined in this Ordinance.</text>
@@ -1566,6 +1597,7 @@
       <annotation type="Editor's Notes">This subtitle was enacted by Ord. 19-308, effective December 22, 2019.  Ord. 19-335 subsequently extended the subtitle’s effective date to March 15, 2020.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -1697,9 +1729,10 @@
     </section>
     <section>
       <num>8-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Whistleblower protection against retaliatory personnel action.</heading>
       <para>
@@ -1718,9 +1751,10 @@
     </section>
     <section>
       <num>8-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-5</num>
       <heading>Applicability of complaint procedures.</heading>
       <para>
@@ -1757,6 +1791,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-6</num>
       <heading>Complaint process.</heading>
       <para>
@@ -1848,6 +1883,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-7</num>
       <heading>Investigation by Inspector General.</heading>
       <para>
@@ -1899,6 +1935,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-8</num>
       <heading>Remedies.</heading>
       <text>To remedy any violation of this subtitle, an agency head may:</text>
@@ -1932,19 +1969,21 @@
     </section>
     <section>
       <num>8-9</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-10</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Inspector General must adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-308" type="History">Ord. 19-308</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-11</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -1962,6 +2001,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-12</num>
       <heading>Other remedies not affected.</heading>
       <text>Nothing in this subtitle affects:</text>
@@ -1982,6 +2022,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-13</num>
       <heading>Training.</heading>
       <text>The Department of Human Resources, with the assistance of the Office of the Inspector General and the Law Department, must conduct trainings regarding this subtitle to inform employees and supervisors of their rights and responsibilities.</text>
@@ -1990,6 +2031,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-14</num>
       <heading>Administrative manual.</heading>
       <text>The Office of the Inspector General must create an administrative manual that outlines procedures and other information relative to the handling of complaints under this subtitle.</text>
@@ -2003,6 +2045,7 @@
     <num>9</num>
     <heading>Open Data Program</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2092,16 +2135,18 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City's Chief Data Officer may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 16-463" type="History">Ord. 16-463</annotation>
         <annotation type="History">Text Conformed 05/5/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-3</num>
       <heading>Short Title.</heading>
       <text>This subtitle may be cited as the "Baltimore City Open Data Program".</text>
@@ -2111,9 +2156,10 @@
     </section>
     <section>
       <num>9-4 to 9-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-6</num>
       <heading>Program initiative.</heading>
       <text>The Chief Data Officer shall oversee the development and adoption by the City of a program that allows the City to:</text>
@@ -2142,6 +2188,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-7</num>
       <heading>Program implementation and governance.</heading>
       <para>
@@ -2203,6 +2250,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-8</num>
       <heading>Open Data Portal.</heading>
       <para>
@@ -2220,6 +2268,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-9</num>
       <heading>Annual report.</heading>
       <para>
@@ -2254,9 +2303,10 @@
     </section>
     <section>
       <num>9-10 to 9-14</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-15</num>
       <heading>Program disclaimers.</heading>
       <para>
@@ -2303,6 +2353,7 @@
     <num>10</num>
     <heading>Records Management</heading>
     <section>
+      <prefix>§</prefix>
       <num>10-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2317,9 +2368,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(d)</num>
@@ -2423,13 +2472,14 @@
     </section>
     <section>
       <num>10-2</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
+      <reason>Repealed by Ord. 22-125</reason>
     </section>
     <section>
       <num>10-3 to 10-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-5</num>
       <heading>City Records Management Officer: In general.</heading>
       <text>There is a City Records Management Officer appointed by the Director of the Department of Legislative Reference.</text>
@@ -2438,6 +2488,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-6</num>
       <heading>City Records Management Officer: Duties.</heading>
       <para>
@@ -2492,16 +2543,17 @@
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City Records Management Officer must adopt rules and regulations to carry out this subtitle.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (c) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-407" type="History">Ord. 20-407</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (c) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
       <num>10-7 to 10-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-9</num>
       <heading>Duties of agencies.</heading>
       <text>Each agency head must:</text>
@@ -2534,6 +2586,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-10</num>
       <heading>Disposal of records.</heading>
       <para>
@@ -2596,6 +2649,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-11</num>
       <heading>Digitization.</heading>
       <text>As provided in City Charter Article I, § 7(b), any agency may substitute a digital image or file for any of its records, provided that:</text>
@@ -2620,6 +2674,7 @@
       <annotation type="Editor's Notes">Ordinance 22-146 (effective June 30, 2022) establishes that the Baltimore City Office of Equity and Civil Rights shall temporarily serve as the Police Accountability Board’s designee, as provided for in § 11-9(a) {“Complaints of police misconduct . . . In general.”} of this subtitle, and accept complaints of police misconduct beginning July 1, 2022, and continuing until the Board establishes a uniform procedure for filing complaints as required by § 11-9(c) {“Complaints of police misconduct . . . Procedure for filing complaints.”} of this subtitle.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -2724,11 +2779,13 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-2</num>
       <heading>Board established.</heading>
       <text>There is a Baltimore City Police Accountability Board.</text>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-3</num>
       <heading>Composition and qualifications.</heading>
       <para>
@@ -2814,6 +2871,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-4</num>
       <heading>Officers.</heading>
       <para>
@@ -2839,6 +2897,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-5</num>
       <heading>Term; removal; compensation.</heading>
       <para>
@@ -2905,6 +2964,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-6</num>
       <heading>Meetings.</heading>
       <para>
@@ -2926,6 +2986,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-7</num>
       <heading>Duties.</heading>
       <text>The Board must:</text>
@@ -2955,6 +3016,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-8</num>
       <heading>Reports.</heading>
       <para>
@@ -2981,6 +3043,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-9</num>
       <heading>Complaints of police misconduct.</heading>
       <para>
@@ -3057,6 +3120,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-10</num>
       <heading>Administrative charging committee.</heading>
       <para>
@@ -3277,11 +3341,13 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-11</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-12</num>
       <heading>Director; staff; budget.</heading>
       <para>
@@ -3327,6 +3393,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-13</num>
       <heading>Records.</heading>
       <para>
@@ -3369,6 +3436,7 @@
     <num>12</num>
     <heading>Central Bureau of Investigation</heading>
     <section>
+      <prefix>§</prefix>
       <num>12-1</num>
       <heading>Bureau established.</heading>
       <text>A Central Bureau of Investigation is hereby created in the Law Department under the City Solicitor.</text>
@@ -3380,6 +3448,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-2</num>
       <heading>Investigations.</heading>
       <para>
@@ -3430,6 +3499,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-3</num>
       <heading>Employees.</heading>
       <para>
@@ -3471,6 +3541,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-4</num>
       <heading>Report of injury or damage.</heading>
       <text>Every department, board, bureau, commission, officer, and employee of the Mayor and City Council of Baltimore (except the Bureau of Receipts and the employees thereof, so far as claims for taxes are concerned) shall immediately, upon the happening of any accidental injury to any employee of the Mayor and City Council of Baltimore, and upon the filing of, or knowledge of the existence of, any claim against the Mayor and City Council of Baltimore, or any injury or damage caused to the person or property of any third person by the Mayor and City Council of Baltimore, and any claim of the Mayor and City Council of Baltimore against third parties for any damage to property owned by or under the control of the Mayor and City Council of Baltimore, or any other injury or damage for which the Mayor and City Council of Baltimore may have a claim against third parties, whether arising by subrogation or otherwise, report the happening of such accidental injury or damage, or the filing or knowledge of any such claim or damage, with the Central Bureau of Investigation, so that an immediate investigation of all such accidental injuries and all such claims and damages may be forthwith made by the Central Bureau of Investigation.</text>
@@ -3482,6 +3553,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-5</num>
       <heading>Inconsistent laws.</heading>
       <text>In the event of any inconsistency between this subtitle and the terms and provisions of any ordinance of the Mayor and City Council of Baltimore, the terms and provisions of any other such ordinance are repealed to the extent of such inconsistency.</text>
@@ -3498,6 +3570,7 @@
     <num>13</num>
     <heading>Convention Complex</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Created; officers.</heading>
       <para>
@@ -3522,6 +3595,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>Powers of Director.</heading>
       <para>
@@ -3557,6 +3631,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Contracts; property.</heading>
       <para>
@@ -3591,6 +3666,7 @@
       <num>I</num>
       <heading>Office of Older Adult Affairs and Advocacy</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -3620,11 +3696,13 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-2</num>
         <heading>Office established.</heading>
         <text>There is a Baltimore City Office of Older Adult Affairs and Advocacy.</text>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-3</num>
         <heading>Director of the Office.</heading>
         <para>
@@ -3644,6 +3722,7 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-4</num>
         <heading>Powers and duties of the Office.</heading>
         <text>The Office shall:</text>
@@ -3741,6 +3820,7 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-5</num>
         <heading>Staff and budget.</heading>
         <para>
@@ -3755,11 +3835,13 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-6</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-7</num>
         <heading>Annual report.</heading>
         <text>On or before June 30 of each year, the Office must submit an annual report to the Mayor and City Council detailing:</text>
@@ -3771,12 +3853,10 @@
           <num>(2)</num>
           <text>the trainings, exercises, and community outreach activities the Office conducted during the previous year.</text>
         </para>
-        <text>
-          <strong>§ 14-8 to 14-10. </strong>
-          <strong>
-            <em>{Reserved}</em>
-          </strong>
-        </text>
+      </section>
+      <section>
+        <num>14-8 to 14-10</num>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3784,11 +3864,13 @@
       <num>II</num>
       <heading>Commission on Aging, Resources, and Empowerment</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-11</num>
         <heading>Established.</heading>
         <text>There is a Baltimore City Commission on Aging, Resources, and Empowerment.</text>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-12</num>
         <heading>Composition.</heading>
         <para>
@@ -3905,6 +3987,7 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-13</num>
         <heading>Terms of office and organization.</heading>
         <para>
@@ -3946,6 +4029,7 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-14</num>
         <heading>Powers and duties.</heading>
         <para>
@@ -4029,6 +4113,7 @@
     <num>15</num>
     <heading>Off-Street Parking Projects</heading>
     <section>
+      <prefix>§</prefix>
       <num>15-1</num>
       <heading>Reconveyance on satisfaction of debt.</heading>
       <para>
@@ -4053,6 +4138,7 @@
     <num>16</num>
     <heading>Planning Commission</heading>
     <section>
+      <prefix>§</prefix>
       <num>16-1</num>
       <heading>Notice of meetings.</heading>
       <text>The Planning Commission shall give to each member of the City Council in writing, delivered by mail or in person by the Friday preceding any Tuesday meeting, or by the 4<sup>th</sup> day preceding any other meeting, an agenda of all matters which the Planning Commission proposes to consider with respect to altering or amending the master plan of the City of Baltimore.</text>
@@ -4063,6 +4149,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-2</num>
       <heading>Fee for examination of subdivision plan.</heading>
       <para>
@@ -4099,6 +4186,7 @@
     <num>17</num>
     <heading>Department of Public Works</heading>
     <section>
+      <prefix>§</prefix>
       <num>17-1</num>
       <heading>Bureaus of Department.</heading>
       <para>
@@ -4128,6 +4216,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-2</num>
       <heading>Director of Public Works.</heading>
       <para>
@@ -4160,13 +4249,6 @@
         <text>Subject to the limitations provided in Ordinance 15-435, Section 2 {"Transfer of powers from DPW to DHCD"}, all the authorities, powers, responsibilities, rights, and duties previously imposed or conferred on any former Bureau or Bureau Head of the Department of Public Works are imposed and conferred on the Director of Public Works, and, subject to the authority of the Board of Estimates, all those authorities, powers, responsibilities, rights, and duties may be delegated by the Director to whichever Bureau or Bureau Head in the Department that the Director directs.</text>
       </para>
       <annotations>
-        <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §143</annotation>
-        <annotation doc="City of Balt., Md., Ord. 67-1091" type="History">Ord. 67-1091</annotation>
-        <annotation doc="City of Balt., Md., Ord. 68-152" type="History">Ord. 68-152</annotation>
-        <annotation doc="City of Balt., Md., Ord. 75-816" type="History">Ord. 75-816</annotation>
-        <annotation doc="City of Balt., Md., Ord. 79-1210" type="History">Ord. 79-1210</annotation>
-        <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
-        <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         <annotation type="Editor's Notes">
           <text>Ord. 15-435 repealed '' 17-3 through 17-7, which described no-longer extant Bureaus,</text>
           <text>and renumbered § 17-8 to be § 17-3.</text>
@@ -4174,6 +4256,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-3</num>
       <heading>Appointment of Bureau Heads and Assistant Bureau Heads.</heading>
       <para>
@@ -4201,6 +4284,7 @@
     <num>18</num>
     <heading>Disaster Control and Civil Defense</heading>
     <section>
+      <prefix>§</prefix>
       <num>18-1</num>
       <heading>Office of Disaster Control and Civil Defense.</heading>
       <para>
@@ -4219,6 +4303,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-2</num>
       <heading>Director of Office.</heading>
       <para>
@@ -4244,6 +4329,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-3</num>
       <heading>Personnel.</heading>
       <para>
@@ -4267,6 +4353,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-4</num>
       <heading>Property.</heading>
       <para>
@@ -4305,6 +4392,7 @@
     <num>19</num>
     <heading>Office of Intergovernmental Research</heading>
     <section>
+      <prefix>§</prefix>
       <num>19-1</num>
       <heading>Office created; function.</heading>
       <para>
@@ -4323,6 +4411,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-2</num>
       <heading>Director — appointment; term.</heading>
       <para>
@@ -4365,6 +4454,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-3</num>
       <heading>Director — qualifications; devotion to duties.</heading>
       <para>
@@ -4398,6 +4488,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-4</num>
       <heading>Staff; supplies; agency assistance.</heading>
       <para>
@@ -4426,6 +4517,7 @@
     <num>20</num>
     <heading>Baltimore City Commission for Women</heading>
     <section>
+      <prefix>§</prefix>
       <num>20-1</num>
       <heading>Commission established.</heading>
       <para>
@@ -4475,6 +4567,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-2</num>
       <heading>Terms, compensation, vacancies.</heading>
       <para>
@@ -4516,6 +4609,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-3</num>
       <heading>Officers; committees.</heading>
       <para>
@@ -4542,6 +4636,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-4</num>
       <heading>Meetings; quorum.</heading>
       <para>
@@ -4586,6 +4681,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-5</num>
       <heading>Personnel; budget.</heading>
       <para>
@@ -4633,6 +4729,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-6</num>
       <heading>Powers and duties.</heading>
       <para>
@@ -4735,6 +4832,7 @@
     <num>21</num>
     <heading>Neighborhood Block Watch Signs</heading>
     <section>
+      <prefix>§</prefix>
       <num>21-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -4768,6 +4866,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-2</num>
       <heading>Legislative findings.</heading>
       <para>
@@ -4792,6 +4891,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-3</num>
       <heading>Program established; procedure.</heading>
       <para>
@@ -4847,6 +4947,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-4</num>
       <heading>Signs.</heading>
       <text>The neighborhood group, group of residents, or community association which has received approval for the installation of the Neighborhood Block Watch sign shall purchase signs approved by the Police Commissioner and all other material necessary to the installation of the signs.  The signs shall be installed by the Department of Transportation.  Any person(s) or organizations may volunteer to pay the fee.</text>
@@ -4857,6 +4958,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-5</num>
       <heading>Administration of program.</heading>
       <text>The Police Commissioner, in consultation with the Director of Transportation and the Director of Finance, shall promulgate rules necessary to carry out the provisions of this subtitle.  The Police Commissioner shall also administer the program.</text>
@@ -4876,6 +4978,7 @@
       <num>I</num>
       <heading>Definitions</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -4918,7 +5021,7 @@
       </section>
       <section>
         <num>22-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4926,6 +5029,7 @@
       <num>II</num>
       <heading>Youth Commission</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-3</num>
         <heading>Purpose.</heading>
         <text>The purpose of this Part II is to allow youth the opportunity to provide advice, recommendations, and information for the Mayor, the City Council, and municipal agencies on the development of coordinated community and government policies, programs, and services that support children, youth, and their families.</text>
@@ -4936,6 +5040,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-4</num>
         <heading>Commission established.</heading>
         <text>There is a Baltimore City Youth Commission.</text>
@@ -4946,6 +5051,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-5</num>
         <heading>Composition.</heading>
         <para>
@@ -5058,6 +5164,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-6</num>
         <heading>Terms, organization, meetings, etc.</heading>
         <para>
@@ -5123,16 +5230,17 @@
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission may adopt rules and regulations to govern its meetings and operations.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (e) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §211(a)(4) - (9)</annotation>
           <annotation doc="City of Balt., Md., Ord. 86-781" type="History">Ord. 86-781</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-820" type="History">Ord. 04-820</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-503" type="History">Ord. 16-503</annotation>
           <annotation type="History">Text Conformed 02/09/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (e) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-7</num>
         <heading>Commission duties.</heading>
         <text>The Commission shall:</text>
@@ -5192,7 +5300,7 @@
       </section>
       <section>
         <num>22-8</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5200,6 +5308,7 @@
       <num>III</num>
       <heading>Office of Children and Family Success</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-9</num>
         <heading>Office established.</heading>
         <text>There is an Office of Children and Family Success in the Office of the Mayor.</text>
@@ -5211,6 +5320,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-10</num>
         <heading>Director – appointment.</heading>
         <text>The Director of the Office is appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
@@ -5221,6 +5331,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-11</num>
         <heading>Director – powers and duties.</heading>
         <text>The Director shall:</text>
@@ -5277,6 +5388,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-12</num>
         <heading>Staff and budget.</heading>
         <para>
@@ -5297,7 +5409,7 @@
       </section>
       <section>
         <num>22-13 to 22-14</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5305,6 +5417,7 @@
       <num>IV</num>
       <heading>Trauma-Informed Care; Trauma-Responsiveness</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-15</num>
         <heading>Trauma-informed care initiative.</heading>
         <text>In addition to any other duties set forth in this subtitle, it is the duty of the Office to coordinate a citywide initiative to prioritize the trauma-responsive and trauma-informed delivery of city services impacting children, youth, and families.</text>
@@ -5313,6 +5426,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-16</num>
         <heading>Trauma-Informed Care Task Force – Established.</heading>
         <text>There is a Baltimore City Trauma-Informed Care Task Force.</text>
@@ -5321,6 +5435,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-17</num>
         <heading>Trauma-Informed Care Task Force – Composition.</heading>
         <para>
@@ -5460,6 +5575,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-18</num>
         <heading>Trauma-Informed Care Task Force – Terms, organization, etc.</heading>
         <para>
@@ -5521,6 +5637,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-19</num>
         <heading>Trauma-Informed Care Task Force – Staff.</heading>
         <text>The Office shall provide adequate staff for the Task Force to carry out its duties.</text>
@@ -5529,6 +5646,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-20</num>
         <heading>Trauma-Informed Care Task Force – Duties.</heading>
         <text>The Task Force shall:</text>
@@ -5565,6 +5683,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-21</num>
         <heading>Trauma-informed care training.</heading>
         <para>
@@ -5733,6 +5852,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-22</num>
         <heading>Annual report.</heading>
         <text>On or before June 30 of each year, utilizing its established evaluation and assessment metrics and its expertise, the Task Force shall submit a report to the Mayor and City Council containing:</text>
@@ -5759,6 +5879,7 @@
     <num>23</num>
     <heading>Mayor's Commission on Disabilities</heading>
     <section>
+      <prefix>§</prefix>
       <num>23-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -5768,9 +5889,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -5794,6 +5913,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-2</num>
       <heading>Purpose.</heading>
       <text>It is the purpose of this Commission to:</text>
@@ -5815,6 +5935,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-3</num>
       <heading>Commission established.</heading>
       <text>There is a Mayor's Commission on Disabilities.</text>
@@ -5824,6 +5945,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-4</num>
       <heading>Members; associates.</heading>
       <para>
@@ -5949,6 +6071,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-5</num>
       <heading>Terms, organization, etc.</heading>
       <para>
@@ -6025,6 +6148,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-6</num>
       <heading>Duties.</heading>
       <text>The Commission shall:</text>
@@ -6106,6 +6230,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-7</num>
       <heading>Director; staff; budget.</heading>
       <para>
@@ -6134,6 +6259,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-8</num>
       <heading>Reports.</heading>
       <para>
@@ -6157,6 +6283,7 @@
     <num>24</num>
     <heading>Overnight Shelters</heading>
     <section>
+      <prefix>§</prefix>
       <num>24-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -6191,6 +6318,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-2</num>
       <heading>Declaration of policy.</heading>
       <text>In the interest of preventing human suffering and reducing the costs of providing medical care and police protection, and in recognition of the need of all persons to adequate overnight shelter, it is the public policy of the City of Baltimore to assist the private sector in providing adequate overnight shelter and services for all homeless persons in Baltimore requesting such shelter and willing to abide by reasonable regulations governing the use of shelter facilities.</text>
@@ -6200,6 +6328,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24-3</num>
       <heading>Annual assessments.</heading>
       <text>On or before October 31 of each year, the Office of Homeless Services shall publish an assessment of:</text>
@@ -6219,7 +6348,7 @@
     </section>
     <section>
       <num>24-4</num>
-      <heading>{Repealed by Ord. 02-309.}</heading>
+      <reason>Repealed by Ord. 02-309.</reason>
     </section>
   </container>
   <container>
@@ -6227,6 +6356,7 @@
     <num>25</num>
     <heading>Confiscated Assets for Neighborhoods</heading>
     <section>
+      <prefix>§</prefix>
       <num>25-1</num>
       <heading>Program established.</heading>
       <para>
@@ -6244,6 +6374,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-2</num>
       <heading>Funding.</heading>
       <para>
@@ -6261,6 +6392,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-3</num>
       <heading>Applications.</heading>
       <para>
@@ -6278,6 +6410,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-4</num>
       <heading>Review by community relations council.</heading>
       <para>
@@ -6295,6 +6428,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-5</num>
       <heading>Decisions by Office of Criminal Justice.</heading>
       <para>
@@ -6312,6 +6446,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-6</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -6341,9 +6476,9 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 09-101" type="History">Ord. 09-101</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
   </container>
@@ -6352,6 +6487,7 @@
     <num>26</num>
     <heading>Mayor's Task Force on Community Collaboration to Overcome Violence</heading>
     <section>
+      <prefix>§</prefix>
       <num>26-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -6361,9 +6497,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -6395,6 +6529,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-2</num>
       <heading>Purpose.</heading>
       <text>It is the purpose of this subtitle to:</text>
@@ -6428,6 +6563,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-3</num>
       <heading>Task Force created.</heading>
       <text>There is a Mayor's Task Force on Community Collaboration to Overcome Violence.</text>
@@ -6437,6 +6573,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-4</num>
       <heading>Composition.</heading>
       <para>
@@ -6579,6 +6716,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-5</num>
       <heading>Terms, organization, meetings, etc.</heading>
       <para>
@@ -6647,6 +6785,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-6</num>
       <heading>Duties.</heading>
       <text>The Task Force shall:</text>
@@ -6730,6 +6869,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-7</num>
       <heading>Staff; funds.</heading>
       <para>
@@ -6748,6 +6888,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-8</num>
       <heading>Reports.</heading>
       <para>
@@ -6776,6 +6917,7 @@
     <num>27</num>
     <heading>Good Samaritan: Citizen Injured While Aiding Police</heading>
     <section>
+      <prefix>§</prefix>
       <num>27-1</num>
       <heading>Policy.</heading>
       <text>It is declared to be the policy of the Mayor and City Council of Baltimore, within the limits hereinafter prescribed, to compensate certain private citizens or, in case of death, certain survivors, where injury, property damage, or death result from assisting in law enforcement activities.</text>
@@ -6785,6 +6927,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-2</num>
       <heading>Board of Estimates may make awards.</heading>
       <para>
@@ -6849,6 +6992,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-3</num>
       <heading>Limitations on award.</heading>
       <para>
@@ -6935,6 +7079,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-4</num>
       <heading>Procedures.</heading>
       <para>
@@ -6970,17 +7115,19 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-5</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Estimates may adopt and from time to time change reasonable rules and regulations for the administration of this section which are not in conflict with the intent and specific wording hereof.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §140(e)</annotation>
         <annotation doc="City of Balt., Md., Ord. 67-1126" type="History">Ord. 67-1126</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-6</num>
       <heading>Assignment and release.</heading>
       <text>Before any payment is made under this subtitle, the claimant:</text>
@@ -6998,6 +7145,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27-7</num>
       <heading>Authorization reduced by like State award.</heading>
       <text>In the event that the State enacts legislation on the same general subject covered by this subtitle, the amounts authorized hereunder shall be reduced by the amount of any benefit paid or payable under such State law.</text>
@@ -7012,6 +7160,7 @@
     <num>28</num>
     <heading>Child First Authority</heading>
     <section>
+      <prefix>§</prefix>
       <num>28-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -7040,6 +7189,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>28-2</num>
       <heading>Authority established; purpose.</heading>
       <para>
@@ -7058,6 +7208,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>28-3</num>
       <heading>Powers of Authority.</heading>
       <para>
@@ -7135,6 +7286,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>28-4</num>
       <heading>Limitations on Authority.</heading>
       <para>
@@ -7177,6 +7329,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>28-5</num>
       <heading>Board of Directors.</heading>
       <para>
@@ -7233,6 +7386,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>28-6</num>
       <heading>Executive Director.</heading>
       <para>
@@ -7298,9 +7452,10 @@
     <heading>Violence Prevention</heading>
     <section>
       <num>29-1 to 29-9</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-10</num>
       <heading>Biennial violence prevention strategy plan.</heading>
       <para>
@@ -7462,6 +7617,7 @@
     <num>29A</num>
     <heading>Public Safety Apprenticeship Program</heading>
     <section>
+      <prefix>§</prefix>
       <num>29A-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -7551,6 +7707,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29A-2</num>
       <heading>Program establishment.</heading>
       <para>
@@ -7816,6 +7973,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29A-3</num>
       <heading>Program funding.</heading>
       <para>
@@ -7830,6 +7988,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29A-4</num>
       <heading>Compensation.</heading>
       <para>
@@ -7844,6 +8003,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29A-5</num>
       <heading>Annual Report.</heading>
       <para>
@@ -7926,6 +8086,7 @@
     <num>30</num>
     <heading>Medical Treatment For Service-Connected Disabilities of Retired Policemen and Firemen</heading>
     <section>
+      <prefix>§</prefix>
       <num>30-1</num>
       <heading>Program established.</heading>
       <para>
@@ -7944,6 +8105,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-2</num>
       <heading>Delegation of implementation.</heading>
       <para>
@@ -7970,6 +8132,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-3</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -8004,6 +8167,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-4</num>
       <heading>Procedures.</heading>
       <para>
@@ -8042,6 +8206,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-5</num>
       <heading>Other payments as offset.</heading>
       <text>Any other payments now or hereafter financed wholly or in part from public funds, including but not limited to workmen's compensation, intended to meet the same expense or provide the same service with respect to the same medical condition, shall serve as an offset against the payments herein provided.</text>
@@ -8051,6 +8216,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-6</num>
       <heading>Award.</heading>
       <para>
@@ -8069,6 +8235,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30-7</num>
       <heading>Funding.</heading>
       <para>
@@ -8092,6 +8259,7 @@
     <num>31</num>
     <heading>Occupational Medical Service and Occupational Safety</heading>
     <section>
+      <prefix>§</prefix>
       <num>31-1</num>
       <heading>Occupational Medical Service – established.</heading>
       <text>There is a City of Baltimore Occupational Medical Service in the Department of Finance, Office of Risk Management.</text>
@@ -8103,6 +8271,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>31-2</num>
       <heading>Occupational Medical Service – duties.</heading>
       <text>The Occupational Medical Service shall:</text>
@@ -8155,9 +8324,10 @@
     </section>
     <section>
       <num>31-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>31-4</num>
       <heading>Division of Occupational Safety — established.</heading>
       <text>There is a Division of Occupational Safety in the Department of Finance, Office of Risk Management.</text>
@@ -8169,6 +8339,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>31-5</num>
       <heading>Division of Occupational Safety — duties.</heading>
       <text>The Division of Occupational Safety shall:</text>
@@ -8216,6 +8387,7 @@
     <num>32</num>
     <heading>Social Services Commission</heading>
     <section>
+      <prefix>§</prefix>
       <num>32-1</num>
       <heading>Commission established.</heading>
       <text>There is a Social Services Commission, as established in Article VII, § 58 of the City Charter.</text>
@@ -8224,6 +8396,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-2</num>
       <heading>Composition.</heading>
       <text>The Commission comprises the following 13 members:</text>
@@ -8248,6 +8421,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-3</num>
       <heading>Tenure.</heading>
       <para>
@@ -8265,6 +8439,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-4</num>
       <heading>President.</heading>
       <para>
@@ -8282,6 +8457,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-5</num>
       <heading>Powers and duties.</heading>
       <text>The Commission has the powers and duties prescribed by State and City law.</text>
@@ -8299,6 +8475,7 @@
       <num>1</num>
       <heading>General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>33-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -8335,9 +8512,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>
-            <em>{Repealed}</em>
-          </text>
+          <reason>Repealed</reason>
         </para>
         <para>
           <num>(g)</num>
@@ -8345,13 +8520,13 @@
           <text>"Radioactive materials" are any radioactive materials, or their radioactive by-products, which are generated, refined, or made radioactive by any government agency or pursuant to federal or state government contract or license, and including that which the federal government classified as low-level radioactive waste as of January 1, 1989, but which may be classified as below regulatory concern after that date.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Article VII, '' 111 through 113 of the City Charter were repealed and the Development Commission abolished by Res. 00-010, ratified November 2000.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 3, §1</annotation>
           <annotation doc="City of Balt., Md., Ord. 92-012" type="History">Ord. 92-012</annotation>
           <annotation doc="City of Balt., Md., Ord. 92-013" type="History">Ord. 92-013</annotation>
           <annotation doc="City of Balt., Md., Ord. 92-014" type="History">Ord. 92-014</annotation>
           <annotation doc="City of Balt., Md., Ord. 92-015" type="History">Ord. 92-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation type="Editor's Notes">Article VII, '' 111 through 113 of the City Charter were repealed and the Development Commission abolished by Res. 00-010, ratified November 2000.</annotation>
         </annotations>
       </section>
     </container>
@@ -8360,6 +8535,7 @@
       <num>2</num>
       <heading>Nuclear Weapons</heading>
       <section>
+        <prefix>§</prefix>
         <num>33-2</num>
         <heading>Exclusions.</heading>
         <text>Nothing in this Part shall be construed to prohibit:</text>
@@ -8397,6 +8573,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-3</num>
         <heading>Nuclear weapons work prohibited.</heading>
         <para>
@@ -8420,6 +8597,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-4</num>
         <heading>Redirection of resources towards human needs.</heading>
         <para>
@@ -8468,6 +8646,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-5</num>
         <heading>Nuclear-free zone signs.</heading>
         <para>
@@ -8486,6 +8665,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-6</num>
         <heading>Civil enforcement.</heading>
         <text>Any taxpayer domiciled in the City of Baltimore, any person aggrieved by a violation of this Part, or the Mayor and City Council of Baltimore, is authorized to institute an action in the appropriate court of law having jurisdiction, seeking declaratory, injunctive or other appropriate judicial relief for the purpose of enforcing this Part and enjoining or restraining any violations of this Part.</text>
@@ -8500,6 +8680,7 @@
       <num>3</num>
       <heading>Nuclear-Free Purchasing</heading>
       <section>
+        <prefix>§</prefix>
         <num>33-7</num>
         <heading>Nuclear-free purchasing by City.</heading>
         <text>Whenever practicable, and subject to approval by the Board of Estimates, all City departments, agencies, boards, commissions, officers, and employees who purchase or lease goods and services for the City of Baltimore shall make good faith efforts not to contract for, purchase, or lease goods or services produced, sold, distributed, or supplied by manufacturers of nuclear weapons or components.</text>
@@ -8514,6 +8695,7 @@
       <num>4</num>
       <heading>Disposal of Radioactive Materials</heading>
       <section>
+        <prefix>§</prefix>
         <num>33-8</num>
         <heading>Exclusions.</heading>
         <text>Nothing in this Part shall be construed to prohibit:</text>
@@ -8539,6 +8721,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-9</num>
         <heading>Disposal of radioactive materials prohibited.</heading>
         <text>Except as specifically exempted in this Part, no person shall incinerate or dispose of radioactive materials, for any purpose, within Baltimore City or within landfills or incinerators owned or licensed by Baltimore City.</text>
@@ -8548,6 +8731,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-10</num>
         <heading>Penalties.</heading>
         <para>
@@ -8571,6 +8755,7 @@
       <num>5</num>
       <heading>Transportation of Radioactive Materials</heading>
       <section>
+        <prefix>§</prefix>
         <num>33-11</num>
         <heading>Exclusions.</heading>
         <text>Nothing in this Part shall be construed to prohibit:</text>
@@ -8600,6 +8785,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>33-12</num>
         <heading>Restrictions on transportation of radioactive materials.</heading>
         <para>
@@ -8640,6 +8826,7 @@
     <num>34</num>
     <heading>Baltimore City Office of Sustainability</heading>
     <section>
+      <prefix>§</prefix>
       <num>34-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -8709,9 +8896,10 @@
     </section>
     <section>
       <num>34-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-3</num>
       <heading>Office established.</heading>
       <para>
@@ -8729,6 +8917,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-4</num>
       <heading>Sustainability Manager.</heading>
       <text>The Director of Planning shall employ a Sustainability Manager.</text>
@@ -8737,6 +8926,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-5</num>
       <heading>Staff and consultants.</heading>
       <text>The Director may employ a staff and may contract for consultants and other experts as provided in the Ordinance of Estimates.</text>
@@ -8746,9 +8936,10 @@
     </section>
     <section>
       <num>34-6</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-7</num>
       <heading>Mission of Office.</heading>
       <para>
@@ -8794,9 +8985,10 @@
     </section>
     <section>
       <num>34-8</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-9</num>
       <heading>Sustainability and Environmental Management Program.</heading>
       <para>
@@ -8863,6 +9055,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-10</num>
       <heading>Support for other programs and policies.</heading>
       <para>
@@ -8900,6 +9093,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-11</num>
       <heading>Director's powers and duties – In general.</heading>
       <text>The Director shall:</text>
@@ -8940,6 +9134,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-12</num>
       <heading>Director's powers and duties – Rules and regulations.</heading>
       <para>
@@ -8965,10 +9160,10 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text subsection (b) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 07-484" type="History">Ord. 07-484</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
         <annotation doc="City of Balt., Md., Ord.  22-131" type="History">Ord.  22-131</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text subsection (b) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
   </container>
@@ -8977,6 +9172,7 @@
     <num>35</num>
     <heading>City Seal; City Slogan; Flags</heading>
     <section>
+      <prefix>§</prefix>
       <num>35-1</num>
       <heading>City Seal - established.</heading>
       <text>The seal heretofore provided and used, the impression on which is a representation of the Battle Monument, is hereby established and declared to have been and now to be the Seal of the Mayor and City Council of Baltimore.</text>
@@ -8991,6 +9187,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-2</num>
       <heading>City Seal - custody; fees.</heading>
       <para>
@@ -9022,6 +9219,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-3</num>
       <heading>City Seal - prohibited uses.</heading>
       <para>
@@ -9050,6 +9248,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-4</num>
       <heading>City Seal - motor vehicles.</heading>
       <text>Nothing in this subtitle shall be construed to prevent or affect the use of, by a resident of Baltimore City, a copy or facsimile of the Seal of the Mayor and City Council of Baltimore, if it is affixed to a motor vehicle where a registration plate is normally placed and if such use is not prohibited by the Motor Vehicle Laws of the State of Maryland.</text>
@@ -9061,6 +9260,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-5</num>
       <heading>City Slogan.</heading>
       <text>The phrase "Baltimore – Birthplace of The Star-Spangled Banner" is established and approved as the official slogan of the City of Baltimore.</text>
@@ -9069,6 +9269,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-6</num>
       <heading>City Flag.</heading>
       <text>The following described design, recommended by the aforesaid legally authorized "Flag Commission" <em>{cf. Ord. 14-507 and Preamble to Ord. 14-565}</em>, is hereby approved and established as the official "Flag of Baltimore City":</text>
@@ -9094,9 +9295,10 @@
     </section>
     <section>
       <num>35-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35-8</num>
       <heading>American flag on City buildings.</heading>
       <text>The superintendent of any of the public buildings belonging to and used by the municipal government of the City shall cause to be raised the American flag on the same:</text>
@@ -9123,6 +9325,7 @@
     <num>36</num>
     <heading>Commemorative Days</heading>
     <section>
+      <prefix>§</prefix>
       <num>36-1</num>
       <heading>Baltimore Day.</heading>
       <text>August 8 of each year shall be Baltimore Day in honor of Baltimore's founding on August 8, 1729.  The Mayor annually shall proclaim this day as Baltimore Day, to recognize this important moment in the City's history.</text>
@@ -9131,6 +9334,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-2</num>
       <heading>Henrietta Lacks Day.</heading>
       <text>August 1 of each year shall be Henrietta Lacks Day in honor of the birth on August 1, 1920 of Henrietta Lacks, whose cervical cancer cells were taken without her or her family's knowledge or consent to create the HeLa line of cells used to further medical science, including cures and treatments for diseases such as polio, cancer, and AIDS.  The Mayor annually shall proclaim this day as Henrietta Lacks Day to recognize this important moment in medical history.</text>
@@ -9144,6 +9348,7 @@
     <num>36A</num>
     <heading>Legal Holidays</heading>
     <section>
+      <prefix>§</prefix>
       <num>36A-1</num>
       <heading>Holidays specified.</heading>
       <para>
@@ -9161,6 +9366,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36A-2</num>
       <heading>Observance.</heading>
       <text>The City shall observe the legal holidays specified in § 36A-1 of this subtitle annually, in the same manner as it observes other legal holidays established from time to time by union contract,  by agency regulation, or by action of the Board of Estimates.</text>
@@ -9174,6 +9380,7 @@
     <num>37</num>
     <heading>Nonprofit Event Discount</heading>
     <section>
+      <prefix>§</prefix>
       <num>37-1</num>
       <heading>Discount on City services, permits, and equipment costs for nonprofit events.</heading>
       <para>
@@ -9248,6 +9455,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-2</num>
       <heading>Fees ineligible for discount.</heading>
       <text>The 50% discount required by this subtitle does not apply to:</text>
@@ -9272,13 +9480,14 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37-3</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 17-102" type="History">Ord. 17-102</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
   </container>
@@ -9287,6 +9496,7 @@
     <num>38</num>
     <heading>Municipal Identification</heading>
     <section>
+      <prefix>§</prefix>
       <num>38-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -9304,6 +9514,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-2</num>
       <heading>Findings; Legislative intent.</heading>
       <para>
@@ -9364,6 +9575,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-3</num>
       <heading>Program administration.</heading>
       <para>
@@ -9377,12 +9589,13 @@
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, MOIT may adopt rules and regulations to carry out this subtitle.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (b) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 16-586" type="History">Ord. 16-586</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (b) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-4</num>
       <heading>Issuance of identity cards.</heading>
       <para>
@@ -9407,6 +9620,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-5</num>
       <heading>Card content and design.</heading>
       <para>
@@ -9431,6 +9645,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-6</num>
       <heading>Availability of applications.</heading>
       <para>
@@ -9448,6 +9663,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-7</num>
       <heading>Language assistance services.</heading>
       <text>MOIT shall, consistent with all federal, state, and local laws, provide language assistance to address the needs of limited English proficient individuals in the administration of the municipal identity card program by implementing measures such as:</text>
@@ -9468,6 +9684,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-8</num>
       <heading>Eligibility for identity card.</heading>
       <para>
@@ -9599,9 +9816,10 @@
     </section>
     <section>
       <num>38-9</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-10</num>
       <heading>Confidentiality of application information.</heading>
       <para>
@@ -9631,6 +9849,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-11</num>
       <heading>Access to services.</heading>
       <para>
@@ -9668,9 +9887,10 @@
     </section>
     <section>
       <num>38-12</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-13</num>
       <heading>Counterfeit and fraudulent Baltimore City ID Cards.</heading>
       <para>
@@ -9705,6 +9925,7 @@
     <num>39</num>
     <heading>Equity Assessment Program</heading>
     <section>
+      <prefix>§</prefix>
       <num>39-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -9738,9 +9959,10 @@
     </section>
     <section>
       <num>39-2 to 39-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>39-6</num>
       <heading>Program initiated.</heading>
       <para>
@@ -9776,9 +9998,10 @@
     </section>
     <section>
       <num>39-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>39-8</num>
       <heading>Agency implementation – Equity coordinator.</heading>
       <text>Each agency must:</text>
@@ -9799,6 +10022,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>39-9</num>
       <heading>Agency implementation – Bill reports.</heading>
       <text>Whenever an agency reports to the City Council on a proposed ordinance or resolution, the agency shall include in that report the results of an equity assessment of the proposal's impact on its operations.</text>
@@ -9807,6 +10031,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>39-10</num>
       <heading>Agency implementation – Capital budget scoring.</heading>
       <text>The Director of Planning shall conduct an equity assessment on any proposed capital budget and score the proposed projects based on that assessment.  The results of each proposed capital budget shall be published on the Department of Planning's Website.</text>
@@ -9815,6 +10040,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>39-11</num>
       <heading>Annual Equity Report.</heading>
       <para>
@@ -9869,6 +10095,7 @@
     <num>40</num>
     <heading>Environmental Control Board</heading>
     <section>
+      <prefix>§</prefix>
       <num>40-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -9918,9 +10145,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §295</annotation>
@@ -9931,6 +10156,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-2</num>
       <heading>Board established.</heading>
       <para>
@@ -10045,6 +10271,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-3</num>
       <heading>General Board functions.</heading>
       <para>
@@ -10076,6 +10303,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-4</num>
       <heading>Executive Director; staff.</heading>
       <para>
@@ -10101,6 +10329,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-5</num>
       <heading>General jurisdiction of Board.</heading>
       <text>The Board has full authority to enforce, in accordance with the provisions of this subtitle, the sanitation, environmental, health, safety, and other quality-of-life provisions of law listed in § 40-14 of this subtitle, including any rules and regulations adopted under them.</text>
@@ -10110,6 +10339,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-6</num>
       <heading>Rulemaking authority.</heading>
       <para>
@@ -10142,6 +10372,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-7</num>
       <heading>Environmental Citations.</heading>
       <para>
@@ -10261,6 +10492,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-8</num>
       <heading>Default by person cited.</heading>
       <para>
@@ -10333,6 +10565,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-9</num>
       <heading>Administrative adjudications.</heading>
       <para>
@@ -10359,6 +10592,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-10</num>
       <heading>Judicial and appellate review.</heading>
       <para>
@@ -10379,6 +10613,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-11</num>
       <heading>Enforcement of Board orders.</heading>
       <para>
@@ -10418,6 +10653,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-12</num>
       <heading>Judicial assistance in enforcement.</heading>
       <text>The Board may apply to a court of competent jurisdiction for enforcement of any decision, order, or subpoena issued by the Board.</text>
@@ -10427,6 +10663,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-13</num>
       <heading>Subtitle not exclusive.</heading>
       <text>The issuance of an environmental citation does not preclude pursuit of any other remedy or enforcement action authorized by law.</text>
@@ -10436,6 +10673,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40-14</num>
       <heading>Violations to which subtitle applies.</heading>
       <para>
@@ -11856,6 +12094,7 @@
     <num>41</num>
     <heading>Civil Citations</heading>
     <section>
+      <prefix>§</prefix>
       <num>41-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -11883,9 +12122,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
@@ -11893,6 +12130,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-2</num>
       <heading>Subtitle not exclusive.</heading>
       <text>The issuance and enforcement of a civil citation under this subtitle does not preclude pursuit of any other remedy or enforcement action authorized by law.</text>
@@ -11901,16 +12139,18 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-3</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner, in consultation with the Director of Finance, may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">Cf. Editor’s Note to § 40-6 of this article.</annotation>
         <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
+        <annotation type="Editor's Notes">Cf. Editor’s Note to § 40-6 of this article.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-4</num>
       <heading>Authority to issue citation.</heading>
       <para>
@@ -11928,6 +12168,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-5</num>
       <heading>Form, etc., of citation.</heading>
       <para>
@@ -11978,6 +12219,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-6</num>
       <heading>Service; copies.</heading>
       <para>
@@ -12019,6 +12261,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-7</num>
       <heading>Tenor of citation.</heading>
       <para>
@@ -12044,6 +12287,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-8</num>
       <heading>Payment of fine.</heading>
       <para>
@@ -12068,6 +12312,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-9</num>
       <heading>Election to stand trial.</heading>
       <para>
@@ -12098,6 +12343,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-10</num>
       <heading>Default.</heading>
       <para>
@@ -12164,6 +12410,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-11</num>
       <heading>Adjudication by District Court.</heading>
       <para>
@@ -12239,6 +12486,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-12</num>
       <heading>Enforcement of court verdict.</heading>
       <para>
@@ -12256,6 +12504,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-13</num>
       <heading>Offenses to which subtitle applies – General.</heading>
       <para>
@@ -12285,6 +12534,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-14</num>
       <heading>Offenses to which subtitle applies – Listing.</heading>
       <para>
@@ -13249,6 +13499,7 @@
     <num>49</num>
     <heading>Commission on HIV/AIDS</heading>
     <section>
+      <prefix>§</prefix>
       <num>49-1</num>
       <heading>Commission established.</heading>
       <text>There is a Commission on HIV/AIDS.</text>
@@ -13257,6 +13508,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-2</num>
       <heading>Members.</heading>
       <para>
@@ -13363,6 +13615,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-3</num>
       <heading>Terms, organization, etc.</heading>
       <para>
@@ -13421,6 +13674,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-4</num>
       <heading>Duties.</heading>
       <text>The Commission shall:</text>
@@ -13458,6 +13712,7 @@
     <num>50</num>
     <heading>Baltimore Benefits Commission</heading>
     <section>
+      <prefix>§</prefix>
       <num>50-1</num>
       <heading>Commission established.</heading>
       <text>There is a Baltimore Benefits Commission.</text>
@@ -13466,6 +13721,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>50-2</num>
       <heading>Members.</heading>
       <para>
@@ -13588,6 +13844,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>50-3</num>
       <heading>Organization, Meetings, etc.</heading>
       <para>
@@ -13624,6 +13881,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>50-4</num>
       <heading>Staff.</heading>
       <text>In consultation with the Commission, the Director of Finance shall assign staff from the Department of Finance to assist the Commission in its efforts.</text>
@@ -13632,6 +13890,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>50-5</num>
       <heading>Duties.</heading>
       <text>The Commission shall:</text>
@@ -13656,6 +13915,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>50-6</num>
       <heading>Cooperation with Commission.</heading>
       <para>
@@ -13681,6 +13941,7 @@
       <annotation type="Editor's Notes">Ordinance 06-362 (effective January 1, 2007) designated this new subtitle to be “Subtitle 49”.  That number, however, was already spoken for.  Hence the placement here, with a different number.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>51-1</num>
       <heading>"Veteran" defined.</heading>
       <text>In this subtitle, "veteran" means a person who:</text>
@@ -13713,6 +13974,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-2</num>
       <heading>Commission established.</heading>
       <para>
@@ -13766,6 +14028,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-3</num>
       <heading>Purpose.</heading>
       <text>The Veterans Commission is dedicated to:</text>
@@ -13782,6 +14045,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-4</num>
       <heading>Terms, compensation, vacancies.</heading>
       <para>
@@ -13820,6 +14084,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-5</num>
       <heading>Officers; committees.</heading>
       <para>
@@ -13844,6 +14109,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-6</num>
       <heading>Meetings; quorum.</heading>
       <para>
@@ -13885,6 +14151,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-7</num>
       <heading>Personnel; budget.</heading>
       <para>
@@ -13930,6 +14197,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-8</num>
       <heading>Powers and duties.</heading>
       <para>
@@ -13984,6 +14252,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>51-9</num>
       <heading>Agency cooperation.</heading>
       <text>At the request of the Commission, all City officials and agencies shall cooperate with the Commission and extend the services and facilities that the Commission requires.</text>
@@ -13997,6 +14266,7 @@
     <num>52</num>
     <heading>Baltimore City Hispanic Commission</heading>
     <section>
+      <prefix>§</prefix>
       <num>52-1</num>
       <heading>Commission established.</heading>
       <para>
@@ -14051,6 +14321,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-2</num>
       <heading>Purpose.</heading>
       <text>The Hispanic Commission is dedicated to:</text>
@@ -14083,6 +14354,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-3</num>
       <heading>Terms, compensation, vacancies.</heading>
       <para>
@@ -14128,6 +14400,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-4</num>
       <heading>Officers; committees.</heading>
       <para>
@@ -14152,6 +14425,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-5</num>
       <heading>Meetings; quorum.</heading>
       <para>
@@ -14193,6 +14467,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-6</num>
       <heading>Personnel; budget.</heading>
       <para>
@@ -14238,6 +14513,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-7</num>
       <heading>Powers and duties.</heading>
       <para>
@@ -14324,6 +14600,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-8</num>
       <heading>Agency cooperation.</heading>
       <text>At the request of the Commission, all City officials and agencies shall cooperate with the Commission and extend the services and facilities that the Commission requires, to the extent that the officials and agencies are able to do so given their personnel and budgets as provided in the Ordinance of Estimates.</text>
@@ -14332,6 +14609,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>52-9</num>
       <heading>Annual report.</heading>
       <text>The Commission shall submit to the Mayor an annual report on its activities.</text>
@@ -14350,6 +14628,7 @@
     <num>55</num>
     <heading>Mayor's Anti-Animal Abuse Advisory Commission</heading>
     <section>
+      <prefix>§</prefix>
       <num>55-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -14367,6 +14646,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-2</num>
       <heading>Commission established.</heading>
       <text>There is a Mayor's Anti-Animal Abuse Advisory Commission.</text>
@@ -14375,6 +14655,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-3</num>
       <heading>Advisory Commission membership.</heading>
       <para>
@@ -14502,6 +14783,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-4</num>
       <heading>Terms, compensation, vacancies.</heading>
       <para>
@@ -14545,6 +14827,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-5</num>
       <heading>Chair; committees.</heading>
       <para>
@@ -14570,6 +14853,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-6</num>
       <heading>Meetings; quorum.</heading>
       <para>
@@ -14616,9 +14900,10 @@
     </section>
     <section>
       <num>55-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-8</num>
       <heading>Volunteers.</heading>
       <text>The Advisory Commission may engage the services of volunteer workers and consultants, without salary.</text>
@@ -14627,6 +14912,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-9</num>
       <heading>Budget.</heading>
       <text>The Advisory Commission  may expend funds as authorized in the Ordinance of Estimates.</text>
@@ -14635,6 +14921,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-10</num>
       <heading>Powers and duties.</heading>
       <para>
@@ -14699,9 +14986,10 @@
     </section>
     <section>
       <num>55-11</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-12</num>
       <heading>Agency assistance.</heading>
       <text>At the request of the Advisory Commission, all City officials and agencies must extend the services and facilities required for the performance of the Advisory Commission's duties, to the extent that those officials and agencies are able to do so given their personnel and budgets.</text>
@@ -14710,6 +14998,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>55-13</num>
       <heading>Annual reports.</heading>
       <text>The Advisory Commission must submit an annual report on its activities to the Mayor and City Council.</text>
@@ -14723,6 +15012,7 @@
     <num>56</num>
     <heading>Citizens Advisory Commission for Public Safety</heading>
     <section>
+      <prefix>§</prefix>
       <num>56-1</num>
       <heading>Commission established.</heading>
       <text>There is a Baltimore City Citizens Advisory Commission for Public Safety.</text>
@@ -14731,6 +15021,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>56-2</num>
       <heading>Commission composition.</heading>
       <para>
@@ -14829,6 +15120,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>56-3</num>
       <heading>Term of appointed members.</heading>
       <para>
@@ -14866,6 +15158,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>56-4</num>
       <heading>Officers; Committees.</heading>
       <para>
@@ -14891,6 +15184,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>56-5</num>
       <heading>Meetings, quorum, etc.</heading>
       <para>
@@ -14925,6 +15219,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>56-6</num>
       <heading>Community Interaction Recommendations Reports.</heading>
       <para>
@@ -14997,6 +15292,7 @@
     <num>57</num>
     <heading>Office of LGBTQ Affairs</heading>
     <section>
+      <prefix>§</prefix>
       <num>57-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -15030,9 +15326,10 @@
     </section>
     <section>
       <num>57-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>57-3</num>
       <heading>Office established.</heading>
       <text>There is a Baltimore City Office of LGBTQ Affairs.</text>
@@ -15041,6 +15338,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>57-4</num>
       <heading>Director.</heading>
       <para>
@@ -15059,9 +15357,10 @@
     </section>
     <section>
       <num>57-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>57-6</num>
       <heading>LGBTQ Commission.</heading>
       <para>
@@ -15174,9 +15473,10 @@
     </section>
     <section>
       <num>57-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>57-8</num>
       <heading>Staff and budget.</heading>
       <para>
@@ -15194,6 +15494,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>57-9</num>
       <heading>Duties of the Office.</heading>
       <text>In collaboration and consultation with the Commission, the Office shall:</text>
@@ -15230,6 +15531,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>57-10</num>
       <heading>Annual report.</heading>
       <text>On or before June 30 of each year, the Office shall submit a report to the Mayor and City Council detailing:</text>
@@ -15254,6 +15556,7 @@
       <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 21-059, effective November 1, 2021, the date of its enactment..  Section 3 of Ord. 21-059 provides that the Ordinance “shall remain effective until a year after the date that it is enacted; and, immediately after that date, with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect”.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>58-1</num>
       <heading>Scope of subtitle.</heading>
       <text>This subtitle only applies to environmental citations issued to commercial properties for violations of:</text>
@@ -15286,6 +15589,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>58-2</num>
       <heading>Retention of records.</heading>
       <text>The original or a copy of a citation listed in §58-1 of this subtitle must be filed and retained in the records of:</text>
@@ -15302,6 +15606,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>58-3</num>
       <heading>Coordination of response.</heading>
       <text>Within 30 days of receipt of an environmental citation described in §58-1 of this subtitle, the City Administrator may coordinate a multi-agency, comprehensive code inspection of the cited premises, as specified in subsection §58-4 of this subtitle.</text>
@@ -15310,6 +15615,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>58-4</num>
       <heading>Multi-agency inspection team.</heading>
       <para>
@@ -15339,6 +15645,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>58-5</num>
       <heading>Monthly notice to Councilmembers.</heading>
       <text>No later than the 1<sup>st</sup> of each month, the City Administrator shall inform each councilmember of the number and specific locations of any multi-agency inspections conducted, if any, pursuant to this subtitle in the previous month within the respective councilmember's district.</text>
@@ -15347,6 +15654,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>58-6</num>
       <heading>Quarterly report.</heading>
       <text>The City Administrator shall submit a quarterly report to the Mayor and City Council detailing:</text>
@@ -15423,6 +15731,7 @@
       </annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>59-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -15494,6 +15803,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>59-2</num>
       <heading>Commission created; purpose; duties.</heading>
       <para>
@@ -15529,6 +15839,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>59-3</num>
       <heading>Members.</heading>
       <para>
@@ -15627,6 +15938,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>59-4</num>
       <heading>Terms; chair; removal.</heading>
       <para>
@@ -15661,6 +15973,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>59-5</num>
       <heading>Compensation; expenses; staff.</heading>
       <para>
@@ -15680,6 +15993,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>59-6</num>
       <heading>Meetings.</heading>
       <para>
@@ -15699,6 +16013,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>59-7</num>
       <heading>Biannual report.</heading>
       <para>
@@ -15758,6 +16073,7 @@
       </para>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>59-8</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission may adopt rules and regulations to carry out the provisions of this subtitle.</text>

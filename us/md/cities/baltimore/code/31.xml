@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Definitions; General Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Definitions — A to L.</heading>
       <para>
@@ -116,9 +117,7 @@
       </para>
       <para>
         <num>(m)</num>
-        <text>
-          <em>{Vacant}</em>
-        </text>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(n)</num>
@@ -160,6 +159,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Definitions — M to R.</heading>
       <para>
@@ -192,9 +192,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>
-          <em>{Vacant}</em>
-        </text>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(f)</num>
@@ -203,9 +201,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(h)</num>
@@ -275,6 +271,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Definitions — S to Z.</heading>
       <para>
@@ -397,9 +394,10 @@
     </section>
     <section>
       <num>1-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Purpose of article.</heading>
       <text>The purpose of this article is to:</text>
@@ -431,6 +429,7 @@
     <num>2</num>
     <heading>General Administration</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Director of Transportation.</heading>
       <para>
@@ -457,6 +456,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -478,7 +478,6 @@
         <text>Copies of all these rules, regulations, orders, and directives shall be filed and kept on record in the Department of Transportation.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1950, art. 38, §2(k)</annotation>
         <annotation type="Prior Codifications">1966, art. 31, §1(b)(1st, 4th sens.), §2(24)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 31, §1(b)(1st, 4th sens.), §2(24)</annotation>
@@ -487,9 +486,11 @@
         <annotation doc="City of Balt., Md., Ord. 57-1006" type="History">Ord. 57-1006</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         <annotation type="History">Text Conformed 02/28/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Records.</heading>
       <para>
@@ -529,6 +530,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-4</num>
       <heading>Employees, consultants, etc.</heading>
       <para>
@@ -560,6 +562,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-5</num>
       <heading>General powers and duties.</heading>
       <text>The Director of Transportation has full power and authority to do any and all of the following:</text>
@@ -711,6 +714,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-6</num>
       <heading>Parking restrictions and 1-way streets.</heading>
       <para>
@@ -781,6 +785,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-6.1</num>
       <heading>Temporary parking restrictions.</heading>
       <para>
@@ -849,6 +854,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-6.2</num>
       <heading>Temporary street space for pedestrians and cyclists.</heading>
       <para>
@@ -998,6 +1004,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-7</num>
       <heading>Request to nol pros citation.</heading>
       <para>
@@ -1030,6 +1037,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-8</num>
       <heading>Review of plans for buildings and facilities.</heading>
       <para>
@@ -1053,6 +1061,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-9</num>
       <heading>Street signs.</heading>
       <text>The function of placing and maintaining suitable signs bearing names of streets throughout the City is removed from the Bureau of Mechanical-Electrical Service and placed under the Director of Transportation.</text>
@@ -1066,9 +1075,10 @@
     </section>
     <section>
       <num>2-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-11</num>
       <heading>Inconsistent laws, etc.</heading>
       <text>Any and all laws, ordinances, and regulations and any and all parts of any and all laws, ordinances, and regulations in force in the City that are inconsistent with the provisions of this subtitle or with any rule, regulation, order, or directive adopted by the Director of Transportation under this subtitle are repealed to the extent of the inconsistency, and any and all laws, ordinances, and regulations and any and all parts of any and all laws, ordinances, and regulations in force in the City not inconsistent, amended, or superseded by the provisions of this subtitle or any rule, regulation, order, or directive adopted by the Director of Transportation remain in full force and effect.</text>
@@ -1081,7 +1091,7 @@
     </section>
     <section>
       <num>2-12</num>
-      <heading>{Repealed by Ord. 22-125}</heading>
+      <reason>Repealed by Ord. 22-125</reason>
       <annotations>
         <annotation type="Editor's Notes">See City General Provisions Article, § 1-214, for the Code-wide standard for severability.</annotation>
       </annotations>
@@ -1092,6 +1102,7 @@
     <num>3</num>
     <heading>General Prohibitions</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Defacing, etc., imitating, traffic devices.</heading>
       <text>It is unlawful for any person, without lawful authority, to wilfully deface, injure, imitate, move, or interfere with any signs, standards, post, safety zone, semaphore, tower, automatic signal, or any other traffic device, or any part of them, or with any directing lines or marks painted in the roadway, or on any curb or pavement, erected by authority of the City, or any directions, lines, or marks painted by authority of the City on any pavement, curb, or roadway for the purpose of directing traffic or parking vehicles.</text>
@@ -1107,6 +1118,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Noncompliance with traffic devices.</heading>
       <text>It is unlawful for any person to fail, neglect, or refuse to comply with any instruction or direction on any post, standard, sign, or with any directing lines or marks painted in the roadway, or on any curb or pavement, or other device erected by authority of the City for the regulation of traffic or parking on public highways.</text>
@@ -1122,6 +1134,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Violating rules.</heading>
       <text>It is unlawful for any person to violate any rule, regulation, order, or direction adopted by the Director of Transportation under this subtitle.</text>
@@ -1138,9 +1151,10 @@
     </section>
     <section>
       <num>3-4</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Penalties.</heading>
       <text>Any person violating any of the provisions of this subtitle shall be guilty of a misdemeanor and, upon conviction thereof in any court of competent jurisdiction, shall be fined for each and every offense not more than $100.</text>
@@ -1169,6 +1183,7 @@
       <num>1</num>
       <heading>Method of Parking</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-1</num>
         <heading>In general.</heading>
         <para>
@@ -1211,6 +1226,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-2</num>
         <heading>Motorcycles and motor bikes.</heading>
         <text>Notwithstanding the provisions of § 6-1 of this subtitle, in all cases where motor-driven 2- or 3-wheel vehicles known generally as motorcycles or motor bikes shall stand upon the streets of the City:</text>
@@ -1229,6 +1245,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-3</num>
         <heading>Obstructing free passage.</heading>
         <text>No vehicle shall be so parked or otherwise stopped as to prevent the free passage of other vehicles or street cars in both directions at the same time.</text>
@@ -1242,7 +1259,7 @@
       </section>
       <section>
         <num>6-4 to 6-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1250,6 +1267,7 @@
       <num>2</num>
       <heading>Places Prohibited</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-6</num>
         <heading>Fire hydrants, lanes, houses.</heading>
         <para>
@@ -1295,6 +1313,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-7</num>
         <heading>Limited-access highways.</heading>
         <text>No vehicle shall be permitted to stop at any limited-access highway within the confines of Baltimore City.</text>
@@ -1304,6 +1323,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-8</num>
         <heading>Entrances to parking lots or garages.</heading>
         <text>No vehicle shall be permitted to stand, at any time, on a street adjacent to the entrance to a public parking lot or garage, for a distance of 8 feet from each side of said entrance.</text>
@@ -1315,6 +1335,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-9</num>
         <heading>Space reserved for disabled persons.</heading>
         <para>
@@ -1370,6 +1391,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-10</num>
         <heading>Space reserved for small cars.</heading>
         <para>
@@ -1388,6 +1410,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-11</num>
         <heading>Private property.</heading>
         <para>
@@ -1406,6 +1429,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-12</num>
         <heading>Private driveways.</heading>
         <para>
@@ -1481,6 +1505,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-13</num>
         <heading>Public buildings.</heading>
         <para>
@@ -1520,6 +1545,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-14</num>
         <heading>Street cleaning routes.</heading>
         <para>
@@ -1556,6 +1582,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-15</num>
         <heading>Snow emergency routes.</heading>
         <para>
@@ -1593,6 +1620,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-16</num>
         <heading>Passenger and freight loading zones.</heading>
         <para>
@@ -1682,7 +1710,6 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">Paragraph (3)(ii)(B) of subsection (a) was added by Ordinance 14-237, in conjunction with that Ordinance’s comprehensive revision of Article 15, Subtitle 17 {“Street Vendors”}.  The addition here is effective February 28, 2015, the 30th day after the General Services Department filed its rules and regulations under revised Art. 15, § 17-4.</annotation>
           <annotation type="Prior Codifications">City Code, 1927, art. 4, §84</annotation>
           <annotation type="Prior Codifications">1950, art. 38, §68</annotation>
           <annotation type="Prior Codifications">1966, art. 31, §93</annotation>
@@ -1693,9 +1720,11 @@
           <annotation doc="City of Balt., Md., Ord. 76-006" type="History">Ord. 76-006</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-098" type="History">Ord. 13-098</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
+          <annotation type="Editor's Notes">Paragraph (3)(ii)(B) of subsection (a) was added by Ordinance 14-237, in conjunction with that Ordinance’s comprehensive revision of Article 15, Subtitle 17 {“Street Vendors”}.  The addition here is effective February 28, 2015, the 30th day after the General Services Department filed its rules and regulations under revised Art. 15, § 17-4.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-17</num>
         <heading>Valet parking zones.</heading>
         <para>
@@ -1734,6 +1763,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-17.1</num>
         <heading>Mobile vending zones.</heading>
         <para>
@@ -1756,6 +1786,7 @@
       <num>3</num>
       <heading>Waste Disposal</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-18</num>
         <heading>Stopping, etc., for unlawful dumping.</heading>
         <text>A person may not park, stop, or stand any vehicle on any street, highway, or alley of Baltimore City for the purpose of disposing waste or other material in violation of the Health Code of Baltimore City.</text>
@@ -1766,6 +1797,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-19</num>
         <heading>Stopping, etc., without solid waste license displayed.</heading>
         <text>A person may not park, stop, or stand any vehicle being used by a small hauler, as defined in Title 7 {"Waste Control"}, Subtitle 2 {"Solid Waste Collection"} of the Health Code, on any street, highway, or alley of Baltimore City unless its small hauler's license is displayed as required by that subtitle.</text>
@@ -1777,7 +1809,7 @@
       </section>
       <section>
         <num>6-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1785,6 +1817,7 @@
       <num>4</num>
       <heading>Continual or Continuous Parking</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-21</num>
         <heading>Continually depriving occupant of parking spot.</heading>
         <text>No specific vehicles shall be habitually parked in front of a building to the detriment of its use by the owner or occupant of such building.</text>
@@ -1797,6 +1830,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-22</num>
         <heading>Continuously parking in 1 spot.</heading>
         <para>
@@ -1850,7 +1884,7 @@
       </section>
       <section>
         <num>6-23 to 6-25</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -1858,6 +1892,7 @@
       <num>5</num>
       <heading>Commercial Vehicles and Trailers</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-26</num>
         <heading>Commercial vehicles.</heading>
         <para>
@@ -1930,6 +1965,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-27</num>
         <heading>Commercial trailers.</heading>
         <para>
@@ -1983,6 +2019,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-28</num>
         <heading>Vendor trucks.</heading>
         <para>
@@ -2026,12 +2063,13 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">This section was added by Ordinance 14-237, in conjunction with that Ordinance’s comprehensive revision of Article 15, Subtitle 17 {“Street Vendors”}.  In accordance with Section 4 of Ord. 14-237, the effective date of the section is February 28, 2015, the 30th day after the General Services Department filed its rules and regulations under revised Art. 15, § 17-4.</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-307" type="History">Ord. 14-307</annotation>
+          <annotation type="Editor's Notes">This section was added by Ordinance 14-237, in conjunction with that Ordinance’s comprehensive revision of Article 15, Subtitle 17 {“Street Vendors”}.  In accordance with Section 4 of Ord. 14-237, the effective date of the section is February 28, 2015, the 30th day after the General Services Department filed its rules and regulations under revised Art. 15, § 17-4.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-29</num>
         <heading>Camping trailers, mobile homes,  motor homes, and travel trailers.</heading>
         <para>
@@ -2099,7 +2137,7 @@
       </section>
       <section>
         <num>6-30</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -2107,6 +2145,7 @@
       <num>6</num>
       <heading>Central Business District</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-31</num>
         <heading>District established; boundaries.</heading>
         <text>A district is hereby established, to be designated and known as the "Central Business District", and this district shall embrace that portion of the City lying within and bounded by the following named streets, the boundary streets to be included – that is to say:</text>
@@ -2121,6 +2160,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-32</num>
         <heading>Advertising vehicles.</heading>
         <text>No vehicle designed or employed for the express purpose of advertising any exhibition, performance, article, or thing shall be permitted to park on any of the streets, lanes, or alleys included in the territory herein designated and described as the Central Business District.</text>
@@ -2133,6 +2173,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-33</num>
         <heading>Vehicles in narrow streets, alleys.</heading>
         <para>
@@ -2161,7 +2202,7 @@
       </section>
       <section>
         <num>6-34 to 6-35</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -2169,6 +2210,7 @@
       <num>7</num>
       <heading>Designated Municipal Property</heading>
       <section>
+        <prefix>§</prefix>
         <num>6-36</num>
         <heading>Stopping prohibited.</heading>
         <text>No motor vehicle may stop or be permitted to stop, at any time, on any of the areas that, from time to time, are specified in this subtitle, unless the vehicle conspicuously displays a permit, approved by the Director of Transportation and issued by the head, chairman, or president, as the case may be, of the municipal agency having jurisdiction over the particular area, authorizing the motor vehicle to stop on the particular area.</text>
@@ -2180,6 +2222,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-37</num>
         <heading>Areas where applicable.</heading>
         <para>
@@ -2191,21 +2234,21 @@
           <num>(b)</num>
           <heading>By Druid Health District Building.</heading>
           <text>The 2 areas adjoining or in close proximity to the Druid Health District Building, located on the southwest corner of North Avenue and Cumberland Street, and described as follows:</text>
-          <text>Beginning for the first area at the corner formed by the intersection of the northwest side of Cumberland Street, 66 feet wide and the northeast side of Pennsylvania Avenue, 66 feet wide and running thence binding on the northeast side of said Pennsylvania Avenue North 42\uF0B0-139'-00" West 139.0 feet; thence North 86\uF0B0-50'-20" East 77.0 feet to intersect the line of the northeast side of the bituminous concrete bumpers, there situate; thence binding on the line of the northeast side of said bituminous concrete bumpers and producing the same course, in all, South 42\uF0B0-26'-40" East 81.0 feet to intersect a line drawn parallel with and distant 9.0 feet northwesterly, measured at right angles from the northwest side of said Cumberland Street; thence binding on said line so drawn South 47\uF0B0-33'-20" West 16.0 feet; thence South 42\uF0B0-26'-40" East 9.0 feet to intersect the northwest side of said Cumberland Street and thence binding on the northwest side of said Cumberland Street South 47\uF0B0-33'-20" West 42.0 feet to the place of beginning.</text>
-          <text>Beginning for the second area at a point on the west side of Cumberland Street, as now laid out at the distance of South 03\uF0B0-09'-40" East about 6.50 feet from the southwest corner of Cumberland Street and North Avenue, 100 feet wide, said point being formed by the intersection of the west side of said Cumberland Street and the line of the north side of the bituminous concrete bumpers, there situate, produced easterly and running thence binding on the west and northwest sides of said Cumberland Street the two following courses and distances, namely, South 03\uF0B0-09'-40" East 16.40 feet and South 47\uF0B0-33'-20" West 60.0 feet to intersect a line drawn parallel with and distant 4.11 feet easterly, measured at right angles from the east face of the east wall of the Druid Health District Building, there situate; thence binding on said line so drawn North 03\uF0B0-09'-40" West 54.5 feet to intersect the line of the north side of the aforesaid bituminous concrete bumpers and thence binding on the line of the north side of said bituminous concrete bumpers and parallel with said North Avenue North 86\uF0B0-50'-20" East 46.0 feet to the place of beginning.</text>
+          <text>Beginning for the first area at the corner formed by the intersection of the northwest side of Cumberland Street, 66 feet wide and the northeast side of Pennsylvania Avenue, 66 feet wide and running thence binding on the northeast side of said Pennsylvania Avenue North 42°-139'-00" West 139.0 feet; thence North 86°-50'-20" East 77.0 feet to intersect the line of the northeast side of the bituminous concrete bumpers, there situate; thence binding on the line of the northeast side of said bituminous concrete bumpers and producing the same course, in all, South 42°-26'-40" East 81.0 feet to intersect a line drawn parallel with and distant 9.0 feet northwesterly, measured at right angles from the northwest side of said Cumberland Street; thence binding on said line so drawn South 47°-33'-20" West 16.0 feet; thence South 42°-26'-40" East 9.0 feet to intersect the northwest side of said Cumberland Street and thence binding on the northwest side of said Cumberland Street South 47°-33'-20" West 42.0 feet to the place of beginning.</text>
+          <text>Beginning for the second area at a point on the west side of Cumberland Street, as now laid out at the distance of South 03°-09'-40" East about 6.50 feet from the southwest corner of Cumberland Street and North Avenue, 100 feet wide, said point being formed by the intersection of the west side of said Cumberland Street and the line of the north side of the bituminous concrete bumpers, there situate, produced easterly and running thence binding on the west and northwest sides of said Cumberland Street the two following courses and distances, namely, South 03°-09'-40" East 16.40 feet and South 47°-33'-20" West 60.0 feet to intersect a line drawn parallel with and distant 4.11 feet easterly, measured at right angles from the east face of the east wall of the Druid Health District Building, there situate; thence binding on said line so drawn North 03°-09'-40" West 54.5 feet to intersect the line of the north side of the aforesaid bituminous concrete bumpers and thence binding on the line of the north side of said bituminous concrete bumpers and parallel with said North Avenue North 86°-50'-20" East 46.0 feet to the place of beginning.</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>By Western Health District Building.</heading>
           <text>The areas adjoining or in close proximity to the Western Health District Building, located on the northwest corner of Lombard and Penn Streets, and described as follows:</text>
-          <text>Beginning for the first area at a point on the north side of Lombard Street, 66 feet wide, at the distance of 79.56 feet westerly from the northwest corner of Lombard and Penn Streets and running thence binding on the north side of said Lombard Street South 87\uF0B0-10'-20" West 20.67 feet to intersect a line drawn parallel with and distant 100.17 feet westerly, measured at right angles from the west side of Penn Street, 55 feet wide thence binding on said line so drawn North 02\uF0B0-49'-40" West 108.96 feet, to intersect a line drawn parallel with and distant 108.96 feet northerly, measured at right angles from the north side of said Lombard Street; thence reversing said line so drawn and binding thereon North 87\uF0B0-10'-20" East 42.17 feet, to intersect a line drawn parallel with and distant 42.17 feet easterly, measured at right angles from the second line of this description; thence reversing said line so drawn and binding thereon South 02\uF0B0-49'-40" East 59.63 feet, to intersect a line drawn parallel with and distant 49.33 feet northerly from the north side of said Lombard Street, thence binding on said line so drawn South 87\uF0B0-10'-20" West 21.50 feet to intersect a line drawn parallel with and distant 20.67 feet easterly, measured at right angles from the second line of this description and thence reversing said line so drawn and binding thereon South 02\uF0B0-49'-40" East 49.33 feet to the place of beginning.</text>
-          <text>Beginning for the second area at a point on the east face of the westernmost wall of the Western Health District Building, known as No. 700 West Lombard Street, said point being distant North 02\uF0B049'-40" West 111.05 feet from the north side of Lombard Street, 66 feet wide, and South 87\uF0B0-10'-20" West 99.20 feet from the west side of Penn Street, 55 feet wide and running thence binding on the east face of the westernmost wall of said building and parallel with said Penn Street North 20\uF0B0-49'-40" West 42.05 feet; to intersect the south face of the northernmost wall of said building; thence binding on the south face of the north wall of said building and parallel with said Lombard Street North 87\uF0B0-10'-20" East 79.6 feet to intersect a line drawn parallel with and distant 19.60 feet, westerly, measured at right angles from the west side of said Penn Street; thence reversing said line so drawn and binding thereon South 02\uF0B0-49'-40" East 43.60 feet to intersect a line drawn parallel with and distant 109.50 feet northerly from the north side of said Lombard Street, thence binding on said line so drawn North 87\uF0B0-10'-20" East 18.46 feet to intersect the west face of the easternmost wall of said building: thence binding on the west face of the easternmost wall of said building South 02\uF0B0-49'-40" East 64.49 feet to intersect a line drawn parallel with and distant 45.01 feet northerly, measured at right angles from the north side of said Lombard Street; thence reversing said line so drawn and binding thereon South 87\uF0B0-10'-20" West 55.75 feet to intersect a line drawn parallel with and distant 57.06 feet westerly, measured at right angles from the west side of said Penn Street; thence binding on said line so drawn North 02\uF0B0-49'-40" West 65.75 feet to intersect a line drawn parallel with and distant 111.05 feet northerly measured at right angles from said Lombard Street and thence reversing said line so drawn and binding thereon South 87\uF0B0-10'-20" West 42.14 feet to the place of beginning.</text>
+          <text>Beginning for the first area at a point on the north side of Lombard Street, 66 feet wide, at the distance of 79.56 feet westerly from the northwest corner of Lombard and Penn Streets and running thence binding on the north side of said Lombard Street South 87°-10'-20" West 20.67 feet to intersect a line drawn parallel with and distant 100.17 feet westerly, measured at right angles from the west side of Penn Street, 55 feet wide thence binding on said line so drawn North 02°-49'-40" West 108.96 feet, to intersect a line drawn parallel with and distant 108.96 feet northerly, measured at right angles from the north side of said Lombard Street; thence reversing said line so drawn and binding thereon North 87°-10'-20" East 42.17 feet, to intersect a line drawn parallel with and distant 42.17 feet easterly, measured at right angles from the second line of this description; thence reversing said line so drawn and binding thereon South 02°-49'-40" East 59.63 feet, to intersect a line drawn parallel with and distant 49.33 feet northerly from the north side of said Lombard Street, thence binding on said line so drawn South 87°-10'-20" West 21.50 feet to intersect a line drawn parallel with and distant 20.67 feet easterly, measured at right angles from the second line of this description and thence reversing said line so drawn and binding thereon South 02°-49'-40" East 49.33 feet to the place of beginning.</text>
+          <text>Beginning for the second area at a point on the east face of the westernmost wall of the Western Health District Building, known as No. 700 West Lombard Street, said point being distant North 02°49'-40" West 111.05 feet from the north side of Lombard Street, 66 feet wide, and South 87°-10'-20" West 99.20 feet from the west side of Penn Street, 55 feet wide and running thence binding on the east face of the westernmost wall of said building and parallel with said Penn Street North 20°-49'-40" West 42.05 feet; to intersect the south face of the northernmost wall of said building; thence binding on the south face of the north wall of said building and parallel with said Lombard Street North 87°-10'-20" East 79.6 feet to intersect a line drawn parallel with and distant 19.60 feet, westerly, measured at right angles from the west side of said Penn Street; thence reversing said line so drawn and binding thereon South 02°-49'-40" East 43.60 feet to intersect a line drawn parallel with and distant 109.50 feet northerly from the north side of said Lombard Street, thence binding on said line so drawn North 87°-10'-20" East 18.46 feet to intersect the west face of the easternmost wall of said building: thence binding on the west face of the easternmost wall of said building South 02°-49'-40" East 64.49 feet to intersect a line drawn parallel with and distant 45.01 feet northerly, measured at right angles from the north side of said Lombard Street; thence reversing said line so drawn and binding thereon South 87°-10'-20" West 55.75 feet to intersect a line drawn parallel with and distant 57.06 feet westerly, measured at right angles from the west side of said Penn Street; thence binding on said line so drawn North 02°-49'-40" West 65.75 feet to intersect a line drawn parallel with and distant 111.05 feet northerly measured at right angles from said Lombard Street and thence reversing said line so drawn and binding thereon South 87°-10'-20" West 42.14 feet to the place of beginning.</text>
         </para>
         <para>
           <num>(d)</num>
           <heading>By Municipal Art Museum.</heading>
           <text>Those parking areas and driveways in close proximity to the Municipal Art Museum located within the following boundaries:</text>
-          <text>Beginning at a point located 20 feet west of the westerly service drive median in Charles Street and 8 feet north of a point in line with the end of said median at the northerly entry into Art Museum Drive from Charles Street thence extending S. 89\uF0B0-28'-29" W. a distance of 479.8 feet, thence extending S. 45\uF0B0-30'-46" W. a distance of 424.88 feet, thence S. 14\uF0B0-43'-12" a distance of 375 feet, thence in a northeasterly direction following the northerly building line of Art Museum Drive to the point of departure.</text>
+          <text>Beginning at a point located 20 feet west of the westerly service drive median in Charles Street and 8 feet north of a point in line with the end of said median at the northerly entry into Art Museum Drive from Charles Street thence extending S. 89°-28'-29" W. a distance of 479.8 feet, thence extending S. 45°-30'-46" W. a distance of 424.88 feet, thence S. 14°-43'-12" a distance of 375 feet, thence in a northeasterly direction following the northerly building line of Art Museum Drive to the point of departure.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1966, art. 31, §261</annotation>
@@ -2215,6 +2258,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-38</num>
         <heading>Warning notices.</heading>
         <para>
@@ -2235,6 +2279,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>6-39</num>
         <heading>Penalties.</heading>
         <para>
@@ -2269,6 +2314,7 @@
       <num>1</num>
       <heading>Administration</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-1</num>
         <heading>Authorizations.</heading>
         <para>
@@ -2301,6 +2347,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-2</num>
         <heading>Contracts.</heading>
         <text>The Board of Estimates, in accordance with the procedures outlined in the City Charter, may enter into one or more contracts for:</text>
@@ -2325,6 +2372,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-3</num>
         <heading>Types of metered parking.</heading>
         <para>
@@ -2349,6 +2397,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-4</num>
         <heading>Methods of installation.</heading>
         <para>
@@ -2389,6 +2438,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-5</num>
         <heading>Metered parking operations.</heading>
         <para>
@@ -2513,6 +2563,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-6</num>
         <heading>Display of hours, payment methods, and rates.</heading>
         <text>Each parking meter or multi-space parking zone shall contain a conspicuous notice that:</text>
@@ -2542,9 +2593,10 @@
       </section>
       <section>
         <num>7-7</num>
-        <heading>{Repealed by Ord. 16-537}</heading>
+        <reason>Repealed by Ord. 16-537</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-8</num>
         <heading>Setting rates and payment methods.</heading>
         <text>Notwithstanding any other provision of this article:</text>
@@ -2575,6 +2627,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-9</num>
         <heading>Rearrangements.</heading>
         <para>
@@ -2596,6 +2649,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-10</num>
         <heading>Maintenance.</heading>
         <para>
@@ -2631,6 +2685,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-11</num>
         <heading>Notice to Councilmember.</heading>
         <text>No new parking meter may be installed and no rate schedule may be established or modified until at least 30 days after written notice of the proposed action is given to the Councilmember who represents the affected area.</text>
@@ -2640,7 +2695,7 @@
       </section>
       <section>
         <num>7-12 to 7-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -2648,6 +2703,7 @@
       <num>2</num>
       <heading>Compliance</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-16</num>
         <heading>Lawful parking.</heading>
         <para>
@@ -2670,6 +2726,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-17</num>
         <heading>Maximum time for parking.</heading>
         <para>
@@ -2697,6 +2754,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-18</num>
         <heading>Method of parking.</heading>
         <para>
@@ -2724,6 +2782,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-19</num>
         <heading>Temporary stops by commercial vehicles.</heading>
         <text>Commercial vehicles engaged in the expeditious pick-up or delivery of merchandise may stop in a vacant space adjacent to a single-space parking meter that is in active operation or in a vacant space controlled by a multi-space parking meter that is in active operation, at any time before10 a.m., without payment.</text>
@@ -2735,6 +2794,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-20</num>
         <heading>Slugs or meter tampering prohibited.</heading>
         <para>
@@ -2776,6 +2836,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-21</num>
         <heading>Unlawful parking.</heading>
         <text>No person may permit a vehicle to park or remain in any space adjacent to a single-space parking meter that is in active operation or in any space in an area controlled by a multi-space parking meter that is in active operation:</text>
@@ -2804,6 +2865,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-22</num>
         <heading>Exception for holidays.</heading>
         <text>This subtitle does not apply and may not be enforced on:</text>
@@ -2837,7 +2899,7 @@
       </section>
       <section>
         <num>7-23 to 7-25</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -2845,6 +2907,7 @@
       <num>3</num>
       <heading>Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>7-26</num>
         <heading>In general.</heading>
         <para>
@@ -2874,7 +2937,7 @@
       </section>
       <section>
         <num>7-27</num>
-        <heading>{Repealed by Ord. 06-198}</heading>
+        <reason>Repealed by Ord. 06-198</reason>
       </section>
     </container>
   </container>
@@ -2883,6 +2946,7 @@
     <num>8</num>
     <heading>Exceptions to Parking Regulations</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Sundays and holidays.</heading>
       <para>
@@ -2912,9 +2976,10 @@
     </section>
     <section>
       <num>8-2</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Funeral directors.</heading>
       <text>It shall be lawful for any person, firm, or corporation, engaged in the business of funeral directing and licensed as such by the State Board of Funeral Directors and Embalmers of Maryland to park his, its, or their automotive equipment and vehicles on any street, alley, or highway, when answering calls for funeral services and when such automotive equipment and vehicles are being used in conducting a funeral, in the immediate vicinity of the home from which the deceased is being buried or in the immediate vicinity of a church wherein religious services in connection with a funeral are being held.</text>
@@ -2926,6 +2991,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-4</num>
       <heading>Plate glass deliveries.</heading>
       <para>
@@ -2956,6 +3022,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-5</num>
       <heading>Banks.</heading>
       <para>
@@ -2986,6 +3053,7 @@
       <num>1</num>
       <heading>Reserved Parking for Disabled Persons</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-1</num>
         <heading>Criteria for obtaining.</heading>
         <para>
@@ -3054,6 +3122,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-2</num>
         <heading>Procedure.</heading>
         <para>
@@ -3100,6 +3169,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-3</num>
         <heading>Use, renewal, and termination.</heading>
         <para>
@@ -3159,6 +3229,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-4</num>
         <heading>Forms, rules, and regulations; fees.</heading>
         <para>
@@ -3179,16 +3250,16 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §159(e)</annotation>
           <annotation doc="City of Balt., Md., Ord. 88-041" type="History">Ord. 88-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 09-211" type="History">Ord. 09-211</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>9-5 to 9-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3196,6 +3267,7 @@
       <num>2</num>
       <heading>Reserved Parking for Helpers</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-11</num>
         <heading>"Disabled person" defined.</heading>
         <text>In this Part, "disabled person" means a person who meets the physical criteria for obtaining a reserved parking space for a disabled person.</text>
@@ -3206,6 +3278,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-12</num>
         <heading>Criteria and procedure for obtaining.</heading>
         <para>
@@ -3262,6 +3335,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-13</num>
         <heading>Assignment of space; restrictions.</heading>
         <para>
@@ -3287,6 +3361,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-14</num>
         <heading>Annual permit.</heading>
         <para>
@@ -3305,6 +3380,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>9-15</num>
         <heading>Forms, rules, and regulations; fees.</heading>
         <para>
@@ -3325,15 +3401,15 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §160(f)</annotation>
           <annotation doc="City of Balt., Md., Ord. 95-537" type="History">Ord. 95-537</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-211" type="History">Ord. 99-211</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>9-16 to 9-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3341,6 +3417,7 @@
       <num>3</num>
       <heading>Towing Contracts for Parking Facilities</heading>
       <section>
+        <prefix>§</prefix>
         <num>9-21</num>
         <heading>Contracts required.</heading>
         <text>By October 1, 1997, and annually thereafter, the owner of any parking facilities with parking spaces required by law to be designated for the use of disabled persons must certify to the Mayor's Commission on Disabilities that:</text>
@@ -3375,6 +3452,7 @@
       <num>I</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -3439,6 +3517,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-2</num>
         <heading>Findings and declarations.</heading>
         <para>
@@ -3494,7 +3573,7 @@
       </section>
       <section>
         <num>10-3 to 10-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3502,6 +3581,7 @@
       <num>II</num>
       <heading>Administration</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-6</num>
         <heading>Program established.</heading>
         <text>There is a Residential Permit Parking Program.</text>
@@ -3515,6 +3595,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-7</num>
         <heading>Parking Authority to administer.</heading>
         <text>The Residential Permit Parking Program is administered by the Baltimore City Parking Authority.</text>
@@ -3527,6 +3608,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-8</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -3565,6 +3647,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-9</num>
         <heading>Advisory Board.</heading>
         <para>
@@ -3670,7 +3753,7 @@
       </section>
       <section>
         <num>10-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -3678,6 +3761,7 @@
       <num>III</num>
       <heading>Area Participation</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-11</num>
         <heading>Participating areas.</heading>
         <para>
@@ -3746,6 +3830,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-12</num>
         <heading>Qualification requirements.</heading>
         <text>To qualify for participation in the Program, an area must:</text>
@@ -3817,6 +3902,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-13</num>
         <heading>Petition.</heading>
         <para>
@@ -3887,6 +3973,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-14</num>
         <heading>Parking study.</heading>
         <para>
@@ -3934,6 +4021,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-15</num>
         <heading>Criteria for further consideration.</heading>
         <para>
@@ -3984,6 +4072,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-16</num>
         <heading>Parking Management Plan – Development.</heading>
         <para>
@@ -4073,6 +4162,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-17</num>
         <heading>Parking Management Plan – Review.</heading>
         <para>
@@ -4146,6 +4236,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-18</num>
         <heading>Parking Management Plan – Adoption.</heading>
         <para>
@@ -4197,6 +4288,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-19</num>
         <heading>Parking Management Plan – Amendment.</heading>
         <para>
@@ -4350,6 +4442,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-20</num>
         <heading>Plan amendment costs.</heading>
         <para>
@@ -4380,7 +4473,7 @@
       </section>
       <section>
         <num>10-21</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4388,6 +4481,7 @@
       <num>IV</num>
       <heading>Permit Process</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-22</num>
         <heading>Eligibility for permit.</heading>
         <para>
@@ -4509,6 +4603,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-23</num>
         <heading>Applications.</heading>
         <para>
@@ -4537,6 +4632,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-24</num>
         <heading>Fees.</heading>
         <para>
@@ -4577,6 +4673,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-25</num>
         <heading>Permit not assignable.</heading>
         <text>No permit issued under this subtitle may be sold, assigned, or transferred to or for the benefit of any person.</text>
@@ -4587,7 +4684,7 @@
       </section>
       <section>
         <num>10-26 to 10-27</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4595,6 +4692,7 @@
       <num>V</num>
       <heading>Non-Permit Parking Restrictions</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-28</num>
         <heading>Maximum parking durations.</heading>
         <para>
@@ -4637,6 +4735,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-29</num>
         <heading>Hours when restrictions apply.</heading>
         <para>
@@ -4677,7 +4776,7 @@
       </section>
       <section>
         <num>10-30 to 10-32</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -4685,6 +4784,7 @@
       <num>VI</num>
       <heading>Statutory Areas</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-33</num>
         <heading>Pimlico Race Track Area.</heading>
         <para>
@@ -4723,6 +4823,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-34</num>
         <heading>Little Italy Area.</heading>
         <para>
@@ -4754,6 +4855,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-35</num>
         <heading>Fells Point Area.</heading>
         <para>
@@ -4932,6 +5034,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-36</num>
         <heading>Cross Street Area.</heading>
         <text>The Cross Street Area is the area consisting of the 100 block of East Cross Street.</text>
@@ -4942,6 +5045,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-37</num>
         <heading>Camden Yards Stadium Complex Area.</heading>
         <para>
@@ -5023,6 +5127,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-38</num>
         <heading>Guilford Area.</heading>
         <para>
@@ -5071,7 +5176,7 @@
       </section>
       <section>
         <num>10-39</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5079,6 +5184,7 @@
       <num>VII</num>
       <heading>Prohibited Conduct</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-40</num>
         <heading>Falsifying or concealing information.</heading>
         <text>No person may, in connection with any matter governed by this subtitle, willfully:</text>
@@ -5096,6 +5202,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-41</num>
         <heading>Fraudulently obtaining, etc., permit.</heading>
         <text>No person may fraudulently obtain, keep, or attempt to obtain or keep a permit issued under this subtitle.</text>
@@ -5104,6 +5211,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-42</num>
         <heading>Counterfeiting or altering permit.</heading>
         <text>No person may:</text>
@@ -5120,6 +5228,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-43</num>
         <heading>Using invalid permit.</heading>
         <para>
@@ -5150,6 +5259,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-44</num>
         <heading>Misusing visitor or special permit.</heading>
         <text>No person may:</text>
@@ -5171,6 +5281,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-45</num>
         <heading>Landlord abuse.</heading>
         <text>No landlord or other person may, directly or indirectly, require a tenant or other resident of a dwelling to allow the landlord or other person to use or control any permit issued to the tenant or other resident.</text>
@@ -5179,6 +5290,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-46</num>
         <heading>Aiding another in violation.</heading>
         <text>No person may knowingly aid another in violating any provision of this Part VII.</text>
@@ -5188,7 +5300,7 @@
       </section>
       <section>
         <num>10-47</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -5196,6 +5308,7 @@
       <num>VIII</num>
       <heading>Enforcement; Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>10-48</num>
         <heading>Suspension or revocation of permit.</heading>
         <text>After notice and opportunity for a hearing, the Executive Director may suspend or revoke, as the circumstances warrant, all permits issued to or for the benefit of:</text>
@@ -5213,6 +5326,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-49</num>
         <heading>Immobilizing vehicle.</heading>
         <para>
@@ -5244,9 +5358,10 @@
       </section>
       <section>
         <num>10-50</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-51</num>
         <heading>Prohibited conduct – Enforcement by citation.</heading>
         <para>
@@ -5264,6 +5379,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>10-52</num>
         <heading>Prohibited conduct – Criminal penalties.</heading>
         <text>Any person who violates any provision of Part VII {"Prohibited Conduct"} of this subtitle is guilty of a misdemeanor and, on conviction, is subject to fine of not more than $1,000 or to imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
@@ -5278,6 +5394,7 @@
     <num>11</num>
     <heading>Miscellaneous Reserved Parking</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Pratt bookmobiles.</heading>
       <para>
@@ -5309,7 +5426,7 @@
     </section>
     <section>
       <num>11-2</num>
-      <heading>{Repealed by Ord. 15-435}</heading>
+      <reason>Repealed by Ord. 15-435</reason>
     </section>
   </container>
   <container>
@@ -5317,6 +5434,7 @@
     <num>12</num>
     <heading>Off-Street Parking Commission</heading>
     <section>
+      <prefix>§</prefix>
       <num>12-1</num>
       <heading>Commission; members.</heading>
       <para>
@@ -5393,6 +5511,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-2</num>
       <heading>Terms; chair; compensation.</heading>
       <para>
@@ -5441,6 +5560,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-3</num>
       <heading>Director; staff.</heading>
       <para>
@@ -5463,6 +5583,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-4</num>
       <heading>Meetings, records, and regulations.</heading>
       <para>
@@ -5501,6 +5622,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-5</num>
       <heading>Powers generally.</heading>
       <para>
@@ -5531,6 +5653,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-6</num>
       <heading>Property acquisition.</heading>
       <para>
@@ -5560,6 +5683,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-7</num>
       <heading>Additional powers.</heading>
       <text>In addition to the foregoing, the Commission shall have the following powers:</text>
@@ -5611,6 +5735,7 @@
     <num>13</num>
     <heading>Baltimore City Parking Authority</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -5737,6 +5862,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>Construction.</heading>
       <text>This subtitle and the powers granted under it must be broadly interpreted to allow the Authority to achieve the purposes of:</text>
@@ -5753,6 +5879,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-3</num>
       <heading>Authority established; purposes.</heading>
       <para>
@@ -5783,6 +5910,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-4</num>
       <heading>General powers.</heading>
       <para>
@@ -5920,6 +6048,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-5</num>
       <heading>Management of City operations.</heading>
       <para>
@@ -5965,6 +6094,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-6</num>
       <heading>Limitations.</heading>
       <para>
@@ -6003,6 +6133,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-7</num>
       <heading>Board of Directors — In general.</heading>
       <para>
@@ -6097,6 +6228,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-8</num>
       <heading>Board of Directors — Officers; staff; delegation.</heading>
       <para>
@@ -6150,6 +6282,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-9</num>
       <heading>Board of Directors — Quorum; open meetings; public records.</heading>
       <para>
@@ -6173,6 +6306,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-10</num>
       <heading>Executive Director.</heading>
       <para>
@@ -6222,6 +6356,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-11</num>
       <heading>Financial plan; annual report.</heading>
       <para>
@@ -6276,6 +6411,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-12</num>
       <heading>Deposit of funds; audits and examinations; financial statement.</heading>
       <para>
@@ -6313,6 +6449,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-13</num>
       <heading>Tax exemption.</heading>
       <text>To the fullest extent permitted under the Enabling Act, all of the Authority's property is exempt from taxation of every kind and nature whatsoever.</text>
@@ -6321,6 +6458,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-14</num>
       <heading>Borrowing.</heading>
       <para>
@@ -6357,6 +6495,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-15</num>
       <heading>Compliance with other City laws and regulations.</heading>
       <para>
@@ -6396,6 +6535,7 @@
       <num>I</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -6532,12 +6672,13 @@
       </section>
       <section>
         <num>14-2</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide, standard uses of mandatory terms  (“must” and “shall”), prohibitory terms (“may not”, “must not”, and “no ... may”), and permissive terms  (“may”), see City General Provisions Article, § 1-104.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-3</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -6551,16 +6692,17 @@
           <text>The Director of Transportation must obtain prior approval of the Board of Estimates for any rule or regulation that sets an application, license, permit, or other fee to be imposed under this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 13-098" type="History">Ord. 13-098</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>14-4</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-5</num>
         <heading>Exemptions for certain temporary operations.</heading>
         <para>
@@ -6615,7 +6757,7 @@
       </section>
       <section>
         <num>14-6</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6623,6 +6765,7 @@
       <num>II</num>
       <heading>Valet Operator's License</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-7</num>
         <heading>License required.</heading>
         <text>No operator may provide or offer to provide any valet parking service without first having obtained an operator's license from the Authority.</text>
@@ -6631,6 +6774,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-8</num>
         <heading>Qualifications.</heading>
         <para>
@@ -6672,6 +6816,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-9</num>
         <heading>Applications.</heading>
         <para>
@@ -6771,6 +6916,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-10</num>
         <heading>Issuance.</heading>
         <text>The Authority must issue a license to any applicant who :</text>
@@ -6787,6 +6933,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-11</num>
         <heading>Term and renewal.</heading>
         <para>
@@ -6811,6 +6958,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-12</num>
         <heading>License fees.</heading>
         <text>The annual license fee is as set forth in the rules and regulations adopted under this subtitle.</text>
@@ -6819,6 +6967,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-13</num>
         <heading>License not transferable.</heading>
         <text>An operator's license issued under this part is not assignable or transferable to any other person.</text>
@@ -6827,6 +6976,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-14</num>
         <heading>List of licensees.</heading>
         <text>The Parking Authority must:</text>
@@ -6844,7 +6994,7 @@
       </section>
       <section>
         <num>14-15</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -6852,6 +7002,7 @@
       <num>III</num>
       <heading>Valet Parking Zone Permit</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-16</num>
         <heading>Permit required.</heading>
         <para>
@@ -6869,6 +7020,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-17</num>
         <heading>Qualifications.</heading>
         <para>
@@ -6899,6 +7051,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-18</num>
         <heading>Applications.</heading>
         <para>
@@ -6996,6 +7149,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-19</num>
         <heading>Valet parking plan.</heading>
         <para>
@@ -7126,6 +7280,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-20</num>
         <heading>Public notice; objections; hearing.</heading>
         <para>
@@ -7195,6 +7350,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-21</num>
         <heading>Review and considerations.</heading>
         <para>
@@ -7282,6 +7438,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-22</num>
         <heading>Special conditions.</heading>
         <para>
@@ -7311,6 +7468,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-23</num>
         <heading>Establishment of zone; issuance of permit.</heading>
         <text>On approval of the application and the valet parking plan, the Director of Transportation may establish a valet parking zone for and issue a valet parking zone permit to any host who:</text>
@@ -7331,6 +7489,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-24</num>
         <heading>Posting of zone.</heading>
         <text>As soon as practical after the approval of a valet parking zone, the Director of Transportation shall place appropriate signs that:</text>
@@ -7347,6 +7506,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-25</num>
         <heading>Term and renewal.</heading>
         <para>
@@ -7394,6 +7554,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-26</num>
         <heading>Permit fees.</heading>
         <text>The amount of the permit fees are as set forth in the rules and regulations adopted under this subtitle.</text>
@@ -7402,6 +7563,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-27</num>
         <heading>Permit not transferable or shareable.</heading>
         <text>A permit issued under this part to any host is not assignable or transferable to, or shareable with, any other host not identified in the permit.</text>
@@ -7411,7 +7573,7 @@
       </section>
       <section>
         <num>14-28 to 14-30</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -7419,6 +7581,7 @@
       <num>IV</num>
       <heading>Standards of Operation</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-31</num>
         <heading>Licensed operator required.</heading>
         <text>No host may use the valet parking services of any entity that is not a licensed operator or of any individual who is not an employee or agent of a licensed operator.</text>
@@ -7427,6 +7590,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-32</num>
         <heading>Locations and hours.</heading>
         <text>Valet parking services may be offered only in the locations and during the hours specified on the valet parking zone permit.</text>
@@ -7435,6 +7599,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-33</num>
         <heading>Valet parking zones.</heading>
         <para>
@@ -7452,6 +7617,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-34</num>
         <heading>Attendants.</heading>
         <para>
@@ -7477,6 +7643,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-35</num>
         <heading>Transporting and parking vehicles.</heading>
         <para>
@@ -7507,6 +7674,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-36</num>
         <heading>Signage.</heading>
         <para>
@@ -7536,6 +7704,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-37</num>
         <heading>Permit and operator's license inspection.</heading>
         <text>At all times, the valet parking zone permit and a copy of the operator's license must be available for inspection at the host's establishment.</text>
@@ -7545,7 +7714,7 @@
       </section>
       <section>
         <num>14-38 to 14-40</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -7553,6 +7722,7 @@
       <num>V</num>
       <heading>Administrative Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-41</num>
         <heading>Denials, suspensions, or revocations – Operator's license.</heading>
         <text>The Parking Authority, subject to the approval of the Director of Transportation, may deny, suspend, or revoke an operator's license or renewal license for any of the following causes:</text>
@@ -7586,6 +7756,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-42</num>
         <heading>Denials, suspensions, or revocations – Host's parking zone permit.</heading>
         <text>The Director of Transportation may deny, suspend, or revoke a valet parking zone permit or renewal permit for any of the following causes:</text>
@@ -7619,6 +7790,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-43</num>
         <heading>Cause for suspension or revocation – Enforcement by citation.</heading>
         <para>
@@ -7637,9 +7809,10 @@
       </section>
       <section>
         <num>14-44 to 14-45</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-46</num>
         <heading>Administrative appeals.</heading>
         <para>
@@ -7686,6 +7859,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-47</num>
         <heading>Judicial and appellate review.</heading>
         <para>
@@ -7708,11 +7882,13 @@
       <num>VI</num>
       <heading>Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>14-48</num>
         <heading>In general.</heading>
         <text>Any person who violates any provision of this subtitle, of a rule or regulation adopted under this subtitle, or of a limitation or condition imposed on a license or permit issued under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>14-49</num>
         <heading>Each day a separate offense.</heading>
         <text>Each day that a violation continues is a separate offense.</text>
@@ -7731,6 +7907,7 @@
       <num>I</num>
       <heading>Definitions</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -7759,7 +7936,7 @@
       </section>
       <section>
         <num>15-2</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -7767,6 +7944,7 @@
       <num>II</num>
       <heading>Program establishment; purpose</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-3</num>
         <heading>Program established.</heading>
         <text>There is a BMore Streets for People Program.</text>
@@ -7775,6 +7953,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-4</num>
         <heading>Purpose of program.</heading>
         <text>The purpose of the BMore Streets for People Program is to create economic, health, and community benefits by periodically restricting motorized traffic on certain streets in order to encourage residents to enjoy camaraderie, bicycle riding, walking, and exercise on main roads in their neighborhoods.</text>
@@ -7784,7 +7963,7 @@
       </section>
       <section>
         <num>15-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -7792,6 +7971,7 @@
       <num>III</num>
       <heading>Administration</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-6</num>
         <heading>DOT to administer.</heading>
         <text>The Program is administered by the Department of Transportation, with the advice of the BMore Streets for People Advisory Board.</text>
@@ -7800,6 +7980,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-7</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department of Transportation may adopt rules and regulations to:</text>
@@ -7812,12 +7993,13 @@
           <text>otherwise carry out this subtitle.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-279" type="History">Ord. 10-279</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-8</num>
         <heading>Designating routes, schedules.</heading>
         <para>
@@ -7840,6 +8022,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-9</num>
         <heading>Exclusion of motor vehicles.</heading>
         <text>The Director may exclude motor vehicles from streets along designated BMore Streets for People routes during Program events, in accordance with the Department of Transportation's permit process.</text>
@@ -7849,6 +8032,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-10</num>
         <heading>Regular processes to apply.</heading>
         <text>Nothing in this subtitle should be constructed as waiving the usual permitting processes, or fees for public services required to ensure safety, that would otherwise be required to conduct the Program.</text>
@@ -7862,6 +8046,7 @@
       <num>IV</num>
       <heading>Advisory Board</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-11</num>
         <heading>Board established.</heading>
         <text>There is a BMore Streets for People Advisory Board.</text>
@@ -7870,6 +8055,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-12</num>
         <heading>Composition.</heading>
         <para>
@@ -7988,6 +8174,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-13</num>
         <heading>Terms; Compensation; Vacancies.</heading>
         <para>
@@ -8026,6 +8213,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-14</num>
         <heading>Officers; Committees.</heading>
         <para>
@@ -8050,6 +8238,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-15</num>
         <heading>Meetings; Quorum.</heading>
         <para>
@@ -8092,9 +8281,10 @@
       </section>
       <section>
         <num>15-16</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-17</num>
         <heading>Budget.</heading>
         <text>The Advisory Board may expend funds as authorized in the Ordinance of Estimates.</text>
@@ -8103,6 +8293,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>15-18</num>
         <heading>Powers and duties.</heading>
         <para>
@@ -8182,7 +8373,7 @@
       </section>
       <section>
         <num>15-19 to 15-21</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8190,6 +8381,7 @@
       <num>V</num>
       <heading>Annual Reports</heading>
       <section>
+        <prefix>§</prefix>
         <num>15-22</num>
         <heading>Annual reports.</heading>
         <text>The Director and the Advisory Board must submit an annual report on their activities to the Mayor and City Council.</text>
@@ -8208,6 +8400,7 @@
       <num>1</num>
       <heading>Obstructing Traffic</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-1</num>
         <heading>Slowly moving vehicles.</heading>
         <text>Vehicles moving slowly along streets having no car tracks shall keep as close as practicable to the curb line on the right so as to allow faster moving vehicles free passage on the left.</text>
@@ -8220,6 +8413,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-2</num>
         <heading>Snow tires on public passenger vehicles.</heading>
         <para>
@@ -8245,6 +8439,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-3</num>
         <heading>Obstructions by certain public passenger vehicles for want of chains or snow tires.</heading>
         <para>
@@ -8265,15 +8460,16 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1966, art. 31, §85</annotation>
           <annotation type="Prior Codifications">1976/83, art. 31, §61</annotation>
           <annotation doc="City of Balt., Md., Ord. 54-944" type="History">Ord. 54-944</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-4</num>
         <heading>Obstructing railroad tracks.</heading>
         <para>
@@ -8295,6 +8491,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-5</num>
         <heading>Repairing vehicles on streets.</heading>
         <para>
@@ -8338,7 +8535,7 @@
       </section>
       <section>
         <num>16-6 to 16-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8346,6 +8543,7 @@
       <num>2</num>
       <heading>Intersections, Crosswalks, Sidewalks</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-11</num>
         <heading>Vehicles entering intersection or crosswalk.</heading>
         <para>
@@ -8366,6 +8564,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-12</num>
         <heading>Vehicles on sidewalk.</heading>
         <para>
@@ -8421,6 +8620,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-13</num>
         <heading>Vehicles on sidewalk, crosswalk, or intersection.</heading>
         <para>
@@ -8454,6 +8654,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-14</num>
         <heading>Vehicles or horses on sidewalk.</heading>
         <text>No horse or vehicle shall be driven, backed, led, or allowed to stand on any sidewalk, or on any driveway across a sidewalk, whether with or without curbs, except that wares or merchandise in process of loading and unloading, shipment, or being received from shipment, may be transferred from trucks or other vehicles over the sidewalk by the use of skids, provided a passageway be kept open for the free passage of pedestrians.</text>
@@ -8468,7 +8669,7 @@
       </section>
       <section>
         <num>16-15 to 16-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8476,6 +8677,7 @@
       <num>3</num>
       <heading>Schools and School Vehicles</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-21</num>
         <heading>School crossing guards.</heading>
         <para>
@@ -8495,6 +8697,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-22</num>
         <heading>School roadways.</heading>
         <para>
@@ -8515,12 +8718,13 @@
       </section>
       <section>
         <num>16-23</num>
-        <heading>{Repealed}</heading>
+        <reason>Repealed</reason>
         <annotations>
           <annotation type="Editor's Notes">Ordinance 04-854 repealed former § 16-23 {“Selling food near schools”} and rewrote City Code Article 15, Subtitle 17, to include a similar provision.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-24</num>
         <heading>School vehicle violations of camera monitoring systems.</heading>
         <para>
@@ -8594,7 +8798,7 @@
       </section>
       <section>
         <num>16-25</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8602,6 +8806,7 @@
       <num>4</num>
       <heading>Motorcycles</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-26</num>
         <heading>Helmets required.</heading>
         <text>Every person who is driving, or riding on as a passenger, a moving motor-driven 2- or 3-wheel vehicle known generally as a motorcycle or motor bike shall at such time be wearing a firm and durable protective helmet or headgear.</text>
@@ -8611,6 +8816,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-27</num>
         <heading>Safety goggles required.</heading>
         <text>Every person who is driving or riding as a passenger on a moving motor-driven 2- or 3-wheel vehicle known generally as a motorcycle or motor bike shall at all times be wearing safety goggles or a face shield approved by the Director of Transportation.</text>
@@ -8621,6 +8827,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-28</num>
         <heading>Must be able to achieve top legal speed.</heading>
         <text>No person shall operate a motor-driven 2- or 3-wheel vehicle known generally as a motorcycle or motor bike on the streets or highways of Baltimore City unless its speed capability is at least equal to the posted speed limit on said highway.</text>
@@ -8630,6 +8837,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-29</num>
         <heading>Penalties.</heading>
         <text>A violation of any provision of this subtitle is a misdemeanor, punishable upon conviction by a fine of not less than $10 or more than $100 for each such violation.</text>
@@ -8640,7 +8848,7 @@
       </section>
       <section>
         <num>16-30</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8648,6 +8856,7 @@
       <num>5</num>
       <heading>Funeral Processions</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-31</num>
         <heading>Crossing procession prohibited.</heading>
         <text>It shall be unlawful for any person to drive any vehicle across the line of a funeral procession in the streets, lanes, or alleys of the City, under a penalty for each and every offense of $2.</text>
@@ -8664,7 +8873,7 @@
       </section>
       <section>
         <num>16-32 to 16-35</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8672,6 +8881,7 @@
       <num>6</num>
       <heading>Pedestrians</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-36</num>
         <heading>Pedestrian right-of-way.</heading>
         <para>
@@ -8711,6 +8921,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-37</num>
         <heading>Emergency vehicles right-of-way.</heading>
         <text>Pedestrians shall yield the right-of-way to authorized emergency vehicles provided that these vehicles are operating with siren and/or bell.</text>
@@ -8720,6 +8931,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-38</num>
         <heading>Crosswalks.</heading>
         <para>
@@ -8738,6 +8950,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-39</num>
         <heading>"Walk/Don't Walk" signals.</heading>
         <para>
@@ -8780,6 +8993,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-40</num>
         <heading>Controlled access highways.</heading>
         <para>
@@ -8810,6 +9024,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-41</num>
         <heading>Solicitation on highways.</heading>
         <para>
@@ -8894,6 +9109,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-42</num>
         <heading>Control of traffic by officers.</heading>
         <text>Nothing in this subtitle affects or limits the right of police officers or school crossing guards to control vehicular and pedestrian traffic in cases of emergency, special events, or other unusual traffic conditions.</text>
@@ -8904,6 +9120,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-43</num>
         <heading>Exercise of due care.</heading>
         <text>In addition to the foregoing provisions of this subtitle, every driver of a vehicle shall:</text>
@@ -8922,6 +9139,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-44</num>
         <heading>Pedestrian traffic safety.</heading>
         <text>The Director of Transportation shall:</text>
@@ -8945,7 +9163,7 @@
       </section>
       <section>
         <num>16-45</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -8956,6 +9174,7 @@
         <annotation doc="City of Balt., Md., Ord. 17-038" type="History">Ord. 17-038</annotation>
       </annotations>
       <section>
+        <prefix>§</prefix>
         <num>16-46</num>
         <heading>Maximum outside width.</heading>
         <text>Pursuant to the provisions of § 24-102(d) of the State Transportation Article, the operation within the corporate limits of Baltimore City of a motor bus or trackless trolley with a maximum outside width of not to exceed 102 inches is permitted.</text>
@@ -8966,6 +9185,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-47</num>
         <heading>Maintenance of private stops.</heading>
         <para>
@@ -8999,7 +9219,7 @@
       </section>
       <section>
         <num>16-48 to 16-50</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -9007,6 +9227,7 @@
       <num>8</num>
       <heading>Trucks</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-51</num>
         <heading>Prohibited on certain streets.</heading>
         <text>No trucks and no tractor-trailer or tractor-semitrailer combination with a registered maximum gross weight in excess of 39,000 pounds shall be permitted to use or traverse in any way:</text>
@@ -9025,7 +9246,7 @@
       </section>
       <section>
         <num>16-52 to 16-55</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -9033,6 +9254,7 @@
       <num>9</num>
       <heading>Taxicabs</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-56</num>
         <heading>Passengers discharged at curb.</heading>
         <para>
@@ -9051,6 +9273,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-57</num>
         <heading>Cab stands – Standing by others prohibited.</heading>
         <para>
@@ -9080,6 +9303,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-58</num>
         <heading>Cab stands – Nondiscriminatory use by taxicabs.</heading>
         <para>
@@ -9100,7 +9324,7 @@
       </section>
       <section>
         <num>16-59 to 16-60</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -9108,6 +9332,7 @@
       <num>10</num>
       <heading>Horses, Carriages, etc.</heading>
       <section>
+        <prefix>§</prefix>
         <num>16-61</num>
         <heading>General prohibitions.</heading>
         <para>
@@ -9159,6 +9384,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-62</num>
         <heading>Speed.</heading>
         <para>
@@ -9176,6 +9402,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>16-63</num>
         <heading>Horse racing.</heading>
         <text>Any rider of any horse, mare, or gelding, and any driver of any vehicles engaged in any contest of speed, within the limits of the City, shall be subjected to a fine of $20.</text>
@@ -9196,6 +9423,7 @@
     <num>17</num>
     <heading>No-Cruising District</heading>
     <section>
+      <prefix>§</prefix>
       <num>17-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -9224,6 +9452,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-2</num>
       <heading>Findings; purpose.</heading>
       <para>
@@ -9250,6 +9479,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-3</num>
       <heading>Exceptions.</heading>
       <text>The prohibitions of this subtitle do not apply to:</text>
@@ -9271,6 +9501,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-4</num>
       <heading>Boundaries of District.</heading>
       <text>The No-Cruising District is the area bounded by and including:</text>
@@ -9296,6 +9527,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-5</num>
       <heading>Prohibited conduct.</heading>
       <para>
@@ -9353,6 +9585,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-6</num>
       <heading>Posting.</heading>
       <text>The Director of Transportation shall post signs in the District that specify the hours during which cruising, stopping, standing, and parking are prohibited.</text>
@@ -9363,6 +9596,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17-7</num>
       <heading>Penalties.</heading>
       <para>
@@ -9393,6 +9627,7 @@
     <num>18</num>
     <heading>Bicycles</heading>
     <section>
+      <prefix>§</prefix>
       <num>18-1</num>
       <heading>"Bicycle" defined.</heading>
       <text>For the purposes of this subtitle, a bicycle is defined as a mechanical device, propelled by human power and having 2 tandem wheels.</text>
@@ -9404,6 +9639,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-2</num>
       <heading>Removing, etc., identification number.</heading>
       <text>It is unlawful for any person, wilfully or maliciously, to remove, destroy, mutilate, or alter the number on any bicycle frame or sprocket.</text>
@@ -9415,6 +9651,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-3</num>
       <heading>Rules and regulations.</heading>
       <text>The Police Department of Baltimore City is authorized and empowered, by reasonable rules and regulations not inconsistent with the provisions of this subtitle, to provide for its administration and enforcement.</text>
@@ -9425,6 +9662,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-4</num>
       <heading>Impounding bicycles.</heading>
       <para>
@@ -9465,6 +9703,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-5</num>
       <heading>Night riding.</heading>
       <text>It is unlawful for any person to propel a bicycle upon any of the streets, lanes, alleys, or public ways of this City at night, unless it is provided with a head lamp and with a rear lamp or reflector.</text>
@@ -9476,9 +9715,10 @@
     </section>
     <section>
       <num>18-6</num>
-      <heading>{Repealed by Ord. 20-353}</heading>
+      <reason>Repealed by Ord. 20-353</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-7</num>
       <heading>2 riders prohibited.</heading>
       <text>It is unlawful for more persons than 1 to be on a bicycle simultaneously while it is in motion on any of the streets, lanes, alleys, or public ways of this City.</text>
@@ -9489,6 +9729,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-8</num>
       <heading>Riding on sidewalk.</heading>
       <para>
@@ -9530,9 +9771,10 @@
     </section>
     <section>
       <num>18-9</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18-10</num>
       <heading>Penalties.</heading>
       <para>
@@ -9563,6 +9805,7 @@
     <num>19</num>
     <heading>Grade Crossings</heading>
     <section>
+      <prefix>§</prefix>
       <num>19-1</num>
       <heading>Administration of subtitle.</heading>
       <para>
@@ -9582,6 +9825,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-2</num>
       <heading>Safety devices required.</heading>
       <text>In order to protect the health, safety, and security of the public at locations within the boundary lines of the City of Baltimore, now or as hereafter existing, where the tracks of any railroad company cross a public street at grade, the railroad company shall install and maintain at such crossing one of the types of signaling, warning, or safety devices, in the manner, of the type, and as required under and in accordance with the provisions of § 19-3 hereof.</text>
@@ -9591,6 +9835,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-3</num>
       <heading>Implementation.</heading>
       <para>
@@ -9723,6 +9968,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-4</num>
       <heading>Administrative review.</heading>
       <para>
@@ -9761,6 +10007,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-5</num>
       <heading>Judicial review.</heading>
       <para>
@@ -9811,6 +10058,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-6</num>
       <heading>Review of prior order.</heading>
       <para>
@@ -9847,6 +10095,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-7</num>
       <heading>Enforcement.</heading>
       <para>
@@ -9880,6 +10129,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19-8</num>
       <heading>Penalties.</heading>
       <para>
@@ -9903,6 +10153,7 @@
     <num>20</num>
     <heading>Bike Lanes</heading>
     <section>
+      <prefix>§</prefix>
       <num>20-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -9926,16 +10177,18 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-2</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations to implement this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 10-366" type="History">Ord. 10-366</annotation>
         <annotation type="History">Text Conformed 02/28/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-3</num>
       <heading>Designation of bike lanes.</heading>
       <text>The Director may designate 4' to 5' wide strips on City streets as bike lanes<strong>.</strong></text>
@@ -9944,6 +10197,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-4</num>
       <heading>Markings.</heading>
       <para>
@@ -9968,6 +10222,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-5</num>
       <heading>Parking restrictions.</heading>
       <text>No motor vehicle may park or stand in an area designated and marked as a bike lane.</text>
@@ -9977,9 +10232,10 @@
     </section>
     <section>
       <num>20-6 to 20-7</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20-8</num>
       <heading>"Bike-safe" grates required.</heading>
       <text>After an area has been designated as a bike lane by the Director, the Director must ensure that all drainage grates within the bike lane:</text>
@@ -10005,6 +10261,7 @@
     <num>21</num>
     <heading>Towing Vehicles from Private Parking Facility</heading>
     <section>
+      <prefix>§</prefix>
       <num>21-1</num>
       <heading>Required signs.</heading>
       <para>
@@ -10125,6 +10382,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-2</num>
       <heading>Repealed by Ord. 01-231.</heading>
       <text>
@@ -10153,6 +10411,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-4</num>
       <heading>Scope of subtitle.</heading>
       <text>This subtitle does not:</text>
@@ -10171,9 +10430,10 @@
     </section>
     <section>
       <num>21-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-6</num>
       <heading>Penalties.</heading>
       <para>
@@ -10205,6 +10465,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -10319,6 +10580,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-2</num>
         <heading>Declaration of policy.</heading>
         <text>The purposes of this subtitle are:</text>
@@ -10343,6 +10605,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-3</num>
         <heading>Rules and regulations.</heading>
         <para>
@@ -10365,14 +10628,14 @@
       </section>
       <section>
         <num>22-4</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">See City General Provisions Article, § 1-214, for the Code-wide standard for severability.</annotation>
         </annotations>
       </section>
       <section>
         <num>22-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -10380,6 +10643,7 @@
       <num>2</num>
       <heading>Licensing, Bonding, etc.</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-6</num>
         <heading>License required.</heading>
         <para>
@@ -10451,6 +10715,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-7</num>
         <heading>Qualifications of applicants.</heading>
         <para>
@@ -10483,6 +10748,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-8</num>
         <heading>Surety bond.</heading>
         <para>
@@ -10505,6 +10771,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-9</num>
         <heading>Schedule of charges.</heading>
         <para>
@@ -10578,7 +10845,7 @@
       </section>
       <section>
         <num>22-10</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -10586,6 +10853,7 @@
       <num>3</num>
       <heading>Towing Operations</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-11</num>
         <heading>Owner's, operator's right to choose.</heading>
         <para>
@@ -10659,6 +10927,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-12</num>
         <heading>Police assignments.</heading>
         <para>
@@ -10688,9 +10957,10 @@
       </section>
       <section>
         <num>22-13</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-14</num>
         <heading>Tow vehicle identification.</heading>
         <para>
@@ -10717,6 +10987,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-15</num>
         <heading>Estimates and repairs.</heading>
         <para>
@@ -10752,6 +11023,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-16</num>
         <heading>Delivery of vehicle.</heading>
         <para>
@@ -10781,7 +11053,7 @@
       </section>
       <section>
         <num>22-17 to 22-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -10789,6 +11061,7 @@
       <num>4</num>
       <heading>Prohibited Conduct</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-21</num>
         <heading>Solicitations prohibited.</heading>
         <text>No person may:</text>
@@ -10817,6 +11090,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-22</num>
         <heading>Bail services prohibited.</heading>
         <para>
@@ -10850,6 +11124,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-23</num>
         <heading>Gratuities, etc., to City employees prohibited.</heading>
         <text>No person may offer or give any bribe, gift, gratuity, or inducement of any kind to any public official or employee in order to obtain business or recommendations for towing, storing, repairing, or providing repair estimates for disabled vehicles.</text>
@@ -10862,6 +11137,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-24</num>
         <heading>Police radios prohibited.</heading>
         <text>No towing company nor any owner, operator, employee, or agent of a towing company, whether licensed under this subtitle or not, may:</text>
@@ -10883,7 +11159,7 @@
       </section>
       <section>
         <num>22-25 to 22-30</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -10891,6 +11167,7 @@
       <num>5</num>
       <heading>Enforcement; Penalties</heading>
       <section>
+        <prefix>§</prefix>
         <num>22-31</num>
         <heading>Denial, suspension, etc., of licenses.</heading>
         <para>
@@ -10932,6 +11209,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-32</num>
         <heading>Enforcement by citation.</heading>
         <para>
@@ -10949,6 +11227,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>22-33</num>
         <heading>Penalties.</heading>
         <para>
@@ -10977,6 +11256,7 @@
     <num>23</num>
     <heading>Bus Lanes and Stops</heading>
     <section>
+      <prefix>§</prefix>
       <num>23-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -11004,16 +11284,18 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-2</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations to implement this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 17-038" type="History">Ord. 17-038</annotation>
         <annotation type="History">Text Conformed 02/28/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-3</num>
       <heading>Designation of lanes and stops.</heading>
       <text>The Director may designate bus lanes and bus stops on City streets<strong>.</strong></text>
@@ -11022,6 +11304,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-4</num>
       <heading>Markings.</heading>
       <para>
@@ -11039,6 +11322,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23-5</num>
       <heading>Parking restrictions.</heading>
       <text>No motor vehicle may park or stand in an area designated and marked as a bus lane or a bus stop.</text>
@@ -11057,6 +11341,7 @@
     <num>26</num>
     <heading>Miscellaneous Prohibitions</heading>
     <section>
+      <prefix>§</prefix>
       <num>26-1</num>
       <heading>Unauthorized riding.</heading>
       <para>
@@ -11079,6 +11364,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-2</num>
       <heading>Unauthorized driving.</heading>
       <text>If any person shall enter upon or into any vehicle or conveyance, or remain therein, or drive or remove the same from the place where the same may then be, without the authority or permission of the owner or the party in charge thereof, such person so entering, remaining, driving away, or removing without authority or permission as aforesaid, shall be subject to a fine of not less than $1, nor more than $20, to be collected as other fines and penalties are collected.</text>
@@ -11093,6 +11379,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-3</num>
       <heading>Failure to affix registration plates.</heading>
       <text>No motor vehicle shall be permitted to stand on the streets and highways of the City of Baltimore unless said motor vehicle has affixed thereto registration plates which are neither expired nor fictitious, and are displayed in the manner set forth in the Maryland Vehicle Law, and shall be subject to such penalties as are set forth in § 37-1 of this article.</text>
@@ -11102,6 +11389,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26-4</num>
       <heading>Minors as parking attendants.</heading>
       <text>It shall be unlawful for any minor, under the age of 18 years, to assist or in any way to participate in the parking of vehicles on vacant lots, driveways, or any other private property, unless the minor has the written permission of the property owner for such parking.</text>
@@ -11117,6 +11405,7 @@
     <num>27</num>
     <heading>Reasonable Care</heading>
     <section>
+      <prefix>§</prefix>
       <num>27-1</num>
       <heading>Always required.</heading>
       <text>Nothing contained herein or omitted herefrom shall be construed or held to relieve any person using or traveling or being upon any street, for any purpose whatever, from exercising all reasonable care to avoid or prevent injury through collision with all other persons and vehicles.</text>
@@ -11134,6 +11423,7 @@
     <num>28</num>
     <heading>Special Regulations</heading>
     <section>
+      <prefix>§</prefix>
       <num>28-1</num>
       <heading>Police Commissioner may adopt.</heading>
       <text>The Police Commissioner is hereby authorized and empowered to make and enforce special regulations with regard to the traffic, at certain hours, when the safety or convenience of the public will best be subserved thereby.</text>
@@ -11160,6 +11450,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>31-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -11238,6 +11529,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-2</num>
         <heading>Liability of lessors and other registered owners.</heading>
         <para>
@@ -11271,7 +11563,7 @@
       </section>
       <section>
         <num>31-3 to 31-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -11279,6 +11571,7 @@
       <num>2</num>
       <heading>General Conditions Warranting Impoundment</heading>
       <section>
+        <prefix>§</prefix>
         <num>31-6</num>
         <heading>Vehicles obstructing traffic.</heading>
         <para>
@@ -11324,6 +11617,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-7</num>
         <heading>Vehicles illegally parked, etc.</heading>
         <para>
@@ -11381,6 +11675,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-8</num>
         <heading>Abandoned vehicles.</heading>
         <para>
@@ -11441,6 +11736,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-9</num>
         <heading>Vehicles in accidents.</heading>
         <text>When a motor vehicle has been involved in an accident or other disablement so that:</text>
@@ -11464,6 +11760,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-10</num>
         <heading>Recovery of stolen, etc., vehicles.</heading>
         <para>
@@ -11489,6 +11786,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-11</num>
         <heading>Maximum charges.</heading>
         <para>
@@ -11523,6 +11821,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-12</num>
         <heading>Unidentifiable vehicles.</heading>
         <para>
@@ -11549,7 +11848,7 @@
       </section>
       <section>
         <num>31-13 to 31-20</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -11557,6 +11856,7 @@
       <num>3</num>
       <heading>Impoundment or Immobilization for Outstanding Citations</heading>
       <section>
+        <prefix>§</prefix>
         <num>31-21</num>
         <heading>Impounding or immobilization authorized.</heading>
         <para>
@@ -11598,6 +11898,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-22</num>
         <heading>Impoundment – Right to hearing.</heading>
         <para>
@@ -11633,6 +11934,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-23</num>
         <heading>Impoundment – Notices; Time for requesting hearing.</heading>
         <para>
@@ -11680,6 +11982,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-24</num>
         <heading>Impoundment – Hearing.</heading>
         <para>
@@ -11708,6 +12011,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-25</num>
         <heading>Immobilization – Notice on vehicle.</heading>
         <para>
@@ -11749,6 +12053,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-26</num>
         <heading>Immobilization – Release on payment of booting fee, etc.</heading>
         <para>
@@ -11779,6 +12084,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-27</num>
         <heading>Immobilization – Right to hearing.</heading>
         <para>
@@ -11826,6 +12132,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-28</num>
         <heading>Immobilization – Notices.</heading>
         <para>
@@ -11866,6 +12173,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-29</num>
         <heading>Immobilization – Hearing.</heading>
         <para>
@@ -11899,16 +12207,17 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §90(g)(4), (5)</annotation>
           <annotation doc="City of Balt., Md., Ord. 69-343" type="History">Ord. 69-343</annotation>
           <annotation doc="City of Balt., Md., Ord. 74-768" type="History">Ord. 74-768</annotation>
           <annotation doc="City of Balt., Md., Ord. 83-864" type="History">Ord. 83-864</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-30</num>
         <heading>Immobilization – Subsequent acquittal on citations.</heading>
         <para>
@@ -11929,6 +12238,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-31</num>
         <heading>Immobilization – Tampering prohibited.</heading>
         <para>
@@ -11958,7 +12268,7 @@
       </section>
       <section>
         <num>31-32 to 31-40</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -11966,6 +12276,7 @@
       <num>4</num>
       <heading>Impoundment Procedures</heading>
       <section>
+        <prefix>§</prefix>
         <num>31-41</num>
         <heading>Auto pound.</heading>
         <para>
@@ -11992,6 +12303,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-42</num>
         <heading>Employment of tow trucks.</heading>
         <para>
@@ -12078,6 +12390,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-43</num>
         <heading>Notice and hearing – In general.</heading>
         <para>
@@ -12131,7 +12444,6 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §96(a)</annotation>
           <annotation doc="City of Balt., Md., Ord. 69-343" type="History">Ord. 69-343</annotation>
           <annotation doc="City of Balt., Md., Ord. 80-150" type="History">Ord. 80-150</annotation>
@@ -12143,9 +12455,11 @@
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-195" type="History">Ord. 18-195</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-44</num>
         <heading>Notice and hearing – Exception.</heading>
         <text>The Director of Transportation is not required to give notice or hold a hearing in the case of a vehicle that:</text>
@@ -12170,6 +12484,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-45</num>
         <heading>Inability to find owner or secured party.</heading>
         <para>
@@ -12212,6 +12527,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-46</num>
         <heading>Reclaim by owner.</heading>
         <para>
@@ -12249,6 +12565,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-47</num>
         <heading>Storage charges.</heading>
         <para>
@@ -12298,6 +12615,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-48</num>
         <heading>Subsequent acquittal on traffic charge.</heading>
         <para>
@@ -12324,6 +12642,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-49</num>
         <heading>Claim for missing property.</heading>
         <text>In cases where the owner asserts that certain accessories, contents, or other items of personal property are missing when the owner reclaims said vehicle:</text>
@@ -12351,6 +12670,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-50</num>
         <heading>Unclaimed vehicle.</heading>
         <text>In case the owner or operator does not claim the vehicle within the required time limit:</text>
@@ -12376,7 +12696,7 @@
       </section>
       <section>
         <num>31-51 to 31-55</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -12384,6 +12704,7 @@
       <num>5</num>
       <heading>Sale of Unclaimed Vehicles</heading>
       <section>
+        <prefix>§</prefix>
         <num>31-56</num>
         <heading>In general.</heading>
         <para>
@@ -12412,6 +12733,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-57</num>
         <heading>Auction sales – In general.</heading>
         <para>
@@ -12453,7 +12775,6 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §97(b)</annotation>
           <annotation doc="City of Balt., Md., Ord. 69-343" type="History">Ord. 69-343</annotation>
           <annotation doc="City of Balt., Md., Ord. 69-560" type="History">Ord. 69-560</annotation>
@@ -12462,9 +12783,11 @@
           <annotation doc="City of Balt., Md., Ord. 01-243" type="History">Ord. 01-243</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-58</num>
         <heading>Auction sales – Dirt bikes, unregistered motorcycles, etc.</heading>
         <para>
@@ -12540,6 +12863,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-59</num>
         <heading>Disposition of funds.</heading>
         <para>
@@ -12588,6 +12912,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-60</num>
         <heading>Purchaser to obtain new title.</heading>
         <text>On the sale of a motor vehicle, the Director of Transportation shall forward to the Motor Vehicle Administration a certificate that the motor vehicle has been sold at public auction, with a request that the certificate be considered sufficient evidence to enable the purchaser to obtain a new certificate of title and registration.</text>
@@ -12599,7 +12924,7 @@
       </section>
       <section>
         <num>31-61 to 31-65</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -12607,6 +12932,7 @@
       <num>6</num>
       <heading>When Charges Not Imposed</heading>
       <section>
+        <prefix>§</prefix>
         <num>31-66</num>
         <heading>Vehicles reported stolen.</heading>
         <para>
@@ -12670,6 +12996,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-67</num>
         <heading>Impound for police investigation.</heading>
         <para>
@@ -12689,6 +13016,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-68</num>
         <heading>No violations under subtitle.</heading>
         <para>
@@ -12722,7 +13050,7 @@
       </section>
       <section>
         <num>31-69 to 31-70</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -12730,6 +13058,7 @@
       <num>7</num>
       <heading>Impounding Areas</heading>
       <section>
+        <prefix>§</prefix>
         <num>31-71</num>
         <heading>"A" streets and areas.</heading>
         <para>
@@ -12751,6 +13080,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-72</num>
         <heading>"B" streets and areas.</heading>
         <para>
@@ -12792,6 +13122,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-73</num>
         <heading>"C" streets and areas.</heading>
         <para>
@@ -12895,6 +13226,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-74</num>
         <heading>"D" streets and areas.</heading>
         <para>
@@ -12913,6 +13245,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-75</num>
         <heading>"E" streets and areas.</heading>
         <para>
@@ -12973,6 +13306,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-76</num>
         <heading>"F" streets and areas.</heading>
         <para>
@@ -13028,6 +13362,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-77</num>
         <heading>"G" streets and areas.</heading>
         <para>
@@ -13078,6 +13413,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-78</num>
         <heading>"H" streets and areas.</heading>
         <para>
@@ -13113,6 +13449,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-79</num>
         <heading>"I" streets and areas.</heading>
         <para>
@@ -13129,9 +13466,10 @@
       </section>
       <section>
         <num>31-80</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-81</num>
         <heading>"K" streets and areas.</heading>
         <para>
@@ -13147,6 +13485,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-82</num>
         <heading>"L" streets and areas.</heading>
         <para>
@@ -13199,6 +13538,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-83</num>
         <heading>"M" streets and areas.</heading>
         <para>
@@ -13255,6 +13595,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-84</num>
         <heading>"N" streets and areas.</heading>
         <para>
@@ -13269,6 +13610,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-85</num>
         <heading>"O" streets and areas.</heading>
         <para>
@@ -13283,6 +13625,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-86</num>
         <heading>"P" streets and areas.</heading>
         <para>
@@ -13332,9 +13675,10 @@
       </section>
       <section>
         <num>31-87</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-88</num>
         <heading>"R" streets and areas.</heading>
         <para>
@@ -13353,6 +13697,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-89</num>
         <heading>"S" streets and areas.</heading>
         <para>
@@ -13402,6 +13747,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-90</num>
         <heading>"T" streets and areas.</heading>
         <para>
@@ -13418,9 +13764,10 @@
       </section>
       <section>
         <num>31-91 to 31-92</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-93</num>
         <heading>"W" streets and areas.</heading>
         <para>
@@ -13454,9 +13801,10 @@
       </section>
       <section>
         <num>31-94 to 31-100</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-101</num>
         <heading>Mid-block pedestrian crossings.</heading>
         <text>No vehicle shall be permitted to stop or stand at any time within 50 feet of an approach to a mid-block pedestrian crossing or within a distance of 25 feet after leaving a mid-block crossing.</text>
@@ -13466,6 +13814,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-102</num>
         <heading>Fire houses; emergency vehicle parking area.</heading>
         <text>In front of or opposite any fire engine house and in any reservation for authorized emergency vehicles in spaces marked off and designated by the Director of Transportation.</text>
@@ -13478,6 +13827,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-103</num>
         <heading>Carpool parking.</heading>
         <text>Those locations on public metered parking lots set aside for carpool cars by the Director of Transportation.</text>
@@ -13488,6 +13838,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-104</num>
         <heading>Fire lanes.</heading>
         <text>Within any designated fire lane on either public or private property open to the use of the general public.</text>
@@ -13497,6 +13848,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-105</num>
         <heading>Spaces reserved for disabled and helpers.</heading>
         <text>Within any space or zone marked as restricted, pursuant to § 6-9 or '' 9-1 through 9-15 of this article, to the use of disabled persons or helpers of disabled persons on private or City-owned property open to the use of the general public, except for vehicles with special registration plates for disabled persons.</text>
@@ -13507,6 +13859,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-106</num>
         <heading>Driveways, service drives, private ways.</heading>
         <para>
@@ -13526,6 +13879,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-107</num>
         <heading>Car-sharing spaces.</heading>
         <para>
@@ -13543,6 +13897,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-108</num>
         <heading>Passenger, freight, valet parking, and mobile vending zones.</heading>
         <text>Within a passenger loading zone, freight loading zone, valet parking zone, or mobile vending zone during its operational hours.</text>
@@ -13552,6 +13907,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-109</num>
         <heading>Bus lanes and bus stops.</heading>
         <text>Within any bus lane or bus stop designated by the Director pursuant to § 23-3 {"Designation of lanes and stops"} of this article.</text>
@@ -13560,6 +13916,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>31-110</num>
         <heading>Bike lanes.</heading>
         <text>Within any bike lane designated by the Director pursuant to § 20-3 {"Designation of bike lanes"} of this article.</text>
@@ -13588,6 +13945,7 @@
     <num>33</num>
     <heading>Speed Monitoring or Control Systems</heading>
     <section>
+      <prefix>§</prefix>
       <num>33-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -13627,6 +13985,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-2</num>
       <heading>Systems authorized.</heading>
       <text>The use and enforcement of speed monitoring or control systems in Baltimore City is authorized.</text>
@@ -13636,6 +13995,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-3</num>
       <heading>Governing standards, etc.</heading>
       <text>Neither a school zone speed monitoring system nor a work zone speed control system may be used except in accordance with and subject to the standards, procedures, requirements, limitations, and other provisions of:</text>
@@ -13653,6 +14013,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-4</num>
       <heading>Enforcement.</heading>
       <para>
@@ -13686,6 +14047,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33-5</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -13734,6 +14096,7 @@
       <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 13-158, effective October 1, 2012.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>34-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -13756,6 +14119,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-2</num>
       <heading>Use of system authorized.</heading>
       <text>The use of a commercial vehicle monitoring system is authorized in Baltimore City to enforce restrictions on the presence of certain vehicles in certain places during certain times.</text>
@@ -13764,6 +14128,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-3</num>
       <heading>Governing standards, etc.</heading>
       <para>
@@ -13790,6 +14155,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-4</num>
       <heading>Enforcement.</heading>
       <text>A violation recorded by a commercial vehicle monitoring system is enforceable as provided in the State Enabling Law.</text>
@@ -13798,6 +14164,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-5</num>
       <heading>Fine proceeds.</heading>
       <text>The fines that the City collects through a commercial vehicle monitoring system may be expended by the City only for the purposes specified in the State Enabling Law.</text>
@@ -13806,6 +14173,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34-6</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -13867,6 +14235,7 @@
     <num>36</num>
     <heading>Parking, etc., Fines, Penalties, and Procedures</heading>
     <section>
+      <prefix>§</prefix>
       <num>36-1</num>
       <heading>In general.</heading>
       <text>In addition to the costs stipulated in the Maryland Code, the following fines are imposed for violation of the offenses indicated.</text>
@@ -13878,6 +14247,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-2</num>
       <heading>$500 fines.</heading>
       <para>
@@ -13914,6 +14284,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-3</num>
       <heading>$300 fines.</heading>
       <para>
@@ -13935,6 +14306,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-4</num>
       <heading>$250 fines.</heading>
       <para>
@@ -13983,6 +14355,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-4.1</num>
       <heading>$125 fines.</heading>
       <text>Obstructing or impeding the free flow of traffic within an intersection or a marked crosswalk is punishable by a fine of $125.</text>
@@ -13991,6 +14364,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-5</num>
       <heading>$100 fines.</heading>
       <para>
@@ -14059,6 +14433,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-6</num>
       <heading>$75 fines.</heading>
       <para>
@@ -14094,6 +14469,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-7</num>
       <heading>$50 fines.</heading>
       <para>
@@ -14117,6 +14493,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-8</num>
       <heading>$30 fines.</heading>
       <para>
@@ -14146,6 +14523,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-9</num>
       <heading>Residential Permit Parking violations – Progressive fines.</heading>
       <text>Except as otherwise provided in this subtitle for the Pimlico Race Track Area or the Camden Yards Stadium Complex Area, parking in violation of posted permit parking restrictions in a Residential Permit Parking Program Area is punishable by the following fines:</text>
@@ -14171,9 +14549,10 @@
     </section>
     <section>
       <num>36-10 to 36-20</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-21</num>
       <heading>Collection of fines.</heading>
       <para>
@@ -14192,6 +14571,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-22</num>
       <heading>Imposition of penalties.</heading>
       <para>
@@ -14239,6 +14619,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-23</num>
       <heading>Amnesties.</heading>
       <para>
@@ -14264,12 +14645,13 @@
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out this section.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (c) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 03-596" type="History">Ord. 03-596</annotation>
         <annotation type="History">Text Conformed 02/28/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (c) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-24</num>
       <heading>Powers of Director of Finance.</heading>
       <para>
@@ -14313,13 +14695,13 @@
         <text>Any action taken under subsection (a)(4) or (5) of this section must be documented in a monthly report prepared by the Director and submitted to the City Auditor for review.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §155</annotation>
         <annotation doc="City of Balt., Md., Ord. 74-768" type="History">Ord. 74-768</annotation>
         <annotation doc="City of Balt., Md., Ord. 92-098" type="History">Ord. 92-098</annotation>
         <annotation doc="City of Balt., Md., Ord. 99-414" type="History">Ord. 99-414</annotation>
         <annotation doc="City of Balt., Md., Ord. 03-596" type="History">Ord. 03-596</annotation>
         <annotation type="History">Text Conformed 02/28/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
   </container>
@@ -14328,6 +14710,7 @@
     <num>37</num>
     <heading>General Penalties for Violations</heading>
     <section>
+      <prefix>§</prefix>
       <num>37-1</num>
       <heading>General fine.</heading>
       <text>Any person violating any provision or regulation of this article shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be fined a sum not exceeding $100 for each and every offense, except where another penalty is specified.</text>
@@ -14353,6 +14736,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>38-1</num>
         <heading>Definitions.</heading>
         <para>
@@ -14493,21 +14877,22 @@
       </section>
       <section>
         <num>38-2</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-3</num>
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-251" type="History">Ord. 19-251</annotation>
           <annotation type="History">Text Conformed 02/28/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
         <num>38-4 to 38-5</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -14515,6 +14900,7 @@
       <num>2</num>
       <heading>Dockless Vehicle Program</heading>
       <section>
+        <prefix>§</prefix>
         <num>38-6</num>
         <heading>Program established.</heading>
         <para>
@@ -14565,6 +14951,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-7</num>
         <heading>Scope.</heading>
         <para>
@@ -14590,6 +14977,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-8</num>
         <heading>Permit required.</heading>
         <para>
@@ -14607,6 +14995,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-9</num>
         <heading>Permit applications.</heading>
         <para>
@@ -14644,6 +15033,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-10</num>
         <heading>Term and renewal.</heading>
         <para>
@@ -14661,6 +15051,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-11</num>
         <heading>Permit not transferable or shareable.</heading>
         <text>A permit issued under this subtitle to any provider is not assignable or transferable to or shareable with any other provider not identified in the permit.</text>
@@ -14669,6 +15060,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-12</num>
         <heading>Data sharing requirements.</heading>
         <para>
@@ -14725,6 +15117,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-13</num>
         <heading>Permit revocation.</heading>
         <para>
@@ -14769,6 +15162,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-14</num>
         <heading>Appeals.</heading>
         <para>
@@ -14786,6 +15180,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-15</num>
         <heading>Data breaches.</heading>
         <text>If a provider determines that a breach of its data system has occurred and that the breach has placed user personal information at risk, the provider must, within 48 hours of that determination, notify the Department and all current and prior users of the breach and the likely consequences of the breach.</text>
@@ -14795,7 +15190,7 @@
       </section>
       <section>
         <num>38-16 to 38-17</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -14803,6 +15198,7 @@
       <num>3</num>
       <heading>Standards of Operation</heading>
       <section>
+        <prefix>§</prefix>
         <num>38-18</num>
         <heading>Unlawful operations of e-bike or e-scooter.</heading>
         <text>An e-bike or e-scooter may not be operated:</text>
@@ -14847,6 +15243,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-19</num>
         <heading>Unlawful parking of dockless vehicle.</heading>
         <para>
@@ -14914,6 +15311,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-20</num>
         <heading>User education.</heading>
         <para>
@@ -14931,6 +15329,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-21</num>
         <heading>Prohibited advertising.</heading>
         <text>A provider may not display third party advertising on its dockless vehicles.</text>
@@ -14939,6 +15338,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-22</num>
         <heading>Provider operational responsibilities.</heading>
         <text>A provider must:</text>
@@ -14975,6 +15375,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-23</num>
         <heading>Performance bond.</heading>
         <para>
@@ -15000,6 +15401,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38-24</num>
         <heading>Seizure.</heading>
         <para>
@@ -15059,7 +15461,7 @@
       </section>
       <section>
         <num>38-25 to 38-26</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
     </container>
     <container>
@@ -15067,6 +15469,7 @@
       <num>4</num>
       <heading>Enforcement</heading>
       <section>
+        <prefix>§</prefix>
         <num>38-27</num>
         <heading>Enforcement by citation.</heading>
         <para>

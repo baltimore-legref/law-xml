@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Director of Public Works</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Public Works may adopt and enforce rules and regulations governing:</text>
@@ -20,7 +21,6 @@
         <text>the protection of the City's water supply and facilities.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1879, art. 53, §1</annotation>
         <annotation type="Prior Codifications">1893, art. 54, §1</annotation>
         <annotation type="Prior Codifications">1927, art. 48, §1</annotation>
@@ -33,9 +33,11 @@
         <annotation doc="City of Balt., Md., Ord. 76-142" type="History">Ord. 76-142</annotation>
         <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
         <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Rates and charges.</heading>
       <para>
@@ -109,6 +111,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Payments on claims.</heading>
       <para>
@@ -134,6 +137,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Installations.</heading>
       <para>
@@ -159,6 +163,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Work by contract or labor.</heading>
       <text>The Department of Public Works is authorized and empowered to do any of the work either by contract or by day labor as in the judgment of the Director of Public Works may be best for the interests of the City, in each instance.</text>
@@ -175,6 +180,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Suspension, etc., of certain uses.</heading>
       <para>
@@ -209,9 +215,10 @@
     </section>
     <section>
       <num>1-7 to 1-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-11</num>
       <heading>Definitions.</heading>
       <para>
@@ -321,7 +328,6 @@
     <num>2</num>
     <heading>Bills</heading>
     <annotations>
-      <annotation type="Editor's Notes">Ordinance 20-336 {“Water Accountability and Equity Act”} and Ordinance 20-468 {“Water Accountability ... Act – Modifications”} substantially amended Subtitles 2 and 4 of this article and related provisions elsewhere.  Ord. 20-468, enacted December 7, 2020, deferred the effective dates of both these ordinances to July 1, 2021 – subject, however, to several “interim effective dates and requirements”.</annotation>
       <annotation type="Editor's Notes">
         <text>Ordinance 20-468 provides in some detail for the effective dates and interim requirements of the Water Accountability and Equity Act, as follows</text>
         <text>Section 3.  And be it further ordained, That the Laws of Baltimore City read as follows:</text>
@@ -414,8 +420,10 @@
           <text>The Department of Public Works may not exercise its authority to cut-off a water supply for default or arrearage under Art. 24, § 2-1(c) or § 2-3 and may not impose either service restoration fees or late fees for any individual who is enrolled in any discount program until July 1, 2021, when all provisions of the Water Equity and Accountability Act, as enacted by Ordinance 20-336 and modified in part by this Ordinance, will have taken effect, as provided at the outset of this Section 5.</text>
         </para>
       </annotation>
+      <annotation type="Editor's Notes">Ordinance 20-336 {“Water Accountability and Equity Act”} and Ordinance 20-468 {“Water Accountability ... Act – Modifications”} substantially amended Subtitles 2 and 4 of this article and related provisions elsewhere.  Ord. 20-468, enacted December 7, 2020, deferred the effective dates of both these ordinances to July 1, 2021 – subject, however, to several “interim effective dates and requirements”.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Collection.</heading>
       <para>
@@ -474,6 +482,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Abatements.</heading>
       <para>
@@ -498,6 +507,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <heading>Cut-off for arrearage.</heading>
       <para>
@@ -576,9 +586,10 @@
     </section>
     <section>
       <num>2-4 to 2-5</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-6</num>
       <heading>Water-for-All Program – Overview.</heading>
       <para>
@@ -604,12 +615,13 @@
         <text>The DPW Director or Finance Director, as the case may be, shall inform each residential- and tenant-water-utility customer of the availability of and eligibility criteria for the Water-for-All Discount Program in each bill and in each notice provided under § 4-3(d) {"Cut-off for non-payment: Notice"} of this article.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
         <annotation type="History">Text Conformed 02/23/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-7</num>
       <heading>Water-for-All Program – Application for Program.</heading>
       <para>
@@ -696,6 +708,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-8</num>
       <heading>Water-for-All Program – Grant of Credit.</heading>
       <para>
@@ -766,6 +779,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-9</num>
       <heading>Water-for-All Program – Distribution of Credit.</heading>
       <para>
@@ -819,6 +833,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-10</num>
       <heading>Water-for-All Program – Program denials.</heading>
       <text>If the Director determines any applicant to be ineligible for the Water-for-All Credit, the Director shall notify the applicant of this determination and of the applicant's right to appeal under § 2-21 {"Office ... – Appeals"} of this subtitle.</text>
@@ -827,6 +842,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-11</num>
       <heading>Water-for-All Program – Midyear ineligibility for credit.</heading>
       <para>
@@ -849,6 +865,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-12</num>
       <heading>Water-for-All Program – Enrollment confirmation.</heading>
       <text>On a customer's enrollment into the Water-for-All Discount Program, the Department shall provide the customer with a written statement that sets forth:</text>
@@ -897,6 +914,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-13</num>
       <heading>Water-for-All Program – Program arrears.</heading>
       <para>
@@ -942,6 +960,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-14</num>
       <heading>Water-for-All Program – Annual recertification of eligibility.</heading>
       <para>
@@ -972,6 +991,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-15</num>
       <heading>Water-for-All Program – Program disputes.</heading>
       <text>Any applicant or recipient aggrieved by a determination of the Department under this Program may appeal that determination, as provided in § 2-21 {"Office ... – Appeals"} of this subtitle.</text>
@@ -981,9 +1001,10 @@
     </section>
     <section>
       <num>2-16</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-17</num>
       <heading>Office of Water-Customer Advocacy and Appeals  –  Office established; Nature, purposes; Primary functions.</heading>
       <para>
@@ -1158,6 +1179,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-18</num>
       <heading>Office of Customer Advocacy . . .  –  Administration.</heading>
       <para>
@@ -1226,6 +1248,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-19</num>
       <heading>Office of Customer Advocacy . . .  –  Request for assistance.</heading>
       <para>
@@ -1261,6 +1284,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-20</num>
       <heading>Office of Customer Advocacy . . .  – Customer-advocacy services.</heading>
       <para>
@@ -1401,6 +1425,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-21</num>
       <heading>Office of Customer Advocacy . . .  – Appeals.</heading>
       <para>
@@ -1654,6 +1679,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-22</num>
       <heading>Office of Customer Advocacy . . .  – Continued service, rights pending reviews, etc.</heading>
       <text>Notwithstanding any other provision of this article, the Department may not cut off water or wastewater service because of a delinquency or arrearage that is the subject of a pending request, made in good faith, for investigation, review, or appeal, or for judicial or appellate review of a billing dispute.</text>
@@ -1663,6 +1689,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-23</num>
       <heading>Office of Customer Advocacy . . .  –  Committee for Office Oversight.</heading>
       <para>
@@ -1772,6 +1799,7 @@
     <num>3</num>
     <heading>Setting Rates and Charges; Expenditures</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Board of Estimates to set.</heading>
       <para>
@@ -1822,6 +1850,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Accounting system</heading>
       <para>
@@ -1848,6 +1877,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Annual report.</heading>
       <text>After the close of each fiscal year, there shall be submitted to the Board of Estimates, the Board of Finance, and to the members of the City Council, a report which may be submitted as a separate section of the statements prescribed under Article VII, § 11 of the City Charter as to the operation of each said utility containing at least the following financial statements:</text>
@@ -1873,6 +1903,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Excess revenues.</heading>
       <para>
@@ -1899,6 +1930,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Setting rates and charges.</heading>
       <para>
@@ -1951,6 +1983,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-6</num>
       <heading>Approval of expenditures.</heading>
       <para>
@@ -1969,6 +2002,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-7</num>
       <heading>City loans to utility.</heading>
       <para>
@@ -1987,6 +2021,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-8</num>
       <heading>Conflict with covenants, etc.</heading>
       <text>In the event that any provision in this subtitle for the water and sanitary wastewater utilities shall be inconsistent with any covenants, conditions, laws, or any regulations promulgated thereunder governing any contract, project, or grant from the United States or from the State or funds dedicated by an Act of Congress or by State law or by the terms of any private grant, such provision in this section shall be applicable only to the extent that it is not inconsistent with any such covenants, laws, or regulations for any federal or State contract, project, or grant or with the terms of any such private grant.</text>
@@ -2005,9 +2040,10 @@
     </annotations>
     <section>
       <num>4-1</num>
-      <heading>{Repealed by Ord. 16-523}</heading>
+      <reason>Repealed by Ord. 16-523</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Metered water charges; Fire supply service inspection charges.</heading>
       <para>
@@ -2065,6 +2101,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Cut-off for nonpayment.</heading>
       <para>
@@ -2226,6 +2263,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-4</num>
       <heading>Full payment required to restore service.</heading>
       <text>The total of all delinquent water charges, including but not limited to the penalty or interest and turn-off charges, must be paid before service will be restored.</text>
@@ -2246,6 +2284,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-5</num>
       <heading>Installment payment agreement.</heading>
       <para>
@@ -2352,6 +2391,7 @@
     <num>5</num>
     <heading>Municipal Uses</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Tax to cover costs.</heading>
       <text>A sufficient tax shall be annually levied and imposed for the payment of the expenses incurred in supplying water to any of the departments of the city government and all other uses ordered by the Mayor and City Council.</text>
@@ -2367,6 +2407,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Public parks and squares.</heading>
       <para>
@@ -2401,6 +2442,7 @@
     <num>11</num>
     <heading>Drinking Fountains</heading>
     <section>
+      <prefix>§</prefix>
       <num>11-1</num>
       <heading>Construction; location; removal.</heading>
       <para>
@@ -2433,6 +2475,7 @@
     <num>12</num>
     <heading>Laying Pipes in Streets</heading>
     <section>
+      <prefix>§</prefix>
       <num>12-1</num>
       <heading>Powers of Department.</heading>
       <para>
@@ -2474,6 +2517,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-2</num>
       <heading>Digging up streets.</heading>
       <text>Whenever the Department of Public Works, or any of its agents or workmen, shall take up any part of the pavement or dig up any part of the streets, lanes, or alleys of the City of Baltimore for the purpose of laying or repairing the pipes for conducting the water through the City or into the houses or lots of the citizens, it shall proceed without delay to put down or repair the pipes, as the case may be, and immediately thereafter fill in the earth or otherwise secure the place so dug up from becoming a nuisance or endangering persons using the streets, lanes, and alleys.</text>
@@ -2490,6 +2534,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12-3</num>
       <heading>Repairing pipes.</heading>
       <para>
@@ -2520,6 +2565,7 @@
     <num>13</num>
     <heading>Pavements</heading>
     <section>
+      <prefix>§</prefix>
       <num>13-1</num>
       <heading>Repair work.</heading>
       <text>In all cases where the Department of Public Works or any of its agents or workmen shall take up any paving or curbing, whether in the roadway or sidewalk area, for any of the purposes aforesaid, the said Department of Public Works shall have such areas repaved, reconstructed, or repaired in a satisfactory manner.</text>
@@ -2536,6 +2582,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13-2</num>
       <heading>Marking distribution facilities.</heading>
       <para>
@@ -2576,6 +2623,7 @@
     <num>21</num>
     <heading>Prohibited Conduct; Penalties</heading>
     <section>
+      <prefix>§</prefix>
       <num>21-1</num>
       <heading>Rules and regulations.</heading>
       <text>No person may violate any rule or regulation adopted under § 1-1 of this article to protect the City's water supply and facilities.</text>
@@ -2584,6 +2632,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-2</num>
       <heading>Suspension, etc., of certain uses.</heading>
       <text>No person may violate any order issued under § 1-6 of this article to suspend, condition, limit, or temporarily prohibit the use of water.</text>
@@ -2592,6 +2641,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-3</num>
       <heading>Injuring fire hydrants.</heading>
       <text>No person may wilfully injure or deface any fire hydrant belonging to the City.</text>
@@ -2609,6 +2659,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-4</num>
       <heading>Wrongful use after cut-off.</heading>
       <text>No person may, without authorization from the Department of Public Works, connect with any water pipe that belongs to the City or otherwise turn on the water to any premises to which the water was turned off by an officer of the Department.</text>
@@ -2626,6 +2677,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-5</num>
       <heading>Refusal of entry.</heading>
       <text>No person may refuse to permit an agent of the Department of Public Works to visit his, her, or its premises in the discharge of that agent's official duties.</text>
@@ -2642,6 +2694,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-6</num>
       <heading>Interference with equipment; Illegal use of water.</heading>
       <para>
@@ -2678,9 +2731,10 @@
     </section>
     <section>
       <num>21-7 to 21-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-11</num>
       <heading>Enforcement by citation.</heading>
       <para>
@@ -2707,6 +2761,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21-12</num>
       <heading>Criminal penalties.</heading>
       <para>

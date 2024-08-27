@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Anchorages</heading>
     <section>
+      <prefix>§</prefix>
       <num>1-1</num>
       <heading>Establishment; regulation.</heading>
       <para>
@@ -60,7 +61,6 @@
         <text>The Harbor Engineer is hereby vested with the authority of locating, maintaining, and patrolling these anchorages.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsections (a)(2) and (b)(1) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1927, art. 15, §4</annotation>
         <annotation type="Prior Codifications">1950, art. 11, §1(a)</annotation>
         <annotation type="Prior Codifications">1966, art. 10, §1(a)</annotation>
@@ -68,9 +68,11 @@
         <annotation doc="City of Balt., Md., Ord. 09-293" type="History">Ord. 09-293</annotation>
         <annotation doc="City of Balt., Md., Ord. 48-477" type="History">Ord. 48-477</annotation>
         <annotation type="History">Texts Conformed 02/18/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsections (a)(2) and (b)(1) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <heading>Anchorages described.</heading>
       <text>The anchorage locations as hereinafter described are laid down on a copy of the United States Coast and Geodetic Survey Chart No. 545, which is on file in the office of the Harbor Engineer and is dated September 14, 1948.</text>
@@ -82,6 +84,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <heading>Anchorage A.</heading>
       <para>
@@ -109,6 +112,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-4</num>
       <heading>Anchorage C.</heading>
       <para>
@@ -125,11 +129,11 @@
         </para>
         <para>
           <num>3.</num>
-          <text>On the south by a line between Buoy S-2 and a point 900 feet 190\uF0B0 true from Ferry Bar Channel front range light.</text>
+          <text>On the south by a line between Buoy S-2 and a point 900 feet 190° true from Ferry Bar Channel front range light.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>On the east by a line between Buoy S-2 and a point 250 yards 270\uF0B0 true from Ferry Bar Channel front range light.</text>
+          <text>On the east by a line between Buoy S-2 and a point 250 yards 270° true from Ferry Bar Channel front range light.</text>
         </para>
       </para>
       <para>
@@ -152,6 +156,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <heading>Anchorage No. 1 (Fort McHenry).</heading>
       <para>
@@ -160,19 +165,19 @@
         <text>This anchorage is in the area bounded by lines drawn through the following points:</text>
         <para>
           <num>4.</num>
-          <text>3,300 feet, 164\uF0B0-30' true from Lazaretto Point Light.</text>
+          <text>3,300 feet, 164°-30' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>3,500 feet, 170\uF0B0-30' true from Lazaretto Point Light.</text>
+          <text>3,500 feet, 170°-30' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>White Spar Buoy B — 5,900 feet, 158\uF0B0-15' true from Lazaretto Point Light.</text>
+          <text>White Spar Buoy B — 5,900 feet, 158°-15' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>Buoy 17M — 6,800 feet, 152\uF0B0-15' true from Lazaretto Point Light.</text>
+          <text>Buoy 17M — 6,800 feet, 152°-15' true from Lazaretto Point Light.</text>
         </para>
       </para>
       <para>
@@ -195,6 +200,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <heading>Anchorage No. 2 (General Anchorage).</heading>
       <para>
@@ -203,31 +209,31 @@
         <text>Located between Lazaretto Point and the Municipal Airport, bounded by lines drawn between the following points:</text>
         <para>
           <num>4.</num>
-          <text>6,080 feet, 115\uF0B0-15' true from Lazaretto Point Light.</text>
+          <text>6,080 feet, 115°-15' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>8,150 feet, 126\uF0B0-15' true from Lazaretto Point Light.</text>
+          <text>8,150 feet, 126°-15' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>7,925 feet, 135\uF0B0-15' true from Lazaretto Point Light.</text>
+          <text>7,925 feet, 135°-15' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>Spar W-S-C — 6,900 feet 134\uF0B0-30' true from Lazaretto Point Light.</text>
+          <text>Spar W-S-C — 6,900 feet 134°-30' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>8.</num>
-          <text>Main Channel Marker 18M — 6,900 feet, 146\uF0B0-45' true from Lazaretto Point Light.</text>
+          <text>Main Channel Marker 18M — 6,900 feet, 146°-45' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>6.</num>
-          <text>Private Channel Marker N2 — 4,800 feet, 149\uF0B0-15' true from Lazaretto Point Light.</text>
+          <text>Private Channel Marker N2 — 4,800 feet, 149°-15' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>12.</num>
-          <text>4,650 feet, 123\uF0B0-45' true from Lazaretto Point Light.</text>
+          <text>4,650 feet, 123°-45' true from Lazaretto Point Light.</text>
         </para>
       </para>
       <para>
@@ -250,6 +256,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-7</num>
       <heading>Anchorage No. 3 (Riverview, General Anchorage).</heading>
       <para>
@@ -258,19 +265,19 @@
         <text>Located between Fort McHenry Channel and Municipal Airport, bounded by lines drawn between the following points:</text>
         <para>
           <num>8.</num>
-          <text>White Spar Buoy A — 11,340 feet, 137\uF0B0-15' true from Lazaretto Point Light.</text>
+          <text>White Spar Buoy A — 11,340 feet, 137°-15' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>White Spar Buoy C — 6,900 feet, 134\uF0B0-30' true from Lazaretto Point Light.</text>
+          <text>White Spar Buoy C — 6,900 feet, 134°-30' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>Buoy 18M — 6,900 feet, 146\uF0B0-45' true from Lazaretto Point Light.</text>
+          <text>Buoy 18M — 6,900 feet, 146°-45' true from Lazaretto Point Light.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>Buoy 12M — 11,360 feet, 144\uF0B0-45' true from Lazaretto Point Light.</text>
+          <text>Buoy 12M — 11,360 feet, 144°-45' true from Lazaretto Point Light.</text>
         </para>
       </para>
       <para>
@@ -293,6 +300,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-8</num>
       <heading>Anchorage No. 4 (General Anchorage).</heading>
       <para>
@@ -301,19 +309,19 @@
         <text>Located between Sollers Point and Municipal Airport, bounded by lines drawn between the following points:</text>
         <para>
           <num>1.</num>
-          <text>9,430 feet, 330\uF0B0-20' true from Fort Carroll Light.</text>
+          <text>9,430 feet, 330°-20' true from Fort Carroll Light.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>9,310 feet, 315\uF0B0-00' true from Fort Carroll Light.</text>
+          <text>9,310 feet, 315°-00' true from Fort Carroll Light.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>Buoy 8M — 4,475 feet, 308\uF0B0-45' true from Fort Carroll Light.</text>
+          <text>Buoy 8M — 4,475 feet, 308°-45' true from Fort Carroll Light.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>4,610 feet, 339\uF0B0-30' true from Fort Carroll Light.</text>
+          <text>4,610 feet, 339°-30' true from Fort Carroll Light.</text>
         </para>
       </para>
       <para>
@@ -336,6 +344,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-9</num>
       <heading>Anchorage No. 5 (General Anchorage).</heading>
       <para>
@@ -344,19 +353,19 @@
         <text>Located between Fort McHenry Channel and Curtis Bay Channel and bounded by lines drawn between the following points:</text>
         <para>
           <num>4.</num>
-          <text>Buoy 11M — 7,800 feet, 60\uF0B0-00' true from Brewerton Channel Back Range.</text>
+          <text>Buoy 11M — 7,800 feet, 60°-00' true from Brewerton Channel Back Range.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Buoy 9M — 5,650 feet, 44\uF0B0-15' true from Brewerton Channel Back Range.</text>
+          <text>Buoy 9M — 5,650 feet, 44°-15' true from Brewerton Channel Back Range.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>Buoy N2 — 5,000 feet, 48\uF0B0-45' true from Brewerton Channel Back Range.</text>
+          <text>Buoy N2 — 5,000 feet, 48°-45' true from Brewerton Channel Back Range.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>Bell Buoy 6 — 3,600 feet, 330\uF0B0-20' true from Brewerton Channel Back Range.</text>
+          <text>Bell Buoy 6 — 3,600 feet, 330°-20' true from Brewerton Channel Back Range.</text>
         </para>
       </para>
       <para>
@@ -379,6 +388,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-10</num>
       <heading>Anchorage No. 6 (Explosives Anchorage).</heading>
       <para>
@@ -387,21 +397,21 @@
         <text>Located northeast of Fort McHenry Channel and just northwest of Fort Carroll, and bounded by lines drawn between the following points:</text>
         <para>
           <num>4.</num>
-          <text>4,610 feet, 339\uF0B0-30' true from Fort Carroll Light.</text>
+          <text>4,610 feet, 339°-30' true from Fort Carroll Light.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Buoy 8M — 4,475 feet, 308\uF0B0-45' true from Fort Carroll Light.</text>
+          <text>Buoy 8M — 4,475 feet, 308°-45' true from Fort Carroll Light.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>Buoy 6M — 1,310 feet, 275\uF0B0-15' true from Fort Carroll Light.</text>
+          <text>Buoy 6M — 1,310 feet, 275°-15' true from Fort Carroll Light.</text>
         </para>
         <para>
           <num>4.</num>
           <para>
             <num>W.</num>
-            <text>Spar Buoy A — 1,000 feet, 346\uF0B0-30' true from Fort Carroll Light.</text>
+            <text>Spar Buoy A — 1,000 feet, 346°-30' true from Fort Carroll Light.</text>
           </para>
         </para>
       </para>
@@ -425,6 +435,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-11</num>
       <heading>Anchorage No. 7 (Quarantine Anchorage).</heading>
       <para>
@@ -433,22 +444,22 @@
         <text>Located in the area west of Fort McHenry Channel and south of Curtis Bay Channel, and bounded by the western and southern edges respectively of those channels and lines between the following points:</text>
         <para>
           <num>4.</num>
-          <text>4,775 feet, 302\uF0B0-00' true from Fort Carroll Light.</text>
+          <text>4,775 feet, 302°-00' true from Fort Carroll Light.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Buoy C1 — 5,450 feet, 297\uF0B0-15' true from Fort Carroll Light.</text>
+          <text>Buoy C1 — 5,450 feet, 297°-15' true from Fort Carroll Light.</text>
         </para>
         <para>
           <num>3.</num>
           <para>
             <num>W.</num>
-            <text>Spar Buoy A — 2,575 feet, 263\uF0B0-30' true from Fort Carroll Light.</text>
+            <text>Spar Buoy A — 2,575 feet, 263°-30' true from Fort Carroll Light.</text>
           </para>
         </para>
         <para>
           <num>4.</num>
-          <text>Buoy 5M — 1,730 feet, 258\uF0B0-46' true from Fort Carroll Light.</text>
+          <text>Buoy 5M — 1,730 feet, 258°-46' true from Fort Carroll Light.</text>
         </para>
       </para>
       <para>
@@ -471,6 +482,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-12</num>
       <heading>Anchorage No. 8 (Dead Anchorage).</heading>
       <para>
@@ -479,15 +491,15 @@
         <text>Located in Curtis Bay, south of Curtis Bay Channel, bounded by lines drawn between the following points:</text>
         <para>
           <num>4.</num>
-          <text>Buoy C7 — 5,650 feet, 296\uF0B0-30' true from Brewerton Channel Rear Range Light.</text>
+          <text>Buoy C7 — 5,650 feet, 296°-30' true from Brewerton Channel Rear Range Light.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Buoy C5 — 2,775 feet, 345\uF0B0-40' true from Brewerton Channel Rear Range Light.</text>
+          <text>Buoy C5 — 2,775 feet, 345°-40' true from Brewerton Channel Rear Range Light.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>90\uF0B0 from these points south to the shore line between Sledds Point and Leading Point.</text>
+          <text>90° from these points south to the shore line between Sledds Point and Leading Point.</text>
         </para>
       </para>
       <para>
@@ -514,6 +526,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-13</num>
       <heading>Anchorage No. 9 (General Anchorage).</heading>
       <para>
@@ -522,27 +535,27 @@
         <text>Located north of Ferry Bar Channel and southwest of Fort McHenry Park, bounded by lines drawn between the following points:</text>
         <para>
           <num>4.</num>
-          <text>5,300 feet, 251\uF0B0-30' true from Fort McHenry Channel Light.</text>
+          <text>5,300 feet, 251°-30' true from Fort McHenry Channel Light.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Buoy — 5,665 feet, 241\uF0B0-30' true from Fort McHenry Channel Light.</text>
+          <text>Buoy — 5,665 feet, 241°-30' true from Fort McHenry Channel Light.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>Buoy S14 — 4,500 feet, 228\uF0B0-45' true from Fort McHenry Channel Light.</text>
+          <text>Buoy S14 — 4,500 feet, 228°-45' true from Fort McHenry Channel Light.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>Buoy S10 — 3,165 feet, 201\uF0B0-50' true from Fort McHenry Channel Light.</text>
+          <text>Buoy S10 — 3,165 feet, 201°-50' true from Fort McHenry Channel Light.</text>
         </para>
         <para>
           <num>8.</num>
-          <text>Buoy S8 — 2,560 feet, 182\uF0B0-45' true from Fort McHenry Channel Light.</text>
+          <text>Buoy S8 — 2,560 feet, 182°-45' true from Fort McHenry Channel Light.</text>
         </para>
         <para>
           <num>6.</num>
-          <text>Buoy S — 1,675 feet, 187\uF0B0-00' true from Fort McHenry Channel Light.</text>
+          <text>Buoy S — 1,675 feet, 187°-00' true from Fort McHenry Channel Light.</text>
         </para>
       </para>
       <para>
@@ -566,9 +579,10 @@
     </section>
     <section>
       <num>1-14</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-15</num>
       <heading>Obstructing access.</heading>
       <para>
@@ -603,6 +617,7 @@
     <num>2</num>
     <heading>Inner Harbor</heading>
     <section>
+      <prefix>§</prefix>
       <num>2-1</num>
       <heading>Regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, and notwithstanding any other provisions of this Article 10 to the contrary, the Commissioner of Housing and Community Development, or his designee, is hereby empowered, from time to time to promulgate:</text>
@@ -623,13 +638,14 @@
         <text>such other regulations as may be deemed necessary and proper to the maintenance of the public health and safety.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section’s introductory language to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 10, §13A(1)</annotation>
         <annotation doc="City of Balt., Md., Ord. 80-141" type="History">Ord. 80-141</annotation>
         <annotation type="History">Text Conformed 02/18/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section’s introductory language to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-2</num>
       <heading>Anchorages.</heading>
       <text>The Commissioner of Housing and Community Development, or his designee, is further vested with the authority of locating, maintaining, regulating, and patrolling anchorages within the aforesaid areas of Baltimore Harbor designated as "Inner Harbor Project I" and "Inner Harbor East Project".</text>
@@ -640,9 +656,10 @@
     </section>
     <section>
       <num>2-3</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-4</num>
       <heading>Enforcement.</heading>
       <text>The Commissioner of Housing and Community Development is further authorized to call upon such law enforcement agencies as he shall require to assist in the enforcement of the provisions of this subtitle.</text>
@@ -652,6 +669,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-5</num>
       <heading>Penalties.</heading>
       <para>
@@ -675,6 +693,7 @@
     <num>3</num>
     <heading>Pierhead Lines</heading>
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Limiting lines.</heading>
       <text>The pierhead lines established for the Patapsco River, by Acts of the Secretary of War, from time to time, and the lines inside the said pierhead lines in portions of the Harbor shown on plats numbered 1 to 5, signed by the Mayor and the Harbor Engineer under Ordinance No. 116 of 1894, and any other lines now or hereafter established by ordinance inside said United States Government pierhead lines, are hereby declared to be the limiting lines beyond which no structure shall extend.</text>
@@ -688,6 +707,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Dock opposite Fifth Lane; dock out from old Port Warden's Line.</heading>
       <text>Ordinance No. 111, approved May 7, 1853, being entitled "Supplement to an Ordinance, entitled 'An ordinance to change in some particulars, the present Port Warden's Line=@, is hereby repealed, in part, by eliminating the provisions for a dock opposite Fifth Lane, and the dock therein provided to be extended to be laid out from the old Port Warden's Line on the northernmost line of the property formerly belonging to Henry William Ellicott.</text>
@@ -700,6 +720,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Pier and Bulkhead Line modified.</heading>
       <text>The Pier or Bulkhead Line in the Harbor of Baltimore City as established by Ordinance No. 83 of the Mayor and City Council of Baltimore, approved May 17, 1881, shall be modified and extended:</text>
@@ -709,15 +730,15 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>so that a new Pier and Bulkhead Line be established coinciding with the Pier and Bulkhead Line of the United States Government, as shown on the map of the War Department of the United States Government, approved September 29, 1917, by the Assistant Secretary of War, from said point LVII southeasterly to a point on said line 170.34 feet distant from said point LVII, and running thence by a straight line, S. 7\uF0B0 27' 00" E. 238.33 feet to a point where said new Pier and Bulkhead Line intersects the Port Warden's Line established under Ordinance No. 111, approved May 7, 1853, and running thence S. 65\uF0B0 44' 30" E. 60.7 feet along and coincident with said Port Warden's Line to a point where said Port Warden's Line intersects a line determined by decision of the Superior Court of Baltimore City in the case of <em>St. Agnes' Hospital v. Mayor and City Council of Baltimore</em>, date March 14, 1877;</text>
+        <text>so that a new Pier and Bulkhead Line be established coinciding with the Pier and Bulkhead Line of the United States Government, as shown on the map of the War Department of the United States Government, approved September 29, 1917, by the Assistant Secretary of War, from said point LVII southeasterly to a point on said line 170.34 feet distant from said point LVII, and running thence by a straight line, S. 7° 27' 00" E. 238.33 feet to a point where said new Pier and Bulkhead Line intersects the Port Warden's Line established under Ordinance No. 111, approved May 7, 1853, and running thence S. 65° 44' 30" E. 60.7 feet along and coincident with said Port Warden's Line to a point where said Port Warden's Line intersects a line determined by decision of the Superior Court of Baltimore City in the case of <em>St. Agnes' Hospital v. Mayor and City Council of Baltimore</em>, date March 14, 1877;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>so that a new Pierhead Line be established from said last named point of intersection running N. 44\uF0B0 40' 40" E. 217.98 feet to the Pier and Bulkhead Line of the United States Government as shown on the said map of the War Department of the United States Government; and</text>
+        <text>so that a new Pierhead Line be established from said last named point of intersection running N. 44° 40' 40" E. 217.98 feet to the Pier and Bulkhead Line of the United States Government as shown on the said map of the War Department of the United States Government; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>so that a new Bulkhead Line be established running S. 65\uF0B0 44' 30" E. 177.37 feet in a straight line along and coinciding with said Port Warden's Line, established under said Ordinance No. 111, approved May 7, 1853, said new Bulkhead Line extending from a point where said Port Warden's Line intersects the said line determined by said decision of the Superior Court of Baltimore City, to the northwesterly boundary line, as extended into the water, of the property leased by the Mayor and City Council of Baltimore to Platt and Company by lease dated July 21, 1865, and continuing thence in a straight line S. 44\uF0B0 40' 40" W. 193.72 feet more or less along and coinciding with the said northwesterly boundary line, as so extended, of the said property leased by the Mayor and City Council of Baltimore to said Platt and Company to a point where said new Bulkhead Line intersects the Bulkhead Line established under said Ordinance No. 83, approved May 17, 1881, as shown on plat referred to in said Ordinance No. 83 of the Mayor and City Council of Baltimore.</text>
+        <text>so that a new Bulkhead Line be established running S. 65° 44' 30" E. 177.37 feet in a straight line along and coinciding with said Port Warden's Line, established under said Ordinance No. 111, approved May 7, 1853, said new Bulkhead Line extending from a point where said Port Warden's Line intersects the said line determined by said decision of the Superior Court of Baltimore City, to the northwesterly boundary line, as extended into the water, of the property leased by the Mayor and City Council of Baltimore to Platt and Company by lease dated July 21, 1865, and continuing thence in a straight line S. 44° 40' 40" W. 193.72 feet more or less along and coinciding with the said northwesterly boundary line, as so extended, of the said property leased by the Mayor and City Council of Baltimore to said Platt and Company to a point where said new Bulkhead Line intersects the Bulkhead Line established under said Ordinance No. 83, approved May 17, 1881, as shown on plat referred to in said Ordinance No. 83 of the Mayor and City Council of Baltimore.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1927, art. 15, §13</annotation>
@@ -729,6 +750,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Pierhead Line and Port Warden Line modified.</heading>
       <para>
@@ -773,6 +795,7 @@
     <num>4</num>
     <heading>Municipal Airport</heading>
     <section>
+      <prefix>§</prefix>
       <num>4-1</num>
       <heading>Boundary lines.</heading>
       <text>The boundary or divisional lines for any and all improvements or extensions of whatever kind into the Patapsco River, between the properties bounding upon the northeast shore of the Patapsco River and lying southerly from the southernmost boundary line of the property now owned by the Mayor and City Council of Baltimore, and known as the Municipal Airport, which said southernmost boundary line was fixed by a decree of the District Court of the United States for the District of Maryland dated March 9th, 1942 and passed in a case entitled <em>Crown Cork &amp; Seal Co., et al. v. Mayor and City Council, et al</em>., Civil Docket No. 201, to Sollers Point shall be as shown on the four identical plats attached hereto and made a part hereof, said plats being signed by Edward Coonan &amp; Co., surveyors and civil engineers, 231 St. Paul Place, Baltimore, Md., and dated October 3, 1940.</text>
@@ -784,6 +807,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-2</num>
       <heading>Riparian rights.</heading>
       <text>The exercise and enjoyment of all riparian rights mentioned in § 4-1 hereof appurtenant to each of the said properties shall be restricted and confined within the areas designated for each of said properties on said identical plats, but nothing herein shall be construed to restrict or prohibit any additions or changes of said divisional lines, which might occur through the establishment, in the manner provided by law, of bulkhead or pierhead lines at greater or lesser distances from the shore.</text>
@@ -795,6 +819,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <heading>Plats.</heading>
       <text>Upon the passage of the ordinance establishing this subtitle by the City Council, the four plats attached to the ordinance, as evidence of the authenticity of the same, shall be signed by the President of the City Council and, upon approval of the ordinance, shall be signed by the Mayor of Baltimore City.  1 of said plats shall be permanently attached to the original ordinance, and reproductions thereof shall be printed with the bound copies of the ordinances.  It shall be the duty of the City Solicitor to file another of said plats with the Harbor Engineer of Baltimore, and to record the other 2 of said plats, 1 among the Land Records of Baltimore City and the other among the Land Records of Baltimore County.</text>
@@ -811,6 +836,7 @@
     <num>5</num>
     <heading>Maintenance of Piers, Wharves, etc.</heading>
     <section>
+      <prefix>§</prefix>
       <num>5-1</num>
       <heading>Public piers, etc.</heading>
       <text>Whenever the same may be proper and necessary, the Harbor Engineer shall cause public piers, wharves, and bulkheads to be built, rebuilt, and repaired at any water front property of the City.</text>
@@ -824,6 +850,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-2</num>
       <heading>Private piers, etc.</heading>
       <para>
@@ -856,6 +883,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-3</num>
       <heading>Consent needed for work.</heading>
       <para>
@@ -886,6 +914,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-4</num>
       <heading>Permit needed for structures.</heading>
       <para>
@@ -915,6 +944,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-5</num>
       <heading>Pier endangered by additional cargo.</heading>
       <para>
@@ -936,6 +966,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-6</num>
       <heading>Injury to wharf or dock.</heading>
       <para>
@@ -957,6 +988,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-7</num>
       <heading>Bulk cargoes on piers.</heading>
       <para>
@@ -978,6 +1010,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-8</num>
       <heading>Vehicles on piers.</heading>
       <para>
@@ -1008,6 +1041,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5-9</num>
       <heading>Work done under permit.</heading>
       <para>
@@ -1056,6 +1090,7 @@
     <num>6</num>
     <heading>Wharfage and Other Regulations</heading>
     <section>
+      <prefix>§</prefix>
       <num>6-1</num>
       <heading>Charges.</heading>
       <para>
@@ -1116,6 +1151,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-2</num>
       <heading>Inspection of license, bills of lading, etc.</heading>
       <para>
@@ -1152,6 +1188,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-3</num>
       <heading>Permission to enter public dock.</heading>
       <para>
@@ -1193,6 +1230,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-4</num>
       <heading>Retailing goods at City wharf.</heading>
       <para>
@@ -1215,6 +1253,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-5</num>
       <heading>Sale of seafood.</heading>
       <para>
@@ -1235,6 +1274,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-6</num>
       <heading>Removal of unclaimed merchandise.</heading>
       <text>Whenever the owner or agent of any merchandise on any City wharf cannot be ascertained by the Harbor Master, after the same has been thereon 48 hours, the Harbor Master may remove and sell the same, upon giving at least 10 days' notice, but perishable articles may be sold at the discretion of the Harbor Master, and any owner or agent of said merchandise who shall claim the same before the sale thereof, may take the same upon paying the wharfage and all other expenses.</text>
@@ -1247,6 +1287,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-7</num>
       <heading>Removal of nuisances.</heading>
       <para>
@@ -1268,6 +1309,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-8</num>
       <heading>Removal of sunken vessels.</heading>
       <para>
@@ -1302,6 +1344,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-9</num>
       <heading>Removal of obstructions.</heading>
       <para>
@@ -1346,6 +1389,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-10</num>
       <heading>Removal of deposits.</heading>
       <text>The Harbor Engineer shall remove all deposits from the harbor and docks into which said deposits empty, whenever he may deem it right and proper to do so without serious interference with the main work of harbor improvement.</text>
@@ -1358,6 +1402,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-11</num>
       <heading>Permission to put material in Patapsco River.</heading>
       <para>
@@ -1386,6 +1431,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-12</num>
       <heading>Gas tar, dregs, etc.</heading>
       <text>If any gas company, or any other company, or person shall discharge or cause any water to flow into the harbor or any stream or sewer running thereinto in which water there may be any gas tar, or other lees or dregs, the company or person so offending shall pay a fine of $20 for each offense and a further fine of $20 for every day the offense continues.</text>
@@ -1398,6 +1444,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-13</num>
       <heading>Ice boats.</heading>
       <para>
@@ -1419,6 +1466,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-14</num>
       <heading>Speed of vessels.</heading>
       <para>
@@ -1455,6 +1503,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-15</num>
       <heading>Gang planks; hand rails.</heading>
       <para>
@@ -1487,6 +1536,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-16</num>
       <heading>Yards, rig, anchor.</heading>
       <para>
@@ -1508,6 +1558,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-17</num>
       <heading>Smoking, etc., near explosives.</heading>
       <para>
@@ -1532,6 +1583,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-18</num>
       <heading>Bridges.</heading>
       <para>
@@ -1568,6 +1620,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-19</num>
       <heading>Discharge containing oil, etc.</heading>
       <para>
@@ -1591,6 +1644,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-20</num>
       <heading>Inspection of vessels.</heading>
       <para>
@@ -1612,9 +1666,10 @@
     </section>
     <section>
       <num>6-21 to 6-24</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6-25</num>
       <heading>Obstructing Harbor Master or Harbor Engineer.</heading>
       <para>
@@ -1646,6 +1701,7 @@
       <annotation type="Editor's Notes">For general permitting and regulatory provisions governing the manufacture, storage, handling, sale or use of explosives, explosive materials, fireworks, and the like, see the International Fire Code § 105.6.14 {“Required operational permits: Explosives”} and Chapter 56 {“Explosives and Fireworks”}, as adopted by Part VIII of the City’s Building, Fire, and Related Codes Article.</annotation>
     </annotations>
     <section>
+      <prefix>§</prefix>
       <num>7-1</num>
       <heading>Definitions; classes.</heading>
       <para>
@@ -1675,6 +1731,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-2</num>
       <heading>Transportation subject to laws.</heading>
       <text>All explosives to be transported from land by water, or from water by land, are to be subject to all of the City, state, and national laws in reference to the loading, unloading, and handling of explosives.</text>
@@ -1687,6 +1744,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-3</num>
       <heading>Permits for transferring explosives to vessels.</heading>
       <para>
@@ -1760,6 +1818,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-4</num>
       <heading>Class A explosives 100 pounds or less.</heading>
       <para>
@@ -1782,6 +1841,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-5</num>
       <heading>Inspection for permit.</heading>
       <para>
@@ -1803,6 +1863,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-6</num>
       <heading>Vessels within Quarantine or Explosive Anchorage.</heading>
       <text>The vessel on which explosives are to be loaded, and which is not covered by '' 7-1 and 7-3 shall be well within the designated Quarantine or Explosive Anchorage and shall not leave the permitted anchorage except for the purpose of leaving Port.</text>
@@ -1816,6 +1877,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-7</num>
       <heading>Work to be done before loading.</heading>
       <para>
@@ -1837,6 +1899,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-8</num>
       <heading>Red flags and lights.</heading>
       <text>The vessel into which explosives have been loaded, or are being loaded, shall conspicuously display a red flag from the forepeak, of the size prescribed by the Bureau of Navigation (16 sq. ft.), and at night a red light shall be conspicuously displayed.</text>
@@ -1849,6 +1912,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-9</num>
       <heading>Artificial lights.</heading>
       <text>No artificial light shall be permitted in the hold of the vessel, except electric flash lights or electric lanterns or regular electric installation of the vessel.</text>
@@ -1861,6 +1925,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-10</num>
       <heading>Notification of cargo.</heading>
       <text>Before vessels loaded with explosives of either Class A, B, or C may be allowed to enter or unload in the Port of Baltimore, the Fire Marshal must be notified of the nature and quantity of explosives on board and the time when and place where it is proposed to land these explosives.</text>
@@ -1875,6 +1940,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-11</num>
       <heading>Inspection during operations.</heading>
       <para>
@@ -1896,6 +1962,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-12</num>
       <heading>Explosives with inflammable articles.</heading>
       <text>Explosives shall not be loaded or carried on any vessels carrying inflammable liquids, inflammable solids, oxidizing materials, mineral acids, as defined in Federal regulations for transportation of these explosives, or articles liable to spontaneous ignition, or to give off inflammable gases, unless the explosive be stored in separate rooms or otherwise so separated as to effectually prevent danger to the explosive from any of these articles, or from the vapor thereof.</text>
@@ -1908,6 +1975,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-13</num>
       <heading>Explosives with blasting caps.</heading>
       <text>Where blasting caps are loaded on the same vessel with high explosives, they must be put in a different compartment, the distance in a straight line from the compartment containing the blasting caps to the explosives to be not less than 25 feet whenever the quantity of the explosives exceeds 1,000 pounds, and not less than 15 feet in any case.</text>
@@ -1920,6 +1988,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-14</num>
       <heading>Cars of explosives — on land.</heading>
       <text>Cars of explosives which are to be transshipped on to a vessel shall not be brought into the City limits except when they can be loaded directly on to car floats, and immediately thereafter conveyed to the vessel at anchorage.</text>
@@ -1932,6 +2001,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-15</num>
       <heading>Cars of explosives — conveyance to vessel.</heading>
       <text>Cars containing explosives to be transshipped by water shall be conveyed on car floats to the vessel, on which explosives are to be loaded, between sunrise and sunset and when there is no dense fog.</text>
@@ -1944,6 +2014,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-16</num>
       <heading>Cars of explosives — car floats or barges.</heading>
       <para>
@@ -1977,6 +2048,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-17</num>
       <heading>Cars of explosives — seals to be unbroken.</heading>
       <text>Car seals on carload shipments of explosives for transshipment via float or barge in Baltimore must not be broken, except as authorized by the federal regulations, until car float is alongside of vessel on which explosives are to be loaded, and only then when it is necessary to begin unloading the car.</text>
@@ -1989,6 +2061,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-18</num>
       <heading>Tug boats.</heading>
       <text>Tug boats towing vessels, floats, or barges aboard of which there are explosives will display at all times a red flag of at least 16 square feet surface at the masthead.  Tug boats without masts will display the flag at least 10 feet above the upper deck.</text>
@@ -2002,9 +2075,10 @@
     </section>
     <section>
       <num>7-19</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-20</num>
       <heading>Tools.</heading>
       <para>
@@ -2033,6 +2107,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-21</num>
       <heading>Handling containers.</heading>
       <text>Containers of either Class A, B, or C explosives shall not be thrown, dropped, or dragged along the decks of vessels, floors of cars, or over each other.</text>
@@ -2045,6 +2120,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-22</num>
       <heading>Broken packages.</heading>
       <para>
@@ -2090,9 +2166,10 @@
     </section>
     <section>
       <num>7-23</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-24</num>
       <heading>Fires.</heading>
       <para>
@@ -2114,6 +2191,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-25</num>
       <heading>Matches, firearms, etc.</heading>
       <text>Barge and vessel crews and persons engaged in loading, unloading, or handling explosives must not have or carry matches, firearms, or cartridges on their persons.</text>
@@ -2127,6 +2205,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-26</num>
       <heading>Smoking.</heading>
       <text>Smoking is prohibited in or on cars containing explosives, car floats having explosives aboard, or in the vicinity of explosives aboard vessels, cars, or barges.</text>
@@ -2139,6 +2218,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-27</num>
       <heading>Shoes.</heading>
       <text>Persons engaged in loading or unloading explosives shall not wear boots or shoes with iron nails, or shod or strengthened with iron, unless such boots or shoes are covered with leather, felt, or some other such material.</text>
@@ -2151,6 +2231,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-28</num>
       <heading>Persons under the influence.</heading>
       <text>No person under the influence of liquor shall be allowed on any vessel, barge, or scow on which explosives are being loaded or from which unloaded, nor will they be permitted to approach any vessel which is being loaded or unloaded.</text>
@@ -2164,6 +2245,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-29</num>
       <heading>Transferring explosives — in general.</heading>
       <para>
@@ -2217,6 +2299,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-30</num>
       <heading>Transferring explosives — inclined chutes.</heading>
       <para>
@@ -2255,6 +2338,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-31</num>
       <heading>Explosives to be loaded last.</heading>
       <text>No explosives will be allowed to be placed aboard a vessel until the rest of the cargo has been placed aboard and the vessel trimmed.  Immediately after the completion of the loading of explosives, the vessel shall weigh anchor and leave port, weather conditions permitting.</text>
@@ -2268,9 +2352,10 @@
     </section>
     <section>
       <num>7-32 to 7-40</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-41</num>
       <heading>Compliance with regulations.</heading>
       <text>The Chief Stevedore or person in charge of stevedores must fully understand and see that all persons under his supervision comply with these rules and regulations.</text>
@@ -2283,6 +2368,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-42</num>
       <heading>Enforcement.</heading>
       <para>
@@ -2304,6 +2390,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-43</num>
       <heading>Penalties; civil liability.</heading>
       <para>
@@ -2331,6 +2418,7 @@
     <num>8</num>
     <heading>Ammonium Nitrates</heading>
     <section>
+      <prefix>§</prefix>
       <num>8-1</num>
       <heading>Scope of subtitle.</heading>
       <text>Except as otherwise provided herein, the provisions of this subtitle shall apply to any and all shipments, whether in bulk or in packages or containers of any type or kind, and, among others, to all shipments that may be on board any ship or vessel prior to its arrival in the Patapsco River or any of its tributaries.</text>
@@ -2341,6 +2429,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-2</num>
       <heading>Handling must comply with all laws.</heading>
       <text>All ammonium nitrate, including ammonium nitrate of fertilizer grade, mixed fertilizers containing ammonium nitrate, or other materials or products containing ammonium nitrate, on any ship or vessel of any nationality, registry, or license, or while being loaded on, discharged from, or transferred from any ship or vessel of any nationality, registry, or license, in any part of the Patapsco River or any of its tributaries shall be loaded, discharged, transferred, stored, stowed, and handled in strict compliance with any and all applicable federal, state, and municipal laws, rules, and regulations.</text>
@@ -2351,6 +2440,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-3</num>
       <heading>Permits required.</heading>
       <text>No shipments of ammonium nitrate or materials or products containing ammonium nitrate in excess of 13% or which are otherwise classified as dangerous under Interstate Commerce Commission regulations, except ammonium nitrate materials or products specifically exempted under § 8-6 of this subtitle, shall be brought into any anchorage or into or onto any dock, wharf, pier, or other similar waterfront structure (hereinafter called "waterfront facility") in, on, or immediately adjacent to the Patapsco River or any of its tributaries by any means of water transportation, except in cases of continuous cross-harbor freight car shipments by car floats or freight car shipments by car floats from car float bridges to Anchorage No. 6 heretofore mentioned in this Article 10, unless and until after a permit to do so has first been obtained, upon proper written application, from the Harbor Engineer of the Mayor and City Council of Baltimore.</text>
@@ -2361,6 +2451,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-4</num>
       <heading>Application and issuance.</heading>
       <para>
@@ -2425,6 +2516,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-5</num>
       <heading>Restricted materials.</heading>
       <para>
@@ -2487,6 +2579,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-6</num>
       <heading>Permitted materials.</heading>
       <text>The following ammonium nitrate materials or products may be loaded, discharged, transferred, stored, stowed, or otherwise handled on, in, or from any vessel or ship or waterfront facility of any kind or description in or on the Patapsco River or any of its tributaries:</text>
@@ -2525,6 +2618,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-7</num>
       <heading>Permit required for all other materials.</heading>
       <para>
@@ -2556,9 +2650,10 @@
     </section>
     <section>
       <num>8-8 to 8-10</num>
-      <heading>{Reserved}</heading>
+      <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-11</num>
       <heading>Federal laws and regulations prevail.</heading>
       <text>Insofar as interstate or foreign commerce is involved or concerned, in the event that any provision of this subtitle hereinbefore set forth is inconsistent or in conflict with any applicable provision of any federal law, or any rule or regulation properly adopted and promulgated by any duly constituted agency of the federal government, then the provision of the federal law or rule or regulation shall be controlling.</text>
@@ -2569,6 +2664,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8-12</num>
       <heading>Penalties.</heading>
       <text>Any person, firm, corporation, or other legal entity who violates any of the provisions of this subtitle shall be guilty of a misdemeanor and, upon conviction thereof in any court of competent jurisdiction, shall be fined not less than $50 nor more than $500, or sentenced to not more than 12 months in jail, or both, for each offense.</text>
@@ -2584,6 +2680,7 @@
     <num>9</num>
     <heading>Steam-Propelled Vessels</heading>
     <section>
+      <prefix>§</prefix>
       <num>9-1</num>
       <heading>Spark arresters.</heading>
       <text>It shall be the duty of every owner, agent, master, or captain of any vessel or craft propelled in whole or in part by steam or on which any steam engines, boilers, or stoves are used, to cover securely each funnel or smoke-stack on such vessel with an efficient metal spark arrester, the wire mesh of which shall not be less than 4 to the inch, when crossing the pierhead line in approaching any grain elevator, or any pier, in the Patapsco River or its tributaries, at which cotton or naval stores are being handled or are stored, and shall keep same covered the entire time while within said pierhead line.</text>
@@ -2596,6 +2693,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-2</num>
       <heading>Hatch combing protection.</heading>
       <text>It shall be the duty of every agent, owner, master, or captain of any such vessel propelled in whole or in part by steam while loading or discharging cotton or naval stores into or from said vessel at any pier in the Patapsco River or its tributaries, to protect or have protected all hatch combings so that the cargo of cotton or naval stores so loaded or unloaded shall not come in contact with the combings.</text>
@@ -2608,6 +2706,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-3</num>
       <heading>Fire hose and equipment.</heading>
       <text>It shall be the duty of every owner, agent, master, or captain of any vessel, or craft, propelled in whole or in part by steam, while in the Patapsco River or its tributaries, and while said vessel or craft is loading or discharging a cargo of cotton or naval stores, to couple its fire hose and keep the same ready for use at all times while so loading or discharging such cargo at said wharf or pier, and it shall keep sufficient steam while so loading or discharging, at all hours of the day, on the donkey or one of the main boilers, to enable a full stream of water to be turned on in case of fire occurring upon or alongside said vessel or craft; and to supply such vessel with sufficient fire hose to reach to each and every hatch of the said vessel or craft.</text>
@@ -2620,6 +2719,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9-4</num>
       <heading>Penalties.</heading>
       <text>Any person violating any of the provisions of this subtitle shall be guilty of a misdemeanor and shall be subject to a fine of not less than $25 or more than $100.</text>

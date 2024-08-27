@@ -10,6 +10,7 @@
       <num>1</num>
       <heading>Definitions</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-101</num>
         <heading>In general.</heading>
         <text>Throughout the Baltimore City Code, the following terms have the meanings indicated, except as otherwise expressly provided.</text>
@@ -18,6 +19,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-102</num>
         <heading>Adult.</heading>
         <text>"Adult" means an individual who is 18 years or older.</text>
@@ -26,6 +28,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-103</num>
         <heading>City.</heading>
         <text>"City" means the City of Baltimore.</text>
@@ -34,6 +37,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-104</num>
         <heading>City Code; Code.</heading>
         <text>"City Code" or "Code" means:</text>
@@ -50,6 +54,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-105</num>
         <heading>Includes; Including.</heading>
         <text>"Includes" or "including" means by way of illustration and not by way of limitation.</text>
@@ -58,6 +63,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-106</num>
         <heading>Minor.</heading>
         <text>"Minor" means an individual under the age of 18.</text>
@@ -66,6 +72,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-107</num>
         <heading>Person.</heading>
         <para>
@@ -95,6 +102,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-108</num>
         <heading>State.</heading>
         <para>
@@ -120,6 +128,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-109</num>
         <heading>Street.</heading>
         <text>"Street" means any street, boulevard, road, highway, alley, lane, sidewalk, footway, or other way that is owned by the City or habitually used by the public.</text>
@@ -133,6 +142,7 @@
       <num>2</num>
       <heading>Rules of Interpretation</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-201</num>
         <heading>In general.</heading>
         <text>Throughout the Baltimore City Code, the following rules of interpretation apply, except as otherwise expressly provided.</text>
@@ -142,9 +152,10 @@
       </section>
       <section>
         <num>1-202</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-203</num>
         <heading>Gender.</heading>
         <text>A reference to one gender includes and applies to the other genders.</text>
@@ -153,6 +164,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-204</num>
         <heading>Mandatory, prohibitory, and permissive terms.</heading>
         <para>
@@ -175,6 +187,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-205</num>
         <heading>Singular and plural.</heading>
         <text>The singular includes the plural and the plural includes the singular.</text>
@@ -184,9 +197,10 @@
       </section>
       <section>
         <num>1-206 to 1-207</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-208</num>
         <heading>Captions or headings.</heading>
         <text>The captions or headings of various statutory units:</text>
@@ -203,6 +217,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-209</num>
         <heading>Editor's or Revisor's Notes.</heading>
         <text>Editor's or Revisor's Notes accompanying various statutory units, including any accompanying list of defined terms:</text>
@@ -220,9 +235,10 @@
       </section>
       <section>
         <num>1-210</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-211</num>
         <heading>Effect of repeal or amendment of statute.</heading>
         <para>
@@ -250,6 +266,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-212</num>
         <heading>References to other laws.</heading>
         <text>Whenever a provision of this City Code refers to any other part of the Code or to any other law, the reference applies to any subsequent amendment of the law referred to, unless the referring provision expressly provides otherwise.</text>
@@ -259,9 +276,10 @@
       </section>
       <section>
         <num>1-213</num>
-        <heading>{Reserved}</heading>
+        <reason>Reserved</reason>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-214</num>
         <heading>Severability.</heading>
         <para>
@@ -300,6 +318,7 @@
       <num>3</num>
       <heading>Time Computations</heading>
       <section>
+        <prefix>§</prefix>
         <num>1-301</num>
         <heading>In general.</heading>
         <text>Throughout the Baltimore City Code, time shall be calculated in the manner provided by this subtitle, except as otherwise expressly provided.</text>
@@ -308,6 +327,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-302</num>
         <heading>Computation of time after an act, event, or default.</heading>
         <para>
@@ -331,6 +351,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-303</num>
         <heading>Computation of time before an act, event, or default.</heading>
         <para>
@@ -396,6 +417,7 @@
       <num>1</num>
       <heading>Definitions; General Provisions</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-101</num>
         <heading>Definitions.</heading>
         <para>
@@ -523,6 +545,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-102</num>
         <heading>Scope.</heading>
         <para>
@@ -542,6 +565,7 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-103</num>
         <heading>Repeal of a regulation.</heading>
         <text>Except as provided in § 4-404 {"Removal of obsolete provisions"} of this title, the repeal of all or part of a previously adopted regulation shall be subject to the requirements and procedures set forth in this title.</text>
@@ -555,6 +579,7 @@
       <num>2</num>
       <heading>Form of Regulations; Submission Before Publication</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-201</num>
         <heading>Citation of legal authority.</heading>
         <text>A regulation is not effective unless it contains a citation of the legal authority for the regulation.</text>
@@ -564,6 +589,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-202</num>
         <heading>Form of proposed regulation.</heading>
         <text>Except as otherwise provided in § 4-203 of this subtitle, regulations shall be written in plain language and shall conform to the style set forth in a style manual adopted by the Department of Legislative Reference.</text>
@@ -574,6 +600,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-203</num>
         <heading>Incorporation by reference.</heading>
         <para>
@@ -628,6 +655,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-204</num>
         <heading>Single subject.</heading>
         <text>A proposed regulation may not contain more than one subject matter.</text>
@@ -637,6 +665,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-205</num>
         <heading>Submission before publication.</heading>
         <para>
@@ -701,6 +730,7 @@
       <num>3</num>
       <heading>Notice and Comment Period; Publication in Register; Adoption</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-301</num>
         <heading>Notice of proposed regulation.</heading>
         <para>
@@ -732,6 +762,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-302</num>
         <heading>Effect of notice.</heading>
         <text>Publication of the notice required by this subtitle:</text>
@@ -749,6 +780,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-303</num>
         <heading>COBRA Register.</heading>
         <para>
@@ -836,6 +868,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-304</num>
         <heading>Review by Committee.</heading>
         <para>
@@ -887,6 +920,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-305</num>
         <heading>Adoption or re-publication.</heading>
         <para>
@@ -931,6 +965,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-306</num>
         <heading>Emergency regulations.</heading>
         <para>
@@ -1012,6 +1047,7 @@
       <num>4</num>
       <heading>Codification</heading>
       <section>
+        <prefix>§</prefix>
         <num>4-401</num>
         <heading>Effective date of regulations.</heading>
         <text>Except as provided in § 4-306 {"Emergency regulations"} of this title, if the agency proposing a regulation has fulfilled the requirements set forth in § 4-205 {"Submission before publication"} and § 4-301 {"Notice of Proposed Regulation"} of this title regulation is effective on submission to the Director for COBRA codification, unless a later effective date is specified by law or in the adopted regulation.</text>
@@ -1022,6 +1058,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-402</num>
         <heading>Code of Baltimore Regulations Annotated.</heading>
         <para>
@@ -1060,6 +1097,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-403</num>
         <heading>Correction of errors.</heading>
         <text>After providing notice to, and in consultation with, the City Solicitor and the relevant agency, the Director may correct non-substantive drafting, style, or typographical errors within the Code.</text>
@@ -1068,6 +1106,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-404</num>
         <heading>Removal of obsolete provisions.</heading>
         <para>
@@ -1095,7 +1134,7 @@
       </section>
       <section>
         <num>4-405</num>
-        <heading>{Repealed by Ord. 22-125}</heading>
+        <reason>Repealed by Ord. 22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide standard for severability of provisions, see § 1-214 of this Article.</annotation>
         </annotations>

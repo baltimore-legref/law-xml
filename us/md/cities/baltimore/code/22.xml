@@ -8,6 +8,7 @@
     <num>1</num>
     <heading>Employees' Retirement System</heading>
     <section>
+      <prefix>§</prefix>
       <num>1</num>
       <heading>Definitions.</heading>
       <para>
@@ -284,9 +285,7 @@
       </para>
       <para>
         <num>(23)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(24)</num>
@@ -385,6 +384,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2</num>
       <heading>Name and date operative.</heading>
       <text>A retirement system is hereby established and placed under the management of the Board of Trustees for the purpose of providing retirement allowances, pensions and other incidental benefits under the provisions of this subtitle for employees of the City of Baltimore who become members of this retirement system.  It shall be known as the "Employees' Retirement System of the City of Baltimore".  The Retirement System so created shall begin operation as of January 1, 1926.</text>
@@ -399,6 +399,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>3</num>
       <heading>Membership.</heading>
       <para>
@@ -489,8 +490,8 @@
         </para>
       </para>
       <para>
-        <num>(e)</num>
-        <text>- (f)  <em>{Vacant}</em></text>
+        <num>(e) - (f)</num>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(g)</num>
@@ -541,6 +542,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4</num>
       <heading>Service creditable.</heading>
       <para>
@@ -811,7 +813,6 @@
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees is hereby authorized to issue rules and regulations to carry out the provisions of this section, notwithstanding any present rules and regulations to the contrary</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (b)(1), (c), (e)(9). (f)(3), and (g) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1927, art. 30, §4</annotation>
         <annotation type="Prior Codifications">1950, art. 23, §4</annotation>
         <annotation type="Prior Codifications">1966, art. 22, §4</annotation>
@@ -835,9 +836,11 @@
         <annotation doc="City of Balt., Md., Ord. 05-173" type="History">Ord. 05-173</annotation>
         <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
         <annotation type="History">Texts Conformed 02/22/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (b)(1), (c), (e)(9). (f)(3), and (g) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>5</num>
       <heading>Administration; Board of Trustees.</heading>
       <para>
@@ -1070,9 +1073,7 @@
       </para>
       <para>
         <num>(l)</num>
-        <text>
-          <em>{Vacant}</em>
-        </text>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(m)</num>
@@ -1205,7 +1206,6 @@
         <text>Effective retroactively with the year beginning July 1, 1988, and through the year ending June 30, 2013, the Retirement System shall be funded by using the projected unit credit cost method.  Effective retroactively with the year beginning July 1, 2013, the Retirement System shall be funded by using the entry age normal cost method.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (b)(2)(i), (b)(4), (g), and (g)(2)(ii) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1927, art. 30, §5</annotation>
         <annotation type="Prior Codifications">1950, art.22, §5</annotation>
         <annotation type="Prior Codifications">1966, art.22, §5</annotation>
@@ -1233,9 +1233,11 @@
         <annotation doc="City of Balt., Md., Ord. 16-576" type="History">Ord. 16-576</annotation>
         <annotation doc="City of Balt., Md., Ord. 17-068" type="History">Ord. 17-068</annotation>
         <annotation type="History">Texts Conformed 02/22/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (b)(2)(i), (b)(4), (g), and (g)(2)(ii) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>6</num>
       <heading>Benefits for Class A and Class B members.</heading>
       <para>
@@ -2045,9 +2047,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>
-          <em>{Vacant}</em>
-        </text>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(h)</num>
@@ -2574,8 +2574,8 @@
         </para>
       </para>
       <para>
-        <num>(l)</num>
-        <text>- (m)  <em>{Vacant}</em></text>
+        <num>(l) - (m)</num>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(n)</num>
@@ -2718,6 +2718,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7</num>
       <heading>Management of funds.</heading>
       <para>
@@ -3184,11 +3185,12 @@
         <annotation doc="City of Balt., Md., Ord. 11-520" type="History">Ord. 11-520</annotation>
         <annotation doc="City of Balt., Md., Ord. 12-044" type="History">Ord. 12-044</annotation>
         <annotation doc="City of Balt., Md., Ord. 21-043" type="History">Ord. 21-043</annotation>
-        <annotation type="Editor's Notes">Paragraph (a)(1) was added by Ordinance 07-570.  Section 3 of that Ordinance provides for the automatic abrogation of these provisions “if the President of the United States rescinds or repeals Executive Order 13067 or the United States Congress lifts all economic sanctions against the Republic of Sudan”.</annotation>
         <annotation type="Editor's Notes">Paragraph (a)(2) was added by Ordinance 21-043, effective January 1, 2022.</annotation>
+        <annotation type="Editor's Notes">Paragraph (a)(1) was added by Ordinance 07-570.  Section 3 of that Ordinance provides for the automatic abrogation of these provisions “if the President of the United States rescinds or repeals Executive Order 13067 or the United States Congress lifts all economic sanctions against the Republic of Sudan”.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>8</num>
       <heading>Method of financing.</heading>
       <para>
@@ -3378,6 +3380,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9</num>
       <heading>Class C membership.</heading>
       <para>
@@ -3858,9 +3861,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>
-            <em>{Vacant}</em>
-          </text>
+          <reason>Vacant</reason>
         </para>
         <para>
           <num>(4)</num>
@@ -4021,8 +4022,8 @@
         </para>
       </para>
       <para>
-        <num>(g)</num>
-        <text>- (h)<em> {Vacant}</em></text>
+        <num>(g) - (h)</num>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(i)</num>
@@ -4717,9 +4718,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>
-            <em>{Vacant}</em>
-          </text>
+          <reason>Vacant</reason>
         </para>
         <para>
           <num>(5)</num>
@@ -4759,9 +4758,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>
-            <em>{Vacant}</em>
-          </text>
+          <reason>Vacant</reason>
         </para>
         <para>
           <num>(7)</num>
@@ -6036,6 +6033,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9.1</num>
       <heading>Election between plans.</heading>
       <para>
@@ -6114,6 +6112,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>9.2</num>
       <heading>Class D membership.</heading>
       <para>
@@ -7240,9 +7239,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>
-            <em>{Vacant}</em>
-          </text>
+          <reason>Vacant</reason>
         </para>
         <para>
           <num>(5)</num>
@@ -8534,6 +8531,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10</num>
       <heading>Guaranty.</heading>
       <text>The creation and maintenance of reserves in the Pension Accumulation Fund, the maintenance of annuity reserves and pension reserves as provided for, and regular interest creditable to the various funds as provided in § 7(b) of this article and the payment of all pensions, annuities, retirement allowances, refunds and other benefits granted under the provisions of this subtitle and all expenses in connection with the administration and operation of this retirement system are hereby made obligations of the City of Baltimore.  All income interest and dividends derived from deposits and investments authorized by this subtitle shall be used for the payment of the said obligations of the said City.  Any amounts derived therefrom which, when combined with the regular amounts, otherwise contributable by the City of Baltimore as provided under the provisions of this subtitle, exceed the amount required to provide such obligations, shall be used to reduce the regular appropriations otherwise required or to reduce the period of amortization of the unfunded accrued liability, or both, as determined by the Board of Trustees.</text>
@@ -8547,6 +8545,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11</num>
       <heading>Exemption from assignment and execution.</heading>
       <para>
@@ -8701,6 +8700,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>12</num>
       <heading>Recovery of overpayments.</heading>
       <text>If the Board of Trustees determines that a member or beneficiary has received from this System benefit payments that exceed the amount to which the member or beneficiary was entitled, the Board must take all necessary steps to recover the overpayment.</text>
@@ -8716,6 +8716,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>13</num>
       <heading>Limitation of other statutes.</heading>
       <para>
@@ -8726,9 +8727,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -8747,6 +8746,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>14</num>
       <heading>Social Security Act.</heading>
       <text>The enrollment in and membership of any members of the Retirement System in the Social Security System, for benefits under the Act of Congress known generally as "The Social Security Act of 1935", as amended from time to time, shall at all times be separate and apart from and in addition to their membership in and benefits from the Retirement System; and such enrollment and membership in the Social Security System shall in no way impair, decrease or adversely affect any of the existing rights, benefits or expectancies of the members of the Retirement System.</text>
@@ -8758,6 +8758,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>15</num>
       <heading>Administrative appeal; Judicial review.</heading>
       <para>
@@ -8838,12 +8839,13 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed paragraph (a)(3)(ii) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation doc="City of Balt., Md., Ord. 16-488" type="History">Ord. 16-488</annotation>
         <annotation type="History">Text Conformed 02/22/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed paragraph (a)(3)(ii) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16</num>
       <heading>Additional opportunity for Class A and Class B members to obtain credit for service and prior service.</heading>
       <para>
@@ -8919,6 +8921,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17</num>
       <heading>Post-retirement benefit increases to certain retirees and beneficiaries.</heading>
       <text>This section applies only to post-retirement benefit increases determined before July 1, 2007.  Each retired member or beneficiary (Classes A, B, and C) who is receiving periodic benefits from the Retirement System may be eligible for an increase in the amount of those periodic benefits subject to the following provisions.</text>
@@ -9183,6 +9186,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17.1</num>
       <heading>Post-retirement benefit increases on or after July 1, 2007, and before June 30, 2013.</heading>
       <para>
@@ -9341,6 +9345,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17.2</num>
       <heading>Post-retirement benefit increases on or after June 30, 2013.</heading>
       <para>
@@ -9400,6 +9405,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>17.3</num>
       <heading>Post-retirement benefit increases for Class D members.</heading>
       <para>
@@ -9484,6 +9490,7 @@
     <num>2</num>
     <heading>Elected Officials' Retirement System</heading>
     <section>
+      <prefix>§</prefix>
       <num>17A</num>
       <heading>Definitions.</heading>
       <para>
@@ -9599,9 +9606,7 @@
       </para>
       <para>
         <num>(17)</num>
-        <text>
-          <em>{Vacant}</em>
-        </text>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(18)</num>
@@ -9678,6 +9683,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>18</num>
       <heading>Name and date operative.</heading>
       <text>A Retirement System is hereby established and placed under the management of the Board of Trustees for the purpose of providing retirement allowances, pensions and other incidental benefits under the provisions of this subtitle for elected officials of the City of Baltimore who become members of this Retirement System.  It shall be known as the "Elected Officials' Retirement System of the City of Baltimore".  The Retirement System so created shall begin operation on the date of passage of this ordinance.  However, the benefits and provisions therein shall be applicable only to elected officials after taking the oath in December 1983, for the new term of office, and thereafter.</text>
@@ -9687,6 +9693,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>19</num>
       <heading>Membership.</heading>
       <para>
@@ -9790,6 +9797,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>20</num>
       <heading>Military service creditable.</heading>
       <para>
@@ -9951,16 +9959,17 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a)(9) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 22, §20</annotation>
         <annotation doc="City of Balt., Md., Ord. 83-1105" type="History">Ord. 83-1105</annotation>
         <annotation doc="City of Balt., Md., Ord. 86-768" type="History">Ord. 86-768</annotation>
         <annotation doc="City of Balt., Md., Ord. 05-173" type="History">Ord. 05-173</annotation>
         <annotation doc="City of Balt., Md., Ord. 12-044" type="History">Ord. 12-044</annotation>
         <annotation type="History">Text Conformed 02/22/21</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a)(9) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>21</num>
       <heading>Board of Trustees.</heading>
       <para>
@@ -9990,6 +9999,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>22</num>
       <heading>Benefits.</heading>
       <para>
@@ -11081,6 +11091,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>23</num>
       <heading>Management of Funds.</heading>
       <para>
@@ -11112,6 +11123,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>24</num>
       <heading>Method of financing.</heading>
       <text><em>Assets</em>.  All of the assets of this Retirement System shall be credited toward meeting the aggregate obligations of this Retirement System.</text>
@@ -11168,9 +11180,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 22, §24</annotation>
@@ -11180,6 +11190,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25</num>
       <heading>Exemption from assignment and execution.</heading>
       <text>Any current or future benefit provided by this system and any money in a fund or an account created by this system is exempt from attachment, assignment, or execution as provided in § 11 of this article, subject to the exceptions delineated in that section.</text>
@@ -11188,6 +11199,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>26</num>
       <heading>Appeal and judicial review.</heading>
       <para>
@@ -11214,6 +11226,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>27</num>
       <heading>Post-retirement benefit increases.</heading>
       <para>
@@ -11297,15 +11310,15 @@
     </section>
     <section>
       <num>28</num>
-      <heading>{Vacant}</heading>
-      <text class="center">
-        <strong>Subtitle 3</strong>
-      </text>
-      <text class="center">
-        <strong>Fire and Police Employees' Retirement System</strong>
-      </text>
+      <reason>Vacant</reason>
     </section>
+  </container>
+  <container>
+    <prefix>Subtitle</prefix>
+    <num>3</num>
+    <heading>Fire and Police Employees' Retirement System</heading>
     <section>
+      <prefix>§</prefix>
       <num>29</num>
       <heading>Name and date operative.</heading>
       <text>The "Fire and Police Employees' Retirement System of the City of Baltimore", hereinafter called the "Retirement System", is hereby established and placed under the management of the Board of Trustees for the purpose of providing retirement allowances and death benefits under the provisions of this subtitle for such officers and employees of the Department of Aviation, of the Police Department and of the Fire Department of Baltimore City as are included in the membership as provided in § 30 of this subtitle.  The retirement system so created shall begin operation as of July 1, 1962.</text>
@@ -11316,6 +11329,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>30</num>
       <heading>Definitions.</heading>
       <text>In this subtitle, unless a different meaning is plainly required by the context, the following words and phrases have the meanings indicated:</text>
@@ -11508,9 +11522,7 @@
       </para>
       <para>
         <num>(13a)</num>
-        <text>
-          <em>{Repealed by Ord. 15-381.}</em>
-        </text>
+        <reason>Repealed by Ord. 15-381.</reason>
       </para>
       <para>
         <num>(14)</num>
@@ -11592,6 +11604,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>31</num>
       <heading>Membership.</heading>
       <text>The membership in the Retirement System shall consist of the following:</text>
@@ -11673,6 +11686,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32</num>
       <heading>Service creditable.</heading>
       <para>
@@ -11838,8 +11852,8 @@
         </para>
       </para>
       <para>
-        <num>(g)</num>
-        <text>- (j) <strong><em> {Repealed by Ord. 19-254}</em></strong></text>
+        <num>(g) - (j)</num>
+        <reason>Repealed by Ord. 19-254</reason>
       </para>
       <para>
         <num>(k)</num>
@@ -12017,15 +12031,10 @@
         </para>
       </para>
       <para>
-        <num>(l)</num>
-        <text>- (m)  <strong><em>{Repealed by Ord. 19-254}</em></strong></text>
+        <num>(l) - (m)</num>
+        <reason>Repealed by Ord. 19-254</reason>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a), (b), (d), and (e)(9i) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
-        <annotation type="Editor's Notes">
-          <text>Ordinance 19-254 substantially amended this section. Section 4 of Ord. 19-254 provides</text>
-          <text>[T]he changes made by this Ordinance to Article 22, § 32, take effect with regard to members whose system entry dates are on or after July 1, 2019.  Members whose system entry dates are on or before June 30, 2019, must purchase and transfer service pursuant to the law in effect on or before June 30, 2019.</text>
-        </annotation>
         <annotation type="Prior Codifications">City Code, 1966, art. 22, §32</annotation>
         <annotation type="Prior Codifications">1976/83, art. 22, §32</annotation>
         <annotation doc="City of Balt., Md., Ord. 62-1285" type="History">Ord. 62-1285</annotation>
@@ -12045,9 +12054,15 @@
         <annotation doc="City of Balt., Md., Ord. 10-357" type="History">Ord. 10-357</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-254" type="History">Ord. 19-254</annotation>
         <annotation type="History">Text Conformed 02/22/21</annotation>
+        <annotation type="Editor's Notes">
+          <text>Ordinance 19-254 substantially amended this section. Section 4 of Ord. 19-254 provides</text>
+          <text>[T]he changes made by this Ordinance to Article 22, § 32, take effect with regard to members whose system entry dates are on or after July 1, 2019.  Members whose system entry dates are on or before June 30, 2019, must purchase and transfer service pursuant to the law in effect on or before June 30, 2019.</text>
+        </annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a), (b), (d), and (e)(9i) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>33</num>
       <heading>Administration.</heading>
       <para>
@@ -12407,9 +12422,7 @@
       </para>
       <para>
         <num>(n)</num>
-        <text>
-          <em>{Repealed by Ord. 15-381.}</em>
-        </text>
+        <reason>Repealed by Ord. 15-381.</reason>
       </para>
       <para>
         <num>(o)</num>
@@ -12500,7 +12513,6 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (b)(6), (b)(7), and (g) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         <annotation type="Prior Codifications">City Code, 1966, art. 22, §33</annotation>
         <annotation type="Prior Codifications">1976/83, art. 22, §33</annotation>
         <annotation doc="City of Balt., Md., Ord. 62-1265" type="History">Ord. 62-1265</annotation>
@@ -12525,9 +12537,11 @@
         <annotation doc="City of Balt., Md., Ord. 17-068" type="History">Ord. 17-068</annotation>
         <annotation type="History">Text Conformed 02/22/21</annotation>
         <annotation doc="City of Balt., Md., Ord. 21-019" type="History">Ord. 21-019</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (b)(6), (b)(7), and (g) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34</num>
       <heading>Benefits.</heading>
       <para>
@@ -14153,15 +14167,9 @@
       </para>
       <para>
         <num>(y)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">
-          <text>Subsection (r-1) was added by Ordinance 04-889.  Section 2 of that Ordinance further provided</text>
-          <text>[A]ny increased benefits payable to a retired or former member who applies for and is granted line-of-duty disability benefits under ... § 34(r-1)(2) ... are to be paid prospectively from the date on which the member files his or her new application.  Any benefit increases under ... § 36A applicable to a line-of-duty disability benefit granted under § 34(r-1)(2) shall be calculated as if the member had been awarded the line-of-duty disability effective with his or her date of retirement, but the additional § 36A benefit increases shall only be paid prospectively from the date the retired member files his or her new application under § 34(r-1)(2).</text>
-        </annotation>
         <annotation type="Prior Codifications">City Code, 1966, art. 22, §34</annotation>
         <annotation type="Prior Codifications">1976/83, art. 22, §34</annotation>
         <annotation doc="City of Balt., Md., Ord. 62-1285" type="History">Ord. 62-1285</annotation>
@@ -14213,9 +14221,14 @@
         <annotation doc="City of Balt., Md., Ord. 14-268" type="History">Ord. 14-268</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-254" type="History">Ord. 19-254</annotation>
         <annotation doc="City of Balt., Md., Ord.  20-459" type="History">Ord.  20-459</annotation>
+        <annotation type="Editor's Notes">
+          <text>Subsection (r-1) was added by Ordinance 04-889.  Section 2 of that Ordinance further provided</text>
+          <text>[A]ny increased benefits payable to a retired or former member who applies for and is granted line-of-duty disability benefits under ... § 34(r-1)(2) ... are to be paid prospectively from the date on which the member files his or her new application.  Any benefit increases under ... § 36A applicable to a line-of-duty disability benefit granted under § 34(r-1)(2) shall be calculated as if the member had been awarded the line-of-duty disability effective with his or her date of retirement, but the additional § 36A benefit increases shall only be paid prospectively from the date the retired member files his or her new application under § 34(r-1)(2).</text>
+        </annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>34.1</num>
       <heading>Benefit payments.</heading>
       <para>
@@ -14290,15 +14303,16 @@
         </para>
       </para>
       <annotations>
+        <annotation doc="City of Balt., Md., Ord. 15-381" type="History">Ord. 15-381</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-254" type="History">Ord. 19-254</annotation>
         <annotation type="Editor's Notes">
           <text>Ordinance 19-254 added subsection (d).  Section 5 of Ord. 19-254 provides</text>
           <text>[T]he direct-deposit requirement of Article 22, § 34.1(d), as added by this Ordinance, applies only to members or beneficiaries whose first periodic benefit payment from this System is made on or after January 1, 2020.</text>
         </annotation>
-        <annotation doc="City of Balt., Md., Ord. 15-381" type="History">Ord. 15-381</annotation>
-        <annotation doc="City of Balt., Md., Ord. 19-254" type="History">Ord. 19-254</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>35</num>
       <heading>Management of Funds.</heading>
       <para>
@@ -14695,9 +14709,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Vacant}</em>
-        </text>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -14754,8 +14766,6 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Paragraph (a)(1) was added by Ordinance 07-570.  Section 3 of that Ordinance provides for the automatic abrogation of these provisions “if the President of the United States rescinds or repeals Executive Order 13067 or the United States Congress lifts all economic sanctions against the Republic of Sudan”.</annotation>
-        <annotation type="Editor's Notes">This paragraph (3) was added by Ordinance 21-043, effective January 1, 2022.</annotation>
         <annotation type="Prior Codifications">City Code, 1966, art. 22, §34</annotation>
         <annotation type="Prior Codifications">1976/83, art. 22, §34</annotation>
         <annotation doc="City of Balt., Md., Ord. 62-1285" type="History">Ord. 62-1285</annotation>
@@ -14796,9 +14806,12 @@
         <annotation doc="City of Balt., Md., Ord. 07-570" type="History">Ord. 07-570</annotation>
         <annotation doc="City of Balt., Md., Ord. 11-520" type="History">Ord. 11-520</annotation>
         <annotation doc="City of Balt., Md., Ord.  21-043" type="History">Ord.  21-043</annotation>
+        <annotation type="Editor's Notes">This paragraph (3) was added by Ordinance 21-043, effective January 1, 2022.</annotation>
+        <annotation type="Editor's Notes">Paragraph (a)(1) was added by Ordinance 07-570.  Section 3 of that Ordinance provides for the automatic abrogation of these provisions “if the President of the United States rescinds or repeals Executive Order 13067 or the United States Congress lifts all economic sanctions against the Republic of Sudan”.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36</num>
       <heading>Method of financing.</heading>
       <para>
@@ -14998,7 +15011,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <heading>{Repealed}.</heading>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(h)</num>
@@ -15243,6 +15256,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36A</num>
       <heading>Post-retirement benefit increases to certain retirees and beneficiaries.</heading>
       <text>Each retired member or beneficiary who is receiving periodic benefits under the provisions of the Retirement System is eligible for an increase in the amount of those periodic benefits subject to the following provisions.</text>
@@ -15612,6 +15626,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36B</num>
       <heading>Deferred Retirement Option Plan.</heading>
       <text>Effective July 1, 1996, instead of a member's retiring from service and commencing a service retirement allowance under § 34(a) of this subtitle or a member's remaining a member of this system and continuing to earn service credit, a member may elect to become a participant in the Deferred Retirement Option Plan ("DROP") and defer the commencement of the member's retirement benefit, subject to the following provisions.</text>
@@ -16014,6 +16029,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36C</num>
       <heading>Deferred Retirement Option Plan 2.</heading>
       <para>
@@ -16966,6 +16982,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>37</num>
       <heading>Guaranty.</heading>
       <text>The creation and maintenance of reserves in the Pension Accumulation Fund, the maintenance of annuity reserves and pension reserves as provided for, and regular interest creditable to the various funds as provided in § 35(b) of this subtitle and the payment of all pensions, annuities, retirement allowances, refunds and other benefits granted under the provisions of this subtitle and all expenses in connection with the administration and operation of this Retirement System are hereby made obligations of the City of Baltimore.  All income, interest and dividends derived from deposits and investments authorized by this subtitle shall be used for the payment of the said obligations of the said City.  Any amounts derived therefrom which, when combined with the regular amounts, otherwise contributable by the City of Baltimore as provided under the provisions of this subtitle, exceed the amount required to provide such obligations, shall be used to reduce the regular appropriations otherwise required, or to reduce the period of amortization of the unfunded accrued liability, or both, as determined by the Board of Trustees.</text>
@@ -16977,6 +16994,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38</num>
       <heading>Exemption from assignment and execution.</heading>
       <para>
@@ -17124,6 +17142,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>39</num>
       <heading>Protection against fraud; validating overpayments.</heading>
       <text>Any person who shall knowingly make any false statement or shall falsify or permit to be falsified any record or records of this Retirement System in any attempt to defraud such system as a result of such act shall be guilty of a misdemeanor, and shall be punishable therefor under the laws of the State of Maryland.  Should any change or error in the records result in any member or beneficiary receiving from the Retirement System more or less than he would have been entitled to receive had the records been correct, the Board of Trustees shall correct such error and, as far as practicable, shall adjust the payments in such a manner that the actuarial equivalent of the payment to which said member or beneficiary was correctly entitled shall be paid.  Provided, however, that any overpayments of benefits which have been made, or which may be made before the effective date of this ordinance, by the Retirement System as a result of administrative errors, with the exception of overpayments resulting from the fraud or deliberate misrepresentation of a beneficiary or potential beneficiary, are hereby waived to the extent that they have not been recovered by the system prior to that date, and no request or demand for reimbursement thereof shall be made after January 1, 1974, upon any retired member or his beneficiary who shall have received same.  No request or demand shall be made upon the Retirement System for the return of any such overpayments which may have been recovered by the system before the effective date of this ordinance.</text>
@@ -17136,6 +17155,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>40</num>
       <heading>Limitation of other statutes.</heading>
       <para>
@@ -17145,9 +17165,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(c)</num>
@@ -17155,14 +17173,15 @@
         <text>All provisions of law inconsistent with the provisions of this subtitle are hereby repealed to the extent of such inconsistency.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
         <annotation type="Prior Codifications">City Code, 1966, art. 22, §40</annotation>
         <annotation type="Prior Codifications">1976/83, art. 22, §40</annotation>
         <annotation doc="City of Balt., Md., Ord. 62-1285" type="History">Ord. 62-1285</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41</num>
       <heading>Hearings.</heading>
       <text>The Board of Trustees, upon its own initiative, or upon the request of an applicant for the benefits provided for by this subtitle, shall conduct a hearing on said claim, which hearing shall be conducted as a judicial proceeding, all witnesses testifying under oath or by affirmation, and a record of the proceedings shall be made and kept.  At such hearing, the investigation shall be conducted in such manner as to ascertain the substantial rights of the parties and the Board of Trustees shall not be bound by common law or statutory rules of evidence or by technical or formal rules of procedure.</text>
@@ -17173,6 +17192,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41A</num>
       <heading>Subpoena powers.</heading>
       <text>The Board of Trustees may, in the enforcement of this subtitle, issue subpoenas, compel the attendance and testimony of witnesses and the production of books, papers, records, and documents relating to payroll records, and necessary for hearings, investigations, and proceedings.  Any such subpoena shall be served by the Sheriff of Baltimore City or any of his deputies.  In case of disobedience to a subpoena, the Board of Trustees may apply to a court of appropriate jurisdiction for an order requiring the attendance, and testimony of witnesses and the production of books, papers, records, and documents.  Said court, in case of contumacy or refusal to obey any such subpoena, after notice to the person subpoenaed, and upon finding that the attendance, or testimony of such witnesses or the production of such books, papers, records, and documents as the case may be, is relevant or necessary for such hearings, investigations, or proceedings of the Board of Trustees, may issue an order requiring the attendance and testimony of such witnesses and the production of such books, papers, records, and documents, or any of them, and any failure to obey such order of the court may be punished by the court as contempt thereof.</text>
@@ -17187,6 +17207,7 @@
     <num>4</num>
     <heading>Contractual Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>42</num>
       <heading>Contractual relationship.</heading>
       <text>Upon becoming either a Class A, a Class B or a Class C member of the Employees' Retirement System, or upon becoming a member of the Fire and Police Employees' Retirement System, established under this Article 22, such member shall thereupon be deemed to have entered into a contract with the Mayor and City Council of Baltimore, the terms of which shall be the provisions of this Article 22, as they exist at the effective date of this ordinance, or at the time of becoming a member, whichever is later, and the benefits provided thereunder shall not thereafter be in any way diminished or impaired.</text>
@@ -17203,6 +17224,7 @@
     <num>5</num>
     <heading>Investment Advisors</heading>
     <section>
+      <prefix>§</prefix>
       <num>43</num>
       <heading>Employment; duties.</heading>
       <para>
@@ -17227,6 +17249,7 @@
     <num>6</num>
     <heading>Police Department, Special Fund</heading>
     <section>
+      <prefix>§</prefix>
       <num>44</num>
       <heading>Widows' benefits.</heading>
       <para>
@@ -17248,6 +17271,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>45</num>
       <heading>Military service credit.</heading>
       <text>Notwithstanding any provision to the contrary contained in § 16-29 and § 16-30 of the Code of Public Local Laws of Baltimore City, upon proper application to the Police Commissioner, credit for military service, as defined in § 4(e) of this article, shall be granted to any retiree who retired under the provisions of the Police Department Special Fund who served in the military prior to employment with the Police Department, provided the member has attained the age of 50 years and acquired at least 10 years of service, or has acquired 25 years of service prior to such application.  However, a retiree shall not be awarded credit if he has received credit for a period of military service under any other retirement system for which retirement benefits have been or will be received by him; however, this exclusion does not apply to any such credit provided through Federal Old-Age and Survivor's Insurance (Social Security), or to any benefits provided under Title 3 or Title 10, Chapter 67, '' 1331 through 1337 of the U.S. Code.</text>
@@ -17263,6 +17287,7 @@
     <num>7</num>
     <heading>General Provisions</heading>
     <section>
+      <prefix>§</prefix>
       <num>46</num>
       <heading>Scope of subtitle.</heading>
       <text>This subtitle applies to:</text>
@@ -17288,6 +17313,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47</num>
       <heading>Definitions.</heading>
       <para>
@@ -17366,9 +17392,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
+        <reason>Repealed</reason>
       </para>
       <para>
         <num>(i)</num>
@@ -17412,6 +17436,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>48</num>
       <heading>Contemporaneous benefits from 2 or more City systems.</heading>
       <para>
@@ -17510,6 +17535,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49</num>
       <heading>Rollovers and transfers to purchase service credit, effective January 1, 2002.</heading>
       <para>
