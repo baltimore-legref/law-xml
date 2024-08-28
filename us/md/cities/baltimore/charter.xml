@@ -4,9 +4,11 @@
   <meta>
     <effective>0001-01-01</effective>
   </meta>
-  <annotation type="Editor's Notes">This Edition of the Charter was proposed by Resolution 94-025, and ratified November 8, 1994.  Detailed legislative histories of enactments and amendments before 1949 are included in the 1949 Edition of the “Charter and Public Local Laws of Baltimore City”.  The reports of the Charter Revision Commissions that drafted the subsequent 1964 and 1994 Revisions are on file in the Library of the Department of Legislative Reference in City Hall.</annotation>
-  <annotation type="Editor's Notes">Charter amendments adopted after the 1994 Revision are identified in parenthesis at the end of the affected section or subsection.</annotation>
-  <annotation type="Editor's Notes">Captions or headings for various subsections have been added for convenience of reference.  Like the preexisting headings to sections, these are intended solely for convenience of reference.  They are not part of the Charter and should not be taken as affecting the meaning or effect of the law.  Cf. <cite path="I|§2|(m)">Article I, § 2(m)</cite>.</annotation>
+  <annotations>
+    <annotation type="Editor's Notes">Captions or headings for various subsections have been added for convenience of reference.  Like the preexisting headings to sections, these are intended solely for convenience of reference.  They are not part of the Charter and should not be taken as affecting the meaning or effect of the law.  Cf. <cite path="I|§2|(m)">Article I, § 2(m)</cite>.</annotation>
+    <annotation type="Editor's Notes">Charter amendments adopted after the 1994 Revision are identified in parenthesis at the end of the affected section or subsection.</annotation>
+    <annotation type="Editor's Notes">This Edition of the Charter was proposed by Resolution 94-025, and ratified November 8, 1994.  Detailed legislative histories of enactments and amendments before 1949 are included in the 1949 Edition of the “Charter and Public Local Laws of Baltimore City”.  The reports of the Charter Revision Commissions that drafted the subsequent 1964 and 1994 Revisions are on file in the Library of the Department of Legislative Reference in City Hall.</annotation>
+  </annotations>
   <container>
     <prefix>Article</prefix>
     <num>I</num>
@@ -465,8 +467,8 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         <annotation type="History">Res. 16-026, ratified Nov. 8, 2016</annotation>
+        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
       </annotations>
     </section>
     <section>
@@ -674,8 +676,8 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         <annotation type="History">Initiative "Question J", ratified Nov. 8, 2016</annotation>
+        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
       </annotations>
     </section>
     <section>
@@ -846,8 +848,8 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         <annotation type="History">Res. 18-009, ratified Nov. 6, 2018</annotation>
+        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
       </annotations>
     </section>
     <section>
@@ -1058,7 +1060,9 @@
     <num>II</num>
     <heading>General Powers</heading>
     <text>The Mayor and City Council of Baltimore shall have full power and authority to exercise all of the powers heretofore or hereafter granted to it by <cite doc="Md. Const.">the Constitution of Maryland</cite> or by any Public General or Public Local Laws of the State of Maryland; and in particular, without limitation upon the foregoing, shall have power by ordinance, or such other method as may be provided for in its Charter, subject to the provisions of said Constitution and Public General Laws:</text>
-    <annotation type="Editor's Notes"><cite path="II">Article II</cite> contains the “express powers” of the Mayor and City Council of Baltimore, as enacted and amended over the years by the Maryland General Assembly.  Enactments since the 1964 Charter Revision are indicated in the parentheses at the end of the affected sections.</annotation>
+    <annotations>
+      <annotation type="Editor's Notes"><cite path="II">Article II</cite> contains the “express powers” of the Mayor and City Council of Baltimore, as enacted and amended over the years by the Maryland General Assembly.  Enactments since the 1964 Charter Revision are indicated in the parentheses at the end of the affected sections.</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>(1)</num>
@@ -1205,7 +1209,7 @@
       <para>
         <num>(b)</num>
         <heading>Biennial reports.</heading>
-        <text>Beginning July 1, 2017, and every two years thereafter, the Baltimore City Fire Department shall submit a report to the members of the Baltimore City Delegation to the General Assembly, in accordance with § 2-1246 of the State Government Article of the Annotated Code of Maryland, on:</text>
+        <text>Beginning July 1, 2017, and every two years thereafter, the Baltimore City Fire Department shall submit a report to the members of the Baltimore City Delegation to the General Assembly, in accordance with <cite doc="Md. Code" path="gsg|2-1246">§ 2-1246 of the State Government Article of the Annotated Code of Maryland</cite>, on:</text>
         <para>
           <num>(1)</num>
           <text>the condition of motorized fire equipment of the Department; and</text>
@@ -1256,7 +1260,7 @@
         <text>On or before January 1 each year, the Department of Public Works shall:</text>
         <para>
           <num>(1)</num>
-          <text>submit a report to the members of the Baltimore City Delegation to the General Assembly, in accordance with § 2-1246 of the State Government Article of the Annotated Code of Maryland, on the actions the Department has taken to remediate illegal dumping in each legislative district in Baltimore City in which more than ten citations for illegal dumping were issued during the previous year; and</text>
+          <text>submit a report to the members of the Baltimore City Delegation to the General Assembly, in accordance with <cite doc="Md. Code" path="gsg|2-1246">§ 2-1246 of the State Government Article of the Annotated Code of Maryland</cite>, on the actions the Department has taken to remediate illegal dumping in each legislative district in Baltimore City in which more than ten citations for illegal dumping were issued during the previous year; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1277,9 +1281,7 @@
       <prefix>§</prefix>
       <num>(13)</num>
       <heading>Jail.</heading>
-      <text>
-        <em>{Repealed by Ch. 59, Acts of 1991.}</em>
-      </text>
+      <reason>Repealed by Ch. 59, Acts of 1991.</reason>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1809,8 +1811,8 @@
       <heading>Cable television franchises.</heading>
       <text>To grant one or more exclusive or nonexclusive franchises for a community antenna system or other cable television system that utilizes any public right of way, highway, street, road, lane, alley, or bridge, to impose franchise fees, and to establish rates, rules, and regulations for franchises granted under <cite path="II|§(35A)">this section</cite>.</text>
       <annotations>
-        <annotation type="Editor's Notes">For a description of what constitutes a “cable television system” for purposes of <cite path="II|§(35A)">this section</cite>, see Section 2 of Chapter 562, Acts of 1982.</annotation>
         <annotation type="History">Ch. 562, Acts of 1982</annotation>
+        <annotation type="Editor's Notes">For a description of what constitutes a “cable television system” for purposes of <cite path="II|§(35A)">this section</cite>, see Section 2 of Chapter 562, Acts of 1982.</annotation>
       </annotations>
     </section>
     <section>
@@ -1840,7 +1842,7 @@
       <num>(37)</num>
       <heading>Sundays.</heading>
       <text>To prohibit, or permit and regulate, from time to time by ordinance, amusements, entertainments or games to be held, shown or played for recreation or profit within Baltimore City on Sunday; provided that no ordinance passed in the exercise of this power shall become effective until it has been submitted to and approved by the voters of Baltimore City at such general, municipal or special election as may be provided in such ordinance.  At any such election the general election laws of the State are applicable and the City is authorized to make use of the facilities and equipment of the Board of Supervisors of Election of Baltimore City.</text>
-      <text>Article 27 of the Annotated Code of Maryland (1957 Edition), title "Crimes and Punishments", subtitle "Sabbath Breaking", does not apply to Baltimore City except for '' 534L, 534L-1 and 534L-2.</text>
+      <text><cite doc="Md. Code" path="27">Article 27 of the Annotated Code of Maryland</cite> (1957 Edition), title "Crimes and Punishments", subtitle "Sabbath Breaking", does not apply to Baltimore City except for '' 534L, 534L-1 and 534L-2.</text>
       <annotations>
         <annotation type="History">Ch. 864, Acts of 1980</annotation>
       </annotations>
@@ -1914,7 +1916,7 @@
       <para>
         <num>(d)</num>
         <heading>Section prevails over inconsistent provisions.</heading>
-        <text>The restrictions contained in Section 1 of Article 66½ , Section 218 of Article 81 and Sections 8A, 293 and 294 of Article 56 of the Annotated Code of Maryland, shall not restrain or limit the exercise by the Mayor and City Council of Baltimore of the powers herein granted to tax gross receipts, and to the extent of any inconsistency in said sections and this subsection (40), the provisions of this subsection (40) shall prevail; and all other laws, or parts of laws, inconsistent with the provisions of this subsection (40) be and they are hereby repealed to the extent of any such inconsistency.</text>
+        <text>The restrictions contained in Section 1 of <cite doc="Md. Code" path="66">Article 66½ , Section 218 of Article 81 and Sections 8A, 293 and 294 of Article 56 of the Annotated Code of Maryland</cite>, shall not restrain or limit the exercise by the Mayor and City Council of Baltimore of the powers herein granted to tax gross receipts, and to the extent of any inconsistency in said sections and this subsection (40), the provisions of this subsection (40) shall prevail; and all other laws, or parts of laws, inconsistent with the provisions of this subsection (40) be and they are hereby repealed to the extent of any such inconsistency.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -2018,11 +2020,11 @@
       <heading>General welfare.</heading>
       <text>To pass any ordinance, not inconsistent with the provisions of this Charter or the laws of the State, which it may deem proper in the exercise of any of the powers, either express or implied, enumerated in this Charter, as well as any ordinance as it may deem proper in maintaining the peace, good government, health and welfare of Baltimore City and to promote the welfare and temperance of minors exposed to advertisements for alcoholic beverages placed in publicly visible locations.</text>
       <annotations>
+        <annotation type="History">Ch. 637, Acts of 1993</annotation>
         <annotation type="Editor's Notes">
           <text>Section 2 of Chapter 637, Acts of 1993, which added the last clause on alcoholic-beverage advertisements, provided as follows</text>
           <text>[T]his Act may only be applied to or interpreted to have an effect on any contract executed after the effective date of this Act {June 1, 1993} and to any renewal term of a preexisting contract beginning after October 1, 1993.</text>
         </annotation>
-        <annotation type="History">Ch. 637, Acts of 1993</annotation>
       </annotations>
     </section>
     <section>
@@ -2267,9 +2269,7 @@
       <prefix>§</prefix>
       <num>(53)</num>
       <heading>Nonresident owners, notice of violation and appointment of receiver.</heading>
-      <text>
-        <em>{Repealed by Ch. 467, Acts of 1993.}</em>
-      </text>
+      <reason>Repealed by Ch. 467, Acts of 1993.</reason>
     </section>
     <section>
       <prefix>§</prefix>
@@ -2779,9 +2779,9 @@
         <text>The Mayor and City Council shall establish a fair and equitable process for the approval and adoption of an ordinance, under <cite path="II|§(61)">this section</cite>, by the property owners who are subject to taxes or charges in the district.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Subsection (b)(1) was added by Chapter 36, Acts of 2022, effective July 1, 2022.,  Section 3 of Chapter 36 provides that the subsection “shall remain effective for a period of 5 years and, at the end of June 30, 2027, ... with no further action required by the General Assembly, shall be abrogated and of no further force and effect.”</annotation>
         <annotation type="History">Ch. 604, Acts of 1992</annotation>
         <annotation type="History">Ch. 36, Acts of 2022</annotation>
+        <annotation type="Editor's Notes">Subsection (b)(1) was added by Chapter 36, Acts of 2022, effective July 1, 2022.,  Section 3 of Chapter 36 provides that the subsection “shall remain effective for a period of 5 years and, at the end of June 30, 2027, ... with no further action required by the General Assembly, shall be abrogated and of no further force and effect.”</annotation>
       </annotations>
     </section>
     <section>
@@ -2843,7 +2843,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>"Adjusted assessable base" means, for real property that qualifies for farm or agricultural use under § 8-209 of the Tax-Property Article of the Annotated Code of Maryland, as amended, replaced, or supplemented from time to time, the fair market value of the property without regard to its agricultural use assessment as of January 1 of that year preceding the effective date of the ordinance creating the development district under <cite path="II|§(62)|(d)">subsection (d) of this section</cite>.</text>
+          <text>"Adjusted assessable base" means, for real property that qualifies for farm or agricultural use under <cite doc="Md. Code" path="gtp|8-209">§ 8-209 of the Tax-Property Article of the Annotated Code of Maryland</cite>, as amended, replaced, or supplemented from time to time, the fair market value of the property without regard to its agricultural use assessment as of January 1 of that year preceding the effective date of the ordinance creating the development district under <cite path="II|§(62)|(d)">subsection (d) of this section</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2861,7 +2861,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>"Assessment ratio" includes the assessment percentage as provided under § 8-103(c) of the Tax-Property Article of the Annotated Code of Maryland, as amended, replaced, or supplemented from time to time.</text>
+            <text>"Assessment ratio" includes the assessment percentage as provided under <cite doc="Md. Code" path="gtp|8-103">§ 8-103(c) of the Tax-Property Article of the Annotated Code of Maryland</cite>, as amended, replaced, or supplemented from time to time.</text>
           </para>
         </para>
         <para>
@@ -3940,7 +3940,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>determine what classes of property in the district owned by public service companies as defined in Article 78 of the Annotated Code of Maryland <em>{now, Public Utility Companies Article} </em>shall be subject to or exempt from taxes or charges under <cite path="II|§(63)">this section</cite>.</text>
+          <text>determine what classes of property in the district owned by public service companies as defined in <cite doc="Md. Code" path="78">Article 78 of the Annotated Code of Maryland</cite> <em>{now, Public Utility Companies Article} </em>shall be subject to or exempt from taxes or charges under <cite path="II|§(63)">this section</cite>.</text>
         </para>
       </para>
       <para>
@@ -4668,7 +4668,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>comply with the State Open Meetings Act under Title 10, Subtitle 5 and Subtitle 6, Part III of the State Government Article of the Annotated Code of Maryland <em>{i.e., the State Open Meetings Act, Title 3 of the State General Provisions Article, and the State Public Information Act, Title 4 of the State General Provisions Article}</em>.</text>
+            <text>comply with the State Open Meetings Act under <cite doc="Md. Code" path="gsg">Title 10, Subtitle 5 and Subtitle 6, Part III of the State Government Article of the Annotated Code of Maryland</cite> <em>{i.e., the State Open Meetings Act, Title 3 of the State General Provisions Article, and the State Public Information Act, Title 4 of the State General Provisions Article}</em>.</text>
           </para>
         </para>
         <para>
@@ -4895,7 +4895,7 @@
       <para>
         <num>(s)</num>
         <heading>Annual reports.</heading>
-        <text>The Authority shall report annually to the Mayor and City Council of Baltimore City and, in accordance with § 2-1246 of the State Government Article of the Annotated Code of Maryland, the General Assembly on the activities of the Authority.</text>
+        <text>The Authority shall report annually to the Mayor and City Council of Baltimore City and, in accordance with <cite doc="Md. Code" path="gsg|2-1246">§ 2-1246 of the State Government Article of the Annotated Code of Maryland</cite>, the General Assembly on the activities of the Authority.</text>
       </para>
       <para>
         <num>(t)</num>
@@ -5523,7 +5523,7 @@
         <para>
           <num>(7)</num>
           <heading>Property tax.</heading>
-          <text>"Property tax" has the same meaning as stated in § 1-101 of the Tax-Property Article of the Annotated Code of Maryland.</text>
+          <text>"Property tax" has the same meaning as stated in <cite doc="Md. Code" path="gtp|1-101">§ 1-101 of the Tax-Property Article of the Annotated Code of Maryland</cite>.</text>
         </para>
       </para>
       <para>
@@ -5824,8 +5824,8 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Chapter 645, Acts of 2010, which enacted <cite path="II|§(66)">this section</cite>, designated it as <cite path="II|§(65)">Article II, § (65)</cite>.  Inasmuch as § (65) was already occupied, the new section is codified here as <cite path="II|§(66)">Article II, § (66)</cite>.</annotation>
         <annotation type="History">Ch. 645, Acts of 2010</annotation>
+        <annotation type="Editor's Notes">Chapter 645, Acts of 2010, which enacted <cite path="II|§(66)">this section</cite>, designated it as <cite path="II|§(65)">Article II, § (65)</cite>.  Inasmuch as § (65) was already occupied, the new section is codified here as <cite path="II|§(66)">Article II, § (66)</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -6043,8 +6043,8 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Chapter 655, Acts of 2012, authorized this pilot program, effective for a 3-year period from October 1, 2012, through September 30, 2015.</annotation>
         <annotation type="History">Ch.  655, Acts of 2012</annotation>
+        <annotation type="Editor's Notes">Chapter 655, Acts of 2012, authorized this pilot program, effective for a 3-year period from October 1, 2012, through September 30, 2015.</annotation>
       </annotations>
     </section>
     <section>
@@ -6192,7 +6192,7 @@
           <text>The ordinance establishing the South Baltimore Gateway Community Impact District Management Authority shall address the following:</text>
           <para>
             <num>(i)</num>
-            <text>specify the powers and functions within the limits of <cite path="II|§(69)">this section</cite>, which may be exercised and conducted by the Authority and provide that the State fund the Authority with not less than the 50% of the local impact grants from video lottery proceeds that § 9-1A-31(a)(3)(i) of the State Government Article of the Annotated Code of Maryland requires the State to distribute directly to the Authority;</text>
+            <text>specify the powers and functions within the limits of <cite path="II|§(69)">this section</cite>, which may be exercised and conducted by the Authority and provide that the State fund the Authority with not less than the 50% of the local impact grants from video lottery proceeds that <cite doc="Md. Code" path="gsg|9-1">§ 9-1A-31(a)(3)(i) of the State Government Article of the Annotated Code of Maryland</cite> requires the State to distribute directly to the Authority;</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -6924,12 +6924,12 @@
         <text>On or before December 31, 2020, the Commission shall submit a final report of its findings, conclusions, and recommendations to the Governor and, in accordance with § 2-1246 of the State Government Article, the General Assembly.</text>
       </para>
       <annotations>
+        <annotation type="History">Ch. 753, Acts of 2018</annotation>
+        <annotation type="History">Chs. 459 and 460, Acts of 2019</annotation>
         <annotation type="Editor's Notes">
           <text>The preceding provisions were initially enacted by Section 1 of Chapter 753, Acts of 2018.  Section 4 of that Act provided for these provisions to become effective from the date of their enactment – i.e., May 15, 2018.  Section 4 further provided that “Section 1 of this Act shall remain effective for a period of 1 year and 8 months and, at the end of 1 year and 8 months from the date of enactment, Section 1 of this Act, with no further action required by the General Assembly, shall be abrogated and of no further force and effect.”</text>
           <text>Chapters 459 and 460, Acts of 2019, rewrote <cite path="II|§(71)|(h)">subsection (h) of this section</cite> and amended subsection (m) to extend by 1 year the due date for the Commission’s final report.  These 2019 Acts also amended Section 4 of Chapter 753 to extend its “sunset” provision to “2 years and 8 months” from the date of the original enactment.  </text>
         </annotation>
-        <annotation type="History">Ch. 753, Acts of 2018</annotation>
-        <annotation type="History">Chs. 459 and 460, Acts of 2019</annotation>
       </annotations>
     </section>
   </container>
@@ -6998,13 +6998,13 @@
         <text>A member of the City Council shall not hold office for more than 2 consecutive full terms of office and in no event shall hold the office for more than 8 years during any 12 year period. This provision shall not preclude an elected member from seeking other elected offices within Baltimore City after two consecutive terms as member. In the event that an elected member takes office as a result of a removal or vacancy as described in '' 2 or 6 of <cite path="III">this Article</cite>, that elected member shall only be eligible to hold that office for the remainder of the predecessor's unexpired term and 1 consecutive full term thereafter.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Subsection (e) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that subsection (e) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</annotation>
         <annotation type="History">Initiative "Question K", ratified Nov. 8, 2022</annotation>
         <annotation type="History">Res. 99-016, ratified Nov. 2, 1999</annotation>
         <annotation type="History">Initiative "Question P", ratified Nov. 5, 2002</annotation>
         <annotation type="History">Res. 04-049, ratified Nov. 2, 2004</annotation>
         <annotation type="History">Res. 12-003, ratified Nov. 6, 2012</annotation>
         <annotation type="History">Res. 20-024, ratified Nov. 3, 2020</annotation>
+        <annotation type="Editor's Notes">Subsection (e) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that subsection (e) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</annotation>
       </annotations>
     </section>
     <section>
@@ -7027,9 +7027,9 @@
         <text>The President of the City Council shall not hold office for more than 2 consecutive full terms of office and in no event shall hold the office for more than 8 years during any 12 year period. This provision shall not preclude an elected President from seeking other elected offices within Baltimore City after two consecutive terms as President. In the event that an elected President takes office as a result of a removal or vacancy described in '' 3 or 4 of <cite path="III">this Article</cite>, that elected President shall only be eligible to hold that office for the remainder of the predecessor's unexpired term and 1 consecutive full term thereafter.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Subsection (c) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that subsection (c) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</annotation>
         <annotation type="History">Initiative "Question K", ratified Nov. 8, 2022</annotation>
         <annotation type="History">Res. 20-024, ratified Nov. 3, 2020</annotation>
+        <annotation type="Editor's Notes">Subsection (c) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that subsection (c) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</annotation>
       </annotations>
     </section>
     <section>
@@ -7071,9 +7071,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <em>{Vacant}</em>
-        </text>
+        <reason>Vacant</reason>
       </para>
       <para>
         <num>(d)</num>
@@ -7299,17 +7297,17 @@
         <text>A Mayor shall not hold office for more than 2 consecutive full terms of office and in no event shall hold the office for more than 8 years during any 12 year period. This provision shall not preclude an elected Mayor from seeking other elected offices within Baltimore City after two consecutive terms as Mayor.  In the event that an elected Mayor takes office as a result of a removal, vacancy or absence described in <cite path="IV|§2">§ 2 of this Article</cite>, that elected Mayor shall only be eligible to hold that office for the remainder of the predecessor's unexpired term and 1 consecutive full term thereafter.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">
-          <text>§ 9-113 of the Local Government Article (enacted as former Article 24, § 1-108, by Chs. 8 and 9, Acts of 1999) provides that “a candidate for chief executive officer [of a county] shall be a resident of the county for at least 6 months before the general election for chief executive officer” {LG §9-113(c)}.  By constricted definition and scope, however, this requirement applies to but two “counties” (Baltimore City and Montgomery County) and two “chief executive officers” (the Mayor of Baltimore City and the County Executive of Montgomery County) {LG § 9-113(a) and (b)}.</text>
-          <text>The section further provides that a “county” may retain a Charter-imposed residency requirement that is longer than 6 months if that political subdivision “reaffirms the requirement by enactment of an Ordinance effective no later than 4 weeks before the filing deadline specified in § 5-303(a) of the Election Law Article” {LG § 9-113(d)}.</text>
-          <text>In response to these provisions, the Mayor and City Council enacted Ordinance 99-433, effective June 1, 1999, to “reaffir[m] and retai[n] the residency requirement for Mayor that is imposed by <cite>the Baltimore City Charter</cite>”.</text>
-        </annotation>
-        <annotation type="Editor's Notes">Subsection (d) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that subsection (d) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</annotation>
         <annotation type="History">Initiative "Question K", ratified Nov. 8, 2022</annotation>
         <annotation type="History">Res. 99-016, ratified Nov. 2, 1999</annotation>
         <annotation type="History">Res. 04-049, ratified Nov. 2, 2004</annotation>
         <annotation type="History">Res. 05-009, ratified Nov. 7, 2006</annotation>
         <annotation type="History">Res. 12-003, ratified Nov. 6, 2012</annotation>
+        <annotation type="Editor's Notes">Subsection (d) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that subsection (d) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</annotation>
+        <annotation type="Editor's Notes">
+          <text>§ 9-113 of the Local Government Article (enacted as former Article 24, § 1-108, by Chs. 8 and 9, Acts of 1999) provides that “a candidate for chief executive officer [of a county] shall be a resident of the county for at least 6 months before the general election for chief executive officer” {LG §9-113(c)}.  By constricted definition and scope, however, this requirement applies to but two “counties” (Baltimore City and Montgomery County) and two “chief executive officers” (the Mayor of Baltimore City and the County Executive of Montgomery County) {LG § 9-113(a) and (b)}.</text>
+          <text>The section further provides that a “county” may retain a Charter-imposed residency requirement that is longer than 6 months if that political subdivision “reaffirms the requirement by enactment of an Ordinance effective no later than 4 weeks before the filing deadline specified in § 5-303(a) of the Election Law Article” {LG § 9-113(d)}.</text>
+          <text>In response to these provisions, the Mayor and City Council enacted Ordinance 99-433, effective June 1, 1999, to “reaffir[m] and retai[n] the residency requirement for Mayor that is imposed by <cite>the Baltimore City Charter</cite>”.</text>
+        </annotation>
       </annotations>
     </section>
     <section>
@@ -7513,9 +7511,9 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">See City Code Article 1, § 7-10 {“Residency requirements for City officials”) and its accompanying Editor’s Note.  That section codifies the City’s residency requirements in accord with controlling limitations imposed by State Local Government Article, § 1-201.</annotation>
         <annotation type="History">Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</annotation>
         <annotation type="History">Res. 22-004, ratified Nov. 8, 2022</annotation>
+        <annotation type="Editor's Notes">See City Code Article 1, § 7-10 {“Residency requirements for City officials”) and its accompanying Editor’s Note.  That section codifies the City’s residency requirements in accord with controlling limitations imposed by State Local Government Article, § 1-201.</annotation>
       </annotations>
     </section>
     <section>
@@ -7595,8 +7593,8 @@
         <text>In the event of the death, resignation, or removal from office of the Comptroller, a successor, to fill out the unexpired term, shall be elected by the City Council by a majority vote of its members.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Paragraph (a)(5) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that paragraph (a)(5) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</annotation>
         <annotation type="History">Res. 20-024, ratified Nov. 3, 2020</annotation>
+        <annotation type="Editor's Notes">Paragraph (a)(5) was added by Initiative Ballot Question K, ratified November 8, 2022.  The final sentence of Question K establishes that paragraph (a)(5) will be effective “beginning with persons elected in the 2024 Baltimore City Election.”</annotation>
       </annotations>
     </section>
     <section>
@@ -8074,9 +8072,9 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         <annotation type="History">Res. 16-031, ratified Nov. 8, 2016</annotation>
         <annotation type="History">Res. 20-022, ratified Nov. 3, 2020</annotation>
+        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
       </annotations>
     </section>
     <section>
@@ -8600,8 +8598,8 @@
         <text>The salaries of all municipal officers and employees, whether or not fixed by the Charter, shall be paid at such intervals, but not less frequently than semi-monthly, as the Board of Estimates may determine from time to time.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         <annotation type="History">Res. 05-009, ratified Nov. 7, 2006</annotation>
+        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
       </annotations>
     </section>
     <section>
@@ -8753,11 +8751,11 @@
         <text>The Mayor and City Council may, by ordinance, establish programs that grant purchasing preferences to local, small, or disadvantaged businesses and, for that purpose, waive or modify the application of <cite path="VI|§11">this section</cite> (with the exception of subsection (a)) to certain transactions.</text>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">Initial threshold amounts were set by Board of Estimates Resolution adopted December 22, 2010, as follows:  § 11(c), which requires formal advertisements, applies to procurements involving expenditures of more than $50,000.  § 11(f), which requires contracts to be approved by the Board of Estimates, applies to contracts involving expenditures of more than $25,000.</annotation>
-        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         <annotation type="History">Res. 07-031, ratified Nov. 6, 2007</annotation>
         <annotation type="History">Res. 10-024, ratified Nov. 2, 2010</annotation>
         <annotation type="History">Res. 16-030, ratified Nov. 8, 2016</annotation>
+        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
+        <annotation type="Editor's Notes">Initial threshold amounts were set by Board of Estimates Resolution adopted December 22, 2010, as follows:  § 11(c), which requires formal advertisements, applies to procurements involving expenditures of more than $50,000.  § 11(f), which requires contracts to be approved by the Board of Estimates, applies to contracts involving expenditures of more than $25,000.</annotation>
       </annotations>
     </section>
     <section>
@@ -8789,9 +8787,9 @@
         </para>
       </para>
       <annotations>
-        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         <annotation type="History">Res. 06-016, ratified Nov. 7, 2006</annotation>
         <annotation type="History">Res. 14-014, ratified Nov. 4, 2014</annotation>
+        <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
       </annotations>
     </section>
     <section>
@@ -8892,7 +8890,7 @@
     <prefix>Article</prefix>
     <num>VII</num>
     <heading>Executive Departments</heading>
-    <container id="general-provisions">
+    <container name="general-provisions">
       <heading>General Provisions</heading>
       <section>
         <prefix>§</prefix>
@@ -8909,8 +8907,8 @@
           <text>Subject to the approval of the City Administrator, departments acting through their directors, and commissions and boards, may adopt rules and regulations, not inconsistent with laws or ordinances, for the operation of their respective departments, commissions and boards as they may deem appropriate.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
           <annotation type="History">Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</annotation>
+          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         </annotations>
       </section>
       <section>
@@ -8979,13 +8977,11 @@
       <section>
         <prefix>§</prefix>
         <num>4.5</num>
-        <heading>{Repealed by Res. 16-031, ratified Nov. 8, 2016.}</heading>
-        <text>
-          <strong>
-            <em>Department of Finance</em>
-          </strong>
-        </text>
+        <reason>Repealed by Res. 16-031, ratified Nov. 8, 2016.</reason>
       </section>
+    </container>
+    <container name="department-of-finance">
+      <heading>Department of Finance</heading>
       <section>
         <prefix>§</prefix>
         <num>5</num>
@@ -9130,9 +9126,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>
-            <em>{Repealed by Res. 00-010, ratified November 2000.}</em>
-          </text>
+          <reason>Repealed by Res. 00-010, ratified November 2000.</reason>
         </para>
         <annotations>
           <annotation type="History">Res. 00-010, ratified November 2000</annotation>
@@ -9253,9 +9247,9 @@
           <text>In the event of a disagreement between departments, the Board of Estimates shall determine whether a proposed procurement is for public works, materials, supplies, equipment, services or professional services.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
           <annotation type="History">Res. 10-024, ratified Nov. 2, 2010</annotation>
           <annotation type="History">Res. 22-005, ratified Nov. 8, 2022</annotation>
+          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         </annotations>
       </section>
       <section>
@@ -9280,7 +9274,7 @@
         </para>
       </section>
     </container>
-    <container id="board-of-finance">
+    <container name="board-of-finance">
       <heading>Board of Finance</heading>
       <section>
         <prefix>§</prefix>
@@ -9336,7 +9330,7 @@
         </para>
       </section>
     </container>
-    <container id="department-of-law">
+    <container name="department-of-law">
       <heading>Department of Law</heading>
       <section>
         <prefix>§</prefix>
@@ -9429,7 +9423,7 @@
         <text>The City Solicitor shall have authority to institute, defend or discontinue on behalf of the City, any suit, action, or proceeding in any local, State or federal court or tribunal, but no appeals on behalf of the City to the Court of Appeals, the Supreme Court of the United States, or the United States Court of Appeals shall be taken except upon the written order of the City Solicitor, or outside counsel employed pursuant to Section 24(c), approved by the Mayor.</text>
       </section>
     </container>
-    <container id="department-of-public-works">
+    <container name="department-of-public-works">
       <heading>Department of Public Works</heading>
       <section>
         <prefix>§</prefix>
@@ -9494,10 +9488,12 @@
       <section>
         <prefix>§</prefix>
         <num>32</num>
-        <heading>{Repealed by Res. 08-003, ratified Nov. 4, 2008.}</heading>
-        <text>
-          <strong>§ 33.  Department of Public Works: Water supply.</strong>
-        </text>
+        <reason>Repealed by Res. 08-003, ratified Nov. 4, 2008.</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>33</num>
+        <heading>Department of Public Works: Water supply.</heading>
         <text>The Department shall have charge of the water supply of the City and of all the properties, reservoirs, streams, pumping and filtration stations, pipes, apparatus and equipment appurtenant thereto and shall exercise all the powers and perform all the duties connected with the operation thereof and the supplying of water to the City.</text>
       </section>
       <section>
@@ -9515,18 +9511,21 @@
       <section>
         <prefix>§</prefix>
         <num>36</num>
-        <heading>{Repealed by Res. 08-003, ratified Nov. 4, 2008.}</heading>
-        <text>
-          <strong>§ 37.  Department of Public Works: Testing.</strong>
-        </text>
+        <reason>Repealed by Res. 08-003, ratified Nov. 4, 2008.</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>37</num>
+        <heading>Department of Public Works: Testing.</heading>
         <text>At the request of a municipal agency, the Department shall test materials and supplies purchased or used by the agency.</text>
         <annotations>
           <annotation type="History">Res. 08-003, ratified Nov. 4, 2008</annotation>
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>38 to 40</num>
-        <heading>{Repealed by Res. 08-003, ratified Nov. 4, 2008.}</heading>
+        <reason>Repealed by Res. 08-003, ratified Nov. 4, 2008.</reason>
       </section>
       <section>
         <prefix>§</prefix>
@@ -9564,11 +9563,12 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>43 to 46</num>
-        <heading>{Repealed by Res. 08-003, ratified Nov. 4, 2008.}</heading>
+        <reason>Repealed by Res. 08-003, ratified Nov. 4, 2008.</reason>
       </section>
     </container>
-    <container id="fire-department">
+    <container name="fire-department">
       <heading>Fire Department</heading>
       <section>
         <prefix>§</prefix>
@@ -9705,7 +9705,7 @@
         </para>
       </section>
     </container>
-    <container id="department-of-health">
+    <container name="department-of-health">
       <heading>Department of Health</heading>
       <section>
         <prefix>§</prefix>
@@ -9758,7 +9758,7 @@
         </para>
       </section>
     </container>
-    <container id="department-of-social-services">
+    <container name="department-of-social-services">
       <heading>Department of Social Services</heading>
       <section>
         <prefix>§</prefix>
@@ -9791,7 +9791,7 @@
         </annotations>
       </section>
     </container>
-    <container id="department-of-education">
+    <container name="department-of-education">
       <heading>Department of Education</heading>
       <section>
         <prefix>§</prefix>
@@ -9919,7 +9919,7 @@
         <text>The superintendents, assistant superintendents, directors, supervisors, assistant supervisors, principals, assistant principals, teachers, secretaries, clerks and other employees shall perform such duties as may be prescribed by the Board not inconsistent with the provisions of the Charter.</text>
       </section>
     </container>
-    <container id="department-of-recreation-and-parks">
+    <container name="department-of-recreation-and-parks">
       <heading>Department of Recreation and Parks</heading>
       <section>
         <prefix>§</prefix>
@@ -10008,7 +10008,7 @@
         </para>
       </section>
     </container>
-    <container id="department-of-planning">
+    <container name="department-of-planning">
       <heading>Department of Planning</heading>
       <section>
         <prefix>§</prefix>
@@ -10246,7 +10246,7 @@
         <text>Any person who shall violate any of the provisions or requirements of Sections 71 to 80 shall be guilty of a misdemeanor, and, upon conviction in any court of competent jurisdiction, shall be fined as provided by law.  Every day that such violation continues shall be deemed a separate offense.</text>
       </section>
     </container>
-    <container id="department-of-municipal-and-zoning-appeals">
+    <container name="department-of-municipal-and-zoning-appeals">
       <heading>Department of Municipal and Zoning Appeals</heading>
       <section>
         <prefix>§</prefix>
@@ -10377,7 +10377,7 @@
         </para>
       </section>
     </container>
-    <container id="department-of-legislative-reference">
+    <container name="department-of-legislative-reference">
       <heading>Department of Legislative Reference</heading>
       <section>
         <prefix>§</prefix>
@@ -10513,7 +10513,6 @@
           <text>perform such other duties as prescribed by law.</text>
         </para>
         <annotations>
-          <annotation type="History">Res. 18-011, ratified Nov. 6, 2018</annotation>
           <annotation type="Editor's Notes">
             <text>Resolution 18-011rewrote the preexisting '' 90 through 93, effective January 1, 2019.  Section 3 of that Resolution, provides as follows</text>
             <text>[T[he Director of Legislative Reference holding office at the time the amendments to <cite path="VII">Article VII</cite>, Sections <cite path="VII|§90">90</cite>, <cite path="VII|§91">91</cite>, <cite path="VII|§92">92</cite> and <cite path="VII|§93">93</cite> become effective shall remain in the office until, pursuant to the amendments, reappointment or the appointment of a successor. </text>
@@ -10521,7 +10520,7 @@
         </annotations>
       </section>
     </container>
-    <container id="civil-service-commission">
+    <container name="civil-service-commission">
       <heading>Civil Service Commission</heading>
       <section>
         <prefix>§</prefix>
@@ -10591,8 +10590,8 @@
           <text>shall render decisions within sixty days of the close of hearings unless the City employee and City both agree to an extension.  If the Commission fails to decide within the sixty day time period, the decision of the hearing officer, if there is one, shall be deemed to be the decision of the Commission.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
           <annotation type="History">Res. 06-017, ratified Nov. 7, 2006</annotation>
+          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         </annotations>
       </section>
       <section>
@@ -10817,12 +10816,12 @@
           <text>In the case of classes of seasonal or part-time employees the Commission, after notice and a public hearing, may adopt rules excluding them from, or limiting the application to them of, the preference contained in the preceding subsection.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
+          <annotation type="History">Res. 06-017, ratified Nov. 7, 2006</annotation>
           <annotation type="Editor's Notes">
             <text>Section 2 of Resolution 06-017 states</text>
             <text>[T]his amendment applies only to grievance and arbitration procedures that, after the effective date of this amendment, have been adopted as part of a collective bargaining agreement to apply to employees who have been discharged, reduced in pay or position, or suspended for more than 30 days.</text>
           </annotation>
-          <annotation type="History">Res. 06-017, ratified Nov. 7, 2006</annotation>
+          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         </annotations>
       </section>
       <section>
@@ -10866,7 +10865,7 @@
         <text>Any violation of any of the provisions of the Charter relating to the Civil Service, or any willful use of any corrupt means in connection with any examination, appointment, promotion, reduction, transfer or reinstatement shall be deemed a misdemeanor and, upon conviction in a court of competent jurisdiction, shall be punished by a fine or by imprisonment as provided by law.</text>
       </section>
     </container>
-    <container id="board-of-ethics">
+    <container name="board-of-ethics">
       <heading>Board of Ethics</heading>
       <section>
         <prefix>§</prefix>
@@ -11025,14 +11024,15 @@
         </annotations>
       </section>
     </container>
-    <container id="development-commission">
+    <container name="development-commission">
       <heading>Development Commission</heading>
       <section>
+        <prefix>§</prefix>
         <num>111 to 113</num>
-        <heading>{Repealed by Res. 00-010, ratified November 2000.}</heading>
+        <reason>Repealed by Res. 00-010, ratified November 2000.</reason>
       </section>
     </container>
-    <container id="department-of-transportation">
+    <container name="department-of-transportation">
       <heading>Department of Transportation</heading>
       <section>
         <prefix>§</prefix>
@@ -11253,10 +11253,10 @@
           <text>The Department has the additional powers and duties relating to the construction, reconstruction, and maintenance of streets, to transportation, and to traffic, including powers and duties transferred from other municipal agencies, as are prescribed by law.</text>
         </para>
         <annotations>
-          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
           <annotation type="History">Res. 04-056, ratified Nov. 2, 2004</annotation>
           <annotation type="History">Res. 08-003, ratified Nov. 4, 2008</annotation>
           <annotation type="History">Res. 14-016, ratified Nov. 4, 2014</annotation>
+          <annotation type="Editor's Notes">For statutory requirements governing the proposal, adoption, and publication of administrative rules and regulations, see General Provisions Article, Title 4 {“Administrative Procedure Act – Regulations”}.</annotation>
         </annotations>
       </section>
       <section>
@@ -11372,7 +11372,7 @@
         </annotations>
       </section>
     </container>
-    <container id="compensation-commission-for-elected-officials">
+    <container name="compensation-commission-for-elected-officials">
       <heading>Compensation Commission for Elected Officials</heading>
       <section>
         <prefix>§</prefix>
@@ -11598,7 +11598,7 @@
         </annotations>
       </section>
     </container>
-    <container id="department-of-general-services">
+    <container name="department-of-general-services">
       <heading>Department of General Services</heading>
       <section>
         <prefix>§</prefix>
@@ -11686,8 +11686,8 @@
           </para>
         </para>
         <para>
-          <num>(d)</num>
-          <text>– (f)  <em>{Repealed by Res. 14-016, ratified Nov. 4, 2014.}</em></text>
+          <num>(d) – (f)</num>
+          <reason>Repealed by Res. 14-016, ratified Nov. 4, 2014.</reason>
         </para>
         <para>
           <num>(g)</num>
@@ -11746,10 +11746,12 @@
       <section>
         <prefix>§</prefix>
         <num>133</num>
-        <heading>{Repealed by Res. 14-016, ratified Nov. 4, 2014.}</heading>
-        <text>
-          <strong>§ 134.  Correcting physical obstruction.</strong>
-        </text>
+        <reason>Repealed by Res. 14-016, ratified Nov. 4, 2014.</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>134</num>
+        <heading>Correcting physical obstruction.</heading>
         <para>
           <num>(a)</num>
           <heading>Correction required.</heading>
@@ -11765,7 +11767,7 @@
         </annotations>
       </section>
     </container>
-    <container id="city-administrator">
+    <container name="city-administrator">
       <heading>City Administrator</heading>
       <section>
         <prefix>§</prefix>
@@ -11845,8 +11847,12 @@
       <section>
         <prefix>§</prefix>
         <num>137</num>
-        <heading>{Reserved}</heading>
-        <text><strong>§ 138</strong>.  <strong>City Administrator: Removal.</strong></text>
+        <reason>Reserved</reason>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>138</num>
+        <heading>City Administrator: Removal.</heading>
         <text>The Mayor may remove the City Administrator at any time.</text>
         <annotations>
           <annotation type="History">Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</annotation>
@@ -11915,7 +11921,7 @@
         </annotations>
       </section>
     </container>
-    <container id="baltimore-city-police-department">
+    <container name="baltimore-city-police-department">
       <heading>Baltimore City Police Department</heading>
       <section>
         <prefix>§</prefix>
