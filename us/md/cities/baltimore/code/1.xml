@@ -691,7 +691,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(c)">
         <num>(c)</num>
         <reason>Repealed</reason>
       </para>
@@ -2154,7 +2154,7 @@
         <annotation doc="City of Balt., Md., Ord. 16-463" type="History">Ord. 16-463</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="9-4to9-5">
       <num>9-4 to 9-5</num>
       <reason>Reserved</reason>
     </section>
@@ -2301,7 +2301,7 @@
         <annotation doc="City of Balt., Md., Ord. 16-463" type="History">Ord. 16-463</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="9-10to9-14">
       <num>9-10 to 9-14</num>
       <reason>Reserved</reason>
     </section>
@@ -2366,7 +2366,7 @@
         <heading>Agency.</heading>
         <text>"Agency" means any department, board, commission, council, authority, committee, office, or other unit of City government in either the executive or legislative branches, including all elected officials.</text>
       </para>
-      <para>
+      <para name="(c)">
         <num>(c)</num>
         <reason>Repealed</reason>
       </para>
@@ -2474,7 +2474,7 @@
       <num>10-2</num>
       <reason>Repealed by Ord. 22-125</reason>
     </section>
-    <section>
+    <section name="10-3to10-4">
       <num>10-3 to 10-4</num>
       <reason>Reserved</reason>
     </section>
@@ -2548,7 +2548,7 @@
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (c) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="10-7to10-8">
       <num>10-7 to 10-8</num>
       <reason>Reserved</reason>
     </section>
@@ -3854,7 +3854,7 @@
           <text>the trainings, exercises, and community outreach activities the Office conducted during the previous year.</text>
         </para>
       </section>
-      <section>
+      <section name="14-8to14-10">
         <num>14-8 to 14-10</num>
         <reason>Reserved</reason>
       </section>
@@ -5407,7 +5407,7 @@
           <annotation doc="City of Balt., Md., Ord. 04-820" type="History">Ord. 04-820</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="22-13to22-14">
         <num>22-13 to 22-14</num>
         <reason>Reserved</reason>
       </section>
@@ -5887,7 +5887,7 @@
         <heading>In general.</heading>
         <text>As used in this subtitle, the following terms have the meanings indicated unless their context clearly indicates otherwise.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -6495,7 +6495,7 @@
         <heading>In general.</heading>
         <text>As used in this subtitle, the following terms have the meanings indicated unless their context clearly indicates otherwise.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -7450,7 +7450,7 @@
     <prefix>Subtitle</prefix>
     <num>29</num>
     <heading>Violence Prevention</heading>
-    <section>
+    <section name="29-1to29-9">
       <num>29-1 to 29-9</num>
       <reason>Reserved</reason>
     </section>
@@ -8510,7 +8510,7 @@
             <text>"Nuclear weapon" includes the weapon's guidance and propulsion system and triggering mechanism, i.e., the means of transporting, guiding, propelling, triggering, or detonating the weapon, provided that such means is destroyed or rendered useless in the normal transporting, guiding, propelling, triggering, or detonation of the weapon.</text>
           </para>
         </para>
-        <para>
+        <para name="(f)">
           <num>(f)</num>
           <reason>Repealed</reason>
         </para>
@@ -9957,7 +9957,7 @@
         <annotation doc="City of Balt., Md., Ord. 18-160" type="History">Ord. 18-160</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="39-2to39-5">
       <num>39-2 to 39-5</num>
       <reason>Reserved</reason>
     </section>
@@ -10143,7 +10143,7 @@
         <heading>Environmental citation.</heading>
         <text>"Environmental citation" means a prepayable citation for violation of any provision of law or regulation under the jurisdiction of the Board.</text>
       </para>
-      <para>
+      <para name="(f)">
         <num>(f)</num>
         <reason>Repealed</reason>
       </para>
@@ -12120,7 +12120,7 @@
           <text>a Special Enforcement Officer appointed under City Code Article 19, § 71-1 and authorized by the Police Commissioner to issue citations under this subtitle.</text>
         </para>
       </para>
-      <para>
+      <para name="(d)">
         <num>(d)</num>
         <reason>Repealed</reason>
       </para>
@@ -13489,7 +13489,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="42to48">
     <prefix>Subtitles</prefix>
     <num>42 to 48</num>
     <reason>Reserved</reason>
@@ -14618,7 +14618,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="53to54">
     <prefix>Subtitles</prefix>
     <num>53 to 54</num>
     <reason>Reserved</reason>

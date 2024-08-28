@@ -106,11 +106,11 @@
           <heading>Board.</heading>
           <text>"Board" means the Board of Liquor License Commissioners for Baltimore City.</text>
         </para>
-        <para>
+        <para name="(e)">
           <num>(e)</num>
           <reason>Repealed</reason>
         </para>
-        <para>
+        <para name="(f)">
           <num>(f)</num>
           <reason>Repealed</reason>
         </para>
@@ -176,7 +176,7 @@
           <annotation doc="City of Balt., Md., Ord. 99-417" type="History">Ord. 99-417</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="1-5to1-6">
         <num>1-5 to 1-6</num>
         <reason>Reserved</reason>
       </section>
@@ -511,7 +511,7 @@
           <annotation doc="City of Balt., Md., Ord. 99-417" type="History">Ord. 99-417</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="1-18to1-19">
         <num>1-18 to 1-19</num>
         <reason>Reserved</reason>
       </section>
@@ -909,7 +909,7 @@
           <annotation doc="City of Balt., Md., Ord. 99-417" type="History">Ord. 99-417</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="1-36to1-37">
         <num>1-36 to 1-37</num>
         <reason>Reserved</reason>
       </section>
@@ -1035,7 +1035,7 @@
           <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="2-4to2-5">
         <num>2-4 to 2-5</num>
         <reason>Reserved</reason>
       </section>
@@ -1103,7 +1103,7 @@
           <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="2-8to2-10">
         <num>2-8 to 2-10</num>
         <reason>Reserved</reason>
       </section>
@@ -1208,11 +1208,11 @@
           <heading>Director.</heading>
           <text>"Director" means the Director of Finance of his or her designee.</text>
         </para>
-        <para>
+        <para name="(d)">
           <num>(d)</num>
           <reason>Repealed</reason>
         </para>
-        <para>
+        <para name="(e)">
           <num>(e)</num>
           <reason>Repealed</reason>
         </para>
@@ -1701,7 +1701,7 @@
           <annotation doc="City of Balt., Md., Ord. 99-526" type="History">Ord. 99-526</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="2-24to2-30">
         <num>2-24 to 2-30</num>
         <reason>Reserved</reason>
       </section>
@@ -1773,7 +1773,7 @@
           <annotation doc="City of Balt., Md., Ord. 46-382" type="History">Ord. 46-382</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="2-34to2-35">
         <num>2-34 to  2-35</num>
         <reason>Reserved</reason>
       </section>
@@ -1848,7 +1848,7 @@
           <annotation doc="City of Balt., Md., Ord. 57-1105" type="History">Ord. 57-1105</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="2-38to2-40">
         <num>2-38 to 2-40</num>
         <reason>Reserved</reason>
       </section>
@@ -2001,7 +2001,7 @@
           <annotation doc="City of Balt., Md., Ord. 20-361" type="History">Ord. 20-361</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="2-47to2-50">
         <num>2-47 to 2-50</num>
         <reason>Reserved</reason>
       </section>
@@ -2145,7 +2145,7 @@
         <heading>Commissioner.</heading>
         <text>"Commissioner" means the Commissioner of Housing and Community Development or the Commissioner's designee.</text>
       </para>
-      <para>
+      <para name="(d)">
         <num>(d)</num>
         <reason>Repealed</reason>
       </para>
@@ -2421,7 +2421,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="4to5">
     <prefix>Subtitles</prefix>
     <num>4 to 5</num>
     <reason>Reserved</reason>
@@ -2899,7 +2899,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(c)">
         <num>(c)</num>
         <reason>Repealed</reason>
       </para>
@@ -3054,7 +3054,7 @@
           <heading>In general.</heading>
           <text>In this subtitle, the following terms have the meanings indicated.</text>
         </para>
-        <para>
+        <para name="(b)">
           <num>(b)</num>
           <reason>Vacant</reason>
         </para>
@@ -3086,7 +3086,7 @@
             <text>if a different precinct, within the election precinct of the block face opposing the block face in which a business is located.</text>
           </para>
         </para>
-        <para>
+        <para name="(f)">
           <num>(f)</num>
           <reason>Repealed</reason>
         </para>
@@ -3095,7 +3095,7 @@
           <heading>Late-night operations license; license.</heading>
           <text>"Late-night operations license" or "license" means a license issued under this subtitle.</text>
         </para>
-        <para>
+        <para name="(h)">
           <num>(h)</num>
           <reason>Repealed</reason>
         </para>
@@ -3447,7 +3447,7 @@
           <annotation doc="City of Balt., Md., Ord. 15-336" type="History">Ord. 15-336</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="9-13to9-15">
         <num>9-13 to 9-15</num>
         <reason>Reserved</reason>
       </section>
@@ -3652,7 +3652,7 @@
           <text>the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services, through the use of force, fraud, or coercion for the purpose of subjection to involuntary servitude, peonage, debt bondage, or slavery.</text>
         </para>
       </para>
-      <para>
+      <para name="(e)">
         <num>(e)</num>
         <reason>Repealed</reason>
       </para>
@@ -3685,7 +3685,7 @@
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="10-4and10-5">
       <num>10-4 and 10-5</num>
       <reason>Reserved</reason>
     </section>
@@ -3799,7 +3799,7 @@
         <heading>Massagist.</heading>
         <text>"Massagist" means any person who administers a massage for any form of consideration.</text>
       </para>
-      <para>
+      <para name="(f)">
         <num>(f)</num>
         <reason>Repealed</reason>
       </para>
@@ -4610,7 +4610,7 @@
         <heading>Director.</heading>
         <text>"Director" means the Director of the Department of Finance of his or her designee.</text>
       </para>
-      <para>
+      <para name="(c)">
         <num>(c)</num>
         <reason>Repealed</reason>
       </para>
@@ -4959,7 +4959,7 @@
         <annotation doc="City of Balt., Md., Ord. 11-572" type="History">Ord. 11-572</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="13-16to13-20">
       <num>13-16 to 13-20</num>
       <reason>Reserved</reason>
     </section>
@@ -5023,15 +5023,15 @@
         <heading>Board.</heading>
         <text>"Board" means the Board of Licenses for Street Entertainers.</text>
       </para>
-      <para>
+      <para name="(c)">
         <num>(c)</num>
         <reason>Repealed</reason>
       </para>
-      <para>
+      <para name="(d)">
         <num>(d)</num>
         <reason>Repealed</reason>
       </para>
-      <para>
+      <para name="(e)">
         <num>(e)</num>
         <reason>Repealed</reason>
       </para>
@@ -5634,7 +5634,7 @@
           <heading>Motor vehicle.</heading>
           <text>"Motor vehicle" has the meaning stated in Article 31, §1-2(c){"Motor vehicle"}.</text>
         </para>
-        <para>
+        <para name="(h)">
           <num>(h)</num>
           <reason>Repealed</reason>
         </para>
@@ -5812,7 +5812,7 @@
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="17-7to17-14">
         <num>17-7 to 17-14</num>
         <reason>Reserved</reason>
       </section>
@@ -6258,7 +6258,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="17-26to17-29">
         <num>17-26 to 17-29</num>
         <reason>Reserved</reason>
       </section>
@@ -7552,7 +7552,7 @@
         <annotation doc="City of Balt., Md., Ord. 21-001" type="History">Ord. 21-001</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="21-4to21-5">
       <num>21-4 to 21-5</num>
       <reason>Reserved</reason>
     </section>
@@ -7597,7 +7597,7 @@
         <annotation doc="City of Balt., Md., Ord. 21-001" type="History">Ord. 21-001</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="21-7to21-8">
       <num>21-7 to 21-8</num>
       <reason>Reserved</reason>
     </section>
@@ -7643,7 +7643,7 @@
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="21-11to21-12">
       <num>21-11 to 21-12</num>
       <reason>Reserved</reason>
     </section>
@@ -8537,7 +8537,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="23to25">
     <prefix>Subtitles</prefix>
     <num>23 to 25</num>
     <reason>Reserved</reason>
@@ -8563,7 +8563,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="27to40">
     <prefix>Subtitles</prefix>
     <num>27 to 40</num>
     <reason>Reserved</reason>
@@ -8673,7 +8673,7 @@
         <heading>Licensing authority.</heading>
         <text>"Licensing authority" means any board, commission, council, or other body of City government authorized by law to issue licenses.</text>
       </para>
-      <para>
+      <para name="(g)">
         <num>(g)</num>
         <reason>Repealed</reason>
       </para>
@@ -8951,7 +8951,7 @@
         <heading>Hotel.</heading>
         <text>"Hotel" has the meaning stated in § 10-1(b) {"Hotel"} of this article.</text>
       </para>
-      <para>
+      <para name="(e)">
         <num>(e)</num>
         <reason>Repealed</reason>
       </para>
@@ -8960,7 +8960,7 @@
         <heading>Permit holder.</heading>
         <text>"Permit holder" means any person holding a building permit issued by the Department of Housing and Community Development under the City Building Code for construction or demolition.</text>
       </para>
-      <para>
+      <para name="(g)">
         <num>(g)</num>
         <reason>Repealed</reason>
       </para>
@@ -9532,7 +9532,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="44to45">
     <prefix>Subtitles</prefix>
     <num>44 to 45</num>
     <reason>Reserved</reason>
@@ -9592,7 +9592,7 @@
         <annotation doc="City of Balt., Md., Ord. 10-337" type="History">Ord. 10-337</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="46-3to46-10">
       <num>46-3 to 46-10</num>
       <reason>Reserved</reason>
     </section>
@@ -9788,7 +9788,7 @@
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="48-4to48-5">
         <num>48-4 to 48-5</num>
         <reason>Reserved</reason>
       </section>
@@ -9959,7 +9959,7 @@
           <annotation doc="City of Balt., Md., Ord. 19-217" type="History">Ord. 19-217</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="48-10to48-14">
         <num>48-10 to 48-14</num>
         <reason>Reserved</reason>
       </section>
@@ -10133,7 +10133,7 @@
           <annotation doc="City of Balt., Md., Ord. 19-217" type="History">Ord. 19-217</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="48-17to48-20">
         <num>48-17 to 48-20</num>
         <reason>Reserved</reason>
       </section>

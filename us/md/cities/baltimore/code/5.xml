@@ -2756,7 +2756,7 @@
         <heading>Director.</heading>
         <text>"Director" means the Director of Finance or the Director's designee.</text>
       </para>
-      <para>
+      <para name="(c)">
         <num>(c)</num>
         <reason>Repealed</reason>
       </para>
@@ -3676,7 +3676,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(c)">
         <num>(c)</num>
         <reason>Repealed</reason>
       </para>
@@ -3957,7 +3957,7 @@
           <heading>Eligible funds.</heading>
           <text>"Eligible funds" means any funds that are available for construction costs and are not precluded by restrictions on the source of funding for the project, including limitations on the use of City bond funds, state or federal grants or loans, or donations, from being used for artwork.</text>
         </para>
-        <para>
+        <para name="(i)">
           <num>(i)</num>
           <reason>Repealed</reason>
         </para>
@@ -3971,7 +3971,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="21-3to21-5">
         <num>21-3 to 21-5</num>
         <reason>Reserved</reason>
       </section>
@@ -4185,7 +4185,7 @@
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="21-12to21-15">
         <num>21-12 to 21-15</num>
         <reason>Reserved</reason>
       </section>
@@ -4312,7 +4312,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-489" type="History">Ord. 07-489</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="21-21to21-25">
         <num>21-21 to 21-25</num>
         <reason>Reserved</reason>
       </section>
@@ -4512,7 +4512,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container name="22to23">
     <prefix>Subtitles</prefix>
     <num>22 to 23</num>
     <reason>Reserved</reason>
@@ -5327,7 +5327,7 @@
         <heading>Living hourly wage rate.</heading>
         <text>"Living hourly wage rate" means the rate established by the Board of Estimates under the formula set forth in § 26-16 of this subtitle, as the minimum hourly wage rate that must be paid a worker employed by a service contractor.</text>
       </para>
-      <para>
+      <para name="(d)">
         <num>(d)</num>
         <reason>Repealed</reason>
       </para>
@@ -5999,7 +5999,7 @@
         <heading>MOED.</heading>
         <text>"MOED" means the Mayor's Office of Employment Development.</text>
       </para>
-      <para>
+      <para name="(e)">
         <num>(e)</num>
         <reason>Repealed</reason>
       </para>
@@ -6433,7 +6433,7 @@
             <heading>Contractor.</heading>
             <text>"Contractor" means the person, firm, or legal entity with which the City has entered into an agreement.</text>
           </para>
-          <para>
+          <para name="(i)">
             <num>(i)</num>
             <reason>Repealed</reason>
           </para>
@@ -6650,7 +6650,7 @@
             <annotation doc="City of Balt., Md., Ord.  21-048" type="History">Ord.  21-048</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-6to28-8">
           <num>28-6 to 28-8</num>
           <reason>Reserved</reason>
         </section>
@@ -6945,7 +6945,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-606" type="History">Ord. 07-606</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-18to28-20">
           <num>28-18 to 28-20</num>
           <reason>Reserved</reason>
         </section>
@@ -6993,7 +6993,7 @@
               <text>any other relevant factors.</text>
             </para>
           </para>
-          <para>
+          <para name="(b)">
             <num>(b)</num>
             <reason>Vacant</reason>
           </para>
@@ -7054,7 +7054,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-606" type="History">Ord. 07-606</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-26to28-30">
           <num>28-26 to 28-30</num>
           <reason>Reserved</reason>
         </section>
@@ -7309,7 +7309,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-606" type="History">Ord. 07-606</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-42to28-45">
           <num>28-42 to 28-45</num>
           <reason>Reserved</reason>
         </section>
@@ -7777,7 +7777,7 @@
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-57to28-60">
           <num>28-57 to 28-60</num>
           <reason>Reserved</reason>
         </section>
@@ -8056,7 +8056,7 @@
             <annotation doc="City of Balt., Md., Ord. 00-098" type="History">Ord. 00-098</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-74to28-75">
           <num>28-74 to 28-75</num>
           <reason>Reserved</reason>
         </section>
@@ -8328,7 +8328,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-606" type="History">Ord. 07-606</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-84to28-85">
           <num>28-84 to 28-85</num>
           <reason>Reserved</reason>
         </section>
@@ -8506,7 +8506,7 @@
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-92to28-95">
           <num>28-92 to 28-95</num>
           <reason>Reserved</reason>
         </section>
@@ -9282,7 +9282,7 @@
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-111to28-112">
           <num>28-111 to 28-112</num>
           <reason>Reserved</reason>
         </section>
@@ -9591,7 +9591,7 @@
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="28-120to28-121">
           <num>28-120 to 28-121</num>
           <reason>Reserved</reason>
         </section>
@@ -9763,7 +9763,7 @@
           <text>"Financial institution" includes any bank, savings and loan association, venture capital company, insurance company, bonding company, mortgage company, credit union, and broker.</text>
         </para>
       </para>
-      <para>
+      <para name="(j)">
         <num>(j)</num>
         <reason>Repealed</reason>
       </para>
@@ -10173,7 +10173,7 @@
         <heading>Network delivery system.</heading>
         <text>"Network delivery system" means a person or entity that provides health care services to covered individuals through a provider panel.</text>
       </para>
-      <para>
+      <para name="(d)">
         <num>(d)</num>
         <reason>Repealed</reason>
       </para>
@@ -10263,7 +10263,7 @@
         <heading>In general.</heading>
         <text>For the purpose of this subtitle, the following words have the meanings indicated unless their context clearly indicates otherwise.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -10833,7 +10833,7 @@
         <heading>In general.</heading>
         <text>As used in this subtitle, the following terms have the meanings indicated unless their context clearly indicated otherwise.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -11098,7 +11098,7 @@
         <heading>Payment date.</heading>
         <text>"Payment date" means the date of the Director's check.</text>
       </para>
-      <para>
+      <para name="(g)">
         <num>(g)</num>
         <reason>Repealed</reason>
       </para>
@@ -11381,7 +11381,7 @@
           <heading>Convicted.</heading>
           <text>"Convicted" includes an accepted plea of nolo contendere.</text>
         </para>
-        <para>
+        <para name="(h)">
           <num>(h)</num>
           <reason>Repealed</reason>
         </para>
@@ -12614,7 +12614,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="42to43">
     <prefix>Subtitles</prefix>
     <num>42 to 43</num>
     <reason>Reserved</reason>

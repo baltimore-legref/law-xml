@@ -115,7 +115,7 @@
         <heading>Hybrid member.</heading>
         <text>"Hybrid member" means an employee who, under City Code Article 22, § 9.1, has elected to become both a member of the Retirement Savings Plan and a Class D member of the Employees' Retirement System.</text>
       </para>
-      <para>
+      <para name="(j)">
         <num>(j)</num>
         <reason>Repealed</reason>
       </para>
@@ -796,7 +796,7 @@
         <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="2-15and2-16">
       <num>2-15 and 2-16</num>
       <reason>Reserved</reason>
     </section>

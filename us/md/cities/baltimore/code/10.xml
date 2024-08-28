@@ -1664,7 +1664,7 @@
         <annotation doc="City of Balt., Md., Ord. 48-476" type="History">Ord. 48-476</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="6-21to6-24">
       <num>6-21 to 6-24</num>
       <reason>Reserved</reason>
     </section>
@@ -2350,7 +2350,7 @@
         <annotation doc="City of Balt., Md., Ord. 13-336" type="History">Ord. 13-336</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="7-32to7-40">
       <num>7-32 to 7-40</num>
       <reason>Reserved</reason>
     </section>
@@ -2648,7 +2648,7 @@
         <annotation doc="City of Balt., Md., Ord. 58-1651" type="History">Ord. 58-1651</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="8-8to8-10">
       <num>8-8 to 8-10</num>
       <reason>Reserved</reason>
     </section>

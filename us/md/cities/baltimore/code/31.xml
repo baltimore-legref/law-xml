@@ -115,7 +115,7 @@
         <heading>Footway.</heading>
         <text>"Footway" means that section beyond the vehicular path along a paved or unpaved roadway reserved for and normally used by pedestrians.</text>
       </para>
-      <para>
+      <para name="(m)">
         <num>(m)</num>
         <reason>Vacant</reason>
       </para>
@@ -190,7 +190,7 @@
           <text>do not include the standing of a commercial vehicle while actually engaged in lawful, expeditious loading or unloading.</text>
         </para>
       </para>
-      <para>
+      <para name="(e)">
         <num>(e)</num>
         <reason>Vacant</reason>
       </para>
@@ -199,7 +199,7 @@
         <heading>Pedestrian.</heading>
         <text>"Pedestrian" means any person afoot.</text>
       </para>
-      <para>
+      <para name="(g)">
         <num>(g)</num>
         <reason>Repealed</reason>
       </para>
@@ -1169,7 +1169,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="4to5">
     <prefix>Subtitles</prefix>
     <num>4 to 5</num>
     <reason>Reserved</reason>
@@ -1257,7 +1257,7 @@
           <annotation doc="City of Balt., Md., Ord. 26-823" type="History">Ord. 26-823</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="6-4to6-5">
         <num>6-4 to 6-5</num>
         <reason>Reserved</reason>
       </section>
@@ -1882,7 +1882,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-195" type="History">Ord. 18-195</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="6-23to6-25">
         <num>6-23 to 6-25</num>
         <reason>Reserved</reason>
       </section>
@@ -2200,7 +2200,7 @@
           <annotation doc="City of Balt., Md., Ord. 52-385" type="History">Ord. 52-385</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="6-34to6-35">
         <num>6-34 to 6-35</num>
         <reason>Reserved</reason>
       </section>
@@ -2693,7 +2693,7 @@
           <annotation doc="City of Balt., Md., Ord. 06-198" type="History">Ord. 06-198</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="7-12to7-15">
         <num>7-12 to 7-15</num>
         <reason>Reserved</reason>
       </section>
@@ -2897,7 +2897,7 @@
           <annotation doc="City of Balt., Md., Ord. 06-198" type="History">Ord. 06-198</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="7-23to7-25">
         <num>7-23 to 7-25</num>
         <reason>Reserved</reason>
       </section>
@@ -3257,7 +3257,7 @@
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="9-5to9-10">
         <num>9-5 to 9-10</num>
         <reason>Reserved</reason>
       </section>
@@ -3407,7 +3407,7 @@
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="9-16to9-20">
         <num>9-16 to 9-20</num>
         <reason>Reserved</reason>
       </section>
@@ -3571,7 +3571,7 @@
           <annotation doc="City of Balt., Md., Ord. 06-316" type="History">Ord. 06-316</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="10-3to10-5">
         <num>10-3 to 10-5</num>
         <reason>Reserved</reason>
       </section>
@@ -4682,7 +4682,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-092" type="History">Ord. 13-092</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="10-26to10-27">
         <num>10-26 to 10-27</num>
         <reason>Reserved</reason>
       </section>
@@ -4774,7 +4774,7 @@
           <annotation doc="City of Balt., Md., Ord. 09-217" type="History">Ord. 09-217</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="10-30to10-32">
         <num>10-30 to 10-32</num>
         <reason>Reserved</reason>
       </section>
@@ -7571,7 +7571,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-098" type="History">Ord. 13-098</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="14-28to14-30">
         <num>14-28 to 14-30</num>
         <reason>Reserved</reason>
       </section>
@@ -7712,7 +7712,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-098" type="History">Ord. 13-098</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="14-38to14-40">
         <num>14-38 to 14-40</num>
         <reason>Reserved</reason>
       </section>
@@ -7807,7 +7807,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-098" type="History">Ord. 13-098</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="14-44to14-45">
         <num>14-44 to 14-45</num>
         <reason>Reserved</reason>
       </section>
@@ -8371,7 +8371,7 @@
           <annotation doc="City of Balt., Md., Ord. 10-279" type="History">Ord. 10-279</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="15-19to15-21">
         <num>15-19 to 15-21</num>
         <reason>Reserved</reason>
       </section>
@@ -8533,7 +8533,7 @@
           <annotation doc="City of Balt., Md., Ord. 74-527" type="History">Ord. 74-527</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="16-6to16-10">
         <num>16-6 to 16-10</num>
         <reason>Reserved</reason>
       </section>
@@ -8667,7 +8667,7 @@
           <annotation doc="City of Balt., Md., Ord. 55-1428" type="History">Ord. 55-1428</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="16-15to16-20">
         <num>16-15 to 16-20</num>
         <reason>Reserved</reason>
       </section>
@@ -8871,7 +8871,7 @@
           <annotation doc="City of Balt., Md., Ord. 75-920" type="History">Ord. 75-920</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="16-32to16-35">
         <num>16-32 to 16-35</num>
         <reason>Reserved</reason>
       </section>
@@ -9217,7 +9217,7 @@
           <annotation doc="City of Balt., Md., Ord. 17-038" type="History">Ord. 17-038</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="16-48to16-50">
         <num>16-48 to 16-50</num>
         <reason>Reserved</reason>
       </section>
@@ -9244,7 +9244,7 @@
           <annotation doc="City of Balt., Md., Ord. 68-101" type="History">Ord. 68-101</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="16-52to16-55">
         <num>16-52 to 16-55</num>
         <reason>Reserved</reason>
       </section>
@@ -9322,7 +9322,7 @@
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="16-59to16-60">
         <num>16-59 to 16-60</num>
         <reason>Reserved</reason>
       </section>
@@ -10230,7 +10230,7 @@
         <annotation doc="City of Balt., Md., Ord. 10-366" type="History">Ord. 10-366</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="20-6to20-7">
       <num>20-6 to 20-7</num>
       <reason>Reserved</reason>
     </section>
@@ -11051,7 +11051,7 @@
           <annotation doc="City of Balt., Md., Ord. 08-077" type="History">Ord. 08-077</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="22-17to22-20">
         <num>22-17 to 22-20</num>
         <reason>Reserved</reason>
       </section>
@@ -11157,7 +11157,7 @@
           <annotation doc="City of Balt., Md., Ord. 08-077" type="History">Ord. 08-077</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="22-25to22-30">
         <num>22-25 to 22-30</num>
         <reason>Reserved</reason>
       </section>
@@ -11331,7 +11331,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="24to25">
     <prefix>Subtitles</prefix>
     <num>24 to 25</num>
     <reason>Reserved</reason>
@@ -11436,7 +11436,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="29to30">
     <prefix>Subtitles</prefix>
     <num>29 to 30</num>
     <reason>Reserved</reason>
@@ -11561,7 +11561,7 @@
           <annotation doc="City of Balt., Md., Ord. 06-247" type="History">Ord. 06-247</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-3to31-5">
         <num>31-3 to 31-5</num>
         <reason>Reserved</reason>
       </section>
@@ -11846,7 +11846,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-195" type="History">Ord. 18-195</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-13to31-20">
         <num>31-13 to 31-20</num>
         <reason>Reserved</reason>
       </section>
@@ -12266,7 +12266,7 @@
           <annotation doc="City of Balt., Md., Ord. 83-864" type="History">Ord. 83-864</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-32to31-40">
         <num>31-32 to 31-40</num>
         <reason>Reserved</reason>
       </section>
@@ -12694,7 +12694,7 @@
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-51to31-55">
         <num>31-51 to 31-55</num>
         <reason>Reserved</reason>
       </section>
@@ -12922,7 +12922,7 @@
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-61to31-65">
         <num>31-61 to 31-65</num>
         <reason>Reserved</reason>
       </section>
@@ -13048,7 +13048,7 @@
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-69to31-70">
         <num>31-69 to 31-70</num>
         <reason>Reserved</reason>
       </section>
@@ -13762,7 +13762,7 @@
           <annotation doc="City of Balt., Md., Ord. 78-879" type="History">Ord. 78-879</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-91to31-92">
         <num>31-91 to 31-92</num>
         <reason>Reserved</reason>
       </section>
@@ -13799,7 +13799,7 @@
           <annotation doc="City of Balt., Md., Ord. 86-843" type="History">Ord. 86-843</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-94to31-100">
         <num>31-94 to 31-100</num>
         <reason>Reserved</reason>
       </section>
@@ -14547,7 +14547,7 @@
         <annotation doc="City of Balt., Md., Ord. 13-092" type="History">Ord. 13-092</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="36-10to36-20">
       <num>36-10 to 36-20</num>
       <reason>Reserved</reason>
     </section>
@@ -14890,7 +14890,7 @@
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="38-4to38-5">
         <num>38-4 to 38-5</num>
         <reason>Reserved</reason>
       </section>
@@ -15188,7 +15188,7 @@
           <annotation doc="City of Balt., Md., Ord. 19-251" type="History">Ord. 19-251</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="38-16to38-17">
         <num>38-16 to 38-17</num>
         <reason>Reserved</reason>
       </section>
@@ -15459,7 +15459,7 @@
           <annotation doc="City of Balt., Md., Ord. 19-251" type="History">Ord. 19-251</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="38-25to38-26">
         <num>38-25 to 38-26</num>
         <reason>Reserved</reason>
       </section>

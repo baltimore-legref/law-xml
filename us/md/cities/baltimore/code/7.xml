@@ -758,7 +758,7 @@
         <num>1-6</num>
         <reason>Transferred to § 1-5(c)</reason>
       </section>
-      <section>
+      <section name="1-7to1-8">
         <num>1-7 to 1-8</num>
         <reason>Reserved</reason>
       </section>
@@ -2474,7 +2474,7 @@
             <annotation doc="City of Balt., Md., Ord. 14-208" type="History">Ord. 14-208</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="3-31to3-32">
           <num>3-31 to 3-32</num>
           <reason>Reserved</reason>
         </section>
@@ -3816,7 +3816,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="10to20">
       <prefix>Subtitles</prefix>
       <num>10 to 20</num>
       <reason>Reserved</reason>
@@ -3976,7 +3976,7 @@
           <heading>Impervious area.</heading>
           <text>"Impervious area" means any surface that does not allow stormwater to infiltrate into the soil surface.</text>
         </para>
-        <para>
+        <para name="(k)">
           <num>(k)</num>
           <reason>Repealed</reason>
         </para>
@@ -4170,7 +4170,7 @@
             </para>
           </para>
         </para>
-        <para>
+        <para name="(z)">
           <num>(z)</num>
           <reason>Vacant</reason>
         </para>
@@ -7015,7 +7015,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-367" type="History">Ord. 02-367</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="28-3to28-4">
         <num>28-3 to 28-4</num>
         <reason>Reserved</reason>
       </section>
@@ -7322,7 +7322,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="29to30">
       <prefix>Subtitles</prefix>
       <num>29 to 30</num>
       <reason>Reserved</reason>
@@ -7384,7 +7384,7 @@
           <heading>Grade.</heading>
           <text>"Grade" means to disturb earth by any one or combination of methods, including excavating, filling, stockpiling, grubbing, or removing root mat or topsoil.</text>
         </para>
-        <para>
+        <para name="(j)">
           <num>(j)</num>
           <reason>Repealed</reason>
         </para>
@@ -7624,7 +7624,7 @@
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="31-6to31-8">
         <num>31-6 to 31-8</num>
         <reason>Reserved</reason>
       </section>
@@ -8554,7 +8554,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-095" type="History">Ord. 13-095</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="34-4to34-5">
         <num>34-4 to 34-5</num>
         <reason>Reserved</reason>
       </section>
@@ -9019,7 +9019,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="36to40">
       <prefix>Subtitles</prefix>
       <num>36 to 40</num>
       <reason>Reserved</reason>
@@ -10237,7 +10237,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="49to50">
       <prefix>Subtitles</prefix>
       <num>49 to 50</num>
       <reason>Reserved</reason>
@@ -10554,7 +10554,7 @@
         <prefix>§</prefix>
         <num>53-1</num>
         <heading>Definitions.</heading>
-        <para>
+        <para name="(a)">
           <num>(a)</num>
           <reason>Repealed</reason>
           <text>The word "person", whenever used in this subtitle, shall be construed to include individuals, firms, and corporations.</text>
@@ -10729,7 +10729,7 @@
           <annotation doc="City of Balt., Md., Ord. 11-524" type="History">Ord. 11-524</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="53-6to53-10">
         <num>53-6 to 53-10</num>
         <reason>Reserved</reason>
       </section>
@@ -10825,7 +10825,7 @@
           <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="53-15to53-20">
         <num>53-15 to 53-20</num>
         <reason>Reserved</reason>
       </section>
@@ -10905,7 +10905,7 @@
           <annotation doc="City of Balt., Md., Ord. 46-396" type="History">Ord. 46-396</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="53-24to53-25">
         <num>53-24 to 53-25</num>
         <reason>Reserved</reason>
       </section>
@@ -11214,7 +11214,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="55to60">
       <prefix>Subtitles</prefix>
       <num>55 to 60</num>
       <reason>Reserved</reason>
@@ -11490,7 +11490,7 @@
           <annotation doc="City of Balt., Md., Ord. 20-337" type="History">Ord. 20-337</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="62-5to62-6">
         <num>62-5 to 62-6</num>
         <reason>Reserved</reason>
       </section>
@@ -11511,7 +11511,7 @@
           <annotation doc="City of Balt., Md., Ord. 20-337" type="History">Ord. 20-337</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="62-8to62-9">
         <num>62-8 to 62-9</num>
         <reason>Reserved</reason>
       </section>

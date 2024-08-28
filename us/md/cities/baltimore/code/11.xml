@@ -1021,7 +1021,7 @@
           <annotation doc="City of Balt., Md., Ord. 90-601" type="History">Ord. 90-601</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="5-3to5-5">
         <num>5-3 to 5-5</num>
         <reason>Reserved</reason>
       </section>
@@ -1135,7 +1135,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="7to10">
       <prefix>Subtitles</prefix>
       <num>7 to 10</num>
       <reason>Reserved</reason>
@@ -1290,7 +1290,7 @@
             <text>that exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.</text>
           </para>
         </para>
-        <para>
+        <para name="(e)">
           <num>(e)</num>
           <reason>Repealed</reason>
         </para>
@@ -1505,7 +1505,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-578" type="History">Ord. 07-578</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="13-10to13-15">
         <num>13-10 to 13-15</num>
         <reason>Reserved</reason>
       </section>
@@ -1556,7 +1556,7 @@
           <heading>Employer.</heading>
           <text>"Employer" means any person who employs 10 or more full-time or part-time employees in the City of Baltimore.</text>
         </para>
-        <para>
+        <para name="(e)">
           <num>(e)</num>
           <reason>Repealed</reason>
         </para>
@@ -1577,7 +1577,7 @@
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="14-3to14-5">
         <num>14-3 to 14-5</num>
         <reason>Reserved</reason>
       </section>
@@ -1658,7 +1658,7 @@
           <annotation doc="City of Balt., Md., Ord. 10-383" type="History">Ord. 10-383</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="14-8to14-10">
         <num>14-8 to 14-10</num>
         <reason>Reserved</reason>
       </section>
@@ -1754,7 +1754,7 @@
               </para>
             </para>
           </para>
-          <para>
+          <para name="(f)">
             <num>(f)</num>
             <reason>Repealed</reason>
           </para>
@@ -1763,7 +1763,7 @@
             <heading>Inquiry.</heading>
             <text>"Inquiry" means any direct or indirect conduct intended to gather information, using any mode of communication.</text>
           </para>
-          <para>
+          <para name="(h)">
             <num>(h)</num>
             <reason>Repealed</reason>
           </para>
@@ -1853,7 +1853,7 @@
             <heading>Federal, State law on criminal records prevails.</heading>
             <text>Nothing in this subtitle may be construed to modify or waive the requirements and limitations of any Federal or State law on access to or the use of criminal records.</text>
           </para>
-          <para>
+          <para name="(c)">
             <num>(c)</num>
             <reason>Repealed</reason>
           </para>
@@ -1863,7 +1863,7 @@
             <annotation type="Editor's Notes">For the new, Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="15-4to15-5">
           <num>15-4 to 15-5</num>
           <reason>Reserved</reason>
         </section>
@@ -1935,7 +1935,7 @@
             <annotation doc="City of Balt., Md., Ord. 14-221" type="History">Ord. 14-221</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="15-8to15-10">
           <num>15-8 to 15-10</num>
           <reason>Reserved</reason>
         </section>
@@ -2021,7 +2021,7 @@
             <annotation doc="City of Balt., Md., Ord. 14-221" type="History">Ord. 14-221</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="15-14to15-15">
           <num>15-14 to 15-15</num>
           <reason>Reserved</reason>
         </section>
@@ -2163,7 +2163,7 @@
             </annotation>
           </annotations>
         </section>
-        <section>
+        <section name="16-5to16-9">
           <num>16-5 to 16-9</num>
           <reason>Reserved</reason>
         </section>
@@ -2363,7 +2363,7 @@
             <annotation doc="City of Balt., Md., Ord. 18-213" type="History">Ord. 18-213</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="16-15to16-19">
           <num>16-15 to 16-19</num>
           <reason>Reserved</reason>
         </section>
@@ -2503,7 +2503,7 @@
             <annotation doc="City of Balt., Md., Ord. 18-213" type="History">Ord. 18-213</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="16-22to16-24">
           <num>16-22 to 16-24</num>
           <reason>Reserved</reason>
         </section>
@@ -2613,7 +2613,7 @@
             <text>the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services, through the use of force, fraud, or coercion for the purpose of subjection to involuntary servitude, peonage, debt bondage, or slavery.</text>
           </para>
         </para>
-        <para>
+        <para name="(d)">
           <num>(d)</num>
           <reason>Repealed</reason>
         </para>
@@ -2637,7 +2637,7 @@
           <annotation doc="City of Balt., Md., Ord. 15-359" type="History">Ord. 15-359</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="17-4to17-5">
         <num>17-4 to 17-5</num>
         <reason>Reserved</reason>
       </section>
@@ -2701,7 +2701,7 @@
           <heading>Commission.</heading>
           <text>"Commission" means the Wage Commission established by § 2-1 {"Commission established"} of this article, or the Commission's designee.</text>
         </para>
-        <para>
+        <para name="(f)">
           <num>(f)</num>
           <reason>Repealed</reason>
         </para>
@@ -3279,7 +3279,7 @@
           <heading>Length of service.</heading>
           <text>"Length of service" means the aggregate total period of time during which an employee has been in active service to an employer, including periods of time when the employee was on leave or on vacation.</text>
         </para>
-        <para>
+        <para name="(i)">
           <num>(i)</num>
           <reason>Repealed</reason>
         </para>
@@ -3960,7 +3960,7 @@
           <heading>Length of service.</heading>
           <text>"Length of service" means the aggregate total period of time during which a laid-off employee had been in active service to an employer, including periods of time when the laid-off employee was on leave or on vacation.</text>
         </para>
-        <para>
+        <para name="(j)">
           <num>(j)</num>
           <reason>Repealed</reason>
         </para>

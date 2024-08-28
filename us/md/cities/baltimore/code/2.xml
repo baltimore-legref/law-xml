@@ -418,7 +418,7 @@
         <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="1-15to1-16">
       <num>1-15 to 1-16</num>
       <reason>Reserved</reason>
     </section>
@@ -1111,7 +1111,7 @@
         <heading>In general.</heading>
         <text>The following words and terms, when used in this subtitle, shall have the following meanings unless the context clearly requires a different meaning.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -1680,7 +1680,7 @@
         <heading>In general.</heading>
         <text>In this subtitle, the following terms have the meanings indicated.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -2022,7 +2022,7 @@
         <heading>In general.</heading>
         <text>In this subtitle, the following terms have the meanings indicated.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -2091,7 +2091,7 @@
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="8-3to8-5">
       <num>8-3 to 8-5</num>
       <reason>Reserved</reason>
     </section>
@@ -2180,7 +2180,7 @@
         <annotation doc="City of Balt., Md., Ord. 10-389" type="History">Ord. 10-389</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="8-9to8-10">
       <num>8-9 to 8-10</num>
       <reason>Reserved</reason>
     </section>
@@ -3533,7 +3533,7 @@
             <text>consignment goods dealer.</text>
           </para>
         </para>
-        <para>
+        <para name="(e)">
           <num>(e)</num>
           <reason>Repealed</reason>
         </para>
@@ -4267,7 +4267,7 @@
           <heading>Automated purchasing machine; APM.</heading>
           <text>"Automated purchasing machine" or "APM" (also known as a "reverse vending machine") means a self-service automated device that, without the physical presence of a human agent, is capable of taking possession of and dispensing payment for any 1 or more types of personal property.</text>
         </para>
-        <para>
+        <para name="(c)">
           <num>(c)</num>
           <reason>Repealed</reason>
         </para>
@@ -4276,7 +4276,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="12A-2to12A-4">
         <num>12A-2 to 12A-4</num>
         <reason>Reserved</reason>
       </section>
@@ -4315,7 +4315,7 @@
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (b) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="12A-7to12A-9">
         <num>12A-7 to 12A-9</num>
         <reason>Reserved</reason>
       </section>
@@ -4573,7 +4573,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-166" type="History">Ord. 13-166</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="12A-17to12A-19">
         <num>12A-17 to 12A-19</num>
         <reason>Reserved</reason>
       </section>
@@ -4949,7 +4949,7 @@
         <annotation doc="City of Balt., Md., Ord. 60-431" type="History">Ord. 60-431</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="13-7to13-8">
       <num>13-7 to 13-8</num>
       <reason>Reserved</reason>
     </section>
@@ -5002,7 +5002,7 @@
         <heading>In general.</heading>
         <text>In this subtitle, the following terms have the meanings indicated.</text>
       </para>
-      <para>
+      <para name="(b)-(d)">
         <num>(b) - (d)</num>
         <reason>Repealed</reason>
       </para>
@@ -5404,7 +5404,7 @@
             <text>all service or other charges or fees imposed on the ticket by the operator or the operator's authorized sales agent.</text>
           </para>
         </para>
-        <para>
+        <para name="(g)-(i)">
           <num>(g) - (i)</num>
           <reason>Repealed</reason>
         </para>
@@ -5610,7 +5610,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-157" type="History">Ord. 13-157</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="16-8through16-10">
         <num>16-8 through 16-10</num>
         <reason>Reserved</reason>
       </section>
@@ -5717,7 +5717,7 @@
             </para>
           </para>
         </para>
-        <para>
+        <para name="(d)">
           <num>(d)</num>
           <reason>Repealed</reason>
         </para>
@@ -5768,7 +5768,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="17-2to17-5">
         <num>17-2 to 17-5</num>
         <reason>Reserved</reason>
       </section>
@@ -5804,7 +5804,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-545" type="History">Ord. 16-545</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="17-9to17-10">
         <num>17-9 to 17-10</num>
         <reason>Reserved</reason>
       </section>

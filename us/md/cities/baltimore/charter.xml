@@ -7069,7 +7069,7 @@
         <text>Following each census of the United States the Mayor shall prepare a plan for council redistricting.  The Mayor shall present the plan to the City Council not later than the first day of February of the first municipal election year following the census.</text>
         <text>After the Mayor's plan is presented to the City Council, the Council may adopt it or amend it or the City Council may adopt another plan.  If no plan has been adopted by the City Council within sixty days after the Mayor's plan is presented, the Mayor's plan shall take effect as the redistricting ordinance.</text>
       </para>
-      <para>
+      <para name="(c)">
         <num>(c)</num>
         <reason>Vacant</reason>
       </para>
@@ -9124,7 +9124,7 @@
             <text>After the levy of the full rate property tax has been made, the Director shall prepare the tax bills and shall have them ready for payment by the taxpayers on the first day of the fiscal year for which the levy is made or as soon thereafter as is possible.  To encourage the payment of taxes prior to the date on which they become in arrears, the Department shall allow such discounts upon payment prior to such date as may be provided by law.</text>
           </para>
         </para>
-        <para>
+        <para name="(e)">
           <num>(e)</num>
           <reason>Repealed by Res. 00-010, ratified November 2000.</reason>
         </para>
@@ -9522,7 +9522,7 @@
           <annotation type="History">Res. 08-003, ratified Nov. 4, 2008</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="38to40">
         <prefix>§</prefix>
         <num>38 to 40</num>
         <reason>Repealed by Res. 08-003, ratified Nov. 4, 2008.</reason>
@@ -9562,7 +9562,7 @@
           <annotation type="History">Res. 08-003, ratified Nov. 4, 2008</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="43to46">
         <prefix>§</prefix>
         <num>43 to 46</num>
         <reason>Repealed by Res. 08-003, ratified Nov. 4, 2008.</reason>
@@ -11026,7 +11026,7 @@
     </container>
     <container name="development-commission">
       <heading>Development Commission</heading>
-      <section>
+      <section name="111to113">
         <prefix>§</prefix>
         <num>111 to 113</num>
         <reason>Repealed by Res. 00-010, ratified November 2000.</reason>
@@ -11685,7 +11685,7 @@
             <text>To carry out these activities, the Director may enter and occupy any municipal property after giving due notice to the agency having control of the property.  The Director shall restore any property so entered to the condition in which it was before the entry.</text>
           </para>
         </para>
-        <para>
+        <para name="(d)–(f)">
           <num>(d) – (f)</num>
           <reason>Repealed by Res. 14-016, ratified Nov. 4, 2014.</reason>
         </para>

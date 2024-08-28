@@ -328,7 +328,7 @@
           <annotation type="Defined Terms">Ethics Board	§2-10</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="2-12to2-15">
         <num>2-12 to 2-15</num>
         <reason>Reserved</reason>
       </section>
@@ -537,7 +537,7 @@
           <annotation type="Defined Terms">Official	§2-21</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="2-24to2-30">
         <num>2-24 to 2-30</num>
         <reason>Reserved</reason>
       </section>
@@ -872,7 +872,7 @@
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (a) to refer to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="3-7to3-10">
         <num>3-7 to 3-10</num>
         <reason>Reserved</reason>
       </section>
@@ -915,7 +915,7 @@
           <annotation type="Defined Terms">Official	§2-21</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="3-13to3-15">
         <num>3-13 to 3-15</num>
         <reason>Reserved</reason>
       </section>
@@ -1709,7 +1709,7 @@
           <annotation type="Defined Terms">Child	§2-6</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="6-2to6-5">
         <num>6-2 to 6-5</num>
         <reason>Reserved</reason>
       </section>
@@ -2173,7 +2173,7 @@
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="6-18to6-20">
         <num>6-18 to 6-20</num>
         <reason>Reserved</reason>
       </section>
@@ -2227,7 +2227,7 @@
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="6-23to6-25">
         <num>6-23 to 6-25</num>
         <reason>Reserved</reason>
       </section>
@@ -2448,7 +2448,7 @@
           <annotation type="Defined Terms">Ethics Board	§2-10</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="6-32to6-35">
         <num>6-32 to 6-35</num>
         <reason>Reserved</reason>
       </section>
@@ -3021,7 +3021,7 @@
         <num>7-8</num>
         <heading>Persons required to file – Agency officials and staff.</heading>
         <text>The following officials and employees must file the financial disclosure statements required by this subtitle:</text>
-        <para>
+        <para name="(1)">
           <num>(1)</num>
           <reason>Reserved</reason>
         </para>
@@ -3157,7 +3157,7 @@
             <text>Director, Public Safety and Loss.</text>
           </para>
         </para>
-        <para>
+        <para name="(8)">
           <num>(8)</num>
           <reason>Reserved</reason>
         </para>
@@ -3541,7 +3541,7 @@
             <text>All non-clerical employees of Office.</text>
           </para>
         </para>
-        <para>
+        <para name="(23)">
           <num>(23)</num>
           <reason>Reserved</reason>
         </para>
@@ -3657,7 +3657,7 @@
             <text>All non-clerical employees of the Office.</text>
           </para>
         </para>
-        <para>
+        <para name="(30)">
           <num>(30)</num>
           <reason>Reserved</reason>
         </para>
@@ -3901,7 +3901,7 @@
             <text>All Inspectors.</text>
           </para>
         </para>
-        <para>
+        <para name="(41)-(42)">
           <num>(41) - (42)</num>
           <reason>Reserved</reason>
         </para>
@@ -4341,7 +4341,7 @@
           <annotation type="Defined Terms">Public servant	§2-23</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="7-19to7-20">
         <num>7-19 to 7-20</num>
         <reason>Reserved</reason>
       </section>
@@ -5035,7 +5035,7 @@
           <annotation type="Defined Terms">Public servant	§ 2-23</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="8-2to8-5">
         <num>8-2 to 8-5</num>
         <reason>Reserved</reason>
       </section>
@@ -5843,7 +5843,7 @@
           <annotation type="Defined Terms">Reporting period	§8-1</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="8-22to8-25">
         <num>8-22 to 8-25</num>
         <reason>Reserved</reason>
       </section>
@@ -5867,7 +5867,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-198" type="History">Ord. 18-198</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="8-28to8-30">
         <num>8-28 to 8-30</num>
         <reason>Reserved</reason>
       </section>
@@ -5975,7 +5975,7 @@
           <annotation type="Defined Terms">Person	§2-22</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="8-34to8-35">
         <num>8-34 to 8-35</num>
         <reason>Reserved</reason>
       </section>
@@ -6504,7 +6504,7 @@
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="9-13to9-15">
         <num>9-13 to 9-15</num>
         <reason>Reserved</reason>
       </section>
@@ -6545,7 +6545,7 @@
           <annotation type="Defined Terms">Ethics Board	§2-10</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="9-18to9-20">
         <num>9-18 to 9-20</num>
         <reason>Reserved</reason>
       </section>

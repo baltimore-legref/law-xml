@@ -645,7 +645,7 @@
     <num>7</num>
     <reason>Repealed by Ord. 09-175</reason>
   </container>
-  <container>
+  <container name="8to10">
     <prefix>Subtitles</prefix>
     <num>8 to 10</num>
     <reason>Reserved</reason>
@@ -1209,7 +1209,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="12to15">
     <prefix>Subtitles</prefix>
     <num>12 to 15</num>
     <reason>Reserved</reason>
@@ -1307,7 +1307,7 @@
       <reason>Repealed by Ord. 07-488</reason>
     </section>
   </container>
-  <container>
+  <container name="17to20">
     <prefix>Subtitles</prefix>
     <num>17 to 20</num>
     <reason>Reserved</reason>

@@ -1554,7 +1554,7 @@
             <heading>Housing funds.</heading>
             <text>"Housing funds" means Federal, State, or City funds designated explicitly for the purpose of providing affordable housing.</text>
           </para>
-          <para>
+          <para name="(f)">
             <num>(f)</num>
             <reason>Repealed</reason>
           </para>
@@ -2011,7 +2011,7 @@
             <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (a) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="2B-8to2B-10">
           <num>2B-8 to 2B-10</num>
           <reason>Reserved</reason>
         </section>
@@ -2266,7 +2266,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="2B-18to2B-20">
           <num>2B-18 to 2B-20</num>
           <reason>Reserved</reason>
         </section>
@@ -2886,7 +2886,7 @@
             <annotation doc="City of Balt., Md., Ord. 14-264" type="History">Ord. 14-264</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="2B-26to2B-30">
           <num>2B-26 to 2B-30</num>
           <reason>Reserved</reason>
         </section>
@@ -3105,7 +3105,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="2B-38to2B-40">
           <num>2B-38 to 2B-40</num>
           <reason>Reserved</reason>
         </section>
@@ -3188,7 +3188,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="2B-46to2B-50">
           <num>2B-46 to 2B-50</num>
           <reason>Reserved</reason>
         </section>
@@ -3315,7 +3315,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="2B-53to2B-60">
           <num>2B-53 to 2B-60</num>
           <reason>Reserved</reason>
         </section>
@@ -3470,7 +3470,7 @@
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
           </annotations>
         </section>
-        <section>
+        <section name="2B-68to2B-70">
           <num>2B-68 to 2B-70</num>
           <reason>Reserved</reason>
         </section>
@@ -5670,7 +5670,7 @@
           <heading>Designated community group.</heading>
           <text>"Designated community group" means a not-for-profit community organization or association designated by the Commissioner that has the capacity to conduct tenant outreach, engagement, education, and information regarding this subtitle.</text>
         </para>
-        <para>
+        <para name="(h)">
           <num>(h)</num>
           <reason>Repealed</reason>
         </para>
@@ -6908,7 +6908,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="8A-7to8A-8">
         <num>8A-7 to 8A-8</num>
         <reason>Reserved</reason>
       </section>
@@ -7102,7 +7102,7 @@
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="8B-7to8B-8">
         <num>8B-7 to 8B-8</num>
         <reason>Reserved</reason>
       </section>
@@ -7537,7 +7537,7 @@
             <text>in addition, any person authorized to exercise any aspect of the management of the premises except those persons engaged solely in custodial and maintenance functions.</text>
           </para>
         </para>
-        <para>
+        <para name="(i)">
           <num>(i)</num>
           <reason>Repealed</reason>
         </para>
@@ -8015,7 +8015,7 @@
             <text>"Peep show device" does not include television that reflects externally transmitted images.</text>
           </para>
         </para>
-        <para>
+        <para name="(e)">
           <num>(e)</num>
           <reason>Repealed</reason>
         </para>
@@ -8422,7 +8422,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="14to15">
       <prefix>Subtitles</prefix>
       <num>14 to 15</num>
       <reason>Reserved</reason>
@@ -9513,7 +9513,7 @@
             <text>"On-site utility work" does not include a single utility connection for a 1-family dwelling.</text>
           </para>
         </para>
-        <para>
+        <para name="(e)">
           <num>(e)</num>
           <reason>Repealed</reason>
         </para>
@@ -9947,7 +9947,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="19to20">
       <prefix>Subtitles</prefix>
       <num>19 to 20</num>
       <reason>Reserved</reason>
@@ -9970,7 +9970,7 @@
           <heading>Commissioner.</heading>
           <text>"Commissioner" means the Commissioner of Housing and Community Development or the Commissioner's designee.</text>
         </para>
-        <para>
+        <para name="(c)">
           <num>(c)</num>
           <reason>Repealed</reason>
         </para>

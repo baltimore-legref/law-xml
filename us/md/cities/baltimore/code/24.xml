@@ -213,7 +213,7 @@
         <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="1-7to1-10">
       <num>1-7 to 1-10</num>
       <reason>Reserved</reason>
     </section>
@@ -584,7 +584,7 @@
         <annotation doc="City of Balt., Md., Ord. 20-336" type="History">Ord. 20-336</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="2-4to2-5">
       <num>2-4 to 2-5</num>
       <reason>Reserved</reason>
     </section>
@@ -2432,7 +2432,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="6to10">
     <prefix>Subtitles</prefix>
     <num>6 to 10</num>
     <reason>Reserved</reason>
@@ -2613,7 +2613,7 @@
     <num>14</num>
     <reason>Repealed by Ord. 02-476</reason>
   </container>
-  <container>
+  <container name="15to20">
     <prefix>Subtitles</prefix>
     <num>15 to 20</num>
     <reason>Reserved</reason>
@@ -2729,7 +2729,7 @@
         <annotation doc="City of Balt., Md., Ord. 02-476" type="History">Ord. 02-476</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="21-7to21-10">
       <num>21-7 to 21-10</num>
       <reason>Reserved</reason>
     </section>

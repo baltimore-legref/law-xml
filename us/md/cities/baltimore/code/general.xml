@@ -195,7 +195,7 @@
           <annotation doc="City of Balt., Md., Ord. 21-017" type="History">Ord. 21-017</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="1-206to1-207">
         <num>1-206 to 1-207</num>
         <reason>Reserved</reason>
       </section>
@@ -368,7 +368,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container name="2to3">
     <prefix>Titles</prefix>
     <num>2 to  3</num>
     <reason>Reserved</reason>
@@ -1141,7 +1141,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container name="5etseq.">
     <prefix>Titles</prefix>
     <num>5 et seq.</num>
     <reason>Reserved</reason>

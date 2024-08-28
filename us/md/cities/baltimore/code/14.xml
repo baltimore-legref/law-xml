@@ -1159,7 +1159,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="2to5">
     <prefix>Subtitles</prefix>
     <num>2 to 5</num>
     <reason>Reserved</reason>
@@ -5997,7 +5997,7 @@
           <heading>Licensable space.</heading>
           <text>"Licensable space" means the number of square feet of space in a business establishment subject to the license fee in accordance with the fee calculation method as set forth in a specific Retail Business District Ordinance.</text>
         </para>
-        <para>
+        <para name="(f)">
           <num>(f)</num>
           <reason>Repealed</reason>
         </para>
@@ -6452,7 +6452,7 @@
           <annotation doc="City of Balt., Md., Ord. 82-838" type="History">Ord. 82-838</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="11-16to11-20">
         <num>11-16 to 11-20</num>
         <reason>Reserved</reason>
       </section>
@@ -6907,7 +6907,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container name="12to15">
     <prefix>Subtitles</prefix>
     <num>12 to 15</num>
     <reason>Reserved</reason>
@@ -7274,7 +7274,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name="17to18">
     <prefix>Subtitles</prefix>
     <num>17 to 18</num>
     <reason>Reserved</reason>
@@ -7914,7 +7914,7 @@
         <annotation doc="City of Balt., Md., Ord. 16-509" type="History">Ord. 16-509</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="19-8to19-9">
       <num>19-8 to 19-9</num>
       <reason>Reserved</reason>
     </section>
@@ -8064,7 +8064,7 @@
         <annotation doc="City of Balt., Md., Ord. 16-509" type="History">Ord. 16-509</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="19-14to19-15">
       <num>19-14 to19-15</num>
       <reason>Reserved</reason>
     </section>

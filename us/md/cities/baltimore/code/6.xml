@@ -65,7 +65,7 @@
         <heading>Historical and Architectural Preservation District; Preservation District; District.</heading>
         <text>"Historical and Architectural Preservation District", "Preservation District", or "District" means an area designated as an Historical and Architectural Preservation District under Subtitle 3{"Designation of Districts"}, of this article.</text>
       </para>
-      <para>
+      <para name="(g)">
         <num>(g)</num>
         <reason>Repealed</reason>
       </para>
@@ -2173,7 +2173,7 @@
         <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
       </annotations>
     </section>
-    <section>
+    <section name="9-2to9-5">
       <num>9-2 to 9-5</num>
       <reason>Reserved</reason>
     </section>

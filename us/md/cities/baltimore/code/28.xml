@@ -2650,7 +2650,7 @@
             </para>
           </para>
         </para>
-        <para>
+        <para name="(l)">
           <num>(l)</num>
           <reason>Repealed by Ord. 22-166.; subsection titled: “Termination of program”</reason>
         </para>
@@ -6129,7 +6129,7 @@
           <annotation type="Editor's Notes">This section was enacted by Ordinance 20-348, effective January 1, 2021.</annotation>
         </annotations>
       </section>
-      <section>
+      <section name="10-24to10-29">
         <num>10-24 to 10-29</num>
         <reason>Reserved</reason>
       </section>
@@ -6746,7 +6746,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container name="13to15">
       <prefix>Subtitles</prefix>
       <num>13 to 15</num>
       <reason>Reserved</reason>

@@ -283,7 +283,7 @@
         <heading>Actuarial reserve.</heading>
         <text>"Actuarial reserve" shall mean the present value of a benefit due the member, based on such interest and mortality tables as are adopted by the Board of Trustees upon the advice of the actuary for the Retirement System.</text>
       </para>
-      <para>
+      <para name="(23)">
         <num>(23)</num>
         <reason>Repealed</reason>
       </para>
@@ -489,7 +489,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(e)-(f)">
         <num>(e) - (f)</num>
         <reason>Vacant</reason>
       </para>
@@ -1071,7 +1071,7 @@
         <heading>Auditor.</heading>
         <text>The Board of Estimates of the City of Baltimore from time to time shall select an independent auditor for the Employees' Retirement System; the auditor shall report his findings annually to the Board of Estimates and to the Board of Trustees and said audit reports shall be public record.</text>
       </para>
-      <para>
+      <para name="(l)">
         <num>(l)</num>
         <reason>Vacant</reason>
       </para>
@@ -2045,7 +2045,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(g)">
         <num>(g)</num>
         <reason>Vacant</reason>
       </para>
@@ -2573,7 +2573,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(l)-(m)">
         <num>(l) - (m)</num>
         <reason>Vacant</reason>
       </para>
@@ -3859,7 +3859,7 @@
           <heading>Normal retirement for any Class C member employed on or after July 1, 1987, and who terminated employment on or before June 28, 1989.</heading>
           <text>Any Class C member, who has acquired at least 5 years of service at the normal retirement date of age 65, shall have a nonforfeitable right to receive a maximum pension commencing at the normal retirement date, age 65, or an optional pension which shall be the actuarial equivalent of the maximum pension as provided in § 9(m).  In addition, any Class C member who has not attained the normal retirement date of age 65, but who has acquired 30 years of service and has attained the age of at least 62, shall be entitled to receive a maximum pension calculated as if the member had attained his normal retirement date, age 65.  The maximum pension shall be equal to 1.70% of the member's average final compensation multiplied by his years of service (and fractions thereof), reduced by 1.5% of the member's Primary Social Security Benefit multiplied by his years of service (and fractions thereof) not to exceed 30.</text>
         </para>
-        <para>
+        <para name="(3)">
           <num>(3)</num>
           <reason>Vacant</reason>
         </para>
@@ -4021,7 +4021,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(g)-(h)">
         <num>(g) - (h)</num>
         <reason>Vacant</reason>
       </para>
@@ -4716,7 +4716,7 @@
             <text>Any payments made to a retired member under the original election shall be taken into account in computing the benefit to be paid under the subsequent election.</text>
           </para>
         </para>
-        <para>
+        <para name="(4)">
           <num>(4)</num>
           <reason>Vacant</reason>
         </para>
@@ -4756,7 +4756,7 @@
             <text>The present value of the benefit payable under this paragraph shall be calculated as of the date the member terminates City employment, using actuarial assumptions as of that date approved by the Board of Trustees pursuant to the recommendation of this System's actuary.</text>
           </para>
         </para>
-        <para>
+        <para name="(6)">
           <num>(6)</num>
           <reason>Vacant</reason>
         </para>
@@ -7237,7 +7237,7 @@
             <text>Any payments made to a retired member under the original election shall be taken into account in computing the benefit to be paid under the subsequent election.</text>
           </para>
         </para>
-        <para>
+        <para name="(4)">
           <num>(4)</num>
           <reason>Vacant</reason>
         </para>
@@ -8725,7 +8725,7 @@
         <text>No other provision of any local law or ordinance which provides wholly or partly at the expense of the City of Baltimore for pensions or retirement benefits for employees of the said City, their widows or other dependents, shall apply to members or beneficiaries of the retirement system established by this subtitle, their widows or other dependents, except as to membership in and benefits from the Social Security System, established by the Act of Congress known generally as "The Social Security Act of 1935", as amended from time to time.</text>
         <text>Members of the Police Department in the service at the time this subtitle takes effect who elect not to join the Retirement System created herein shall be entitled to pensions for themselves, their widows or dependents, under existing laws, as if this subtitle had not been passed.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -9604,7 +9604,7 @@
         <heading>Pension reserve.</heading>
         <text>"Pension reserve" shall mean the present value of all payments to be made on account of any pension or benefit in lieu of any pension, computed upon the basis of such mortality tables as shall be adopted by the Board of Trustees, and regular interest.</text>
       </para>
-      <para>
+      <para name="(17)">
         <num>(17)</num>
         <reason>Vacant</reason>
       </para>
@@ -11178,7 +11178,7 @@
           <text>The amount so certified is due to the System  on  July 1 of the fiscal year, and appropriations for that amount shall be included in the Ordinance of Estimates for that fiscal year.</text>
         </para>
       </para>
-      <para>
+      <para name="(d)">
         <num>(d)</num>
         <reason>Repealed</reason>
       </para>
@@ -11520,7 +11520,7 @@
         <num>(13)</num>
         <text>"Pensions" shall mean payments for life derived from money provided by the City of Baltimore.</text>
       </para>
-      <para>
+      <para name="(13a)">
         <num>(13a)</num>
         <reason>Repealed by Ord. 15-381.</reason>
       </para>
@@ -11851,7 +11851,7 @@
           <text>The City shall make all necessary contributions for the funding of military service credit.</text>
         </para>
       </para>
-      <para>
+      <para name="(g)-(j)">
         <num>(g) - (j)</num>
         <reason>Repealed by Ord. 19-254</reason>
       </para>
@@ -12030,7 +12030,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(l)-(m)">
         <num>(l) - (m)</num>
         <reason>Repealed by Ord. 19-254</reason>
       </para>
@@ -12420,7 +12420,7 @@
         <heading>Duties of actuary.</heading>
         <text>The Board of Trustees shall designate an actuary who shall be the technical adviser of the Board of Trustees on matters regarding the operation of the funds created by the provisions of this subtitle, and shall perform such other duties as are required in connection therewith.</text>
       </para>
-      <para>
+      <para name="(n)">
         <num>(n)</num>
         <reason>Repealed by Ord. 15-381.</reason>
       </para>
@@ -14165,7 +14165,7 @@
         <heading>Vesting on System termination.</heading>
         <text>On the effective date of a termination or partial termination of this System, as determined under applicable Internal Revenue Service regulations and rulings, and notwithstanding any other provision of this subtitle, all affected members who are not already vested in their accrued benefit must be immediately vested in that benefit, to the extent the benefit is funded.</text>
       </para>
-      <para>
+      <para name="(y)">
         <num>(y)</num>
         <reason>Repealed</reason>
       </para>
@@ -14707,7 +14707,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Vacant</reason>
       </para>
@@ -15009,7 +15009,7 @@
           <text>The certified amount of the contribution shall be included in the new fiscal year's Ordinance of Estimates.</text>
         </para>
       </para>
-      <para>
+      <para name="(g)">
         <num>(g)</num>
         <reason>Repealed</reason>
       </para>
@@ -17163,7 +17163,7 @@
         <heading>Other laws.</heading>
         <text>No other provision of any local law or ordinance which provides wholly or partly at the expense of the City of Baltimore for pensions or retirement benefits for employees of the said City, their widows or other dependents, shall apply to members or beneficiaries of the Retirement System established by this subtitle, their widows or other dependents.</text>
       </para>
-      <para>
+      <para name="(b)">
         <num>(b)</num>
         <reason>Repealed</reason>
       </para>
@@ -17390,7 +17390,7 @@
           <text>"Surviving spouse" does not include an individual who has been granted an absolute divorce from a member, former member, or retiree before his or her death.</text>
         </para>
       </para>
-      <para>
+      <para name="(h)">
         <num>(h)</num>
         <reason>Repealed</reason>
       </para>
