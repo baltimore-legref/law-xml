@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-332">
+  <num type="law">24-332</num>
+  <num type="bill">23-0468</num>
+  <heading type="short">Off-Street Parking B Affordable Inclusionary Housing</heading>
+  <heading type="long">An Ordinance Concerning Off-Street Parking B Affordable Inclusionary Housing</heading>
+  <meta>
+    <introduced>2023-12-4</introduced>
+    <effective>2024-09-22</effective>
+    <citations>
+      <citation type="law" url="https://baltimore.legistar1.com/baltimore/attachments/90992571-1ea9-471a-898a-ab4e159db992.pdf">Ord. 24-332</citation>
+    </citations>
+    <history>
+      <vote date="2023-12-4" reading="first"/>
+      <vote date="2024-04-8" reading="second"/>
+      <enacted>2024-08-23</enacted>
+      <committee>Favorable, as amended</committee>
+    </history>
+  </meta>
+  <!-- <codify:replace>
+    <container>
+      <prefix>Article</prefix>
+      <num>32</num>
+      <heading>Zoning</heading>
+      <container>
+        <prefix>Title</prefix>
+        <num>16</num>
+        <heading>Off-Street Parking and Loading</heading>
+        <container>
+          <prefix>Subtitle</prefix>
+          <num>6</num>
+          <heading>Required Off-Street Parking</heading>
+          <section>
+            <num>16-601</num>
+            <heading>Exemptions and reductions from requirements.</heading>
+            <para>
+              <num>(g)</num>
+              <text>
+                <em>Residential projects subject to inclusionary housing.</em>
+              </text>
+              <text class="text-indent-2">Off-street parking is not required for a residential project that is subject to the inclusionary requirements under <cite doc="City of Baltimore, Md., Code" path="|13|§2B-21">§ 2B-21 {AInclusionary Requirements@} of Article 13</cite> of this Code.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text><em>Reductions B Affordable housing</em>.</text>
+              <para>
+                <num>(1)</num>
+                <text>No more than 1 parking space need be provided for every 2 dwelling units in dwellings that are erected or rehabilitated subject to a restriction that the units be leased to residents with incomes at or below 60% of the Area Median Income, with that restriction being for a term of not less than 15 years from the date of the issuance of a use permit and recorded in the Land Records of Baltimore City.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The Housing Commissioner must verify, by letter to the Planning Director and the Zoning Administrator, the recordation, term, and tenor of the restriction.</text>
+              </para>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text><em>Reductions B Small dwellings</em>.</text>
+              <text class="text-indent-2">No more than 0.5 parking spaces need be provided for every dwelling unit that is 500 square feet or smaller.</text>
+            </para>
+            <para>
+              <num>(j)</num>
+              <text><em>Reductions B Housing for elderly</em>.</text>
+              <text class="text-indent-2">For units designed for occupancy by the elderly in a government-assisted private or public housing dwelling, no more than 1 space need be provided for every 4 units.</text>
+            </para>
+          </section>
+        </container>
+      </container>
+    </container>
+  </codify:replace> -->
+</document>
