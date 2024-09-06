@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-336">
+  <num type="law">24-336</num>
+  <num type="bill">24-0485</num>
+  <heading type="short">Tenant Opportunity to Purchase B Corrective Bill</heading>
+  <heading type="long">An Ordinance Concerning Tenant Opportunity to Purchase B Corrective Bill</heading>
+  <meta>
+    <introduced>2024-01-22</introduced>
+    <effective>2024-04-27</effective>
+    <citations>
+      <citation type="law" url="https://baltimore.legistar1.com/baltimore/attachments/e034ea88-05d9-4ce5-a0a5-ebb9b68b45b7.pdf">Ord. 24-336</citation>
+    </citations>
+    <history>
+      <vote date="2024-01-22" reading="first"/>
+      <vote date="2024-03-4" reading="second"/>
+      <enacted>2024-05-07</enacted>
+      <committee>Favorable, with amendment</committee>
+    </history>
+  </meta>
+  <!-- <codify:replace>
+    <container>
+      <prefix>Article</prefix>
+      <num>13</num>
+      <heading>Housing and Urban Renewal</heading>
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>6</num>
+        <heading>Opportunity to Purchase</heading>
+        <container>
+          <prefix>Part</prefix>
+          <num>1</num>
+          <heading>Definitions; General Provisions.</heading>
+          <section>
+            <num>6-2</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>(a)</num>
+              <text><em>In general</em>.</text>
+              <text class="text-indent-2">In this subtitle, the following terms have the meanings stated.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text><em>Commissioner</em>.</text>
+              <text class="text-indent-2">ACommissioner@ means the Commissioner of the Department of Housing and Community Development, or the Commissioner=s designee.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>[(d)</text>
+              <text class="text-indent-2">single-family</text>
+              <text class="text-indent-2">single-family</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>[  <em>Owner</em>.</text>
+              <text class="text-indent-2">AOwner@ means any person recorded in the official records of the State or City as holding title to a rental single-family dwelling unit.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>[(f)</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>
+                <em>Single-family dwelling unit.</em>
+              </text>
+              <text class="text-indent-2">ASingle-family dwelling unit@ has the meaning stated in § 202.2.22.4 of the Baltimore City <cite doc="City of Baltimore, Md., Code" path="|codes|II">Building Code</cite>.</text>
+              <text class="text-indent-2">single-family</text>
+              <text class="text-indent-2">single-family</text>
+              <text class="text-indent-2">single-family</text>
+              <text class="text-indent-1">single-familysingle-family</text>
+              <text class="text-indent-2">single-family</text>
+              <text class="text-indent-4">single-family</text>
+              <text class="text-indent-4">single-family</text>
+              <text class="text-indent-2">single-familysingle-family</text>
+              <text class="text-indent-2">single-family</text>
+            </para>
+          </section>
+          <section>
+            <num>6-10</num>
+            <heading>Assignment of rights.</heading>
+            <text class="text-indent-1">The rights of a tenant under this subtitle may not be assigned and anyattempted assignment is void.</text>
+            <text class="text-indent-2">single-family</text>
+            <text class="text-indent-2">single-family</text>
+          </section>
+        </container>
+      </container>
+    </container>
+  </codify:replace> -->
+</document>
