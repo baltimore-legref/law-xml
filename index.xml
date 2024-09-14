@@ -10,7 +10,9 @@
       <xml-bulk>https://github.com/baltimore-legref/law-xml</xml-bulk>
       <html-bulk>https://github.com/baltimore-legref/law-html</html-bulk>
       <static-assets>https://github.com/baltimore-legref/law-static-assets</static-assets>
-      <html></html>
+      <html>https://codes.baltimorecity.gov</html>
+      <law-git>https://github.com/baltimore-legref/law.git</law-git>
     </canonical-urls>
+    <history-start>2024-03-13</history-start>
   </meta>
 </library>
