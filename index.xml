@@ -10,7 +10,7 @@
       <xml-bulk>https://github.com/baltimore-legref/law-xml</xml-bulk>
       <html-bulk>https://github.com/baltimore-legref/law-html</html-bulk>
       <static-assets>https://github.com/baltimore-legref/law-static-assets</static-assets>
-      <html/>
+      <html>https://codes.baltimorecity.gov</html>
     </canonical-urls>
   </meta>
   <xi:include href="./us/md/cities/baltimore/charter.xml"/>
