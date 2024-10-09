@@ -289,14 +289,17 @@
         <prefix>§</prefix>
         <num>3-3</num>
         <heading>Required documentation; appeal to BMZA.</heading>
-        <text>(a <em>)  In general.</em></text>
         <para>
-          <num>(1)</num>
-          <text>Where the claimant is able to present a canceled check or checks or a valid receipt or receipts as evidence of such overpayment or double payment, and where the records of the Department of Finance show that there has been such overpayment or double payment, the Director of Finance is hereby empowered to make refund of such payment.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>If upon examination of a claim for an alleged overpayment or double payment of taxes or other municipal charges, the claimant is unable to establish such evidence as stipulated above, the claim shall be denied and the claimant may file a petition for a refund of such overpayment or double payment with the Board of Municipal and Zoning Appeals.</text>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Where the claimant is able to present a canceled check or checks or a valid receipt or receipts as evidence of such overpayment or double payment, and where the records of the Department of Finance show that there has been such overpayment or double payment, the Director of Finance is hereby empowered to make refund of such payment.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If upon examination of a claim for an alleged overpayment or double payment of taxes or other municipal charges, the claimant is unable to establish such evidence as stipulated above, the claim shall be denied and the claimant may file a petition for a refund of such overpayment or double payment with the Board of Municipal and Zoning Appeals.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
@@ -1700,11 +1703,11 @@
             <num>(1)</num>
             <heading>In general.</heading>
             <text>Notice to a defendant may be made in any other manner that results in actual notice of the pendency of the action.</text>
-            <para>
-              <num>(2)</num>
-              <heading>Affidavit.</heading>
-              <text>If notice is made under this subsection, the Department shall file an affidavit with the Court certifying the notice with a description of the method service used and the time of service.</text>
-            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Affidavit.</heading>
+            <text>If notice is made under this subsection, the Department shall file an affidavit with the Court certifying the notice with a description of the method service used and the time of service.</text>
           </para>
         </para>
         <para>
@@ -2571,10 +2574,10 @@
           <para>
             <num>(1)</num>
             <text>the local portion of the credit under State Tax-Property Article, § 9-105 {"Homestead tax credit"}; or</text>
-            <para>
-              <num>(2)</num>
-              <text>any other property tax credit provided by the City.</text>
-            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any other property tax credit provided by the City.</text>
           </para>
         </para>
         <para>
@@ -3077,6 +3080,14 @@
             <num>(1)</num>
             <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations  necessary to implement the provisions of this section;</text>
           </para>
+          <para>
+            <num>(2)</num>
+            <text>settle disputed claims that may arise in connection with the credit authorized by this section; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>delegate powers, duties, or functions in connection with the administration of the credit authorized by this section to the City Collector or any other employee of the City.</text>
+          </para>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §75E</annotation>
@@ -3085,17 +3096,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-552" type="History">Ord. 07-552</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
-          <annotation type="Editor's Notes">
-            <text>Cf. Editor’s Note to § 10-1.1(j).</text>
-            <para>
-              <num>(2)</num>
-              <text>settle disputed claims that may arise in connection with the credit authorized by this section; and</text>
-            </para>
-            <para>
-              <num>(3)</num>
-              <text>delegate powers, duties, or functions in connection with the administration of the credit authorized by this section to the City Collector or any other employee of the City.</text>
-            </para>
-          </annotation>
+          <annotation type="Editor's Notes">Cf. Editor’s Note to § 10-1.1.</annotation>
         </annotations>
       </section>
       <section>
@@ -4083,11 +4084,11 @@
             <num>(1)</num>
             <text>Except for properties eligible for a Maryland Enterprise Zone Tax Credit, the amount of the credit granted under this section is the amount of property tax imposed on the eligible assessment of the property, multiplied by:</text>
             <para>
-              <num>(iii)</num>
+              <num>(i)</num>
               <text>80% for the first 5 taxable years;</text>
             </para>
             <para>
-              <num>(iv)</num>
+              <num>(ii)</num>
               <text>70% for the 6<sup>th</sup> taxable year;</text>
             </para>
             <para>
@@ -4168,59 +4169,50 @@
           <num>(i)</num>
           <heading>No tax subsidy duplication allowed.</heading>
           <text>The credit granted under this section does not apply to any property for which any other tax subsidy from the City, other than a Maryland Enterprise Zone Tax Credit, is being received or has been applied for, whether in the form of a tax credit, payment in lieu of taxes, or otherwise.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Continuing eligibility requirements.</heading>
+          <text>The use of the credit in any year is conditioned on:</text>
           <para>
-            <num>(j)</num>
-            <heading>Continuing eligibility requirements.</heading>
-            <text>The use of the credit in any year is conditioned on:</text>
-            <para>
-              <num>(1)</num>
-              <text>the property's compliance with all City housing, building, health, fire, and other applicable code requirements;</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>the taxpayer's remaining current on all payments due to the City;</text>
-            </para>
-            <para>
-              <num>(5)</num>
-              <text>the continued use of the property or eligible portion of the property by a qualifying residing artist or an arts and entertainment enterprise; and</text>
-            </para>
-            <para>
-              <num>(6)</num>
-              <text>the taxpayer's providing to the Director an annual certification of that continued use.</text>
-            </para>
+            <num>(1)</num>
+            <text>the property's compliance with all City housing, building, health, fire, and other applicable code requirements;</text>
           </para>
           <para>
-            <num>(k)</num>
-            <heading>Administration.</heading>
-            <text>The Director may:</text>
-            <para>
-              <num>(1)</num>
-              <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to implement the provisions of this section;</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>settle disputed claims that may arise in connection with the credit authorized by this section; and</text>
-            </para>
-            <para>
-              <num>(3)</num>
-              <text>delegate powers, duties, or functions in connection with the administration of the credit authorized by this section to any employee of the City.</text>
-            </para>
+            <num>(2)</num>
+            <text>the taxpayer's remaining current on all payments due to the City;</text>
           </para>
           <para>
             <num>(3)</num>
+            <text>the continued use of the property or eligible portion of the property by a qualifying residing artist or an arts and entertainment enterprise; and</text>
           </para>
           <para>
             <num>(4)</num>
-            <text><strong>Editor's Note:</strong>  By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</text>
+            <text>the taxpayer's providing to the Director an annual certification of that continued use.</text>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Administration.</heading>
+          <text>The Director may:</text>
+          <para>
+            <num>(1)</num>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to implement the provisions of this section;</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(2)</num>
+            <text>settle disputed claims that may arise in connection with the credit authorized by this section; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>delegate powers, duties, or functions in connection with the administration of the credit authorized by this section to any employee of the City.</text>
           </para>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-462" type="History">Ord. 02-462</annotation>
           <annotation doc="City of Balt., Md., Ord. 16-534" type="History">Ord. 16-534</annotation>
           <annotation type="History">Text Conformed 02/25/21</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to and reflect the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </section>
       <section>
@@ -4964,7 +4956,7 @@
             <text>The Commission for Historical and Architectural Preservation, in coordination with the Department of Finance, shall establish specific procedures for determining whether the criteria of subsection (e) of this section apply to a project so as to render it ineligible for the credit authorized by this section.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(3)</num>
             <text>The Department of Finance shall analyze data submitted under subsection (f)(2) of this section.</text>
           </para>
         </para>
@@ -7607,22 +7599,22 @@
             <num>(iii)</num>
             <text>to define or construe any of the terms and provisions used in this subtitle in connection with the imposition or collection of that tax;</text>
           </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>with the approval of the City Solicitor:</text>
           <para>
-            <num>(2)</num>
-            <text>with the approval of the City Solicitor:</text>
-            <para>
-              <num>(i)</num>
-              <text>to compromise disputed claims in connection with the tax levied and imposed by this subtitle; and</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>for good and sufficient causes shown, to abate or remit interest and penalties and to rebate and refund any taxes erroneously or improperly paid; and</text>
-            </para>
+            <num>(i)</num>
+            <text>to compromise disputed claims in connection with the tax levied and imposed by this subtitle; and</text>
           </para>
           <para>
-            <num>(3)</num>
-            <text>to delegate any of his powers, duties, and functions under the provisions of this subtitle to the City Collector.</text>
+            <num>(ii)</num>
+            <text>for good and sufficient causes shown, to abate or remit interest and penalties and to rebate and refund any taxes erroneously or improperly paid; and</text>
           </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to delegate any of his powers, duties, and functions under the provisions of this subtitle to the City Collector.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-215" type="History">Ord. 18-215</annotation>
@@ -7826,11 +7818,11 @@
           <num>(c)</num>
           <heading>Registration.</heading>
           <para>
-            <num>(8)</num>
+            <num>(1)</num>
             <text>To be eligible for the exemption, the qualifying residing artist or arts and entertainment enterprise must register with the Director of Finance.</text>
           </para>
           <para>
-            <num>(9)</num>
+            <num>(2)</num>
             <text>The registration shall be on the form and contain the information that the Director requires.</text>
           </para>
         </para>
@@ -8762,11 +8754,11 @@
           <heading>Exemption for residence parking.</heading>
           <text>The tax imposed by this subtitle does not apply to residential parking by:</text>
           <para>
-            <num>(2)</num>
+            <num>(1)</num>
             <text>the tenant of a single-family dwelling, multi-family dwelling, or apartment dwelling, if the parking is provided for in the lease or in a separate  agreement between the landlord and the tenant, whether the parking fee or other consideration is paid to the landlord or to the operator of the parking lot or garage; or</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(2)</num>
             <text>the owner or occupant of a condominium unit, if the parking is provided for in an agreement between the condominium association and the owner or occupant, whether the parking fee or other consideration is paid to the condominium association or to the operator of the parking lot or garage.</text>
           </para>
         </para>
@@ -8798,7 +8790,7 @@
           <num>(a)</num>
           <heading>Collection.</heading>
           <para>
-            <num>(6)</num>
+            <num>(1)</num>
             <para>
               <num>(i)</num>
               <text>Except as provided in paragraph (2) of this subsection, the operator of the parking lot or garage must collect the tax imposed by this subtitle from the person seeking the privilege of parking.</text>
@@ -8822,11 +8814,11 @@
           <num>(c)</num>
           <heading>Reports.</heading>
           <para>
-            <num>(3)</num>
+            <num>(1)</num>
             <text>Each remittance must be accompanied by a report of all transactions for the month.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(2)</num>
             <text>The report must:</text>
             <para>
               <num>(i)</num>
@@ -8888,7 +8880,7 @@
             <text>keep all claim checks and other pertinent records as necessary to determine the amount of tax due; and</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(3)</num>
             <text>make these records available, at all times, during business hours, for inspection and audit by the Director of Finance or other authorized agent, employee, or representative of the City.</text>
           </para>
         </para>
@@ -9045,11 +9037,11 @@
           <text>fail to keep complete and accurate records;</text>
         </para>
         <para>
-          <num>(6)</num>
+          <num>(4)</num>
           <text>refuse to permit the Director or authorized agent, employee, or representative to inspect and audit the operator's records; or</text>
         </para>
         <para>
-          <num>(9)</num>
+          <num>(5)</num>
           <text>fail to fully comply with any rule or regulation adopted under this subtitle.</text>
         </para>
         <annotations>
@@ -9309,7 +9301,7 @@
             <text>"Taxicab service", "limousine service","sedan service", "transportation network service", and "remuneration" have the meanings stated in the State Public Utilities Article § 10-101.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(3)</num>
             <heading>Exclusions.</heading>
             <text>"Person" does not include a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
@@ -9434,11 +9426,11 @@
         <heading>Interest and civil penalties.</heading>
         <text>If the operator fails to remit the tax imposed by this subtitle when due, the operator must pay the Finance Director, in addition to the tax due:</text>
         <para>
-          <num>(2)</num>
+          <num>(1)</num>
           <text>interest at the rate of 1%  for each month or fraction of a month that the tax is overdue; and</text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(2)</num>
           <text>a penalty of 10% of the amount of the tax due.</text>
         </para>
         <annotations>
@@ -9536,23 +9528,23 @@
           <heading>In general.</heading>
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
           <para>
-            <num>(6)</num>
+            <num>(1)</num>
             <text>govern the payment, collection, and accounting of the tax imposed by this subtitle;</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(2)</num>
             <text>define any terms used in connection with the imposition and collection of the tax imposed by this subtitle;</text>
           </para>
           <para>
-            <num>(8)</num>
+            <num>(3)</num>
             <text>provide for the compromise of disputed claims and, for good and sufficient cause shown, the waiver of interest and penalties;</text>
           </para>
           <para>
-            <num>(9)</num>
+            <num>(4)</num>
             <text>provide for the refund of any tax, interest, or penalty erroneously or illegally paid; and</text>
           </para>
           <para>
-            <num>(10)</num>
+            <num>(5)</num>
             <text>otherwise administer, enforce, and carry out this subtitle.</text>
           </para>
         </para>
@@ -10371,7 +10363,7 @@
       <annotations>
         <annotation type="Editor's Notes">
           <text>This subtitle was enacted by Ord. 99-388, effective July 1, 1999.  Section 3 of that Ordinance provides that the subtitle  “shall remain in effect unless the Maryland General Assembly enacts a Statewide tax on tobacco products; if a Statewide tax on tobacco products becomes effective, this Ordinance is abrogated and of no further force and effect, with no further action required by the Mayor and City Council.”</text>
-          <text>After the enactment of Ord. 99-388, the General Assembly enacted Chapter 121, Laws of Maryland 1999.  Section 1 of that Act increases the rate of the preexisting tax on cigarettes; Sections 2 and 3 of the Act impose a new tax on certain other tobacco products.  Section 9, in turn, provides that Section 1 (the cigarette tax increase) becomes effective July 1, 1999; Section 8, on the other hand, provides that Sections 2 and 3 (the new Statewide tax on other tobacco products) only become effective July 1, 2000.  </text>
+          <text>After the enactment of Ord. 99-388, the General Assembly enacted Chapter 121, Laws of Maryland 1999.  Section 1 of that Act increases the rate of the preexisting tax on cigarettes; Sections 2 and 3 of the Act impose a new tax on certain other tobacco products.  Section 9, in turn, provides that Section 1 (the cigarette tax increase) becomes effective July 1, 1999; Section 8, on the other hand, provides that Sections 2 and 3 (the new Statewide tax on other tobacco products) only become effective July 1, 2000.</text>
         </annotation>
       </annotations>
       <section>

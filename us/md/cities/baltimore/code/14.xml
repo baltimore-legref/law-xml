@@ -3373,7 +3373,7 @@
       <annotations>
         <annotation type="Editor's Notes">
           <text>Ordinance 17-039 amended subsection (a) to extend the District to include the areas described in ¶ (1)(iv).  Section 3 of that Ordinance provides that this amendment</text>
-          <text>is contingent on a successful referendum, to be conducted substantially in accordance with the requirements of City Code Article 14, § 8-15 {“Election approval process”}, but with participation limited to the owners of the properties being added to the District. </text>
+          <text>is contingent on a successful referendum, to be conducted substantially in accordance with the requirements of City Code Article 14, § 8-15 {“Election approval process”}, but with participation limited to the owners of the properties being added to the District.</text>
         </annotation>
       </annotations>
     </section>
@@ -6001,19 +6001,16 @@
           <num>(f)</num>
           <reason>Repealed</reason>
         </para>
+        <para>
+          <num>(g)</num>
+          <heading>Retail Business District.</heading>
+          <text>"Retail Business District" means a geographic area in Baltimore City, designated by an ordinance under this subtitle, encompassing a concentration of business establishments.</text>
+        </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §110</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-838" type="History">Ord. 82-838</annotation>
           <annotation doc="City of Balt., Md., Ord. 09-137" type="History">Ord. 09-137</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">
-            <text>For the Code-wide standard definition of “person”, see General Provisions Article, § 1-107,.</text>
-            <para>
-              <num>(g)</num>
-              <heading>Retail Business District.</heading>
-              <text>"Retail Business District" means a geographic area in Baltimore City, designated by an ordinance under this subtitle, encompassing a concentration of business establishments.</text>
-            </para>
-          </annotation>
         </annotations>
       </section>
       <section>
@@ -6067,6 +6064,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §109</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-838" type="History">Ord. 82-838</annotation>
           <annotation doc="City of Balt., Md., Ord. 09-137" type="History">Ord. 09-137</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see General Provisions Article, § 1-107,.</annotation>
         </annotations>
       </section>
       <section>
@@ -6349,7 +6347,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>The provisions of Article 15, §§ 46-2, 47-1, and 47-2 shall not apply.</text>
+            <text>The provisions of Article 15, '' 46-2, 47-1, and 47-2 shall not apply.</text>
           </para>
         </para>
         <para>
@@ -6682,11 +6680,11 @@
             </para>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(2)</num>
             <text>Parking lots and warehouses are exempt from the payment of any fee.  However, storage space incidental to a business establishment's primary business is not exempt hereunder for the purposes of calculation and payment of the license fee.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(3)</num>
             <text>The Highlandtown Business District License fee shall be calculated as follows:</text>
             <para>
               <num>(i)</num>
@@ -6698,7 +6696,7 @@
             </para>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(4)</num>
             <text>Notwithstanding the provisions of § 11-7(b) of this subtitle, the license fee due from business establishments shall be calculated by the Highlandtown Merchants' Association and certified to the Commissioner annually.</text>
           </para>
         </para>

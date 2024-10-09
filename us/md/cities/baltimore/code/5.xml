@@ -3697,7 +3697,7 @@
       <annotations>
         <annotation type="Editor's Notes">
           <text>The application of the definition in paragraph (b)(2) to school buildings has subsequently been limited by Chapter 607, Acts of 2016.  Among other things, Chapter 607 amended State Economic Development Article § 10-645 to add new subsection (m), as follows</text>
-          <text>Notwithstanding any other provision of law, a demolition or partial demolition of a school building under the Baltimore City Public Schools’ 10–Year Plan shall be exempt from any required notice to the Baltimore City Council or the President of the Baltimore City Council. </text>
+          <text>Notwithstanding any other provision of law, a demolition or partial demolition of a school building under the Baltimore City Public Schools’ 10–Year Plan shall be exempt from any required notice to the Baltimore City Council or the President of the Baltimore City Council.</text>
         </annotation>
       </annotations>
     </section>
@@ -5849,30 +5849,32 @@
       <para>
         <num>(1)</num>
         <text>The prime contractor must post a sign that states the following:</text>
-        <text class="center">"LABOR TRAFFICKING 101</text>
-        <text>Labor trafficking includes recruiting, harboring, transporting, providing, or obtaining people for forced or coerced labor.</text>
-        <text>The coercion could be threats directed at the victim or someone else.  Labor trafficking is often linked with exploitation of a worker. To learn more, visit www.mdhumantrafficking.org.</text>
-        <text>If a worker ...</text>
-        <para>
-          <num>(1)</num>
-          <text>lacks possession of their own identification and travel documents,</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>lives at their place of work and in isolated conditions,</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>experiences verbal or physical abuse from their employer or supervisor,</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>is made to work in unsafe conditions, prevented from taking adequate breaks, or forced to meet daily quotas</text>
-        </para>
-        <text>... they may be a victim of labor trafficking.</text>
-        <text class="center">For immediate assistance</text>
-        <text class="center">call the National Human Trafficking Hotline</text>
-        <text class="center"><strong>+1 (888) 373-7888 or text "BeFree" to 233733</strong>"</text>
+        <include>
+          <text class="center">"LABOR TRAFFICKING 101</text>
+          <text>Labor trafficking includes recruiting, harboring, transporting, providing, or obtaining people for forced or coerced labor.</text>
+          <text>The coercion could be threats directed at the victim or someone else.  Labor trafficking is often linked with exploitation of a worker. To learn more, visit www.mdhumantrafficking.org.</text>
+          <text>If a worker ...</text>
+          <para>
+            <num>(1)</num>
+            <text>lacks possession of their own identification and travel documents,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>lives at their place of work and in isolated conditions,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>experiences verbal or physical abuse from their employer or supervisor,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>is made to work in unsafe conditions, prevented from taking adequate breaks, or forced to meet daily quotas</text>
+          </para>
+          <text>... they may be a victim of labor trafficking.</text>
+          <text class="center">For immediate assistance</text>
+          <text class="center">call the National Human Trafficking Hotline</text>
+          <text class="center"><strong>+1 (888) 373-7888 or text "BeFree" to 233733</strong>"</text>
+        </include>
       </para>
       <para>
         <num>(2)</num>
@@ -9648,26 +9650,23 @@
           <heading>Prohibited conduct.</heading>
           <text>No person may:</text>
           <para>
-            <num>(3)</num>
+            <num>(1)</num>
             <text>fraudulently obtain, retain, attempt to obtain or retain, or aid another in fraudulently obtaining, retaining, or attempting to obtain or retain certification under this subtitle;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(2)</num>
             <text>in any matter administered under this subtitle, willfully falsify, conceal, or cover up by a trick, scheme, or device a material fact or make any false writing or document knowing that it contains any false, fictitious, or fraudulent statement or entry;</text>
           </para>
           <para>
-            <num>(5)</num>
-          </para>
-          <para>
-            <num>(6)</num>
+            <num>(3)</num>
             <text>willfully obstruct, impede, or attempt to obstruct or impede an authorized official or employee who is investigating the qualifications of a business enterprise that has requested certification under this subtitle;</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(4)</num>
             <text>fraudulently obtain, attempt to obtain, or aid another in fraudulently obtaining or attempting to obtain public money to which the person is not entitled under this subtitle; or</text>
           </para>
           <para>
-            <num>(8)</num>
+            <num>(5)</num>
             <text>make a false statement to any person or entity that another person or entity is or is not certified under this subtitle.</text>
           </para>
         </para>

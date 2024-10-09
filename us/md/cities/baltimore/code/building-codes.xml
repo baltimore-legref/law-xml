@@ -45,14 +45,14 @@
           <num>(1)</num>
           <text>the International Building Code (2018 Edition), with certain State modifications {COMAR 09.12.51.04A and B};</text>
         </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>the International Residential Code for One- and Two-Family Dwellings (2018 Edition), with certain State modifications {COMAR 09.12.51.04A and C}; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>the International Energy Conservation Code (2018 Edition), with certain State modifications {COMAR 09.12.51.04A and D}.</text>
+        <para>
+          <num>(2)</num>
+          <text>the International Residential Code for One- and Two-Family Dwellings (2018 Edition), with certain State modifications {COMAR 09.12.51.04A and C}; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the International Energy Conservation Code (2018 Edition), with certain State modifications {COMAR 09.12.51.04A and D}.</text>
+        </para>
       </para>
     </section>
     <section>
@@ -388,22 +388,22 @@
               <num>c.</num>
               <text>the Department of Transportation,</text>
             </para>
-          </para>
-          <para>
-            <num>d.</num>
-            <text>the Department of Planning,</text>
-          </para>
-          <para>
-            <num>e.</num>
-            <text>the Fire Department,</text>
-          </para>
-          <para>
-            <num>f.</num>
-            <text>the Maryland Department of the Environment, and</text>
-          </para>
-          <para>
-            <num>g.</num>
-            <text>the U.S. Army Corps of Engineers.</text>
+            <para>
+              <num>d.</num>
+              <text>the Department of Planning,</text>
+            </para>
+            <para>
+              <num>e.</num>
+              <text>the Fire Department,</text>
+            </para>
+            <para>
+              <num>f.</num>
+              <text>the Maryland Department of the Environment, and</text>
+            </para>
+            <para>
+              <num>g.</num>
+              <text>the U.S. Army Corps of Engineers.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -773,18 +773,18 @@
             <num>104.6.6</num>
             <heading>Contents of warrant.</heading>
             <text>The search warrant must name or describe, with reasonable particularity:</text>
-          </para>
-          <para>
-            <num>1.</num>
-            <text>the place to be inspected,</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>the reason for the inspection, and</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>the name of the applicant on whose written application the warrant was issued.</text>
+            <para>
+              <num>1.</num>
+              <text>the place to be inspected,</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>the reason for the inspection, and</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>the name of the applicant on whose written application the warrant was issued.</text>
+            </para>
           </para>
           <para>
             <num>104.6.7</num>
@@ -1845,29 +1845,29 @@
             <num>109.5.2</num>
             <heading>Partial permits.</heading>
             <text>For a partial permit issued under this Code:</text>
-          </para>
-          <para>
-            <num>1.</num>
-            <text>the charge is at the rate of:</text>
             <para>
-              <num>a.</num>
-              <text>$10 for each $1,000 worth of work up to $1,000,000 worth of work, plus</text>
+              <num>1.</num>
+              <text>the charge is at the rate of:</text>
+              <para>
+                <num>a.</num>
+                <text>$10 for each $1,000 worth of work up to $1,000,000 worth of work, plus</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>$5 for each $1,000 worth of work in excess of $1,000,000, and</text>
+              </para>
             </para>
             <para>
-              <num>b.</num>
-              <text>$5 for each $1,000 worth of work in excess of $1,000,000, and</text>
-            </para>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>the minimum charge is:</text>
-            <para>
-              <num>a.</num>
-              <text>$100 for 1- and 2-family dwellings, and</text>
-            </para>
-            <para>
-              <num>b.</num>
-              <text>$250 for all other structures.</text>
+              <num>2.</num>
+              <text>the minimum charge is:</text>
+              <para>
+                <num>a.</num>
+                <text>$100 for 1- and 2-family dwellings, and</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>$250 for all other structures.</text>
+              </para>
             </para>
           </para>
           <para>
@@ -2076,12 +2076,9 @@
             <text>The charge for a violation report, whether obtained from the Department or from the Bureau of Liens, is $30, in addition to the charge for a lien certificate.</text>
           </para>
           <para>
-            <num>109.</num>
-            <para>
-              <num>5.11</num>
-              <heading>Payment denied for NSF.</heading>
-              <text>The  charge for a payment denied for insufficient funds is $50.</text>
-            </para>
+            <num>109.5.11</num>
+            <heading>Payment denied for NSF.</heading>
+            <text>The  charge for a payment denied for insufficient funds is $50.</text>
           </para>
         </para>
         <para>
@@ -2170,44 +2167,44 @@
                 <text>
                   <strong>1- and 2-family dwellings</strong>
                 </text>
+                <text>$0.30 per square foot  or fraction of a square foot of affected gross floor area</text>
+                <text>
+                  <table class="layout-table">
+                    <tbody>
+                      <tr>
+                        <td>Minimum</td>
+                        <td>$50</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </text>
+                <text>Exception:  For the following, the fee is $10 for each $1,000 or fraction of $1,000 estimated cost, subject to a minimum fee of $50 –</text>
+                <text>Alterations limited to the exterior.</text>
+                <text>Alterations limited to the installation of interior doors when no other work is contemplated on the permit.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>
+                  <strong>All others</strong>
+                </text>
+                <text>$0.35 per square foot  or fraction of a square foot of affected gross floor area</text>
+                <text>
+                  <table class="layout-table">
+                    <tbody>
+                      <tr>
+                        <td>Minimum</td>
+                        <td>$150</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </text>
+                <text>Exception:  For the following types of work, the fee is $12 for each $1,000 or fraction of $1,000 estimated cost, with a minimum fee of $150 –</text>
+                <text>Alterations limited to the exterior.</text>
+                <text>Alterations limited to the installation of interior doors when no other work is contemplated on the permit.</text>
+                <text>Alterations limited to construction of new-tenant demising wall.</text>
+                <text>Alterations limited to creation of new-tenant shell space.</text>
               </para>
             </para>
-            <text>$0.30 per square foot  or fraction of a square foot of affected gross floor area</text>
-            <text>
-              <table class="layout-table">
-                <tbody>
-                  <tr>
-                    <td>Minimum</td>
-                    <td>$50</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-            <text>Exception:  For the following, the fee is $10 for each $1,000 or fraction of $1,000 estimated cost, subject to a minimum fee of $50 –</text>
-            <text>Alterations limited to the exterior.</text>
-            <text>Alterations limited to the installation of interior doors when no other work is contemplated on the permit.</text>
-            <para>
-              <num>2.</num>
-              <text>
-                <strong>All others</strong>
-              </text>
-              <text>$0.35 per square foot  or fraction of a square foot of affected gross floor area</text>
-              <text>
-                <table class="layout-table">
-                  <tbody>
-                    <tr>
-                      <td>Minimum</td>
-                      <td>$150</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </text>
-            </para>
-            <text>Exception:  For the following types of work, the fee is $12 for each $1,000 or fraction of $1,000 estimated cost, with a minimum fee of $150 –</text>
-            <text>Alterations limited to the exterior.</text>
-            <text>Alterations limited to the installation of interior doors when no other work is contemplated on the permit.</text>
-            <text>Alterations limited to construction of new-tenant demising wall.</text>
-            <text>Alterations limited to creation of new-tenant shell space.</text>
             <para>
               <num>d.</num>
               <heading>Interior only demolition.</heading>
@@ -2629,157 +2626,157 @@
               <para>
                 <num>3.</num>
                 <heading>For construction purposes.</heading>
+                <text>The fee is the same as for permanent installations, and the permits must be applied for separately.</text>
               </para>
             </para>
-          </para>
-          <text>The fee is the same as for permanent installations, and the permits must be applied for separately.</text>
-          <para>
-            <num>e.</num>
-            <heading>Electrical semiannual permits for maintenance work.</heading>
-            <text>The fee for each permit is based on the total service of the plant.</text>
-          </para>
-          <text>Rating of Service in Amperes</text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td>0 to 600</td>
-                  <td>$50</td>
-                </tr>
-                <tr>
-                  <td>Over 600 to 800</td>
-                  <td>$75</td>
-                </tr>
-                <tr>
-                  <td>Over 800 to 1,200</td>
-                  <td>$100</td>
-                </tr>
-                <tr>
-                  <td>Over 1,200 to 2,000</td>
-                  <td>$150</td>
-                </tr>
-                <tr>
-                  <td>Over 2,000</td>
-                  <td>$200</td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-          <para>
-            <num>f.</num>
-            <heading>Not otherwise classified.</heading>
+            <para>
+              <num>e.</num>
+              <heading>Electrical semiannual permits for maintenance work.</heading>
+              <text>The fee for each permit is based on the total service of the plant.</text>
+            </para>
+            <text>Rating of Service in Amperes</text>
             <text>
               <table>
                 <tbody>
                   <tr>
-                    <td>Electrical work not otherwise classified in this section</td>
-                    <td>$25 per permit</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-          </para>
-          <para>
-            <num>g.</num>
-            <heading>Low voltage \ wiring.</heading>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>1 to 25 devices</td>
-                    <td>$25</td>
+                    <td>0 to 600</td>
+                    <td>$50</td>
                   </tr>
                   <tr>
-                    <td>For each additional 10 or fraction of 10 devices</td>
-                    <td>$5</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-          </para>
-          <para>
-            <num>h.</num>
-            <heading>Telecommunications.</heading>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td colspan="2">Power Supply for Integrated Systems</td>
-                    <td proof="needed"/>
-                  </tr>
-                  <tr>
-                    <td class="text-indent-1">Up to 50kW</td>
-                    <td colspan="2">$150</td>
-                  </tr>
-                  <tr>
-                    <td class="text-indent-1">Over 50kW</td>
-                    <td colspan="2">$2 per additional 10kW or fraction of 10kW</td>
-                  </tr>
-                  <tr>
-                    <td class="text-indent-1">Maximum</td>
-                    <td colspan="2">$500</td>
-                  </tr>
-                  <tr>
-                    <td>Communication hotels</td>
-                    <td proof="needed" colspan="2"/>
-                  </tr>
-                  <tr>
-                    <td class="text-indent-1">Per rack</td>
-                    <td colspan="2">$10</td>
-                  </tr>
-                  <tr>
-                    <td class="text-indent-1">Maximum</td>
-                    <td colspan="2">$300</td>
-                  </tr>
-                  <tr>
-                    <td>Telecommunications antennas</td>
-                    <td proof="needed" colspan="2"/>
-                  </tr>
-                  <tr>
-                    <td class="text-indent-1">1 to 5 antennas</td>
-                    <td colspan="2">$25</td>
-                  </tr>
-                  <tr>
-                    <td class="text-indent-1">Over 5</td>
-                    <td colspan="2">$5 per additional antenna</td>
-                  </tr>
-                  <tr>
-                    <td class="text-indent-1">Grounding and bonding</td>
-                    <td colspan="2">$25</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-          </para>
-          <para>
-            <num>i.</num>
-            <heading>Installing electrical transformers only.</heading>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>1 to 10 KVA</td>
-                    <td>$25</td>
-                  </tr>
-                  <tr>
-                    <td>Over 10 to 50 KVA</td>
-                    <td>$35</td>
-                  </tr>
-                  <tr>
-                    <td>Over 50 to 100 KVA</td>
+                    <td>Over 600 to 800</td>
                     <td>$75</td>
                   </tr>
                   <tr>
-                    <td>Over 100 KVA</td>
+                    <td>Over 800 to 1,200</td>
                     <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td>Over 1,200 to 2,000</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td>Over 2,000</td>
+                    <td>$200</td>
                   </tr>
                 </tbody>
               </table>
             </text>
-          </para>
-          <para>
-            <num>109.6.3</num>
-            <heading>Permit fees for mechanical work.</heading>
+            <para>
+              <num>f.</num>
+              <heading>Not otherwise classified.</heading>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>Electrical work not otherwise classified in this section</td>
+                      <td>$25 per permit</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <para>
+              <num>g.</num>
+              <heading>Low voltage \ wiring.</heading>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>1 to 25 devices</td>
+                      <td>$25</td>
+                    </tr>
+                    <tr>
+                      <td>For each additional 10 or fraction of 10 devices</td>
+                      <td>$5</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <para>
+              <num>h.</num>
+              <heading>Telecommunications.</heading>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td colspan="2">Power Supply for Integrated Systems</td>
+                      <td proof="needed"/>
+                    </tr>
+                    <tr>
+                      <td class="text-indent-1">Up to 50kW</td>
+                      <td colspan="2">$150</td>
+                    </tr>
+                    <tr>
+                      <td class="text-indent-1">Over 50kW</td>
+                      <td colspan="2">$2 per additional 10kW or fraction of 10kW</td>
+                    </tr>
+                    <tr>
+                      <td class="text-indent-1">Maximum</td>
+                      <td colspan="2">$500</td>
+                    </tr>
+                    <tr>
+                      <td>Communication hotels</td>
+                      <td proof="needed" colspan="2"/>
+                    </tr>
+                    <tr>
+                      <td class="text-indent-1">Per rack</td>
+                      <td colspan="2">$10</td>
+                    </tr>
+                    <tr>
+                      <td class="text-indent-1">Maximum</td>
+                      <td colspan="2">$300</td>
+                    </tr>
+                    <tr>
+                      <td>Telecommunications antennas</td>
+                      <td proof="needed" colspan="2"/>
+                    </tr>
+                    <tr>
+                      <td class="text-indent-1">1 to 5 antennas</td>
+                      <td colspan="2">$25</td>
+                    </tr>
+                    <tr>
+                      <td class="text-indent-1">Over 5</td>
+                      <td colspan="2">$5 per additional antenna</td>
+                    </tr>
+                    <tr>
+                      <td class="text-indent-1">Grounding and bonding</td>
+                      <td colspan="2">$25</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <para>
+              <num>i.</num>
+              <heading>Installing electrical transformers only.</heading>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>1 to 10 KVA</td>
+                      <td>$25</td>
+                    </tr>
+                    <tr>
+                      <td>Over 10 to 50 KVA</td>
+                      <td>$35</td>
+                    </tr>
+                    <tr>
+                      <td>Over 50 to 100 KVA</td>
+                      <td>$75</td>
+                    </tr>
+                    <tr>
+                      <td>Over 100 KVA</td>
+                      <td>$100</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <para>
+              <num>109.6.3</num>
+              <heading>Permit fees for mechanical work.</heading>
+            </para>
             <para>
               <num>a.</num>
               <heading>Fuel-burning equipment and appliances.</heading>
@@ -2828,8 +2825,8 @@
                   </tbody>
                 </table>
               </text>
+              <text>Replacement of units same as new</text>
             </para>
-            <text>Replacement of units same as new</text>
             <para>
               <num>b.</num>
               <heading>Air conditioning systems.</heading>
@@ -3443,11 +3440,11 @@
               </text>
             </para>
           </para>
-        </para>
-        <para>
-          <num>109.6.6</num>
-          <heading>Fees for miscellaneous work.</heading>
-          <text>Permit fees for miscellaneous work, operations, and other purposes, not elsewhere provided for in this Code, are charged at the rate of $10 for each $1,000 or fraction of $1,000 of estimated cost.</text>
+          <para>
+            <num>109.6.6</num>
+            <heading>Fees for miscellaneous work.</heading>
+            <text>Permit fees for miscellaneous work, operations, and other purposes, not elsewhere provided for in this Code, are charged at the rate of $10 for each $1,000 or fraction of $1,000 of estimated cost.</text>
+          </para>
         </para>
         <para>
           <num>109.7</num>
@@ -5105,14 +5102,14 @@
           <para>
             <num>3.</num>
             <text>either be:</text>
-          </para>
-          <para>
-            <num>a.</num>
-            <text>mailed to the Building Official by certified or registered mail, return receipt requested, or</text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>delivered to the Building Official's office and stamped received by the office.</text>
+            <para>
+              <num>a.</num>
+              <text>mailed to the Building Official by certified or registered mail, return receipt requested, or</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>delivered to the Building Official's office and stamped received by the office.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -12244,7 +12241,7 @@
           </para>
           <para>
             <num>105.2.1</num>
-            <title>Research reports.</title>
+            <title>Annual permit.</title>
             <reason>As in IMC</reason>
           </para>
         </para>
@@ -15599,7 +15596,7 @@
             </table>
           </text>
           <text>For SI: 1 sq. ft. = 0.093 sq. m.</text>
-          <text><sup>a</sup>  For combined living room/dining room spaces, <em>see </em>§ 404.5.2.</text>
+          <text><sup>a </sup> For combined living room/dining room spaces, <em>see </em>§ 404.5.2.</text>
           <text><sup>b</sup>  For limitations on determining minimum occupancy area for sleeping purposes, <em>see </em>§ 404.5.1.</text>
         </para>
         <para>
@@ -18266,7 +18263,7 @@
             <num>402.3.1</num>
             <heading>Aged roof solar reflectance.</heading>
             <text>Where an aged solar reflectance required by Section 402.3 is not available, it shall be determined in accordance with Equation 4-3.</text>
-            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial</em></sub> - 0.2)] 			<strong>	(Equation 4-3)</strong></text>
+            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial </em></sub>- 0.2)] 			<strong>	(Equation 4-3)</strong></text>
             <text>where:</text>
             <text><em>R</em><sub><em>aged</em></sub> =  The aged solar reflectance.</text>
             <text><em>R</em><sub><em>initial</em></sub> =  The initial solar reflectance determined in accordance with CRRC-S100.</text>

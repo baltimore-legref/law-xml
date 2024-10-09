@@ -1176,9 +1176,6 @@
         </para>
         <para>
           <num>(2)</num>
-        </para>
-        <para>
-          <num>(3)</num>
           <text>It is unlawful for the alarm system of any unregistered user to cause contact with or summon City police.</text>
         </para>
         <para>
@@ -1310,7 +1307,7 @@
         <num>(d)</num>
         <heading>Late fee.</heading>
         <para>
-          <num>(3)</num>
+          <num>(1)</num>
           <text>The Commissioner may assess a late fee of $25 for any false alarm fee that is not paid:</text>
           <para>
             <num>(i)</num>
@@ -1322,7 +1319,7 @@
           </para>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(2)</num>
           <text>If the false alarm or late fee is not paid within 10 business days of the Commissioner's notice that the late fee has been imposed, the Commissioner may place the user's alarm system on no-response status, as provided in § 8-9 of this subtitle.</text>
         </para>
       </para>
@@ -1330,11 +1327,11 @@
         <num>(e)</num>
         <heading>Warning of no-response status.</heading>
         <para>
-          <num>(4)</num>
+          <num>(1)</num>
           <text>After a 10<sup>th</sup> false alarm within any 12-month period, the Commissioner must send a warning notice by certified mail, return receipt requested, to the user, with a copy by regular mail to the monitor.</text>
         </para>
         <para>
-          <num>(5)</num>
+          <num>(2)</num>
           <text>The notice must state that:</text>
           <para>
             <num>(i)</num>
@@ -1370,18 +1367,18 @@
         <num>(b)</num>
         <heading>When required.</heading>
         <para>
-          <num>(3)</num>
+          <num>(1)</num>
           <text>An alarm system will be placed on no-response status if, after a warning notice has been sent in accord with § 8-8(e) of this subtitle, the alarm system has had 15 or more false alarms in any 12-month period.</text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(2)</num>
           <text>The Commissioner may reinstate the alarm system only if:</text>
           <para>
-            <num>(ii)</num>
+            <num>(i)</num>
             <text>the user applies in writing for reinstatement; and</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(ii)</num>
             <text>the Commissioner finds that the alarm system has been repaired, upgraded, or replaced and the cause of the false alarms corrected.</text>
           </para>
         </para>
@@ -1446,11 +1443,11 @@
         <num>(a)</num>
         <heading>Appeal of false alarm fee.</heading>
         <para>
-          <num>(4)</num>
+          <num>(1)</num>
           <text>A user against whom the Commissioner has assessed a fee under § 8-8 {"False alarm fees"} of this subtitle may appeal in writing to the Board of Municipal and Zoning Appeals.</text>
         </para>
         <para>
-          <num>(5)</num>
+          <num>(2)</num>
           <text>On good cause shown, the Board may waive the fee.</text>
         </para>
       </para>
@@ -2394,12 +2391,12 @@
       <heading>Use or possession prohibited.</heading>
       <text>A person may not use or possess with intent to use any of the following to manufacture, process, prepare, package, repackage, store, contain, or conceal or to ingest, inhale, or otherwise introduce into the human body a controlled dangerous substance in violation of the Maryland Controlled Dangerous Substances Act:</text>
       <para>
-        <num>(6)</num>
+        <num>(1)</num>
         <text>any small glassine or plastic bag, glass or plastic vial, or other container that holds less than ⅛ of an ounce and is designed or intended for use in packaging controlled dangerous substances; or</text>
       </para>
       <para>
-        <num>(7)</num>
-        <text>any metal, wood, acrylic, glass, stone, plastic, ceramic, or other pipe, tube, or other device that is designed or intended for use in smoking or otherwise inhaling a controlled dangerous substance.</text>
+        <num>(2)</num>
+        <text>any metal, wood, acrylic, glass, stone, plastic, ceramic, or other pipe, tube, or other device that is desig<em>ned </em>or intended for use in smoking or otherwise inhaling a controlled dangerous substance.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §22B(a)</annotation>
@@ -2417,7 +2414,7 @@
         <text>any small glassine or plastic bag, glass or plastic vial, or other container that holds less than ⅛ of an ounce and is designed or intended for use in packaging controlled dangerous substances; or</text>
       </para>
       <para>
-        <num>(vi)</num>
+        <num>(2)</num>
         <text>any metal, wood, acrylic, glass, stone, plastic, ceramic, or other pipe, tube, or other device that is designed or intended for use in smoking or otherwise inhaling a controlled dangerous substance.</text>
       </para>
       <annotations>
@@ -2777,46 +2774,46 @@
         <para>
           <num>(4)</num>
           <text>information technology security systems, including firewalls and other cybersecurity systems intended to secure City data;</text>
-          <para>
-            <num>(5)</num>
-            <text>physical access control systems, employee identification management systems, and other hysical control systems;</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>infrastructure and mechanical control systems, including those that control or manage street lights, traffic lights, electrical, natural gas, or water or sewer functions;</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>manually-operated technological devices used primarily for internal City communications, which are not designed to surreptitiously collect surveillance data, such as radios, personal communication devices, and email systems;</text>
-          </para>
-          <para>
-            <num>(8)</num>
-            <text>manually-operated and non-wearable handheld cameras, audio recorders, and video recorders, that are not designed to be used surreptitiously and whose functionality is limited to manually capturing and manually downloading video or audio recordings;</text>
-          </para>
-          <para>
-            <num>(9)</num>
-            <text>surveillance devices that cannot record or transmit audio or video or be remotely accessed, such as image stabilizing binoculars or night vision equipment;</text>
-          </para>
-          <para>
-            <num>(10)</num>
-            <text>medical equipment and systems used to record, diagnose, treat, or prevent disease or  injury, and used and kept in the ordinary course of providing City services;</text>
-          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>physical access control systems, employee identification management systems, and other hysical control systems;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>infrastructure and mechanical control systems, including those that control or manage street lights, traffic lights, electrical, natural gas, or water or sewer functions;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>manually-operated technological devices used primarily for internal City communications, which are not designed to surreptitiously collect surveillance data, such as radios, personal communication devices, and email systems;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>manually-operated and non-wearable handheld cameras, audio recorders, and video recorders, that are not designed to be used surreptitiously and whose functionality is limited to manually capturing and manually downloading video or audio recordings;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>surveillance devices that cannot record or transmit audio or video or be remotely accessed, such as image stabilizing binoculars or night vision equipment;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>medical equipment and systems used to record, diagnose, treat, or prevent disease or  injury, and used and kept in the ordinary course of providing City services;</text>
         </para>
         <para>
           <num>(11)</num>
           <text>parking ticket devices;</text>
-          <para>
-            <num>(12)</num>
-            <text>computer aided dispatch (CAD), records and case management, Live Scan, booking,      9-1-1 and related dispatch and operation or emergency services systems;</text>
-          </para>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>computer aided dispatch (CAD), records and case management, Live Scan, booking,      9-1-1 and related dispatch and operation or emergency services systems;</text>
         </para>
         <para>
           <num>(13)</num>
           <text>early warning systems; and</text>
-          <para>
-            <num>(14)</num>
-            <text>computers, software, hardware, or devices intended to be used solely to monitor the   safety and security of City facilities and City vehicles, not generally accessible to the   public.</text>
-          </para>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>computers, software, hardware, or devices intended to be used solely to monitor the   safety and security of City facilities and City vehicles, not generally accessible to the   public.</text>
         </para>
       </para>
       <para>
@@ -4629,15 +4626,15 @@
         <heading>Exceptions.</heading>
         <text>Subsection (a) of this section does not apply if:</text>
         <para>
-          <num>(3)</num>
+          <num>(1)</num>
           <text>the minor has written proof from school authorities excusing his or her attendance at that particular time; or</text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(2)</num>
           <text>the minor is accompanied by the minor's parent or by a person 21 years old or older; or</text>
         </para>
         <para>
-          <num>(5)</num>
+          <num>(3)</num>
           <text>the minor is traveling to or from school.</text>
         </para>
       </para>
@@ -4710,7 +4707,7 @@
           <text>the minor's name, address, school or other valid identification, and age; and</text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(2)</num>
           <text>the name of the minor's parent or parents.</text>
         </para>
       </para>
@@ -4737,11 +4734,11 @@
           <num>(2)</num>
           <text>If the minor is taken to school or to a Youth Connection Center, the school or center, as the case may be, shall:</text>
           <para>
-            <num>(vi)</num>
+            <num>(i)</num>
             <text>notify a parent about the violation of this subtitle; and</text>
           </para>
           <para>
-            <num>(vii)</num>
+            <num>(ii)</num>
             <text>take appropriate measures to reduce the probability that the minor will commit a subsequent violation of this subtitle.</text>
           </para>
         </para>
@@ -7566,10 +7563,10 @@
               </para>
             </para>
           </para>
-          <para>
-            <num>(3)</num>
-            <text>For purposes of court proceedings filed under paragraph (2)(ii)(B) of this subsection, it is the intent of the Mayor and City Council that a violation of this subtitle shall be construed as demonstrating a clear and imminent danger that the persons responsible or others involved will do serious harm to themselves or others, within the scope and meaning of State Real Property Article § 8-402.1(a)(1)(i)2.B.</text>
-          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For purposes of court proceedings filed under paragraph (2)(ii)(B) of this subsection, it is the intent of the Mayor and City Council that a violation of this subtitle shall be construed as demonstrating a clear and imminent danger that the persons responsible or others involved will do serious harm to themselves or others, within the scope and meaning of State Real Property Article § 8-402.1(a)(1)(i)2.B.</text>
         </para>
       </para>
       <annotations>
@@ -8061,11 +8058,11 @@
         <heading>Exception.</heading>
         <text>This section does not apply to soliciting that is done solely:</text>
         <para>
-          <num>(iv)</num>
+          <num>(i)</num>
           <text>by passively standing or sitting with a sign or other indication that one is seeking donations; and</text>
         </para>
         <para>
-          <num>(v)</num>
+          <num>(ii)</num>
           <text>without addressing any oral or other solicitation to any specific person other than in response to an inquiry by that person.</text>
         </para>
       </para>

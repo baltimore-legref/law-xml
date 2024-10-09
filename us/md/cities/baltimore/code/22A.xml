@@ -323,10 +323,10 @@
         <para>
           <num>(2)</num>
           <text>The amount returned:</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>must be reduced by its proportionate share of losses and expenses; and</text>
+          <para>
+            <num>(i)</num>
+            <text>must be reduced by its proportionate share of losses and expenses; and</text>
+          </para>
           <para>
             <num>(ii)</num>
             <text>may not be increased by any gains.</text>
@@ -415,18 +415,18 @@
         <para>
           <num>(3)</num>
           <heading>Appointed trustees – Term of office.</heading>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Each of the 3 trustees appointed under paragraph (1)(x) and (xi) of this subsection serves for a term of 4 years, concurrent with the term of the Mayor and the City Council President.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>At the end of a term, an appointed member continues to serve until a successor is appointed and qualifies.</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>If appointed to fill a vacancy in an unexpired term, a trustee serves only for the   remainder of that term.</text>
+          <para>
+            <num>(i)</num>
+            <text>Each of the 3 trustees appointed under paragraph (1)(x) and (xi) of this subsection serves for a term of 4 years, concurrent with the term of the Mayor and the City Council President.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>At the end of a term, an appointed member continues to serve until a successor is appointed and qualifies.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If appointed to fill a vacancy in an unexpired term, a trustee serves only for the   remainder of that term.</text>
+          </para>
         </para>
       </para>
       <para>
@@ -485,14 +485,14 @@
             <num>(i)</num>
             <text>selecting investment funds (including a default investment fund) under § 6-2 {"Accounts: Investments"} of this article;</text>
           </para>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>monitoring these investment funds on an ongoing basis; and</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>adding or replacing these investment funds as the Board considers prudent.</text>
+          <para>
+            <num>(ii)</num>
+            <text>monitoring these investment funds on an ongoing basis; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>adding or replacing these investment funds as the Board considers prudent.</text>
+          </para>
         </para>
       </para>
       <para>
@@ -619,14 +619,14 @@
             <num>(ii)</num>
             <text>retain the services of 1 or more investment advisors to provide investment assistance and advice;</text>
           </para>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>retain the services or secure the advice of any other person or entity; and</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>appoint an Executive Director for the Plan and delegate to the Executive Director and the Executive Director's staff any of the Board's duties or responsibilities under this subtitle.</text>
+          <para>
+            <num>(iii)</num>
+            <text>retain the services or secure the advice of any other person or entity; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>appoint an Executive Director for the Plan and delegate to the Executive Director and the Executive Director's staff any of the Board's duties or responsibilities under this subtitle.</text>
+          </para>
         </para>
         <para>
           <num>(2)</num>
@@ -935,10 +935,10 @@
             <num>(iii)</num>
             <text>the Board of Trustees of the Elected Officials' Retirement System of the City of Baltimore; and</text>
           </para>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>the Board of Trustees of the Retirement Savings Plan of the City of Baltimore.</text>
+          <para>
+            <num>(iv)</num>
+            <text>the Board of Trustees of the Retirement Savings Plan of the City of Baltimore.</text>
+          </para>
         </para>
         <para>
           <num>(3)</num>
@@ -951,25 +951,25 @@
           <para>
             <num>(i)</num>
             <text>Notwithstanding City Code Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}, no trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>any person or entity engaged in an activity or providing a product or service that the trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the trustee reasonably would expect to be marketed to a City Benefit Plan; or</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>any trade, professional, or other association that has members engaged in an activity or providing a product or service that the trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the trustee reasonably would expect to be marketed to a City Benefit Plan.</text>
             <para>
-              <num>(ii)</num>
-              <text>Subparagraph (i) of this paragraph does not preclude application of the qualified exemptions contained in City Code Article 8, § 6-28(1) {"food or beverages … consumed … in… presence … of donor"}, § 6-28(2) {"gift … [of] insignificant value"}, § 6-28(5) {"gift … [exempted by] Ethics Board"}, or § 6-28(6) {"gift from a spouse, parent, child, or sibling"}, subject to the qualifications of § 6-29 {"exemption limitations"}.</text>
+              <num>(A)</num>
+              <text>any person or entity engaged in an activity or providing a product or service that the trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the trustee reasonably would expect to be marketed to a City Benefit Plan; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>any trade, professional, or other association that has members engaged in an activity or providing a product or service that the trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the trustee reasonably would expect to be marketed to a City Benefit Plan.</text>
             </para>
           </para>
+          <para>
+            <num>(ii)</num>
+            <text>Subparagraph (i) of this paragraph does not preclude application of the qualified exemptions contained in City Code Article 8, § 6-28(1) {"food or beverages … consumed … in… presence … of donor"}, § 6-28(2) {"gift … [of] insignificant value"}, § 6-28(5) {"gift … [exempted by] Ethics Board"}, or § 6-28(6) {"gift from a spouse, parent, child, or sibling"}, subject to the qualifications of § 6-29 {"exemption limitations"}.</text>
+          </para>
         </para>
-      </para>
-      <para>
-        <num>(5)</num>
-        <heading>Using Plan assets for conferences, etc.</heading>
-        <text>No assets of the Retirement Savings Plan or of any system, plan, or trust administered by the Board of Trustees of the Plan may be used to pay for the attendance of a trustee or Board employee at any conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, unless that attendance has first been approved by the Board of Estimates in accordance with the Administrative Manual of Baltimore City, AM-240-3 {"Board of Estimates Approval"}.</text>
+        <para>
+          <num>(5)</num>
+          <heading>Using Plan assets for conferences, etc.</heading>
+          <text>No assets of the Retirement Savings Plan or of any system, plan, or trust administered by the Board of Trustees of the Plan may be used to pay for the attendance of a trustee or Board employee at any conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, unless that attendance has first been approved by the Board of Estimates in accordance with the Administrative Manual of Baltimore City, AM-240-3 {"Board of Estimates Approval"}.</text>
+        </para>
         <para>
           <num>(6)</num>
           <heading>Lobbying activities.</heading>
@@ -1070,18 +1070,18 @@
           <para>
             <num>(ii)</num>
             <text>either:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>after terminating employment or exiting elected office and having begun to receive that benefit, becomes an employee on or after July 1, 2014;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>after terminating active membership with the other City retirement plan on or after July 1, 2014, immediately becomes an employee through a transfer of employment; or</text>
-          </para>
-          <para>
-            <num>(c)</num>
-            <text>after terminating employment or exiting elected office, becomes an employee on or after July 1, 2014, before beginning to receive that benefit.</text>
+            <para>
+              <num>(A)</num>
+              <text>after terminating employment or exiting elected office and having begun to receive that benefit, becomes an employee on or after July 1, 2014;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>after terminating active membership with the other City retirement plan on or after July 1, 2014, immediately becomes an employee through a transfer of employment; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>after terminating employment or exiting elected office, becomes an employee on or after July 1, 2014, before beginning to receive that benefit.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -1242,14 +1242,14 @@
         <para>
           <num>(1)</num>
           <text>for each payroll period, the member must contribute to the Plan 5% of the member's earnable compensation for that payroll period;</text>
+          <para>
+            <num>(2)</num>
+            <text>for each payroll period, the Department of Finance will cause the contribution to be deducted from the member's earnable compensation for that payroll period; and</text>
+          </para>
         </para>
         <para>
-          <num>(2)</num>
-          <text>for each payroll period, the Department of Finance will cause the contribution to be deducted from the member's earnable compensation for that payroll period; and</text>
-          <para>
-            <num>(3)</num>
-            <text>as soon as administratively practicable after the deduction is taken, the contribution will be credited to the member's Mandatory Employee Contribution Sub-Account.</text>
-          </para>
+          <num>(3)</num>
+          <text>as soon as administratively practicable after the deduction is taken, the contribution will be credited to the member's Mandatory Employee Contribution Sub-Account.</text>
         </para>
       </para>
       <para>
@@ -1270,16 +1270,16 @@
           <num>(2)</num>
           <text>The picked-up contributions may not be excluded in computing any other benefit paid in connection with the member's employment with a participating employer.</text>
         </para>
-      </para>
-      <para>
-        <num>(3)</num>
         <para>
-          <num>(i)</num>
-          <text>As soon as administratively practicable after enactment of this article, the City will request a private letter ruling from the Internal Revenue Service to the effect that the contributions so picked up by the employer on behalf of members will be treated as employer contributions under IRC § 414(h)(2) and will not be includible in the member's gross income for federal income tax purposes for the year in which they are contributed.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>If the Internal Revenue Service rules that the pick up of contributions does not satisfy the requirements of IRC § 414(h)(2), or if IRC § 414(h)(2) is repealed, the contributions required under this section will remain in effect, but the contributions may no longer be treated as picked up and instead will be treated as paid directly by the member.</text>
+          <num>(3)</num>
+          <para>
+            <num>(i)</num>
+            <text>As soon as administratively practicable after enactment of this article, the City will request a private letter ruling from the Internal Revenue Service to the effect that the contributions so picked up by the employer on behalf of members will be treated as employer contributions under IRC § 414(h)(2) and will not be includible in the member's gross income for federal income tax purposes for the year in which they are contributed.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the Internal Revenue Service rules that the pick up of contributions does not satisfy the requirements of IRC § 414(h)(2), or if IRC § 414(h)(2) is repealed, the contributions required under this section will remain in effect, but the contributions may no longer be treated as picked up and instead will be treated as paid directly by the member.</text>
+          </para>
         </para>
       </para>
       <annotations>
@@ -1334,10 +1334,10 @@
             <num>(ii)</num>
             <text>Except as provided in subparagraph (iii) of the paragraph, the Class D funded status as of each June 30 is the ratio that the Employees' Retirement System's assets attributable to Class D members on that date, determined on an "adjusted market value basis", bears to the Employees' Retirement System's liabilities attributable to Class D members on that date.  The ratio will be determined by the actuary of the Employees' Retirement System, using a methodology approved jointly by the Boards of this Plan and of the Employees' Retirement System.</text>
           </para>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Notwithstanding subparagraph (ii) of this paragraph, the Class D funded status for payroll periods beginning in calendar years 2014 and 2015 is 100%.</text>
+          <para>
+            <num>(iii)</num>
+            <text>Notwithstanding subparagraph (ii) of this paragraph, the Class D funded status for payroll periods beginning in calendar years 2014 and 2015 is 100%.</text>
+          </para>
         </para>
       </para>
       <para>
@@ -1384,7 +1384,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>establish to the satisfaction of the Board that amounts intended to be rolled over satisfy the conditions of subsection (c) of this section.</text>
+          <text>establish to the satisfaction of the Board that amounts intended to be rolled over satisfy the conditions of subsection © of this section.</text>
         </para>
       </para>
       <para>
@@ -1398,11 +1398,11 @@
             <num>(i)</num>
             <text>an "eligible rollover distribution" as defined in IRC § 402(f)(2)(A), including eligible distributions of designated Roth contributions described in IRC § 402a(c)(3); or</text>
           </para>
+          <para>
+            <num>(ii)</num>
+            <text>eligible for rollover treatment under IRC § 408(d)(3), including eligible distribution from a Roth IRA described in IRC § 408(a) eligible for rollover treatment under IRC § 408(d)(3), including eligible distributions from a Roth IRA described in IRC § 408(a).</text>
+          </para>
         </para>
-      </para>
-      <para>
-        <num>(ii)</num>
-        <text>eligible for rollover treatment under IRC § 408(d)(3), including eligible distribution from a Roth IRA described in IRC § 408(a) eligible for rollover treatment under IRC § 408(d)(3), including eligible distributions from a Roth IRA described in IRC § 408(a).</text>
         <para>
           <num>(2)</num>
           <text>made solely in cash;</text>
@@ -1418,14 +1418,14 @@
             <num>(ii)</num>
             <text>a tax-sheltered annuity under IRC § 403(b);</text>
           </para>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>an eligible plan under IRC § 457(b) that is maintained by a state, a political subdivision of a state, or any agency or instrumentality of a state or political subdivision of a state; or</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>an individual retirement account under IRC § 408(a) or an individual retirement annuity under IRC § 408(b), except that amounts rolled over may not include nondeductible or after-tax contributions; and</text>
+          <para>
+            <num>(iii)</num>
+            <text>an eligible plan under IRC § 457(b) that is maintained by a state, a political subdivision of a state, or any agency or instrumentality of a state or political subdivision of a state; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>an individual retirement account under IRC § 408(a) or an individual retirement annuity under IRC § 408(b), except that amounts rolled over may not include nondeductible or after-tax contributions; and</text>
+          </para>
         </para>
         <para>
           <num>(4)</num>
@@ -1458,14 +1458,14 @@
         <para>
           <num>(2)</num>
           <text>The election must:</text>
-        </para>
-      </para>
-      <para>
-        <num>(i)</num>
-        <text>be made by filing with the Board of Trustees in the form required by the Board; and</text>
-        <para>
-          <num>(ii)</num>
-          <text>include the amount of mandatory employee contributions that the non-hybrid member wishes to make up and the period (not to exceed the lesser of 3 times the length of the leave of absence or 5 years) over which the contributions will be made.</text>
+          <para>
+            <num>(i)</num>
+            <text>be made by filing with the Board of Trustees in the form required by the Board; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>include the amount of mandatory employee contributions that the non-hybrid member wishes to make up and the period (not to exceed the lesser of 3 times the length of the leave of absence or 5 years) over which the contributions will be made.</text>
+          </para>
         </para>
         <para>
           <num>(3)</num>
@@ -1480,7 +1480,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Makeup contributions made under this subsection will be treated as being "picked up" to the same extent as mandatory employee contributions are treated as being "picked up" under § 5-2(c) {"Mandatory contributions by non-hybrid members: 'Picked-up' Status"} of this subtitle.</text>
+          <text>Makeup contributions made under this subsection will be treated as being "picked up" to the same extent as mandatory employee contributions are treated as being "picked up" under § 5-2I {"Mandatory contributions by non-hybrid members: 'Picked-up' Status"} of this subtitle.</text>
         </para>
       </para>
       <para>
@@ -1542,14 +1542,14 @@
             <num>(i)</num>
             <heading>In general.</heading>
             <text>"Annual additions" means the sum of the following amounts credited to a member's account for the Limitation Year:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>Mandatory employee contributions made under§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle; and</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>Employer contributions made under§ 5-3 {"Employer contributions"} of this subtitle.</text>
+            <para>
+              <num>(A)</num>
+              <text>Mandatory employee contributions made under§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Employer contributions made under§ 5-3 {"Employer contributions"} of this subtitle.</text>
+            </para>
           </para>
           <para>
             <num>(ii)</num>
@@ -1575,54 +1575,54 @@
             <heading>In general.</heading>
             <para>
               <num>(A)</num>
-              <text>"Section 415 compensation" means wages, within the meaning of IRC § 3401, plus amounts that would be included in wages but for an election under IRC § 125, § 132(f)(4), § 402(e)(3), § 402(h)(1)(B), § 402(k), or § 457(b), and all other payments of compensation to an employee by a participating employer for which the employer is required to furnish the employee a written statement under IRC § 6041(d), § 6051(a)(3), or § 6052.</text>
+              <text>"Section 415 compensation" means wages, within the meaning of IRC § 3401, plus amounts that would be included in wages but for an election under IRC § 125, § 132(f)(4), § 402I(3), § 402(h)(1)(B), § 402(k), or § 457(b), and all other payments of compensation to an employee by a participating employer for which the employer is required to furnish the employee a written statement under IRC § 6041(d), § 6051(a)(3), or § 6052.</text>
             </para>
             <para>
               <num>(B)</num>
               <text>Section 415 compensation must be determined without regard to any rules under IRC § 3401 that limit the remuneration included in wages based on the nature or location of the employment or the services performed (such as the exception for agricultural labor in IRC § 3401(a)(2)).</text>
             </para>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Section 415 compensation for a limitation year is the Section 415 compensation actually paid or made available in gross income for that limitation year.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <heading>Inclusions.</heading>
-          <text>"Section 415 compensation" includes the following amounts paid after an employee's severance from employment with a participating employer, if those amounts would have been included in subparagraph (i) of this paragraph had they been paid before severance and if those amounts are paid to the employee before the later of 2½ months after severance or the end of the calendar year in which the severance becomes effective:</text>
-          <para>
-            <num>(A)</num>
-            <text>regular payments made after severance, if:</text>
             <para>
-              <num>1.</num>
-              <text>the payments are:</text>
+              <num>(C)</num>
+              <text>Section 415 compensation for a limitation year is the Section 415 compensation actually paid or made available in gross income for that limitation year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <heading>Inclusions.</heading>
+            <text>"Section 415 compensation" includes the following amounts paid after an employee's severance from employment with a participating employer, if those amounts would have been included in subparagraph (i) of this paragraph had they been paid before severance and if those amounts are paid to the employee before the later of 2½ months after severance or the end of the calendar year in which the severance becomes effective:</text>
+            <para>
+              <num>(A)</num>
+              <text>regular payments made after severance, if:</text>
               <para>
-                <num>a.</num>
-                <text>compensation for services during the employee's regular working hours;</text>
+                <num>1.</num>
+                <text>the payments are:</text>
+                <para>
+                  <num>a.</num>
+                  <text>compensation for services during the employee's regular working hours;</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>compensation for services outside the employee's regular working hours (such as overtime or shift differential); or</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>commissions, bonuses, or other similar payments; and</text>
+                </para>
               </para>
               <para>
-                <num>b.</num>
-                <text>compensation for services outside the employee's regular working hours (such as overtime or shift differential); or</text>
-              </para>
-              <para>
-                <num>c.</num>
-                <text>commissions, bonuses, or other similar payments; and</text>
+                <num>2.</num>
+                <text>the payments would have been paid to the employee before severance had the employee continued to be employed by the employer; and</text>
               </para>
             </para>
             <para>
-              <num>2.</num>
-              <text>the payments would have been paid to the employee before severance had the employee continued to be employed by the employer; and</text>
+              <num>(B)</num>
+              <text>payments made after severance for accrued and unused bona fide sick, vacation, or other leave, if the employee would have been able to use that leave had the employee continued to be employed by the employer.</text>
             </para>
-          </para>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>payments made after severance for accrued and unused bona fide sick, vacation, or other leave, if the employee would have been able to use that leave had the employee continued to be employed by the employer.</text>
-          <para>
-            <num>(iii)</num>
-            <heading>Exclusions.</heading>
-            <text>"Section 415 compensation" for a limitation year does not include compensation in excess of the compensation limit applicable to that limitation year under IRC § 401(a)(17).</text>
+            <para>
+              <num>(iii)</num>
+              <heading>Exclusions.</heading>
+              <text>"Section 415 compensation" for a limitation year does not include compensation in excess of the compensation limit applicable to that limitation year under IRC § 401(a)(17).</text>
+            </para>
           </para>
         </para>
       </para>
@@ -1692,10 +1692,10 @@
             <num>(ii)</num>
             <text>an Employer Contribution Sub-Account; and</text>
           </para>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>if applicable, a Rollover Contribution Sub-Account.</text>
+          <para>
+            <num>(iii)</num>
+            <text>if applicable, a Rollover Contribution Sub-Account.</text>
+          </para>
         </para>
         <para>
           <num>(2)</num>
@@ -1708,10 +1708,10 @@
             <num>(ii)</num>
             <text>gains and losses are allocated under § 6-2(d) {"Investments: Fund gains and losses"} of this subtitle; and</text>
           </para>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>fees and expenses are charged under§ 6-2(e) {"Investments: Fund fees and expenses"} of this subtitle.</text>
+          <para>
+            <num>(iii)</num>
+            <text>fees and expenses are charged under§ 6-2(e) {"Investments: Fund fees and expenses"} of this subtitle.</text>
+          </para>
         </para>
       </para>
       <annotations>
@@ -1737,10 +1737,10 @@
             <text>a default investment fund for the automatic investment of the account of a member who fails to make an affirmative investment election under subsection (b) of this section.</text>
           </para>
         </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>From time to time, the Board may change any or all of the investment funds or the default investment fund.  Any change must be communicated to members before its effective date.</text>
+        <para>
+          <num>(2)</num>
+          <text>From time to time, the Board may change any or all of the investment funds or the default investment fund.  Any change must be communicated to members before its effective date.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
@@ -2010,14 +2010,14 @@
           <para>
             <num>(ii)</num>
             <text>Subject to § 9-8 {"Minimum distribution rules"} of this subtitle, the amount payable each year under this option is:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>the balance of the member's vested account at the end of the preceding year, multiplied by</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>a fraction, the numerator of which is 1 and the denominator of which is the number of years remaining in the installment payment period.</text>
+            <para>
+              <num>(A)</num>
+              <text>the balance of the member's vested account at the end of the preceding year, multiplied by</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>a fraction, the numerator of which is 1 and the denominator of which is the number of years remaining in the installment payment period.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -2026,45 +2026,45 @@
           <para>
             <num>(i)</num>
             <text>a single-life annuity under which:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>the member will receive equal monthly payments during his or her lifetime; and</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>no further benefits will be paid after the member's death;</text>
+            <para>
+              <num>(A)</num>
+              <text>the member will receive equal monthly payments during his or her lifetime; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>no further benefits will be paid after the member's death;</text>
+            </para>
           </para>
           <para>
             <num>(ii)</num>
             <text>a joint and survivor annuity under which:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>the member will receive equal monthly payments during his or her lifetime; and</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>on the member's death, monthly payments will be made to the member's designated beneficiary during the beneficiary's lifetime, if the beneficiary survived the member; or</text>
+            <para>
+              <num>(A)</num>
+              <text>the member will receive equal monthly payments during his or her lifetime; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>on the member's death, monthly payments will be made to the member's designated beneficiary during the beneficiary's lifetime, if the beneficiary survived the member; or</text>
+            </para>
           </para>
           <para>
             <num>(iii)</num>
             <text>a guaranteed annuity under which:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>the member will receive equal monthly payments during his or her lifetime; and</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>on the member's death:</text>
             <para>
-              <num>1.</num>
-              <text>if the member dies before receiving monthly payments for a guaranteed period of 5, 10, or 15 years, as elected by the member, the member's designated beneficiary will continue to receive monthly payments for the remainder of the guaranteed period; and</text>
+              <num>(A)</num>
+              <text>the member will receive equal monthly payments during his or her lifetime; and</text>
             </para>
             <para>
-              <num>2.</num>
-              <text>if the member dies after receiving monthly payments for at least the guaranteed period, no further benefits will be paid after the member's death.</text>
+              <num>(B)</num>
+              <text>on the member's death:</text>
+              <para>
+                <num>1.</num>
+                <text>if the member dies before receiving monthly payments for a guaranteed period of 5, 10, or 15 years, as elected by the member, the member's designated beneficiary will continue to receive monthly payments for the remainder of the guaranteed period; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>if the member dies after receiving monthly payments for at least the guaranteed period, no further benefits will be paid after the member's death.</text>
+              </para>
             </para>
           </para>
         </para>
@@ -2097,7 +2097,7 @@
     <section>
       <prefix>§</prefix>
       <num>9-2A</num>
-      <heading>Distributable events - Transfers.</heading>
+      <heading>Distributable events – Transfers.</heading>
       <text>A member who terminates employment and transfers his or her service to another City retirement plan is entitled to receive the value of the member's:</text>
       <para>
         <num>(1)</num>
@@ -2131,10 +2131,10 @@
         <para>
           <num>(2)</num>
           <text>Employer Contribution Sub-Account (determined as of the date the member terminated employment); and</text>
-          <para>
-            <num>(3)</num>
-            <text>if applicable, Rollover Contribution Sub-Account.</text>
-          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>if applicable, Rollover Contribution Sub-Account.</text>
         </para>
       </para>
       <para>
@@ -2230,28 +2230,28 @@
         <para>
           <num>(1)</num>
           <text>If any question or dispute arises regarding payment of a death benefit under this section, the Board may:</text>
+          <para>
+            <num>(i)</num>
+            <text>distribute the death benefit to the member's estate;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>retain the death benefit until the Board is satisfied that the right to payment has been finally determined; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>deposit the amount of the death benefit into any court of competent jurisdiction.</text>
+          </para>
         </para>
-        <para>
-          <num>(i)</num>
-          <text>distribute the death benefit to the member's estate;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>retain the death benefit until the Board is satisfied that the right to payment has been finally determined; or</text>
-        </para>
-      </para>
-      <para>
-        <num>(iii)</num>
-        <text>deposit the amount of the death benefit into any court of competent jurisdiction.</text>
         <para>
           <num>(2)</num>
           <text>A determination by the Board under this section is final and binding on all persons, subject to the rights of appeal and review under § 2-17 {"Administrative appeal"} and § 2-18 {"Judicial and appellate review"} of this article.</text>
         </para>
-        <para>
-          <num>(f)</num>
-          <heading>While performing qualified military service.</heading>
-          <text>To the extent required by IRC § 401(a)(37), the value of a member's account payable to the beneficiary of a member who dies while performing "qualified military service", as defined in IRC § 414(u)(5), will be determined as if the member died while an active employee.</text>
-        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>While performing qualified military service.</heading>
+        <text>To the extent required by IRC § 401(a)(37), the value of a member's account payable to the beneficiary of a member who dies while performing "qualified military service", as defined in IRC § 414(u)(5), will be determined as if the member died while an active employee.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
@@ -2297,29 +2297,29 @@
           <heading>In general.</heading>
           <text>In this section, the following terms have the meanings indicated.</text>
         </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <heading>"Distributee".</heading>
-        <text>"Distributee" means:</text>
         <para>
-          <num>(i)</num>
-          <text>an employee or former employee;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>the employee's or former employee's spouse or former spouse who is the alternate payee under a qualified domestic relations order, as defined in IRC § 414(p), with regard to the interest of the spouse or former spouse; or</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>the employee's or former employee's nonspouse designated beneficiary, if the direct rollover is made to an individual retirement account or annuity ("IRA") under IRC § 408(a) or § 408(b) that:</text>
+          <num>(2)</num>
+          <heading>"Distributee".</heading>
+          <text>"Distributee" means:</text>
           <para>
-            <num>(A)</num>
-            <text>is established on behalf of the designated beneficiary; and</text>
+            <num>(i)</num>
+            <text>an employee or former employee;</text>
           </para>
           <para>
-            <num>(B)</num>
-            <text>is treated as an inherited IRA under IRC § 402(c)(11).</text>
+            <num>(ii)</num>
+            <text>the employee's or former employee's spouse or former spouse who is the alternate payee under a qualified domestic relations order, as defined in IRC § 414(p), with regard to the interest of the spouse or former spouse; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the employee's or former employee's nonspouse designated beneficiary, if the direct rollover is made to an individual retirement account or annuity ("IRA") under IRC § 408(a) or § 408(b) that:</text>
+            <para>
+              <num>(A)</num>
+              <text>is established on behalf of the designated beneficiary; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>is treated as an inherited IRA under IRC § 402(c)(11).</text>
+            </para>
           </para>
         </para>
         <para>
@@ -2367,22 +2367,22 @@
             <num>(ii)</num>
             <heading>Exclusions.</heading>
             <text>"Eligible rollover distribution" does not include:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>any distribution that is one of a series of substantially equal periodic payments (not less frequently than annually) made for the life (or life expectancy) of the distributee or the joint lives (or joint life expectancies) of the distributee and the distributee's designated beneficiary, or for a specified period of 10 years or more;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>any distribution to the extent that it is required under IRC § 401(a)(9);</text>
             <para>
-              <num>(c)</num>
+              <num>(A)</num>
+              <text>any distribution that is one of a series of substantially equal periodic payments (not less frequently than annually) made for the life (or life expectancy) of the distributee or the joint lives (or joint life expectancies) of the distributee and the distributee's designated beneficiary, or for a specified period of 10 years or more;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>any distribution to the extent that it is required under IRC § 401(a)(9);</text>
+            </para>
+            <para>
+              <num>(C)</num>
               <text>any distribution that is made on account of hardship; and</text>
             </para>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>subject to subparagraph (iii) of this paragraph, the portion of any distribution that is not includible in gross income.</text>
+            <para>
+              <num>(D)</num>
+              <text>subject to subparagraph (iii) of this paragraph, the portion of any distribution that is not includible in gross income.</text>
+            </para>
           </para>
           <para>
             <num>(iii)</num>
@@ -2391,24 +2391,24 @@
               <num>(A)</num>
               <text>Notwithstanding subparagraph (ii)(D) of this paragraph, a portion of a distribution does not fail to be an "eligible rollover distribution" merely because the portion consists of after-tax employee contributions that are not includible in gross income.</text>
             </para>
-          </para>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Sub-subparagraph (A) of this subparagraph applies only if the portion is transferred to:</text>
-          <para>
-            <num>1.</num>
-            <text>a traditional individual retirement account or annuity under IRC § 408(a) or § 408(b) or a Roth individual retirement account or annuity under IRC § 408A; or</text>
             <para>
-              <num>2.</num>
-              <text>a qualified plan under IRC § 401(a) or § 403(a) or an annuity contract under IRC§ 403(b), if the plan or contract provides for:</text>
+              <num>(B)</num>
+              <text>Sub-subparagraph (A) of this subparagraph applies only if the portion is transferred to:</text>
               <para>
-                <num>a.</num>
-                <text>separate accounts for amounts so transferred (including earnings on the transferred amounts); and</text>
+                <num>1.</num>
+                <text>a traditional individual retirement account or annuity under IRC § 408(a) or § 408(b) or a Roth individual retirement account or annuity under IRC § 408A; or</text>
               </para>
               <para>
-                <num>b.</num>
-                <text>separate accounting for the portion of the distribution that is includible in gross income and the portion of the distribution that is not so includible.</text>
+                <num>2.</num>
+                <text>a qualified plan under IRC § 401(a) or § 403(a) or an annuity contract under IRC§ 403(b), if the plan or contract provides for:</text>
+                <para>
+                  <num>a.</num>
+                  <text>separate accounts for amounts so transferred (including earnings on the transferred amounts); and</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>separate accounting for the portion of the distribution that is includible in gross income and the portion of the distribution that is not so includible.</text>
+                </para>
               </para>
             </para>
           </para>
@@ -2451,14 +2451,14 @@
             <num>(ii)</num>
             <text>For distributions beginning before the member's death, the first distribution calendar year is the calendar year immediately preceding the calendar year that contains the member's required beginning date.</text>
           </para>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>The required minimum distribution for the member's first distribution calendar year will be made on or before the member's required beginning date.</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>The required minimum distribution for other distribution calendar years, including the required minimum distribution for the distribution calendar year in which the member's required beginning date occurs, will be made on or before December 31 of that distribution calendar year.</text>
+          <para>
+            <num>(iii)</num>
+            <text>The required minimum distribution for the member's first distribution calendar year will be made on or before the member's required beginning date.</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The required minimum distribution for other distribution calendar years, including the required minimum distribution for the distribution calendar year in which the member's required beginning date occurs, will be made on or before December 31 of that distribution calendar year.</text>
+          </para>
         </para>
         <para>
           <num>(4)</num>
@@ -2471,18 +2471,18 @@
           <para>
             <num>(i)</num>
             <text>"Member's account balance" means:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>the account balance as of the last valuation date in the calendar year immediately preceding the distribution calendar year (valuation calendar year), increased by</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>the amount of any contributions made and allocated or forfeitures allocated to the account as of dates in the valuation calendar year after the valuation date, and decreased by</text>
-          </para>
-          <para>
-            <num>(c)</num>
-            <text>distributions made in the valuation calendar year after the valuation date.</text>
+            <para>
+              <num>(A)</num>
+              <text>the account balance as of the last valuation date in the calendar year immediately preceding the distribution calendar year (valuation calendar year), increased by</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>the amount of any contributions made and allocated or forfeitures allocated to the account as of dates in the valuation calendar year after the valuation date, and decreased by</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>distributions made in the valuation calendar year after the valuation date.</text>
+            </para>
           </para>
           <para>
             <num>(ii)</num>
@@ -2562,14 +2562,14 @@
           <num>(1)</num>
           <heading>Minimum for each distribution calendar year.</heading>
           <text>During a member's lifetime, the minimum amount that must be distributed for each calendar year is the lesser of:</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>the quotient obtained by dividing the member's account balance by the distribution period in the Uniform Lifetime Table set forth in 26 CFR § 1.401(a)(9)-9, Q&amp;A-2, using the member's age as of the member's birthday in the distribution calendar year; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>if the member's sole designated beneficiary for the distribution calendar year is the member's spouse, the quotient obtained by dividing the member's account balance by the number in the Joint and Last Survivor Table set forth in 26 CFR § 1.401(a)(9)-9, Q&amp;A-3, using the member's and spouse's attained ages as of the member's and spouse's birthdays in the distribution calendar year.</text>
+          <para>
+            <num>(i)</num>
+            <text>the quotient obtained by dividing the member's account balance by the distribution period in the Uniform Lifetime Table set forth in 26 CFR § 1.401(a)(9)-9, Q&amp;A-2, using the member's age as of the member's birthday in the distribution calendar year; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>if the member's sole designated beneficiary for the distribution calendar year is the member's spouse, the quotient obtained by dividing the member's account balance by the number in the Joint and Last Survivor Table set forth in 26 CFR § 1.401(a)(9)-9, Q&amp;A-3, using the member's and spouse's attained ages as of the member's and spouse's birthdays in the distribution calendar year.</text>
+          </para>
         </para>
         <para>
           <num>(2)</num>
@@ -2592,11 +2592,11 @@
             <num>(ii)</num>
             <text>If the member's surviving spouse is the member's sole designated beneficiary, the remaining life expectancy of the surviving spouse is calculated for each distribution calendar year after the year of the member's death by using the surviving spouse's age as of the spouse's birthday in that year.  For distribution calendar years after the year of the surviving spouse's death, the remaining life expectancy of the surviving spouse is calculated by using the age of the surviving spouse as of the spouse's birthday in the calendar year of the spouse's death, reduced by one for each subsequent calendar year.</text>
           </para>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>If the member's surviving spouse is not the member's sole designated beneficiary, the designated beneficiary's remaining life expectancy is calculated using the age of</text>
-          <text>the beneficiary in the year following the year of the member's death, reduced by one for each subsequent year.</text>
+          <para>
+            <num>(iii)</num>
+            <text>If the member's surviving spouse is not the member's sole designated beneficiary, the designated beneficiary's remaining life expectancy is calculated using the age of</text>
+            <text>the beneficiary in the year following the year of the member's death, reduced by one for each subsequent year.</text>
+          </para>
         </para>
         <para>
           <num>(2)</num>
@@ -2687,10 +2687,10 @@
           <para>
             <num>(ii)</num>
             <text>a division of marital property pursuant to a court order that:</text>
-          </para>
-          <para>
-            <num>(A)</num>
-            <text>creates the right or recognizes the existence of the right of an alternate payee (as defined in IRC § 414(p)(8)) to receive all or a portion of a member's benefit under the Retirement Savings Plan; or</text>
+            <para>
+              <num>(A)</num>
+              <text>creates the right or recognizes the existence of the right of an alternate payee (as defined in IRC § 414(p)(8)) to receive all or a portion of a member's benefit under the Retirement Savings Plan; or</text>
+            </para>
             <para>
               <num>(B)</num>
               <text>assigns to an alternate payee the right to receive all or a portion of a member's benefit under the Plan.</text>
@@ -2705,39 +2705,39 @@
             <num>(i)</num>
             <text>may not require the Plan to make any distribution to the alternate payee in a form of payment other than as required by § 9-1 {"Form of payment"} of this article;</text>
           </para>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>may not require the Plan to provide to the alternate payee an amount greater than the value of the member's vested account;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>may not require the payment of benefits to an alternate payee if the benefits are required to be paid to another alternate payee under another order previously accepted as a domestic relations order;</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>must clearly specify the percentage or amount of the member's vested account to be distributed to the alternate payee or the manner in which the percentage or amount is to be determined; and</text>
-        </para>
-        <para>
-          <num>(v)</num>
-          <text>must clearly specify (or, to protect the parties' privacy, require submission by separate writing of) the name, Social Security number, birth date, and last known mailing address of the member and the alternate payee.</text>
+          <para>
+            <num>(ii)</num>
+            <text>may not require the Plan to provide to the alternate payee an amount greater than the value of the member's vested account;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>may not require the payment of benefits to an alternate payee if the benefits are required to be paid to another alternate payee under another order previously accepted as a domestic relations order;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>must clearly specify the percentage or amount of the member's vested account to be distributed to the alternate payee or the manner in which the percentage or amount is to be determined; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>must clearly specify (or, to protect the parties' privacy, require submission by separate writing of) the name, Social Security number, birth date, and last known mailing address of the member and the alternate payee.</text>
+          </para>
         </para>
         <para>
           <num>(3)</num>
           <heading>Implementation of agreement or order.</heading>
           <text>Following a determination by the Board of Trustees that a property settlement agreement or court order is a domestic relations order:</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>a separate account must be established and maintained on behalf of the alternate payee;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>the alternate payee must be afforded the same rights with respect to the account as a member has under this article, including the right to make an investment election under § 6-2 {"Investments"} of this article; and</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>distributions to the alternate payee must be made at the time specified in the domestic relations order, which may be before the member (to whom the domestic relations order relates) has a distributable event under Subtitle 9 {"Distributions"} of this article.</text>
+          <para>
+            <num>(i)</num>
+            <text>a separate account must be established and maintained on behalf of the alternate payee;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the alternate payee must be afforded the same rights with respect to the account as a member has under this article, including the right to make an investment election under § 6-2 {"Investments"} of this article; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>distributions to the alternate payee must be made at the time specified in the domestic relations order, which may be before the member (to whom the domestic relations order relates) has a distributable event under Subtitle 9 {"Distributions"} of this article.</text>
+          </para>
         </para>
       </para>
       <annotations>

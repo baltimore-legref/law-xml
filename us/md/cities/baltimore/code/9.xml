@@ -801,7 +801,7 @@
         <heading>Police and fire wires in conduits.</heading>
         <text>The subways and conduits of the Chesapeake and Potomac Telephone Company shall be used, as far as practicable, under provisions of Ordinance 1889-041, Section 4, passed by the Mayor and City Council of Baltimore and approved May 9, 1889, being Article 26, Subtitle 24 of the City Code; which ordinance reserves the right to place the wires of the Police and Fire Alarm Telegraph and Police Patrol Telegraph in the conduits and subways of said telephone company.</text>
         <annotations>
-          <annotation type="Prior Codifications">City Code, 1893, art. 20, §§45(1st cl.), 47</annotation>
+          <annotation type="Prior Codifications">City Code, 1893, art. 20, ''45(1st cl.), 47</annotation>
           <annotation type="Prior Codifications">1927, art. 13, §57</annotation>
           <annotation type="Prior Codifications">1950, art. 9, §19</annotation>
           <annotation type="Prior Codifications">1966, art. 9, §20</annotation>
@@ -1045,23 +1045,23 @@
             <text>development and implementation of security measures commensurate with risks;</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(3)</num>
             <text>documentation of security management programs, processes, and procedures;</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(4)</num>
             <text>training, drills, and guidance for employees, contractors, service providers, and others, as appropriate, to enhance awareness and capability;</text>
           </para>
           <para>
-            <num>(9)</num>
+            <num>(5)</num>
             <text>communications, dialogue, and exchange of information with employees, communities, and government agencies and officials;</text>
           </para>
           <para>
-            <num>(11)</num>
+            <num>(6)</num>
             <text>internal audits to assess security programs and processes and the implementation of corrective measures; and</text>
           </para>
           <para>
-            <num>(13)</num>
+            <num>(7)</num>
             <text>third-party verification that owners and operators have implemented the physical security measures that have been identified under the required periodic analysis of potential security threats, vulnerabilities, and consequences.</text>
           </para>
         </para>
