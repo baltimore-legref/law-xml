@@ -6749,13 +6749,12 @@
               <text>Internal relief drains may be used instead of relief scuppers.  Internal relief drains must be independent of the required roof drains.</text>
             </para>
           </para>
-          <text>
-            <strong>Sections 1503</strong>
-            <strong>
-              <em>{As in IBC}</em>
-            </strong>
-          </text>
         </para>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>1503</num>
+        <reason>As in IBC</reason>
       </section>
       <section>
         <prefix>Section</prefix>
@@ -6905,7 +6904,7 @@
       </section>
       <section name="1511to1512">
         <prefix>Sections</prefix>
-        <num>1511  to 1512</num>
+        <num>1511 to 1512</num>
         <reason>As in IBC</reason>
       </section>
     </container>
@@ -9335,12 +9334,11 @@
       <prefix>Chapter</prefix>
       <num>37</num>
       <heading>{Vacant}</heading>
-      <text class="center">
-        <strong>Chapter 38</strong>
-      </text>
-      <text class="center">
-        <strong>Traffic Impact and Mitigation</strong>
-      </text>
+    </container>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>38</num>
+      <heading>Traffic Impact and Mitigation</heading>
       <section>
         <prefix>Section</prefix>
         <num>3801</num>
@@ -13033,7 +13031,7 @@
       <attachment name="AandB">
         <prefix>Appendices</prefix>
         <num>A and B</num>
-        <reason>informational.  Not Adopted</reason>
+        <reason>Informational.  Not Adopted</reason>
       </attachment>
     </attachments>
   </container>
@@ -18302,7 +18300,7 @@
             <num>402.3.1</num>
             <heading>Aged roof solar reflectance.</heading>
             <text>Where an aged solar reflectance required by Section 402.3 is not available, it shall be determined in accordance with Equation 4-3.</text>
-            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial</em></sub> - 0.2)] 			<strong>	(Equation 4-3)</strong></text>
+            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial</em></sub> - 0.2)]       <strong>  (Equation 4-3)</strong></text>
             <text>where:</text>
             <text><em>R</em><sub><em>aged</em></sub> =  The aged solar reflectance.</text>
             <text><em>R</em><sub><em>initial</em></sub> =  The initial solar reflectance determined in accordance with CRRC-S100.</text>
@@ -18913,7 +18911,7 @@
     <container>
       <prefix>Part</prefix>
       <num>I</num>
-      <heading>– Administrative</heading>
+      <heading>Administrative</heading>
       <container>
         <prefix>Chapter</prefix>
         <num>1</num>
@@ -19451,7 +19449,7 @@
     <container>
       <prefix>Part</prefix>
       <num>II</num>
-      <heading>– Definitions</heading>
+      <heading>Definitions</heading>
       <container>
         <prefix>Chapter</prefix>
         <num>2</num>
@@ -19549,7 +19547,7 @@
     <container>
       <prefix>Part</prefix>
       <num>III</num>
-      <heading>– Building Planning and Construction</heading>
+      <heading>Building Planning and Construction</heading>
       <container>
         <prefix>Chapter</prefix>
         <num>3</num>
@@ -20260,7 +20258,7 @@
     <container>
       <prefix>Part</prefix>
       <num>IV</num>
-      <heading>– Energy Conservation</heading>
+      <heading>Energy Conservation</heading>
       <container>
         <prefix>Chapter</prefix>
         <num>11</num>
@@ -20272,7 +20270,7 @@
     <container>
       <prefix>Part</prefix>
       <num>V</num>
-      <heading>– Mechanical</heading>
+      <heading>Mechanical</heading>
       <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 12 through 24 is not within the scope of the Maryland Building Performance Standards.  <em>See </em>the <cite path="|codes|IV" proof="needed">Fuel Gas Code</cite> and <cite path="|codes|V" proof="needed">Mechanical Code</cite> in Parts IV and V of <cite path="|building-codes">this Article</cite>, and the mechanical code adopted under State Business Regulation Article § 9A-205.}</text>
       <container>
         <prefix>Chapter</prefix>
@@ -20661,7 +20659,7 @@
     <container>
       <prefix>Part</prefix>
       <num>VI</num>
-      <heading>– Fuel Gas</heading>
+      <heading>Fuel Gas</heading>
       <container>
         <prefix>Chapter</prefix>
         <num>24</num>
@@ -20681,7 +20679,7 @@
     <container>
       <prefix>Part</prefix>
       <num>VII</num>
-      <heading>–  Plumbing</heading>
+      <heading> Plumbing</heading>
       <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 25 through 33 is not within the scope of the Maryland Building Performance Standards.  <em>See </em>the Baltimore City <cite path="|codes|VI" proof="needed">Plumbing Code</cite> in Part VI of <cite path="|building-codes">this Article</cite>, and the plumbing code adopted under State Business and Occupation Article, Title 12.}</text>
       <container>
         <prefix>Chapters</prefix>
@@ -20701,7 +20699,7 @@
     <container>
       <prefix>Part</prefix>
       <num>VIII</num>
-      <heading>– Electrical</heading>
+      <heading>Electrical</heading>
       <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 34 through 43 is not within the scope of the Maryland Building Performance Standards. See the Baltimore City Electrical Code in Part III {"Electrical"} of <cite path="|building-codes">this Article</cite>, and the National Electrical Code as adopted and enforced by the State Fire Marshall under State Public Safety Article, Title 12, Subtitle 6.}</text>
       <container>
         <prefix>Chapter</prefix>
@@ -20977,7 +20975,7 @@
     <container>
       <prefix>Part</prefix>
       <num>IX</num>
-      <heading>– Referenced Standards</heading>
+      <heading>Referenced Standards</heading>
       <container>
         <prefix>Chapter</prefix>
         <num>44</num>
@@ -22126,8 +22124,8 @@
       </section>
       <section>
         <prefix>Section</prefix>
-        <num>704</num>
-        <heading>5  Performance option  As in Baltimore City IECC § 401.2.1 (Options 1 or 2).</heading>
+        <num>701.5</num>
+        <heading>Performance option  As in Baltimore City IECC § 401.2.1 (Options 1 or 2).</heading>
         <para>
           <num>701.5.1</num>
           <heading>Annual Energy Cost.</heading>
@@ -22517,10 +22515,10 @@
                     </tr>
                     <tr>
                       <td proof="needed" colspan="3">
-                        <p>a	The IIC value listed addresses footfall noise but not exercise-related vibration-borne sound. Exercise-related vibration-borne sound must comply with the requirements of § 801.3.3.2.</p>
-                        <p>b	Minimum cSTC and IIC values are not required between adjacent rooms of the same room type.</p>
-                        <p>c	For operable partitions and walls containing doors, windows, or both, the minimum cSTC ratings must  be 5 less than the values listed in Table 801.3.3.3.</p>
-                        <p>d	The minimum cSTC values must  be 5 less than the cSTC values in Table 801.3.3.3 for walls between spaces and corridors and between spaces and open offices.  The minimum cSTC values must be 15 less than the cSTC values specified in Table 801.3.3.3 for walls having doors that open to corridors or open offices.</p>
+                        <p>a  The IIC value listed addresses footfall noise but not exercise-related vibration-borne sound. Exercise-related vibration-borne sound must comply with the requirements of § 801.3.3.2.</p>
+                        <p>b  Minimum cSTC and IIC values are not required between adjacent rooms of the same room type.</p>
+                        <p>c  For operable partitions and walls containing doors, windows, or both, the minimum cSTC ratings must  be 5 less than the values listed in Table 801.3.3.3.</p>
+                        <p>d  The minimum cSTC values must  be 5 less than the cSTC values in Table 801.3.3.3 for walls between spaces and corridors and between spaces and open offices.  The minimum cSTC values must be 15 less than the cSTC values specified in Table 801.3.3.3 for walls having doors that open to corridors or open offices.</p>
                       </td>
                     </tr>
                   </tbody>
@@ -23118,8 +23116,8 @@
                       </tr>
                       <tr>
                         <td proof="needed" colspan="2">
-                          <p>a.	This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</p>
-                          <p>b.	TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</p>
+                          <p>a. This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</p>
+                          <p>b. TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</p>
                         </td>
                       </tr>
                     </tbody>

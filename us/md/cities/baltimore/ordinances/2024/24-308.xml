@@ -2,18 +2,18 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-308" codify:doc="City of Baltimore, Md., Code">
   <num type="law">24-308</num>
   <num type="bill">22-0195</num>
-  <heading type="short">City Employees and Retirees – Healthcare Reform</heading>
-  <heading type="long">An Ordinance Concerning City Employees and Retirees – Healthcare Reform</heading>
+  <heading type="short">Inclusionary Housing for Baltimore City</heading>
+  <heading type="long">An Ordinance Concerning Inclusionary Housing for Baltimore City</heading>
   <meta>
-    <introduced>2022-03-21</introduced>
-    <effective>2024-09-15</effective>
+    <introduced>2022-02-07</introduced>
+    <effective>2024-07-20</effective>
     <citations>
-      <citation type="law" url="https://baltimore.legistar1.com/baltimore/attachments/91828f44-d1f9-4a83-b03d-43723e6dd3ee.pdf">Ord. 24-308</citation>
+      <citation type="ord" url="https://baltimore.legistar1.com/baltimore/attachments/91828f44-d1f9-4a83-b03d-43723e6dd3ee.pdf">Ord. 24-308</citation>
     </citations>
     <history>
-      <vote date="2022-03-21" reading="first"/>
-      <vote date="2022-07-25" reading="second"/>
-      <enacted>2024-03-19</enacted>
+      <vote date="2022-02-07" reading="first"/>
+      <vote date="2023-11-20" reading="second"/>
+      <enacted>2024-01-22</enacted>
       <committee>Favorable</committee>
     </history>
   </meta>
