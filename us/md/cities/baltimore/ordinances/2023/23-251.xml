@@ -42,6 +42,7 @@
   </codify:insert>
   <codify:replace doc="City of Baltimore, Md., Code" path="|4|3|3-1">
     <section>
+      <prefix>§</prefix>
       <num>3-1</num>
       <heading>Employment</heading>
       <text>Except where a particular occupation or position reasonably requires, as an essential qualification, the employment of a person or persons of  a particular race, color, religion, national origin, ancestry, sex, age, marital status, physical or mental capability, sexual orientation,  gender identity or expression, or HIV or AIDS status and that qualification is not adopted as a means of circumventing the purpose of this article, it is an unlawful employment practice:</text>
@@ -93,6 +94,7 @@
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="|4|3|3-2">
     <section>
+      <prefix>§</prefix>
       <num>3-2</num>
       <heading>Public accommodations</heading>
       <text>It is an unlawful practice for any person, including any owner, lessee, proprietor, superintendent, manager, agent, or employee of a place of public accommodation, resort, or amusement to:</text>
@@ -124,6 +126,7 @@
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="|4|3|3-3">
     <section>
+      <prefix>§</prefix>
       <num>3-3</num>
       <heading>Education</heading>
       <para>
@@ -185,6 +188,7 @@
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="|4|3|3-4">
     <section>
+      <prefix>§</prefix>
       <num>3-4</num>
       <heading>Health and welfare agencies</heading>
       <para>
@@ -295,6 +299,7 @@
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="|4|3|3-5">
     <section>
+      <prefix>§</prefix>
       <num>3-5</num>
       <heading>Housing</heading>
       <para>

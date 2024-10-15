@@ -2,8 +2,8 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-360">
   <num type="law">24-360</num>
   <num type="bill">23-0447</num>
-  <heading type="short">Landmark List: Exteriors B 3110 Elm Avenue The Bookbindery</heading>
-  <heading type="long">An Ordinance Concerning Landmark List: Exteriors B 3110 Elm Avenue The Bookbindery</heading>
+  <heading type="short">Landmark List: Exteriors - 3110 Elm Avenue The Bookbindery</heading>
+  <heading type="long">An Ordinance Concerning Landmark List: Exteriors - 3110 Elm Avenue The Bookbindery</heading>
   <meta>
     <introduced>2023-10-30</introduced>
     <effective>2024-10-16</effective>
@@ -17,19 +17,12 @@
       <committee>Favorable, as amended</committee>
     </history>
   </meta>
-  <!-- <codify:replace>
-    <container>
-      <prefix>Article</prefix>
-      <num>6</num>
-      <heading>Historical and Architectural Preservation</heading>
-      <container>
-        <prefix>Subtitle</prefix>
-        <num>18A</num>
-        <heading>Landmark List: Exteriors B 2020s</heading>
-        <section>
-          <num>18A-8</num>
-        </section>
-      </container>
-    </container>
-  </codify:replace> -->
+  <codify:insert doc="City of Baltimore, Md., Code" path="6|18A">
+    <section>
+      <prefix>§</prefix>
+      <num>18A-8</num>
+      <heading>The Bookbindery</heading>
+      <text>The Bookbindery, 3110 Elm Avenue (Block 3504B, Lot 006).</text>
+    </section>
+  </codify:insert>
 </document>

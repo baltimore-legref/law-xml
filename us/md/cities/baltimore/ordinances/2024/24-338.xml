@@ -2,8 +2,8 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-338">
   <num type="law">24-338</num>
   <num type="bill">23-0427</num>
-  <heading type="short">Baltimore Police Department B Trauma-Informed Care Training</heading>
-  <heading type="long">An Ordinance Concerning Baltimore Police Department B Trauma-Informed Care Training</heading>
+  <heading type="short">Baltimore Police Department - Trauma-Informed Care Training</heading>
+  <heading type="long">An Ordinance Concerning Baltimore Police Department - Trauma-Informed Care Training</heading>
   <meta>
     <introduced>2023-09-19</introduced>
     <effective>2024-07-03</effective>
@@ -17,98 +17,73 @@
       <committee>Favorable</committee>
     </history>
   </meta>
-  <!-- <codify:replace>
-    <container>
-      <prefix>Article</prefix>
-      <num>1</num>
-      <heading>Mayor, City Council, and Municipal Agencies</heading>
-      <container>
-        <prefix>Subtitle</prefix>
-        <num>22</num>
-        <heading>Children, Youth, and Families</heading>
-        <container>
-          <prefix>Part</prefix>
-          <num>IV</num>
-          <heading>Trauma-informed Care; Trauma-Responsiveness</heading>
-          <section>
-            <num>22-21</num>
-            <heading>Trauma-informed care training</heading>
-            <para>
-              <num>(a)</num>
-              <text>
-                <em>Definitions.</em>
-              </text>
-              <para>
-                <num>(2)</num>
-                <text>
-                  <em>Agency.</em>
-                </text>
-                <text class="text-indent-2">AAgency@ means:</text>
-                <para>
-                  <num>(i)</num>
-                  <text>the Baltimore City Fire Department;</text>
-                </para>
-                <para>
-                  <num>(ii)</num>
-                  <text>the Baltimore City Parking Authority;</text>
-                </para>
-                <para>
-                  <num>(iii)</num>
-                  <text>the Baltimore Police Department;</text>
-                  <para>
-                    <num>(iv)</num>
-                    <text>the Department of Finance;</text>
-                  </para>
-                  <para>
-                    <num>(v)</num>
-                    <text>the Department of Law;</text>
-                  </para>
-                  <para>
-                    <num>(vi)</num>
-                    <text>[(v)</text>
-                  </para>
-                  <para>
-                    <num>(vii)</num>
-                    <text>[  the Department of Planning;</text>
-                  </para>
-                  <para>
-                    <num>(viii)</num>
-                    <text>[(vii)</text>
-                  </para>
-                  <para>
-                    <num>(ix)</num>
-                    <text>[  the Department of Recreation and Parks;</text>
-                  </para>
-                  <para>
-                    <num>(x)</num>
-                    <text>[(ix)</text>
-                  </para>
-                  <para>
-                    <num>(xi)</num>
-                    <text>[  the Environmental Control Board;</text>
-                  </para>
-                  <para>
-                    <num>(xii)</num>
-                    <text>[(xi)</text>
-                  </para>
-                  <para>
-                    <num>(xiii)</num>
-                    <text>[  the Mayor=s Office of Criminal Justice;</text>
-                  </para>
-                  <para>
-                    <num>(xiv)</num>
-                    <text>[(xiii)</text>
-                  </para>
-                  <para>
-                    <num>(xv)</num>
-                    <text>[  the Mayor=s Office of Homeless Services.</text>
-                  </para>
-                </para>
-              </para>
-            </para>
-          </section>
-        </container>
-      </container>
-    </container>
-  </codify:replace> -->
+  <codify:replace doc="City of Baltimore, Md., Code" path="1|§22-21|(a)|(2)">
+    <para>
+      <num>(2)</num>
+      <text>
+        <em>Agency.</em>
+      </text>
+      <text>"Agency" means:</text>
+      <para>
+        <num>(i)</num>
+        <text>the Baltimore City Fire Department;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>the Baltimore City Parking Authority;</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>the Baltimore Police Department;</text>
+      </para>
+      <para>
+        <num>(iv)</num>
+        <text>the Department of Finance;</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>the Department of Law;</text>
+      </para>
+      <para>
+        <num>(vi)</num>
+        <text>the Department of Housing and Community Development;</text>
+      </para>
+      <para>
+        <num>(vii)</num>
+        <text>the Department of Planning;</text>
+      </para>
+      <para>
+        <num>(viii)</num>
+        <text>the Department of Public Works;</text>
+      </para>
+      <para>
+        <num>(ix)</num>
+        <text>the Department of Recreation and Parks;</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>the Department of Transportation;</text>
+      </para>
+      <para>
+        <num>(xi)</num>
+        <text>the Environmental Control Board;</text>
+      </para>
+      <para>
+        <num>(xii)</num>
+        <text>the Enoch Pratt Free Library of Baltimore City;</text>
+      </para>
+      <para>
+        <num>(xiii)</num>
+        <text>the Mayors Office of Criminal Justice;</text>
+      </para>
+      <para>
+        <num>(xiv)</num>
+        <text>the Mayor's Office of Employment Development; and</text>
+      </para>
+      <para>
+        <num>(xv)</num>
+        <text>the Mayor's Office of Homeless Services.</text>
+      </para>
+    </para>
+  </codify:replace>
 </document>
