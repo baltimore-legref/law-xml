@@ -27,6 +27,7 @@
         <num>1</num>
         <heading>General Provisions; Definitions</heading>
         <section>
+          <prefix>§</prefix>
           <num>1-1</num>
           <heading>Definitions</heading>
           <para>
@@ -78,6 +79,7 @@
           </para>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-2</num>
           <heading>Rules and regulations</heading>
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner shall:</text>
@@ -113,6 +115,7 @@
           </para>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>1-3</num>
           <heading>Records</heading>
           <text>Subject to Subtitle 10 {"Records Management"} of Article 1 of the City Code, the Police Commissioner shall:</text>
@@ -147,11 +150,13 @@
         <num>2</num>
         <heading>Police Department</heading>
         <section>
+          <prefix>§</prefix>
           <num>2-1</num>
           <heading>Required percentage of civilian employees</heading>
           <text>At lest 20 percent of the Department shall be civilian employees.</text>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>2-2</num>
           <heading>Redistricting</heading>
           <para>
@@ -201,6 +206,7 @@
         <num>3</num>
         <heading>Police Officers</heading>
         <section>
+          <prefix>§</prefix>
           <num>3-1</num>
           <heading>Definitions</heading>
           <para>
@@ -297,6 +303,7 @@
           </para>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-2</num>
           <heading>Labor relations; collective bargaining</heading>
           <para>
@@ -630,6 +637,7 @@
           </para>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-3</num>
           <heading>Police officers – Qualifications, appointment, promotion, probation</heading>
           <para>

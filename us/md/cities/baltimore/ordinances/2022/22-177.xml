@@ -19,6 +19,7 @@
   </meta>
   <codify:replace doc="City of Baltimore, Md., Code" path="|14|9|9-4">
     <section>
+      <prefix>§</prefix>
       <num>9-4</num>
       <heading>Powers and functions of Authority</heading>
       <para>
@@ -94,6 +95,7 @@
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="|14|9|9-5">
     <section>
+      <prefix>§</prefix>
       <num>9-5</num>
       <heading>Limitations on Authority</heading>
       <para>
@@ -171,6 +173,7 @@
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="|14|9|9-6">
     <section>
+      <prefix>§</prefix>
       <num>9-6</num>
       <heading>Board of Directors</heading>
       <para>
