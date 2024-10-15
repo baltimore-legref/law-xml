@@ -60,6 +60,7 @@
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="|31|10|VI|10-39">
     <section>
+      <prefix>§</prefix>
       <num>10-39</num>
       <heading>Brunt Street Area</heading>
       <para>

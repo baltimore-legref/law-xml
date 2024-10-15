@@ -31,6 +31,7 @@
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-5">
     <section>
+      <prefix>§</prefix>
       <num>28-5</num>
       <heading>Automatic termination</heading>
       <text>This subtitle automatically expires on June 30, 2028, unless the City Council, after causing an appropriate study to be undertaken, conducting public hearings, and hearing testimonial evidence, find that the purposes identified in this subtitle have not yet been achieved, in which case this subtitle may be extended for 5 more years.</text>
