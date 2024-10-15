@@ -23,6 +23,7 @@
       <num>10</num>
       <heading>Tobacco Product Use in Stadiums</heading>
       <section>
+        <prefix>§</prefix>
         <num>12-1001</num>
         <heading>Definitions</heading>
         <para>
@@ -213,11 +214,13 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-1002</num>
         <heading>Use prohibition - Stadiums</heading>
         <text>Use of a tobacco product in any manner is prohibited in any stadium.</text>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-1003</num>
         <heading>Enforcement by citation</heading>
         <para>
@@ -242,6 +245,7 @@
         </para>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>12-1004</num>
         <heading>Civil penalties: $500</heading>
         <text>Any person who violates any provision of this subtitle is subject to a civil fine of not more than $500 for each violation.</text>
