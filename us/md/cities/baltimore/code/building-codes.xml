@@ -1894,12 +1894,12 @@
                 <table class="layout-table">
                   <tbody>
                     <tr>
-                      <td class="text-indent-1">a. 1- and 2-family dwellings</td>
-                      <td>$50</td>
+                      <td><p class="text-indent-5"><span class="level-num">a.</span> 1- and 2-family dwellings</p></td>
+                      <td><p>$50</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">b. All others</td>
-                      <td>$75</td>
+                      <td><p class="text-indent-5"><span class="level-num">b.</span> All others</p></td>
+                      <td><p>$75</p></td>
                     </tr>
                   </tbody>
                 </table>
@@ -1912,27 +1912,27 @@
                 <table class="layout-table">
                   <tbody>
                     <tr>
-                      <td class="text-indent-1">a. 1- and 2-family dwellings</td>
-                      <td>$25</td>
+                      <td><p class="text-indent-5"><span class="level-num">a.</span> 1- and 2-family dwellings</p></td>
+                      <td><p>$25</p></td>
                     </tr>
                     <tr>
-                      <td colspan="2" class="text-indent-1">b. All others</td>
+                      <td colspan="2"><p class="text-indent-5"><span class="level-num">b.</span> All others</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-2">0 to 500 sq. ft.</td>
-                      <td>$75</td>
+                      <td class="text-indent-6">0 to 500 sq. ft.</td>
+                      <td><p>$75</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-2">Over 500 sq. ft. to 1,000 sq. ft.</td>
-                      <td>$150</td>
+                      <td class="text-indent-6">Over 500 sq. ft. to 1,000 sq. ft.</td>
+                      <td><p>$150</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-2">Over 1,000 sq. ft. to 5,000 sq. ft.</td>
-                      <td>$250</td>
+                      <td class="text-indent-6">Over 1,000 sq. ft. to 5,000 sq. ft.</td>
+                      <td><p>$250</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-2">Over 5,000 sq. ft.</td>
-                      <td>$500</td>
+                      <td class="text-indent-6">Over 5,000 sq. ft.</td>
+                      <td><p>$500</p></td>
                     </tr>
                   </tbody>
                 </table>
@@ -1964,12 +1964,12 @@
                 <table class="layout-table">
                   <tbody>
                     <tr>
-                      <td class="text-indent-1">a. 1- and 2-family dwellings</td>
-                      <td>$25</td>
+                      <td><p class="text-indent-2"><span class="level-num">a.</span> 1- and 2-family dwellings</p></td>
+                      <td><p>$25</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">b. All others</td>
-                      <td>$50</td>
+                      <td><p class="text-indent-2"><span class="level-num">b.</span> All others</p></td>
+                      <td><p>$50</p></td>
                     </tr>
                   </tbody>
                 </table>
@@ -1979,15 +1979,15 @@
               <num>2.</num>
               <text>For applications that require the submission of construction documents for plan review:</text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
-                      <td class="text-indent-1">a. 1- and 2-family dwellings</td>
-                      <td>$125</td>
+                      <td><p class="text-indent-2"><span class="level-num">a.</span> 1- and 2-family dwellings</p></td>
+                      <td><p>$125</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">b. All others</td>
-                      <td>$150</td>
+                      <td><p class="text-indent-2"><span class="level-num">b.</span> All others</p></td>
+                      <td><p>$150</p></td>
                     </tr>
                   </tbody>
                 </table>
@@ -2097,18 +2097,17 @@
                 </text>
                 <text>$10 for each 1,000 cubic feet (28.31 cu. m.) or fraction of 1,000 cubic feet (28.31 cu. m.) of gross volume, including all basements and cellars.</text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
-                        <td>Minimums –</td>
-                        <td proof="needed"/>
+                        <td colspan="2">Minimums –</td>
                       </tr>
                       <tr>
-                        <td class="text-indent-1">New building</td>
+                        <td>New building</td>
                         <td>$150</td>
                       </tr>
                       <tr>
-                        <td class="text-indent-1">Additions</td>
+                        <td>Additions</td>
                         <td>$75</td>
                       </tr>
                     </tbody>
@@ -2123,18 +2122,17 @@
               </para>
               <text>$20 for each 1,000 cubic feet (28.31 cu. m.) or fraction of 1,000 cubic feet (28.31 cu. m.) of adjusted gross volume, including all basements and cellars. For this calculation, the gross volume of the building is adjusted to exclude, for each story of the building, the volume attributable to any area of that story that is more than 20 feet (6.10 m) above the floor.</text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
-                      <td>Minimums –</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Minimums –</td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">New building</td>
+                      <td>New building</td>
                       <td>$250</td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">Additions</td>
+                      <td>Additions</td>
                       <td>$150</td>
                     </tr>
                   </tbody>
@@ -2145,7 +2143,7 @@
               <num>b.</num>
               <heading>Structures accessory to a principal occupancy.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>Each structure of 100 square feet (9.29 sq. m.) or less of gross floor area</td>
@@ -2169,7 +2167,7 @@
                 </text>
                 <text>$0.30 per square foot  or fraction of a square foot of affected gross floor area</text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>Minimum</td>
@@ -2189,7 +2187,7 @@
                 </text>
                 <text>$0.35 per square foot  or fraction of a square foot of affected gross floor area</text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>Minimum</td>
@@ -2210,18 +2208,17 @@
               <heading>Interior only demolition.</heading>
               <text>$0.02 per square foot  or fraction of a square foot of affected gross floor area</text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
-                      <td>Minimums –</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Minimums –</td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">1- and 2-family dwellings</td>
+                      <td>1- and 2-family dwellings</td>
                       <td>$25</td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">All others</td>
+                      <td>All others</td>
                       <td>$100</td>
                     </tr>
                   </tbody>
@@ -2232,7 +2229,7 @@
               <num>e.</num>
               <heading>Chimneys, stacks, towers.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>0 to 50 feet (15.24 m) high</td>
@@ -2264,7 +2261,7 @@
               <num>h.</num>
               <heading>Grading (excavating or filling).</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>0 to 5,000 cu. yd. (3822.77 cu. m.)</td>
@@ -2286,7 +2283,7 @@
               <num>i.</num>
               <heading>Paving or surfacing.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>0 to 1,000 sq. ft. (92.90 sq. m.)</td>
@@ -2312,7 +2309,7 @@
               <num>j.</num>
               <heading>Erecting, placing, hanging, or reconstructing signs.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>0 to 10 sq. ft. (0.929 sq. m.)</td>
@@ -2349,7 +2346,7 @@
               <num>l.</num>
               <heading>Demolition (other than interior only).</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>1- and 2-family dwellings</td>
@@ -2384,7 +2381,7 @@
               <heading>Temporary structures.</heading>
               <text>For each temporary structure, the fee is $20 a year for each 500 square feet or fraction of 500 square feet of gross floor area.</text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>Minimum</td>
@@ -2407,7 +2404,7 @@
               <num>o.</num>
               <heading>Swimming pools.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>1- and 2-family dwellings</td>
@@ -2427,7 +2424,7 @@
                 <strong>Occupancy permit (including any accompanying use permit issued under  Zoning Code).</strong>
               </text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>For each use in each building or part of a building</td>
@@ -2460,7 +2457,7 @@
                   <strong>Rating in Amperes</strong>
                 </text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>0 to 100</td>
@@ -2501,7 +2498,7 @@
                   <strong>Installing conduits and duct banks only</strong>
                 </text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>Over 0 to 200 feet</td>
@@ -2525,7 +2522,7 @@
                   <strong>Sub feeders for additional meters only</strong>
                 </text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>0 to 200 amperes</td>
@@ -2561,7 +2558,7 @@
                   <strong>Photovoltaic system</strong>
                 </text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>1 to 25 photovoltaic panels</td>
@@ -2580,7 +2577,7 @@
               <num>b.</num>
               <heading>Electrical wiring for new branch circuits, feeders, and extensions to or replacements of branch circuits.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>For each circuit</td>
@@ -2598,7 +2595,7 @@
             </para>
             <text>For installing electrical fixtures or devices only:</text>
             <text>
-              <table class="layout-table">
+              <table>
                 <tbody>
                   <tr>
                     <td>1 to 25 fixtures</td>
@@ -3181,11 +3178,10 @@
               <num>k.</num>
               <heading>Installing elevators, escalators, etc.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
-                      <td>Installation per unit:</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Installation per unit:</td>
                     </tr>
                     <tr>
                       <td class="text-indent-1">Passenger, power freight, and parking elevators</td>
@@ -3420,8 +3416,7 @@
                       <td>$50 each</td>
                     </tr>
                     <tr>
-                      <td>Roof signs</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Roof signs</td>
                     </tr>
                     <tr>
                       <td class="text-indent-1">100 sq. ft. (9.29 sq. m.) to 500 sq. ft. (46.45 sq. m.)</td>
@@ -6840,8 +6835,7 @@
                 <table>
                   <tbody>
                     <tr>
-                      <td>Front</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Front</td>
                     </tr>
                     <tr>
                       <td class="text-indent-1">Flat Roof –</td>
