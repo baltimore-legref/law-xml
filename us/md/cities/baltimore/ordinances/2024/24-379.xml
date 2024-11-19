@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-379">
+  <num type="law">24-379</num>
+  <num type="bill">23-0532</num>
+  <heading type="short">Fire and Police Employees' Retirement System - Benefits Enhancements</heading>
+  <heading type="long">An Ordinance Concerning Fire and Police Employees' Retirement System - Benefits Enhancements</heading>
+  <meta>
+    <introduced>2024-05-16</introduced>
+    <effective>2026-01-01</effective>
+    <citations>
+      <citation type="law" url="https://baltimore.legistar1.com/baltimore/attachments/060fb31b-45b7-4ddb-a76f-03f4f5560872.pdf">Ord. 24-379</citation>
+    </citations>
+    <history>
+      <vote date="2024-05-16" reading="first"/>
+      <vote date="2024-08-26" reading="second"/>
+      <enacted>2024-10-21</enacted>
+      <committee>Favorable</committee>
+    </history>
+  </meta>
+  <codify:insert doc="City of Baltimore, Md., Code" path="22|§30|(11)">
+      <para>
+        <num>(11)</num>
+        <para>
+          <num>(a)</num>
+          <text>"Average final compensation" means the member's average annual earnable compensation for the 24 consecutive months of service as an employee during which his or her earnable compensation was highest or, if he or she had less than 24 consecutive months of service, then the average annual earnable compensation during his or her total years of service.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Earnable compensation" means the annual salary authorized for the member.  It does not include overtime pay, differential pay, out-of-title pay, environmental pay, hazardous duty pay, pay for conversion of leave or other fringe benefits, or any like additional payments.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For members who retired on or after July 1, 1986, and before July 1, 1988, "average final compensation" means the average annual compensation, pay, or salary earnable by a member for the 2 consecutive years of service as an employee during which his or her earnable compensation was highest, if the member had at least 2 years of service in that grade, or if he or she had less than 2 years of service, then the average annual compensation, pay, or salary earnable by him or her during his or her actual year(s) of service.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>For members who:</text>
+          <para>
+            <num>(i)</num>
+            <text>retired on or after July 1, 1988, and on or before June 30, 2010, or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>retire on or after July 1, 2010, and who, as of June 30, 2010, meet the applicable age and service requirements for a normal service retirement under § 34(a-1)(1) or have acquired 15 or more years of service,</text>
+            <text>"average final compensation" means the average annual earnable compensation for the 18 consecutive months of service as an employee during which his or her earnable compensation was highest.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In no event may the retirement benefits of a member retired under § 30(11)(d)(ii) as a result of the application of the definition of "average final compensation", effective July 1, 2010, be less than the benefit the member would have been entitled to prior to July 1, 2010.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>For members who</text>
+          <para>
+            <num>(i)</num>
+            <text>retired on or after July 1, 2010, and on or before June 30, 2025, and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>do not meet the eligibility requirements of § 30(11)(d)(ii)</text>
+          </para>
+          <text>"average final compensation" means the average annual earnable compensation for the 36 consecutive months of service as an employee during which the member's earnable compensation was highest.</text>
+        </para>
+      </para>
+  </codify:insert>
+</document>
