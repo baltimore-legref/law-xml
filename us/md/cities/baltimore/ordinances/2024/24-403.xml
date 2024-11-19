@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-403">
+  <num type="law">24-403</num>
+  <num type="bill">23-0357</num>
+  <heading type="short">Strengthening Renters' Safety Act</heading>
+  <heading type="long">An Ordinance Concerning Strengthening Renters' Safety Act</heading>
+  <meta>
+    <introduced>2023-02-27</introduced>
+    <effective>2026-01-01</effective>
+    <citations>
+      <citation type="law" url="https://baltimore.legistar1.com/baltimore/attachments/7ac6a376-7f5a-4d17-b629-d95d912a0f51.pdf">Ord. 24-403</citation>
+    </citations>
+    <history>
+      <vote date="2023-02-27" reading="first"/>
+      <vote date="2024-08-26" reading="second"/>
+      <enacted>2024-10-21</enacted>
+      <committee>Favorable, with amendments</committee>
+    </history>
+  </meta>
+</document>
