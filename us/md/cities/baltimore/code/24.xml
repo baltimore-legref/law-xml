@@ -746,7 +746,7 @@
           <text>I = the recipient's estimated annual household income.</text>
           <text>A = affordability threshold, as follows:</text>
           <para>
-            <num>(i)</num>
+            <num proof="done">(i)</num>
             <text>if the recipient's annual household income is 50% or less than the federal government's official poverty income guidelines, A equals 1%;</text>
           </para>
           <para>

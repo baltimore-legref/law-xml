@@ -1312,9 +1312,9 @@
           <annotation type="Editor's Notes">
             <text>State Tax-Property Art. § 14-801(d), as re-enacted by Chapter 276, 2019 Laws of Maryland, reads as follows</text>
             <para>
-              <num>(d)</num>
+              <num proof="done">(d)</num>
               <para>
-                <num>(1)</num>
+                <num proof="done">(1)</num>
                 <text>"Tax" means any tax, or charge of any kind due to the State or any of its political subdivisions, or to any other taxing agency, that by law is a lien against the real property on which it is imposed or assessed.</text>
               </para>
               <para>
@@ -2655,7 +2655,7 @@
         </para>
         <para name="(l)">
           <num>(l)</num>
-          <reason>Repealed by Ord. 22-166.; subsection titled: “Termination of program”</reason>
+          <reason>Repealed by Ord. 22-166.; subsection titled: "Termination of program"</reason>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 14-303" type="History">Ord. 14-303</annotation>
@@ -3682,7 +3682,7 @@
             <text>"Brownfields Incentive Fund" means the Brownfields Revitalization Incentive Fund established under Article 83A, § 3-904 of the Maryland Code.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num proof="done">(2)</num>
             <text>"Brownfields Incentive Program" means the Brownfields Revitalization Incentive Program established under Article 83A, Title 3, Subtitle 9 of the Maryland Code.</text>
           </para>
           <para>
@@ -4544,10 +4544,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <para>
-              <num>W.</num>
-              <text>Cold Spring Lane Area, within Census Tract 130806, Census Blocks 1002-1004 and 1006;</text>
-            </para>
+            <text>W. Cold Spring Lane Area, within Census Tract 130806, Census Blocks 1002-1004 and 1006;</text>
           </para>
           <para>
             <num>(5)</num>
@@ -7974,7 +7971,7 @@
               <text>any distributor engaged in casual retail sales of beverages;</text>
             </para>
             <para>
-              <num>(ii)</num>
+              <num proof="done">(ii)</num>
               <text>any operator of a vending machine from which beverages are sold; and</text>
             </para>
             <para>

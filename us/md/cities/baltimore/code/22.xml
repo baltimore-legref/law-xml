@@ -490,7 +490,7 @@
         </para>
       </para>
       <para name="(e)-(f)">
-        <num>(e) - (f)</num>
+        <num from="(e)" to="(f)">(e) - (f)</num>
         <reason>Vacant</reason>
       </para>
       <para>
@@ -966,6 +966,7 @@
             </para>
             <para>
               <num>3.</num>
+              <text>XXXXXX</text>
               <para>
                 <num>A.</num>
                 <text>Notwithstanding City Code Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}, no Trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
@@ -2574,7 +2575,7 @@
         </para>
       </para>
       <para name="(l)-(m)">
-        <num>(l) - (m)</num>
+        <num from="(l)" to="(m)">(l) - (m)</num>
         <reason>Vacant</reason>
       </para>
       <para>
@@ -2733,6 +2734,7 @@
           <heading>Sudan investments.</heading>
           <para>
             <num>(i)</num>
+            <text>XXXXXXX</text>
             <para>
               <num>1.</num>
               <text>In this paragraph (1), the following words have the meanings indicated.</text>
@@ -2751,6 +2753,7 @@
             </para>
             <para>
               <num>5.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>A.</num>
                 <text>"Sudan" means the government in Khartoum, Sudan, that is led by the National Congress Party (formerly known as the National Islamic Front) or any successor government formed on or after October 13, 2006, including the coalition National Unity Government agreed on in the Comprehensive Peace Agreement for Sudan.</text>
@@ -2762,6 +2765,7 @@
             </para>
             <para>
               <num>6.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>A.</num>
                 <text>"Actively managed separate account" means the accounts of the System that are actively managed at the direction of the Board of Trustees and held in separate accounts.</text>
@@ -2905,6 +2909,7 @@
             </para>
             <para>
               <num>2.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>A.</num>
                 <text>"Actively managed separate account" means assets of the System that are actively managed at the direction of the Board of Trustees and held in a separate account.</text>
@@ -4022,7 +4027,7 @@
         </para>
       </para>
       <para name="(g)-(h)">
-        <num>(g) - (h)</num>
+        <num from="(g)" to="(h)">(g) - (h)</num>
         <reason>Vacant</reason>
       </para>
       <para>
@@ -5899,6 +5904,7 @@
             </para>
             <para>
               <num>(iii)</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>1.</num>
                 <text>A portion of a distribution does not fail to be an "eligible rollover distribution" merely because the portion consists of after-tax employee contributions that are not includible in gross income.</text>
@@ -10985,6 +10991,7 @@
             </para>
             <para>
               <num>(C)</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>1.</num>
                 <text>A portion of a distribution does not fail to be an "eligible rollover distribution" merely because the portion consists of after-tax employee contributions that are not includible in gross income.</text>
@@ -11335,7 +11342,10 @@
         <num>(2)</num>
         <para>
           <num>(a)</num>
-          <text>(1)	"Employee" means any officer or employee of the Police Department or Fire Department of Baltimore City, except as otherwise provided in this definition, whose compensation is paid by the Mayor and City Council of Baltimore, by whatever authority appointed.</text>
+          <para>
+            <num>(1)</num>
+            <text>"Employee" means any officer or employee of the Police Department or Fire Department of Baltimore City, except as otherwise provided in this definition, whose compensation is paid by the Mayor and City Council of Baltimore, by whatever authority appointed.</text>
+          </para>
           <para>
             <num>(2)</num>
             <text>"Employee" does not include any officer or employee of these departments for whose benefit the Mayor and City Council of Baltimore makes contributions under the Social Security Act of 1935.</text>
@@ -11846,7 +11856,7 @@
         </para>
       </para>
       <para name="(g)-(j)">
-        <num>(g) - (j)</num>
+        <num from="(g)" to="(j)">(g) - (j)</num>
         <reason>Repealed by Ord. 19-254</reason>
       </para>
       <para>
@@ -12025,7 +12035,7 @@
         </para>
       </para>
       <para name="(l)-(m)">
-        <num>(l) - (m)</num>
+        <num from="(l)" to="(m)">(l) - (m)</num>
         <reason>Repealed by Ord. 19-254</reason>
       </para>
       <annotations>
@@ -12150,6 +12160,7 @@
             </para>
             <para>
               <num>3.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>A.</num>
                 <text>Notwithstanding City Code Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}, no Trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
@@ -12591,6 +12602,7 @@
             </para>
             <para>
               <num>(B)</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>1.</num>
                 <text>attained age 55; and</text>
@@ -12987,12 +12999,13 @@
             <num>(ii)</num>
             <text>a pension, in addition to the annuity, of 66.667% of the member's average final compensation.</text>
           </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>XXXXXXX</text>
           <para>
-            <num>(2)</num>
-            <para>
-              <num>(i)</num>
-              <text>For purposes of computing the pension payable to the member, if the last injury that caused or contributed to the disability occurred while the member was assigned to duties in a higher classification than his or her regular classification, the member's average final compensation shall be based on the maximum rate of pay earnable for the 18 months immediately preceding the injury in the classification in which she or he was performing duties at the time of the injury causing the disability if that computation is higher than the "average final compensation" computed in accordance with the definition of that term in § 30 of this subtitle.</text>
-            </para>
+            <num>(i)</num>
+            <text>For purposes of computing the pension payable to the member, if the last injury that caused or contributed to the disability occurred while the member was assigned to duties in a higher classification than his or her regular classification, the member's average final compensation shall be based on the maximum rate of pay earnable for the 18 months immediately preceding the injury in the classification in which she or he was performing duties at the time of the injury causing the disability if that computation is higher than the "average final compensation" computed in accordance with the definition of that term in § 30 of this subtitle.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -14068,6 +14081,7 @@
             </para>
             <para>
               <num>(iii)</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>1.</num>
                 <text>A portion of a distribution does not fail to be an "eligible rollover distribution" merely because the portion consists of after-tax employee contributions that are not includible in gross income.</text>
@@ -14315,6 +14329,7 @@
           <heading>Sudan investments.</heading>
           <para>
             <num>(i)</num>
+            <text>XXXXXXX</text>
             <para>
               <num>1.</num>
               <text>In this paragraph (1), the following words have the meanings indicated.</text>
@@ -14333,6 +14348,7 @@
             </para>
             <para>
               <num>5.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>A.</num>
                 <text>"Sudan" means the government in Khartoum, Sudan, that is led by the National Congress Party (formerly known as the National Islamic Front) or any successor government formed on or after October 13, 2006, including the coalition National Unity Government agreed on in the Comprehensive Peace Agreement for Sudan.</text>
@@ -14344,6 +14360,7 @@
             </para>
             <para>
               <num>6.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>A.</num>
                 <text>"Actively managed separate account" means the accounts of the System that are actively managed at the direction of the Board of Trustees and held in separate accounts.</text>
@@ -14524,6 +14541,7 @@
           </para>
           <para>
             <num>(iii)</num>
+            <text>XXXXXXX</text>
             <para>
               <num>1.</num>
               <text>Notwithstanding the provisions of § 35(a)(2)(i) with respect to corporations doing business in Northern Ireland, the Board of Trustees shall, consistent with sound investment policy, make investments in such a manner as to encourage corporations that, in the Board's determination, pursue a policy of affirmative action in Northern Ireland.</text>
@@ -14550,6 +14568,7 @@
             </para>
             <para>
               <num>2.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>A.</num>
                 <text>"Actively managed separate account" means assets of the System that are actively managed at the direction of the Board of Trustees and held in a separate account.</text>
@@ -16095,27 +16114,33 @@
       <para>
         <num>(c)</num>
         <heading>Eligibility and application.</heading>
-        <text>(1-a) Notwithstanding § 30(6) of this subtitle, the service credit requirements for DROP 2 eligibility on or before June 30, 2010, are as follows:</text>
         <para>
-          <num>(A)</num>
-          <text>To be eligible, a member of this System as of July 1, 2003, must acquire 20 or more years of service.</text>
+          <num>(1a)</num>
+          <text>Notwithstanding § 30(6) of this subtitle, the service credit requirements for DROP 2 eligibility on or before June 30, 2010, are as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>To be eligible, a member of this System as of July 1, 2003, must acquire 20 or more years of service.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>To be eligible, an employee who becomes a member of this System after July 1, 2003 and on or before December 31, 2009, must acquire 20 or more years of service, 10 or more of which must be years of service as a contributing member of this System.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>To be eligible, an employee who becomes a member of this System on or after January 1, 2010, must acquire 20 or more years of service as a contributing member of this System.</text>
+          </para>
         </para>
         <para>
-          <num>(B)</num>
-          <text>To be eligible, an employee who becomes a member of this System after July 1, 2003 and on or before December 31, 2009, must acquire 20 or more years of service, 10 or more of which must be years of service as a contributing member of this System.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>To be eligible, an employee who becomes a member of this System on or after January 1, 2010, must acquire 20 or more years of service as a contributing member of this System.</text>
-        </para>
-        <text>(1-b) Notwithstanding § 30(6) of this subtitle, the service credit requirements for DROP 2 eligibility on or after July 1, 2010, are as follows:</text>
-        <para>
-          <num>(A)</num>
-          <text>To be eligible, a member of this System who as of June 30, 2010, has acquired 15 or more years of service must acquire 20 or more years of service.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>To be eligible, a member of this System who as of June 30, 2010, has not acquired 15 or more years of service must acquire 25 or more years of service as a contributing member of this System.</text>
+          <num>(1b)</num>
+          <text>Notwithstanding § 30(6) of this subtitle, the service credit requirements for DROP 2 eligibility on or after July 1, 2010, are as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>To be eligible, a member of this System who as of June 30, 2010, has acquired 15 or more years of service must acquire 20 or more years of service.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>To be eligible, a member of this System who as of June 30, 2010, has not acquired 15 or more years of service must acquire 25 or more years of service as a contributing member of this System.</text>
+          </para>
         </para>
         <para>
           <num>(2)</num>
@@ -16279,21 +16304,22 @@
         </para>
         <para>
           <num>(3)</num>
+          <text>XXXXXXX</text>
           <para>
             <num>(A)</num>
             <text>The benefits credited to the DROP 2 account are as follows:</text>
-          </para>
-          <para>
-            <num>(i)</num>
-            <text>for each full 12-month period ending June 30 during a member's DROP 2 participation period, an amount equal to the annual service retirement allowance that the member would have received under § 34(b)(4) of this subtitle had the member retired from service and began receiving the maximum service retirement allowance under the provisions of this section and this subtitle on the member's DROP 2 start date, plus interest; plus</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>for each full month of a member's DROP 2 participation period that does not fall within item (i) of this paragraph (3)(A), an amount equal to one-twelfth of the member's annual benefit calculated in accordance with item (i), plus interest; plus</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>for each day of a month not falling within item (i) or (ii) of this paragraph (3)(A), an amount equal to one three hundred sixty-fifths of the member's annual benefit calculated in accordance with item (i), plus interest.</text>
+            <para>
+              <num>(i)</num>
+              <text>for each full 12-month period ending June 30 during a member's DROP 2 participation period, an amount equal to the annual service retirement allowance that the member would have received under § 34(b)(4) of this subtitle had the member retired from service and began receiving the maximum service retirement allowance under the provisions of this section and this subtitle on the member's DROP 2 start date, plus interest; plus</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>for each full month of a member's DROP 2 participation period that does not fall within item (i) of this paragraph (3)(A), an amount equal to one-twelfth of the member's annual benefit calculated in accordance with item (i), plus interest; plus</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>for each day of a month not falling within item (i) or (ii) of this paragraph (3)(A), an amount equal to one three hundred sixty-fifths of the member's annual benefit calculated in accordance with item (i), plus interest.</text>
+            </para>
           </para>
           <para>
             <num>(B)</num>
@@ -16497,6 +16523,7 @@
             </para>
             <para>
               <num>(iv)</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>1.</num>
                 <text>for a Police Department member, 2.0% of the member's average final compensation, calculated as of the member's date of termination from City employment covered by this System in accordance with § 30(11) of this subtitle, for each full year of service credit, prorated for partial years, up to 3½ years, earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period; or</text>
@@ -16504,17 +16531,18 @@
             </para>
             <para>
               <num>2.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>a.</num>
                 <text>for a Fire Department member:</text>
-              </para>
-              <para>
-                <num>(1)</num>
-                <text>2.0% of the member's average final compensation, calculated as of the member's date of termination from City employment covered by this System in accordance with § 30(11) of this subtitle, for each full year of service credit, prorated for partial years, up to 5 years, earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period; plus</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>a Recovery rate, subject to the limitations of subparagraph b, of 6.0% (1.5% for each of 4 years) of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each of the 4 years of service credit earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>2.0% of the member's average final compensation, calculated as of the member's date of termination from City employment covered by this System in accordance with § 30(11) of this subtitle, for each full year of service credit, prorated for partial years, up to 5 years, earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period; plus</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>a Recovery rate, subject to the limitations of subparagraph b, of 6.0% (1.5% for each of 4 years) of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each of the 4 years of service credit earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period.</text>
+                </para>
               </para>
               <para>
                 <num>b.</num>
@@ -16620,24 +16648,22 @@
             </para>
             <para>
               <num>(ii)</num>
-              <para>
-                <num>1.</num>
-                <text>for a Police Department member, 2.0% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each year of service over 20 years, prorated for partial years, but excluding from this calculation the member's employment covered by this System during the member's DROP 2 participation period; or</text>
-              </para>
+              <text>1.	for a Police Department member, 2.0% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each year of service over 20 years, prorated for partial years, but excluding from this calculation the member's employment covered by this System during the member's DROP 2 participation period; or</text>
             </para>
             <para>
               <num>2.</num>
+              <text>XXXXXXX</text>
               <para>
                 <num>a.</num>
                 <text>for a Fire Department member:</text>
-              </para>
-              <para>
-                <num>(1)</num>
-                <text>2.0% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each year of service over 20 years, prorated for partial years, but excluding from this calculation the member's employment covered by this System during the member's DROP 2 participation period; plus</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>a Recovery rate, subject to the limitations of subparagraph b, of 6.0% (1.5% for each of 4 years) of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each of the 4 years of service credit earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>2.0% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each year of service over 20 years, prorated for partial years, but excluding from this calculation the member's employment covered by this System during the member's DROP 2 participation period; plus</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>a Recovery rate, subject to the limitations of subparagraph b, of 6.0% (1.5% for each of 4 years) of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each of the 4 years of service credit earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period.</text>
+                </para>
               </para>
               <para>
                 <num>b.</num>

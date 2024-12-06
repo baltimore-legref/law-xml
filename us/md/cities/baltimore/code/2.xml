@@ -1886,7 +1886,7 @@
           <text>must contain:</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num proof="done">(i)</num>
           <text>a photograph of the scrap collector or scavenger; and</text>
         </para>
         <para>
@@ -5003,7 +5003,7 @@
         <text>In this subtitle, the following terms have the meanings indicated.</text>
       </para>
       <para name="(b)-(d)">
-        <num>(b) - (d)</num>
+        <num from="(b)" to="(d)">(b) - (d)</num>
         <reason>Repealed</reason>
       </para>
       <para>
@@ -5403,7 +5403,7 @@
           </para>
         </para>
         <para name="(g)-(i)">
-          <num>(g) - (i)</num>
+          <num from="(g)" to="(i)">(g) - (i)</num>
           <reason>Repealed</reason>
         </para>
         <para>

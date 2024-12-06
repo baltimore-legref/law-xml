@@ -1240,7 +1240,7 @@
           <text>Except as otherwise required by law, all reports made under this title are confidential and not open to public inspection.</text>
         </para>
         <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, ''205(e)(1st cl.), 206(h), 211(e)</annotation>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§205(e)(1st cl.), 206(h), 211(e)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
         </annotations>
       </section>
@@ -1996,7 +1996,7 @@
           <text>otherwise, by reason of non-cooperation or carelessness, endanger the public health.</text>
         </para>
         <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, ''192(2nd cl.), 197(2nd cl.), 212(1st par.(2nd cl.)), 215</annotation>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§192(2nd cl.), 197(2nd cl.), 212(1st par.(2nd cl.)), 215</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
         </annotations>
       </section>
@@ -4870,7 +4870,7 @@
             </para>
           </para>
           <para>
-            <num>(3)</num>
+            <num proof="done">(3)</num>
             <text>If a food contains fats, oils, or shortenings and is not required to be labeled when purchased, the food service facility must obtain and maintain documentation from the manufacturer that indicate whether the food contains vegetable shortening, margarine, or any kind of partially hydrogenated vegetable oil, or that indicates the food's trans fat content.</text>
           </para>
           <para>
@@ -5615,7 +5615,7 @@
           </para>
         </para>
         <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, '' 221(parts), 266(parts), 264(b)(2), 266(c)(parts), 267(a) , art. 23, §22(a)(7)</annotation>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§ 221(parts), 266(parts), 264(b)(2), 266(c)(parts), 267(a) , art. 23, §22(a)(7)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
         </annotations>
       </section>
@@ -5681,7 +5681,7 @@
           <text>the construction, design, operation, maintenance, and completion of landfills in the City.</text>
         </para>
         <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, ''220(b)(last cl.), 223(b), 267(d)(part), 270(a)(part)</annotation>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§220(b)(last cl.), 223(b), 267(d)(part), 270(a)(part)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
         </annotations>
       </section>
@@ -6423,7 +6423,7 @@
             </para>
           </para>
           <annotations>
-            <annotation type="Prior Codifications">City Code, 1976/83, art. 11, ''221(a)(2nd cl.), 221(1), 224</annotation>
+            <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§221(a)(2nd cl.), 221(1), 224</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           </annotations>
         </section>
@@ -9529,7 +9529,7 @@
             <text>At all other times in the Market Center Urban Renewal Area, no person may use any publicly amplified sound that contains commercial speech without a permit to do so from the Commissioner.</text>
           </para>
           <annotations>
-            <annotation type="Prior Codifications">City Code, 1976/83, art. 19, ''228, 229(b)(1st sen.)</annotation>
+            <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §§228, 229(b)(1st sen.)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           </annotations>
         </section>
@@ -9641,7 +9641,7 @@
             </para>
           </para>
           <annotations>
-            <annotation type="Prior Codifications">City Code, 1976/83, art. 19, '' 229(a)(2nd sen.), (b)(2nd sen.), (c), (d), 230(a)(1st sen.)</annotation>
+            <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §§ 229(a)(2nd sen.), (b)(2nd sen.), (c), (d), 230(a)(1st sen.)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           </annotations>
         </section>
@@ -15731,26 +15731,26 @@
           <annotation type="Editor's Notes">
             <text>State HG Art. § 13-1001(u) reads as follows</text>
             <para>
-              <num>(u)</num>
+              <num proof="done">(u)</num>
               <para>
-                <num>(1)</num>
+                <num proof="done">(1)</num>
                 <text>"Tobacco product" means any product that is:</text>
-              </para>
-              <para>
-                <num>(i)</num>
-                <text>Intended for human inhalation, absorption, ingestion, smoking, heating, chewing, dissolving, or any other manner of consumption that is made of, derived from, or contains:</text>
                 <para>
-                  <num>1.</num>
-                  <text>Tobacco; or</text>
+                  <num>(i)</num>
+                  <text>Intended for human inhalation, absorption, ingestion, smoking, heating, chewing, dissolving, or any other manner of consumption that is made of, derived from, or contains:</text>
+                  <para>
+                    <num>1.</num>
+                    <text>Tobacco; or</text>
+                  </para>
+                  <para>
+                    <num>2.</num>
+                    <text>Nicotine; or</text>
+                  </para>
                 </para>
                 <para>
-                  <num>2.</num>
-                  <text>Nicotine; or</text>
+                  <num>(ii)</num>
+                  <text>An accessory or component used in any manner of consumption of a product described in item (i) of this paragraph.</text>
                 </para>
-              </para>
-              <para>
-                <num>(ii)</num>
-                <text>An accessory or component used in any manner of consumption of a product described in item (i) of this paragraph.</text>
               </para>
               <para>
                 <num>(2)</num>

@@ -301,7 +301,7 @@
         <num>102</num>
         <heading>Applicability</heading>
         <para name="102.1to102.5">
-          <num>102.1 to 102.5</num>
+          <num from="102.1" to="102.5">102.1 to 102.5</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -309,7 +309,7 @@
           <heading>Existing conditions.</heading>
           <text>The legal occupancy of any structure existing on the date of adoption of this Code is permitted to continue without change, except as otherwise specifically provided in this Code, the International Property Maintenance Code, or the International Fire Code.</text>
           <para name="102.6.1to106.1.2">
-            <num>102.6.1 to 106.1.2</num>
+            <num from="102.6.1" to="106.1.2">102.6.1 to 106.1.2</num>
             <reason>As in IBC</reason>
           </para>
         </para>
@@ -425,7 +425,7 @@
           </para>
         </para>
         <para name="102.13to102.14">
-          <num>102.13 to 102.14</num>
+          <num from="102.13" to="102.14">102.13 to 102.14</num>
           <reason>Reserved</reason>
         </para>
         <para>
@@ -603,7 +603,7 @@
           </para>
         </para>
         <para name="104.3to104.5">
-          <num>104.3 to 104.5</num>
+          <num from="104.3" to="104.5">104.3 to 104.5</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -818,7 +818,7 @@
         <para>
           <num>104.8</num>
           <title>Liability.</title>
-          <reason>Not Adopted.  See State Courts Article § 5-302.</reason>
+          <reason>Not Adopted.  See State Courts Article § 5-302.</reason>
         </para>
         <para>
           <num>104.9</num>
@@ -1054,7 +1054,7 @@
             <reason>As in IBC and subject to all local, state, and federal laws</reason>
           </para>
           <para name="2.to4.">
-            <num>2. to 4.</num>
+            <num from="2." to="4.">2. to 4.</num>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -1459,26 +1459,26 @@
                 <num>2.</num>
                 <text>the owners of any wired or other facilities that might have to be temporarily removed because of the proposed work.</text>
               </para>
-            </para>
-            <para>
-              <num>105.9.1.2.1</num>
-              <heading>Contents of notice.</heading>
-              <text>The written notice must:</text>
               <para>
-                <num>1.</num>
-                <text>indicate the intent to demolish or move the structure,</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>specify when the work is expected to begin,</text>
-              </para>
-              <para>
-                <num>3.</num>
-                <text>identify the contractor scheduled to perform the demolition or moving, and</text>
-              </para>
-              <para>
-                <num>4.</num>
-                <text>provide the full name, phone number, address, and (if available) email address of an agent of the contractor who can be reached at all times in case of an emergency.</text>
+                <num>105.9.1.2.1</num>
+                <heading>Contents of notice.</heading>
+                <text>The written notice must:</text>
+                <para>
+                  <num>1.</num>
+                  <text>indicate the intent to demolish or move the structure,</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>specify when the work is expected to begin,</text>
+                </para>
+                <para>
+                  <num>3.</num>
+                  <text>identify the contractor scheduled to perform the demolition or moving, and</text>
+                </para>
+                <para>
+                  <num>4.</num>
+                  <text>provide the full name, phone number, address, and (if available) email address of an agent of the contractor who can be reached at all times in case of an emergency.</text>
+                </para>
               </para>
             </para>
           </para>
@@ -1490,61 +1490,61 @@
               <num>105.9.2.1</num>
               <heading>Posted notice.</heading>
               <text>Public notice of the demolition or moving must be posted on the premises at least 5 days before the scheduled action, but not more than 10 days before the scheduled action.</text>
-            </para>
-            <para>
-              <num>105.9.2.1.1</num>
-              <heading>Sign requisites – General.</heading>
-              <text>The sign must be:</text>
               <para>
-                <num>1.</num>
-                <text>at least 4 feet wide and 3 feet high,</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>written in black lettering, at least 2 inches high, on a yellow background,</text>
-              </para>
-              <para>
-                <num>3.</num>
-                <text>conspicuously posted, clearly visible and legible to the public, and with the bottom of the sign not less than 5 feet nor more than 10 feet above ground level, and</text>
-              </para>
-              <para>
-                <num>4.</num>
-                <text>maintained in good condition until the time of the demolition or moving.</text>
-              </para>
-            </para>
-            <para>
-              <num>105.9.2.1.2</num>
-              <heading>Sign requisites – Multiple structures.</heading>
-              <text>If the demolition or moving  involves 2 or more structures on the same or adjoining properties:</text>
-              <para>
-                <num>1.</num>
-                <text>1 sign meeting the specifications of § 105.9.2.1.1 must be conspicuously posted, clearly visible and legible to the public, and with the bottom of the sign not less than 5 feet nor more than 10 feet above ground level, and</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>each individual structure must be posted with a sign that is:</text>
+                <num>105.9.2.1.1</num>
+                <heading>Sign requisites – General.</heading>
+                <text>The sign must be:</text>
                 <para>
-                  <num>a.</num>
-                  <text>at least 17 inches wide and 11 inches high,</text>
+                  <num>1.</num>
+                  <text>at least 4 feet wide and 3 feet high,</text>
                 </para>
                 <para>
-                  <num>b.</num>
-                  <text>written in black lettering on a yellow background,</text>
+                  <num>2.</num>
+                  <text>written in black lettering, at least 2 inches high, on a yellow background,</text>
                 </para>
                 <para>
-                  <num>c.</num>
+                  <num>3.</num>
                   <text>conspicuously posted, clearly visible and legible to the public, and with the bottom of the sign not less than 5 feet nor more than 10 feet above ground level, and</text>
                 </para>
                 <para>
-                  <num>d.</num>
+                  <num>4.</num>
                   <text>maintained in good condition until the time of the demolition or moving.</text>
                 </para>
               </para>
-            </para>
-            <para>
-              <num>105.9.2.1.3</num>
-              <heading>Proof of posting.</heading>
-              <text>The permit holder must submit to the Building Official photographic evidence of the posting required by this section.</text>
+              <para>
+                <num>105.9.2.1.2</num>
+                <heading>Sign requisites – Multiple structures.</heading>
+                <text>If the demolition or moving  involves 2 or more structures on the same or adjoining properties:</text>
+                <para>
+                  <num>1.</num>
+                  <text>1 sign meeting the specifications of § 105.9.2.1.1 must be conspicuously posted, clearly visible and legible to the public, and with the bottom of the sign not less than 5 feet nor more than 10 feet above ground level, and</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>each individual structure must be posted with a sign that is:</text>
+                  <para>
+                    <num>a.</num>
+                    <text>at least 17 inches wide and 11 inches high,</text>
+                  </para>
+                  <para>
+                    <num>b.</num>
+                    <text>written in black lettering on a yellow background,</text>
+                  </para>
+                  <para>
+                    <num>c.</num>
+                    <text>conspicuously posted, clearly visible and legible to the public, and with the bottom of the sign not less than 5 feet nor more than 10 feet above ground level, and</text>
+                  </para>
+                  <para>
+                    <num>d.</num>
+                    <text>maintained in good condition until the time of the demolition or moving.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>105.9.2.1.3</num>
+                <heading>Proof of posting.</heading>
+                <text>The permit holder must submit to the Building Official photographic evidence of the posting required by this section.</text>
+              </para>
             </para>
           </para>
           <para>
@@ -3457,7 +3457,7 @@
         <num>110</num>
         <heading>Inspections</heading>
         <para name="110.1to110.2">
-          <num>110.1 to 110.2</num>
+          <num from="110.1" to="110.2">110.1 to 110.2</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -3465,7 +3465,7 @@
           <title>Required inspections.</title>
           <reason>As in IBC</reason>
           <para name="110.3.1to110.3.2">
-            <num>110.3.1 to 110.3.2</num>
+            <num from="110.3.1" to="110.3.2">110.3.1 to 110.3.2</num>
             <reason>As in IBC</reason>
           </para>
           <para>
@@ -3474,7 +3474,7 @@
             <text>In a flood hazard area, on placement of the lowest floor and before undertaking any further vertical construction, the elevation certificate required by the Floodplain Management Code must be submitted to the Building Official.</text>
           </para>
           <para name="110.3.4to110.3.10">
-            <num>110.3.4 to 110.3.10</num>
+            <num from="110.3.4" to="110.3.10">110.3.4 to 110.3.10</num>
             <reason>As in IBC</reason>
           </para>
           <para>
@@ -3489,7 +3489,7 @@
           </para>
         </para>
         <para name="110.4to110.6">
-          <num>110.4 to 110.6</num>
+          <num from="110.4" to="110.6">110.4 to 110.6</num>
           <reason>As in IBC</reason>
         </para>
         <annotations>
@@ -3501,8 +3501,8 @@
         <num>111</num>
         <heading>Occupancy Permit; Certificate of Completion</heading>
         <para name="111.1to111.4">
-          <num>111.1 to 111.4</num>
-          <reason>As in IBC.  But Note: The “certificate of occupancy” to which the IBC refers is known in Baltimore City as an “occupancy permit”.</reason>
+          <num from="111.1" to="111.4">111.1 to 111.4</num>
+          <reason>As in IBC.  But Note: The "certificate of occupancy" to which the IBC refers is known in Baltimore City as an "occupancy permit".</reason>
         </para>
         <para>
           <num>111.5</num>
@@ -3667,7 +3667,7 @@
           </para>
           <para>
             <num>2.</num>
-            <text>fails to comply with any requirement of this Code or of a <em>{rule,} </em>regulation, order, decision, permit, or notice issued under this Code, or</text>
+            <text>fails to comply with any requirement of this Code or of a <em>{rule,}</em> regulation, order, decision, permit, or notice issued under this Code, or</text>
           </para>
           <para>
             <num>3.</num>
@@ -3736,7 +3736,7 @@
           </para>
         </para>
         <para name="114.7to114.10">
-          <num>114.7 to 114.10</num>
+          <num from="114.7" to="114.10">114.7 to 114.10</num>
           <reason>Reserved</reason>
         </para>
         <para>
@@ -3790,7 +3790,7 @@
           </para>
         </para>
         <para name="114.12to114.13">
-          <num>114.12 to 114.13</num>
+          <num from="114.12" to="114.13">114.12 to 114.13</num>
           <reason>Reserved</reason>
         </para>
         <para>
@@ -3823,7 +3823,7 @@
           </para>
         </para>
         <para name="114.15to114.20">
-          <num>114.15 to 114.20</num>
+          <num from="114.15" to="114.20">114.15 to 114.20</num>
           <reason>Reserved</reason>
         </para>
         <para>
@@ -5774,9 +5774,8 @@
         <num>310</num>
         <heading>Residential Group R</heading>
         <text>{<strong>Note: </strong>The Building Code's "Residential Group R",with its "R-1" through "R-4" classifications, are distinct from and should not be confused with the Zoning Code's designation of Residential Zoning Districts "R-1A" through "R-10".}</text>
-        <para>
-          <num>310.1</num>
-          <title>to  310.3</title>
+        <para name="310.1to310.3">
+          <num from="310.1" to="310.3">310.1 to  310.3</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -5873,7 +5872,7 @@
         <num>403</num>
         <heading>High-Rise Buildings</heading>
         <para name="403.1to403.4">
-          <num>403.1 to 403.4</num>
+          <num from="403.1" to="403.4">403.1 to 403.4</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -5960,7 +5959,7 @@
           </para>
         </para>
         <para name="419.3to419.9">
-          <num>419.3 to 419.9</num>
+          <num from="419.3" to="419.9">419.3 to 419.9</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -6265,7 +6264,7 @@
         <num>706</num>
         <heading>Fire Walls</heading>
         <para name="706.1to706.8">
-          <num>706.1 to 706.8</num>
+          <num from="706.1" to="706.8">706.1 to 706.8</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6274,7 +6273,7 @@
           <text>Penetrations through fire walls must comply with § 714 {"Penetrations"} of this Code.  Penetrations through party walls are not allowed.</text>
         </para>
         <para name="706.10to706.11">
-          <num>706.10 to 706.11</num>
+          <num from="706.10" to="706.11">706.10 to 706.11</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -6299,7 +6298,7 @@
         <num>802</num>
         <heading>General</heading>
         <para name="802.1to802.3">
-          <num>802.1 to 802.3</num>
+          <num from="802.1" to="802.3">802.1 to 802.3</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6308,7 +6307,7 @@
           <text>For structures in a flood hazard area, interior finishes, trim, and decorative materials below the flood elevation should comply with the requirements of the Floodplain Management Code.</text>
         </para>
         <para name="802.5to802.7">
-          <num>802.5 to 802.7</num>
+          <num from="802.5" to="802.7">802.5 to 802.7</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -6333,7 +6332,7 @@
           <text>{<strong>MBPS Modification – Note to § 901.1: </strong> The fire protection system requirements of Chapter 9 may be concurrently covered by the State Fire Prevention Code, adopted under State Public Safety Article § 6-206 and contained in COMAR 29.06.01.  The State Fire Prevention Code is enforced by the State Fire Marshall or authorized fire official.}</text>
         </para>
         <para name="901.2to901.7">
-          <num>901.2 to 901.7</num>
+          <num from="901.2" to="901.7">901.2 to 901.7</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -6363,12 +6362,12 @@
             </strong>
           </text>
           <para name="903.2.1to903.2.12">
-            <num>903.2.1 to 903.2.12</num>
+            <num from="903.2.1" to="903.2.12">903.2.1 to 903.2.12</num>
             <reason>As in IBC</reason>
           </para>
         </para>
         <para name="903.3to903.5">
-          <num>903.3 to 903.5</num>
+          <num from="903.3" to="903.5">903.3 to 903.5</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -6418,7 +6417,7 @@
         <num>1011</num>
         <heading>Stairways</heading>
         <para name="1011.1to1011.4">
-          <num>1011.1 to 1011.4</num>
+          <num from="1011.1" to="1011.4">1011.1 to 1011.4</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6437,7 +6436,10 @@
             <text>
               <strong>Exceptions:</strong>
             </text>
-            <text>1-2. <em>{As in IBC}</em></text>
+            <para name="1.-2.">
+              <num from="1." to="2.">1. - 2.</num>
+              <reason>As in IBC</reason>
+            </para>
             <para>
               <num>3.</num>
               <text>In Group R-3 occupancies, in dwelling units in Group R-2 occupancies, and in Group U occupancies that are accessory to a Group R-3 occupancy or accessory to individual dwelling units in Group R-2 occupancies:</text>
@@ -6472,12 +6474,12 @@
             </para>
           </para>
           <para name="1011.5.3to1011.5.5">
-            <num>1011.5.3 to 1011.5.5</num>
+            <num from="1011.5.3" to="1011.5.5">1011.5.3 to 1011.5.5</num>
             <reason>As in IBC</reason>
           </para>
         </para>
         <para name="1011.6to1011.16">
-          <num>1011.6 to 1011.16</num>
+          <num from="1011.6" to="1011.16">1011.6 to 1011.16</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -6491,7 +6493,7 @@
         <num>1015</num>
         <heading>Guards</heading>
         <para name="1015.1to1015.3">
-          <num>1015.1 to 1015.3</num>
+          <num from="1015.1" to="1015.3">1015.1 to 1015.3</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6539,7 +6541,7 @@
         <num>1202</num>
         <heading>Ventilation</heading>
         <para name="1202.1to1202.3">
-          <num>1202.1 to 1202.3</num>
+          <num from="1202.1" to="1202.3">1202.1 to 1202.3</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6552,7 +6554,7 @@
             <reason>As in IBC</reason>
           </para>
           <para name="1202.4.2to1202.4.3">
-            <num>1202.4.2 to 1202.4.3</num>
+            <num from="1202.4.2" to="1202.4.3">1202.4.2 to 1202.4.3</num>
             <reason>As in IBC</reason>
           </para>
           <para>
@@ -6561,8 +6563,9 @@
             <text>For structures in a flood hazard area, the openings for under-floor ventilation should be designed and installed in accordance with the Floodplain Management Code<strong>.</strong></text>
           </para>
         </para>
-        <para name="1202.5to12023.6">
-          <num>1202.5 to 12023.6</num>
+        <para>
+          <num>1202.5</num>
+          <title>to 12023.6</title>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -6576,7 +6579,7 @@
         <num>1209</num>
         <heading>Toilet and Bathroom Requirements</heading>
         <para name="1209.1to1209.3">
-          <num>1209.1 to 1209.3</num>
+          <num from="1209.1" to="1209.3">1209.1 to 1209.3</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6633,7 +6636,7 @@
         <num>1402</num>
         <heading>Performance Requirements</heading>
         <para name="1402.1to1402.5">
-          <num>1402.1 to 1402.5</num>
+          <num from="1402.1" to="1402.5">1402.1 to 1402.5</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6663,7 +6666,7 @@
         <num>1502</num>
         <heading>Roof Drainage</heading>
         <para name="1502.1to1502.4">
-          <num>1502.1 to 1502.4</num>
+          <num from="1502.1" to="1502.4">1502.1 to 1502.4</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6688,12 +6691,12 @@
             <heading>Methods.</heading>
             <text>Drainage must be conveyed in 1 of the following methods.</text>
             <para>
-              <num>1503.5.2.1</num>
+              <num>1502.5.2.1</num>
               <heading>Method 1.</heading>
               <text>Drainage may be discharged by piping to a storm drain, to the street or alley, or to an approved water course. The installation of piping, connections to storm drains, etc., must be made in accordance with the plumbing regulations of Chapter 29 {"Plumbing Systems"} of this Code.  Any continuous discharge of drainage water into the public right-of-way of such a volume and frequency as to cause ponding or icing is prohibited and must be conveyed to the nearest public storm water drain or inlet through underground piping.</text>
             </para>
             <para>
-              <num>1503.5.2.2</num>
+              <num>1502.5.2.2</num>
               <heading>Method 2.</heading>
               <text>Drainage may be discharged not less than 10 feet (3.05 m) from the building, from other buildings, or from any adjacent property line, as long as the discharge is in such a manner as not to allow drainage to cross adjacent property lines or sidewalks.</text>
             </para>
@@ -6725,6 +6728,10 @@
         <prefix>Section</prefix>
         <num>1504</num>
         <heading>Performance Requirements</heading>
+        <para name="1504.1to1504.8">
+          <num from="1504.1" to="1504.8">1504.1 to 1504.8</num>
+          <reason>As in IBC</reason>
+        </para>
         <para>
           <num>1504.9</num>
           <heading>Reflectance.</heading>
@@ -6750,11 +6757,11 @@
             <num>5.</num>
             <text>A roof, the area of which is less than 3% of the gross floor area of the building.</text>
           </para>
-        </para>
-        <para>
-          <num>1504.9.1</num>
-          <heading>Conflicts.</heading>
-          <text>In the event of a conflict between § 1504.9 of this Code and City Code Article 6 {"Historical and Architectural Preservation"}, City Code Article 6 {"Historical and Architectural Preservation"} prevails.</text>
+          <para>
+            <num>1504.9.1</num>
+            <heading>Conflicts.</heading>
+            <text>In the event of a conflict between § 1504.9 of this Code and City Code Article 6 {"Historical and Architectural Preservation"}, City Code Article 6 {"Historical and Architectural Preservation"} prevails.</text>
+          </para>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 23-252" type="History">Ord. 23-252</annotation>
@@ -6770,7 +6777,7 @@
         <num>1510</num>
         <heading>Rooftop Structures</heading>
         <para name="1510.1to1510.9">
-          <num>1510.1 to 1510.9</num>
+          <num from="1510.1" to="1510.9">1510.1 to 1510.9</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6799,10 +6806,10 @@
             <num>1510.10.3</num>
             <heading>Construction documents.</heading>
             <text>Construction documents for all rooftop decks must:</text>
-          </para>
-          <para>
-            <num>1.</num>
-            <text>include dimensional setbacks, and</text>
+            <para>
+              <num>1.</num>
+              <text>include dimensional setbacks, and</text>
+            </para>
             <para>
               <num>2.</num>
               <text>be signed and sealed by a professional architect or engineer licensed in Maryland.</text>
@@ -6888,7 +6895,10 @@
           <title>General.</title>
           <reason>As in IBC</reason>
           <text><strong>Exception: </strong> Construction documents for buildings constructed in accordance with the conventional light-frame construction provisions of § 2308 must indicate the following structural design information:</text>
-          <text>1 - 4.  <strong><em>{As in IBC}</em></strong></text>
+          <para name="1.-4.">
+            <num from="1." to="4.">1. - 4.</num>
+            <reason>As in IBC</reason>
+          </para>
           <para>
             <num>5.</num>
             <text>Flood design data, if located in a flood hazard area.</text>
@@ -6898,7 +6908,7 @@
             <reason>As in IBC</reason>
           </para>
           <para name="1603.1.1to1603.1.6">
-            <num>1603.1.1 to 1603.1.6</num>
+            <num from="1603.1.1" to="1603.1.6">1603.1.1 to 1603.1.6</num>
             <reason>As in IBC</reason>
           </para>
           <para>
@@ -6923,7 +6933,7 @@
             </para>
           </para>
           <para name="1603.1.8to1603.1.9">
-            <num>1603.1.8 to 1603.1.9</num>
+            <num from="1603.1.8" to="1603.1.9">1603.1.8 to 1603.1.9</num>
             <reason>As in IBC</reason>
           </para>
         </para>
@@ -6940,9 +6950,8 @@
         <prefix>Section</prefix>
         <num>1607</num>
         <heading>Live Loads</heading>
-        <para>
-          <num>1607.</num>
-          <title>1 to 1607.12</title>
+        <para name="1607.1to1607.12">
+          <num from="1607.1" to="1607.12">1607.1 to 1607.12</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -7005,13 +7014,12 @@
             </para>
           </para>
           <para name="1607.13.3to1607.13.5">
-            <num>1607.13.3 to 1607.13.5</num>
+            <num from="1607.13.3" to="1607.13.5">1607.13.3 to 1607.13.5</num>
             <reason>As in IBC</reason>
           </para>
         </para>
-        <para>
-          <num>1607.14</num>
-          <title>to 1607.15</title>
+        <para name="1607.14to1607.15">
+          <num from="1607.14" to="1607.15">1607.14  to 1607.15</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -7207,7 +7215,7 @@
           </para>
         </para>
         <para name="1804.3to1804.4">
-          <num>1804.3 to 1804.4</num>
+          <num from="1804.3" to="1804.4">1804.3 to 1804.4</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -7216,7 +7224,7 @@
           <text>In flood hazard areas, grading or fill may not be approved unless it meets the requirements of the Floodplain Management Code.</text>
         </para>
         <para name="1804.6to1804.7">
-          <num>1804.6 to 1804.7</num>
+          <num from="1804.6" to="1804.7">1804.6 to 1804.7</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -7250,7 +7258,7 @@
           </para>
         </para>
         <para name="1805.2to1805.4">
-          <num>1805.2 to 1805.4</num>
+          <num from="1805.2" to="1805.4">1805.2 to 1805.4</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -7264,7 +7272,7 @@
         <num>1809</num>
         <heading>Shallow Foundations</heading>
         <para name="1809.1to1809.4">
-          <num>1809.1 to 1809.4</num>
+          <num from="1809.1" to="1809.4">1809.1 to 1809.4</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -7291,7 +7299,7 @@
           </para>
         </para>
         <para name="1809.6to1809.13">
-          <num>1809.6 to 1809.13</num>
+          <num from="1809.6" to="1809.13">1809.6 to 1809.13</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -7374,7 +7382,7 @@
         <num>2609</num>
         <heading>Light-Transmitting Plastic Roof Panels</heading>
         <para name="2609.1to2609.2">
-          <num>2609.1 to 2609.2</num>
+          <num from="2609.1" to="2609.2">2609.1 to 2609.2</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -7393,7 +7401,7 @@
         <num>2610</num>
         <heading>Light-Transmitting Plastic Skylight Glazing</heading>
         <para name="2610.1to2610.6">
-          <num>2610.1 to 2610.6</num>
+          <num from="2610.1" to="2610.6">2610.1 to 2610.6</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -7679,11 +7687,11 @@
             <num>3.</num>
             <text>for private sewage disposal systems, COMAR 26.04.02 {"Sewage Disposal and Certain Water Systems..."}.</text>
           </para>
-          <para>
-            <num>2901.2</num>
-            <heading>"Plumbing regulations".</heading>
-            <text>Together, this Chapter 29 and the IPC are referred to in this Code as "plumbing regulations".</text>
-          </para>
+        </para>
+        <para>
+          <num>2901.2</num>
+          <heading>"Plumbing regulations".</heading>
+          <text>Together, this Chapter 29 and the IPC are referred to in this Code as "plumbing regulations".</text>
         </para>
       </section>
       <section>
@@ -7716,7 +7724,7 @@
           </para>
         </para>
         <para name="2902.2to2902.3">
-          <num>2902.2 to 2902.3</num>
+          <num from="2902.2" to="2902.3">2902.2 to 2902.3</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -7725,8 +7733,8 @@
           <text>Required public facilities must be provided with signs that designate the sex, as required by § 2902.2.  Signs must be readily visible and located near the entrance to each toilet facility.  Signs for accessible toilet facilities must comply with the Maryland Accessibility Code (COMAR 09.12.53).</text>
           <text><strong>{Editor's Note:</strong><em>  But see </em>City Code Article 15, Subtitle 43 {"Public Restrooms"}, which requires the use of "gender-inclusive signage" to identify any "public single-use restroom" in a commercial or industrial establishment, a place of public accommodation, or a City-owned or -occupied building.<strong>}</strong></text>
         </para>
-        <para name="2002.5to2902.6">
-          <num>2002.5 to 2902.6</num>
+        <para name="2902.5to2902.6">
+          <num from="2902.5" to="2902.6">2902.5 to 2902.6</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -7896,7 +7904,7 @@
           <text>Except as otherwise provided for in this Code, the design, construction, installation, alteration, repair, and maintenance of elevators, conveying systems, and their components conform to ASME A17.1/CSA B44, ASME A17.7/CSA B44.7, ASME A90.1, ASME B20.1, ANSI MH29.1, ALI ALCTV, and, for construction in flood hazard areas, ASCE 24.</text>
         </para>
         <para name="3001.4to3001.5">
-          <num>3001.4 to 3001.5</num>
+          <num from="3001.4" to="3001.5">3001.4 to 3001.5</num>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -8120,14 +8128,14 @@
             <num>1.</num>
             <text>the Baltimore City Zoning Code,</text>
           </para>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>the Maryland State Accessability Code, and</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>the rules and regulations of the City Planning Commission.</text>
+          <para>
+            <num>2.</num>
+            <text>the Maryland State Accessability Code, and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>the rules and regulations of the City Planning Commission.</text>
+          </para>
         </para>
         <para>
           <num>3116.5</num>
@@ -8522,7 +8530,7 @@
         <num>3301</num>
         <heading>General</heading>
         <para name="3301.1to3301.2">
-          <num>3301.1 to 3301.2</num>
+          <num from="3301.1" to="3301.2">3301.1 to 3301.2</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -8572,7 +8580,7 @@
         <num>3303</num>
         <heading>Demolition</heading>
         <para name="3303.1to3303.3">
-          <num>3303.1 to 3303.3</num>
+          <num from="3303.1" to="3303.3">3303.1 to 3303.3</num>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -8584,169 +8592,169 @@
             <heading>Cellar floors.</heading>
             <text>All basement and cellar floors must be removed or completely broken up before any filling materials are used.</text>
           </para>
+          <para>
+            <num>3303.4.2</num>
+            <heading>Exception.</heading>
+            <text>The Building Official may waive the filling requirements of this § 3303.4 for up to 3 months if:</text>
+            <para>
+              <num>1.</num>
+              <text>the Building Official receives satisfactory evidence that construction of a new building or structure will begin on the site within 3 months of the demolition or  removal, and</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>the site is protected with barriers that comply with § 3306.5 {"Barriers"}of this Code.</text>
+            </para>
+          </para>
+        </para>
+        <para name="3303.5to3303.7">
+          <num from="3303.5" to="3303.7">3303.5 to 3303.7</num>
+          <reason>As in IBC</reason>
         </para>
         <para>
-          <num>3303.4.2</num>
-          <heading>Exception.</heading>
-          <text>The Building Official may waive the filling requirements of this § 3303.4 for up to 3 months if:</text>
+          <num>3303.8</num>
+          <heading>Notice to adjoining owners and others.</heading>
+          <text>A permit to demolish a structure may not be issued unless:</text>
           <para>
             <num>1.</num>
-            <text>the Building Official receives satisfactory evidence that construction of a new building or structure will begin on the site within 3 months of the demolition or  removal, and</text>
+            <text>all notices required by §§ 105.9 {"Special requirements for demolition or moving"} and 3307.1 {"Protection required"} of this Code have been given, and</text>
           </para>
           <para>
             <num>2.</num>
-            <text>the site is protected with barriers that comply with § 3306.5 {"Barriers"}of this Code.</text>
+            <text>copies of the notices are submitted with the permit application.</text>
           </para>
-          <para name="3303.5to3303.7">
-            <num>3303.5 to 3303.7</num>
-            <reason>As in IBC</reason>
-          </para>
+        </para>
+        <para>
+          <num>3303.9</num>
+          <heading>Demolition contractor's license.</heading>
+          <text>Except as otherwise specified in this § 3303.9, no person may engage in the demolition of any structure without first obtaining a demolition contractor's license from the Building Official.</text>
           <para>
-            <num>3303.8</num>
-            <heading>Notice to adjoining owners and others.</heading>
-            <text>A permit to demolish a structure may not be issued unless:</text>
+            <num>3303.9.1</num>
+            <heading>Prerequisites.</heading>
+            <text>Every contractor applying for a new license or for the renewal of a license must:</text>
             <para>
               <num>1.</num>
-              <text>all notices required by §§ 105.9 {"Special requirements for demolition or moving"} and 3307.1 {"Protection required"} of this Code have been given, and</text>
+              <text>provide the Building Official with the full name, phone number, address, and (if available) email address of the contractor's business, and</text>
             </para>
             <para>
               <num>2.</num>
-              <text>copies of the notices are submitted with the permit application.</text>
+              <text>provide the Building Official with a copy of a liability insurance policy that complies with § 3303.10 of this Code.</text>
             </para>
           </para>
           <para>
-            <num>3303.9</num>
-            <heading>Demolition contractor's license.</heading>
-            <text>Except as otherwise specified in this § 3303.9, no person may engage in the demolition of any structure without first obtaining a demolition contractor's license from the Building Official.</text>
-            <para>
-              <num>3303.9.1</num>
-              <heading>Prerequisites.</heading>
-              <text>Every contractor applying for a new license or for the renewal of a license must:</text>
-              <para>
-                <num>1.</num>
-                <text>provide the Building Official with the full name, phone number, address, and (if available) email address of the contractor's business, and</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>provide the Building Official with a copy of a liability insurance policy that complies with § 3303.10 of this Code.</text>
-              </para>
-            </para>
-            <para>
-              <num>3303.9.2</num>
-              <heading>Term; fees.</heading>
-              <text>A demolition contractor's license expires on December 31 of each year.  The license may be renewed annually, on or before December 31, on payment of the renewal fee.  The license fees are as set by the Building Official with the approval of the Board of Estimates.</text>
-            </para>
-            <para>
-              <num>3303.9.3</num>
-              <heading>Change of name or address.</heading>
-              <text>A licensee must immediately notify the Building Official of any change in the name, phone number, address, or email address of the licensee's business.</text>
-            </para>
-            <para>
-              <num>3303.9.4</num>
-              <heading>Use of license by other.</heading>
-              <text>A licensee may not allow his or her name to be used by another person for the purpose of obtaining permits or for doing any demolition work under the licensee's license.</text>
-            </para>
-            <para>
-              <num>3303.9.5</num>
-              <heading>Exception.</heading>
-              <text>The Building Official may waive the requirements of this § 3303.9 if the structure to be demolished is a miscellaneous structure as described in § 312 {"Utility, Miscellaneous Group U"} of this Code.</text>
-            </para>
-            <para>
-              <num>3303.9.6</num>
-              <heading>Enforcement.</heading>
-              <text>A violation notice is not a prerequisite to the enforcement of this § 3303.9 by any appropriate legal proceeding.  Penalties will be assessed in accordance with § 114 {"Violations"} of this Code.</text>
-            </para>
-            <para>
-              <num>3303.9.7</num>
-              <heading>Debarment on conviction.</heading>
-              <text>Any person convicted of a violation of this § 3303.9 is, in addition to any other penalty that might be imposed:</text>
-              <para>
-                <num>1.</num>
-                <text>prohibited from performing demolition work without first obtaining a new license, and</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>is ineligible to receive a new license for 1 year.</text>
-              </para>
-            </para>
+            <num>3303.9.2</num>
+            <heading>Term; fees.</heading>
+            <text>A demolition contractor's license expires on December 31 of each year.  The license may be renewed annually, on or before December 31, on payment of the renewal fee.  The license fees are as set by the Building Official with the approval of the Board of Estimates.</text>
           </para>
           <para>
-            <num>3303.10</num>
-            <heading>Demolition insurance.</heading>
-            <text>The licensee must have an insurance policy that complies with the minimum requirements of this § 3303.10.</text>
-            <para>
-              <num>3303.10.1</num>
-              <heading>Coverage.</heading>
-              <text>The policy must provide coverage for all operations for which a permit might be sought.  The minimum coverage requirements are:</text>
-              <para>
-                <num>1.</num>
-                <text>$500,000 for damages (including damages for care and loss of services) because of bodily injury (including death at any time resulting from bodily injury), per person, per incident,</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>$1,000,000 for damages (including damages for care and loss of services) because of bodily injury (including death at any time resulting from bodily injury) sustained by more than 1 person per incident, and</text>
-              </para>
-              <para>
-                <num>3.</num>
-                <text>$250,000 for injury to or destruction of property of others per incident.</text>
-              </para>
-            </para>
-            <para>
-              <num>3303.10.2</num>
-              <heading>Prohibited exclusions.</heading>
-              <text>The policy may not contain:</text>
-              <para>
-                <num>1.</num>
-                <text>any "collapse hazard" exclusion,</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>any exclusion that would prohibit the contractor from performing the demolition operations in accordance with this Code and the normal procedures of the industry, or</text>
-              </para>
-              <para>
-                <num>3.</num>
-                <text>any exclusion that would create an undue risk to the City or to the health, safety, and welfare of the general public.</text>
-              </para>
-            </para>
-            <para>
-              <num>3303.10.3</num>
-              <heading>Cancellation.</heading>
-              <text>The terms of policy must provide either:</text>
-              <para>
-                <num>1.</num>
-                <text>that the policy may not be canceled during the duration of the operations to be performed, or</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>that the Building Official will be notified in writing, at least 15 days before the policy is canceled.</text>
-              </para>
-            </para>
-          </para>
-          <para name="3303.11to3303.12">
-            <num>3303.11 to 3303.12</num>
-            <reason>Reserved</reason>
+            <num>3303.9.3</num>
+            <heading>Change of name or address.</heading>
+            <text>A licensee must immediately notify the Building Official of any change in the name, phone number, address, or email address of the licensee's business.</text>
           </para>
           <para>
-            <num>3303.13</num>
-            <heading>Demolition permits.</heading>
-            <text>Each application for a demolition permit must:</text>
+            <num>3303.9.4</num>
+            <heading>Use of license by other.</heading>
+            <text>A licensee may not allow his or her name to be used by another person for the purpose of obtaining permits or for doing any demolition work under the licensee's license.</text>
+          </para>
+          <para>
+            <num>3303.9.5</num>
+            <heading>Exception.</heading>
+            <text>The Building Official may waive the requirements of this § 3303.9 if the structure to be demolished is a miscellaneous structure as described in § 312 {"Utility, Miscellaneous Group U"} of this Code.</text>
+          </para>
+          <para>
+            <num>3303.9.6</num>
+            <heading>Enforcement.</heading>
+            <text>A violation notice is not a prerequisite to the enforcement of this § 3303.9 by any appropriate legal proceeding.  Penalties will be assessed in accordance with § 114 {"Violations"} of this Code.</text>
+          </para>
+          <para>
+            <num>3303.9.7</num>
+            <heading>Debarment on conviction.</heading>
+            <text>Any person convicted of a violation of this § 3303.9 is, in addition to any other penalty that might be imposed:</text>
             <para>
               <num>1.</num>
-              <text>comply with § 105 {"Permits"} of this Code,</text>
+              <text>prohibited from performing demolition work without first obtaining a new license, and</text>
             </para>
             <para>
               <num>2.</num>
-              <text>except as provided in § 3303.13.1, be accompanied by a certificate of insurance that evidences compliance with § 3303.10, and</text>
+              <text>is ineligible to receive a new license for 1 year.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>3303.10</num>
+          <heading>Demolition insurance.</heading>
+          <text>The licensee must have an insurance policy that complies with the minimum requirements of this § 3303.10.</text>
+          <para>
+            <num>3303.10.1</num>
+            <heading>Coverage.</heading>
+            <text>The policy must provide coverage for all operations for which a permit might be sought.  The minimum coverage requirements are:</text>
+            <para>
+              <num>1.</num>
+              <text>$500,000 for damages (including damages for care and loss of services) because of bodily injury (including death at any time resulting from bodily injury), per person, per incident,</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>$1,000,000 for damages (including damages for care and loss of services) because of bodily injury (including death at any time resulting from bodily injury) sustained by more than 1 person per incident, and</text>
             </para>
             <para>
               <num>3.</num>
-              <text>be accompanied by an affidavit to the Building Official that all contracts and other arrangements complying with this Code have been made.</text>
+              <text>$250,000 for injury to or destruction of property of others per incident.</text>
+            </para>
+          </para>
+          <para>
+            <num>3303.10.2</num>
+            <heading>Prohibited exclusions.</heading>
+            <text>The policy may not contain:</text>
+            <para>
+              <num>1.</num>
+              <text>any "collapse hazard" exclusion,</text>
             </para>
             <para>
-              <num>3303.13.1</num>
-              <heading>Alternative certificate of continuing insurance.</heading>
-              <text>Instead of providing a separate certificate for each permit, a contractor may provide one general certificate of continuing insurance, as long as the certificate evidences:</text>
+              <num>2.</num>
+              <text>any exclusion that would prohibit the contractor from performing the demolition operations in accordance with this Code and the normal procedures of the industry, or</text>
             </para>
+            <para>
+              <num>3.</num>
+              <text>any exclusion that would create an undue risk to the City or to the health, safety, and welfare of the general public.</text>
+            </para>
+          </para>
+          <para>
+            <num>3303.10.3</num>
+            <heading>Cancellation.</heading>
+            <text>The terms of policy must provide either:</text>
+            <para>
+              <num>1.</num>
+              <text>that the policy may not be canceled during the duration of the operations to be performed, or</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>that the Building Official will be notified in writing, at least 15 days before the policy is canceled.</text>
+            </para>
+          </para>
+        </para>
+        <para name="3303.11to3303.12">
+          <num from="3303.11" to="3303.12">3303.11 to 3303.12</num>
+          <reason>Reserved</reason>
+        </para>
+        <para>
+          <num>3303.13</num>
+          <heading>Demolition permits.</heading>
+          <text>Each application for a demolition permit must:</text>
+          <para>
+            <num>1.</num>
+            <text>comply with § 105 {"Permits"} of this Code,</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>except as provided in § 3303.13.1, be accompanied by a certificate of insurance that evidences compliance with § 3303.10, and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>be accompanied by an affidavit to the Building Official that all contracts and other arrangements complying with this Code have been made.</text>
+          </para>
+          <para>
+            <num>3303.13.1</num>
+            <heading>Alternative certificate of continuing insurance.</heading>
+            <text>Instead of providing a separate certificate for each permit, a contractor may provide one general certificate of continuing insurance, as long as the certificate evidences:</text>
             <para>
               <num>1.</num>
               <text>the required coverage for all work to be performed by the contractor, and</text>
@@ -8756,136 +8764,136 @@
               <text>the insurer's obligation to notify the Building Official, in writing, at least 15 days before the policy is canceled.</text>
             </para>
           </para>
-          <para name="3303.14to3303.15">
-            <num>3303.14 to 3303.15</num>
-            <reason>Reserved</reason>
+        </para>
+        <para name="3303.14to3303.15">
+          <num from="3303.14" to="3303.15">3303.14 to 3303.15</num>
+          <reason>Reserved</reason>
+        </para>
+        <para>
+          <num>3303.16</num>
+          <heading>Methods of demolition.</heading>
+          <text>The following methods must be used for the demolition of a structure:</text>
+          <para>
+            <num>1.</num>
+            <text>The demolition must be performed in approximately the reverse order in which the structure was erected.  Where unusual conditions exist, the Building Official may authorize a different method.</text>
           </para>
           <para>
-            <num>3303.16</num>
-            <heading>Methods of demolition.</heading>
-            <text>The following methods must be used for the demolition of a structure:</text>
+            <num>2.</num>
+            <text>Structural elements must be carefully dissembled to avoid collapse.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Heavy pieces of stone or other heavy and bulky materials or equipment must be carefully handled in accordance with this Code.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Demotion must be halted when winds exceed 20 mph.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Wetting is prohibited during periods of prolonged freezing temperatures.</text>
+          </para>
+        </para>
+        <para>
+          <num>3303.17</num>
+          <heading>Use of explosives.</heading>
+          <text>The use of explosives is generally prohibited.  Explosives for demolition by implosion may be used by special permit from the Building Official.</text>
+        </para>
+        <para>
+          <num>3303.18</num>
+          <heading>Partial Demolition.</heading>
+          <text>Building elements that become exposed as result of a partial demolition must be properly finished, braced, or otherwise made safe.</text>
+        </para>
+        <para name="3303.19to3303.20">
+          <num from="3303.19" to="3303.20">3303.19 to 3303.20</num>
+          <reason>Reserved</reason>
+        </para>
+        <para>
+          <num>3303.21</num>
+          <heading>Removal of debris.</heading>
+          <text>The requirements of this section are in addition to those of § 3302.2 {"Waste and debris"}.</text>
+          <para>
+            <num>3303.21.1</num>
+            <heading>General requirements.</heading>
+            <text>Debris on upper floors must be lowered to ground level:</text>
             <para>
               <num>1.</num>
-              <text>The demolition must be performed in approximately the reverse order in which the structure was erected.  Where unusual conditions exist, the Building Official may authorize a different method.</text>
+              <text>in receptacles, by elevators or hoists, or</text>
             </para>
             <para>
               <num>2.</num>
-              <text>Structural elements must be carefully dissembled to avoid collapse.</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>Heavy pieces of stone or other heavy and bulky materials or equipment must be carefully handled in accordance with this Code.</text>
-            </para>
-            <para>
-              <num>4.</num>
-              <text>Demotion must be halted when winds exceed 20 mph.</text>
-            </para>
-            <para>
-              <num>5.</num>
-              <text>Wetting is prohibited during periods of prolonged freezing temperatures.</text>
+              <text>in tight and completely enclosed chutes.</text>
             </para>
           </para>
           <para>
-            <num>3303.17</num>
-            <heading>Use of explosives.</heading>
-            <text>The use of explosives is generally prohibited.  Explosives for demolition by implosion may be used by special permit from the Building Official.</text>
+            <num>3303.21.2</num>
+            <heading>Chute requirements.</heading>
+            <text>No chute used for this purpose may extend in an unbroken line that is more than 25 feet (7.62 m) without suitable barriers to prevent debris from falling too fast.  Each chute must be equipped with a proper gate or stop at the bottom to control the flow of materials from the chute.</text>
           </para>
+        </para>
+        <para>
+          <num>3303.22</num>
+          <reason>Reserved</reason>
+        </para>
+        <para>
+          <num>3303.23</num>
+          <heading>Disposition of recyclable debris.</heading>
+          <text>Whenever recyclable debris to be cleared from a site exceeds 5 tons, at least 30% of that recyclable debris must be immediately transported to a licensed recycling facility.</text>
           <para>
-            <num>3303.18</num>
-            <heading>Partial Demolition.</heading>
-            <text>Building elements that become exposed as result of a partial demolition must be properly finished, braced, or otherwise made safe.</text>
-          </para>
-          <para name="3303.19to3303.20">
-            <num>3303.19 to 3303.20</num>
-            <reason>Reserved</reason>
-          </para>
-          <para>
-            <num>3303.21</num>
-            <heading>Removal of debris.</heading>
-            <text>The requirements of this section are in addition to those of § 3302.2 {"Waste and debris"}.</text>
-            <para>
-              <num>3303.21.1</num>
-              <heading>General requirements.</heading>
-              <text>Debris on upper floors must be lowered to ground level:</text>
-              <para>
-                <num>1.</num>
-                <text>in receptacles, by elevators or hoists, or</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>in tight and completely enclosed chutes.</text>
-              </para>
-            </para>
-            <para>
-              <num>3303.21.2</num>
-              <heading>Chute requirements.</heading>
-              <text>No chute used for this purpose may extend in an unbroken line that is more than 25 feet (7.62 m) without suitable barriers to prevent debris from falling too fast.  Each chute must be equipped with a proper gate or stop at the bottom to control the flow of materials from the chute.</text>
-            </para>
-            <para>
-              <num>3303.22</num>
-              <reason>Reserved</reason>
-            </para>
-          </para>
-          <para>
-            <num>3303.23</num>
-            <heading>Disposition of recyclable debris.</heading>
-            <text>Whenever recyclable debris to be cleared from a site exceeds 5 tons, at least 30% of that recyclable debris must be immediately transported to a licensed recycling facility.</text>
-            <para>
-              <num>3303.23.1</num>
-              <heading>"Recyclable debris" defined.</heading>
-              <text>In this section, "recyclable debris" means materials that:</text>
-              <para>
-                <num>1.</num>
-                <text>if not recycled, would become solid waste for disposal in a solid waste acceptance facility, and</text>
-              </para>
-              <para>
-                <num>2.</num>
-                <text>may be collected, separated, or processed and returned to the marketplace in the form of raw materials or products.</text>
-              </para>
-            </para>
-          </para>
-          <para name="3303.24to3303.25">
-            <num>3303.24 to 3303.25</num>
-            <reason>Reserved</reason>
-          </para>
-          <para>
-            <num>3303.26</num>
-            <heading>Correction of injurious conditions.</heading>
-            <text>This section applies to any demolition contractor who:</text>
+            <num>3303.23.1</num>
+            <heading>"Recyclable debris" defined.</heading>
+            <text>In this section, "recyclable debris" means materials that:</text>
             <para>
               <num>1.</num>
-              <text>performs any demolition work that creates a condition that violates this Code or a condition that might be injurious to the general public or adjourning to adjoining properties, and</text>
+              <text>if not recycled, would become solid waste for disposal in a solid waste acceptance facility, and</text>
             </para>
             <para>
               <num>2.</num>
-              <text>refuses or fails to correct the condition in the manner and time required by this Code.</text>
-            </para>
-            <para>
-              <num>3303.26.1</num>
-              <heading>Correction by Building Official.</heading>
-              <text>If the contractor refuses or fails to correct the condition or if an emergency occurs as a result of the condition, the Building Official may correct the condition or perform any other operations necessary to bring the demolition operations into compliance with this Code.  All work the Building Official performs under this section is at the expense of the contractor.</text>
-            </para>
-            <para>
-              <num>3303.26.2</num>
-              <heading>Contractor not relieved of responsibility.</heading>
-              <text>The Building Official's performance of any work under this section does not relieve the contractor from responsibility for all work performed by the contractor.  Any remedies or penalties provided in this section are in addition to any other remedies or penalties provided by law.</text>
+              <text>may be collected, separated, or processed and returned to the marketplace in the form of raw materials or products.</text>
             </para>
           </para>
+        </para>
+        <para name="3303.24to3303.25">
+          <num from="3303.24" to="3303.25">3303.24 to 3303.25</num>
+          <reason>Reserved</reason>
+        </para>
+        <para>
+          <num>3303.26</num>
+          <heading>Correction of injurious conditions.</heading>
+          <text>This section applies to any demolition contractor who:</text>
           <para>
-            <num>3303.27</num>
-            <heading>Limits of liability.</heading>
-            <text>The liability of any contractor for materials furnished or work done under this Code and the liability of the contractor's surety does not extend to defects in materials or workmanship discovered more than 12 months after the completion of the work.  The contractor and surety are responsible to the City to correct all defects discovered during this 12-month period and about which they were notified in writing.</text>
+            <num>1.</num>
+            <text>performs any demolition work that creates a condition that violates this Code or a condition that might be injurious to the general public or adjourning to adjoining properties, and</text>
           </para>
           <para>
-            <num>3303.28</num>
-            <heading>Owner's responsibility.</heading>
-            <text>Notwithstanding the limited liabilities of the contractor and the surety, the owner of the property is responsible at all times to the City to correct any defects in the operations performed on his or her property.</text>
+            <num>2.</num>
+            <text>refuses or fails to correct the condition in the manner and time required by this Code.</text>
           </para>
           <para>
-            <num>3303.29</num>
-            <heading>Penalty for violation.</heading>
-            <text>On a contractor's refusal or failure to correct any violation, the contractor's license and all outstanding work permits are automatically suspended. The suspension continues until the violation is corrected.</text>
+            <num>3303.26.1</num>
+            <heading>Correction by Building Official.</heading>
+            <text>If the contractor refuses or fails to correct the condition or if an emergency occurs as a result of the condition, the Building Official may correct the condition or perform any other operations necessary to bring the demolition operations into compliance with this Code.  All work the Building Official performs under this section is at the expense of the contractor.</text>
           </para>
+          <para>
+            <num>3303.26.2</num>
+            <heading>Contractor not relieved of responsibility.</heading>
+            <text>The Building Official's performance of any work under this section does not relieve the contractor from responsibility for all work performed by the contractor.  Any remedies or penalties provided in this section are in addition to any other remedies or penalties provided by law.</text>
+          </para>
+        </para>
+        <para>
+          <num>3303.27</num>
+          <heading>Limits of liability.</heading>
+          <text>The liability of any contractor for materials furnished or work done under this Code and the liability of the contractor's surety does not extend to defects in materials or workmanship discovered more than 12 months after the completion of the work.  The contractor and surety are responsible to the City to correct all defects discovered during this 12-month period and about which they were notified in writing.</text>
+        </para>
+        <para>
+          <num>3303.28</num>
+          <heading>Owner's responsibility.</heading>
+          <text>Notwithstanding the limited liabilities of the contractor and the surety, the owner of the property is responsible at all times to the City to correct any defects in the operations performed on his or her property.</text>
+        </para>
+        <para>
+          <num>3303.29</num>
+          <heading>Penalty for violation.</heading>
+          <text>On a contractor's refusal or failure to correct any violation, the contractor's license and all outstanding work permits are automatically suspended. The suspension continues until the violation is corrected.</text>
         </para>
       </section>
       <section>
@@ -9186,14 +9194,14 @@
             <num>3603.3.2</num>
             <heading>Requirements.</heading>
             <text>On the entry level of the dwelling, each environmental control must be located:</text>
-          </para>
-          <para>
-            <num>1.</num>
-            <text>no higher than 48 inches above the floor and no lower than 15 inches above the floor, and</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>if an environmental control is located directly above a counter, sink, or appliance, no higher than 3 inches above the counter, sink, or appliance.</text>
+            <para>
+              <num>1.</num>
+              <text>no higher than 48 inches above the floor and no lower than 15 inches above the floor, and</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>if an environmental control is located directly above a counter, sink, or appliance, no higher than 3 inches above the counter, sink, or appliance.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -10154,10 +10162,10 @@
               <num>3806.4.2.1</num>
               <heading>Negotiated agreement.</heading>
               <text>The Director may agree to issue trip-generation credits for a proposed project if:</text>
-            </para>
-            <para>
-              <num>1.</num>
-              <text>the Mayor and City Council enter into a binding, written mitigation agreement with the developer of the project that requires the performance of specific actions that the Director determines will reduce the number of trips actually generated by the project,</text>
+              <para>
+                <num>1.</num>
+                <text>the Mayor and City Council enter into a binding, written mitigation agreement with the developer of the project that requires the performance of specific actions that the Director determines will reduce the number of trips actually generated by the project,</text>
+              </para>
               <para>
                 <num>2.</num>
                 <text>the mitigation agreement requires the developer to require all subsequent purchasers or occupants of the property to abide by the ongoing requirements of the mitigation agreement,</text>
@@ -10672,7 +10680,7 @@
           <num>110.26</num>
           <heading>Spaces About Electrical Equipment.  {Introductory paragraph as in NEC}</heading>
           <para name="(A)-(D)">
-            <num>(A) - (D)</num>
+            <num from="(A)" to="(D)">(A) - (D)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -10708,7 +10716,7 @@
                 <text>The dedicated space required by subparagraph (a) must be kept clear of foreign systems unless protection is provided to avoid damage from condensation, leaks, or breaks in the foreign systems.  This protection must be approved by the Building Official and signed and sealed by a registered professional engineer licensed to do business in the State.</text>
               </para>
               <para name="(c)-(d)">
-                <num>(c) - (d)</num>
+                <num from="(c)" to="(d)">(c) - (d)</num>
                 <reason>As in NEC</reason>
               </para>
             </para>
@@ -10734,7 +10742,7 @@
           <num>110.34</num>
           <heading>Work Space and Guarding</heading>
           <para name="(A)-(E)">
-            <num>(A) - (E)</num>
+            <num from="(A)" to="(E)">(A) - (E)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -10775,14 +10783,14 @@
           <num>210.5</num>
           <heading>Identification for Branch Circuits.</heading>
           <para name="(A)-(B)">
-            <num>(A) - (B)</num>
+            <num from="(A)" to="(B)">(A) - (B)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
             <num>(C)</num>
             <heading>Identification of Ungrounded Conductors.</heading>
             <para name="(1)-(2)">
-              <num>(1) - (2)</num>
+              <num from="(1)" to="(2)">(1) - (2)</num>
               <reason>As in NEC</reason>
             </para>
             <para>
@@ -10802,14 +10810,14 @@
           <num>210.11</num>
           <heading>Branch Circuits Required.  {Introductory paragraph as in NEC}</heading>
           <para name="(A)-(B)">
-            <num>(A) - (B)</num>
+            <num from="(A)" to="(B)">(A) - (B)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
             <num>(C)</num>
             <heading>Dwelling Units.</heading>
             <para name="(1)-(4)">
-              <num>(1) - (4)</num>
+              <num from="(1)" to="(4)">(1) - (4)</num>
               <reason>As in NEC</reason>
               <text>
                 <strong>
@@ -10834,7 +10842,7 @@
           <num>210.23</num>
           <heading>Permissible Loads, Multiple-Outlet Branch Circuits.  {Introductory paragraph as in NEC}</heading>
           <para name="(A)-(D)">
-            <num>(A) - (D)</num>
+            <num from="(A)" to="(D)">(A) - (D)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -10891,7 +10899,7 @@
               <reason>Not Adopted</reason>
             </para>
             <para name="(3)-(5)">
-              <num>(3) - (5)</num>
+              <num from="(3)" to="(5)">(3) - (5)</num>
               <reason>As in NEC</reason>
             </para>
             <para>
@@ -10904,7 +10912,7 @@
             </para>
           </para>
           <para name="(B)-(C)">
-            <num>(B) - (C)</num>
+            <num from="(B)" to="(C)">(B) - (C)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -10952,7 +10960,7 @@
               <reason>Not Adopted</reason>
             </para>
             <para name="(3)-(5)">
-              <num>(3) - (5)</num>
+              <num from="(3)" to="(5)">(3) - (5)</num>
               <reason>As in NEC</reason>
             </para>
             <para>
@@ -10962,7 +10970,7 @@
             </para>
           </para>
           <para name="(B)-(C)">
-            <num>(B) - (C)</num>
+            <num from="(B)" to="(C)">(B) - (C)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -10986,7 +10994,7 @@
           <num>230.24</num>
           <heading>Clearances.  {Introductory paragraph as in NEC}</heading>
           <para name="(A)-(E)">
-            <num>(A) - (E)</num>
+            <num from="(A)" to="(E)">(A) - (E)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -11014,7 +11022,7 @@
             <reason>As in NEC, but by Special Permission Only</reason>
           </para>
           <para name="2.-5.">
-            <num>2. - 5.</num>
+            <num from="2." to="5.">2. - 5.</num>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11145,7 +11153,7 @@
           <num>334.30</num>
           <heading>Securing and Supporting.  Nonmetallic-sheathed cable must be supported and secured by insulated (or, in a single-family dwelling, even by non-insulated) staples, cable ties, straps, hangers, or similar fittings, designed and installed so as not to damage the cable, at intervals not exceeding 4½ feet (1.4m) and within 12 inches (300 mm) of every outlet box, junction box, cabinet, or fitting.  Flat cables may not be stapled on edge.  Sections of cable protected from physical damage by a raceway need not be secured within the raceway.</heading>
           <para name="(A)-(C)">
-            <num>(A) - (C)</num>
+            <num from="(A)" to="(C)">(A) - (C)</num>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11211,7 +11219,7 @@
           <num>422.47</num>
           <heading>Water Heater Controls.  {Introductory paragraph as in NEC}</heading>
           <para name="(1)-(2)">
-            <num>(1) - (2)</num>
+            <num from="(1)" to="(2)">(1) - (2)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -11261,7 +11269,7 @@
           <num>525.21</num>
           <heading>Rides, Tents, and Concessions.</heading>
           <para name="(A)-(B)">
-            <num>(A) - (B)</num>
+            <num from="(A)" to="(B)">(A) - (B)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -11275,7 +11283,7 @@
           <num>525.22</num>
           <heading>Portable Distribution or Termination Boxes.   Portable distribution or termination boxes must comply with all of the requirements of this § 525.22.</heading>
           <para name="(A)-(D)">
-            <num>(A) - (D)</num>
+            <num from="(A)" to="(D)">(A) - (D)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -11341,7 +11349,7 @@
               </para>
             </para>
             <para name="(2)-(3)">
-              <num>(2) - (3)</num>
+              <num from="(2)" to="(3)">(2) - (3)</num>
               <reason>As in NEC</reason>
             </para>
           </para>
@@ -11377,7 +11385,7 @@
           <num>695.3</num>
           <heading>Power Source(s) for Electric Motor-Driven Fire Pumps.  {Introductory paragraph as in NEC}</heading>
           <para name="(A)-(C)">
-            <num>(A) - (C)</num>
+            <num from="(A)" to="(C)">(A) - (C)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -11405,7 +11413,7 @@
             </para>
           </para>
           <para name="(E)-(I)">
-            <num>(E) - (I)</num>
+            <num from="(E)" to="(I)">(E) - (I)</num>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11423,7 +11431,7 @@
             <title>Supply Conductors.</title>
             <reason>As in NEC</reason>
             <para name="(1)-(2)">
-              <num>(1) - (2)</num>
+              <num from="(1)" to="(2)">(1) - (2)</num>
               <reason>As in NEC</reason>
             </para>
             <text>
@@ -11437,7 +11445,7 @@
             </text>
           </para>
           <para name="(B)-(J)">
-            <num>(B) - (J)</num>
+            <num from="(B)" to="(J)">(B) - (J)</num>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11451,7 +11459,7 @@
           <num>695.12</num>
           <heading>Equipment Location.</heading>
           <para name="(A)-(F)">
-            <num>(A) - (F)</num>
+            <num from="(A)" to="(F)">(A) - (F)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -11493,7 +11501,7 @@
           <num>700.12</num>
           <heading>General Requirements.  {Introductory Paragraphs as in NEC}</heading>
           <para name="(A)-(C)">
-            <num>(A) - (C)</num>
+            <num from="(A)" to="(C)">(A) - (C)</num>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -11502,7 +11510,7 @@
             <reason>Not Adopted</reason>
           </para>
           <para name="(E)-(F)">
-            <num>(E) - (F)</num>
+            <num from="(E)" to="(F)">(E) - (F)</num>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11527,15 +11535,15 @@
           <num>701.12</num>
           <heading>General Requirements.  {Introductory paragraphs as in NEC}</heading>
           <para name="(A)-(C)">
-            <num>(A) - (C)</num>
+            <num from="(A)" to="(C)">(A) - (C)</num>
             <reason>As in NEC</reason>
           </para>
           <para name="(D)-(E)">
-            <num>(D) - (E)</num>
+            <num from="(D)" to="(E)">(D) - (E)</num>
             <reason>Not Adopted</reason>
           </para>
           <para name="(F)-(G)">
-            <num>(F) - (G)</num>
+            <num from="(F)" to="(G)">(F) - (G)</num>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11632,7 +11640,7 @@
           </para>
         </para>
         <para name="101.2to101.5">
-          <num>101.2 to 101.5</num>
+          <num from="101.2" to="101.5">101.2 to 101.5</num>
           <reason>As in IFGC</reason>
         </para>
       </section>
@@ -11660,7 +11668,7 @@
           </para>
         </para>
         <para name="103.2to103.3">
-          <num>103.2 to 103.3</num>
+          <num from="103.2" to="103.3">103.2 to 103.3</num>
           <reason>Not Adopted</reason>
         </para>
         <para>
@@ -11674,7 +11682,7 @@
         <num>104</num>
         <heading>Duties and Powers of Code Official</heading>
         <para name="104.1to104.2">
-          <num>104.1 to 104.2</num>
+          <num from="104.1" to="104.2">104.1 to 104.2</num>
           <reason>As in IFGC</reason>
         </para>
         <para>
@@ -11730,9 +11738,8 @@
             <reason>As in IFGC</reason>
           </para>
         </para>
-        <para>
-          <num>105.3</num>
-          <title>to 105.5</title>
+        <para name="105.3to105.5">
+          <num from="105.3" to="105.5">105.3  to 105.5</num>
           <reason>As in IFGC</reason>
         </para>
       </section>
@@ -11741,7 +11748,7 @@
         <num>106</num>
         <heading>Permits</heading>
         <para name="106.1to106.2">
-          <num>106.1 to 106.2</num>
+          <num from="106.1" to="106.2">106.1 to 106.2</num>
           <reason>As in IFGC</reason>
         </para>
         <para>
@@ -11749,7 +11756,7 @@
           <heading>Application for permit.</heading>
           <text>The requirements for obtaining a permit are as set forth in § 105.3 {"Application for permit"} of the Baltimore City Building Code.</text>
           <para name="106.3.1to106.3.2">
-            <num>106.3.1 to 106.3.2</num>
+            <num from="106.3.1" to="106.3.2">106.3.1 to 106.3.2</num>
             <reason>Not Adopted</reason>
           </para>
         </para>
@@ -11763,7 +11770,7 @@
           <title>Permit issuance.</title>
           <reason>As in IFGC</reason>
           <para name="106.5.1to106.5.2">
-            <num>106.5.1 to 106.5.2</num>
+            <num from="106.5.1" to="106.5.2">106.5.1 to 106.5.2</num>
             <reason>As in IFGC</reason>
           </para>
           <para>
@@ -11782,7 +11789,7 @@
             <text>The Building Official may suspend or revoke a permit as provided in § 105.6 {"Suspension or revocation"} of the Baltimore City Building Code.</text>
           </para>
           <para name="106.5.6to106.5.8">
-            <num>106.5.6 to 106.5.8</num>
+            <num from="106.5.6" to="106.5.8">106.5.6 to 106.5.8</num>
             <reason>As in IFGC</reason>
           </para>
         </para>
@@ -11818,7 +11825,7 @@
         <num>108</num>
         <heading>Violations</heading>
         <para name="108.1to108.3">
-          <num>108.1 to 108.3</num>
+          <num from="108.1" to="108.3">108.1 to 108.3</num>
           <reason>As in IFGC</reason>
         </para>
         <para>
@@ -11832,7 +11839,7 @@
           <text>The issuance and enforcement of stop-work orders are as provided in § 115 {"Stop-Work Order"} of the Baltimore City Building Code.</text>
         </para>
         <para name="108.6to108.7">
-          <num>108.6 to 108.7</num>
+          <num from="108.6" to="108.7">108.6 to 108.7</num>
           <reason>As in IFGC</reason>
         </para>
       </section>
@@ -11846,7 +11853,7 @@
           <text>A decision of the Code Official is subject to administrative and judicial review as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="109.2to109.7">
-          <num>109.2 to 109.7</num>
+          <num from="109.2" to="109.7">109.2 to 109.7</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -11866,7 +11873,7 @@
         <num>201</num>
         <heading>General</heading>
         <para name="201.1to201.2">
-          <num>201.1 to 201.2</num>
+          <num from="201.1" to="201.2">201.1 to 201.2</num>
           <reason>As in IFGC</reason>
         </para>
         <para>
@@ -11949,7 +11956,7 @@
         <num>301</num>
         <heading>General</heading>
         <para name="301.1to301.10">
-          <num>301.1 to 301.10</num>
+          <num from="301.1" to="301.10">301.1 to 301.10</num>
           <reason>As in IFGC</reason>
         </para>
         <para>
@@ -11964,7 +11971,7 @@
           </text>
         </para>
         <para name="301.12to301.15">
-          <num>301.12 to 301.15</num>
+          <num from="301.12" to="301.15">301.12 to 301.15</num>
           <reason>As in IFGC</reason>
         </para>
       </section>
@@ -12038,7 +12045,7 @@
           <text>Changes in direction of gas pipe may be made by the use of fittings.  Factory bends or field bends are only permitted underground, in a location outside of any building.</text>
         </para>
         <para name="405.2to405.4">
-          <num>405.2 to 405.4</num>
+          <num from="405.2" to="405.4">405.2 to 405.4</num>
           <reason>As in IFGC</reason>
         </para>
       </section>
@@ -12073,7 +12080,7 @@
           <text>Unvented room heaters are prohibited.</text>
         </para>
         <para name="621.2to621.7">
-          <num>621.2 to 621.7</num>
+          <num from="621.2" to="621.7">621.2 to 621.7</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -12147,7 +12154,7 @@
           </para>
         </para>
         <para name="101.2to101.4">
-          <num>101.2 to 101.4</num>
+          <num from="101.2" to="101.4">101.2 to 101.4</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12175,7 +12182,7 @@
           </para>
         </para>
         <para name="103.2to103.3">
-          <num>103.2 to 103.3</num>
+          <num from="103.2" to="103.3">103.2 to 103.3</num>
           <reason>Not adopted</reason>
         </para>
         <para>
@@ -12189,7 +12196,7 @@
         <num>104</num>
         <heading>Duties and Powers of Code Official</heading>
         <para name="104.1to104.2">
-          <num>104.1 to 104.2</num>
+          <num from="104.1" to="104.2">104.1 to 104.2</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12245,9 +12252,8 @@
             <reason>As in IMC</reason>
           </para>
         </para>
-        <para>
-          <num>105.3</num>
-          <title>to 105.5</title>
+        <para name="105.3to105.5">
+          <num from="105.3" to="105.5">105.3  to 105.5</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12256,7 +12262,7 @@
         <num>106</num>
         <heading>Permits</heading>
         <para name="106.1to106.2">
-          <num>106.1 to 106.2</num>
+          <num from="106.1" to="106.2">106.1 to 106.2</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12264,7 +12270,7 @@
           <heading>Application for permit.</heading>
           <text>The requirements for obtaining a permit are as set forth in § 105.3 {"Application for permit"} of the Baltimore City Building Code.</text>
           <para name="106.3.1to106.3.3">
-            <num>106.3.1 to 106.3.3</num>
+            <num from="106.3.1" to="106.3.3">106.3.1 to 106.3.3</num>
             <reason>Not Adopted</reason>
           </para>
         </para>
@@ -12273,7 +12279,7 @@
           <title>Permit issuance.</title>
           <reason>As in IMC</reason>
           <para name="106.4.1to106.4.2">
-            <num>106.4.1 to 106.4.2</num>
+            <num from="106.4.1" to="106.4.2">106.4.1 to 106.4.2</num>
             <reason>As in IMC</reason>
           </para>
           <para>
@@ -12292,7 +12298,7 @@
             <text>The Building Official may suspend or revoke a permit as provided in § 105.6 {"Suspension or revocation"} of the Baltimore City Building Code.</text>
           </para>
           <para name="106.4.6to106.4.8">
-            <num>106.4.6 to 106.4.8</num>
+            <num from="106.4.6" to="106.4.8">106.4.6 to 106.4.8</num>
             <reason>As in IMC</reason>
           </para>
         </para>
@@ -12328,7 +12334,7 @@
         <num>108</num>
         <heading>Violations</heading>
         <para name="108.1to108.3">
-          <num>108.1 to 108.3</num>
+          <num from="108.1" to="108.3">108.1 to 108.3</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12342,7 +12348,7 @@
           <text>The issuance and enforcement of stop-work orders are as provided in § 115 {"Stop-Work Order"} of the Baltimore City Building Code.</text>
         </para>
         <para name="108.6to108.7">
-          <num>108.6 to 108.7</num>
+          <num from="108.6" to="108.7">108.6 to 108.7</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12356,7 +12362,7 @@
           <text>A decision of the Code Official is subject to administrative and judicial review as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="109.2to109.7">
-          <num>109.2 to 109.7</num>
+          <num from="109.2" to="109.7">109.2 to 109.7</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -12376,18 +12382,18 @@
         <num>201</num>
         <heading>General</heading>
         <para name="201.1to201.2">
-          <num>201.1 to 201.2</num>
+          <num from="201.1" to="201.2">201.1 to 201.2</num>
           <reason>As in IMC</reason>
-          <para>
-            <num>201.3</num>
-            <heading>Terms defined in other codes.</heading>
-            <text>If a term is not defined in this Code and is defined in the Baltimore City Building Code or in one or another of the standards and codes listed in § 101.4 {"Referenced Codes"} of the Baltimore City Building Code, the term has the meaning given to it in that code or standard.</text>
-          </para>
-          <para>
-            <num>201.4</num>
-            <title>Terms not defined.</title>
-            <reason>As in IMC</reason>
-          </para>
+        </para>
+        <para>
+          <num>201.3</num>
+          <heading>Terms defined in other codes.</heading>
+          <text>If a term is not defined in this Code and is defined in the Baltimore City Building Code or in one or another of the standards and codes listed in § 101.4 {"Referenced Codes"} of the Baltimore City Building Code, the term has the meaning given to it in that code or standard.</text>
+        </para>
+        <para>
+          <num>201.4</num>
+          <title>Terms not defined.</title>
+          <reason>As in IMC</reason>
         </para>
       </section>
       <section>
@@ -12464,7 +12470,7 @@
         <num>301</num>
         <heading>General</heading>
         <para name="301.1to301.5">
-          <num>301.1 to 301.5</num>
+          <num from="301.1" to="301.5">301.1 to 301.5</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12472,9 +12478,8 @@
           <heading>Fuel gas appliances and equipment.</heading>
           <text>The approval and installation of fuel gas distribution piping and equipment, fuel gas-fired appliances, and fuel gas-fired appliance venting systems must be in accordance with the International Fuel Gas Code.</text>
         </para>
-        <para>
-          <num>301.7</num>
-          <title>to  301.10</title>
+        <para name="301.7to301.10">
+          <num from="301.7" to="301.10">301.7 to  301.10</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12483,7 +12488,7 @@
           <text>Potable water supply and building drainage system connections to equipment and appliances regulated by this code must be accordance with the International Plumbing Code.</text>
         </para>
         <para name="301.12to301.15">
-          <num>301.12 to 301.15</num>
+          <num from="301.12" to="301.15">301.12 to 301.15</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12524,7 +12529,7 @@
         <num>303</num>
         <heading>Equipment and Appliance Location</heading>
         <para name="303.1to303.2">
-          <num>303.1 to 303.2</num>
+          <num from="303.1" to="303.2">303.1 to 303.2</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12566,7 +12571,7 @@
           </para>
         </para>
         <para name="303.4to303.9">
-          <num>303.4 to 303.9</num>
+          <num from="303.4" to="303.9">303.4 to 303.9</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12575,7 +12580,7 @@
         <num>304</num>
         <heading>Installation</heading>
         <para name="304.1to304.12">
-          <num>304.1 to 304.12</num>
+          <num from="304.1" to="304.12">304.1 to 304.12</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12655,7 +12660,7 @@
         <num>501</num>
         <heading>General</heading>
         <para name="501.1to501.2">
-          <num>501.1 to 501.2</num>
+          <num from="501.1" to="501.2">501.1 to 501.2</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12682,7 +12687,7 @@
             <heading>Location of exhaust outlets.</heading>
             <text>The termination point of exhaust outlets and ducts discharging to the outdoors shall be located with the following minimum distances:</text>
             <para name="1.to3.">
-              <num>1. to 3.</num>
+              <num from="1." to="3.">1. to 3.</num>
               <reason>As in IMC</reason>
             </para>
             <para>
@@ -12701,7 +12706,7 @@
           </para>
         </para>
         <para name="501.4to501.5">
-          <num>501.4 to 501.5</num>
+          <num from="501.4" to="501.5">501.4 to 501.5</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12710,25 +12715,25 @@
         <num>502</num>
         <heading>Required Systems</heading>
         <para name="502.1to502.13">
-          <num>502.1 to 502.13</num>
+          <num from="502.1" to="502.13">502.1 to 502.13</num>
           <reason>As in IMC</reason>
         </para>
         <para>
           <num>502.14</num>
           <heading>Motor vehicle operation.</heading>
           <text>In any area where motor vehicles operate:</text>
-        </para>
-        <para>
-          <num>1.</num>
-          <text>mechanical ventilation must be provided in accordance with § 403 of this Code,</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>for stationary motor vehicles, the area must be provided with a source capture system that connects directly to the motor vehicle exhaust systems, and</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>in fuel-dispensing areas, the bottom of the air inlet or exhaust opening must be located no more than 18 inches (203 mm) above the floor.</text>
+          <para>
+            <num>1.</num>
+            <text>mechanical ventilation must be provided in accordance with § 403 of this Code,</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>for stationary motor vehicles, the area must be provided with a source capture system that connects directly to the motor vehicle exhaust systems, and</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>in fuel-dispensing areas, the bottom of the air inlet or exhaust opening must be located no more than 18 inches (203 mm) above the floor.</text>
+          </para>
           <para>
             <num>502.14.1</num>
             <heading>System requirements.</heading>
@@ -12742,7 +12747,7 @@
           </para>
         </para>
         <para name="502.15to502.20">
-          <num>502.15 to 502.20</num>
+          <num from="502.15" to="502.20">502.15 to 502.20</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12767,14 +12772,17 @@
         <num>602</num>
         <heading>Plenums</heading>
         <para name="602.1to602.2">
-          <num>602.1 to 602.2</num>
+          <num from="602.1" to="602.2">602.1 to 602.2</num>
           <reason>As in IMC</reason>
         </para>
         <para>
           <num>602.3</num>
           <title>Stud cavity and joist space plenums.</title>
           <reason>As in IMC</reason>
-          <text>1 - 6.  <strong><em>{As in IMC}</em></strong></text>
+          <para name="1.-6.">
+            <num from="1." to="6.">1. - 6.</num>
+            <reason>As in IMC</reason>
+          </para>
           <para>
             <num>7.</num>
             <text>Stud wall cavities and spaces between solid floor joists abutting garage walls may not be utilized as air plenums.</text>
@@ -12784,12 +12792,14 @@
           <num>602.4</num>
           <heading>Flood hazard areas.</heading>
           <text>For structures in a flood hazard area, plenum spaces must be located above the elevation required by the Floodplain Management Code for electric, plumbing, and mechanical systems and their attendant components and equipment or designed and constructed to prevent water from entering or accumulating within the plenum spaces during floods up to that elevation, if allowed by the requirements of the Floodplain Management Code.</text>
-          <text>
-            <strong>Sections 603  Duct Construction and Installation</strong>
-          </text>
         </para>
+      </section>
+      <section>
+        <prefix>Section</prefix>
+        <num>603</num>
+        <heading>Duct Construction and Installation</heading>
         <para name="603.1to603.12">
-          <num>603.1 to 603.12</num>
+          <num from="603.1" to="603.12">603.1 to 603.12</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12798,7 +12808,7 @@
           <text>For structures in a flood hazard area, ducts must be located above the elevation required by the Floodplain Management Code for electric, plumbing, and mechanical systems and their attendant components and equipment or designed and constructed to prevent water from entering or accumulating within the ducts during floods up to that elevation, if allowed by the requirements of the Floodplain Management Code.</text>
         </para>
         <para name="603.14to603.18">
-          <num>603.14 to 603.18</num>
+          <num from="603.14" to="603.18">603.14 to 603.18</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12823,17 +12833,17 @@
         <num>801</num>
         <heading>General</heading>
         <para name="801.1to801.17">
-          <num>801.1 to 801.17</num>
+          <num from="801.1" to="801.17">801.1 to 801.17</num>
           <reason>As in IMC</reason>
         </para>
         <para>
           <num>801.18</num>
           <title>Existing chimneys and vents.</title>
           <reason>As in IMC</reason>
-        </para>
-        <para name="801.18.1to801.18.4">
-          <num>801.18.1 to 801.18.4</num>
-          <reason>As in IMC</reason>
+          <para name="801.18.1to801.18.4">
+            <num from="801.18.1" to="801.18.4">801.18.1 to 801.18.4</num>
+            <reason>As in IMC</reason>
+          </para>
           <para>
             <num>801.18.5</num>
             <heading>Prohibited use.</heading>
@@ -12877,7 +12887,7 @@
         <num>1006</num>
         <heading>Safety and Pressure Relief Valves and Controls</heading>
         <para name="1006.1to1006.5">
-          <num>1006.1 to 1006.5</num>
+          <num from="1006.1" to="1006.5">1006.1 to 1006.5</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12886,7 +12896,7 @@
           <text>Safety and relief valve discharge pipes must be of rigid pipe that is approved for the temperature of the system.  The discharge pipe must be the same diameter as the safety or relief valve outlet.  Safety and relief valves may not discharge so as to be a hazard, a potential cause of damage, or otherwise a nuisance.  High-pressure-steam safety valves must be vented to the outside of the structure.  Where a low- pressure safety valve or where a relief valve discharges the drainage system, the installation must conform to the International Plumbing Code.  All discharges to floor drains must be from within 2 to 6 inches (50.8 mm to 152.4 mm) from the drain.</text>
         </para>
         <para name="1006.7to1006.8">
-          <num>1006.7 to 1006.8</num>
+          <num from="1006.7" to="1006.8">1006.7 to 1006.8</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12916,7 +12926,7 @@
         <num>1206</num>
         <heading>Piping Installation</heading>
         <para name="1206.1to1206.8">
-          <num>1206.1 to 1206.8</num>
+          <num from="1206.1" to="1206.8">1206.1 to 1206.8</num>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12965,7 +12975,7 @@
           </para>
         </para>
         <para name="1305.3to1305.7.">
-          <num>1305.3 to 1305.7.</num>
+          <num from="1305.3" to="1305.7.">1305.3 to 1305.7.</num>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -13039,7 +13049,7 @@
           </para>
         </para>
         <para name="101.2to101.4">
-          <num>101.2 to 101.4</num>
+          <num from="101.2" to="101.4">101.2 to 101.4</num>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13067,7 +13077,7 @@
           </para>
         </para>
         <para name="103.2to103.3">
-          <num>103.2 to 103.3</num>
+          <num from="103.2" to="103.3">103.2 to 103.3</num>
           <reason>Not Adopted</reason>
         </para>
         <para>
@@ -13081,7 +13091,7 @@
         <num>104</num>
         <heading>Duties and Powers of Code Official</heading>
         <para name="104.1to104.2">
-          <num>104.1 to 104.2</num>
+          <num from="104.1" to="104.2">104.1 to 104.2</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13137,9 +13147,8 @@
             <reason>As in IPC</reason>
           </para>
         </para>
-        <para>
-          <num>105.3</num>
-          <title>to 105.4</title>
+        <para name="105.3to105.4">
+          <num from="105.3" to="105.4">105.3  to 105.4</num>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13148,16 +13157,15 @@
         <num>106</num>
         <heading>Permits</heading>
         <para name="106.1to106.2">
-          <num>106.1 to 106.2</num>
+          <num from="106.1" to="106.2">106.1 to 106.2</num>
           <reason>As in IPC</reason>
         </para>
         <para>
           <num>106.3</num>
           <heading>Application for permit.</heading>
           <text>The requirements for obtaining a permit are as set forth in § 105.3 {"Application for permit"} of the Baltimore City Building Code.</text>
-          <para>
-            <num>106.3.1</num>
-            <title>to 106.3.3</title>
+          <para name="106.3.1to106.3.3">
+            <num from="106.3.1" to="106.3.3">106.3.1  to 106.3.3</num>
             <reason>Not Adopted</reason>
           </para>
         </para>
@@ -13171,7 +13179,7 @@
           <title>Permit issuance.</title>
           <reason>As in IPC</reason>
           <para name="106.5.1to106.5.2">
-            <num>106.5.1 to 106.5.2</num>
+            <num from="106.5.1" to="106.5.2">106.5.1 to 106.5.2</num>
             <reason>As in IPC</reason>
           </para>
           <para>
@@ -13190,7 +13198,7 @@
             <text>The Building Official may suspend or revoke a permit as provided in § 105.6 {"Suspension or revocation"} of the Baltimore City Building Code.</text>
           </para>
           <para name="106.5.6to106.5.8">
-            <num>106.5.6 to 106.5.8</num>
+            <num from="106.5.6" to="106.5.8">106.5.6 to 106.5.8</num>
             <reason>As in IPC</reason>
           </para>
         </para>
@@ -13226,7 +13234,7 @@
         <num>108</num>
         <heading>Violations</heading>
         <para name="108.1to108.3">
-          <num>108.1 to 108.3</num>
+          <num from="108.1" to="108.3">108.1 to 108.3</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13240,7 +13248,7 @@
           <text>The issuance and enforcement of stop-work orders are as provided in § 115 {"Stop-Work Order"} of the Baltimore City Building Code.</text>
         </para>
         <para name="108.6to108.7">
-          <num>108.6 to 108.7</num>
+          <num from="108.6" to="108.7">108.6 to 108.7</num>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13254,7 +13262,7 @@
           <text>A decision of the Code Official is subject to administrative and judicial review as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="109.2to109.7">
-          <num>109.2 to 109.7</num>
+          <num from="109.2" to="109.7">109.2 to 109.7</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -13274,7 +13282,7 @@
         <num>201</num>
         <heading>General</heading>
         <para name="201.1to201.2">
-          <num>201.1 to 201.2</num>
+          <num from="201.1" to="201.2">201.1 to 201.2</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13353,7 +13361,7 @@
         <num>305</num>
         <heading>Protection of Pipes and Plumbing System Components</heading>
         <para name="305.1to305.3">
-          <num>305.1 to 305.3</num>
+          <num from="305.1" to="305.3">305.1 to 305.3</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13387,7 +13395,7 @@
           </para>
         </para>
         <para name="305.5to305.7">
-          <num>305.5 to 305.7</num>
+          <num from="305.5" to="305.7">305.5 to 305.7</num>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13482,7 +13490,7 @@
             <text>Condensate from all cooling coils or evaporators must be conveyed from the drain pan outlet to an approved place of disposal.  The piping must maintain a minimum horizontal slope in the direction of discharge of not less than one-eighth unit vertical in 12 units horizontal (1% slope).  Condensate may not discharge into a street, alley, or other area so as to cause a nuisance.  Clear water discharge must be conveyed to the storm drain where feasible unless otherwise approved by the Code Official.</text>
           </para>
           <para name="314.2.2to314.2.5">
-            <num>314.2.2 to 314.2.5</num>
+            <num from="314.2.2" to="314.2.5">314.2.2 to 314.2.5</num>
             <reason>As in IPC</reason>
           </para>
         </para>
@@ -13530,7 +13538,7 @@
         <num>406</num>
         <heading>Automatic Clothes Washers</heading>
         <para name="406.1to406.2">
-          <num>406.1 to 406.2</num>
+          <num from="406.1" to="406.2">406.1 to 406.2</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13565,7 +13573,7 @@
         <num>605</num>
         <heading>Materials, Joints, and Connections</heading>
         <para name="605.1to605.12">
-          <num>605.1 to 605.12</num>
+          <num from="605.1" to="605.12">605.1 to 605.12</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13573,7 +13581,7 @@
           <title>Copper tubing.</title>
           <reason>As in IPC</reason>
           <para name="605.13.1to605.13.7">
-            <num>605.13.1 to 605.13.7</num>
+            <num from="605.13.1" to="605.13.7">605.13.1 to 605.13.7</num>
             <reason>As in IPC</reason>
           </para>
           <para>
@@ -13583,7 +13591,7 @@
           </para>
         </para>
         <para name="605.14to605.24">
-          <num>605.14 to 605.24</num>
+          <num from="605.14" to="605.24">605.14 to 605.24</num>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13598,7 +13606,7 @@
         <num>607</num>
         <heading>Hot Water Supply System</heading>
         <para name="607.1to607.2">
-          <num>607.1 to 607.2</num>
+          <num from="607.1" to="607.2">607.1 to 607.2</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13625,7 +13633,7 @@
           </para>
         </para>
         <para name="607.4to607.5">
-          <num>607.4 to 607.5</num>
+          <num from="607.4" to="607.5">607.4 to 607.5</num>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13644,14 +13652,14 @@
           </para>
         </para>
         <para name="608.2to608.16">
-          <num>608.2 to 608.16</num>
+          <num from="608.2" to="608.16">608.2 to 608.16</num>
           <reason>As in IPC</reason>
         </para>
         <para>
           <num>608.17</num>
           <heading>Connections to the potable water system.</heading>
           <para name="608.17.1to608.17.3">
-            <num>608.17.1 to 608.17.3</num>
+            <num from="608.17.1" to="608.17.3">608.17.1 to 608.17.3</num>
             <reason>As in IPC</reason>
           </para>
           <para>
@@ -13670,10 +13678,10 @@
               <text><strong>Exception:  </strong>Single-family dwellings.</text>
             </para>
           </para>
-        </para>
-        <para name="608.17.5to608.17.10">
-          <num>608.17.5 to 608.17.10</num>
-          <reason>As in IPC</reason>
+          <para name="608.17.5to608.17.10">
+            <num from="608.17.5" to="608.17.10">608.17.5 to 608.17.10</num>
+            <reason>As in IPC</reason>
+          </para>
         </para>
         <para>
           <num>608.18</num>
@@ -13705,7 +13713,7 @@
           <title>Cleanouts required.</title>
           <reason>As in IPC</reason>
           <para name="708.1.1to708.1.6">
-            <num>708.1.1 to 708.1.6</num>
+            <num from="708.1.1" to="708.1.6">708.1.1 to 708.1.6</num>
             <reason>As in IPC</reason>
           </para>
           <para>
@@ -13719,7 +13727,7 @@
             </para>
           </para>
           <para name="708.1.8to708.1.11">
-            <num>708.1.8 to 708.1.11</num>
+            <num from="708.1.8" to="708.1.11">708.1.8 to 708.1.11</num>
             <reason>As in IPC</reason>
           </para>
           <para>
@@ -13754,7 +13762,7 @@
           <title>Where required.</title>
           <reason>As in IPC</reason>
           <para name="802.1.1to802.1.5">
-            <num>802.1.1 to 802.1.5</num>
+            <num from="802.1.1" to="802.1.5">802.1.1 to 802.1.5</num>
             <reason>As in IPC</reason>
           </para>
           <para>
@@ -13774,7 +13782,7 @@
           </para>
         </para>
         <para name="802.2to802.4">
-          <num>802.2 to 802.4</num>
+          <num from="802.2" to="802.4">802.2 to 802.4</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13804,7 +13812,7 @@
         <num>913</num>
         <heading>Waste Stack Vent</heading>
         <para name="913.1to913.4">
-          <num>913.1 to 913.4</num>
+          <num from="913.1" to="913.4">913.1 to 913.4</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13833,7 +13841,7 @@
         <num>1003</num>
         <heading>Interceptors and Separators</heading>
         <para name="1003.1to1003.2">
-          <num>1003.1 to 1003.2</num>
+          <num from="1003.1" to="1003.2">1003.1 to 1003.2</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13841,7 +13849,7 @@
           <heading>Grease interceptors.</heading>
           <text>Grease interceptors must comply with the requirements of this § 1003.3 and with any additional requirements of the Code Official</text>
           <para name="1003.3.1to1003.3.8">
-            <num>1003.3.1 to 1003.3.8</num>
+            <num from="1003.3.1" to="1003.3.8">1003.3.1 to 1003.3.8</num>
             <reason>As in IPC</reason>
           </para>
         </para>
@@ -13859,7 +13867,7 @@
             <title>Oil separator design.</title>
             <reason>As in IPC</reason>
             <para name="1003.4.2.1to1003.4.2.2">
-              <num>1003.4.2.1 to 1003.4.2.2</num>
+              <num from="1003.4.2.1" to="1003.4.2.2">1003.4.2.1 to 1003.4.2.2</num>
               <reason>As in IPC</reason>
             </para>
             <para>
@@ -13875,7 +13883,7 @@
           </para>
         </para>
         <para name="1003.5to1003.10">
-          <num>1003.5 to 1003.10</num>
+          <num from="1003.5" to="1003.10">1003.5 to 1003.10</num>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13900,7 +13908,7 @@
         <num>1105</num>
         <heading>Roof Drains</heading>
         <para name="1105.1to1105.2">
-          <num>1105.1 to 1105.2</num>
+          <num from="1105.1" to="1105.2">1105.1 to 1105.2</num>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13923,14 +13931,14 @@
             <text>
               <strong>Exceptions:</strong>
             </text>
-          </para>
-        </para>
-        <para>
-          <num>1.</num>
-          <text>Roofs, cornices, copings, or other similar projections that are less than 5 feet (3.03 m), measured horizontally in the line of flow, as long the water is not discharged on any sidewalk, footway, or adjoining property.</text>
-          <para>
-            <num>2.</num>
-            <text>Awnings or marquees that discharge off the outer edge.</text>
+            <para>
+              <num>1.</num>
+              <text>Roofs, cornices, copings, or other similar projections that are less than 5 feet (3.03 m), measured horizontally in the line of flow, as long the water is not discharged on any sidewalk, footway, or adjoining property.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Awnings or marquees that discharge off the outer edge.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -14167,7 +14175,7 @@
           <reason>Not Adopted</reason>
         </para>
         <para name="102.7to102.10">
-          <num>102.7 to 102.10</num>
+          <num from="102.7" to="102.10">102.7 to 102.10</num>
           <reason>As in IPMC</reason>
         </para>
         <annotations>
@@ -14405,7 +14413,7 @@
           <text>Procedures for enforcement or other actions involving unsafe structures and equipment are as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="108.2to108.7">
-          <num>108.2 to 108.7</num>
+          <num from="108.2" to="108.7">108.2 to 108.7</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -14419,7 +14427,7 @@
           <text>Whenever necessary or appropriate, the Code Official may take emergency measures as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="109.2to109.6">
-          <num>109.2 to 109.6</num>
+          <num from="109.2" to="109.6">109.2 to 109.6</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -14433,7 +14441,7 @@
           <text>The Code Official may order the rehabilitation, stabilization, or demolition of structures found to be unsafe or unfit for human habitation or other authorized use as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="110.2to110.4">
-          <num>110.2 to 110.4</num>
+          <num from="110.2" to="110.4">110.2 to 110.4</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -14447,7 +14455,7 @@
           <text>A decision of the Code Official is subject to administrative and judicial review as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="111.2to111.8">
-          <num>111.2 to 111.8</num>
+          <num from="111.2" to="111.8">111.2 to 111.8</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -14461,7 +14469,7 @@
           <text>The issuance and enforcement of stop-work orders are as provided in § 115 {"Stop-Work Order"} of the Baltimore City Building Code.</text>
         </para>
         <para name="112.2to112.4">
-          <num>112.2 to 112.4</num>
+          <num from="112.2" to="112.4">112.2 to 112.4</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -14518,18 +14526,18 @@
             <heading>Code Official.</heading>
             <text>"Code Official" has the meaning stated in § 103.1 of this Code.</text>
           </para>
-        </para>
-        <para>
-          <num>202.2.2</num>
-          <heading>Condemn.</heading>
-          <text>"Condemn" means:</text>
           <para>
-            <num>1.</num>
-            <text>to adjudge equipment or facilities as being unsafe for use, or</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>to adjudge a structure as being unsafe or unfit for occupancy.</text>
+            <num>202.2.2</num>
+            <heading>Condemn.</heading>
+            <text>"Condemn" means:</text>
+            <para>
+              <num>1.</num>
+              <text>to adjudge equipment or facilities as being unsafe for use, or</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>to adjudge a structure as being unsafe or unfit for occupancy.</text>
+            </para>
           </para>
           <para>
             <num>202.2.3</num>
@@ -14634,11 +14642,11 @@
               <num>2.</num>
               <text>contains more than 2 rooming units occupied or designed or intended to be  occupied by individuals who, even though they might share common areas and facilities, do not form a single housekeeping unit and do not provide compensation under a single lease for occupancy of the rooming house.</text>
             </para>
-          </para>
-          <para>
-            <num>202.2.14.1</num>
-            <heading>Inclusions.</heading>
-            <text>"Rooming house" includes a hotel, motel, bed and breakfast (as defined in Zoning Code § 1-203(f)), or boarding house.</text>
+            <para>
+              <num>202.2.14.1</num>
+              <heading>Inclusions.</heading>
+              <text>"Rooming house" includes a hotel, motel, bed and breakfast (as defined in Zoning Code § 1-203(f)), or boarding house.</text>
+            </para>
           </para>
           <para>
             <num>202.2.15</num>
@@ -15530,7 +15538,7 @@
             <text>Every bedroom occupied by 1 person must contain at least 70 sq. ft. (6.5 sq. m.) of floor area.  Every bedroom occupied by more than one person must contain at least 50 sq. ft. (4.6 sq. m.) of floor area for each occupant of the bedroom.</text>
           </para>
           <para name="404.4.2to404.4.5">
-            <num>404.4.2 to 404.4.5</num>
+            <num from="404.4.2" to="404.4.5">404.4.2 to 404.4.5</num>
             <reason>As in IPMC</reason>
           </para>
         </para>
@@ -15547,57 +15555,57 @@
             <num>404.5.2</num>
             <heading>Combined spaces.</heading>
             <text>Combined living room and dining room spaces must comply with the requirements of Table 404.5 if:</text>
+            <para>
+              <num>1.</num>
+              <text>the total area is equal to that required for separate rooms, and</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>the space is located so as to function as a combination living room/dining room.</text>
+              <text>
+                <table>
+                  <caption>Table 404.5<br/>Minimum Area Requirements</caption>
+                  <tbody>
+                    <tr>
+                      <td proof="needed"/>
+                      <th colspan="3">Minimum Area in Square Feet</th>
+                    </tr>
+                    <tr>
+                      <th>Space</th>
+                      <th>1 to 2 Occupants</th>
+                      <th>3 to 5 Occupants</th>
+                      <th>6 or More Occupants</th>
+                    </tr>
+                    <tr>
+                      <td>Living room <sup>a,b</sup></td>
+                      <td>No requirements</td>
+                      <td>120</td>
+                      <td>150</td>
+                    </tr>
+                    <tr>
+                      <td>Dining room <sup>a,b</sup></td>
+                      <td>No requirements</td>
+                      <td>80</td>
+                      <td>100</td>
+                    </tr>
+                    <tr>
+                      <td>Kitchen<sup> b</sup></td>
+                      <td>50</td>
+                      <td>50</td>
+                      <td>60</td>
+                    </tr>
+                    <tr>
+                      <td>Bedrooms</td>
+                      <td colspan="3">Must comply with § 404.4</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+              <text>For SI: 1 sq. ft. = 0.093 sq. m.</text>
+              <text><sup>a</sup>  For combined living room/dining room spaces, <em>see </em>§ 404.5.2.</text>
+              <text><sup>b</sup>  For limitations on determining minimum occupancy area for sleeping purposes, <em>see </em>§ 404.5.1.</text>
+            </para>
           </para>
-        </para>
-        <para>
-          <num>1.</num>
-          <text>the total area is equal to that required for separate rooms, and</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>the space is located so as to function as a combination living room/dining room.</text>
-          <text>
-            <table>
-              <caption>Table 404.5<br/>Minimum Area Requirements</caption>
-              <tbody>
-                <tr>
-                  <td proof="needed"/>
-                  <th colspan="3">Minimum Area in Square Feet</th>
-                </tr>
-                <tr>
-                  <th>Space</th>
-                  <th>1 to 2 Occupants</th>
-                  <th>3 to 5 Occupants</th>
-                  <th>6 or More Occupants</th>
-                </tr>
-                <tr>
-                  <td>Living room <sup>a,b</sup></td>
-                  <td>No requirements</td>
-                  <td>120</td>
-                  <td>150</td>
-                </tr>
-                <tr>
-                  <td>Dining room <sup>a,b</sup></td>
-                  <td>No requirements</td>
-                  <td>80</td>
-                  <td>100</td>
-                </tr>
-                <tr>
-                  <td>Kitchen<sup> b</sup></td>
-                  <td>50</td>
-                  <td>50</td>
-                  <td>60</td>
-                </tr>
-                <tr>
-                  <td>Bedrooms</td>
-                  <td colspan="3">Must comply with § 404.4</td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-          <text>For SI: 1 sq. ft. = 0.093 sq. m.</text>
-          <text><sup>a </sup> For combined living room/dining room spaces, <em>see </em>§ 404.5.2.</text>
-          <text><sup>b</sup>  For limitations on determining minimum occupancy area for sleeping purposes, <em>see </em>§ 404.5.1.</text>
         </para>
         <para>
           <num>404.6</num>
@@ -15691,7 +15699,7 @@
         <num>505</num>
         <heading>Water Systems</heading>
         <para name="505.1to505.3">
-          <num>505.1 to 505.3</num>
+          <num from="505.1" to="505.3">505.1 to 505.3</num>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -15893,7 +15901,7 @@
           <text>All mechanical equipment provided must be properly installed and maintained in a safe condition.  In addition, all required mechanical equipment must be maintained in a safe working condition and must be capable of performing its intended function.</text>
         </para>
         <para name="603.2to603.6">
-          <num>603.2 to 603.6</num>
+          <num from="603.2" to="603.6">603.2 to 603.6</num>
           <reason>As in IPMC</reason>
         </para>
       </section>
@@ -16144,7 +16152,7 @@
           </para>
         </para>
         <para name="101.3to101.5">
-          <num>101.3 to 101.5</num>
+          <num from="101.3" to="101.5">101.3 to 101.5</num>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -16153,7 +16161,7 @@
         <num>102</num>
         <heading>Applicability</heading>
         <para name="102.1to102.5">
-          <num>102.1 to 102.5</num>
+          <num from="102.1" to="102.5">102.1 to 102.5</num>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16172,7 +16180,7 @@
           </para>
         </para>
         <para name="102.8to102.12">
-          <num>102.8 to 102.12</num>
+          <num from="102.8" to="102.12">102.8 to 102.12</num>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -16197,7 +16205,7 @@
           </para>
         </para>
         <para name="104.2to104.8">
-          <num>104.2 to 104.8</num>
+          <num from="104.2" to="104.8">104.2 to 104.8</num>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16231,16 +16239,16 @@
             <num>104.10.3</num>
             <heading>Charge of evidence.</heading>
             <text>In investigating a fire or related incident, the Bureau must take charge immediately of the physical evidence and, to preserve that evidence, take measures to prevent access by any person to the structure or premises until the evidence has been properly processed.</text>
-          </para>
-          <para>
-            <num>104.10.3.1</num>
-            <heading>Cooperation with other agencies.</heading>
-            <text>The Bureau must notify the persons designated by law to pursue investigations, cooperate with authorities in collecting evidence and in prosecuting offenders, and pursue the investigation to its conclusion.</text>
-          </para>
-          <para>
-            <num>104.10.3.2</num>
-            <heading>Assistance from other agencies.</heading>
-            <text>Police and other enforcement agencies are authorized to render assistance in the investigation of fires when requested to do so.</text>
+            <para>
+              <num>104.10.3.1</num>
+              <heading>Cooperation with other agencies.</heading>
+              <text>The Bureau must notify the persons designated by law to pursue investigations, cooperate with authorities in collecting evidence and in prosecuting offenders, and pursue the investigation to its conclusion.</text>
+            </para>
+            <para>
+              <num>104.10.3.2</num>
+              <heading>Assistance from other agencies.</heading>
+              <text>Police and other enforcement agencies are authorized to render assistance in the investigation of fires when requested to do so.</text>
+            </para>
           </para>
           <para>
             <num>104.10.4</num>
@@ -16298,16 +16306,16 @@
             <heading>Permits required.</heading>
             <text>Permits must be obtained from the Fire Code Official as required by this Code or in the Fire Code Official's Fire Prevention Permit Schedule.  Permit fees, if any, must be paid before the permit is issued.  An issued permit must be kept on the premises designated in that permit at all times and must be readily available for inspection by the Fire Code Official.</text>
           </para>
-        </para>
-        <para>
-          <num>105.1.2</num>
-          <title>Types of permits.</title>
-          <reason>As in IFC</reason>
-        </para>
-        <para>
-          <num>105.1.3</num>
-          <title>Multiple permits for the same location.</title>
-          <reason>As in IFC</reason>
+          <para>
+            <num>105.1.2</num>
+            <title>Types of permits.</title>
+            <reason>As in IFC</reason>
+          </para>
+          <para>
+            <num>105.1.3</num>
+            <title>Multiple permits for the same location.</title>
+            <reason>As in IFC</reason>
+          </para>
           <para>
             <num>105.1.4</num>
             <title>Emergency repairs.</title>
@@ -16338,10 +16346,10 @@
           <num>105.3</num>
           <title>Conditions of a permit.</title>
           <reason>As in IFC</reason>
-        </para>
-        <para name="105.3.1to105.3.8">
-          <num>105.3.1 to 105.3.8</num>
-          <reason>As in IFC</reason>
+          <para name="105.3.1to105.3.8">
+            <num from="105.3.1" to="105.3.8">105.3.1 to 105.3.8</num>
+            <reason>As in IFC</reason>
+          </para>
           <para>
             <num>105.3.9</num>
             <heading>Violation of permit.</heading>
@@ -16364,7 +16372,7 @@
           <reason>As in IFC</reason>
         </para>
         <para name="105.6.1to105.6.14">
-          <num>105.6.1 to 105.6.14</num>
+          <num from="105.6.1" to="105.6.14">105.6.1 to 105.6.14</num>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16373,7 +16381,7 @@
           <reason>Not Adopted</reason>
         </para>
         <para name="105.6.16to105.6.50">
-          <num>105.6.16 to 105.6.50</num>
+          <num from="105.6.16" to="105.6.50">105.6.16 to 105.6.50</num>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16397,7 +16405,7 @@
           <text>Permit fees are as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="106.3to106.5">
-          <num>106.3 to 106.5</num>
+          <num from="106.3" to="106.5">106.3 to 106.5</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -16475,14 +16483,14 @@
           <num>109.6</num>
           <heading>Limitations on instituting proceedings.</heading>
           <text>After a notice, decision, order, or determination has been served, the Fire Code Official may not take any action, except in the case of imminent danger, or institute or cause to be instituted any civil or criminal proceedings in connection with the enforcement of the notice, decision, order, or determination until:</text>
-        </para>
-        <para>
-          <num>1.</num>
-          <text>after 5 days has passed without an appeal having been taken, or</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>if an appeal was taken within that period, after the Board renders its decision in the case.</text>
+          <para>
+            <num>1.</num>
+            <text>after 5 days has passed without an appeal having been taken, or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>if an appeal was taken within that period, after the Board renders its decision in the case.</text>
+          </para>
         </para>
       </section>
       <section>
@@ -16503,10 +16511,10 @@
           <num>110.3</num>
           <title>Notice of violation.</title>
           <reason>As in IFC</reason>
-        </para>
-        <para name="110.3.1to110.3.4">
-          <num>110.3.1 to 110.3.4</num>
-          <reason>As in IFC</reason>
+          <para name="110.3.1to110.3.4">
+            <num from="110.3.1" to="110.3.4">110.3.1 to 110.3.4</num>
+            <reason>As in IFC</reason>
+          </para>
           <para>
             <num>110.3.5</num>
             <heading>Code compliance required at all times.</heading>
@@ -16517,11 +16525,11 @@
           <num>110.4</num>
           <heading>Penalty for violations.</heading>
           <text>Any person who violates or fails to comply with any provision of this Code or of any notice, decision, permit, <em>{rule,} </em>or regulation issued under this Code or who erects, installs, alters, repairs, or does work in violation of approved construction documents or of a directive of the Fire Code Official is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisoned for not more than 10 days or both.  Each day that a violation continues after service of notice is a separate offense.</text>
-        </para>
-        <para>
-          <num>110.4.1</num>
-          <title>Abatement of violation.</title>
-          <reason>As in IFC</reason>
+          <para>
+            <num>110.4.1</num>
+            <title>Abatement of violation.</title>
+            <reason>As in IFC</reason>
+          </para>
           <para>
             <num>110.4.2</num>
             <heading>Failure to correct violations.</heading>
@@ -16603,7 +16611,7 @@
         <num>111</num>
         <heading>Unsafe Buildings</heading>
         <para name="111.1to111.4">
-          <num>111.1 to 111.4</num>
+          <num from="111.1" to="111.4">111.1 to 111.4</num>
           <reason>As in IFC</reason>
           <text><strong>1115  Fire hazards.  </strong>Whenever the maintenance, operation, or use of all or part of any land, structure, material, or other object constitutes a fire hazard and the action to be taken to eliminate the hazard is not specifically provided for in this Code, the Fire Code Official may take any action necessary to eliminate the hazard.</text>
         </para>
@@ -16696,27 +16704,27 @@
             <heading>Must/Shall.</heading>
             <text>"Must" and "shall" are each mandatory terms used to express a requirement or to impose a duty.</text>
           </para>
-        </para>
-        <para>
-          <num>202.2.4</num>
-          <heading>Person.</heading>
-          <text>"Person":</text>
-        </para>
-        <para>
-          <num>1.</num>
-          <text>means any individual, sole proprietorship, corporation, firm, partnership, association, organization, joint venture, or other entity or group acting as a unit, executor, administrator, trustee, receiver, guardian, or other representative appointed by law, and</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>whenever used in this Code with reference to liability or to the imposition of a penalty or fine, includes:</text>
-        </para>
-        <para>
-          <num>a.</num>
-          <text>as to an unincorporated firm, partnership, association, organization, or joint venture, the partners or members of the firm, partnership, association, organization, or joint venture, and</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>as to a corporation, the officers, trustees, agents, or members of the corporation who are responsible for the violation of any relevant code provision.</text>
+          <para>
+            <num>202.2.4</num>
+            <heading>Person.</heading>
+            <text>"Person":</text>
+            <para>
+              <num>1.</num>
+              <text>means any individual, sole proprietorship, corporation, firm, partnership, association, organization, joint venture, or other entity or group acting as a unit, executor, administrator, trustee, receiver, guardian, or other representative appointed by law, and</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>whenever used in this Code with reference to liability or to the imposition of a penalty or fine, includes:</text>
+              <para>
+                <num>a.</num>
+                <text>as to an unincorporated firm, partnership, association, organization, or joint venture, the partners or members of the firm, partnership, association, organization, or joint venture, and</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>as to a corporation, the officers, trustees, agents, or members of the corporation who are responsible for the violation of any relevant code provision.</text>
+              </para>
+            </para>
+          </para>
         </para>
       </section>
     </container>
@@ -16734,7 +16742,7 @@
         <num>307</num>
         <heading>Open Burning, Recreational Fires, and Portable Outdoor Fireplaces</heading>
         <para name="307.1to307.3">
-          <num>307.1 to 307.3</num>
+          <num from="307.1" to="307.3">307.1 to 307.3</num>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16742,7 +16750,7 @@
           <title>Location</title>
           <reason>As in IFC</reason>
           <para name="307.4.1to307.4.2">
-            <num>307.4.1 to 307.4.2</num>
+            <num from="307.4.1" to="307.4.2">307.4.1 to 307.4.2</num>
             <reason>As in IFC</reason>
           </para>
           <para>
@@ -16772,7 +16780,7 @@
           <title>General</title>
           <reason>As in IFC</reason>
           <para name="308.1.1to308.1.3">
-            <num>308.1.1 to 308.1.3</num>
+            <num from="308.1.1" to="308.1.3">308.1.1 to 308.1.3</num>
             <reason>As in IFC</reason>
           </para>
           <para>
@@ -16806,7 +16814,7 @@
             </para>
           </para>
           <para name="308.1.5to308.1.8">
-            <num>308.1.5 to 308.1.8</num>
+            <num from="308.1.5" to="308.1.8">308.1.5 to 308.1.8</num>
             <reason>As in IFC</reason>
           </para>
         </para>
@@ -16819,11 +16827,11 @@
           <num>308.3</num>
           <title>Group A Occupancies.</title>
           <reason>As in IFC</reason>
-        </para>
-        <para>
-          <num>308.3.1</num>
-          <title>Open-flame decorative devices.</title>
-          <reason>As in IFC</reason>
+          <para>
+            <num>308.3.1</num>
+            <title>Open-flame decorative devices.</title>
+            <reason>As in IFC</reason>
+          </para>
           <para>
             <num>308.3.2</num>
             <title>Theatrical performances.</title>
@@ -16833,34 +16841,34 @@
             <num>308.3.3</num>
             <heading>LP gas prohibited in assembly areas.</heading>
             <text>The storage or use of LP-gas containers of any size in any assembly building or in any assembly area of a building is prohibited.</text>
-          </para>
-          <para>
-            <num>308.3.3.1</num>
-            <heading>Exception.</heading>
-            <text>Listed and approved butane-gas commercial food service appliances may be used inside restaurants and in attended commercial food catering operations as long as each of the following conditions is complied with:</text>
             <para>
-              <num>1.</num>
-              <text>No appliance has more than two 10-oz. (296 ml) gas containers,with a maximum water capacity of 1.08 lb. (0.049 kg) per container, connected directly to it at any time.</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>The containers are not manifold.</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>All containers are listed and comply with UL 147B, "Standard for Non-Refillable (Disposable) Type Metal Container Assemblies for Butane".</text>
-            </para>
-            <para>
-              <num>4.</num>
-              <text>Each container is an integral part of the listed and approved commercial food service appliance and is connected to the appliance without the use of a rubber hose.</text>
-            </para>
-            <para>
-              <num>5.</num>
-              <text>No more than 24 of these containers are stored in the building, with an additional 24 containers permitted to be stored in another storage area in the building if that other storage area is separated or contained by a minimum 2-hour fire wall.</text>
-            </para>
-            <para>
-              <num>6.</num>
-              <text>The use of LP gas in assembly areas for theatrical performances is subject to the review, evaluation, and approval of the Fire Code Official for each individual event.</text>
+              <num>308.3.3.1</num>
+              <heading>Exception.</heading>
+              <text>Listed and approved butane-gas commercial food service appliances may be used inside restaurants and in attended commercial food catering operations as long as each of the following conditions is complied with:</text>
+              <para>
+                <num>1.</num>
+                <text>No appliance has more than two 10-oz. (296 ml) gas containers,with a maximum water capacity of 1.08 lb. (0.049 kg) per container, connected directly to it at any time.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>The containers are not manifold.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>All containers are listed and comply with UL 147B, "Standard for Non-Refillable (Disposable) Type Metal Container Assemblies for Butane".</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Each container is an integral part of the listed and approved commercial food service appliance and is connected to the appliance without the use of a rubber hose.</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>No more than 24 of these containers are stored in the building, with an additional 24 containers permitted to be stored in another storage area in the building if that other storage area is separated or contained by a minimum 2-hour fire wall.</text>
+              </para>
+              <para>
+                <num>6.</num>
+                <text>The use of LP gas in assembly areas for theatrical performances is subject to the review, evaluation, and approval of the Fire Code Official for each individual event.</text>
+              </para>
             </para>
           </para>
         </para>
@@ -16916,7 +16924,7 @@
           </para>
         </para>
         <para name="405.3to405.9">
-          <num>405.3 to 405.9</num>
+          <num from="405.3" to="405.9">405.3 to 405.9</num>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -16955,12 +16963,12 @@
             <text><strong>Exceptions: </strong>Public streets shall be in accordance with the National Association of City Transportation Officials (NACTO) Urban Street Design Guide.</text>
           </para>
           <para name="503.2.2to503.2.8">
-            <num>503.2.2 to 503.2.8</num>
+            <num from="503.2.2" to="503.2.8">503.2.2 to 503.2.8</num>
             <reason>As in IFC</reason>
           </para>
         </para>
         <para name="503.3to503.6">
-          <num>503.3 to 503.6</num>
+          <num from="503.3" to="503.6">503.3 to 503.6</num>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17042,8 +17050,8 @@
           <text>Standpipes (Fire Department Connections) must be provided on the pier at least every 100 feet.  Hydrants must be installed within 100 feet of a standpipe.</text>
         </para>
         <para>
-          <num>511.</num>
-          <heading>8  Emergency vehicle access.</heading>
+          <num>511.8</num>
+          <heading>Emergency vehicle access.</heading>
           <text>All piers with structures must provide access for emergency vehicles on the promenade, a road, or other appropriate space.  This access must be designed and configured to accommodate fire, ambulance, and other emergency vehicles.  Access for emergency vehicles must be provided to within at least 300 feet of the farthest edge of the structure.  The fire lane must be at least 20 feet wide.</text>
         </para>
         <para>
@@ -17076,7 +17084,7 @@
           <heading>Installation.</heading>
           <text>The installation of nonportable fuel gas appliances and systems must comply with the International Fuel Gas Code.  The installation of all other fuel-fired appliances, other than internal combustion engines, oil lamps, and portable devices such as blow torches, melting pots, and weed burners, must comply with this section, NFPA 31, and the International Mechanical Code.</text>
           <para name="603.1.1to603.1.7">
-            <num>603.1.1 to 603.1.7</num>
+            <num from="603.1.1" to="603.1.7">603.1.1 to 603.1.7</num>
             <reason>As in IFC</reason>
           </para>
         </para>
@@ -17162,8 +17170,9 @@
             </strong>
           </text>
         </para>
-        <para name="607.3to607">
-          <num>607.3 to 607</num>
+        <para>
+          <num>607.3</num>
+          <title>to 607</title>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17212,22 +17221,22 @@
           <num>903.3</num>
           <title>Installation requirements.</title>
           <reason>As in IFC</reason>
-        </para>
-        <para>
-          <num>903.3.1</num>
-          <title>Standards.</title>
-          <reason>As in IFC</reason>
-          <para name="903.3.1.1to903.3.1.3">
-            <num>903.3.1.1 to 903.3.1.3</num>
-            <reason>As in IFC</reason>
-          </para>
           <para>
-            <num>903.3.1.4</num>
-            <heading>NFPA 13D sprinkler systems (garages):</heading>
-            <text>A garage must be sprinkled when a living area is provided above it.  The system design and density for the garage may be the same as that for the living area.</text>
+            <num>903.3.1</num>
+            <title>Standards.</title>
+            <reason>As in IFC</reason>
+            <para name="903.3.1.1to903.3.1.3">
+              <num from="903.3.1.1" to="903.3.1.3">903.3.1.1 to 903.3.1.3</num>
+              <reason>As in IFC</reason>
+            </para>
+            <para>
+              <num>903.3.1.4</num>
+              <heading>NFPA 13D sprinkler systems (garages):</heading>
+              <text>A garage must be sprinkled when a living area is provided above it.  The system design and density for the garage may be the same as that for the living area.</text>
+            </para>
           </para>
           <para name="903.3.2to903.3.8">
-            <num>903.3.2 to 903.3.8</num>
+            <num from="903.3.2" to="903.3.8">903.3.2 to 903.3.8</num>
             <reason>As in IFC</reason>
           </para>
         </para>
@@ -17244,11 +17253,11 @@
             <num>903.4.2</num>
             <title>Alarms.</title>
             <reason>As in IFC</reason>
-          </para>
-          <para>
-            <num>903.4.2.1</num>
-            <heading>NFPA 13D alarm or notification.</heading>
-            <text>A water flow alarm device must be installed to provide notice to occupants when a sprinkler flow condition occurs.  The device must provide an audible alarm that is at least 75 dBA in the master bedroom and that begins within 60 seconds of flow and continues until the flow has stopped.</text>
+            <para>
+              <num>903.4.2.1</num>
+              <heading>NFPA 13D alarm or notification.</heading>
+              <text>A water flow alarm device must be installed to provide notice to occupants when a sprinkler flow condition occurs.  The device must provide an audible alarm that is at least 75 dBA in the master bedroom and that begins within 60 seconds of flow and continues until the flow has stopped.</text>
+            </para>
           </para>
           <para>
             <num>903.4.3</num>
@@ -17257,7 +17266,7 @@
           </para>
         </para>
         <para name="903.5to903.6">
-          <num>903.5 to 903.6</num>
+          <num from="903.5" to="903.6">903.5 to 903.6</num>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17271,7 +17280,7 @@
         <num>906</num>
         <heading>Portable Fire Extinguishers</heading>
         <para name="906.1to906.10">
-          <num>906.1 to 906.10</num>
+          <num from="906.1" to="906.10">906.1 to 906.10</num>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -17304,7 +17313,7 @@
           <title>Where required – New buildings and structures.</title>
           <reason>As in IFC</reason>
           <para name="907.2.1to907.2.9">
-            <num>907.2.1 to 907.2.9</num>
+            <num from="907.2.1" to="907.2.9">907.2.1 to 907.2.9</num>
             <reason>As in IFC</reason>
           </para>
           <para>
@@ -17345,17 +17354,17 @@
               </para>
             </para>
             <para name="907.2.10.3to907.2.10.7">
-              <num>907.2.10.3 to 907.2.10.7</num>
+              <num from="907.2.10.3" to="907.2.10.7">907.2.10.3 to 907.2.10.7</num>
               <reason>As in IFC</reason>
             </para>
           </para>
           <para name="907.2.11to907.2.23">
-            <num>907.2.11 to 907.2.23</num>
+            <num from="907.2.11" to="907.2.23">907.2.11 to 907.2.23</num>
             <reason>As in IFC</reason>
           </para>
         </para>
         <para name="907.3to907.10">
-          <num>907.3 to 907.10</num>
+          <num from="907.3" to="907.10">907.3 to 907.10</num>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17440,9 +17449,8 @@
           <num>1203.1</num>
           <title>General.</title>
           <reason>As in IFC</reason>
-          <para>
-            <num>1203.1.1</num>
-            <title>to 1203.1.2</title>
+          <para name="1203.1.1to1203.1.2">
+            <num from="1203.1.1" to="1203.1.2">1203.1.1  to 1203.1.2</num>
             <reason>As in IFC</reason>
           </para>
           <para>
@@ -17450,14 +17458,13 @@
             <heading>Installation.</heading>
             <text>Emergency and standby power systems must be installed in accordance with the National Electrical Code, NFPA 110, and NFPA 111.  Existing installations must be maintained in accordance with the original approval.</text>
           </para>
-          <para name="1203.1.3to1203.1.9">
-            <num>1203.1.3 to 1203.1.9</num>
+          <para name="1203.1.4to1203.1.9">
+            <num from="1203.1.4" to="1203.1.9">1203.1.4 to 1203.1.9</num>
             <reason>As in IFC</reason>
           </para>
         </para>
-        <para>
-          <num>1203.2</num>
-          <title>to 1203.6</title>
+        <para name="1203.2to1203.6">
+          <num from="1203.2" to="1203.6">1203.2  to 1203.6</num>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17485,7 +17492,7 @@
               </strong>
             </text>
             <para name="1204.2.1.1to1204.2.1.3">
-              <num>1204.2.1.1 to 1204.2.1.3</num>
+              <num from="1204.2.1.1" to="1204.2.1.3">1204.2.1.1 to 1204.2.1.3</num>
               <reason>As in IFC</reason>
             </para>
           </para>
@@ -17496,7 +17503,7 @@
           </para>
         </para>
         <para name="1204.3to1204.5">
-          <num>1204.3 to 1204.5</num>
+          <num from="1204.3" to="1204.5">1204.3 to 1204.5</num>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17568,7 +17575,7 @@
         <num>2603</num>
         <heading>Fire Safety Requirements</heading>
         <para name="2603.1to2603.7">
-          <num>2603.1 to 2603.7</num>
+          <num from="2603.1" to="2603.7">2603.1 to 2603.7</num>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -17643,7 +17650,7 @@
           <text>Fuel supplies for liquefied-petroleum gas-fired heaters must comply with NFPA 58 and the International Fuel Gas Code.</text>
         </para>
         <para name="3303.4to3303.6">
-          <num>3303.4 to 3303.6</num>
+          <num from="3303.4" to="3303.6">3303.4 to 3303.6</num>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -17924,7 +17931,7 @@
           </para>
         </para>
         <para name="101.2to101.5">
-          <num>101.2 to 101.5</num>
+          <num from="101.2" to="101.5">101.2 to 101.5</num>
           <reason>As in IECC-C</reason>
         </para>
         <para>
@@ -18021,7 +18028,7 @@
           </para>
         </para>
         <para name="105.2to105.7">
-          <num>105.2 to 105.7</num>
+          <num from="105.2" to="105.7">105.2 to 105.7</num>
           <reason>As in IECC-C</reason>
         </para>
       </section>
@@ -18211,7 +18218,7 @@
         <num>402</num>
         <heading>Building Envelope Requirements</heading>
         <para name="402.1to402.2">
-          <num>402.1 to 402.2</num>
+          <num from="402.1" to="402.2">402.1 to 402.2</num>
           <reason>As in IECC-C</reason>
         </para>
         <para>
@@ -18263,7 +18270,7 @@
             <num>402.3.1</num>
             <heading>Aged roof solar reflectance.</heading>
             <text>Where an aged solar reflectance required by Section 402.3 is not available, it shall be determined in accordance with Equation 4-3.</text>
-            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial </em></sub>- 0.2)] 			<strong>	(Equation 4-3)</strong></text>
+            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial</em></sub> - 0.2)] 			<strong>	(Equation 4-3)</strong></text>
             <text>where:</text>
             <text><em>R</em><sub><em>aged</em></sub> =  The aged solar reflectance.</text>
             <text><em>R</em><sub><em>initial</em></sub> =  The initial solar reflectance determined in accordance with CRRC-S100.</text>
@@ -18342,7 +18349,7 @@
             </para>
           </para>
           <para name="402.5.2to402.5.8">
-            <num>402.5.2 to 402.5.8</num>
+            <num from="402.5.2" to="402.5.8">402.5.2 to 402.5.8</num>
             <reason>As in IECC-C</reason>
           </para>
         </para>
@@ -18369,43 +18376,43 @@
           <title>Lighting controls (Mandatory).</title>
           <reason>As in IECC-C</reason>
           <para name="405.2.1to405.2.3">
-            <num>405.2.1 to 405.2.3</num>
+            <num from="405.2.1" to="405.2.3">405.2.1 to 405.2.3</num>
             <reason>As in IECC-C</reason>
           </para>
           <para>
             <num>405.2.4</num>
             <heading>Specific application controls.</heading>
             <text>Specific application controls must be provided for the following:</text>
-          </para>
-        </para>
-        <para>
-          <num>1.</num>
-          <reason>As in IECC-C</reason>
-          <para>
-            <num>2.</num>
-            <reason>As in IECC-C; But see also Item 5 below</reason>
-          </para>
-          <para name="3.to4.">
-            <num>3. to 4.</num>
-            <reason>As in IECC-C</reason>
-          </para>
-          <para>
-            <num>5.</num>
-            <text><strong>{Per MBPS Modification}</strong>  For the new construction of hotels or motels:</text>
             <para>
-              <num>(a)</num>
-              <text>each hotel or motel guest room or suite must be equipped with a master control device that automatically turns off the power to all of the lighting fixtures in the guest room or suite no more than 30 minutes after the room or suite has been vacated; and</text>
+              <num>1.</num>
+              <reason>As in IECC-C</reason>
             </para>
             <para>
-              <num>(b)</num>
-              <text>a master control device may also control the heating, ventilation, or air conditioning default settings in a hotel or motel guest room or suite 30 minutes after room or suite has been vacated by:</text>
+              <num>2.</num>
+              <reason>As in IECC-C; But see also Item 5 below</reason>
+            </para>
+            <para name="3.to4.">
+              <num from="3." to="4.">3. to 4.</num>
+              <reason>As in IECC-C</reason>
+            </para>
+            <para>
+              <num>5.</num>
+              <text><strong>{Per MBPS Modification}</strong>  For the new construction of hotels or motels:</text>
               <para>
-                <num>(i)</num>
-                <text>increasing the set temperature by at least 3 degrees Fahrenheit when in the air conditioning mode; or</text>
+                <num>(a)</num>
+                <text>each hotel or motel guest room or suite must be equipped with a master control device that automatically turns off the power to all of the lighting fixtures in the guest room or suite no more than 30 minutes after the room or suite has been vacated; and</text>
               </para>
               <para>
-                <num>(ii)</num>
-                <text>decreasing the set temperature by at least 3 degrees Fahrenheit when in the heating mode.</text>
+                <num>(b)</num>
+                <text>a master control device may also control the heating, ventilation, or air conditioning default settings in a hotel or motel guest room or suite 30 minutes after room or suite has been vacated by:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>increasing the set temperature by at least 3 degrees Fahrenheit when in the air conditioning mode; or</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>decreasing the set temperature by at least 3 degrees Fahrenheit when in the heating mode.</text>
+                </para>
               </para>
             </para>
           </para>
@@ -18421,7 +18428,7 @@
           </para>
         </para>
         <para name="405.3to405.9">
-          <num>405.3 to 405.9</num>
+          <num from="405.3" to="405.9">405.3 to 405.9</num>
           <reason>As in IECC-C</reason>
         </para>
       </section>
@@ -18497,7 +18504,7 @@
           </para>
         </para>
         <para name="101.2to101.5">
-          <num>101.2 to 101.5</num>
+          <num from="101.2" to="101.5">101.2 to 101.5</num>
           <reason>As in IECC-R</reason>
         </para>
         <para>
@@ -18593,7 +18600,7 @@
           </para>
         </para>
         <para name="105.2to105.7">
-          <num>105.2 to 105.7</num>
+          <num from="105.2" to="105.7">105.2 to 105.7</num>
           <reason>As in IECC-R</reason>
         </para>
       </section>
@@ -18749,7 +18756,7 @@
         <heading>Building Thermal Envelope</heading>
         <reason>As in IECC-R</reason>
         <para name="402.1to402.3">
-          <num>402.1 to 402.3</num>
+          <num from="402.1" to="402.3">402.1 to 402.3</num>
           <reason>As in IECC-R</reason>
         </para>
         <para>
@@ -18782,7 +18789,7 @@
             </para>
           </para>
           <para name="402.4.2to402.4.5">
-            <num>402.4.2 to 402.4.5</num>
+            <num from="402.4.2" to="402.4.5">402.4.2 to 402.4.5</num>
             <reason>As in IECC-R</reason>
           </para>
         </para>
@@ -18922,7 +18929,7 @@
           <num>102</num>
           <heading>Applicability</heading>
           <para name="102.1to102.4">
-            <num>102.1 to 102.4</num>
+            <num from="102.1" to="102.4">102.1 to 102.4</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -18933,26 +18940,26 @@
               <num>102.5.1</num>
               <heading>Appendices adopted.</heading>
               <text>The following appendices are adopted, with or without local modifications, as part of this Code:</text>
-            </para>
-            <para>
-              <num>1.</num>
-              <text>Appendix E:  "Manufactured Housing Used as Dwellings".</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>Appendix F:  "Passive Radon Controls".</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>Appendix G:  "Piping Standards for Various Applications".</text>
-            </para>
-            <para>
-              <num>4.</num>
-              <text>Appendix H:  "Patio Covers".</text>
-            </para>
-            <para>
-              <num>5.</num>
-              <text>Appendix K:  "Sound Transmission".</text>
+              <para>
+                <num>1.</num>
+                <text>Appendix E:  "Manufactured Housing Used as Dwellings".</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Appendix F:  "Passive Radon Controls".</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Appendix G:  "Piping Standards for Various Applications".</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Appendix H:  "Patio Covers".</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Appendix K:  "Sound Transmission".</text>
+              </para>
               <para>
                 <num>6.</num>
                 <text>Appendix M:  "Home Day Care – R-3 Occupancy".</text>
@@ -18967,7 +18974,7 @@
               </para>
             </para>
             <para>
-              <num>105.5.2</num>
+              <num>102.5.2</num>
               <heading>Appendices not adopted.</heading>
               <text>The following appendices are not adopted as part of this Code:</text>
               <para>
@@ -19001,7 +19008,7 @@
             </para>
           </para>
           <para name="102.6to102.7">
-            <num>102.6 to 102.7</num>
+            <num from="102.6" to="102.7">102.6 to 102.7</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -19013,14 +19020,14 @@
             <num>103.1</num>
             <heading>General.</heading>
             <text>This Code is administered and enforced by the Department of Housing and Community Development and its Commissioner.  Accordingly, in this Code:</text>
-          </para>
-          <para>
-            <num>1.</num>
-            <text>"Department of Building Safety" or "Department" means the Department of Housing and Community Development, and</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>"Building Official" means the Building Official as defined in § 202.2 of the Baltimore City Building Code.</text>
+            <para>
+              <num>1.</num>
+              <text>"Department of Building Safety" or "Department" means the Department of Housing and Community Development, and</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>"Building Official" means the Building Official as defined in § 202.2 of the Baltimore City Building Code.</text>
+            </para>
           </para>
           <para>
             <num>103.2</num>
@@ -19075,7 +19082,7 @@
           <para>
             <num>104.8</num>
             <title>Liability.</title>
-            <reason>Not Adopted.  See State Courts Article § 5-302.</reason>
+            <reason>Not Adopted.  See State Courts Article § 5-302.</reason>
           </para>
           <para>
             <num>104.9</num>
@@ -19159,7 +19166,7 @@
               <strong>Building:</strong>
             </text>
             <para name="1.to3.">
-              <num>1. to 3.</num>
+              <num from="1." to="3.">1. to 3.</num>
               <reason>Not Adopted</reason>
             </para>
             <para>
@@ -19171,17 +19178,17 @@
               <reason>Not Adopted</reason>
             </para>
             <para name="6.to8.">
-              <num>6. to 8.</num>
+              <num from="6." to="8.">6. to 8.</num>
               <reason>As in IRC</reason>
             </para>
             <para name="9.to10.">
-              <num>9. to 10.</num>
+              <num from="9." to="10.">9. to 10.</num>
               <reason>Not Adopted</reason>
               <text>
                 <strong>Electrical:</strong>
               </text>
               <para name="1.to2.">
-                <num>1. to 2.</num>
+                <num from="1." to="2.">1. to 2.</num>
                 <reason>As in IRC</reason>
               </para>
               <para>
@@ -19189,7 +19196,7 @@
                 <reason>Not Adopted</reason>
               </para>
               <para name="4.to5.">
-                <num>4. to 5.</num>
+                <num from="4." to="5.">4. to 5.</num>
                 <reason>As in IRC</reason>
               </para>
               <text>
@@ -19207,7 +19214,7 @@
             </para>
           </para>
           <para name="105.2.1to105.2.3">
-            <num>105.2.1 to 105.2.3</num>
+            <num from="105.2.1" to="105.2.3">105.2.1 to 105.2.3</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -19270,7 +19277,7 @@
             <title>Submittal documents.</title>
             <reason>As in IRC</reason>
             <para name="106.1.1to106.1.3">
-              <num>106.1.1 to 106.1.3</num>
+              <num from="106.1.1" to="106.1.3">106.1.1 to 106.1.3</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -19281,7 +19288,7 @@
             </para>
           </para>
           <para name="106.2to106.5">
-            <num>106.2 to 106.5</num>
+            <num from="106.2" to="106.5">106.2 to 106.5</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -19301,7 +19308,7 @@
             <text>Fees are as set forth in § 109 {"Fees"} of the Baltimore City Building Code.</text>
           </para>
           <para name="108.2to108.6.">
-            <num>108.2 to 108.6.</num>
+            <num from="108.2" to="108.6.">108.2 to 108.6.</num>
             <reason>Not Adopted</reason>
           </para>
         </section>
@@ -19314,7 +19321,7 @@
             <title>Type of inspection.</title>
             <reason>As in IRC</reason>
             <para name="109.1.1to109.1.2">
-              <num>109.1.1 to 109.1.2</num>
+              <num from="109.1.1" to="109.1.2">109.1.1 to 109.1.2</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -19323,7 +19330,7 @@
               <text>For construction in a flood hazard area, placement of the lowest floor and before undertaking any further vertical construction, the elevation certificate required by the Floodplain Management Code must be submitted to the Building Official.</text>
             </para>
             <para name="109.1.4to109.1.5">
-              <num>109.1.4 to 109.1.5</num>
+              <num from="109.1.4" to="109.1.5">109.1.4 to 109.1.5</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -19337,9 +19344,8 @@
               </para>
             </para>
           </para>
-          <para>
-            <num>109.2</num>
-            <title>to 109.4</title>
+          <para name="109.2to109.4">
+            <num from="109.2" to="109.4">109.2  to 109.4</num>
             <reason>As in IRC</reason>
           </para>
           <annotations>
@@ -19355,9 +19361,8 @@
             <heading>General.</heading>
             <text>Occupancy Permits (referred to in the IRC as a "Certificate of Occupancy") and Certificates of completion are governed by § 111 {"Occupancy Permit; Certificate of Completion"} of the Baltimore City Building Code.</text>
           </para>
-          <para>
-            <num>110.</num>
-            <title>2 to 110.5.</title>
+          <para name="110.2to110.5.">
+            <num from="110.2" to="110.5.">110.2 to 110.5.</num>
             <reason>Not Adopted</reason>
           </para>
         </section>
@@ -19377,7 +19382,7 @@
             <text>A decision of the Building Official is subject to administrative and judicial review as provided in § 128 {"Administrative and Judicial Review"} of the Baltimore City Building Code.</text>
           </para>
           <para name="112.2to112.4">
-            <num>112.2 to 112.4</num>
+            <num from="112.2" to="112.4">112.2 to 112.4</num>
             <reason>Not Adopted</reason>
           </para>
         </section>
@@ -19386,7 +19391,7 @@
           <num>113</num>
           <heading>Violations</heading>
           <para name="113.1to113.3">
-            <num>113.1 to 113.3</num>
+            <num from="113.1" to="113.3">113.1 to 113.3</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -19531,7 +19536,7 @@
             <title>Climatic and geographic design criteria</title>
             <reason>As in IRC</reason>
             <para name="301.2.1to301.2.3">
-              <num>301.2.1 to 301.2.3</num>
+              <num from="301.2.1" to="301.2.3">301.2.1 to 301.2.3</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -19713,7 +19718,7 @@
             </para>
           </para>
           <para name="301.3to301.8">
-            <num>301.3 to 301.8</num>
+            <num from="301.3" to="301.8">301.3 to 301.8</num>
             <reason>As in IRC</reason>
           </para>
           <annotations>
@@ -19730,7 +19735,7 @@
           <num>309</num>
           <heading>Garages and Carports</heading>
           <para name="309.1to309.2">
-            <num>309.1 to 309.2</num>
+            <num from="309.1" to="309.2">309.1 to 309.2</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -19740,7 +19745,7 @@
             <text>{<strong>Note: </strong> For the establishment of Regulated Flood Hazard Areas and the special regulations and limitations governing development within those areas, <em>see </em>the Floodplain Management Code, City Code Article 7 {"Natural Resources"}, Division I {"Floodplain Management"}.}</text>
           </para>
           <para name="309.4to309.5">
-            <num>309.4 to 309.5</num>
+            <num from="309.4" to="309.5">309.4 to 309.5</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -19755,7 +19760,7 @@
           <num>311</num>
           <heading>Means of Egress</heading>
           <para name="311.1to311.6">
-            <num>311.1 to 311.6</num>
+            <num from="311.1" to="311.6">311.1 to 311.6</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -19764,7 +19769,7 @@
               <strong>Stairways</strong>
             </text>
             <para name="311.7.1to311.7.4">
-              <num>311.7.1 to 311.7.4</num>
+              <num from="311.7.1" to="311.7.4">311.7.1 to 311.7.4</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -19788,12 +19793,12 @@
                 </para>
               </para>
               <para name="311.7.5.3to311.7.5.4">
-                <num>311.7.5.3 to 311.7.5.4</num>
+                <num from="311.7.5.3" to="311.7.5.4">311.7.5.3 to 311.7.5.4</num>
                 <reason>As in IRC</reason>
               </para>
             </para>
             <para name="311.7.6to311.7.12">
-              <num>311.7.6 to 311.7.12</num>
+              <num from="311.7.6" to="311.7.12">311.7.6 to 311.7.12</num>
               <reason>As in IRC</reason>
             </para>
           </para>
@@ -19812,7 +19817,7 @@
             <title>Guards</title>
             <reason>As in IRC</reason>
             <para name="312.1.1to312.1.2">
-              <num>312.1.1 to 312.1.2</num>
+              <num from="312.1.1" to="312.1.2">312.1.1 to 312.1.2</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -20030,7 +20035,7 @@
             </text>
           </para>
           <para name="401.2to401.4">
-            <num>401.2 to 401.4</num>
+            <num from="401.2" to="401.4">401.2 to 401.4</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20048,7 +20053,7 @@
             <title>Concrete and masonry foundation walls.</title>
             <reason>As in IRC</reason>
             <para name="404.1.1to404.1.8">
-              <num>404.1.1 to 404.1.8</num>
+              <num from="404.1.1" to="404.1.8">404.1.1 to 404.1.8</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -20056,7 +20061,7 @@
               <title>Isolated masonry piers.</title>
               <reason>As in IRC</reason>
               <para name="404.1.9.1to404.1.9.4">
-                <num>404.1.9.1 to 404.1.9.4</num>
+                <num from="404.1.9.1" to="404.1.9.4">404.1.9.1 to 404.1.9.4</num>
                 <reason>As in IRC</reason>
               </para>
               <para>
@@ -20068,7 +20073,7 @@
             </para>
           </para>
           <para name="404.2to404.5">
-            <num>404.2 to 404.5</num>
+            <num from="404.2" to="404.5">404.2 to 404.5</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20087,7 +20092,7 @@
           <num>408</num>
           <heading>Under-Floor Space</heading>
           <para name="408.1to408.6">
-            <num>408.1 to 408.6</num>
+            <num from="408.1" to="408.6">408.1 to 408.6</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20125,7 +20130,7 @@
           <num>801</num>
           <heading>General</heading>
           <para name="801.1to801.2">
-            <num>801.1 to 801.2</num>
+            <num from="801.1" to="801.2">801.1 to 801.2</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20154,7 +20159,7 @@
           <num>905</num>
           <heading>Requirements for Roof Coverings</heading>
           <para name="905.1to905.17">
-            <num>905.1 to 905.17</num>
+            <num from="905.1" to="905.17">905.1 to 905.17</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20262,7 +20267,7 @@
             </para>
           </para>
           <para name="1301.2to1301.5">
-            <num>1301.2 to 1301.5</num>
+            <num from="1301.2" to="1301.5">1301.2 to 1301.5</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20281,7 +20286,7 @@
           <num>1401</num>
           <heading>General</heading>
           <para name="1401.1to1401.4">
-            <num>1401.1 to 1401.4</num>
+            <num from="1401.1" to="1401.4">1401.1 to 1401.4</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20300,7 +20305,7 @@
           <num>1411</num>
           <heading>Heating and Cooling Equipment</heading>
           <para name="1411.1to1411.2">
-            <num>1411.1 to 1411.2</num>
+            <num from="1411.1" to="1411.2">1411.1 to 1411.2</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20327,10 +20332,10 @@
               <title>Appliances, equipment, and insulation in pans.</title>
               <reason>As in IRC</reason>
             </para>
-            <para name="1411.4to1411.8">
-              <num>1411.4 to 1411.8</num>
-              <reason>As in IRC</reason>
-            </para>
+          </para>
+          <para name="1411.4to1411.8">
+            <num from="1411.4" to="1411.8">1411.4 to 1411.8</num>
+            <reason>As in IRC</reason>
           </para>
         </section>
         <section>
@@ -20375,7 +20380,7 @@
           <num>1601</num>
           <heading>Duct Construction</heading>
           <para name="1601.1to1601.3">
-            <num>1601.1 to 1601.3</num>
+            <num from="1601.1" to="1601.3">1601.1 to 1601.3</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20383,7 +20388,7 @@
             <title>Installation</title>
             <reason>As in IRC</reason>
             <para name="1601.4.1to1601.4.9">
-              <num>1601.4.1 to 1601.4.9</num>
+              <num from="1601.4.1" to="1601.4.9">1601.4.1 to 1601.4.9</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -20393,7 +20398,7 @@
             </para>
           </para>
           <para name="1601.5to1601.6">
-            <num>1601.5 to 1601.6</num>
+            <num from="1601.5" to="1601.6">1601.5 to 1601.6</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20476,7 +20481,7 @@
           <num>2001</num>
           <heading>Boilers</heading>
           <para name="2001.1to2001.3">
-            <num>2001.1 to 2001.3</num>
+            <num from="2001.1" to="2001.3">2001.1 to 2001.3</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20511,7 +20516,7 @@
             </text>
           </para>
           <para name="2101.2to2101.10">
-            <num>2101.2 to 2101.10</num>
+            <num from="2101.2" to="2101.10">2101.2 to 2101.10</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20540,7 +20545,7 @@
             <heading>Piping joints.</heading>
             <text>Piping joints that are embedded must be installed in accordance with the following requirements:</text>
             <para name="1.-2.">
-              <num>1. - 2.</num>
+              <num from="1." to="2.">1. - 2.</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -20548,7 +20553,7 @@
               <reason>Not Adopted</reason>
             </para>
             <para name="4.-7.">
-              <num>4. - 7.</num>
+              <num from="4." to="7.">4. - 7.</num>
               <reason>As in IRC</reason>
             </para>
           </para>
@@ -20594,7 +20599,7 @@
             </para>
           </para>
           <para name="2201.3to2201.5">
-            <num>2201.3 to 2201.5</num>
+            <num from="2201.3" to="2201.5">2201.3 to 2201.5</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20603,7 +20608,7 @@
             <text>In flood hazard areas, tanks must be installed at or above the elevation required by the Floodplain Management Code or as otherwise allowed by the Floodplain Management Code.</text>
           </para>
           <para>
-            <num>2210.7</num>
+            <num>2201.7</num>
             <title>Tanks abandoned or removed.</title>
             <reason>As in IRC</reason>
           </para>
@@ -20714,7 +20719,7 @@
                 </strong>
               </text>
               <para name="1.-3.">
-                <num>1. - 3.</num>
+                <num from="1." to="3.">1. - 3.</num>
                 <reason>As in IRC</reason>
               </para>
               <para>
@@ -20725,7 +20730,7 @@
             </para>
           </para>
           <para name="3604.3to3604.6">
-            <num>3604.3 to 3604.6</num>
+            <num from="3604.3" to="3604.6">3604.3 to 3604.6</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20750,7 +20755,7 @@
           <num>3702</num>
           <heading>Branch Circuit Ratings</heading>
           <para name="3702.1to3702.11">
-            <num>3702.1 to 3702.11</num>
+            <num from="3702.1" to="3702.11">3702.1 to 3702.11</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20762,16 +20767,15 @@
               </strong>
             </text>
             <para name="1.-4.">
-              <num>1. - 4.</num>
+              <num from="1." to="4.">1. - 4.</num>
               <reason>As in IRC</reason>
             </para>
             <para>
               <num>5.</num>
               <text>The circuit contains a dedicated receptacle for the air conditioner.</text>
             </para>
-            <para>
-              <num>3702.12.1</num>
-              <title>to 3702.12.2</title>
+            <para name="3702.12.1to3702.12.2">
+              <num from="3702.12.1" to="3702.12.2">3702.12.1  to 3702.12.2</num>
               <reason>As in IRC</reason>
             </para>
           </para>
@@ -20822,7 +20826,7 @@
           <num>3901</num>
           <heading>Receptacle Outlets</heading>
           <para name="3901.1to3901.6">
-            <num>3901.1 to 3901.6</num>
+            <num from="3901.1" to="3901.6">3901.1 to 3901.6</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20841,7 +20845,7 @@
             </para>
           </para>
           <para name="3901.8to3901.12">
-            <num>3901.8 to 3901.12</num>
+            <num from="3901.8" to="3901.12">3901.8 to 3901.12</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20855,7 +20859,7 @@
           <num>3908</num>
           <heading>Grounding</heading>
           <para name="3908.1to3908.7">
-            <num>3908.1 to 3908.7</num>
+            <num from="3908.1" to="3908.7">3908.1 to 3908.7</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20867,7 +20871,7 @@
               </strong>
             </text>
             <para name="1.-8.">
-              <num>1. - 8.</num>
+              <num from="1." to="8.">1. - 8.</num>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -20875,12 +20879,12 @@
               <text>Surface metal raceways that are listed for grounding and that contain equipment grounding conductors within the raceway.</text>
             </para>
             <para name="3908.8.1to3908.8.3">
-              <num>3908.8.1 to 3908.8.3</num>
+              <num from="3908.8.1" to="3908.8.3">3908.8.1 to 3908.8.3</num>
               <reason>As in IRC</reason>
             </para>
           </para>
           <para name="3908.9to3908.20">
-            <num>3908.9 to 3908.20</num>
+            <num from="3908.9" to="3908.20">3908.9 to 3908.20</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20906,7 +20910,7 @@
           <num>4101</num>
           <heading>General</heading>
           <para name="4101.1to4101.4">
-            <num>4101.1 to 4101.4</num>
+            <num from="4101.1" to="4101.4">4101.1 to 4101.4</num>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20920,7 +20924,7 @@
             </para>
           </para>
           <para name="4101.6to4101.8">
-            <num>4101.6 to 4101.8</num>
+            <num from="4101.6" to="4101.8">4101.6 to 4101.8</num>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -21686,9 +21690,8 @@
             <num>501.3.5.1</num>
             <heading>Site Hardscape.</heading>
             <text>At least 40% of the site hardscape that is not covered by solar energy systems must be provided with any one or combination of the following:</text>
-            <para>
-              <num>a.</num>
-              <title>through  f.</title>
+            <para name="a.throughf.">
+              <num from="a." to="f.">a.  through  f.</num>
               <reason>As in IgCC</reason>
               <text>
                 <strong>Exception:</strong>
@@ -21790,12 +21793,10 @@
               <text>
                 <strong>Exceptions:</strong>
               </text>
-              <text>
-                <strong>1 and 2. </strong>
-                <strong>
-                  <em>{As in IgCC}</em>
-                </strong>
-              </text>
+              <para name="1.and2.">
+                <num from="1." to="2.">1. and 2.</num>
+                <reason>As in IgCC</reason>
+              </para>
               <para>
                 <num>3.</num>
                 <text>Education occupancy grades 3 and below.</text>
@@ -21881,9 +21882,8 @@
             <num>601.3.1.2</num>
             <title>Irrigation.</title>
             <reason>As in IgCC</reason>
-            <para>
-              <num>601.3.1.2.1</num>
-              <title>through  601.3.1.2.3</title>
+            <para name="601.3.1.2.1through601.3.1.2.3">
+              <num from="601.3.1.2.1" to="601.3.1.2.3">601.3.1.2.1 through  601.3.1.2.3</num>
               <reason>As in IgCC</reason>
             </para>
           </para>
@@ -21902,33 +21902,32 @@
             <para>
               <num>2.</num>
               <text>provide fixtures (water closets and urinals) and fittings (faucets and showerheads) that comply with the following requirements, as shown in Table 601.3.2.1:</text>
-              <para>
-                <num>a.</num>
-                <title>through  j.</title>
+              <para name="a.throughj.">
+                <num from="a." to="j.">a.  through  j.</num>
                 <reason>As in IgCC</reason>
               </para>
             </para>
           </para>
-        </para>
-        <para>
-          <num>601.3.2.2</num>
-          <title>Appliances.</title>
-          <reason>As in IgCC</reason>
-        </para>
-        <para>
-          <num>601.3.2.3</num>
-          <title>HVAC Systems and Equipment.</title>
-          <reason>As in IgCC</reason>
-        </para>
-        <para>
-          <num>601.3.2.4</num>
-          <title>Roofs.</title>
-          <reason>As in IgCC</reason>
-        </para>
-        <para>
-          <num>601.3.2.5</num>
-          <title>Commercial Food Service Operations.</title>
-          <reason>As in IgCC</reason>
+          <para>
+            <num>601.3.2.2</num>
+            <title>Appliances.</title>
+            <reason>As in IgCC</reason>
+          </para>
+          <para>
+            <num>601.3.2.3</num>
+            <title>HVAC Systems and Equipment.</title>
+            <reason>As in IgCC</reason>
+          </para>
+          <para>
+            <num>601.3.2.4</num>
+            <title>Roofs.</title>
+            <reason>As in IgCC</reason>
+          </para>
+          <para>
+            <num>601.3.2.5</num>
+            <title>Commercial Food Service Operations.</title>
+            <reason>As in IgCC</reason>
+          </para>
           <para>
             <num>601.3.2.6</num>
             <title>Medical Laboratory Facilities.</title>
@@ -22017,9 +22016,8 @@
             <title>Minimum Equipment Efficiencies for the Alternate Renewables Approach.</title>
             <reason>Not Adopted</reason>
           </para>
-          <para>
-            <num>701.4.3.2</num>
-            <title>through 701.4.3.10.</title>
+          <para name="701.4.3.2through701.4.3.10.">
+            <num from="701.4.3.2" to="701.4.3.10.">701.4.3.2 through 701.4.3.10.</num>
             <reason>As in IgCC</reason>
           </para>
         </para>
@@ -22054,12 +22052,8 @@
           <reason>As in IgCC</reason>
           <para>
             <num>701.4.7.1</num>
-            <heading>Equipment Efficiency for the Alternate Renewables Approach.</heading>
-            <text>
-              <strong>
-                <em>{Not adopted}</em>
-              </strong>
-            </text>
+            <title>Equipment Efficiency for the Alternate Renewables Approach.</title>
+            <reason>Not adopted</reason>
           </para>
           <para>
             <num>701.4.7.2</num>
@@ -22077,19 +22071,15 @@
             </para>
             <para>
               <num>701.4.7.3.2</num>
-              <heading>ENERGY STAR Requirements for Equipment Covered by Federal Appliance Efficiency Regulations (Alternate Renewables Approach).</heading>
-              <text>
-                <strong>
-                  <em>{Not adopted}</em>
-                </strong>
-              </text>
+              <title>ENERGY STAR Requirements for Equipment Covered by Federal Appliance Efficiency Regulations (Alternate Renewables Approach).</title>
+              <reason>Not adopted</reason>
             </para>
           </para>
-        </para>
-        <para>
-          <num>701.4.7.4</num>
-          <title>Programmable Thermostats.</title>
-          <reason>As in IgCC</reason>
+          <para>
+            <num>701.4.7.4</num>
+            <title>Programmable Thermostats.</title>
+            <reason>As in IgCC</reason>
+          </para>
           <para>
             <num>701.4.7.5</num>
             <title>Refrigerated Display Cases.</title>
@@ -22184,12 +22174,8 @@
           </para>
           <para>
             <num>801.3.1.9</num>
-            <heading>Guest Room Preoccupancy Out-door Air Purge Cycle.</heading>
-            <text>
-              <strong>
-                <em>{Not adopted}</em>
-              </strong>
-            </text>
+            <title>Guest Room Preoccupancy Out-door Air Purge Cycle.</title>
+            <reason>Not adopted</reason>
           </para>
           <para>
             <num>801.3.1.10</num>
@@ -22409,7 +22395,7 @@
               </text>
             </para>
           </para>
-          <text><sup>a  </sup> "Nighttime" is defined as the time between 10 p.m. and 7 a.m.</text>
+          <text><sup>a</sup>   "Nighttime" is defined as the time between 10 p.m. and 7 a.m.</text>
           <para>
             <num>801.3.3.3</num>
             <title>Interior Sound Transmission.</title>
@@ -22632,24 +22618,23 @@
         <para>
           <num>801.4.1</num>
           <heading>Day lighting.</heading>
-        </para>
-        <para>
-          <num>801.4.1.1</num>
-          <heading>Daylighting in large spaces directly under a roof and having high ceilings.</heading>
-          <text>
-            <strong>
-              <em>{As in IgCC}</em>
-            </strong>
-          </text>
           <para>
-            <num>801.4.1.1.1</num>
-            <title>Minimum daylight area.</title>
-            <reason>Not Adopted</reason>
-          </para>
-          <para>
-            <num>801.4.1.1.2</num>
-            <title>through  801.4.1.3.</title>
-            <reason>Not Adopted</reason>
+            <num>801.4.1.1</num>
+            <heading>Daylighting in large spaces directly under a roof and having high ceilings.</heading>
+            <text>
+              <strong>
+                <em>{As in IgCC}</em>
+              </strong>
+            </text>
+            <para>
+              <num>801.4.1.1.1</num>
+              <title>Minimum daylight area.</title>
+              <reason>Not Adopted</reason>
+            </para>
+            <para name="801.4.1.1.2through801.4.1.3.">
+              <num from="801.4.1.1.2" to="801.4.1.3.">801.4.1.1.2 through  801.4.1.3.</num>
+              <reason>Not Adopted</reason>
+            </para>
           </para>
         </para>
         <para>
@@ -22670,27 +22655,27 @@
             <num>801.4.2.3</num>
             <title>Floor Covering Materials.</title>
             <reason>As in IgCC</reason>
-          </para>
-          <para>
-            <num>801.4.2.3.1</num>
-            <title>Deemed to Comply.</title>
-            <reason>As in IgCC</reason>
+            <para>
+              <num>801.4.2.3.1</num>
+              <title>Deemed to Comply.</title>
+              <reason>As in IgCC</reason>
+            </para>
           </para>
           <para>
             <num>801.4.2.4</num>
             <title>Composite Wood, Wood Structural Panel, and Agrifiber Products.</title>
             <reason>As in IgCC</reason>
           </para>
-        </para>
-        <para>
-          <num>801.4.2.5</num>
-          <title>Office Furniture Systems and Seating.</title>
-          <reason>Not Adopted</reason>
-        </para>
-        <para>
-          <num>801.4.2.6</num>
-          <title>Ceiling and Wall Assemblies.</title>
-          <reason>Not Adopted</reason>
+          <para>
+            <num>801.4.2.5</num>
+            <title>Office Furniture Systems and Seating.</title>
+            <reason>Not Adopted</reason>
+          </para>
+          <para>
+            <num>801.4.2.6</num>
+            <title>Ceiling and Wall Assemblies.</title>
+            <reason>Not Adopted</reason>
+          </para>
           <para>
             <num>801.4.2.7</num>
             <title>Insulation.</title>
@@ -22764,9 +22749,8 @@
             <reason>As in IgCC</reason>
           </para>
         </para>
-        <para>
-          <num>901.3.2</num>
-          <title>through 901.3.5.</title>
+        <para name="901.3.2through901.3.5.">
+          <num from="901.3.2" to="901.3.5.">901.3.2 through 901.3.5.</num>
           <reason>As in IgCC</reason>
         </para>
       </section>
@@ -22814,9 +22798,8 @@
               <num>1001.3.1.1.1</num>
               <heading>FPT Requirements.</heading>
               <text>An FPT process shall be performed for the following:</text>
-              <para>
-                <num>a.</num>
-                <title>through  E.</title>
+              <para name="a.throughe.">
+                <num from="a." to="e.">a.  through  e.</num>
                 <reason>As in IgCC</reason>
               </para>
               <para>
@@ -22886,9 +22869,8 @@
               <num>1001.3.1.2.1</num>
               <heading>Systems to be Commissioned.</heading>
               <text>For buildings that exceed 10,000 ft<sup>2</sup> (1000 m<sup>2</sup>) of gross floor area, the Cx process must be included in the design and construction of the building project. The following systems and associated controls, where included in the building project, must be commissioned:</text>
-              <para>
-                <num>a.</num>
-                <title>through  h.</title>
+              <para name="a.throughh.">
+                <num from="a." to="h.">a.  through  h.</num>
                 <reason>As in IgCC</reason>
               </para>
               <para>
@@ -22896,9 +22878,8 @@
                 <text>Building envelop systems.</text>
               </para>
             </para>
-            <para>
-              <num>1001.3.1.2.2</num>
-              <title>through 1001.3.1.2.4</title>
+            <para name="1001.3.1.2.2through1001.3.1.2.4">
+              <num from="1001.3.1.2.2" to="1001.3.1.2.4">1001.3.1.2.2 through 1001.3.1.2.4</num>
               <reason>As in IgCC</reason>
             </para>
           </para>
@@ -22906,9 +22887,8 @@
             <num>1001.3.1.3</num>
             <title>Project Cx Documents.</title>
             <reason>As in IgCC</reason>
-            <para>
-              <num>1001.3.1.3.1</num>
-              <title>through 1001.3.1.3.4</title>
+            <para name="1001.3.1.3.1through1001.3.1.3.4">
+              <num from="1001.3.1.3.1" to="1001.3.1.3.4">1001.3.1.3.1 through 1001.3.1.3.4</num>
               <reason>As in IgCC</reason>
             </para>
             <para>
@@ -22921,11 +22901,11 @@
               <title>Documentation.</title>
               <reason>As in IgCC</reason>
             </para>
-            <para>
-              <num>1001.3.1.4</num>
-              <title>Erosion and Sedimentation Control.</title>
-              <reason>Not Adopted</reason>
-            </para>
+          </para>
+          <para>
+            <num>1001.3.1.4</num>
+            <title>Erosion and Sedimentation Control.</title>
+            <reason>Not Adopted</reason>
           </para>
           <para>
             <num>1001.3.1.5</num>
@@ -23122,13 +23102,8 @@
           </para>
           <para>
             <num>1001.3.1.8</num>
-            <heading>Construction Activity Pollution Prevention:</heading>
-            <text>
-              <strong>Protection of Occupied Areas. </strong>
-              <strong>
-                <em>{As in IgCC}</em>
-              </strong>
-            </text>
+            <title>Construction Activity Pollution Prevention: Protection of Occupied Areas.</title>
+            <reason>As in IgCC</reason>
           </para>
           <para>
             <num>1001.3.1.9</num>
@@ -23197,7 +23172,7 @@
             <text>Provide energy model for building consumption, solar generation, or other renewable generation report for yearly generation, and a summary report noting building EUI, solar generation, and a summary of energy savings measures implemented by the building.  For the purposes of this credit, on-site solar and community solar of which the property is a member generated within 15 miles of the site may be considered.  Provide energy information as required in the Green Building Statement of Compliance.</text>
           </para>
           <para>
-            <num>1101.3.2.1</num>
+            <num>1101.3.2.2</num>
             <heading>Path 2.</heading>
             <text>If the building pursues a net zero certification, such as International Living Futures Institutes Zero Energy or energy Petal, or LEED Zero Energy, the building may provide documentation showing acceptance into the monitoring period by those agencies in lieu of plans and energy calculations.  Provide energy information as required in the Green Building Statement of Compliance.</text>
           </para>
@@ -23276,7 +23251,7 @@
             <text><em>See </em>ICC Version of § 601.3.8 {"Dual Water Supply Piping"} –  (1 Point).</text>
           </para>
           <para>
-            <num>1101.4.4.4</num>
+            <num>1101.4.2.4</num>
             <heading>Dual Piping – Non-Potable Water systems.</heading>
             <text><em>See </em>ICC Version of   § 601.3.8 {"Dual Water Supply Piping"} –  50%  (2 points).</text>
           </para>
@@ -23623,7 +23598,7 @@
           </para>
         </para>
         <para name="101.2to101.4">
-          <num>101.2 to 101.4</num>
+          <num from="101.2" to="101.4">101.2 to 101.4</num>
           <reason>As in ISPSC</reason>
         </para>
       </section>
@@ -23651,13 +23626,13 @@
           </para>
         </para>
         <para name="103.2to103.3">
-          <num>103.2 to 103.3</num>
+          <num from="103.2" to="103.3">103.2 to 103.3</num>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>103.4</num>
           <title>Liability.</title>
-          <reason>Not Adopted.  See state courts article § 5-302</reason>
+          <reason>Not Adopted.  See state courts article § 5-302</reason>
         </para>
       </section>
       <section>
@@ -23665,7 +23640,7 @@
         <num>104</num>
         <heading>Duties and Powers of Code Official</heading>
         <para name="104.1to104.2">
-          <num>104.1 to 104.2</num>
+          <num from="104.1" to="104.2">104.1 to 104.2</num>
           <reason>As in ISPSC</reason>
         </para>
         <para>
@@ -23818,7 +23793,7 @@
         <num>107</num>
         <heading>Violations</heading>
         <para name="107.1to107.3">
-          <num>107.1 to 107.3</num>
+          <num from="107.1" to="107.3">107.1 to 107.3</num>
           <reason>As in ISPSC</reason>
         </para>
         <para>
@@ -23832,7 +23807,7 @@
           <text>The issuance and enforcement of stop-work orders are as provided in § 115 {"Stop-work order"} of the Baltimore City Building Code.</text>
         </para>
         <para name="107.6to107.7">
-          <num>107.6 to 107.7</num>
+          <num from="107.6" to="107.7">107.6 to 107.7</num>
           <reason>As in ISPSC</reason>
         </para>
       </section>
@@ -23846,7 +23821,7 @@
           <text>A decision of the Code Official is subject to administrative and judicial review as provided in the Baltimore City Building Code.</text>
         </para>
         <para name="108.2to108.7">
-          <num>108.2 to 108.7</num>
+          <num from="108.2" to="108.7">108.2 to 108.7</num>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -23860,7 +23835,7 @@
         <num>201</num>
         <heading>General</heading>
         <para name="201.1to201.2">
-          <num>201.1 to 201.2</num>
+          <num from="201.1" to="201.2">201.1 to 201.2</num>
           <reason>As in ISPSC</reason>
         </para>
         <para>
@@ -23972,12 +23947,12 @@
             </text>
           </para>
           <para name="304.2.1to304.2.2">
-            <num>304.2.1 to 304.2.2</num>
+            <num from="304.2.1" to="304.2.2">304.2.1 to 304.2.2</num>
             <reason>As in ISPSC</reason>
           </para>
         </para>
         <para name="304.3to304.5">
-          <num>304.3 to 304.5</num>
+          <num from="304.3" to="304.5">304.3 to 304.5</num>
           <reason>As in ISPSC</reason>
         </para>
         <para>
@@ -24085,11 +24060,11 @@
               <text>Nozzles that are not on walking surfaces must be designed to be clearly visible.</text>
             </para>
           </para>
-          <para>
-            <num>612.6</num>
-            <heading>Water sanitation.</heading>
-            <text>The water sanitation must consist of the equipment covered in §§ 612.6.1 through 612.6.5.</text>
-          </para>
+        </para>
+        <para>
+          <num>612.6</num>
+          <heading>Water sanitation.</heading>
+          <text>The water sanitation must consist of the equipment covered in §§ 612.6.1 through 612.6.5.</text>
           <para>
             <num>612.6.1</num>
             <heading>Water collection and treatment tank.</heading>
