@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="22">
   <prefix>Article</prefix>
   <num>22</num>
   <heading>Retirement Systems</heading>
-  <container name='s1'>
+  <container name="s1">
     <prefix>Subtitle</prefix>
     <num>1</num>
     <heading>Employees' Retirement System</heading>
@@ -62,11 +62,11 @@
           <text>"Employee" does not include:</text>
           <para>
             <num>(A)</num>
-            <text>any "elected official", as defined in § 17A(2) of this article for purposes of membership in the Elected Officials' Retirement System of the City of Baltimore; or</text>
+            <text>any "elected official", as defined in <cite path="|22|§17A|(2)">§ 17A(2) of this article</cite> for purposes of membership in the Elected Officials' Retirement System of the City of Baltimore; or</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>any "employee", as defined in § 30(2) of this article for purposes of membership in the Fire and Police Employees' Retirement System of the City of Baltimore.</text>
+            <text>any "employee", as defined in <cite path="|22|§30|(2)">§ 30(2) of this article</cite> for purposes of membership in the Fire and Police Employees' Retirement System of the City of Baltimore.</text>
           </para>
         </para>
         <para>
@@ -188,7 +188,7 @@
           <text>Beginning July 1, 1975, the provisions of this paragraph shall apply to all members who retire on or after July 1, 1975.</text>
           <para>
             <num>(a)</num>
-            <text>For members who retired during the period beginning with July 1, 1973, up to and including April 18, 1974, the term "average final compensation" shall be the same as is provided in paragraph (11)(i); however, no retroactive payments shall be made with respect to any period prior to the 1<sup>st</sup> day of the 1<sup>st</sup> full pay period after July 1, 1975.  It is further provided with respect to members who retired during the period July 1, 1973, through April 18, 1974, inclusive, or their beneficiaries, that they shall receive the adjustment required under this paragraph to the extent that it exceeds the benefit provided under § 6(n) and § 6(o) of this article as amended from time to time.</text>
+            <text>For members who retired during the period beginning with July 1, 1973, up to and including April 18, 1974, the term "average final compensation" shall be the same as is provided in paragraph (11)(i); however, no retroactive payments shall be made with respect to any period prior to the 1<sup>st</sup> day of the 1<sup>st</sup> full pay period after July 1, 1975.  It is further provided with respect to members who retired during the period July 1, 1973, through April 18, 1974, inclusive, or their beneficiaries, that they shall receive the adjustment required under this paragraph to the extent that it exceeds the benefit provided under § 6(n) and <cite path="|22|§6|(o)">§ 6(o) of this article</cite> as amended from time to time.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -412,7 +412,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>All persons who become employees and all employees who enter or reenter the employment of the City of Baltimore on or after July 1, 1979, are subject to § 9 of this article.  However, notwithstanding anything to the contrary, any Class A or Class B member who is laid off, placed on a reemployment list, and returns to City employment from the reemployment list shall immediately once again become a Class A or Class B member.</text>
+          <text>All persons who become employees and all employees who enter or reenter the employment of the City of Baltimore on or after July 1, 1979, are subject to <cite path="|22|§9">§ 9 of this article</cite>.  However, notwithstanding anything to the contrary, any Class A or Class B member who is laid off, placed on a reemployment list, and returns to City employment from the reemployment list shall immediately once again become a Class A or Class B member.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -499,7 +499,7 @@
         <text>On and after January 1, 1954, there shall be 2 classes of members to be known as Class A and Class B members, and beginning July 1, 1979, there shall be a 3<sup>rd</sup> class of members to be known as Class C members, and to be defined as follows:</text>
         <para>
           <num>(1)</num>
-          <text>Class A members shall be all new employees before July 1, 1979, who enter the membership on or after January 1, 1954, and any members in service on January 1, 1954, who elect on a form approved by the Board, to contribute at a rate of contribution computed to provide an annuity at age 60 of 1/120 of average final compensation, multiplied by the number of years of service after March 31, 1954.  Any school crossing guard, police department meter monitor or linemen transferred to this system pursuant to § 30(2) of this article shall be classified in this system as a Class A member, and shall not be charged with any deficit resulting from the difference in contribution rates between the Fire and Police Employees' Retirement System and this system in the calculation of said member's retirement allowance at the time of retirement.  The pension at service retirement on account of each year of prior service for Class A members shall be 1/60 of average final compensation, and the pension on account of each year of service since January 1, 1926 shall be 1/120 of average final compensation.</text>
+          <text>Class A members shall be all new employees before July 1, 1979, who enter the membership on or after January 1, 1954, and any members in service on January 1, 1954, who elect on a form approved by the Board, to contribute at a rate of contribution computed to provide an annuity at age 60 of 1/120 of average final compensation, multiplied by the number of years of service after March 31, 1954.  Any school crossing guard, police department meter monitor or linemen transferred to this system pursuant to <cite path="|22|§30|(2)">§ 30(2) of this article</cite> shall be classified in this system as a Class A member, and shall not be charged with any deficit resulting from the difference in contribution rates between the Fire and Police Employees' Retirement System and this system in the calculation of said member's retirement allowance at the time of retirement.  The pension at service retirement on account of each year of prior service for Class A members shall be 1/60 of average final compensation, and the pension on account of each year of service since January 1, 1926 shall be 1/120 of average final compensation.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -556,7 +556,7 @@
         <para>
           <num>(1)</num>
           <heading>Classes A and B – General.</heading>
-          <text>For Class A and Class B members, the Board of Trustees shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article,  fix and determine by appropriate rules and regulations how much service in any year is equivalent to a year of service, or proportion thereof, but in no case shall more than 1 year of service be credited for all service in any 12-month period, nor shall the Board of Trustees allow credit as service for any period of more than 1 month's duration during which the employee was absent without pay.  In the case of former members of the General Assembly of Maryland who become or who have become members of the Retirement System, each full year of membership in the General Assembly shall be credited as a year of service, regardless of whether payment for such service was on a per diem or per annum basis.  In any event, a member who vacated or otherwise relinquished his position as a member of the General Assembly before the end of the term for which he was elected, shall be given full credit up to the date of his separation from this position, regardless of whether payment for such service was on a per diem or per annum basis.</text>
+          <text>For Class A and Class B members, the Board of Trustees shall, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>,  fix and determine by appropriate rules and regulations how much service in any year is equivalent to a year of service, or proportion thereof, but in no case shall more than 1 year of service be credited for all service in any 12-month period, nor shall the Board of Trustees allow credit as service for any period of more than 1 month's duration during which the employee was absent without pay.  In the case of former members of the General Assembly of Maryland who become or who have become members of the Retirement System, each full year of membership in the General Assembly shall be credited as a year of service, regardless of whether payment for such service was on a per diem or per annum basis.  In any event, a member who vacated or otherwise relinquished his position as a member of the General Assembly before the end of the term for which he was elected, shall be given full credit up to the date of his separation from this position, regardless of whether payment for such service was on a per diem or per annum basis.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -640,7 +640,7 @@
       <para>
         <num>(c)</num>
         <heading>Verification of service.</heading>
-        <text>Subject to the above restrictions and to such other rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article,  the Board of Trustees adopt, the Board shall verify, as soon as practicable after the filing of such statement of service, the service therein claimed.</text>
+        <text>Subject to the above restrictions and to such other rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>,  the Board of Trustees adopt, the Board shall verify, as soon as practicable after the filing of such statement of service, the service therein claimed.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -787,7 +787,7 @@
         <para>
           <num>(9)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees may adopt rules, resolutions, and regulations to carry out this subsection.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees may adopt rules, resolutions, and regulations to carry out this subsection.</text>
         </para>
       </para>
       <para>
@@ -810,7 +810,7 @@
       <para>
         <num>(g)</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees is hereby authorized to issue rules and regulations to carry out the provisions of this section, notwithstanding any present rules and regulations to the contrary</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees is hereby authorized to issue rules and regulations to carry out the provisions of this section, notwithstanding any present rules and regulations to the contrary</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1927, art. 30, §4</annotation>
@@ -882,7 +882,7 @@
           <num>(2)</num>
           <para>
             <num>(i)</num>
-            <text>2 members of this System to be elected by the membership of this System under rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees adopts to govern the election. These members shall serve for terms of 4 years each, staggered as provided for the trustees first elected under this paragraph (2).</text>
+            <text>2 members of this System to be elected by the membership of this System under rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees adopts to govern the election. These members shall serve for terms of 4 years each, staggered as provided for the trustees first elected under this paragraph (2).</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -893,7 +893,7 @@
           <num>(3)</num>
           <para>
             <num>(i)</num>
-            <text>2 residents of the City of Baltimore, to be appointed by the Mayor, subject to confirmation by the City Council, as provided in City Charter Article IV, § 6, each to serve for terms of 4 years concurrent with the Mayor's term of office.</text>
+            <text>2 residents of the City of Baltimore, to be appointed by the Mayor, subject to confirmation by the City Council, as provided in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>, each to serve for terms of 4 years concurrent with the Mayor's term of office.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -908,7 +908,7 @@
           <num>(3a)</num>
           <para>
             <num>(i)</num>
-            <text>2 residents of the City of Baltimore or a surrounding county, to be appointed by the Mayor, subject to confirmation by the City Council, as  provided for in City Charter Article IV, § 6, from recommendations made by the President of the City Council, to serve for a term of 4 years concurrent with the Mayor's term of office.</text>
+            <text>2 residents of the City of Baltimore or a surrounding county, to be appointed by the Mayor, subject to confirmation by the City Council, as  provided for in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>, from recommendations made by the President of the City Council, to serve for a term of 4 years concurrent with the Mayor's term of office.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -921,17 +921,17 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>1 retiree of this System to be elected by the retirees under rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees adopts to govern the election. This member shall serve for a term of 4 years, staggered as provided for the trustee first elected under this paragraph (4).</text>
+          <text>1 retiree of this System to be elected by the retirees under rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees adopts to govern the election. This member shall serve for a term of 4 years, staggered as provided for the trustee first elected under this paragraph (4).</text>
         </para>
         <para>
           <num>(4a)</num>
-          <text>Notwithstanding City Charter Article IV, § 8, which ordinarily requires minority party representation, the election or appointment of Trustees under this subsection shall be made without regard to political affiliation, including those Trustees holding their positions ex officio.</text>
+          <text>Notwithstanding <cite doc="City of Baltimore, Md., Charter" path="IV|§8">City Charter Article IV, § 8</cite>, which ordinarily requires minority party representation, the election or appointment of Trustees under this subsection shall be made without regard to political affiliation, including those Trustees holding their positions ex officio.</text>
         </para>
         <para>
           <num>(5)</num>
           <para>
             <num>(i)</num>
-            <text>The Board of Trustees is an "agency" and a "board" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law (City Code Article 8).  Each Trustee is a "public servant" and an "official" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.  And each employee of the Board is a "public servant" and an "employee" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.</text>
+            <text>The Board of Trustees is an "agency" and a "board" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law (City Code <cite path="|8">Article 8</cite>).  Each Trustee is a "public servant" and an "official" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.  And each employee of the Board is a "public servant" and an "employee" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -969,7 +969,7 @@
               <text>XXXXXX</text>
               <para>
                 <num>A.</num>
-                <text>Notwithstanding City Code Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}, no Trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
+                <text>Notwithstanding City Code <cite path="|8|§6-28|(3)">Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}</cite>, no Trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
                 <para>
                   <num>i.</num>
                   <text>any person or entity engaged in an activity or providing a product or service that the Trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the Trustee reasonably would expect to be marketed to a City Benefit Plan; or</text>
@@ -981,7 +981,7 @@
               </para>
               <para>
                 <num>B.</num>
-                <text>Subparagraph 3.A does not preclude application of the qualified exemptions contained in City Code Article 8, § 6-28(1) {"food or beverages .. consumed ... in ... presence of ... donor"}, § 6-28(2) {"gift ... [of] insignificant value"}, § 6-28(5) {"gift ... [exempted by] Ethics Board"}, or § 6-28(6) {"gift from a spouse, parent, child, or sibling"}, subject to the qualifications of § 6-29 {"Exemption limitations"}.</text>
+                <text>Subparagraph 3.A does not preclude application of the qualified exemptions contained in City Code <cite path="|8|§6-28|(1)">Article 8, § 6-28(1) {"food or beverages .. consumed ... in ... presence of ... donor"}</cite>, § 6-28(2) {"gift ... [of] insignificant value"}, § 6-28(5) {"gift ... [exempted by] Ethics Board"}, or § 6-28(6) {"gift from a spouse, parent, child, or sibling"}, subject to the qualifications of § 6-29 {"Exemption limitations"}.</text>
               </para>
             </para>
             <para>
@@ -1022,7 +1022,7 @@
       <para>
         <num>(g)</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to the limitations of this subtitle, and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees shall, from time to time, establish rules and regulations for the administration of the funds created by this subtitle and for the transaction of its business.  Furthermore, the Board of Trustees shall adopt and administer uniform rules and regulations applicable to all members and shall not discriminate in favor of or against any members so that all members in like circumstances shall be treated the same.</text>
+        <text>Subject to the limitations of this subtitle, and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees shall, from time to time, establish rules and regulations for the administration of the funds created by this subtitle and for the transaction of its business.  Furthermore, the Board of Trustees shall adopt and administer uniform rules and regulations applicable to all members and shall not discriminate in favor of or against any members so that all members in like circumstances shall be treated the same.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -1048,7 +1048,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>The retention of these services is subject to the approval of the Board of Estimates as required by the City Charter and, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, by the rules and regulations of the Board of Estimates.</text>
+            <text>The retention of these services is subject to the approval of the Board of Estimates as required by <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> and, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, by the rules and regulations of the Board of Estimates.</text>
           </para>
         </para>
       </para>
@@ -1158,7 +1158,7 @@
             </para>
             <para>
               <num>(E)</num>
-              <text>service as the Director of Finance, the custodian of the assets of the Employees' Retirement System of Baltimore City as named in the Baltimore City Charter.</text>
+              <text>service as the Director of Finance, the custodian of the assets of the Employees' Retirement System of Baltimore City as named in <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.</text>
             </para>
           </para>
         </para>
@@ -2161,7 +2161,7 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>the member's unmarried minor children, to be paid to each child in equal shares, until that child marries or is no longer a minor, as defined in § 1(5) of this article; or</text>
+                <text>the member's unmarried minor children, to be paid to each child in equal shares, until that child marries or is no longer a minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>; or</text>
               </para>
             </para>
             <para>
@@ -2170,7 +2170,7 @@
             </para>
             <para>
               <num>C.</num>
-              <text>if there is no qualifying surviving spouse under subparagraph A or B, or if the surviving spouse dies or remarries, then to the member's unmarried minor children, to be paid to each child in equal shares, until that child marries or is no longer a minor, as defined in § 1(5) of this article.</text>
+              <text>if there is no qualifying surviving spouse under subparagraph A or B, or if the surviving spouse dies or remarries, then to the member's unmarried minor children, to be paid to each child in equal shares, until that child marries or is no longer a minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -2206,7 +2206,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>may not be counted as service credit for purpose of calculating the amount of the death benefit, unless purchased as service credit in accordance with § 16 of this article.</text>
+              <text>may not be counted as service credit for purpose of calculating the amount of the death benefit, unless purchased as service credit in accordance with <cite path="|22|§16">§ 16 of this article</cite>.</text>
             </para>
           </para>
         </para>
@@ -2332,7 +2332,7 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>if there is no surviving spouse or if the surviving spouse dies or remarries, to the member's minor children to be paid to each child, in equal shares, until that child is no longer minor, as defined in § 1(5) of this article; or</text>
+                <text>if there is no surviving spouse or if the surviving spouse dies or remarries, to the member's minor children to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>; or</text>
               </para>
               <para>
                 <num>3.</num>
@@ -2399,7 +2399,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>Any retirement allowance which is payable pursuant to § 6(f) of this article, and which is made to any retired Class A or Class B member who dies within 30 days after his effective date of retirement, shall be offset against any line-of-duty death benefits payable under the provisions of this subsection.</text>
+            <text>Any retirement allowance which is payable pursuant to <cite path="|22|§6|(f)">§ 6(f) of this article</cite>, and which is made to any retired Class A or Class B member who dies within 30 days after his effective date of retirement, shall be offset against any line-of-duty death benefits payable under the provisions of this subsection.</text>
           </para>
         </para>
         <para>
@@ -2431,7 +2431,7 @@
           </para>
           <para>
             <num>(v)</num>
-            <text>If any beneficiary receiving an increased minimum pension in 1994 as a result of this paragraph is eligible for a January 1995 post-retirement benefit increase under §17 of this article, the member's 1995 post-retirement increase shall be calculated as though the beneficiary had received this increased minimum pension benefit on June 30, 1994.</text>
+            <text>If any beneficiary receiving an increased minimum pension in 1994 as a result of this paragraph is eligible for a January 1995 post-retirement benefit increase under §17 of <cite path="|22">this article</cite>, the member's 1995 post-retirement increase shall be calculated as though the beneficiary had received this increased minimum pension benefit on June 30, 1994.</text>
           </para>
           <para>
             <num>(vi)</num>
@@ -2725,7 +2725,7 @@
       <para>
         <num>(a)</num>
         <heading>Trustee of funds.</heading>
-        <text>The Board of Trustees shall be the trustees of the several funds of the Employees' Retirement System of Baltimore created by Article 22 under this subtitle as provided in § 8.  The Board of Trustees shall have the power to invest and reinvest such funds in the following types or classes of assets subject to the limitations, if any, as set forth with regard to each type or class of investment.</text>
+        <text>The Board of Trustees shall be the trustees of the several funds of the Employees' Retirement System of Baltimore created by <cite path="|22">Article 22</cite> under this subtitle as provided in § 8.  The Board of Trustees shall have the power to invest and reinvest such funds in the following types or classes of assets subject to the limitations, if any, as set forth with regard to each type or class of investment.</text>
         <text>The Board of Trustees has the duty and responsibility of periodically determining investment policies consistent with the capital market environment, and the actuarial characteristics of the Employees' Retirement System and to publish these investment policy guidelines by filing a copy of them with the Department of Legislative Reference.</text>
         <text>All contributions from time to time paid into the several funds, and the income thereof, without distinction between principal and income, shall be held and administered by the Board of Trustees or its agents in the funds, and the Board shall not be required to segregate or invest separately any portion of the funds.</text>
         <text>Provided, however, that nothing in this section shall be deemed to render illegal or to invalidate the making and holding of any investment heretofore made and now remaining in said funds where such investment when made was authorized by law prior to the enactment of this section; and provided further, that nothing herein shall be deemed to prevent the Board of Trustees from accepting, in lieu or substitution of securities representing investments heretofore validly made, other securities not of the kind enumerated but authorized by ordinance as investments for the said Board prior to the enactment of this section, where the Board shall deem such substitution of securities desirable to preserve the investment of said funds.  Subject to the terms, provisions and conditions contained herein, said Trustees shall have full power to hold, purchase, sell, assign, transfer, and dispose of any of the securities and investments in which any of the funds created herein shall have been invested, as well as the proceeds of said investments and any moneys belonging to said funds.</text>
@@ -2814,7 +2814,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>Consistent with the fiduciary duties of the Board of Trustees under this Article 22, and the provisions of subparagraph (v) of this paragraph (1), the Board of Trustees may take divestment action in actively-managed separate accounts with regard to investments in:</text>
+            <text>Consistent with the fiduciary duties of the Board of Trustees under <cite path="|22">this </cite><cite path="|22">Article 22</cite>, and the provisions of subparagraph (v) of this paragraph (1), the Board of Trustees may take divestment action in actively-managed separate accounts with regard to investments in:</text>
             <para>
               <num>1.</num>
               <text>any bank or financial institution that makes loans to the Republic of Sudan,</text>
@@ -3110,7 +3110,7 @@
       <para>
         <num>(d)</num>
         <heading>Securities handling.</heading>
-        <text>The Director of Finance, as the Custodian designated in the City Charter, may cause any investment in securities held by the Trustees to be registered in or transferred into the name of the Trustees or into the name of such nominee as the Director of Finance may direct, including a nominee partnership created by the Board of Trustees, or the Director of Finance may retain them unregistered and in form permitting transferability, and further may authorize its contractual agents to deposit securities with "clearing corporations" as defined in § 8-102 of the State Commercial Law Article for the express purpose of having such clearing corporations act as centralized depositories for such securities, but the books and records of the Director of Finance and its contractual agents shall at all times show that all such investments are part of the several funds of the Employees' Retirement System.  The authority to make use of a clearing corporation shall include the authority to utilize the "book entry" system of the United States Government, and agencies thereof, for which the Federal Reserve Bank is the authorized fiscal agent.</text>
+        <text>The Director of Finance, as the Custodian designated in <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, may cause any investment in securities held by the Trustees to be registered in or transferred into the name of the Trustees or into the name of such nominee as the Director of Finance may direct, including a nominee partnership created by the Board of Trustees, or the Director of Finance may retain them unregistered and in form permitting transferability, and further may authorize its contractual agents to deposit securities with "clearing corporations" as defined in § 8-102 of the State Commercial Law Article for the express purpose of having such clearing corporations act as centralized depositories for such securities, but the books and records of the Director of Finance and its contractual agents shall at all times show that all such investments are part of the several funds of the Employees' Retirement System.  The authority to make use of a clearing corporation shall include the authority to utilize the "book entry" system of the United States Government, and agencies thereof, for which the Federal Reserve Bank is the authorized fiscal agent.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -3248,7 +3248,7 @@
         <heading>Certification of appropriation.</heading>
         <para>
           <num>(1)</num>
-          <text>On or before January 1 of each year, the Board of Trustees shall certify to the Board of Estimates the amount of the appropriation necessary to pay to the Retirement System the amounts payable by the City of Baltimore, as enumerated in this article, for the fiscal year beginning on the ensuing July 1.</text>
+          <text>On or before January 1 of each year, the Board of Trustees shall certify to the Board of Estimates the amount of the appropriation necessary to pay to the Retirement System the amounts payable by the City of Baltimore, as enumerated in <cite path="|22">this article</cite>, for the fiscal year beginning on the ensuing July 1.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3317,7 +3317,7 @@
             </para>
             <para>
               <num>(C)</num>
-              <text>Notwithstanding City Code Article 12, § 5-8 {"Labor Negotiations: Time table"}, if a minimum raise (or minimum aggregate) only becomes effective after a fiscal year has begun, the contribution increase for that fiscal year is suspended until the date on which the minimum raise (or minimum aggregate) is effective and is then applied pro rata for the period from the effective date of the raise through the remainder of the fiscal year.</text>
+              <text>Notwithstanding City Code <cite path="|12|§5-8">Article 12, § 5-8 {"Labor Negotiations: Time table"}</cite>, if a minimum raise (or minimum aggregate) only becomes effective after a fiscal year has begun, the contribution increase for that fiscal year is suspended until the date on which the minimum raise (or minimum aggregate) is effective and is then applied pro rata for the period from the effective date of the raise through the remainder of the fiscal year.</text>
             </para>
             <para>
               <num>(D)</num>
@@ -3434,7 +3434,7 @@
         <para>
           <num>(4)</num>
           <heading>Non-participation in other City plans – Exception.</heading>
-          <text>Notwithstanding paragraph (3) of this subsection, and pursuant to § 48 of this article, the following may become Class C members of this System and accrue service credit in this System while an employee covered by this System:</text>
+          <text>Notwithstanding paragraph (3) of this subsection, and pursuant to <cite path="|22|§48">§ 48 of this article</cite>, the following may become Class C members of this System and accrue service credit in this System while an employee covered by this System:</text>
           <para>
             <num>(i)</num>
             <text>members of another City retirement plan who were eligible to begin receiving retirement benefits from that other plan but who, on transferring to a position covered by this System, postponed receipt of those benefits; or</text>
@@ -4499,7 +4499,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the surviving spouse's minor children, in equal shares, to continue until the children are no longer minors, as defined in § 1(5) of this article.</text>
+              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the surviving spouse's minor children, in equal shares, to continue until the children are no longer minors, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -4817,7 +4817,7 @@
           <para>
             <num>(ii)</num>
             <text>R<em>eemployment on or after July 1, 2014.</em></text>
-            <text>The status of a Class C member who terminates City employment on or after July 1, 1979, after becoming eligible for a retirement benefit or a deferred vested pension benefit under this section, and who is subsequently reemployed as an employee on or after July 1, 2014, is determined in accordance with § 9.2(l)(2)(i) and (ii) of this article.</text>
+            <text>The status of a Class C member who terminates City employment on or after July 1, 1979, after becoming eligible for a retirement benefit or a deferred vested pension benefit under this section, and who is subsequently reemployed as an employee on or after July 1, 2014, is determined in accordance with § 9.2(l)(2)(i) and (ii) of <cite path="|22">this article</cite>.</text>
           </para>
         </para>
         <para>
@@ -4826,7 +4826,7 @@
           <para>
             <num>(i)</num>
             <heading>Reemployment on or before June 30, 2014.</heading>
-            <text>A Class C member who terminates City employment for more than 30 consecutive days on or after July 1, 1979, before becoming eligible for a retirement benefit or a deferred vested pension benefit under this section, and who is subsequently reemployed  as an employee on or before June 30, 2014, and before the expiration of a time period equal to the parity time period defined in § 1(28) of this article:</text>
+            <text>A Class C member who terminates City employment for more than 30 consecutive days on or after July 1, 1979, before becoming eligible for a retirement benefit or a deferred vested pension benefit under this section, and who is subsequently reemployed  as an employee on or before June 30, 2014, and before the expiration of a time period equal to the parity time period defined in <cite path="|22|§1|(28)">§ 1(28) of this article</cite>:</text>
             <para>
               <num>(A)</num>
               <text>will again, on the 1<sup>st</sup> annual anniversary of his or her reemployment, become a Class C member; and</text>
@@ -4839,13 +4839,13 @@
           <para>
             <num>(ii)</num>
             <heading>Reemployment on or after July 1, 2014.</heading>
-            <text>The status of a Class C member who terminates City employment on or after July 1, 1979, before becoming eligible for a retirement benefit or a deferred vested pension benefit under this section, and who is subsequently reemployed as an employee on or after July 1, 2014, is determined in accordance with § 9.2(l)(2)(iii)-(vi) of this article.</text>
+            <text>The status of a Class C member who terminates City employment on or after July 1, 1979, before becoming eligible for a retirement benefit or a deferred vested pension benefit under this section, and who is subsequently reemployed as an employee on or after July 1, 2014, is determined in accordance with § 9.2(l)(2)(iii)-(vi) of <cite path="|22">this article</cite>.</text>
           </para>
         </para>
         <para>
           <num>(3)</num>
           <heading>Before becoming eligible for certain benefits – Class A and B members.</heading>
-          <text>A Class A or Class B member who terminates City employment for more than 30 consecutive days and who is subsequently reemployed as an employee on or after July 1, 1979, and before the expiration of a time period equal to the parity time period defined in § 1(28) of this article:</text>
+          <text>A Class A or Class B member who terminates City employment for more than 30 consecutive days and who is subsequently reemployed as an employee on or after July 1, 1979, and before the expiration of a time period equal to the parity time period defined in <cite path="|22|§1|(28)">§ 1(28) of this article</cite>:</text>
           <para>
             <num>(i)</num>
             <text>will, on the 1<sup>st</sup> annual anniversary of his or her reemployment, become a Class C member; and</text>
@@ -5083,7 +5083,7 @@
                 </para>
                 <para>
                   <num>B.</num>
-                  <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer a minor, as defined in § 1(5) of this article;</text>
+                  <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer a minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>;</text>
                 </para>
               </para>
               <para>
@@ -5092,7 +5092,7 @@
               </para>
               <para>
                 <num>3.</num>
-                <text>if there is no qualifying surviving spouse under item 1. or 2. of this sub-subparagraph, or if the surviving spouse remarries before age 70 or dies, then to the member's minor children, to be paid to each child in equal shares until that child is no longer a minor, as defined in § 1(5) of this article.</text>
+                <text>if there is no qualifying surviving spouse under item 1. or 2. of this sub-subparagraph, or if the surviving spouse remarries before age 70 or dies, then to the member's minor children, to be paid to each child in equal shares until that child is no longer a minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>.</text>
               </para>
             </para>
             <para>
@@ -5281,7 +5281,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer a minor, as defined in § 1(5) of this article, if:</text>
+              <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer a minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>, if:</text>
               <para>
                 <num>1.</num>
                 <text>the member designated his or her children as beneficiaries;</text>
@@ -5753,7 +5753,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>If the claim is for non-line-of-duty disability benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's disability qualifies under § 22(b) of this article.</text>
+              <text>If the claim is for non-line-of-duty disability benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's disability qualifies under <cite path="|22|§22|(b)">§ 22(b) of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -5770,7 +5770,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>If the claim is for line-of-duty disability benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's disability qualifies under § 22(c) of this article.</text>
+              <text>If the claim is for line-of-duty disability benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's disability qualifies under <cite path="|22|§22|(c)">§ 22(c) of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -5782,7 +5782,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>If the claim is for line-of-duty death benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's death qualifies under § 22(g) of this article.</text>
+              <text>If the claim is for line-of-duty death benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's death qualifies under <cite path="|22|§22|(g)">§ 22(g) of this article</cite>.</text>
             </para>
           </para>
         </para>
@@ -6055,17 +6055,17 @@
         <para>
           <num>(3)</num>
           <heading>Hybrid member.</heading>
-          <text>"Hybrid member" has the meaning stated in City Code Article 22A {"Retirement Savings Plan"}, § 1-1 {"Definitions"}.</text>
+          <text>"Hybrid member" has the meaning stated in City Code <cite path="|22">Article 22</cite>A {"Retirement Savings Plan"}, § 1-1 {"Definitions"}.</text>
         </para>
         <para>
           <num>(4)</num>
           <heading>Non-hybrid member.</heading>
-          <text>"Non-hybrid member" has the meaning stated in City Code Article 22A {"Retirement Savings Plan"}, § 1-1 {"Definitions"}.</text>
+          <text>"Non-hybrid member" has the meaning stated in City Code <cite path="|22">Article 22</cite>A {"Retirement Savings Plan"}, § 1-1 {"Definitions"}.</text>
         </para>
         <para>
           <num>(5)</num>
           <heading>Retirement Savings Plan.</heading>
-          <text>"Retirement Savings Plan" means the Retirement Savings Plan of the City of Baltimore, as established by City Code Article 22A {"Retirement Savings Plan"}.</text>
+          <text>"Retirement Savings Plan" means the Retirement Savings Plan of the City of Baltimore, as established by City Code <cite path="|22">Article 22</cite>A {"Retirement Savings Plan"}.</text>
         </para>
       </para>
       <para>
@@ -6077,12 +6077,12 @@
           <para>
             <num>(i)</num>
             <heading>In general.</heading>
-            <text>An employee who, on or after July 1, 2014, is initially employed or is reemployed under § 9.2(l)(2)(iv) or (vi) of this article must, within 150 days after the date on which his or her employment or reemployment began, file a plan-election form with the Board of Trustees of the Retirement Savings Plan.</text>
+            <text>An employee who, on or after July 1, 2014, is initially employed or is reemployed under § 9.2(l)(2)(iv) or (vi) of <cite path="|22">this article</cite> must, within 150 days after the date on which his or her employment or reemployment began, file a plan-election form with the Board of Trustees of the Retirement Savings Plan.</text>
           </para>
           <para>
             <num>(ii)</num>
             <heading>Transfers.</heading>
-            <text>The status of an employee who, on or after July 1, 2014, transfers, without a break in employment, from a position with the City covered under another City retirement plan (as defined in § 9(a)(1) of this article) is determined in accordance with § 9(a)(2)(ii) of this article.</text>
+            <text>The status of an employee who, on or after July 1, 2014, transfers, without a break in employment, from a position with the City covered under another City retirement plan (as defined in <cite path="|22|§9|(a)|(1)">§ 9(a)(1) of this article</cite>) is determined in accordance with <cite path="|22|§9|(a)|(2)|(ii)">§ 9(a)(2)(ii) of this article</cite>.</text>
           </para>
         </para>
         <para>
@@ -6132,7 +6132,7 @@
           <para>
             <num>(ii)</num>
             <heading>Hybrid member; non-hybrid member; Retirement Savings Plan .</heading>
-            <text>"Hybrid member", "non-hybrid member", and "Retirement Savings Plan" have the meanings stated in City Code Article 22A {"Retirement Savings Plan"}, § 1-1 {"Definitions"}.</text>
+            <text>"Hybrid member", "non-hybrid member", and "Retirement Savings Plan" have the meanings stated in City Code <cite path="|22">Article 22</cite>A {"Retirement Savings Plan"}, § 1-1 {"Definitions"}.</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -6172,7 +6172,7 @@
         <para>
           <num>(4)</num>
           <heading>Non-participation in other City plans – Exception.</heading>
-          <text>Notwithstanding paragraph (3) of this subsection, and pursuant to § 48 of this article, the following may become Class D members of this System and accrue service credit in this System while an employee covered by this System:</text>
+          <text>Notwithstanding paragraph (3) of this subsection, and pursuant to <cite path="|22|§48">§ 48 of this article</cite>, the following may become Class D members of this System and accrue service credit in this System while an employee covered by this System:</text>
           <para>
             <num>(i)</num>
             <text>members of another City retirement plan who were eligible to begin receiving retirement benefits from that other plan but postponed receipt of those benefits after transferring to a position covered by this System; or</text>
@@ -7018,7 +7018,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in § 1(5) of this article.</text>
+              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -7443,7 +7443,7 @@
               <text>Notwithstanding any other provision of this subtitle, an employee described in sub-subparagraph (A) of this subparagraph:</text>
               <para>
                 <num>1.</num>
-                <text>must, as of his or her reemployment with the City, cease or postpone receiving any City retirement benefits in accordance with § 48 {"Contemporaneous benefits from 2 or more City systems"} of this article;</text>
+                <text>must, as of his or her reemployment with the City, cease or postpone receiving any City retirement benefits in accordance with <cite path="|22|§48">§ 48 {"Contemporaneous benefits from 2 or more City systems"} of this article</cite>;</text>
               </para>
               <para>
                 <num>2.</num>
@@ -7840,7 +7840,7 @@
                 </para>
                 <para>
                   <num>b.</num>
-                  <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer a minor, as defined in § 1(5) of this article;</text>
+                  <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer a minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>;</text>
                 </para>
               </para>
               <para>
@@ -7849,7 +7849,7 @@
               </para>
               <para>
                 <num>3.</num>
-                <text>if there is no qualifying surviving spouse under item 1. or 2. of this sub-subparagraph, or if the surviving spouse remarries before age 70 or dies, then to the member's minor children, to be paid to each child in equal shares until that child is no longer a minor, as defined in § 1(5) of this article.</text>
+                <text>if there is no qualifying surviving spouse under item 1. or 2. of this sub-subparagraph, or if the surviving spouse remarries before age 70 or dies, then to the member's minor children, to be paid to each child in equal shares until that child is no longer a minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>.</text>
               </para>
             </para>
             <para>
@@ -8038,7 +8038,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>the member's minor children, to be paid to each child in equal shares until that child is no longer a minor, as defined in § 1(5) of this article, if:</text>
+              <text>the member's minor children, to be paid to each child in equal shares until that child is no longer a minor, as defined in <cite path="|22|§1|(5)">§ 1(5) of this article</cite>, if:</text>
               <para>
                 <num>1.</num>
                 <text>the member designated his or her children as beneficiaries;</text>
@@ -8461,7 +8461,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>If the claim is for non-line-of-duty disability benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's disability qualifies under § 22(b) of this article.</text>
+              <text>If the claim is for non-line-of-duty disability benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's disability qualifies under <cite path="|22|§22|(b)">§ 22(b) of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -8473,7 +8473,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>If the claim is for line-of-duty disability benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's disability qualifies under § 22(c) of this article.</text>
+              <text>If the claim is for line-of-duty disability benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's disability qualifies under <cite path="|22|§22|(c)">§ 22(c) of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -8490,7 +8490,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>If the claim is for line-of-duty death benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's death qualifies under § 22(g) of this article.</text>
+              <text>If the claim is for line-of-duty death benefits under the Elected Officials' Retirement System, the hearing examiner shall determine whether the member's death qualifies under <cite path="|22|§22|(g)">§ 22(g) of this article</cite>.</text>
             </para>
           </para>
         </para>
@@ -8537,7 +8537,7 @@
       <prefix>§</prefix>
       <num>10</num>
       <heading>Guaranty.</heading>
-      <text>The creation and maintenance of reserves in the Pension Accumulation Fund, the maintenance of annuity reserves and pension reserves as provided for, and regular interest creditable to the various funds as provided in § 7(b) of this article and the payment of all pensions, annuities, retirement allowances, refunds and other benefits granted under the provisions of this subtitle and all expenses in connection with the administration and operation of this retirement system are hereby made obligations of the City of Baltimore.  All income interest and dividends derived from deposits and investments authorized by this subtitle shall be used for the payment of the said obligations of the said City.  Any amounts derived therefrom which, when combined with the regular amounts, otherwise contributable by the City of Baltimore as provided under the provisions of this subtitle, exceed the amount required to provide such obligations, shall be used to reduce the regular appropriations otherwise required or to reduce the period of amortization of the unfunded accrued liability, or both, as determined by the Board of Trustees.</text>
+      <text>The creation and maintenance of reserves in the Pension Accumulation Fund, the maintenance of annuity reserves and pension reserves as provided for, and regular interest creditable to the various funds as provided in <cite path="|22|§7|(b)">§ 7(b) of this article</cite> and the payment of all pensions, annuities, retirement allowances, refunds and other benefits granted under the provisions of this subtitle and all expenses in connection with the administration and operation of this retirement system are hereby made obligations of the City of Baltimore.  All income interest and dividends derived from deposits and investments authorized by this subtitle shall be used for the payment of the said obligations of the said City.  Any amounts derived therefrom which, when combined with the regular amounts, otherwise contributable by the City of Baltimore as provided under the provisions of this subtitle, exceed the amount required to provide such obligations, shall be used to reduce the regular appropriations otherwise required or to reduce the period of amortization of the unfunded accrued liability, or both, as determined by the Board of Trustees.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1927, art. 30, §10</annotation>
         <annotation type="Prior Codifications">1950, art. 23, §10</annotation>
@@ -8745,7 +8745,7 @@
         <annotation doc="City of Balt., Md., Ord. 26-553" type="History">Ord. 26-553</annotation>
         <annotation doc="City of Balt., Md., Ord. 58-1387" type="History">Ord. 58-1387</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -8786,7 +8786,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Except as otherwise provided in this subsection or, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, by rule or regulation of the Board:</text>
+            <text>Except as otherwise provided in this subsection or, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, by rule or regulation of the Board:</text>
             <para>
               <num>(A)</num>
               <text>the hearing must be conducted in an orderly but informal manner; and</text>
@@ -8955,12 +8955,12 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Pursuant to § 48 of this article and notwithstanding the waiting period required by this section, members described in subparagraph (i) of this paragraph (3), on ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include all post-retirement increases, in accordance with the rates of increase set by this system, that the member or retiree would have been eligible to receive as a retiree had retirement benefits not been postponed or suspended.</text>
+            <text>Pursuant to <cite path="|22|§48">§ 48 of this article</cite> and notwithstanding the waiting period required by this section, members described in subparagraph (i) of this paragraph (3), on ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include all post-retirement increases, in accordance with the rates of increase set by this system, that the member or retiree would have been eligible to receive as a retiree had retirement benefits not been postponed or suspended.</text>
           </para>
         </para>
         <para>
           <num>(4)</num>
-          <text>Notwithstanding paragraph (3) of this subsection, former members of this system who ceased all permanent full-time and permanent part-time employment covered by this system, with entitlement to deferred vested pension benefits, and who then chose to begin employment in a position covered by another City system, on vesting and ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include only those post-retirement increases that the member otherwise would have been eligible to receive under paragraph (2) of this subsection from the commencement of the former member's actual receipt of vested benefits pursuant to '' 6(a)(12) and 9(l) of this article.</text>
+          <text>Notwithstanding paragraph (3) of this subsection, former members of this system who ceased all permanent full-time and permanent part-time employment covered by this system, with entitlement to deferred vested pension benefits, and who then chose to begin employment in a position covered by another City system, on vesting and ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include only those post-retirement increases that the member otherwise would have been eligible to receive under paragraph (2) of this subsection from the commencement of the former member's actual receipt of vested benefits pursuant to '' 6(a)(12) and 9(l) of <cite path="|22">this article</cite>.</text>
         </para>
       </para>
       <para>
@@ -9327,7 +9327,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>It is intended that any benefit increase continue for the lifetime of the eligible member and any beneficiary, consistent with any option elected under § 6 or § 9 of this article.</text>
+          <text>It is intended that any benefit increase continue for the lifetime of the eligible member and any beneficiary, consistent with any option elected under § 6 or <cite path="|22|§9">§ 9 of this article</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -9439,7 +9439,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>as of the preceding June 30, the Class D funded status, as defined in City Code Article 22A, § 5-3(c)(4)(ii), is 85% or more.</text>
+          <text>as of the preceding June 30, the Class D funded status, as defined in City Code <cite path="|22">Article 22</cite>A, § 5-3(c)(4)(ii), is 85% or more.</text>
         </para>
       </para>
       <para>
@@ -9488,7 +9488,7 @@
       </annotations>
     </section>
   </container>
-  <container name='s2'>
+  <container name="s2">
     <prefix>Subtitle</prefix>
     <num>2</num>
     <heading>Elected Officials' Retirement System</heading>
@@ -9726,7 +9726,7 @@
           <text>An elected official is entitled to purchase credit for prior service as an elected official or other prior City employment, regardless of retirement plan membership, as long as:</text>
           <para>
             <num>(i)</num>
-            <text>the provisions of the State Personnel and Pensions Article of the Annotated Code of Maryland governing transfers do not apply;</text>
+            <text>the provisions of the <cite doc="Md. Code" proof="needed">State Personnel and Pensions Article of the Annotated Code of Maryland</cite> governing transfers do not apply;</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -9755,7 +9755,7 @@
           <para>
             <num>(i)</num>
             <heading>Eligibility.</heading>
-            <text>An elected official who satisfies the applicable requirements of the State Personnel and Pensions Article of the Annotated Code of Maryland may transfer service from a State or local retirement or pension system within Maryland, including another City retirement plan.</text>
+            <text>An elected official who satisfies the applicable requirements of the <cite doc="Md. Code" proof="needed">State Personnel and Pensions Article of the Annotated Code of Maryland</cite> may transfer service from a State or local retirement or pension system within Maryland, including another City retirement plan.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -9775,7 +9775,7 @@
         <para>
           <num>(2)</num>
           <heading>Exception.</heading>
-          <text>Notwithstanding paragraph (1) of this subsection, and pursuant to § 48 of this article, the following may become members of this System and accrue service credit in this System while  an elected official:</text>
+          <text>Notwithstanding paragraph (1) of this subsection, and pursuant to <cite path="|22|§48">§ 48 of this article</cite>, the following may become members of this System and accrue service credit in this System while  an elected official:</text>
           <para>
             <num>(i)</num>
             <text>members of another City retirement plan who were eligible to begin receiving retirement benefits from that other plan but who, on becoming an elected official, postponed receipt of those benefits; or</text>
@@ -9789,7 +9789,7 @@
       <para>
         <num>(c)</num>
         <heading>Purchase of service credit for delayed oath taken within week of term's start date.</heading>
-        <text>An elected official who takes the oath of office within one week after the date his or her term of office is deemed to have started under the City Charter ("deemed term start date") may elect to receive service credit for the period between the deemed term start date and the date he or she took the oath of office and thus became a member of this System.  To receive the service credit, the elected official must, by the last day of the month in which he or she leaves office, make a single payment to this System.  The amount of the payment will be determined by the System's actuary and will equal the employee contributions and City contributions that would have been made on the official's behalf had he or she been a member of this System as of the deemed term start date.</text>
+        <text>An elected official who takes the oath of office within one week after the date his or her term of office is deemed to have started under <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> ("deemed term start date") may elect to receive service credit for the period between the deemed term start date and the date he or she took the oath of office and thus became a member of this System.  To receive the service credit, the elected official must, by the last day of the month in which he or she leaves office, make a single payment to this System.  The amount of the payment will be determined by the System's actuary and will equal the employee contributions and City contributions that would have been made on the official's behalf had he or she been a member of this System as of the deemed term start date.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 22, §19</annotation>
@@ -9942,7 +9942,7 @@
         <para>
           <num>(9)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees may adopt rules, resolutions, and regulations to carry out this subsection.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees may adopt rules, resolutions, and regulations to carry out this subsection.</text>
         </para>
       </para>
       <para>
@@ -9981,17 +9981,17 @@
         <text>The Elected Officials' Retirement System shall be administered by the Board of Trustees of the Employees' Retirement System:</text>
         <para>
           <num>(1)</num>
-          <text>in the same manner as is provided in § 5 of this article; and</text>
+          <text>in the same manner as is provided in <cite path="|22|§5">§ 5 of this article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>subject to the same limitations as are imposed by § 5(b)(5) of this article.</text>
+          <text>subject to the same limitations as are imposed by <cite path="|22|§5|(b)|(5)">§ 5(b)(5) of this article</cite>.</text>
         </para>
       </para>
       <para>
         <num>(b)</num>
         <heading>Claims administration.</heading>
-        <text>All claims shall be administered by the panel of hearing examiners in the same manner as provided in § 9 of this article for members of the Employees' Retirement System.</text>
+        <text>All claims shall be administered by the panel of hearing examiners in the same manner as provided in <cite path="|22|§9">§ 9 of this article</cite> for members of the Employees' Retirement System.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 22, §21</annotation>
@@ -10333,7 +10333,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in § 17A(22) of this article.</text>
+              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in <cite path="|22|§17A|(22)">§ 17A(22) of this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -10633,7 +10633,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the Estates and Trusts Article of the Maryland Code; and</text>
+            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the <cite doc="Md. Code" path="get">Estates and Trusts Article of the Maryland Code</cite>; and</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -10760,7 +10760,7 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>if there is no surviving spouse or if the surviving spouse remarries before age 70 or dies, to the member's minor children to be paid to each child, in equal shares, until that child is no longer a minor, as defined in § 17A(22            ) of this article;</text>
+                <text>if there is no surviving spouse or if the surviving spouse remarries before age 70 or dies, to the member's minor children to be paid to each child, in equal shares, until that child is no longer a minor, as defined in <cite path="|22|§17A|(22            )" proof="needed">§ 17A(22            ) of this article</cite>;</text>
               </para>
               <para>
                 <num>3.</num>
@@ -10824,7 +10824,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the Estates and Trusts Article of the Maryland Code; and</text>
+            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the <cite doc="Md. Code" path="get">Estates and Trusts Article of the Maryland Code</cite>; and</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -10900,7 +10900,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Pursuant to § 48 of this article, members described in paragraph (1) of this subsection, on ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include all increases in current annual earnable compensation set by this System under § 17A(9) that the member or retiree would have been eligible to receive as a retiree had retirement benefits not been Postponed or suspended.</text>
+          <text>Pursuant to <cite path="|22|§48">§ 48 of this article</cite>, members described in paragraph (1) of this subsection, on ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include all increases in current annual earnable compensation set by this System under § 17A(9) that the member or retiree would have been eligible to receive as a retiree had retirement benefits not been Postponed or suspended.</text>
         </para>
       </para>
       <para>
@@ -11098,17 +11098,17 @@
       <para>
         <num>(a)</num>
         <heading>Trustee of funds.</heading>
-        <text>The Board of Trustees shall be the trustees of the several funds of the Elected Officials' Retirement System of Baltimore created under the provisions of this subtitle.  The Board shall have the power to invest and reinvest such funds as provided for in § 7 of this Article 22.</text>
+        <text>The Board of Trustees shall be the trustees of the several funds of the Elected Officials' Retirement System of Baltimore created under the provisions of this subtitle.  The Board shall have the power to invest and reinvest such funds as provided for in <cite path="|22|§7">§ 7 of this Article 22</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Sudan investments.</heading>
-        <text>The provisions of § 7(a)(1) of this article, concerning the investment of funds in companies doing business in or with Sudan, apply to all funds of the Elected Officials' Retirement System.</text>
+        <text>The provisions of <cite path="|22|§7|(a)|(1)">§ 7(a)(1) of this article</cite>, concerning the investment of funds in companies doing business in or with Sudan, apply to all funds of the Elected Officials' Retirement System.</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Fossil fuel company investments.</heading>
-        <text>The provisions of § 7(a)(2) of this article, concerning the investment of funds in fossil fuel companies, apply to all funds of the Elected Officials' Retirement System.</text>
+        <text>The provisions of <cite path="|22|§7|(a)|(2)">§ 7(a)(2) of this article</cite>, concerning the investment of funds in fossil fuel companies, apply to all funds of the Elected Officials' Retirement System.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 22, §23</annotation>
@@ -11172,7 +11172,7 @@
         <heading>Certification of Appropriation.</heading>
         <para>
           <num>(1)</num>
-          <text>On or before January 1 of each year, the Board of Trustees shall certify to the Board of Estimates the amount of the appropriation necessary to pay to this Retirement System the amounts payable by the City of Baltimore, as enumerated in this article, for the fiscal year beginning on the ensuing July 1.</text>
+          <text>On or before January 1 of each year, the Board of Trustees shall certify to the Board of Estimates the amount of the appropriation necessary to pay to this Retirement System the amounts payable by the City of Baltimore, as enumerated in <cite path="|22">this article</cite>, for the fiscal year beginning on the ensuing July 1.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -11194,7 +11194,7 @@
       <prefix>§</prefix>
       <num>25</num>
       <heading>Exemption from assignment and execution.</heading>
-      <text>Any current or future benefit provided by this system and any money in a fund or an account created by this system is exempt from attachment, assignment, or execution as provided in § 11 of this article, subject to the exceptions delineated in that section.</text>
+      <text>Any current or future benefit provided by this system and any money in a fund or an account created by this system is exempt from attachment, assignment, or execution as provided in <cite path="|22|§11">§ 11 of this article</cite>, subject to the exceptions delineated in that section.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 04-882" type="History">Ord. 04-882</annotation>
       </annotations>
@@ -11206,7 +11206,7 @@
       <para>
         <num>(a)</num>
         <heading>Administrative appeal.</heading>
-        <text>Any person aggrieved by a determination made or action taken with respect to a person's eligibility for membership in or benefits under this System may appeal that determination or action to the Board of Trustees under the procedures set forth in § 15(a) of this article.</text>
+        <text>Any person aggrieved by a determination made or action taken with respect to a person's eligibility for membership in or benefits under this System may appeal that determination or action to the Board of Trustees under the procedures set forth in <cite path="|22|§15|(a)">§ 15(a) of this article</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -11454,27 +11454,49 @@
           <table class="layout-table">
             <tbody>
               <tr>
-                <td><p class="text-indent-2"><span class="level-num">(i)</span> the Annuity Savings Reserve:</p></td>
-                <td><p>3.00%.</p></td>
+                <td>
+                  <p class="text-indent-2"><span class="level-num">(i)</span> the Annuity Savings Reserve:</p>
+                </td>
+                <td>
+                  <p>3.00%.</p>
+                </td>
               </tr>
               <tr>
-                <td colspan="2"><p class="text-indent-2"><span class="level-num">(ii)</span> for valuation purposes:</p></td>
+                <td colspan="2">
+                  <p class="text-indent-2"><span class="level-num">(ii)</span> for valuation purposes:</p>
+                </td>
               </tr>
               <tr>
-                <td><p class="text-indent-3"><span class="level-num">(A)</span> for determining system funding contributions to be made by the City on or after July 1, 2022:</p></td>
-                <td><p>7.00%</p></td>
+                <td>
+                  <p class="text-indent-3"><span class="level-num">(A)</span> for determining system funding contributions to be made by the City on or after July 1, 2022:</p>
+                </td>
+                <td>
+                  <p>7.00%</p>
+                </td>
               </tr>
               <tr>
-                <td><p class="text-indent-3"><span class="level-num">(B)</span> for determining systems funding contributions to be made by the City on or after July 1, 2023:</p></td>
-                <td><p>6.95%</p></td>
+                <td>
+                  <p class="text-indent-3"><span class="level-num">(B)</span> for determining systems funding contributions to be made by the City on or after July 1, 2023:</p>
+                </td>
+                <td>
+                  <p>6.95%</p>
+                </td>
               </tr>
               <tr>
-                <td><p class="text-indent-3"><span class="level-num">(C)</span> for determining system funding contributions to be made by the City on or after July 1, 2024:</p></td>
-                <td><p>6.90%</p></td>
+                <td>
+                  <p class="text-indent-3"><span class="level-num">(C)</span> for determining system funding contributions to be made by the City on or after July 1, 2024:</p>
+                </td>
+                <td>
+                  <p>6.90%</p>
+                </td>
               </tr>
               <tr>
-                <td><p class="text-indent-2"><span class="level-num">(iii)</span>  for determining actuarial equivalents:</p></td>
-                <td><p>5.00%.</p></td>
+                <td>
+                  <p class="text-indent-2"><span class="level-num">(iii)</span>  for determining actuarial equivalents:</p>
+                </td>
+                <td>
+                  <p>5.00%.</p>
+                </td>
               </tr>
             </tbody>
           </table>
@@ -11549,11 +11571,11 @@
         <text>"Actuarial equivalent", for purposes of determining the amount of an optional retirement benefit under this subtitle, means a benefit of equivalent value when calculated using annuity factors derived from:</text>
         <para>
           <num>(i)</num>
-          <text>regular interest established under § 30(9) of this article; and</text>
+          <text>regular interest established under <cite path="|22|§30|(9)">§ 30(9) of this article</cite>; and</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>mortality assumptions adopted by the Board of Trustees as part of the Retirement System's periodic experience study conducted under § 33(o) of this article.</text>
+          <text>mortality assumptions adopted by the Board of Trustees as part of the Retirement System's periodic experience study conducted under <cite path="|22|§33|(o)">§ 33(o) of this article</cite>.</text>
         </para>
       </para>
       <para>
@@ -11624,7 +11646,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Notwithstanding paragraph (b) of this subsection (1), and pursuant to § 48 of this article, the following shall become members of this system and accrue service credit in this system while employed in a permanent full-time or permanent part-time position covered by this system:</text>
+          <text>Notwithstanding paragraph (b) of this subsection (1), and pursuant to <cite path="|22|§48">§ 48 of this article</cite>, the following shall become members of this system and accrue service credit in this system while employed in a permanent full-time or permanent part-time position covered by this system:</text>
           <para>
             <num>(i)</num>
             <text>members of another City system who were eligible to begin receiving retirement benefits from that system but who chose to postpone receipt of those benefits and change employment to a position covered by this system (including former members of the Employees' Retirement System with entitlement to deferred vested pension benefits from that system, who ceased all permanent full-time or permanent part-time employment covered by that system); or</text>
@@ -11696,12 +11718,12 @@
       <para>
         <num>(a)</num>
         <heading>Statement of service.</heading>
-        <text>Under such rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees shall adopt, each member who was an employee at any time during the year immediately preceding the date of establishment shall file a detailed statement of all service rendered by him before the date of establishment for which he claims service credit, including all retirement systems service granted or credited to him under any other pension or retirement system supported wholly or in part by the City of Baltimore.</text>
+        <text>Under such rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees shall adopt, each member who was an employee at any time during the year immediately preceding the date of establishment shall file a detailed statement of all service rendered by him before the date of establishment for which he claims service credit, including all retirement systems service granted or credited to him under any other pension or retirement system supported wholly or in part by the City of Baltimore.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Verification of statements.</heading>
-        <text>Subject to the above restrictions and to such other rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article,  the Board of Trustees may adopt, the Board of Trustees shall verify as soon as practicable after the filing of such statement of service, the service therein claimed.</text>
+        <text>Subject to the above restrictions and to such other rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>,  the Board of Trustees may adopt, the Board of Trustees shall verify as soon as practicable after the filing of such statement of service, the service therein claimed.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -11711,7 +11733,7 @@
       <para>
         <num>(d)</num>
         <heading>Computation of service.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees shall fix and determine by appropriate rules and regulations how much service in any year is equivalent to a year of service, but in no case shall more than 1 year of service be credited for all service in 1 calendar year, nor shall the Board of Trustees allow credit as service for any period of more than 1 month's duration during which the employee was absent without pay.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees shall fix and determine by appropriate rules and regulations how much service in any year is equivalent to a year of service, but in no case shall more than 1 year of service be credited for all service in 1 calendar year, nor shall the Board of Trustees allow credit as service for any period of more than 1 month's duration during which the employee was absent without pay.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -11832,7 +11854,7 @@
         <para>
           <num>(9)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees may adopt rules, resolutions and regulations to carry out the provisions of this subsection as long as those rules, resolutions, and regulations are consistent with USERRA.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees may adopt rules, resolutions and regulations to carry out the provisions of this subsection as long as those rules, resolutions, and regulations are consistent with USERRA.</text>
         </para>
       </para>
       <para>
@@ -11840,7 +11862,7 @@
         <heading>Credit for military service prior to employment.</heading>
         <para>
           <num>(1)</num>
-          <text>Upon proper application to this system, a member who has acquired at least 10 years of service and attained age 50, or who has acquired 20 years of service, shall be granted credit for military service, as defined in subsection (e)(7) of this section, prior to employment with the City, unless otherwise provided in this Article 22.</text>
+          <text>Upon proper application to this system, a member who has acquired at least 10 years of service and attained age 50, or who has acquired 20 years of service, shall be granted credit for military service, as defined in subsection (e)(7) of this section, prior to employment with the City, unless otherwise provided in <cite path="|22">this </cite><cite path="|22">Article 22</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -12060,7 +12082,7 @@
         <annotation type="History">Text Conformed 02/22/21</annotation>
         <annotation type="Editor's Notes">
           <text>Ordinance 19-254 substantially amended this section. Section 4 of Ord. 19-254 provides</text>
-          <text>[T]he changes made by this Ordinance to Article 22, § 32, take effect with regard to members whose system entry dates are on or after July 1, 2019.  Members whose system entry dates are on or before June 30, 2019, must purchase and transfer service pursuant to the law in effect on or before June 30, 2019.</text>
+          <text>[T]he changes made by this Ordinance to <cite path="|22|§32">Article 22, § 32</cite>, take effect with regard to members whose system entry dates are on or after July 1, 2019.  Members whose system entry dates are on or before June 30, 2019, must purchase and transfer service pursuant to the law in effect on or before June 30, 2019.</text>
         </annotation>
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsections (a), (b), (d), and (e)(9i) of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
@@ -12098,7 +12120,7 @@
           <num>(5)</num>
           <para>
             <num>(i)</num>
-            <text>3 residents and registered voters of the City of Baltimore, to be appointed by the Mayor with the consent of the City Council, as provided in City Charter Article IV, § 6, each to serve for a term of 4 years concurrent with the Mayor's term of office.  1 of these 3 Trustees shall be appointed by the Mayor from a list of 3 recommended candidates submitted by the President of the City Council.</text>
+            <text>3 residents and registered voters of the City of Baltimore, to be appointed by the Mayor with the consent of the City Council, as provided in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>, each to serve for a term of 4 years concurrent with the Mayor's term of office.  1 of these 3 Trustees shall be appointed by the Mayor from a list of 3 recommended candidates submitted by the President of the City Council.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -12111,21 +12133,21 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>2 members of the system, one of whom shall be an employee of the Fire Department, the other an employee of the Police Department, to be elected by the membership of the respective departments to which each belongs under the rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees adopts to govern the election, to serve for a term of 4 years, staggered as provided for the Trustees first elected.  For the purposes of this paragraph (6), members of the system who are not employed by the Fire Department or the Police Department are eligible to participate as voters and as candidates in elections of the Board of Trustees.  School crossing guards, meter monitors, and police personnel employed at the Baltimore / Washington International Thurgood Marshall Airport shall participate in the Police Department elections.  Fire personnel employed at the Baltimore / Washington International Thurgood Marshall Airport shall participate in the Fire Department elections.  For other categories of members of the system who are not employees of the Fire Department or the Police Department, the Board of Trustees shall determine in which departmental election they shall participate.</text>
+          <text>2 members of the system, one of whom shall be an employee of the Fire Department, the other an employee of the Police Department, to be elected by the membership of the respective departments to which each belongs under the rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees adopts to govern the election, to serve for a term of 4 years, staggered as provided for the Trustees first elected.  For the purposes of this paragraph (6), members of the system who are not employed by the Fire Department or the Police Department are eligible to participate as voters and as candidates in elections of the Board of Trustees.  School crossing guards, meter monitors, and police personnel employed at the Baltimore / Washington International Thurgood Marshall Airport shall participate in the Police Department elections.  Fire personnel employed at the Baltimore / Washington International Thurgood Marshall Airport shall participate in the Fire Department elections.  For other categories of members of the system who are not employees of the Fire Department or the Police Department, the Board of Trustees shall determine in which departmental election they shall participate.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>2 retirees of the system, 1 of whom shall be a Fire Department retiree, and the other a Police Department retiree, to be elected by the retirees of the respective department to which each belonged, these elections to be held concurrently with the election for the employees representative of each respective department, under the rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees adopts to govern the election, to serve for a term of 4 years.  For the purposes of this paragraph (7), retirees of the system who are not employed by the Fire Department or the Police Department are eligible to participate as voters and as candidates in elections of the Board of Trustees.  Retired school crossing guards, retired meter monitors, and police personnel retired from employment at the Baltimore / Washington International Thurgood Marshall Airport shall participate in the Police Department elections.  Fire personnel retired from employment at the Baltimore / Washington International Thurgood Marshall Airport shall participate in the Fire Department elections.  For other categories of retirees in the system who were not employees of the Fire Department or the Police Department, the Board of Trustees shall determine in which departmental election they shall participate.</text>
+          <text>2 retirees of the system, 1 of whom shall be a Fire Department retiree, and the other a Police Department retiree, to be elected by the retirees of the respective department to which each belonged, these elections to be held concurrently with the election for the employees representative of each respective department, under the rules and regulations that, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees adopts to govern the election, to serve for a term of 4 years.  For the purposes of this paragraph (7), retirees of the system who are not employed by the Fire Department or the Police Department are eligible to participate as voters and as candidates in elections of the Board of Trustees.  Retired school crossing guards, retired meter monitors, and police personnel retired from employment at the Baltimore / Washington International Thurgood Marshall Airport shall participate in the Police Department elections.  Fire personnel retired from employment at the Baltimore / Washington International Thurgood Marshall Airport shall participate in the Fire Department elections.  For other categories of retirees in the system who were not employees of the Fire Department or the Police Department, the Board of Trustees shall determine in which departmental election they shall participate.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Notwithstanding City Charter Article IV, §8, which ordinarily requires minority party representation, the election or appointment of Trustees under this subsection shall be made without regard to political affiliation, including those Trustees holding their positions ex officio.</text>
+          <text>Notwithstanding <cite doc="City of Baltimore, Md., Charter" path="IV">City Charter Article IV</cite>, §8, which ordinarily requires minority party representation, the election or appointment of Trustees under this subsection shall be made without regard to political affiliation, including those Trustees holding their positions ex officio.</text>
         </para>
         <para>
           <num>(9)</num>
           <para>
             <num>(i)</num>
-            <text>The Board of Trustees is an "agency" and a "board" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law (City Code Article 8).  Each Trustee is a "public servant" and an "official" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.  And each employee of the Board is a "public servant" and an "employee" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.</text>
+            <text>The Board of Trustees is an "agency" and a "board" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law (City Code <cite path="|8">Article 8</cite>).  Each Trustee is a "public servant" and an "official" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.  And each employee of the Board is a "public servant" and an "employee" within the meaning of and subject to the standards and requirements of the Baltimore City Public Ethics Law.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -12163,7 +12185,7 @@
               <text>XXXXXXX</text>
               <para>
                 <num>A.</num>
-                <text>Notwithstanding City Code Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}, no Trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
+                <text>Notwithstanding City Code <cite path="|8|§6-28|(3)">Article 8 {"Ethics"}, § 6-28(3) {"Gifts: Qualified exemptions; travel, etc., expenses"}</cite>, no Trustee or Board employee may accept any gift or any payment, free admission, or expense reimbursement for attendance at a conference, seminar, or similar meeting, or for related food, travel, lodging, or entertainment, if the gift or the payment, free admission, or reimbursement is, directly or indirectly, from:</text>
                 <para>
                   <num>i.</num>
                   <text>any person or entity engaged in an activity or providing a product or service that the Trustee knows or has reason to know has been marketed to a City Benefit Plan or is of a type that the Trustee reasonably would expect to be marketed to a City Benefit Plan; or</text>
@@ -12175,7 +12197,7 @@
               </para>
               <para>
                 <num>B.</num>
-                <text>Subparagraph 3.A does not preclude application of the qualified exemptions contained in City Code Article 8, § 6-28(1) {"food or beverages .. consumed ... in ... presence of ... donor"}, § 6-28(2) {"gift ... [of] insignificant value"}, § 6-28(5) {"gift ... [exempted by] Ethics Board"}, or § 6-28(6) {"gift from a spouse, parent, child, or sibling"}, subject to the qualifications of § 6-29 {"Exemption limitations"}.</text>
+                <text>Subparagraph 3.A does not preclude application of the qualified exemptions contained in City Code <cite path="|8|§6-28|(1)">Article 8, § 6-28(1) {"food or beverages .. consumed ... in ... presence of ... donor"}</cite>, § 6-28(2) {"gift ... [of] insignificant value"}, § 6-28(5) {"gift ... [exempted by] Ethics Board"}, or § 6-28(6) {"gift from a spouse, parent, child, or sibling"}, subject to the qualifications of § 6-29 {"Exemption limitations"}.</text>
               </para>
             </para>
             <para>
@@ -12216,7 +12238,7 @@
       <para>
         <num>(g)</num>
         <heading>Regulations.</heading>
-        <text>Subject to the limitations of this subtitle, and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Trustees shall, from time to time, establish rules and regulations for the administration of the funds created by this subtitle and for the transaction of its business.</text>
+        <text>Subject to the limitations of this subtitle, and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Trustees shall, from time to time, establish rules and regulations for the administration of the funds created by this subtitle and for the transaction of its business.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -12283,7 +12305,7 @@
         <heading>Panel of hearing examiners.</heading>
         <para>
           <num>(1)</num>
-          <text>There is a panel of hearing examiners, composed of persons with a demonstrated knowledge and competence in disability claims evaluation.  The hearing examiners shall be appointed on a contract basis by the Board of Estimates, and the number and composition of the panel shall be at the discretion of the Board of Estimates.  The Board of Estimates shall determine the fees to be paid the hearing examiners and the conditions of their contracts.  This panel of hearing examiners shall be the same panel as provided for in § 9(p) of this article.</text>
+          <text>There is a panel of hearing examiners, composed of persons with a demonstrated knowledge and competence in disability claims evaluation.  The hearing examiners shall be appointed on a contract basis by the Board of Estimates, and the number and composition of the panel shall be at the discretion of the Board of Estimates.  The Board of Estimates shall determine the fees to be paid the hearing examiners and the conditions of their contracts.  This panel of hearing examiners shall be the same panel as provided for in <cite path="|22|§9|(p)">§ 9(p) of this article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -12291,7 +12313,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The compensation of the panel members, as well as the compensation of all persons engaged by the panel, and all other expenses of the panel, shall be paid at the rates and in the amounts that the Board of Estimates approves, pursuant to the provisions of the City Charter.</text>
+          <text>The compensation of the panel members, as well as the compensation of all persons engaged by the panel, and all other expenses of the panel, shall be paid at the rates and in the amounts that the Board of Estimates approves, pursuant to the provisions of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -12458,11 +12480,11 @@
         <heading>Annual valuation.</heading>
         <para>
           <num>(1)</num>
-          <text>Based on the assumptions adopted by the Board of Trustees and on the rate of regular interest established under § 30(9) of this article, the actuary shall conduct an annual valuation of the assets and liabilities of the Retirement System, using generally accepted costing methodology.</text>
+          <text>Based on the assumptions adopted by the Board of Trustees and on the rate of regular interest established under <cite path="|22|§30|(9)">§ 30(9) of this article</cite>, the actuary shall conduct an annual valuation of the assets and liabilities of the Retirement System, using generally accepted costing methodology.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Taking into account the valuation conducted by the actuary, the Board of Trustees shall adopt a valuation of the assets and liabilities of the Retirement System and, on that basis, shall certify to the Director of Finance, on or before the date mandated by § 36(f) of this article, the amount of the annual contribution from the City of Baltimore to adequately fund the Retirement System.</text>
+          <text>Taking into account the valuation conducted by the actuary, the Board of Trustees shall adopt a valuation of the assets and liabilities of the Retirement System and, on that basis, shall certify to the Director of Finance, on or before the date mandated by <cite path="|22|§36|(f)">§ 36(f) of this article</cite>, the amount of the annual contribution from the City of Baltimore to adequately fund the Retirement System.</text>
         </para>
       </para>
       <para>
@@ -12476,7 +12498,7 @@
         <para>
           <num>(2)</num>
           <heading>"Service in a fiduciary capacity" defined.</heading>
-          <text>The term "service in a fiduciary capacity", as used in this section, means the exercise of any authority or control or any policy-making function, including acts of commission or omission, concerning the management or administration of the Fire and Police Employees' Retirement System of Baltimore, or the exercise of any authority or control or any policy-making function, including acts of commission or omission, concerning the management or disposition of the assets of the system.  It includes membership on the Board of Trustees of the Fire and Police Employees' Retirement System of Baltimore City, membership on the advisory investment committee, and service as Administrator or Deputy Administrator of the Fire and Police Employees' Retirement System, or as a staff member engaged in policy-making functions in the performance of his duties and responsibilities; and it includes the Director of Finance, the custodian of the assets of the Fire and Police Employees' Retirement System as named in the Baltimore City Charter.</text>
+          <text>The term "service in a fiduciary capacity", as used in this section, means the exercise of any authority or control or any policy-making function, including acts of commission or omission, concerning the management or administration of the Fire and Police Employees' Retirement System of Baltimore, or the exercise of any authority or control or any policy-making function, including acts of commission or omission, concerning the management or disposition of the assets of the system.  It includes membership on the Board of Trustees of the Fire and Police Employees' Retirement System of Baltimore City, membership on the advisory investment committee, and service as Administrator or Deputy Administrator of the Fire and Police Employees' Retirement System, or as a staff member engaged in policy-making functions in the performance of his duties and responsibilities; and it includes the Director of Finance, the custodian of the assets of the Fire and Police Employees' Retirement System as named in <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -13264,21 +13286,21 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in § 30(22) of this article; or</text>
+                <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>; or</text>
               </para>
             </para>
             <para>
               <num>(ii)</num>
-              <text>if the designated beneficiary is not the member's spouse or minor child, as defined in § 30(22) of this article, and that beneficiary predeceases the member, or if there is no designated beneficiary, then to the member's surviving spouse, to continue for life or until remarriage, if the member was married to that spouse for at least 1 year immediately before the date of the member's death; or</text>
+              <text>if the designated beneficiary is not the member's spouse or minor child, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and that beneficiary predeceases the member, or if there is no designated beneficiary, then to the member's surviving spouse, to continue for life or until remarriage, if the member was married to that spouse for at least 1 year immediately before the date of the member's death; or</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>if there is no qualifying surviving spouse under subparagraph (B)(i) or (ii), or if the surviving spouse dies or remarries, then to the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in § 30(22) of this article.</text>
+              <text>if there is no qualifying surviving spouse under subparagraph (B)(i) or (ii), or if the surviving spouse dies or remarries, then to the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>.</text>
             </para>
           </para>
           <para>
             <num>(C)</num>
-            <text>For purposes of this paragraph (4), when a member's child is no longer a minor, as defined in § 30(22) of this article, and consequently ceases to receive benefits under this paragraph (4), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
+            <text>For purposes of this paragraph (4), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (4), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
           </para>
           <para>
             <num>(D)</num>
@@ -13307,7 +13329,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the Estates and Trusts Article of the Maryland Code; and</text>
+            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the <cite doc="Md. Code" path="get">Estates and Trusts Article of the Maryland Code</cite>; and</text>
           </para>
           <para>
             <num>(C)</num>
@@ -13378,7 +13400,7 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>if there is no surviving spouse or if the surviving spouse dies, to the member's minor children to be paid to each child, in equal shares, until that child is no longer minor, as defined in § 30(22) of this article;</text>
+                <text>if there is no surviving spouse or if the surviving spouse dies, to the member's minor children to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>;</text>
               </para>
               <para>
                 <num>3.</num>
@@ -13396,7 +13418,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>For purposes of this paragraph (2), when a member's child is no longer a minor, as defined in § 30(22) of this article, and consequently ceases to receive benefits under this paragraph (2), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
+            <text>For purposes of this paragraph (2), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (2), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
           </para>
           <para>
             <num>(D)</num>
@@ -13454,7 +13476,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the Estates and Trusts Article of the Maryland Code; and</text>
+            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the <cite doc="Md. Code" path="get">Estates and Trusts Article of the Maryland Code</cite>; and</text>
           </para>
           <para>
             <num>(C)</num>
@@ -13565,18 +13587,18 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in § 30(22) of this article.</text>
+              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>.</text>
             </para>
           </para>
           <para>
             <num>(iii)</num>
             <heading>Retired member's death – Share of minor child who attains majority.</heading>
-            <text>For purposes of this paragraph, when a retired member's child is no longer a minor, as defined in § 30(22) of this article, and consequently ceases to receive benefits under this paragraph, each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child. This process continues until the youngest child is no longer a minor.</text>
+            <text>For purposes of this paragraph, when a retired member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph, each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child. This process continues until the youngest child is no longer a minor.</text>
           </para>
           <para>
             <num>(iv)</num>
             <heading>Retired member's death – Before contributions and DROP or DROP 2 account recovered.</heading>
-            <text>If a retired member who is receiving the maximum retirement allowance dies before the member has received in annuity payments a sum equal to the amount of his or her accumulated contributions and DROP or DROP 2 account at the time of retirement, and if there is no qualifying surviving spouse or minor child, as defined in § 30(22) of this article, entitled to receive further benefits as a result of the member's death, the difference between the amount of the deceased member's accumulated contributions and DROP or DROP 2 account at the time of his or her retirement and the sum of the annuity payments that he or she had received during his or her lifetime shall be paid in the form of a lump-sum cash payment as follows:</text>
+            <text>If a retired member who is receiving the maximum retirement allowance dies before the member has received in annuity payments a sum equal to the amount of his or her accumulated contributions and DROP or DROP 2 account at the time of retirement, and if there is no qualifying surviving spouse or minor child, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, entitled to receive further benefits as a result of the member's death, the difference between the amount of the deceased member's accumulated contributions and DROP or DROP 2 account at the time of his or her retirement and the sum of the annuity payments that he or she had received during his or her lifetime shall be paid in the form of a lump-sum cash payment as follows:</text>
             <para>
               <num>(A)</num>
               <text>to the deceased member's beneficiary specifically designated to receive the unused annuity and remaining DROP or DROP 2 account; or</text>
@@ -14309,7 +14331,7 @@
         <annotation doc="City of Balt., Md., Ord. 19-254" type="History">Ord. 19-254</annotation>
         <annotation type="Editor's Notes">
           <text>Ordinance 19-254 added subsection (d).  Section 5 of Ord. 19-254 provides</text>
-          <text>[T]he direct-deposit requirement of Article 22, § 34.1(d), as added by this Ordinance, applies only to members or beneficiaries whose first periodic benefit payment from this System is made on or after January 1, 2020.</text>
+          <text>[T]he direct-deposit requirement of <cite path="|22|§34">Article 22, § 34</cite>.1(d), as added by this Ordinance, applies only to members or beneficiaries whose first periodic benefit payment from this System is made on or after January 1, 2020.</text>
         </annotation>
       </annotations>
     </section>
@@ -14320,7 +14342,7 @@
       <para>
         <num>(a)</num>
         <heading>Trustee of funds.</heading>
-        <text>The Board of Trustees shall be the trustees of the several funds of the Fire and Police Employees' Retirement System of Baltimore created by Article 22 under this subtitle as provided in § 36.  The Board of Trustees shall have the power to invest and reinvest such funds in the following types or classes of assets subject to the limitations, if any, as set forth with regard to each type or class of investment.</text>
+        <text>The Board of Trustees shall be the trustees of the several funds of the Fire and Police Employees' Retirement System of Baltimore created by <cite path="|22">Article 22</cite> under this subtitle as provided in § 36.  The Board of Trustees shall have the power to invest and reinvest such funds in the following types or classes of assets subject to the limitations, if any, as set forth with regard to each type or class of investment.</text>
         <text>The Board of Trustees has the duty and responsibility of periodically determining investment policies consistent with the capital market environment, and the actuarial characteristics of the Fire and Police Employees' Retirement System and to publish these investment policy guidelines by filing a copy of them with the Department of Legislative Reference.</text>
         <text>All contributions from time to time paid into the several funds, and the income thereof, without distinction between principal and income, shall be held and administered by the Board of Trustees or its agents in the funds, and the Board shall not be required to segregate or invest separately any portion of the funds.</text>
         <text>Provided, however, that nothing in this section shall be deemed to render illegal or to invalidate the making and holding of any investment heretofore made and now remaining in said funds where such investment when made was authorized by law prior to the enactment of this section; and provided further, that nothing herein shall be deemed to prevent the Board of Trustees from accepting, in lieu or substitution of securities representing investments heretofore validly made, other securities not of the kind enumerated but authorized by ordinance as investments for the said Board prior to the enactment of this section, where the Board shall deem such substitution of securities desirable to preserve the investment of the said funds.  Subject to the terms, provisions and conditions contained herein, said Trustees shall have full power to hold, purchase, sell, assign, transfer, and dispose of any of the securities and investments in which any of the funds created herein shall have been invested, as well as the proceeds of said investments and any moneys belonging to said funds.</text>
@@ -14409,7 +14431,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>Consistent with the fiduciary duties of the Board of Trustees under this Article 22, and the provisions of subparagraph (v) of this paragraph (1), the Board of Trustees may take divestment action in actively-managed separate accounts with regard to investments in:</text>
+            <text>Consistent with the fiduciary duties of the Board of Trustees under <cite path="|22">this </cite><cite path="|22">Article 22</cite>, and the provisions of subparagraph (v) of this paragraph (1), the Board of Trustees may take divestment action in actively-managed separate accounts with regard to investments in:</text>
             <para>
               <num>1.</num>
               <text>any bank or financial institution that makes loans to the Republic of Sudan,</text>
@@ -14726,7 +14748,7 @@
       <para>
         <num>(d)</num>
         <heading>Securities handling.</heading>
-        <text>The Director of Finance, as the Custodian designated in the City Charter, may cause any investment in securities held by the Trustees to be registered in or transferred into the name of the Trustees or into the name of such nominee as the Director of Finance may direct, including a nominee partnership created by the Board of Trustees, or the Director of Finance may retain them unregistered and in form permitting transferability, and further may authorize its contractual agents to deposit securities with "clearing corporations" as defined in § 8-102 of State Commercial Law Article for the express purpose of having such clearing corporations act as centralized depositories of such securities, but the books and records of the Director of Finance and its contractual agents shall at all times show that all such investments are part of the several funds of the Fire and Police Employees' Retirement System.  The authority to make use of a clearing corporation shall include the authority to utilize the "book entry" system of the United States Government, and agencies thereof, for which the Federal Reserve Bank is the authorized fiscal agent.</text>
+        <text>The Director of Finance, as the Custodian designated in <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, may cause any investment in securities held by the Trustees to be registered in or transferred into the name of the Trustees or into the name of such nominee as the Director of Finance may direct, including a nominee partnership created by the Board of Trustees, or the Director of Finance may retain them unregistered and in form permitting transferability, and further may authorize its contractual agents to deposit securities with "clearing corporations" as defined in § 8-102 of State Commercial Law Article for the express purpose of having such clearing corporations act as centralized depositories of such securities, but the books and records of the Director of Finance and its contractual agents shall at all times show that all such investments are part of the several funds of the Fire and Police Employees' Retirement System.  The authority to make use of a clearing corporation shall include the authority to utilize the "book entry" system of the United States Government, and agencies thereof, for which the Federal Reserve Bank is the authorized fiscal agent.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -15301,7 +15323,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Pursuant to § 48 of this article and notwithstanding the waiting period required by this section, members described in subparagraph (i) of this paragraph (2), on ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include all post-retirement increases, in accordance with the rates of increase set by this system, that the member or retiree would have been eligible to receive as a retiree had retirement benefits not been postponed or suspended.</text>
+            <text>Pursuant to <cite path="|22|§48">§ 48 of this article</cite> and notwithstanding the waiting period required by this section, members described in subparagraph (i) of this paragraph (2), on ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include all post-retirement increases, in accordance with the rates of increase set by this system, that the member or retiree would have been eligible to receive as a retiree had retirement benefits not been postponed or suspended.</text>
           </para>
         </para>
         <para>
@@ -16196,7 +16218,7 @@
         </para>
         <para>
           <num>(12)</num>
-          <text>A DROP 2 participant who retires with a benefit under this section is subject to restrictions of this article concerning contemporaneous membership in more than one City of Baltimore retirement system.</text>
+          <text>A DROP 2 participant who retires with a benefit under this section is subject to restrictions of <cite path="|22">this article</cite> concerning contemporaneous membership in more than one City of Baltimore retirement system.</text>
         </para>
       </para>
       <para>
@@ -17195,7 +17217,7 @@
         <annotation type="Prior Codifications">1976/83, art. 22, §40</annotation>
         <annotation doc="City of Balt., Md., Ord. 62-1285" type="History">Ord. 62-1285</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-        <annotation type="Editor's Notes">For the Code-wide standard for severability, see City General Provisions Article, § 1-214.</annotation>
+        <annotation type="Editor's Notes">For the Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -17220,7 +17242,7 @@
       </annotations>
     </section>
   </container>
-  <container name='s4'>
+  <container name="s4">
     <prefix>Subtitle</prefix>
     <num>4</num>
     <heading>Contractual Provisions</heading>
@@ -17228,7 +17250,7 @@
       <prefix>§</prefix>
       <num>42</num>
       <heading>Contractual relationship.</heading>
-      <text>Upon becoming either a Class A, a Class B or a Class C member of the Employees' Retirement System, or upon becoming a member of the Fire and Police Employees' Retirement System, established under this Article 22, such member shall thereupon be deemed to have entered into a contract with the Mayor and City Council of Baltimore, the terms of which shall be the provisions of this Article 22, as they exist at the effective date of this ordinance, or at the time of becoming a member, whichever is later, and the benefits provided thereunder shall not thereafter be in any way diminished or impaired.</text>
+      <text>Upon becoming either a Class A, a Class B or a Class C member of the Employees' Retirement System, or upon becoming a member of the Fire and Police Employees' Retirement System, established under <cite path="|22">this </cite><cite path="|22">Article 22</cite>, such member shall thereupon be deemed to have entered into a contract with the Mayor and City Council of Baltimore, the terms of which shall be the provisions of <cite path="|22">this </cite><cite path="|22">Article 22</cite>, as they exist at the effective date of this ordinance, or at the time of becoming a member, whichever is later, and the benefits provided thereunder shall not thereafter be in any way diminished or impaired.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 22, §42</annotation>
         <annotation type="Prior Codifications">1976/83, art. 22, §42</annotation>
@@ -17237,7 +17259,7 @@
       </annotations>
     </section>
   </container>
-  <container name='s5'>
+  <container name="s5">
     <prefix>Subtitle</prefix>
     <num>5</num>
     <heading>Investment Advisors</heading>
@@ -17247,11 +17269,11 @@
       <heading>Employment; duties.</heading>
       <para>
         <num>(a)</num>
-        <text>Subject to the approval of the Board of Estimates, the Boards of Trustees of the respective retirement systems established under this Article 22 may hire, employ or retain qualified persons or other legal entities as investment advisors.  The duties of such investment advisors shall include formulating and recommending to the respective Boards of Trustees, for their adoption, policy to be followed by the said Boards in respect to investment of the retirement systems' funds established under this article, subject to the limitations on the said Boards provided for by this article; and monitoring and evaluating the investment of the retirement systems' funds, and the performance of the investment managers with respect thereto.  Payment for such investment advisory services shall be made from the resources of the pension fund or funds.</text>
+        <text>Subject to the approval of the Board of Estimates, the Boards of Trustees of the respective retirement systems established under <cite path="|22">this </cite><cite path="|22">Article 22</cite> may hire, employ or retain qualified persons or other legal entities as investment advisors.  The duties of such investment advisors shall include formulating and recommending to the respective Boards of Trustees, for their adoption, policy to be followed by the said Boards in respect to investment of the retirement systems' funds established under <cite path="|22">this article</cite>, subject to the limitations on the said Boards provided for by <cite path="|22">this article</cite>; and monitoring and evaluating the investment of the retirement systems' funds, and the performance of the investment managers with respect thereto.  Payment for such investment advisory services shall be made from the resources of the pension fund or funds.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Nothing herein contained shall be construed to limit in any manner the authority heretofore conferred by this article on the said Boards of Trustees over the investment and management of the said several retirement systems' funds, it being the intention of this section that the investment advisors authorized herein shall advise and make recommendations to the said Boards with respect to general investment policy, but the final determination as to the investment and management of any of the said funds shall remain with the said respective Boards of Trustees.</text>
+        <text>Nothing herein contained shall be construed to limit in any manner the authority heretofore conferred by <cite path="|22">this article</cite> on the said Boards of Trustees over the investment and management of the said several retirement systems' funds, it being the intention of this section that the investment advisors authorized herein shall advise and make recommendations to the said Boards with respect to general investment policy, but the final determination as to the investment and management of any of the said funds shall remain with the said respective Boards of Trustees.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 22, §43</annotation>
@@ -17262,7 +17284,7 @@
       </annotations>
     </section>
   </container>
-  <container name='s6'>
+  <container name="s6">
     <prefix>Subtitle</prefix>
     <num>6</num>
     <heading>Police Department, Special Fund</heading>
@@ -17292,7 +17314,7 @@
       <prefix>§</prefix>
       <num>45</num>
       <heading>Military service credit.</heading>
-      <text>Notwithstanding any provision to the contrary contained in § 16-29 and § 16-30 of the Code of Public Local Laws of Baltimore City, upon proper application to the Police Commissioner, credit for military service, as defined in § 4(e) of this article, shall be granted to any retiree who retired under the provisions of the Police Department Special Fund who served in the military prior to employment with the Police Department, provided the member has attained the age of 50 years and acquired at least 10 years of service, or has acquired 25 years of service prior to such application.  However, a retiree shall not be awarded credit if he has received credit for a period of military service under any other retirement system for which retirement benefits have been or will be received by him; however, this exclusion does not apply to any such credit provided through Federal Old-Age and Survivor's Insurance (Social Security), or to any benefits provided under Title 3 or Title 10, Chapter 67, '' 1331 through 1337 of the U.S. Code.</text>
+      <text>Notwithstanding any provision to the contrary contained in § 16-29 and § 16-30 of the Code of Public Local Laws of Baltimore City, upon proper application to the Police Commissioner, credit for military service, as defined in <cite path="|22|§4|(e)">§ 4(e) of this article</cite>, shall be granted to any retiree who retired under the provisions of the Police Department Special Fund who served in the military prior to employment with the Police Department, provided the member has attained the age of 50 years and acquired at least 10 years of service, or has acquired 25 years of service prior to such application.  However, a retiree shall not be awarded credit if he has received credit for a period of military service under any other retirement system for which retirement benefits have been or will be received by him; however, this exclusion does not apply to any such credit provided through Federal Old-Age and Survivor's Insurance (Social Security), or to any benefits provided under Title 3 or Title 10, Chapter 67, '' 1331 through 1337 of the U.S. Code.</text>
       <text>The military service credit herein provided shall not exceed 3 years.  The payment and continued payment of any increases in total benefit allowances as may result from the provisions of this paragraph shall be subject to the annual appropriation of the necessary funds by the Mayor and City Council of Baltimore.  The provisions of this section shall apply to all retirees who are receiving periodically paid benefits on the effective date of this ordinance, regardless of their date of retirement, provided that at the time of retirement the retiree met the age and service requirements stated above.  The provisions of this section shall not apply to beneficiaries of the retirees of this fund.  The recalculated benefit, if any is due, shall be prospective only from the effective date of this ordinance.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 22, §45</annotation>
@@ -17300,7 +17322,7 @@
       </annotations>
     </section>
   </container>
-  <container name='s7'>
+  <container name="s7">
     <prefix>Subtitle</prefix>
     <num>7</num>
     <heading>General Provisions</heading>
@@ -17496,7 +17518,7 @@
           <text>The member may:</text>
           <para>
             <num>(i)</num>
-            <text>tentatively elect the payment mode of his or her retirement benefit under § 6(a)(5),  9(m), 9.2(k), 22(e), or 34(k) of this article; and</text>
+            <text>tentatively elect the payment mode of his or her retirement benefit under § 6(a)(5),  9(m), 9.2(k), 22(e), or 34(k) of <cite path="|22">this article</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -17521,7 +17543,7 @@
           <text>The following death benefits shall be paid on behalf of any member who had benefits postponed or suspended from a previous system and who dies while in service in his or her new system:</text>
           <para>
             <num>(i)</num>
-            <text>a death benefit from the member's new system, under § 6(h), 6(i),  9(o-1), 9(o-2), 9.2(m), 9.2(n), 22(f), 22(g), 34(h), or 34(i) of this article or § 9-4 of Article 22A; and</text>
+            <text>a death benefit from the member's new system, under § 6(h), 6(i),  9(o-1), 9(o-2), 9.2(m), 9.2(n), 22(f), 22(g), 34(h), or 34(i) of <cite path="|22">this article</cite> or <cite path="|22|§9-4" proof="needed">§ 9-4 of Article 22</cite>A; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -17536,7 +17558,7 @@
             </para>
             <para>
               <num>3.</num>
-              <text>in the case of a postponed benefit of a member who did not make a tentative election under subsection (d) of this section, as if the member had elected the maximum retirement allowance form of payment under § 6(a)(14), 9(m)(1), 9.2(k)(1), 22(e)(1), or 34(k)(3) - (6) of this article.</text>
+              <text>in the case of a postponed benefit of a member who did not make a tentative election under subsection (d) of this section, as if the member had elected the maximum retirement allowance form of payment under § 6(a)(14), 9(m)(1), 9.2(k)(1), 22(e)(1), or 34(k)(3) - (6) of <cite path="|22">this article</cite>.</text>
             </para>
           </para>
         </para>
@@ -17593,7 +17615,7 @@
       <para>
         <num>(b)</num>
         <heading>In general.</heading>
-        <text>If any provision of this article allows a member of any system to purchase or repurchase service credit by making a single payment, all or any portion of that payment may be made by a rollover contribution or a trustee-to-trustee transfer, except as specified in subsection (c) of this section.</text>
+        <text>If any provision of <cite path="|22">this article</cite> allows a member of any system to purchase or repurchase service credit by making a single payment, all or any portion of that payment may be made by a rollover contribution or a trustee-to-trustee transfer, except as specified in subsection (c) of this section.</text>
       </para>
       <para>
         <num>(c)</num>

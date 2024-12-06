@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-308" codify:doc="City of Baltimore, Md., Code">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-308" codify:doc="City of Baltimore, Md., Code">
   <num type="law">24-308</num>
   <num type="bill">22-0195</num>
   <heading type="short">City Employees and Retirees – Healthcare Reform</heading>
@@ -24,7 +24,9 @@
       <heading>Definitions – General</heading>
       <para>
         <num>(a)</num>
-        <text><em>In general</em></text>
+        <text>
+          <em>In general</em>
+        </text>
         <text>In this Subtitle, the following terms have the meanings indicated.</text>
       </para>
       <para>
@@ -298,12 +300,6 @@
   <codify:remove path="13|§2B-5" warning="false"/>
   <codify:remove path="13|§2B-6" warning="false"/>
   <codify:remove path="13|§2B-7" warning="false"/>
-  <!-- <codify:replace path="13|I|2B|I|2B-8to2B-10">
-    <section name="2B-4to2B-10">
-      <num>2B-4 to 2B-10</num>
-      <reason>Reserved</reason>
-    </section>    
-  </codify:replace> -->
   <codify:replace path="13|I|2B|II|2B-12">
     <section>
       <prefix>§</prefix>
@@ -431,7 +427,6 @@
     </section>
   </codify:replace>
   <codify:replace path="13|I|2B|II|2B-17">
-
     <section>
       <prefix>§</prefix>
       <num>2B-17</num>
@@ -645,13 +640,7 @@
     </section>
   </codify:replace>
   <codify:remove path="13|I|2B|III|2B-25" warning="false"/>
-  <!-- <codify:replace path="13|I|2B|III|2B-26to2B-30">
-    <section name="2B-25to2B-30">
-      <num>2B-25 to 2B-30</num>
-      <reason>Reserved</reason>
-    </section>    
-  </codify:replace> -->
-  <codify:replace path="13|I|2B|IV|2B-31">    
+  <codify:replace path="13|I|2B|IV|2B-31">
     <section>
       <prefix>§</prefix>
       <num>2B-31</num>
@@ -728,10 +717,10 @@
       </para>
     </section>
   </codify:replace>
-  <codify:repeal path="13|I|2B|IV|2B-34"/> 
-  <codify:repeal path="13|I|2B|IV|2B-35"/> 
+  <codify:repeal path="13|I|2B|IV|2B-34"/>
+  <codify:repeal path="13|I|2B|IV|2B-35"/>
   <codify:repeal path="13|I|2B|IV|2B-36"/>
-  <codify:recodify-section path="13|§2B-37" num-value="2B-36" after="§2B-35" warning="false"/> 
+  <codify:recodify-section path="13|§2B-37" num-value="2B-36" after="§2B-35" warning="false"/>
   <codify:replace path="13|I|2B|IV|2B-36">
     <section>
       <prefix>§</prefix>
@@ -854,7 +843,7 @@
   <codify:recodify-section path="13|§2B-72" num-value="2B-52"/>
   <codify:remove path="13|§2B-71" warning="false"/>
   <codify:remove path="13|§2B-72" warning="false"/>
-  <codify:replace path="13|§2B-51"> 
+  <codify:replace path="13|§2B-51">
     <section>
       <prefix>§</prefix>
       <num>2B-51</num>

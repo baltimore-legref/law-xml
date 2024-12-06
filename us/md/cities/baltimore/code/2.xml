@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" cache:ref-path="2">
   <prefix>Article</prefix>
   <num>2</num>
   <heading>Consumer Protections</heading>
@@ -645,7 +645,7 @@
         <heading>Composition and appointment.</heading>
         <para>
           <num>(1)</num>
-          <text>The Commission comprises 14 members, 1 from each Council District, appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+          <text>The Commission comprises 14 members, 1 from each Council District, appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -677,7 +677,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Any vacancy on the Commission shall be filled by the Mayor in the manner provided in Article IV, § 6 of the Baltimore City Charter.</text>
+          <text>Any vacancy on the Commission shall be filled by the Mayor in the manner provided in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite>.</text>
         </para>
       </para>
       <para>
@@ -1070,7 +1070,7 @@
       <prefix>§</prefix>
       <num>4-6</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City Solicitor may adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the City Solicitor may adopt rules and regulations to carry out this subtitle.</text>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1780,7 +1780,7 @@
       <prefix>§</prefix>
       <num>7-3</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner may adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Police Commissioner may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 01-243" type="History">Ord. 01-243</annotation>
         <annotation type="History">Text Conformed 02/11/21</annotation>
@@ -2099,7 +2099,7 @@
       <prefix>§</prefix>
       <num>8-2</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner may adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Police Commissioner may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 01-243" type="History">Ord. 01-243</annotation>
         <annotation type="History">Text Conformed 02/12/21</annotation>
@@ -2178,7 +2178,7 @@
       <para>
         <num>(b)</num>
         <text>Collection.</text>
-        <text>These fees are collectible in accordance with City Code Article 15 {"Licensing and Regulation"}, Subtitles 46 {"Administration and Enforcement"} and 47 {"Penalties"}.</text>
+        <text>These fees are collectible in accordance with City Code <cite path="|15">Article 15 {"Licensing and Regulation"}</cite>, Subtitles 46 {"Administration and Enforcement"} and 47 {"Penalties"}.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1950, art. 24, §16(part)</annotation>
@@ -2761,7 +2761,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The annual license fee shall be collectible pursuant to Article 15, Subtitles 46 and 47 of the City Code.</text>
+          <text>The annual license fee shall be collectible pursuant to <cite path="|15">Article 15</cite>, Subtitles 46 and 47 of the City Code.</text>
         </para>
       </para>
       <para>
@@ -2835,7 +2835,7 @@
       <para>
         <num>(b)</num>
         <heading>Penalty for noncompliance.</heading>
-        <text>Any pawnbroker who shall violate this section by failure to file such bond, or to obtain the license as aforesaid, though continuing to transact the business of a pawnbroker, shall be deemed guilty of a misdemeanor and shall be subject to the penalties imposed in § 11-19 of this article.</text>
+        <text>Any pawnbroker who shall violate this section by failure to file such bond, or to obtain the license as aforesaid, though continuing to transact the business of a pawnbroker, shall be deemed guilty of a misdemeanor and shall be subject to the penalties imposed in <cite path="|2|§11-19">§ 11-19 of this article</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1879, art. 33, §34</annotation>
@@ -3457,7 +3457,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The members of the review board shall be appointed and confirmed in accordance with the provisions of Article IV, § 6 of the Baltimore City Charter.</text>
+          <text>The members of the review board shall be appointed and confirmed in accordance with the provisions of <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3580,11 +3580,11 @@
         <text>This subtitle does not apply to:</text>
         <para>
           <num>(1)</num>
-          <text>any person licensed as a pawnbroker under Subtitle 11 of this article; or</text>
+          <text>any person licensed as a pawnbroker under Subtitle 11 of <cite path="|2">this article</cite>; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>any person licensed as a scrap metal dealer under Subtitle 8 of this article.</text>
+          <text>any person licensed as a scrap metal dealer under Subtitle 8 of <cite path="|2">this article</cite>.</text>
         </para>
       </para>
       <para>
@@ -3617,7 +3617,7 @@
       <para>
         <num>(c)</num>
         <heading>Fee collection.</heading>
-        <text>The annual license fee shall be collectible pursuant to Article 15, Subtitles 46 and 47 of this Code.</text>
+        <text>The annual license fee shall be collectible pursuant to <cite path="|15">Article 15</cite>, Subtitles 46 and 47 of this Code.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §48I(a)</annotation>
@@ -3868,7 +3868,7 @@
       <para>
         <num>(c)</num>
         <heading>Reports confidential.</heading>
-        <text>A daily report submitted under this subtitle is confidential, as provided in § 12-304(c) of the Business Regulation Article of the Maryland Code.</text>
+        <text>A daily report submitted under this subtitle is confidential, as provided in <cite doc="Md. Code" path="gbr|12-304">§ 12-304(c) of the Business Regulation Article of the Maryland Code</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §48C</annotation>
@@ -3886,7 +3886,7 @@
         <text>Except as authorized under subsection (b) of this section, each dealer shall hold at the dealer's place of business all acquired items, as follows:</text>
         <para>
           <num>(1)</num>
-          <text>a precious metal object, as defined in § 12-101 of the Business Regulation Article of the Maryland Code, shall be held for at least 18 days after the report of its acquisition is made in accordance with this subtitle; and</text>
+          <text>a precious metal object, as defined in <cite doc="Md. Code" path="gbr|12-101">§ 12-101 of the Business Regulation Article of the Maryland Code</cite>, shall be held for at least 18 days after the report of its acquisition is made in accordance with this subtitle; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4230,7 +4230,7 @@
       <prefix>§</prefix>
       <num>12-15</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner may adopt rules and regulations to implement this subtitle and shall make these rules and regulations available to dealers and the general public.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Police Commissioner may adopt rules and regulations to implement this subtitle and shall make these rules and regulations available to dealers and the general public.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §48K</annotation>
         <annotation doc="City of Balt., Md., Ord. 90-641" type="History">Ord. 90-641</annotation>
@@ -4321,7 +4321,7 @@
         <para>
           <num>(b)</num>
           <heading>Rules and Regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner and the Commission on Sustainability may jointly adopt rules, regulations, and standards governing the recyclable materials and recycling programs that may be approved for purposes of this exception.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Police Commissioner and the Commission on Sustainability may jointly adopt rules, regulations, and standards governing the recyclable materials and recycling programs that may be approved for purposes of this exception.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 13-166" type="History">Ord. 13-166</annotation>
@@ -5146,15 +5146,15 @@
         <text>On or before entering into a contract for the sale of any real property, the seller must disclose to the buyer in writing whether the property is:</text>
         <para>
           <num>(1)</num>
-          <text>located in a Historical and Architectural Preservation District, as defined under Article 6, § 1-1(f) {"Definitions – Historical and Architectural Preservation District; Preservation District; District"} of the Code;</text>
+          <text>located in a Historical and Architectural Preservation District, as defined under <cite path="|6|§1-1|(f)">Article 6, § 1-1(f) {"Definitions – Historical and Architectural Preservation District; Preservation District; District"}</cite> of the Code;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>included on the Landmark List: Exteriors, as established by Article 6, Subtitle 4 {"Designation of Landmarks"} of the Code; or</text>
+          <text>included on the Landmark List: Exteriors, as established by <cite path="|6">Article 6</cite>, Subtitle 4 {"Designation of Landmarks"} of the Code; or</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>included on the Potential-Landmark List: Exteriors, as established by Article 6, Subtitle 5 {"Designation of Potential Landmarks"} of the Code.</text>
+          <text>included on the Potential-Landmark List: Exteriors, as established by <cite path="|6">Article 6</cite>, Subtitle 5 {"Designation of Potential Landmarks"} of the Code.</text>
         </para>
       </para>
       <para>
@@ -5199,10 +5199,10 @@
                 <td>Structures that are included on the Landmark List: Exteriors are considered to be of such special historical or architectural significance that, even if not located within an Historical and Architectural Preservation District, those structures and their exteriors should be extended the same protections as apply to structures within a District.</td>
               </tr>
               <tr>
-                <td>Structures that are include don the Potential-Landmark List: Exteriors are considered to be of such historical or architectural significance that, even if not located within an Historical and Architectural Preservation District, those structures and their exteriors should be extended temporary protection under § 5-5 {"Protections pending decision"}and under Subtitle 8 {"Alterations, etc, to or Affecting Properties"} of Article 6 of the City Code.</td>
+                <td>Structures that are include don the Potential-Landmark List: Exteriors are considered to be of such historical or architectural significance that, even if not located within an Historical and Architectural Preservation District, those structures and their exteriors should be extended temporary protection under § 5-5 {"Protections pending decision"}and under Subtitle 8 {"Alterations, etc, to or Affecting Properties"} of <cite path="|6">Article 6</cite> of the City Code.</td>
               </tr>
               <tr>
-                <td>CHAP is responsible for promoting the preservation of structures located in a historic district, included on the Landmark List: Exteriors, or included on the Potential-Landmark List: Exteriors under Article 6 {"Historical and Architectural Preservation"} of the City Code. Relevant excerpts from Article 6 of the City Code establishing the requirements stated above are provided below.</td>
+                <td>CHAP is responsible for promoting the preservation of structures located in a historic district, included on the Landmark List: Exteriors, or included on the Potential-Landmark List: Exteriors under <cite path="|6">Article 6 {"Historical and Architectural Preservation"}</cite> of the City Code. Relevant excerpts from <cite path="|6">Article 6</cite> of the City Code establishing the requirements stated above are provided below.</td>
               </tr>
               <tr>
                 <td proof="needed">
@@ -5440,12 +5440,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes, except for the application of § 16-11{"Prepayable citation"} and § 16-12 {"Criminal penalties"}, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except for the application of <cite path="|general|16|1|16-11" proof="needed">§ 16-11{"Prepayable citation"} and § 16-12 {"Criminal penalties"}</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -5490,7 +5490,7 @@
         <para>
           <num>(b)</num>
           <heading>Conflicting provisions.</heading>
-          <text>If any provision of this article is either more or less restrictive than a comparable condition imposed by any other law, rule, or regulation of any kind, the condition that is the more restrictive governs.</text>
+          <text>If any provision of <cite path="|2">this article</cite> is either more or less restrictive than a comparable condition imposed by any other law, rule, or regulation of any kind, the condition that is the more restrictive governs.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 13-157" type="History">Ord. 13-157</annotation>
@@ -5500,7 +5500,7 @@
         <prefix>§</prefix>
         <num>16-4</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations as necessary or appropriate to:</text>
         <para>
           <num>(1)</num>
           <text>define or further define any terms used in this subtitle; and</text>
@@ -5642,11 +5642,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -5753,12 +5753,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes, except for the application of § 17-11{"Prepayable citation"} and § 17-12 {"Criminal penalties"} of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except for the application of <cite path="|general|17|1|17-11" proof="needed">§ 17-11{"Prepayable citation"} and § 17-12 {"Criminal penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -5836,11 +5836,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
