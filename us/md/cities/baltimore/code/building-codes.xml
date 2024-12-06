@@ -2773,10 +2773,10 @@
                 </table>
               </text>
             </para>
-            <para>
-              <num>109.6.3</num>
-              <heading>Permit fees for mechanical work.</heading>
-            </para>
+          </para>
+          <para>
+            <num>109.6.3</num>
+            <heading>Permit fees for mechanical work.</heading>
             <para>
               <num>a.</num>
               <heading>Fuel-burning equipment and appliances.</heading>
@@ -22390,12 +22390,14 @@
                       <td>35</td>
                       <td>40</td>
                     </tr>
+                    <tr>
+                      <td colspan="3"><sup>a</sup>   "Nighttime" is defined as the time between 10 p.m. and 7 a.m.</td>
+                    </tr>
                   </tbody>
                 </table>
               </text>
             </para>
           </para>
-          <text><sup>a</sup>   "Nighttime" is defined as the time between 10 p.m. and 7 a.m.</text>
           <para>
             <num>801.3.3.3</num>
             <title>Interior Sound Transmission.</title>
@@ -22481,13 +22483,17 @@
                       <td>53</td>
                       <td>N/A</td>
                     </tr>
+                    <tr>
+                      <td proof="needed" colspan="3">
+                        <p>a	The IIC value listed addresses footfall noise but not exercise-related vibration-borne sound. Exercise-related vibration-borne sound must comply with the requirements of § 801.3.3.2.</p>
+                        <p>b	Minimum cSTC and IIC values are not required between adjacent rooms of the same room type.</p>
+                        <p>c	For operable partitions and walls containing doors, windows, or both, the minimum cSTC ratings must  be 5 less than the values listed in Table 801.3.3.3.</p>
+                        <p>d	The minimum cSTC values must  be 5 less than the cSTC values in Table 801.3.3.3 for walls between spaces and corridors and between spaces and open offices.  The minimum cSTC values must be 15 less than the cSTC values specified in Table 801.3.3.3 for walls having doors that open to corridors or open offices.</p>
+                      </td>
+                    </tr>
                   </tbody>
                 </table>
               </text>
-              <text>a	The IIC value listed addresses footfall noise but not exercise-related vibration-borne sound. Exercise-related vibration-borne sound must comply with the requirements of § 801.3.3.2.</text>
-              <text>b	Minimum cSTC and IIC values are not required between adjacent rooms of the same room type.</text>
-              <text>c	For operable partitions and walls containing doors, windows, or both, the minimum cSTC ratings must  be 5 less than the values listed in Table 801.3.3.3.</text>
-              <text>d	The minimum cSTC values must  be 5 less than the cSTC values in Table 801.3.3.3 for walls between spaces and corridors and between spaces and open offices.  The minimum cSTC values must be 15 less than the cSTC values specified in Table 801.3.3.3 for walls having doors that open to corridors or open offices.</text>
             </para>
           </para>
           <para>
@@ -22578,12 +22584,14 @@
                       <td>Classrooms   &gt; 20,000 ft<sup>3</sup></td>
                       <td>1.5<sup> a</sup></td>
                     </tr>
+                    <tr>
+                      <td colspan="2"><sup>a</sup> Classrooms  &gt; 20,000 ft<sup>3</sup> must meet ANS/ASA S12.60.</td>
+                    </tr>
                   </tbody>
                 </table>
               </text>
             </para>
           </para>
-          <text><sup>a</sup> Classrooms  &gt; 20,000 ft<sup>3</sup> must meet ANS/ASA S12.60.</text>
           <para>
             <num>801.3.3.5</num>
             <title>Property Line Sound Levels.</title>
@@ -23076,20 +23084,18 @@
                         <td>Total volatile organic compounds (TVOC)</td>
                         <td>_____ <sup>b</sup></td>
                       </tr>
+                      <tr>
+                        <td proof="needed" colspan="2">
+                          <p>a.	This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</p>
+                          <p>b.	TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</p>
+                        </td>
+                      </tr>
                     </tbody>
                   </table>
                 </text>
               </para>
             </para>
           </para>
-        </para>
-        <para>
-          <num>a.</num>
-          <text>This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</text>
           <para>
             <num>1001.3.1.6</num>
             <title>Moisture Control</title>
@@ -23115,11 +23121,11 @@
             <title>Construction Waste Management.</title>
             <reason>As in IgCC</reason>
           </para>
-          <para>
-            <num>1001.3.2</num>
-            <title>Plans for Operation.</title>
-            <reason>Not Adopted</reason>
-          </para>
+        </para>
+        <para>
+          <num>1001.3.2</num>
+          <title>Plans for Operation.</title>
+          <reason>Not Adopted</reason>
         </para>
       </section>
     </container>
