@@ -150,7 +150,7 @@
         </para>
         <para>
           <num>101.2</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IBC</reason>
           <text><strong>Exception 1:  {Per MBPS Modification} </strong> Detached 1- and 2-family dwellings and multiple single-family dwellings (townhouses) not more than 3 stories above grade plane in height with a separate means of egress and their accessory structures must comply with the International Residential Code.</text>
           <text><strong>Exception 2:  {Per MBPS Modification} </strong> Existing buildings undergoing repair, alterations, or additions, and change of occupancy must comply with the Maryland Building Rehabilitation Code, set forth in COMAR 09.12.58. <strong>{Note:</strong>  The Maryland Building Rehabilitation Code comprises the 2015 International Existing Building Code, with State modifications.<strong>}</strong></text>
@@ -229,7 +229,7 @@
         </para>
         <para>
           <num>101.3</num>
-          <title>Intent.</title>
+          <heading>Intent.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -540,12 +540,12 @@
         </para>
         <para>
           <num>103.2</num>
-          <title>Appointment.</title>
+          <heading>Appointment.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>103.3</num>
-          <title>Deputies.</title>
+          <heading>Deputies.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
@@ -594,7 +594,7 @@
         </para>
         <para>
           <num>104.2</num>
-          <title>Applications and permits.</title>
+          <heading>Applications and permits.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>104.2.1</num>
@@ -812,26 +812,26 @@
         </para>
         <para>
           <num>104.7</num>
-          <title>Department records.</title>
+          <heading>Department records.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>104.8</num>
-          <title>Liability.</title>
+          <heading>Liability.</heading>
           <reason>Not Adopted.  See State Courts Article § 5-302.</reason>
         </para>
         <para>
           <num>104.9</num>
-          <title>Approved materials and equipment.</title>
+          <heading>Approved materials and equipment.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>104.10</num>
-          <title>Modifications.</title>
+          <heading>Modifications.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>104.10.1</num>
-            <title>Flood hazard areas.</title>
+            <heading>Flood hazard areas.</heading>
             <reason>Not Adopted</reason>
             <text>{<strong>Note: </strong> For the establishment of Regulated Flood Hazard Areas and the special regulations and limitations governing development within those areas, <em>see </em>the Floodplain Management Code, City Code Article 7 {"Natural Resources"}, Division I {"Floodplain Management"}.}</text>
           </para>
@@ -850,12 +850,12 @@
           </para>
           <para>
             <num>104.11.1</num>
-            <title>Research reports.</title>
+            <heading>Research reports.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>104.11.2</num>
-            <title>Tests.</title>
+            <heading>Tests.</heading>
             <reason>As in IBC</reason>
           </para>
         </para>
@@ -990,12 +990,12 @@
           </para>
           <para>
             <num>105.1.1</num>
-            <title>Annual permit.</title>
+            <heading>Annual permit.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>105.1.2</num>
-            <title>Annual permit records.</title>
+            <heading>Annual permit records.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
@@ -1158,12 +1158,12 @@
           </para>
           <para>
             <num>105.2.1</num>
-            <title>Emergency repairs.</title>
+            <heading>Emergency repairs.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>105.2.2</num>
-            <title>Public service agencies.</title>
+            <heading>Public service agencies.</heading>
             <reason>As in IBC</reason>
           </para>
         </para>
@@ -1291,7 +1291,7 @@
           </para>
           <para>
             <num>105.3.2</num>
-            <title>Time limitation of application.</title>
+            <heading>Time limitation of application.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
@@ -1302,7 +1302,7 @@
         </para>
         <para>
           <num>105.4</num>
-          <title>Validity of permit.</title>
+          <heading>Validity of permit.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -1415,7 +1415,7 @@
         </para>
         <para>
           <num>105.7</num>
-          <title>Placement of permit.</title>
+          <heading>Placement of permit.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -1614,7 +1614,7 @@
         <heading>Submittal Documents.</heading>
         <para>
           <num>107.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IBC</reason>
           <text>
             <strong>Exception 1:  </strong>
@@ -1674,38 +1674,38 @@
           </para>
           <para>
             <num>107.2.5</num>
-            <title>Exterior balconies and elevated walking surfaces.</title>
+            <heading>Exterior balconies and elevated walking surfaces.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>107.2.6</num>
-            <title>Site plan.</title>
+            <heading>Site plan.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>107.2.7</num>
-            <title>Structural information.</title>
+            <heading>Structural information.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>107.2.8</num>
-            <title>Relocatable buildings.</title>
+            <heading>Relocatable buildings.</heading>
             <reason>As in IBC</reason>
           </para>
         </para>
         <para>
           <num>107.3</num>
-          <title>Examination of documents.</title>
+          <heading>Examination of documents.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>107.4</num>
-          <title>Amended construction documents.</title>
+          <heading>Amended construction documents.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>107.5</num>
-          <title>Retention of construction documents.</title>
+          <heading>Retention of construction documents.</heading>
           <reason>As in IBC</reason>
         </para>
         <annotations>
@@ -1718,12 +1718,12 @@
         <heading>Temporary Structures and Uses</heading>
         <para>
           <num>108.1</num>
-          <title>In general.</title>
+          <heading>In general.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>108.2</num>
-          <title>Conformance.</title>
+          <heading>Conformance.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -1733,7 +1733,7 @@
         </para>
         <para>
           <num>108.4</num>
-          <title>Termination of approval.</title>
+          <heading>Termination of approval.</heading>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -3462,7 +3462,7 @@
         </para>
         <para>
           <num>110.3</num>
-          <title>Required inspections.</title>
+          <heading>Required inspections.</heading>
           <reason>As in IBC</reason>
           <para name="110.3.1to110.3.2">
             <num from="110.3.1" to="110.3.2">110.3.1 to 110.3.2</num>
@@ -3999,7 +3999,7 @@
         <heading>Stop-Work Order</heading>
         <para>
           <num>115.1</num>
-          <title>Authority.</title>
+          <heading>Authority.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -4009,7 +4009,7 @@
         </para>
         <para>
           <num>115.3</num>
-          <title>Unlawful continuance.</title>
+          <heading>Unlawful continuance.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -5254,12 +5254,12 @@
         <heading>General</heading>
         <para>
           <num>201.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>201.2</num>
-          <title>Interchangeability.</title>
+          <heading>Interchangeability.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -5269,7 +5269,7 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -5352,7 +5352,7 @@
           </para>
           <para>
             <num>202.2.6</num>
-            <title>Basement (for flood loads)</title>
+            <heading>Basement (for flood loads)</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -5445,7 +5445,7 @@
             <text>"Dwelling" includes, but is not limited to, any one or more of the following:</text>
             <para>
               <num>202.2.22.1</num>
-              <title>Boarding house.</title>
+              <heading>Boarding house.</heading>
               <reason>As in IBC</reason>
             </para>
             <para>
@@ -5476,7 +5476,7 @@
           </para>
           <para>
             <num>202.2.24</num>
-            <title>Existing construction.</title>
+            <heading>Existing construction.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -5491,12 +5491,12 @@
           </para>
           <para>
             <num>202.2.26</num>
-            <title>Existing structure (for § 1612.2).</title>
+            <heading>Existing structure (for § 1612.2).</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>202.2.27</num>
-            <title>Existing structure (for Chapter 34).</title>
+            <heading>Existing structure (for Chapter 34).</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -5824,7 +5824,7 @@
         </para>
         <para>
           <num>310.5</num>
-          <title>Residential Group R-4.</title>
+          <heading>Residential Group R-4.</heading>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -5840,7 +5840,7 @@
         <heading>Utility, Miscellaneous Group U</heading>
         <para>
           <num>312.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>312.1.1</num>
@@ -5880,12 +5880,12 @@
           <heading>Means of egress and evacuation.</heading>
           <para>
             <num>403.5.1</num>
-            <title>Remoteness of interior exit stairways.</title>
+            <heading>Remoteness of interior exit stairways.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>403.5.2</num>
-            <title>Additional interior exit stairway.</title>
+            <heading>Additional interior exit stairway.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
@@ -5894,29 +5894,29 @@
             <text>All stairway doors that are to be locked from the stairway side must be capable of being unlocked simultaneously, without unlatching, on a signal from the fire command station, on activation of the fire alarm system, or on loss of power to the building.</text>
             <para>
               <num>403.5.3.1</num>
-              <title>Stairway communication system.</title>
+              <heading>Stairway communication system.</heading>
               <reason>As in IBC</reason>
             </para>
           </para>
           <para>
             <num>403.5.4</num>
-            <title>Smokeproof enclosures.</title>
+            <heading>Smokeproof enclosures.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>403.5.5</num>
-            <title>Luminous egress path markings.</title>
+            <heading>Luminous egress path markings.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>403.5.6</num>
-            <title>Emergency escape and rescue.</title>
+            <heading>Emergency escape and rescue.</heading>
             <reason>As in IBC</reason>
           </para>
         </para>
         <para>
           <num>403.6</num>
-          <title>Elevators.</title>
+          <heading>Elevators.</heading>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -5931,12 +5931,12 @@
         <heading>Live/Work Units</heading>
         <para>
           <num>419.1</num>
-          <title>General</title>
+          <heading>General</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>419.2</num>
-          <title>Occupancies</title>
+          <heading>Occupancies</heading>
           <reason>As in IBC</reason>
           <text>
             <strong>Exceptions:</strong>
@@ -6215,7 +6215,7 @@
         <heading>General</heading>
         <para>
           <num>501.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6327,7 +6327,7 @@
         <heading>General</heading>
         <para>
           <num>901.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IBC, subject to following Note</reason>
           <text>{<strong>MBPS Modification – Note to § 901.1: </strong> The fire protection system requirements of Chapter 9 may be concurrently covered by the State Fire Prevention Code, adopted under State Public Safety Article § 6-206 and contained in COMAR 29.06.01.  The State Fire Prevention Code is enforced by the State Fire Marshall or authorized fire official.}</text>
         </para>
@@ -6348,7 +6348,7 @@
         <heading>Automatic Sprinkler Systems</heading>
         <para>
           <num>903.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -6398,7 +6398,7 @@
         <heading>Administration</heading>
         <para>
           <num>1001.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IBC, subject to the following Note</reason>
           <text>{<strong>MBPS Modifications</strong> –<strong> Note to § 1001.1: </strong> The means of egress requirements of Chapter 10 may be concurrently covered by the State Fire Prevention Code, adopted under State Public Safety Article § 6-206 and contained in COMAR 29.06.01.  The State Fire Prevention Code is enforced by the State Fire Marshall or authorized fire official.}</text>
         </para>
@@ -6422,16 +6422,16 @@
         </para>
         <para>
           <num>1011.5</num>
-          <title>Stair treads and risers.</title>
+          <heading>Stair treads and risers.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>1011.5.1</num>
-            <title>Dimension reference surfaces.</title>
+            <heading>Dimension reference surfaces.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>1011.5.2</num>
-            <title>Riser height and tread depth.</title>
+            <heading>Riser height and tread depth.</heading>
             <reason>As in IBC</reason>
             <text>
               <strong>Exceptions:</strong>
@@ -6498,7 +6498,7 @@
         </para>
         <para>
           <num>1015.4</num>
-          <title>Opening limitations.</title>
+          <heading>Opening limitations.</heading>
           <reason>As in IBC</reason>
           <text>
             <strong>Exceptions:  </strong>
@@ -6546,11 +6546,11 @@
         </para>
         <para>
           <num>1202.4</num>
-          <title>Under-floor ventilation.</title>
+          <heading>Under-floor ventilation.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>1202.4.1</num>
-            <title>Ventilation openings.</title>
+            <heading>Ventilation openings.</heading>
             <reason>As in IBC</reason>
           </para>
           <para name="1202.4.2to1202.4.3">
@@ -6565,7 +6565,7 @@
         </para>
         <para>
           <num>1202.5</num>
-          <title>to 12023.6</title>
+          <heading>to 12023.6</heading>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -6892,7 +6892,7 @@
         <heading>Construction Documents</heading>
         <para>
           <num>1603.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IBC</reason>
           <text><strong>Exception: </strong> Construction documents for buildings constructed in accordance with the conventional light-frame construction provisions of § 2308 must indicate the following structural design information:</text>
           <para name="1.-4.">
@@ -6956,16 +6956,16 @@
         </para>
         <para>
           <num>1607.13</num>
-          <title>Roof Loads.</title>
+          <heading>Roof Loads.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>1607.13.1</num>
-            <title>Distribution of roof loads.</title>
+            <heading>Distribution of roof loads.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>1607.13.2</num>
-            <title>Reduction in roof live loads.</title>
+            <heading>Reduction in roof live loads.</heading>
             <reason>As in IBC</reason>
             <para>
               <num>1607.13.2.1</num>
@@ -7062,7 +7062,7 @@
         <heading>Excavation, Grading, and Fill</heading>
         <para>
           <num>1804.1</num>
-          <title>Excavation near foundations.</title>
+          <heading>Excavation near foundations.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -7234,16 +7234,16 @@
         <heading>Dampproofing and Waterproofing</heading>
         <para>
           <num>1805.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>1805.1.1</num>
-            <title>Story above grade plane.</title>
+            <heading>Story above grade plane.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>1805.1.2</num>
-            <title>Upper floor space.</title>
+            <heading>Upper floor space.</heading>
             <reason>As in IBC</reason>
             <para>
               <num>1805.1.2.1</num>
@@ -7253,7 +7253,7 @@
           </para>
           <para>
             <num>1805.1.3</num>
-            <title>Ground-water control.</title>
+            <heading>Ground-water control.</heading>
             <reason>As in IBC</reason>
           </para>
         </para>
@@ -7392,7 +7392,7 @@
         </para>
         <para>
           <num>2609.4</num>
-          <title>Area limitations.</title>
+          <heading>Area limitations.</heading>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -7411,7 +7411,7 @@
         </para>
         <para>
           <num>2610.8</num>
-          <title>Combinations of roof panels and skylights.</title>
+          <heading>Combinations of roof panels and skylights.</heading>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -7700,21 +7700,21 @@
         <heading>Minimum Plumbing Facilities</heading>
         <para>
           <num>2902.1</num>
-          <title>Minimum number of fixtures.</title>
+          <heading>Minimum number of fixtures.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>2902.1.1</num>
-            <title>Fixture calculations.</title>
+            <heading>Fixture calculations.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>2902.1.2</num>
-            <title>Single-user toilet facility and bathing room fixture.</title>
+            <heading>Single-user toilet facility and bathing room fixture.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>2902.1.3</num>
-            <title>Lavatory distribution.</title>
+            <heading>Lavatory distribution.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
@@ -7874,7 +7874,7 @@
         <heading>General</heading>
         <para>
           <num>3001.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -7946,12 +7946,12 @@
         </para>
         <para>
           <num>3105.2</num>
-          <title>Design and construction.</title>
+          <heading>Design and construction.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>3105.3</num>
-          <title>Awning and canopy materials.</title>
+          <heading>Awning and canopy materials.</heading>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -7973,12 +7973,12 @@
         <heading>Telecommunication and Broadcast Towers</heading>
         <para>
           <num>3108.1</num>
-          <title>General</title>
+          <heading>General</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>3108.2</num>
-          <title>Location and access.</title>
+          <heading>Location and access.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -8414,12 +8414,12 @@
         <heading>General</heading>
         <para>
           <num>3201.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>3201.2</num>
-          <title>Measurement.</title>
+          <heading>Measurement.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -8456,12 +8456,12 @@
         <heading>Encroachments</heading>
         <para>
           <num>3202.1</num>
-          <title>Encroachment below grade.</title>
+          <heading>Encroachment below grade.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>3202.2</num>
-          <title>Encroachment above grade and below 8' in height.</title>
+          <heading>Encroachment above grade and below 8' in height.</heading>
           <reason>As in IBC</reason>
           <para>
             <num>3202.2.1</num>
@@ -8482,23 +8482,23 @@
           </para>
           <para>
             <num>3202.2.2</num>
-            <title>Architectural features.</title>
+            <heading>Architectural features.</heading>
             <reason>As in IBC</reason>
           </para>
           <para>
             <num>3202.2.3</num>
-            <title>Awnings.</title>
+            <heading>Awnings.</heading>
             <reason>As in IBC</reason>
           </para>
         </para>
         <para>
           <num>3202.3</num>
-          <title>Encroachment 8' or more above grade.</title>
+          <heading>Encroachment 8' or more above grade.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
           <num>3202.4</num>
-          <title>Temporary encroachments.</title>
+          <heading>Temporary encroachments.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -8571,7 +8571,7 @@
         </para>
         <para>
           <num>3302.3</num>
-          <title>Fire safety during construction.</title>
+          <heading>Fire safety during construction.</heading>
           <reason>As in IBC</reason>
         </para>
       </section>
@@ -8920,7 +8920,7 @@
         <heading>Protection of Adjoining Property</heading>
         <para>
           <num>3307.1</num>
-          <title>Protection required.</title>
+          <heading>Protection required.</heading>
           <reason>As in IBC</reason>
         </para>
         <para>
@@ -10361,7 +10361,7 @@
           <heading>General</heading>
           <para>
             <num>101.1</num>
-            <title>Scope.</title>
+            <heading>Scope.</heading>
             <reason>As in IBC</reason>
             <text><strong>Exceptions:  </strong>Shade cloth or plastic film structures, commonly known as "hoophouses", constructed for nursery or agricultural purposes. not including service systems.  The covering of the structure must be a material that conforms to NFPA 701 standards.</text>
           </para>
@@ -10612,12 +10612,12 @@
           </para>
           <para>
             <num>(C)</num>
-            <title>Explanatory Material.</title>
+            <heading>Explanatory Material.</heading>
             <reason>As in NEC</reason>
           </para>
           <para>
             <num>(D)</num>
-            <title>Informative Annexes.</title>
+            <heading>Informative Annexes.</heading>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -10722,13 +10722,13 @@
             </para>
             <para>
               <num>(2)</num>
-              <title>Outdoor.</title>
+              <heading>Outdoor.</heading>
               <reason>As in NEC</reason>
             </para>
           </para>
           <para>
             <num>(F)</num>
-            <title>Locked Electrical Equipment Rooms or Enclosures.</title>
+            <heading>Locked Electrical Equipment Rooms or Enclosures.</heading>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -10922,7 +10922,7 @@
           </para>
           <para>
             <num>(E)</num>
-            <title>Documented Switching Procedures.</title>
+            <heading>Documented Switching Procedures.</heading>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -10980,7 +10980,7 @@
           </para>
           <para>
             <num>(E)</num>
-            <title>Identification.</title>
+            <heading>Identification.</heading>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11054,7 +11054,7 @@
           <heading>Grounding Electrodes.</heading>
           <para>
             <num>(A)</num>
-            <title>Electrodes Permitted for Grounding.</title>
+            <heading>Electrodes Permitted for Grounding.</heading>
             <reason>As in NEC</reason>
           </para>
           <para>
@@ -11108,12 +11108,12 @@
           </para>
           <para>
             <num>(B)</num>
-            <title>Effective Grounding Path.</title>
+            <heading>Effective Grounding Path.</heading>
             <reason>As in NEC</reason>
           </para>
           <para>
             <num>(C)</num>
-            <title>Grounding Electrode Connections.</title>
+            <heading>Grounding Electrode Connections.</heading>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11355,7 +11355,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <title>Control Switch Rating.</title>
+            <heading>Control Switch Rating.</heading>
             <reason>As in NEC</reason>
           </para>
         </section>
@@ -11398,7 +11398,7 @@
             </text>
             <para>
               <num>(1)</num>
-              <title>Capacity.</title>
+              <heading>Capacity.</heading>
               <reason>As in NEC</reason>
             </para>
             <para>
@@ -11428,7 +11428,7 @@
           <heading>Power Wiring.  {Introductory paragraph as in NEC}</heading>
           <para>
             <num>(A)</num>
-            <title>Supply Conductors.</title>
+            <heading>Supply Conductors.</heading>
             <reason>As in NEC</reason>
             <para name="(1)-(2)">
               <num from="(1)" to="(2)">(1) - (2)</num>
@@ -11506,7 +11506,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <title>Separate Service.</title>
+            <heading>Separate Service.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para name="(E)-(F)">
@@ -11673,7 +11673,7 @@
         </para>
         <para>
           <num>103.4</num>
-          <title>Liability</title>
+          <heading>Liability</heading>
           <reason>Not Adopted.  See State Courts Article § 5-302</reason>
         </para>
       </section>
@@ -11697,7 +11697,7 @@
         </para>
         <para>
           <num>104.5</num>
-          <title>Identification.</title>
+          <heading>Identification.</heading>
           <reason>As in IFGC</reason>
         </para>
         <para>
@@ -11717,7 +11717,7 @@
         <heading>Approval</heading>
         <para>
           <num>105.1</num>
-          <title>Modifications.</title>
+          <heading>Modifications.</heading>
           <reason>As in IFGC</reason>
         </para>
         <para>
@@ -11734,7 +11734,7 @@
           </para>
           <para>
             <num>105.2.1</num>
-            <title>Research reports.</title>
+            <heading>Research reports.</heading>
             <reason>As in IFGC</reason>
           </para>
         </para>
@@ -11762,12 +11762,12 @@
         </para>
         <para>
           <num>106.4</num>
-          <title>Preliminary inspection.</title>
+          <heading>Preliminary inspection.</heading>
           <reason>As in IFGC</reason>
         </para>
         <para>
           <num>106.5</num>
-          <title>Permit issuance.</title>
+          <heading>Permit issuance.</heading>
           <reason>As in IFGC</reason>
           <para name="106.5.1to106.5.2">
             <num from="106.5.1" to="106.5.2">106.5.1 to 106.5.2</num>
@@ -11795,11 +11795,11 @@
         </para>
         <para>
           <num>106.6</num>
-          <title>Fees.</title>
+          <heading>Fees.</heading>
           <reason>As in IFGC</reason>
           <para>
             <num>106.6.1</num>
-            <title>Work commencing before permit issuance</title>
+            <heading>Work commencing before permit issuance</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -11809,7 +11809,7 @@
           </para>
           <para>
             <num>106.6.3</num>
-            <title>Fee refunds</title>
+            <heading>Fee refunds</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
@@ -11883,7 +11883,7 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in IFGC</reason>
         </para>
       </section>
@@ -11911,7 +11911,7 @@
           </para>
           <para>
             <num>202.2.3</num>
-            <title>Design-flood elevation.</title>
+            <heading>Design-flood elevation.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -11986,12 +11986,12 @@
         <heading>Condensate Disposal</heading>
         <para>
           <num>307.1</num>
-          <title>Evaporators and cooling coils.</title>
+          <heading>Evaporators and cooling coils.</heading>
           <reason>As in IFGC</reason>
         </para>
         <para>
           <num>307.2</num>
-          <title>Fuel-burning appliances.</title>
+          <heading>Fuel-burning appliances.</heading>
           <reason>As in IFGC</reason>
           <para>
             <num>307.2.1</num>
@@ -12001,22 +12001,22 @@
         </para>
         <para>
           <num>307.3</num>
-          <title>Drain pipe material and sizes.</title>
+          <heading>Drain pipe material and sizes.</heading>
           <reason>As in IFGC</reason>
         </para>
         <para>
           <num>307.4</num>
-          <title>Traps.</title>
+          <heading>Traps.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>307.5</num>
-          <title>Auxiliary drain pan.</title>
+          <heading>Auxiliary drain pan.</heading>
           <reason>As in IFGC</reason>
         </para>
         <para>
           <num>307.6</num>
-          <title>Condensate pumps.</title>
+          <heading>Condensate pumps.</heading>
           <reason>As in IFGC</reason>
         </para>
       </section>
@@ -12187,7 +12187,7 @@
         </para>
         <para>
           <num>103.4</num>
-          <title>Liability.</title>
+          <heading>Liability.</heading>
           <reason>Not Adopted.  See State Courts Article § 5-302</reason>
         </para>
       </section>
@@ -12211,7 +12211,7 @@
         </para>
         <para>
           <num>104.5</num>
-          <title>Identification.</title>
+          <heading>Identification.</heading>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12231,7 +12231,7 @@
         <heading>Approval</heading>
         <para>
           <num>105.1</num>
-          <title>Modifications.</title>
+          <heading>Modifications.</heading>
           <reason>As in IMC</reason>
         </para>
         <para>
@@ -12248,7 +12248,7 @@
           </para>
           <para>
             <num>105.2.1</num>
-            <title>Annual permit.</title>
+            <heading>Annual permit.</heading>
             <reason>As in IMC</reason>
           </para>
         </para>
@@ -12276,7 +12276,7 @@
         </para>
         <para>
           <num>106.4</num>
-          <title>Permit issuance.</title>
+          <heading>Permit issuance.</heading>
           <reason>As in IMC</reason>
           <para name="106.4.1to106.4.2">
             <num from="106.4.1" to="106.4.2">106.4.1 to 106.4.2</num>
@@ -12304,11 +12304,11 @@
         </para>
         <para>
           <num>106.5</num>
-          <title>Fees.</title>
+          <heading>Fees.</heading>
           <reason>As in IMC</reason>
           <para>
             <num>106.5.1</num>
-            <title>Work commencing before permit issuance.</title>
+            <heading>Work commencing before permit issuance.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -12318,7 +12318,7 @@
           </para>
           <para>
             <num>106.5.3</num>
-            <title>Fee refunds.</title>
+            <heading>Fee refunds.</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
@@ -12392,7 +12392,7 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12509,12 +12509,12 @@
         </para>
         <para>
           <num>301.17</num>
-          <title>Rodent proofing.</title>
+          <heading>Rodent proofing.</heading>
           <reason>As in IMC</reason>
         </para>
         <para>
           <num>301.18</num>
-          <title>Seismic resistance.</title>
+          <heading>Seismic resistance.</heading>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12600,12 +12600,12 @@
         <heading>Condensate Disposal</heading>
         <para>
           <num>307.1</num>
-          <title>Fuel-burning appliances.</title>
+          <heading>Fuel-burning appliances.</heading>
           <reason>As in IMC</reason>
         </para>
         <para>
           <num>307.2</num>
-          <title>Evaporators and cooling coils.</title>
+          <heading>Evaporators and cooling coils.</heading>
           <reason>As in IMC</reason>
           <para>
             <num>307.2.1</num>
@@ -12614,28 +12614,28 @@
           </para>
           <para>
             <num>307.2.2</num>
-            <title>Drain pipe material and sizes.</title>
+            <heading>Drain pipe material and sizes.</heading>
             <reason>As in IMC</reason>
           </para>
           <para>
             <num>307.2.3</num>
-            <title>Auxiliary and secondary drain systems.</title>
+            <heading>Auxiliary and secondary drain systems.</heading>
             <reason>As in IMC</reason>
           </para>
           <para>
             <num>307.2.4</num>
-            <title>Traps.</title>
+            <heading>Traps.</heading>
             <reason>Not adopted</reason>
           </para>
           <para>
             <num>307.2.5</num>
-            <title>Drain line maintenance.</title>
+            <heading>Drain line maintenance.</heading>
             <reason>As in IMC</reason>
           </para>
         </para>
         <para>
           <num>307.3</num>
-          <title>Condensate pumps.</title>
+          <heading>Condensate pumps.</heading>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12665,7 +12665,7 @@
         </para>
         <para>
           <num>501.3</num>
-          <title>Exhaust discharge.</title>
+          <heading>Exhaust discharge.</heading>
           <reason>As in IMC</reason>
           <text>
             <strong>Exceptions:</strong>
@@ -12701,7 +12701,7 @@
           </para>
           <para>
             <num>501.3.2</num>
-            <title>Exhaust opening protection.</title>
+            <heading>Exhaust opening protection.</heading>
             <reason>As in IMC</reason>
           </para>
         </para>
@@ -12777,7 +12777,7 @@
         </para>
         <para>
           <num>602.3</num>
-          <title>Stud cavity and joist space plenums.</title>
+          <heading>Stud cavity and joist space plenums.</heading>
           <reason>As in IMC</reason>
           <para name="1.-6.">
             <num from="1." to="6.">1. - 6.</num>
@@ -12838,7 +12838,7 @@
         </para>
         <para>
           <num>801.18</num>
-          <title>Existing chimneys and vents.</title>
+          <heading>Existing chimneys and vents.</heading>
           <reason>As in IMC</reason>
           <para name="801.18.1to801.18.4">
             <num from="801.18.1" to="801.18.4">801.18.1 to 801.18.4</num>
@@ -12852,12 +12852,12 @@
         </para>
         <para>
           <num>801.19</num>
-          <title>Multistory prohibited.</title>
+          <heading>Multistory prohibited.</heading>
           <reason>As in IMC</reason>
         </para>
         <para>
           <num>801.20</num>
-          <title>Plastic vent joints.</title>
+          <heading>Plastic vent joints.</heading>
           <reason>As in IMC</reason>
         </para>
       </section>
@@ -12931,7 +12931,7 @@
         </para>
         <para>
           <num>1206.9</num>
-          <title>Strains and stresses</title>
+          <heading>Strains and stresses</heading>
           <reason>As in IMC</reason>
           <para>
             <num>1206.9.1</num>
@@ -12961,12 +12961,12 @@
         <heading>Fuel Oil System Installation</heading>
         <para>
           <num>1305.1</num>
-          <title>Size.</title>
+          <heading>Size.</heading>
           <reason>As in IMC</reason>
         </para>
         <para>
           <num>1305.2</num>
-          <title>Protection of pipe, equipment, and appliances.</title>
+          <heading>Protection of pipe, equipment, and appliances.</heading>
           <reason>As in IMC</reason>
           <para>
             <num>1305.2.1</num>
@@ -13082,7 +13082,7 @@
         </para>
         <para>
           <num>103.4</num>
-          <title>Liability</title>
+          <heading>Liability</heading>
           <reason>Not Adopted.  See State Courts Article § 5-302</reason>
         </para>
       </section>
@@ -13106,7 +13106,7 @@
         </para>
         <para>
           <num>104.5</num>
-          <title>Identification.</title>
+          <heading>Identification.</heading>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13126,7 +13126,7 @@
         <heading>Approval</heading>
         <para>
           <num>105.1</num>
-          <title>Modifications.</title>
+          <heading>Modifications.</heading>
           <reason>As in IPC</reason>
         </para>
         <para>
@@ -13143,7 +13143,7 @@
           </para>
           <para>
             <num>105.2.1</num>
-            <title>Research reports.</title>
+            <heading>Research reports.</heading>
             <reason>As in IPC</reason>
           </para>
         </para>
@@ -13171,12 +13171,12 @@
         </para>
         <para>
           <num>106.4</num>
-          <title>By Whom Application Made</title>
+          <heading>By Whom Application Made</heading>
           <reason>As in IPC</reason>
         </para>
         <para>
           <num>106.5</num>
-          <title>Permit issuance.</title>
+          <heading>Permit issuance.</heading>
           <reason>As in IPC</reason>
           <para name="106.5.1to106.5.2">
             <num from="106.5.1" to="106.5.2">106.5.1 to 106.5.2</num>
@@ -13204,11 +13204,11 @@
         </para>
         <para>
           <num>106.6</num>
-          <title>Fees.</title>
+          <heading>Fees.</heading>
           <reason>As in IPC</reason>
           <para>
             <num>106.6.1</num>
-            <title>Work commencing before permit issuance</title>
+            <heading>Work commencing before permit issuance</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -13218,7 +13218,7 @@
           </para>
           <para>
             <num>106.6.3</num>
-            <title>Fee refunds</title>
+            <heading>Fee refunds</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
@@ -13292,7 +13292,7 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13321,7 +13321,7 @@
           </para>
           <para>
             <num>202.2.3</num>
-            <title>Design-flood elevation.</title>
+            <heading>Design-flood elevation.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -13462,7 +13462,7 @@
         </para>
         <para>
           <num>309.3</num>
-          <title>Coastal high-hazard area and coastal A zones.</title>
+          <heading>Coastal high-hazard area and coastal A zones.</heading>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -13477,12 +13477,12 @@
         <heading>Condensate Disposal</heading>
         <para>
           <num>314.1</num>
-          <title>Fuel burning appliances.</title>
+          <heading>Fuel burning appliances.</heading>
           <reason>As in IPC</reason>
         </para>
         <para>
           <num>314.2</num>
-          <title>Evaporators and cooling coils.</title>
+          <heading>Evaporators and cooling coils.</heading>
           <reason>As in IPC</reason>
           <para>
             <num>314.2.1</num>
@@ -13578,7 +13578,7 @@
         </para>
         <para>
           <num>605.13</num>
-          <title>Copper tubing.</title>
+          <heading>Copper tubing.</heading>
           <reason>As in IPC</reason>
           <para name="605.13.1to605.13.7">
             <num from="605.13.1" to="605.13.7">605.13.1 to 605.13.7</num>
@@ -13643,7 +13643,7 @@
         <heading>Protection of Potable Water Supply</heading>
         <para>
           <num>608.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IPC</reason>
           <para>
             <num>608.1.1</num>
@@ -13664,11 +13664,11 @@
           </para>
           <para>
             <num>608.17.4</num>
-            <title>Connections to automatic fire sprinkler systems and standpipe systems.</title>
+            <heading>Connections to automatic fire sprinkler systems and standpipe systems.</heading>
             <reason>As in IPC</reason>
             <para>
               <num>608.17.4.1</num>
-              <title>Additives or nonpotable source.</title>
+              <heading>Additives or nonpotable source.</heading>
               <reason>As in IPC</reason>
             </para>
             <para>
@@ -13685,7 +13685,7 @@
         </para>
         <para>
           <num>608.18</num>
-          <title>Protection of individual water supplies.</title>
+          <heading>Protection of individual water supplies.</heading>
           <reason>As in IPC</reason>
         </para>
       </section>
@@ -13710,7 +13710,7 @@
         <heading>Cleanouts</heading>
         <para>
           <num>708.1</num>
-          <title>Cleanouts required.</title>
+          <heading>Cleanouts required.</heading>
           <reason>As in IPC</reason>
           <para name="708.1.1to708.1.6">
             <num from="708.1.1" to="708.1.6">708.1.1 to 708.1.6</num>
@@ -13718,7 +13718,7 @@
           </para>
           <para>
             <num>708.1.7</num>
-            <title>Manholes.</title>
+            <heading>Manholes.</heading>
             <reason>As in IPC</reason>
             <para>
               <num>708.1.7.1</num>
@@ -13759,7 +13759,7 @@
         <heading>Indirect Wastes</heading>
         <para>
           <num>802.1</num>
-          <title>Where required.</title>
+          <heading>Where required.</heading>
           <reason>As in IPC</reason>
           <para name="802.1.1to802.1.5">
             <num from="802.1.1" to="802.1.5">802.1.1 to 802.1.5</num>
@@ -13767,7 +13767,7 @@
           </para>
           <para>
             <num>802.1.6</num>
-            <title>Commercial dishwashing machines.</title>
+            <heading>Commercial dishwashing machines.</heading>
             <reason>As in IPC</reason>
             <para>
               <num>802.1.6.1</num>
@@ -13777,7 +13777,7 @@
           </para>
           <para>
             <num>802.1.7</num>
-            <title>Food utensils, dishes, pots, and pans sink.</title>
+            <heading>Food utensils, dishes, pots, and pans sink.</heading>
             <reason>As in IPC</reason>
           </para>
         </para>
@@ -13855,16 +13855,16 @@
         </para>
         <para>
           <num>1003.4</num>
-          <title>Oil separators required.</title>
+          <heading>Oil separators required.</heading>
           <reason>As in IPC</reason>
           <para>
             <num>1003.4.1</num>
-            <title>Separation of liquids.</title>
+            <heading>Separation of liquids.</heading>
             <reason>As in IPC</reason>
           </para>
           <para>
             <num>1003.4.2</num>
-            <title>Oil separator design.</title>
+            <heading>Oil separator design.</heading>
             <reason>As in IPC</reason>
             <para name="1003.4.2.1to1003.4.2.2">
               <num from="1003.4.2.1" to="1003.4.2.2">1003.4.2.1 to 1003.4.2.2</num>
@@ -14069,7 +14069,7 @@
         </para>
         <para>
           <num>101.2</num>
-          <title>to101.4</title>
+          <heading>to101.4</heading>
           <reason>As in IPMC</reason>
         </para>
       </section>
@@ -14079,7 +14079,7 @@
         <heading>Applicability</heading>
         <para>
           <num>102.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -14171,7 +14171,7 @@
         </para>
         <para>
           <num>102.6</num>
-          <title>Historic buildings.</title>
+          <heading>Historic buildings.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para name="102.7to102.10">
@@ -14201,17 +14201,17 @@
         </para>
         <para>
           <num>103.2</num>
-          <title>Appointment.</title>
+          <heading>Appointment.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>103.3</num>
-          <title>Deputies.</title>
+          <heading>Deputies.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>103.4</num>
-          <title>Liability.</title>
+          <heading>Liability.</heading>
           <reason>Not Adopted.  See State Courts Article § 5-302</reason>
         </para>
         <para>
@@ -14226,7 +14226,7 @@
         <heading>Duties and Powers of Code Official</heading>
         <para>
           <num>104.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -14241,7 +14241,7 @@
         </para>
         <para>
           <num>104.4</num>
-          <title>Identification.</title>
+          <heading>Identification.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -14266,7 +14266,7 @@
         <heading>Approval</heading>
         <para>
           <num>105.1</num>
-          <title>Modifications.</title>
+          <heading>Modifications.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -14285,22 +14285,22 @@
         </para>
         <para>
           <num>105.3</num>
-          <title>Required testing.</title>
+          <heading>Required testing.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>105.4</num>
-          <title>Used material and equipment.</title>
+          <heading>Used material and equipment.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>105.5</num>
-          <title>Approved materials and equipment.</title>
+          <heading>Approved materials and equipment.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>105.6</num>
-          <title>Research reports.</title>
+          <heading>Research reports.</heading>
           <reason>As in IPMC</reason>
         </para>
       </section>
@@ -14372,12 +14372,12 @@
         </para>
         <para>
           <num>107.4</num>
-          <title>Unauthorized tampering.</title>
+          <heading>Unauthorized tampering.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>107.5</num>
-          <title>Penalties.</title>
+          <heading>Penalties.</heading>
           <reason>Not Adopted.  See IPMC § 106.4</reason>
         </para>
         <para>
@@ -14484,12 +14484,12 @@
         <heading>General</heading>
         <para>
           <num>201.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>201.2</num>
-          <title>Interchangeability.</title>
+          <heading>Interchangeability.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -14499,12 +14499,12 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>201.5</num>
-          <title>Parts.</title>
+          <heading>Parts.</heading>
           <reason>As in IPMC</reason>
         </para>
       </section>
@@ -14850,13 +14850,13 @@
           <text>The interior and exterior of a structure must be maintained in good repair and in a structurally sound and sanitary condition.</text>
           <para>
             <num>304.1.1</num>
-            <title>Unsafe conditions.</title>
+            <heading>Unsafe conditions.</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
         <para>
           <num>304.2</num>
-          <title>Protective treatment.</title>
+          <heading>Protective treatment.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -14887,12 +14887,12 @@
         </para>
         <para>
           <num>304.5</num>
-          <title>Foundation walls.</title>
+          <heading>Foundation walls.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>304.6</num>
-          <title>Exterior walls.</title>
+          <heading>Exterior walls.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -14902,12 +14902,12 @@
         </para>
         <para>
           <num>304.8</num>
-          <title>Decorative features.</title>
+          <heading>Decorative features.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>304.9</num>
-          <title>Overhang extensions.</title>
+          <heading>Overhang extensions.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -14929,22 +14929,22 @@
         </para>
         <para>
           <num>304.11</num>
-          <title>Chimneys and towers.</title>
+          <heading>Chimneys and towers.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>304.12</num>
-          <title>Handrails and guards.</title>
+          <heading>Handrails and guards.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>304.13</num>
-          <title>Window, skylight, and door frames.</title>
+          <heading>Window, skylight, and door frames.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>304.14</num>
-          <title>Insect screens.</title>
+          <heading>Insect screens.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
@@ -14978,22 +14978,22 @@
         </para>
         <para>
           <num>304.16</num>
-          <title>Basement hatchways.</title>
+          <heading>Basement hatchways.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>304.17</num>
-          <title>Guards for basement windows.</title>
+          <heading>Guards for basement windows.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>304.18</num>
-          <title>Building security.</title>
+          <heading>Building security.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>304.19</num>
-          <title>Gates.</title>
+          <heading>Gates.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -15453,12 +15453,12 @@
         </para>
         <para>
           <num>402.2</num>
-          <title>Common halls and stairways.</title>
+          <heading>Common halls and stairways.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>402.3</num>
-          <title>Other spaces.</title>
+          <heading>Other spaces.</heading>
           <reason>As in IPMC</reason>
         </para>
       </section>
@@ -15609,7 +15609,7 @@
         </para>
         <para>
           <num>404.6</num>
-          <title>Efficiency unit.</title>
+          <heading>Efficiency unit.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
@@ -15660,17 +15660,17 @@
         </para>
         <para>
           <num>503.2</num>
-          <title>Location.</title>
+          <heading>Location.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>503.3</num>
-          <title>Location of employee toilet facilities.</title>
+          <heading>Location of employee toilet facilities.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>503.4</num>
-          <title>Floor surface.</title>
+          <heading>Floor surface.</heading>
           <reason>Not adopted</reason>
         </para>
       </section>
@@ -15680,12 +15680,12 @@
         <heading>Plumbing Systems and Fixtures</heading>
         <para>
           <num>504.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>504.2</num>
-          <title>Fixture clearances.</title>
+          <heading>Fixture clearances.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -15734,7 +15734,7 @@
         </para>
         <para>
           <num>505.5</num>
-          <title>Nonpotable water reuse systems</title>
+          <heading>Nonpotable water reuse systems</heading>
           <reason>As in IPMC</reason>
         </para>
       </section>
@@ -15779,7 +15779,7 @@
         <heading>Heating Facilities</heading>
         <para>
           <num>602.1</num>
-          <title>Facilities required.</title>
+          <heading>Facilities required.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -15819,7 +15819,7 @@
         </para>
         <para>
           <num>602.5</num>
-          <title>Room temperature measurement.</title>
+          <heading>Room temperature measurement.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -15911,7 +15911,7 @@
         <heading>Electrical Facilities</heading>
         <para>
           <num>604.1</num>
-          <title>Facilities required.</title>
+          <heading>Facilities required.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -15925,12 +15925,12 @@
           <text>Inadequate service, improper fusing, insufficient receptacle or lighting outlets, improper wiring or installation, deterioration, damage, and similar defects in an electrical system must be corrected.</text>
           <para>
             <num>604.3.1</num>
-            <title>Abatement of hazards associated with water exposure.</title>
+            <heading>Abatement of hazards associated with water exposure.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>604.3.2</num>
-            <title>Abatement of hazards associated with fire exposure.</title>
+            <heading>Abatement of hazards associated with fire exposure.</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
@@ -15941,7 +15941,7 @@
         <heading>Electrical Equipment</heading>
         <para>
           <num>605.1</num>
-          <title>Installation.</title>
+          <heading>Installation.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -15951,12 +15951,12 @@
         </para>
         <para>
           <num>605.3</num>
-          <title>Luminaires.</title>
+          <heading>Luminaires.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
           <num>605.4</num>
-          <title>Wiring.</title>
+          <heading>Wiring.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -15988,7 +15988,7 @@
         <heading>General</heading>
         <para>
           <num>701.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IPMC</reason>
         </para>
         <para>
@@ -16082,7 +16082,7 @@
         </para>
         <para>
           <num>101.2</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>101.2.1</num>
@@ -16166,12 +16166,12 @@
         </para>
         <para>
           <num>102.6</num>
-          <title>Historic buildings.</title>
+          <heading>Historic buildings.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>102.7</num>
-          <title>Referenced Codes and Standards.</title>
+          <heading>Referenced Codes and Standards.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>102.7.1</num>
@@ -16196,7 +16196,7 @@
         <heading>General Authority And Responsibilities</heading>
         <para>
           <num>104.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>104.1.1</num>
@@ -16223,7 +16223,7 @@
         </para>
         <para>
           <num>104.10</num>
-          <title>Fire investigations.</title>
+          <heading>Fire investigations.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>104.10.1</num>
@@ -16284,7 +16284,7 @@
         </para>
         <para>
           <num>104.11</num>
-          <title>Authority at fires and other emergencies.</title>
+          <heading>Authority at fires and other emergencies.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16299,7 +16299,7 @@
         <heading>Permits</heading>
         <para>
           <num>105.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>105.1.1</num>
@@ -16308,27 +16308,27 @@
           </para>
           <para>
             <num>105.1.2</num>
-            <title>Types of permits.</title>
+            <heading>Types of permits.</heading>
             <reason>As in IFC</reason>
           </para>
           <para>
             <num>105.1.3</num>
-            <title>Multiple permits for the same location.</title>
+            <heading>Multiple permits for the same location.</heading>
             <reason>As in IFC</reason>
           </para>
           <para>
             <num>105.1.4</num>
-            <title>Emergency repairs.</title>
+            <heading>Emergency repairs.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>105.1.5</num>
-            <title>Repairs.</title>
+            <heading>Repairs.</heading>
             <reason>As in IFC</reason>
           </para>
           <para>
             <num>105.1.6</num>
-            <title>Annual permit.</title>
+            <heading>Annual permit.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -16339,12 +16339,12 @@
         </para>
         <para>
           <num>105.2</num>
-          <title>Application.</title>
+          <heading>Application.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>105.3</num>
-          <title>Conditions of a permit.</title>
+          <heading>Conditions of a permit.</heading>
           <reason>As in IFC</reason>
           <para name="105.3.1to105.3.8">
             <num from="105.3.1" to="105.3.8">105.3.1 to 105.3.8</num>
@@ -16358,17 +16358,17 @@
         </para>
         <para>
           <num>105.4</num>
-          <title>Construction documents.</title>
+          <heading>Construction documents.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>105.5</num>
-          <title>Revocation.</title>
+          <heading>Revocation.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>105.6</num>
-          <title>Required operational permits.</title>
+          <heading>Required operational permits.</heading>
           <reason>As in IFC</reason>
         </para>
         <para name="105.6.1to105.6.14">
@@ -16377,7 +16377,7 @@
         </para>
         <para>
           <num>105.6.15</num>
-          <title>Fire hydrants and valves.</title>
+          <heading>Fire hydrants and valves.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para name="105.6.16to105.6.50">
@@ -16386,7 +16386,7 @@
         </para>
         <para>
           <num>105.7</num>
-          <title>Required construction permits.</title>
+          <heading>Required construction permits.</heading>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -16396,7 +16396,7 @@
         <heading>Fees</heading>
         <para>
           <num>106.1</num>
-          <title>Fees.</title>
+          <heading>Fees.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16415,22 +16415,22 @@
         <heading>Inspections</heading>
         <para>
           <num>107.1</num>
-          <title>Inspection authority.</title>
+          <heading>Inspection authority.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>107.2</num>
-          <title>Inspections.</title>
+          <heading>Inspections.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>107.3</num>
-          <title>Concealed work.</title>
+          <heading>Concealed work.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>107.4</num>
-          <title>Approvals.</title>
+          <heading>Approvals.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16499,17 +16499,17 @@
         <heading>Violations</heading>
         <para>
           <num>110.1</num>
-          <title>Unlawful acts.</title>
+          <heading>Unlawful acts.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>110.2</num>
-          <title>Owner/occupant responsibility.</title>
+          <heading>Owner/occupant responsibility.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>110.3</num>
-          <title>Notice of violation.</title>
+          <heading>Notice of violation.</heading>
           <reason>As in IFC</reason>
           <para name="110.3.1to110.3.4">
             <num from="110.3.1" to="110.3.4">110.3.1 to 110.3.4</num>
@@ -16527,7 +16527,7 @@
           <text>Any person who violates or fails to comply with any provision of this Code or of any notice, decision, permit, <em>{rule,} </em>or regulation issued under this Code or who erects, installs, alters, repairs, or does work in violation of approved construction documents or of a directive of the Fire Code Official is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisoned for not more than 10 days or both.  Each day that a violation continues after service of notice is a separate offense.</text>
           <para>
             <num>110.4.1</num>
-            <title>Abatement of violation.</title>
+            <heading>Abatement of violation.</heading>
             <reason>As in IFC</reason>
           </para>
           <para>
@@ -16657,12 +16657,12 @@
         <heading>General</heading>
         <para>
           <num>201.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>201.2</num>
-          <title>Interchangeability.</title>
+          <heading>Interchangeability.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16672,7 +16672,7 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -16747,7 +16747,7 @@
         </para>
         <para>
           <num>307.4</num>
-          <title>Location</title>
+          <heading>Location</heading>
           <reason>As in IFC</reason>
           <para name="307.4.1to307.4.2">
             <num from="307.4.1" to="307.4.2">307.4.1 to 307.4.2</num>
@@ -16767,7 +16767,7 @@
         </para>
         <para>
           <num>307.5</num>
-          <title>Attendance.</title>
+          <heading>Attendance.</heading>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -16777,7 +16777,7 @@
         <heading>Open Flames</heading>
         <para>
           <num>308.1</num>
-          <title>General</title>
+          <heading>General</heading>
           <reason>As in IFC</reason>
           <para name="308.1.1to308.1.3">
             <num from="308.1.1" to="308.1.3">308.1.1 to 308.1.3</num>
@@ -16820,21 +16820,21 @@
         </para>
         <para>
           <num>308.2</num>
-          <title>Permit required.</title>
+          <heading>Permit required.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>308.3</num>
-          <title>Group A Occupancies.</title>
+          <heading>Group A Occupancies.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>308.3.1</num>
-            <title>Open-flame decorative devices.</title>
+            <heading>Open-flame decorative devices.</heading>
             <reason>As in IFC</reason>
           </para>
           <para>
             <num>308.3.2</num>
-            <title>Theatrical performances.</title>
+            <heading>Theatrical performances.</heading>
             <reason>As in IFC</reason>
           </para>
           <para>
@@ -16874,7 +16874,7 @@
         </para>
         <para>
           <num>308.4</num>
-          <title>Group R occupancies</title>
+          <heading>Group R occupancies</heading>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -16905,12 +16905,12 @@
         <heading>Emergency Evacuation Drills</heading>
         <para>
           <num>405.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>405.2</num>
-          <title>Frequency.</title>
+          <heading>Frequency.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>405.2.1</num>
@@ -16949,7 +16949,7 @@
         <heading>Fire Apparatus Access Roads</heading>
         <para>
           <num>503.1</num>
-          <title>Where required.</title>
+          <heading>Where required.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -16996,7 +16996,7 @@
         </para>
         <para>
           <num>505.2</num>
-          <title>Street or road signs.</title>
+          <heading>Street or road signs.</heading>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17090,26 +17090,26 @@
         </para>
         <para>
           <num>603.2</num>
-          <title>Chimneys.</title>
+          <heading>Chimneys.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>603.3</num>
-          <title>Fuel oil storage systems.</title>
+          <heading>Fuel oil storage systems.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>603.4</num>
-          <title>Portable unvented heaters.</title>
+          <heading>Portable unvented heaters.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>603.5</num>
-          <title>Heating appliances.</title>
+          <heading>Heating appliances.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>603.5.1</num>
-            <title>Guard against contact.</title>
+            <heading>Guard against contact.</heading>
             <reason>As in IFC</reason>
           </para>
           <para>
@@ -17120,22 +17120,22 @@
         </para>
         <para>
           <num>603.6</num>
-          <title>Chimneys and appliances.</title>
+          <heading>Chimneys and appliances.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>603.7</num>
-          <title>Discontinuing operation of unsafe heating appliances.</title>
+          <heading>Discontinuing operation of unsafe heating appliances.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>603.8</num>
-          <title>Incinerators.</title>
+          <heading>Incinerators.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>603.9</num>
-          <title>Gas meters.</title>
+          <heading>Gas meters.</heading>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17156,12 +17156,12 @@
         <heading>Commercial Kitchen Hoods</heading>
         <para>
           <num>607.1</num>
-          <title>General</title>
+          <heading>General</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>607.2</num>
-          <title>Where required</title>
+          <heading>Where required</heading>
           <reason>As in IFC</reason>
           <text>
             <strong>Exceptions:  </strong>
@@ -17172,7 +17172,7 @@
         </para>
         <para>
           <num>607.3</num>
-          <title>to 607</title>
+          <heading>to 607</heading>
           <reason>As in IFC</reason>
         </para>
       </section>
@@ -17209,21 +17209,21 @@
         <heading>Automatic Sprinkler Systems</heading>
         <para>
           <num>903.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>903.2</num>
-          <title>Where required.</title>
+          <heading>Where required.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>903.3</num>
-          <title>Installation requirements.</title>
+          <heading>Installation requirements.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>903.3.1</num>
-            <title>Standards.</title>
+            <heading>Standards.</heading>
             <reason>As in IFC</reason>
             <para name="903.3.1.1to903.3.1.3">
               <num from="903.3.1.1" to="903.3.1.3">903.3.1.1 to 903.3.1.3</num>
@@ -17242,16 +17242,16 @@
         </para>
         <para>
           <num>903.4</num>
-          <title>Sprinkler system supervision and alarms.</title>
+          <heading>Sprinkler system supervision and alarms.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>903.4.1</num>
-            <title>Monitoring.</title>
+            <heading>Monitoring.</heading>
             <reason>As in IFC</reason>
           </para>
           <para>
             <num>903.4.2</num>
-            <title>Alarms.</title>
+            <heading>Alarms.</heading>
             <reason>As in IFC</reason>
             <para>
               <num>903.4.2.1</num>
@@ -17261,7 +17261,7 @@
           </para>
           <para>
             <num>903.4.3</num>
-            <title>Floor control valves.</title>
+            <heading>Floor control valves.</heading>
             <reason>As in IFC</reason>
           </para>
         </para>
@@ -17305,12 +17305,12 @@
         <heading>Fire Alarm and Detection Systems</heading>
         <para>
           <num>907.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>907.2</num>
-          <title>Where required – New buildings and structures.</title>
+          <heading>Where required – New buildings and structures.</heading>
           <reason>As in IFC</reason>
           <para name="907.2.1to907.2.9">
             <num from="907.2.1" to="907.2.9">907.2.1 to 907.2.9</num>
@@ -17318,16 +17318,16 @@
           </para>
           <para>
             <num>907.2.10</num>
-            <title>Single- and multiple-station smoke alarms.</title>
+            <heading>Single- and multiple-station smoke alarms.</heading>
             <reason>As in IFC</reason>
             <para>
               <num>907.2.10.1</num>
-              <title>Group R-1.</title>
+              <heading>Group R-1.</heading>
               <reason>As in IFC</reason>
             </para>
             <para>
               <num>907.2.10.2</num>
-              <title>Groups R-2, R-3, R-4, and I-1.</title>
+              <heading>Groups R-2, R-3, R-4, and I-1.</heading>
               <reason>As in IFC</reason>
               <para>
                 <num>907.2.10.2.1</num>
@@ -17447,7 +17447,7 @@
         <heading>Emergency and Standby Power Systems</heading>
         <para>
           <num>1203.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IFC</reason>
           <para name="1203.1.1to1203.1.2">
             <num from="1203.1.1" to="1203.1.2">1203.1.1  to 1203.1.2</num>
@@ -17474,12 +17474,12 @@
         <heading>Solar Photovoltaic Power Systems</heading>
         <para>
           <num>1204.1</num>
-          <title>General</title>
+          <heading>General</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>1204.2</num>
-          <title>Access and pathways.</title>
+          <heading>Access and pathways.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>1204.2.1</num>
@@ -17498,7 +17498,7 @@
           </para>
           <para>
             <num>1204.2.2</num>
-            <title>Emergency escape and rescue openings.</title>
+            <heading>Emergency escape and rescue openings.</heading>
             <reason>As in IFC</reason>
           </para>
         </para>
@@ -17636,12 +17636,12 @@
         <heading>Temporary Heating Equipment</heading>
         <para>
           <num>3303.1</num>
-          <title>Listed.</title>
+          <heading>Listed.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
           <num>3303.2</num>
-          <title>Oil-fired heaters.</title>
+          <heading>Oil-fired heaters.</heading>
           <reason>As in IFC</reason>
         </para>
         <para>
@@ -17966,7 +17966,7 @@
           </para>
           <para>
             <num>102.1.1</num>
-            <title>Above code programs.</title>
+            <heading>Above code programs.</heading>
             <reason>As in IECC-C</reason>
           </para>
         </para>
@@ -18013,7 +18013,7 @@
         <heading>Inspections</heading>
         <para>
           <num>105.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IECC-C</reason>
           <para>
             <num>105.1.1</num>
@@ -18097,12 +18097,12 @@
         <heading>General</heading>
         <para>
           <num>201.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IECC-C</reason>
         </para>
         <para>
           <num>201.2</num>
-          <title>Interchangeability.</title>
+          <heading>Interchangeability.</heading>
           <reason>As in IECC-C</reason>
         </para>
         <para>
@@ -18112,7 +18112,7 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in IECC-C</reason>
         </para>
       </section>
@@ -18179,7 +18179,7 @@
         <reason>As in IECC-C</reason>
         <para>
           <num>401.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IECC-C</reason>
         </para>
         <para>
@@ -18208,7 +18208,7 @@
           </para>
           <para>
             <num>401.2.1</num>
-            <title>Application to replacement fenestration products.</title>
+            <heading>Application to replacement fenestration products.</heading>
             <reason>As in IECC-C</reason>
           </para>
         </para>
@@ -18282,15 +18282,15 @@
         </para>
         <para>
           <num>402.5</num>
-          <title>Air leakage – thermal envelope.</title>
+          <heading>Air leakage – thermal envelope.</heading>
           <reason>As in IECC-C</reason>
           <para>
             <num>402.5.1</num>
-            <title>Air barriers.</title>
+            <heading>Air barriers.</heading>
             <reason>As in IECC-C</reason>
             <para>
               <num>402.5.1.1</num>
-              <title>Air barrier construction.</title>
+              <heading>Air barrier construction.</heading>
               <reason>As in IECC-C</reason>
             </para>
             <para>
@@ -18368,12 +18368,12 @@
         <heading>Electrical Power and Lighting Systems</heading>
         <para>
           <num>405.1</num>
-          <title>General (Mandatory).</title>
+          <heading>General (Mandatory).</heading>
           <reason>As in IECC-C</reason>
         </para>
         <para>
           <num>405.2</num>
-          <title>Lighting controls (Mandatory).</title>
+          <heading>Lighting controls (Mandatory).</heading>
           <reason>As in IECC-C</reason>
           <para name="405.2.1to405.2.3">
             <num from="405.2.1" to="405.2.3">405.2.1 to 405.2.3</num>
@@ -18418,12 +18418,12 @@
           </para>
           <para>
             <num>405.2.5</num>
-            <title>Manual controls.</title>
+            <heading>Manual controls.</heading>
             <reason>As in IECC-C</reason>
           </para>
           <para>
             <num>405.2.6</num>
-            <title>Exterior lighting controls.</title>
+            <heading>Exterior lighting controls.</heading>
             <reason>As in IECC-C</reason>
           </para>
         </para>
@@ -18539,7 +18539,7 @@
           </para>
           <para>
             <num>102.1.1</num>
-            <title>Above code programs.</title>
+            <heading>Above code programs.</heading>
             <reason>As in IECC-R</reason>
           </para>
         </para>
@@ -18586,7 +18586,7 @@
         <heading>Inspections</heading>
         <para>
           <num>105.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IECC-R</reason>
           <para>
             <num>105.1.1</num>
@@ -18669,12 +18669,12 @@
         <heading>General</heading>
         <para>
           <num>201.1</num>
-          <title>Scope.</title>
+          <heading>Scope.</heading>
           <reason>As in IECC-R</reason>
         </para>
         <para>
           <num>201.2</num>
-          <title>Interchangeability.</title>
+          <heading>Interchangeability.</heading>
           <reason>As in IECC-R</reason>
         </para>
         <para>
@@ -18684,7 +18684,7 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in IECC-R</reason>
         </para>
       </section>
@@ -18761,20 +18761,20 @@
         </para>
         <para>
           <num>402.4</num>
-          <title>Air leakage.</title>
+          <heading>Air leakage.</heading>
           <reason>As in IECC-R</reason>
           <para>
             <num>402.4.1</num>
-            <title>Building thermal envelope.</title>
+            <heading>Building thermal envelope.</heading>
             <reason>As in IECC-R</reason>
             <para>
               <num>402.4.1.1</num>
-              <title>Installation.</title>
+              <heading>Installation.</heading>
               <reason>As in IECC-R</reason>
             </para>
             <para>
               <num>402.4.1.2</num>
-              <title>Testing.</title>
+              <heading>Testing.</heading>
               <reason>As in IECC-R</reason>
               <text>{<strong>Per MBPS Modification:</strong>}</text>
               <text><strong>Exceptions:</strong>  As provided for in the:</text>
@@ -18795,7 +18795,7 @@
         </para>
         <para>
           <num>402.5</num>
-          <title>Maximum fenestration U-factor ... .</title>
+          <heading>Maximum fenestration U-factor ... .</heading>
           <reason>As in IECC-R</reason>
         </para>
       </section>
@@ -18817,12 +18817,12 @@
         <heading>Energy Rating Index Compliance Alternative</heading>
         <para>
           <num>406.1</num>
-          <title>Scope</title>
+          <heading>Scope</heading>
           <reason>As in IECC-R</reason>
         </para>
         <para>
           <num>406.2</num>
-          <title>Mandatory requirements</title>
+          <heading>Mandatory requirements</heading>
           <reason>As in IECC-R</reason>
           <text>
             <strong>{Per MBPS Modification:}</strong>
@@ -18902,7 +18902,7 @@
           </para>
           <para>
             <num>101.2</num>
-            <title>Scope.</title>
+            <heading>Scope.</heading>
             <reason>As in IRC</reason>
             <text><strong>Exception: </strong> The following may be constructed in accordance with this Code if provided with an automatic fire sprinkler system that complies with § 313 {"Automatic Fire Sprinkler Systems"} of this Code:</text>
             <para>
@@ -18920,7 +18920,7 @@
           </para>
           <para>
             <num>101.3</num>
-            <title>Intent.</title>
+            <heading>Intent.</heading>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -19031,12 +19031,12 @@
           </para>
           <para>
             <num>103.2</num>
-            <title>Appointment.</title>
+            <heading>Appointment.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>103.3</num>
-            <title>Deputies.</title>
+            <heading>Deputies.</heading>
             <reason>Not Adopted</reason>
           </para>
         </section>
@@ -19051,12 +19051,12 @@
           </para>
           <para>
             <num>104.2</num>
-            <title>Application and permits.</title>
+            <heading>Application and permits.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>104.3</num>
-            <title>Notices and orders.</title>
+            <heading>Notices and orders.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -19066,7 +19066,7 @@
           </para>
           <para>
             <num>104.5</num>
-            <title>Identification.</title>
+            <heading>Identification.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -19076,22 +19076,22 @@
           </para>
           <para>
             <num>104.7</num>
-            <title>Department records.</title>
+            <heading>Department records.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>104.8</num>
-            <title>Liability.</title>
+            <heading>Liability.</heading>
             <reason>Not Adopted.  See State Courts Article § 5-302.</reason>
           </para>
           <para>
             <num>104.9</num>
-            <title>Approve materials and equipment.</title>
+            <heading>Approve materials and equipment.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>104.10</num>
-            <title>Modifications.</title>
+            <heading>Modifications.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>104.10.1</num>
@@ -19114,7 +19114,7 @@
             </para>
             <para>
               <num>104.11.1</num>
-              <title>Tests.</title>
+              <heading>Tests.</heading>
               <reason>As in IRC</reason>
             </para>
           </para>
@@ -19125,7 +19125,7 @@
           <heading>Permits</heading>
           <para>
             <num>105.1</num>
-            <title>Required.</title>
+            <heading>Required.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>105.1.1</num>
@@ -19233,13 +19233,13 @@
             </para>
             <para>
               <num>105.3.2</num>
-              <title>Time limitation of application.</title>
+              <heading>Time limitation of application.</heading>
               <reason>As in IRC</reason>
             </para>
           </para>
           <para>
             <num>105.4</num>
-            <title>Validity of permit.</title>
+            <heading>Validity of permit.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -19254,17 +19254,17 @@
           </para>
           <para>
             <num>105.7</num>
-            <title>Placement of permit.</title>
+            <heading>Placement of permit.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>105.8</num>
-            <title>Responsibility.</title>
+            <heading>Responsibility.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>105.9</num>
-            <title>Preliminary inspection.</title>
+            <heading>Preliminary inspection.</heading>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -19274,7 +19274,7 @@
           <heading>Construction Documents</heading>
           <para>
             <num>106.1</num>
-            <title>Submittal documents.</title>
+            <heading>Submittal documents.</heading>
             <reason>As in IRC</reason>
             <para name="106.1.1to106.1.3">
               <num from="106.1.1" to="106.1.3">106.1.1 to 106.1.3</num>
@@ -19282,7 +19282,7 @@
             </para>
             <para>
               <num>106.1.4</num>
-              <title>Information for construction in flood hazard areas.</title>
+              <heading>Information for construction in flood hazard areas.</heading>
               <reason>Not Adopted</reason>
               <text>{<strong>Note: </strong> For the establishment of Regulated Flood Hazard Areas and the special regulations and limitations governing development within those areas, <em>see </em>the Floodplain Management Code, City Code Article 7 {"Natural Resources"}, Division I {"Floodplain Management"}.}</text>
             </para>
@@ -19318,7 +19318,7 @@
           <heading>Inspections</heading>
           <para>
             <num>109.1</num>
-            <title>Type of inspection.</title>
+            <heading>Type of inspection.</heading>
             <reason>As in IRC</reason>
             <para name="109.1.1to109.1.2">
               <num from="109.1.1" to="109.1.2">109.1.1 to 109.1.2</num>
@@ -19335,7 +19335,7 @@
             </para>
             <para>
               <num>109.1.6</num>
-              <title>Final inspection.</title>
+              <heading>Final inspection.</heading>
               <reason>As in IRC</reason>
               <para>
                 <num>109.1.6.1</num>
@@ -19430,12 +19430,12 @@
           <heading>General</heading>
           <para>
             <num>201.1</num>
-            <title>Scope.</title>
+            <heading>Scope.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>201.2</num>
-            <title>Interchangeability.</title>
+            <heading>Interchangeability.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -19445,7 +19445,7 @@
           </para>
           <para>
             <num>201.4</num>
-            <title>Terms not defined.</title>
+            <heading>Terms not defined.</heading>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -19528,12 +19528,12 @@
           <heading>Design Criteria</heading>
           <para>
             <num>301.1</num>
-            <title>Application</title>
+            <heading>Application</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>301.2</num>
-            <title>Climatic and geographic design criteria</title>
+            <heading>Climatic and geographic design criteria</heading>
             <reason>As in IRC</reason>
             <para name="301.2.1to301.2.3">
               <num from="301.2.1" to="301.2.3">301.2.1 to 301.2.3</num>
@@ -19541,7 +19541,7 @@
             </para>
             <para>
               <num>301.2.4</num>
-              <title>Floodplain construction.</title>
+              <heading>Floodplain construction.</heading>
               <reason>Not Adopted</reason>
               <text>{<strong>Note: </strong> For the establishment of Regulated Flood Hazard Areas and the special regulations and limitations governing development within those areas, <em>see </em>the Floodplain Management Code, City Code Article 7 {"Natural Resources"}, Division I {"Floodplain Management"}.}</text>
               <text>
@@ -19740,7 +19740,7 @@
           </para>
           <para>
             <num>309.3</num>
-            <title>Flood hazard areas.</title>
+            <heading>Flood hazard areas.</heading>
             <reason>Not Adopted</reason>
             <text>{<strong>Note: </strong> For the establishment of Regulated Flood Hazard Areas and the special regulations and limitations governing development within those areas, <em>see </em>the Floodplain Management Code, City Code Article 7 {"Natural Resources"}, Division I {"Floodplain Management"}.}</text>
           </para>
@@ -19774,7 +19774,7 @@
             </para>
             <para>
               <num>311.7.5</num>
-              <title>Stair treads and risers.</title>
+              <heading>Stair treads and risers.</heading>
               <reason>As in IRC</reason>
               <para>
                 <num>311.7.5.1</num>
@@ -19804,7 +19804,7 @@
           </para>
           <para>
             <num>311.8</num>
-            <title>Ramps</title>
+            <heading>Ramps</heading>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -19814,7 +19814,7 @@
           <heading>Guards and Window Fall Protection</heading>
           <para>
             <num>312.1</num>
-            <title>Guards</title>
+            <heading>Guards</heading>
             <reason>As in IRC</reason>
             <para name="312.1.1to312.1.2">
               <num from="312.1.1" to="312.1.2">312.1.1 to 312.1.2</num>
@@ -19841,13 +19841,13 @@
             </para>
             <para>
               <num>312.1.4</num>
-              <title>Exterior plastic composite guards.</title>
+              <heading>Exterior plastic composite guards.</heading>
               <reason>As in IRC</reason>
             </para>
           </para>
           <para>
             <num>312.2</num>
-            <title>Window fall protection.</title>
+            <heading>Window fall protection.</heading>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20050,7 +20050,7 @@
           <heading>Foundation and Retaining Walls</heading>
           <para>
             <num>404.1</num>
-            <title>Concrete and masonry foundation walls.</title>
+            <heading>Concrete and masonry foundation walls.</heading>
             <reason>As in IRC</reason>
             <para name="404.1.1to404.1.8">
               <num from="404.1.1" to="404.1.8">404.1.1 to 404.1.8</num>
@@ -20058,7 +20058,7 @@
             </para>
             <para>
               <num>404.1.9</num>
-              <title>Isolated masonry piers.</title>
+              <heading>Isolated masonry piers.</heading>
               <reason>As in IRC</reason>
               <para name="404.1.9.1to404.1.9.4">
                 <num from="404.1.9.1" to="404.1.9.4">404.1.9.1 to 404.1.9.4</num>
@@ -20066,7 +20066,7 @@
               </para>
               <para>
                 <num>404.1.9.5</num>
-                <title>Masonry piers in flood hazard areas.</title>
+                <heading>Masonry piers in flood hazard areas.</heading>
                 <reason>Not Adopted</reason>
                 <text>{<strong>Note: </strong> For the establishment of Regulated Flood Hazard Areas and the special regulations and limitations governing development within those areas, <em>see </em>the Floodplain Management Code, City Code Article 7 {"Natural Resources"}, Division I {"Floodplain Management"}.}</text>
               </para>
@@ -20097,7 +20097,7 @@
           </para>
           <para>
             <num>408.7</num>
-            <title>Flood resistance.</title>
+            <heading>Flood resistance.</heading>
             <reason>Not Adopted</reason>
             <text>{<strong>Note: </strong> For the establishment of Regulated Flood Hazard Areas and the special regulations and limitations governing development within those areas, <em>see </em>the Floodplain Management Code, City Code Article 7 {"Natural Resources"}, Division I {"Floodplain Management"}.}</text>
           </para>
@@ -20258,7 +20258,7 @@
           <heading>General</heading>
           <para>
             <num>1301.1</num>
-            <title>Scope.</title>
+            <heading>Scope.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>1301.1.1</num>
@@ -20310,11 +20310,11 @@
           </para>
           <para>
             <num>1411.3</num>
-            <title>Condensate disposal.</title>
+            <heading>Condensate disposal.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>1411.3.1</num>
-              <title>Auxiliary and secondary drain systems.</title>
+              <heading>Auxiliary and secondary drain systems.</heading>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -20324,12 +20324,12 @@
             </para>
             <para>
               <num>1411.3.3</num>
-              <title>Drain line maintenance.</title>
+              <heading>Drain line maintenance.</heading>
               <reason>As in IRC</reason>
             </para>
             <para>
               <num>1411.3.4</num>
-              <title>Appliances, equipment, and insulation in pans.</title>
+              <heading>Appliances, equipment, and insulation in pans.</heading>
               <reason>As in IRC</reason>
             </para>
           </para>
@@ -20350,7 +20350,7 @@
           <heading>Evaporate Cooling Equipment</heading>
           <para>
             <num>1413.1</num>
-            <title>General.</title>
+            <heading>General.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20385,7 +20385,7 @@
           </para>
           <para>
             <num>1601.4</num>
-            <title>Installation</title>
+            <heading>Installation</heading>
             <reason>As in IRC</reason>
             <para name="1601.4.1to1601.4.9">
               <num from="1601.4.1" to="1601.4.9">1601.4.1 to 1601.4.9</num>
@@ -20419,7 +20419,7 @@
           <heading>General</heading>
           <para>
             <num>1701.1</num>
-            <title>Scope.</title>
+            <heading>Scope.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20451,12 +20451,12 @@
           </para>
           <para>
             <num>1802.2</num>
-            <title>Vent dampers.</title>
+            <heading>Vent dampers.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>1802.3</num>
-            <title>Draft regulators.</title>
+            <heading>Draft regulators.</heading>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20506,7 +20506,7 @@
           <heading>Hydronic Piping Systems Installation</heading>
           <para>
             <num>2101.1</num>
-            <title>General.</title>
+            <heading>General.</heading>
             <reason>As in IRC</reason>
             <text>
               <strong>Table 2101.1  </strong>
@@ -20537,7 +20537,7 @@
           </para>
           <para>
             <num>2103.2</num>
-            <title>Thermal barrier required.</title>
+            <heading>Thermal barrier required.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
@@ -20559,7 +20559,7 @@
           </para>
           <para>
             <num>2103.4</num>
-            <title>Testing.</title>
+            <heading>Testing.</heading>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20579,21 +20579,21 @@
           <heading>Oil Tanks</heading>
           <para>
             <num>2201.1</num>
-            <title>Materials.</title>
+            <heading>Materials.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>2201.2</num>
-            <title>Above-ground tanks.</title>
+            <heading>Above-ground tanks.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>2201.2.1</num>
-              <title>Tanks within buildings.</title>
+              <heading>Tanks within buildings.</heading>
               <reason>As in IRC</reason>
             </para>
             <para>
               <num>2201.2.2</num>
-              <title>Outside above-ground tanks.</title>
+              <heading>Outside above-ground tanks.</heading>
               <reason>As in IRC</reason>
               <text><strong>Exception:  </strong>If the 5-feet minimum distance from an adjoining property line cannot be met, the Building Official will determine the location of the tank.</text>
             </para>
@@ -20609,7 +20609,7 @@
           </para>
           <para>
             <num>2201.7</num>
-            <title>Tanks abandoned or removed.</title>
+            <heading>Tanks abandoned or removed.</heading>
             <reason>As in IRC</reason>
           </para>
         </section>
@@ -20698,16 +20698,16 @@
           <heading>Overhead Service and Service-Entrance Conductor Installation</heading>
           <para>
             <num>3604.1</num>
-            <title>Clearances on buildings.</title>
+            <heading>Clearances on buildings.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>3604.2</num>
-            <title>Vertical clearances.</title>
+            <heading>Vertical clearances.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>3604.2.1</num>
-              <title>Above roofs.</title>
+              <heading>Above roofs.</heading>
               <reason>As in IRC</reason>
             </para>
             <para>
@@ -20781,12 +20781,12 @@
           </para>
           <para>
             <num>3702.13</num>
-            <title>Electric vehicle branch circuit.</title>
+            <heading>Electric vehicle branch circuit.</heading>
             <reason>As in IRC</reason>
           </para>
           <para>
             <num>3702.14</num>
-            <title>Branch-circuit requirement – Summary.</title>
+            <heading>Branch-circuit requirement – Summary.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>3702.14.1</num>
@@ -20831,7 +20831,7 @@
           </para>
           <para>
             <num>3901.7</num>
-            <title>Outdoor outlets.</title>
+            <heading>Outdoor outlets.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>3901.7.1</num>
@@ -20915,7 +20915,7 @@
           </para>
           <para>
             <num>4101.5</num>
-            <title>Disconnecting means generally.</title>
+            <heading>Disconnecting means generally.</heading>
             <reason>As in IRC</reason>
             <para>
               <num>4101.5.1</num>
@@ -20969,7 +20969,7 @@
           <heading>Scope</heading>
           <para>
             <num>101.1</num>
-            <title>General</title>
+            <heading>General</heading>
             <reason>As in IRC</reason>
             <text><strong>Exception:  </strong>In addition to these provisions, in flood hazard areas, new and replacement manufactured homes, as defined in City Code Article 7 {"Natural Resources"}, § 1-3 {"Definitions – "Floodproofing" to "Wet floodproofing"}, must meet the applicable requirements of the Floodplain Management Code.</text>
           </para>
@@ -21128,7 +21128,7 @@
         </para>
         <para>
           <num>101.2</num>
-          <title>Purpose.</title>
+          <heading>Purpose.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -21190,7 +21190,7 @@
         </para>
         <para>
           <num>101.4</num>
-          <title>Application.</title>
+          <heading>Application.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -21213,17 +21213,17 @@
         <heading>Applicability</heading>
         <para>
           <num>102.1</num>
-          <title>Code conflicts.</title>
+          <heading>Code conflicts.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>102.2</num>
-          <title>Other laws.</title>
+          <heading>Other laws.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>102.3</num>
-          <title>Application of references.</title>
+          <heading>Application of references.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -21276,18 +21276,18 @@
           </para>
           <para>
             <num>102.4.1</num>
-            <title>Conflicting provisions.</title>
+            <heading>Conflicting provisions.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>102.4.2</num>
-            <title>Application of referenced standards.</title>
+            <heading>Application of referenced standards.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
         <para>
           <num>102.5</num>
-          <title>Partial invalidity.</title>
+          <heading>Partial invalidity.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -21305,7 +21305,7 @@
         </para>
         <para>
           <num>102.7</num>
-          <title>Mixed occupancy buildings.</title>
+          <heading>Mixed occupancy buildings.</heading>
           <reason>As in IgCC</reason>
         </para>
       </section>
@@ -21315,22 +21315,22 @@
         <heading>Duties and Powers of Code Official</heading>
         <para>
           <num>103.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>103.2</num>
-          <title>Applications and permits.</title>
+          <heading>Applications and permits.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>103.3</num>
-          <title>Notices and orders.</title>
+          <heading>Notices and orders.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>103.4</num>
-          <title>Inspections.</title>
+          <heading>Inspections.</heading>
           <reason>As in IgCC</reason>
           <para>
             <num>103.4.1</num>
@@ -21384,7 +21384,7 @@
         <heading>PERMITS</heading>
         <para>
           <num>106.1</num>
-          <title>Required.</title>
+          <heading>Required.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -21634,12 +21634,12 @@
         <heading>Mandatory Provisions</heading>
         <para>
           <num>501.3.1</num>
-          <title>Site Selection.</title>
+          <heading>Site Selection.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>501.3.2</num>
-          <title>Predesign Site Inventory and Assessment.</title>
+          <heading>Predesign Site Inventory and Assessment.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -21647,7 +21647,7 @@
           <heading>Plants.</heading>
           <para>
             <num>501.3.3.1</num>
-            <title>Invasive Plants.</title>
+            <heading>Invasive Plants.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
@@ -21655,7 +21655,7 @@
             <heading>Greenfield Sites.</heading>
             <para>
               <num>a.</num>
-              <title>More than 20% existing native or adapted plants:</title>
+              <heading>More than 20% existing native or adapted plants:</heading>
               <reason>As in IgCC</reason>
             </para>
             <para>
@@ -21680,7 +21680,7 @@
         </para>
         <para>
           <num>501.3.4</num>
-          <title>Stormwater Management.</title>
+          <heading>Stormwater Management.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -21703,7 +21703,7 @@
           </para>
           <para>
             <num>501.3.5.2</num>
-            <title>Walls.</title>
+            <heading>Walls.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -21761,18 +21761,18 @@
           </para>
           <para>
             <num>501.3.5.4</num>
-            <title>Solar Reflectance Index (SRI).</title>
+            <heading>Solar Reflectance Index (SRI).</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>501.3.5.5</num>
-            <title>Vegetated Terrace and Roofing Systems.</title>
+            <heading>Vegetated Terrace and Roofing Systems.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
         <para>
           <num>501.3.6</num>
-          <title>Reduction of Light Pollution.</title>
+          <heading>Reduction of Light Pollution.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -21780,7 +21780,7 @@
           <heading>Mitigation of Transportation Impacts.</heading>
           <para>
             <num>501.3.7.1</num>
-            <title>Pedestrian and Bicycle Connectivity.</title>
+            <heading>Pedestrian and Bicycle Connectivity.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
@@ -21788,7 +21788,7 @@
             <heading>Bicycle Parking.</heading>
             <para>
               <num>501.3.7.2.1</num>
-              <title>Minimum Number of Spaces.</title>
+              <heading>Minimum Number of Spaces.</heading>
               <reason>As in IgCC</reason>
               <text>
                 <strong>Exceptions:</strong>
@@ -21804,39 +21804,39 @@
             </para>
             <para>
               <num>501.3.7.2.2</num>
-              <title>Location.</title>
+              <heading>Location.</heading>
               <reason>As in IgCC</reason>
             </para>
             <para>
               <num>501.3.7.2.3</num>
-              <title>Horizontal Parking Racks..</title>
+              <heading>Horizontal Parking Racks..</heading>
               <reason>As in IgCC</reason>
             </para>
             <para>
               <num>501.3.7.2.4</num>
-              <title>Ability to Lock.</title>
+              <heading>Ability to Lock.</heading>
               <reason>As in IgCC</reason>
             </para>
             <para>
               <num>501.3.7.2.5</num>
-              <title>Security and Visibility.</title>
+              <heading>Security and Visibility.</heading>
               <reason>As in IgCC</reason>
             </para>
             <para>
               <num>501.3.7.2.6</num>
-              <title>Documentation.</title>
+              <heading>Documentation.</heading>
               <reason>As in IgCC</reason>
             </para>
           </para>
           <para>
             <num>501.3.7.3</num>
-            <title>Site Vehicle Provisions.</title>
+            <heading>Site Vehicle Provisions.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
         <para>
           <num>501.3.8</num>
-          <title>Building Site Waste Management Plan.</title>
+          <heading>Building Site Waste Management Plan.</heading>
           <reason>As in IgCC</reason>
         </para>
         <annotations>
@@ -21880,7 +21880,7 @@
           </para>
           <para>
             <num>601.3.1.2</num>
-            <title>Irrigation.</title>
+            <heading>Irrigation.</heading>
             <reason>As in IgCC</reason>
             <para name="601.3.1.2.1through601.3.1.2.3">
               <num from="601.3.1.2.1" to="601.3.1.2.3">601.3.1.2.1 through  601.3.1.2.3</num>
@@ -21910,58 +21910,58 @@
           </para>
           <para>
             <num>601.3.2.2</num>
-            <title>Appliances.</title>
+            <heading>Appliances.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>601.3.2.3</num>
-            <title>HVAC Systems and Equipment.</title>
+            <heading>HVAC Systems and Equipment.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>601.3.2.4</num>
-            <title>Roofs.</title>
+            <heading>Roofs.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>601.3.2.5</num>
-            <title>Commercial Food Service Operations.</title>
+            <heading>Commercial Food Service Operations.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>601.3.2.6</num>
-            <title>Medical Laboratory Facilities.</title>
+            <heading>Medical Laboratory Facilities.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
         <para>
           <num>601.3.3</num>
-          <title>Special Water Features.</title>
+          <heading>Special Water Features.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>601.3.4</num>
-          <title>Water Consumption Measurement.</title>
+          <heading>Water Consumption Measurement.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>601.3.5</num>
-          <title>Water Softeners.</title>
+          <heading>Water Softeners.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>601.3.6</num>
-          <title>Reverse Osmosis Water Treatment.</title>
+          <heading>Reverse Osmosis Water Treatment.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>601.3.7</num>
-          <title>On-site Reclaimed Water Treatment Systems.</title>
+          <heading>On-site Reclaimed Water Treatment Systems.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>601.3.8</num>
-          <title>Dual Water Supply Plumbing.</title>
+          <heading>Dual Water Supply Plumbing.</heading>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -21994,26 +21994,26 @@
         <heading>Prescriptive option</heading>
         <para>
           <num>701.4.1</num>
-          <title>General Comprehensive Prescriptive Requirements.</title>
+          <heading>General Comprehensive Prescriptive Requirements.</heading>
           <reason>As in IgCC</reason>
           <para>
             <num>701.4.1.1</num>
-            <title>On-Site Renewable Energy Systems.</title>
+            <heading>On-Site Renewable Energy Systems.</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
         <para>
           <num>701.4.2</num>
-          <title>Building Envelope.</title>
+          <heading>Building Envelope.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>701.4.3</num>
-          <title>Heating, Ventilating, and Air Conditioning.</title>
+          <heading>Heating, Ventilating, and Air Conditioning.</heading>
           <reason>As in IgCC</reason>
           <para>
             <num>701.4.3.1</num>
-            <title>Minimum Equipment Efficiencies for the Alternate Renewables Approach.</title>
+            <heading>Minimum Equipment Efficiencies for the Alternate Renewables Approach.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para name="701.4.3.2through701.4.3.10.">
@@ -22023,72 +22023,72 @@
         </para>
         <para>
           <num>701.4.4</num>
-          <title>Service Water Heating.</title>
+          <heading>Service Water Heating.</heading>
           <reason>As in IgCC</reason>
           <para>
             <num>701.4.4.1</num>
-            <title>Equipment Efficiency for the Alternate Renewable Approach.</title>
+            <heading>Equipment Efficiency for the Alternate Renewable Approach.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>701.4.4.2</num>
-            <title>Insulation for Spa Pools.</title>
+            <heading>Insulation for Spa Pools.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
         <para>
           <num>701.4.5</num>
-          <title>Power.</title>
+          <heading>Power.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>701.4.6</num>
-          <title>Lighting.</title>
+          <heading>Lighting.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>701.4.7</num>
-          <title>Other Equipment.</title>
+          <heading>Other Equipment.</heading>
           <reason>As in IgCC</reason>
           <para>
             <num>701.4.7.1</num>
-            <title>Equipment Efficiency for the Alternate Renewables Approach.</title>
+            <heading>Equipment Efficiency for the Alternate Renewables Approach.</heading>
             <reason>Not adopted</reason>
           </para>
           <para>
             <num>701.4.7.2</num>
-            <title>Supermarket Heat Recovery.</title>
+            <heading>Supermarket Heat Recovery.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>701.4.7.3</num>
-            <title>ENERGY STAR Equipment.</title>
+            <heading>ENERGY STAR Equipment.</heading>
             <reason>As in IgCC</reason>
             <para>
               <num>701.4.7.3.1</num>
-              <title>ENERGY STAR Requirements for Equipment Covered by Federal Appliance Efficiency Regulations (All Building Projects).</title>
+              <heading>ENERGY STAR Requirements for Equipment Covered by Federal Appliance Efficiency Regulations (All Building Projects).</heading>
               <reason>As in IgCC</reason>
             </para>
             <para>
               <num>701.4.7.3.2</num>
-              <title>ENERGY STAR Requirements for Equipment Covered by Federal Appliance Efficiency Regulations (Alternate Renewables Approach).</title>
+              <heading>ENERGY STAR Requirements for Equipment Covered by Federal Appliance Efficiency Regulations (Alternate Renewables Approach).</heading>
               <reason>Not adopted</reason>
             </para>
           </para>
           <para>
             <num>701.4.7.4</num>
-            <title>Programmable Thermostats.</title>
+            <heading>Programmable Thermostats.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>701.4.7.5</num>
-            <title>Refrigerated Display Cases.</title>
+            <heading>Refrigerated Display Cases.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
         <para>
           <num>701.4.8</num>
-          <title>Energy Cost Budget.</title>
+          <heading>Energy Cost Budget.</heading>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -22098,12 +22098,12 @@
         <heading>5  Performance option  As in Baltimore City IECC § 401.2.1 (Options 1 or 2).</heading>
         <para>
           <num>701.5.1</num>
-          <title>Annual Energy Cost.</title>
+          <heading>Annual Energy Cost.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>701.5.2</num>
-          <title>Annual Carbon Dioxide Equivalent.</title>
+          <heading>Annual Carbon Dioxide Equivalent.</heading>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -22130,62 +22130,62 @@
         <heading>Mandatory Provisions</heading>
         <para>
           <num>801.3.1</num>
-          <title>Indoor Air Quality.</title>
+          <heading>Indoor Air Quality.</heading>
           <reason>As in IgCC</reason>
           <para>
             <num>801.3.1.1</num>
-            <title>Minimum Ventilation Rates.</title>
+            <heading>Minimum Ventilation Rates.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.3.1.2</num>
-            <title>Outdoor Air Delivery Monitoring.</title>
+            <heading>Outdoor Air Delivery Monitoring.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.3.1.3</num>
-            <title>Filtration and Air Cleaner.</title>
+            <heading>Filtration and Air Cleaner.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.3.1.4</num>
-            <title>Building Pressure.</title>
+            <heading>Building Pressure.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.3.1.5</num>
-            <title>Venting of Combustion Products.</title>
+            <heading>Venting of Combustion Products.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.3.1.6</num>
-            <title>Humidity Control.</title>
+            <heading>Humidity Control.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.3.1.7</num>
-            <title>Environmental Tobacco Smoke.</title>
+            <heading>Environmental Tobacco Smoke.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.3.1.8</num>
-            <title>Building Entrances.</title>
+            <heading>Building Entrances.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.3.1.9</num>
-            <title>Guest Room Preoccupancy Out-door Air Purge Cycle.</title>
+            <heading>Guest Room Preoccupancy Out-door Air Purge Cycle.</heading>
             <reason>Not adopted</reason>
           </para>
           <para>
             <num>801.3.1.10</num>
-            <title>Preoccupancy Ventilation Control.</title>
+            <heading>Preoccupancy Ventilation Control.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
         <para>
           <num>801.3.2</num>
-          <title>Thermal Environmental Conditions for Human Occupancy.</title>
+          <heading>Thermal Environmental Conditions for Human Occupancy.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
@@ -22209,7 +22209,7 @@
           </para>
           <para>
             <num>801.3.3.1</num>
-            <title>Documentation.</title>
+            <heading>Documentation.</heading>
             <reason>As in IgCC</reason>
             <para>
               <num>801.3.3.1.1</num>
@@ -22223,21 +22223,21 @@
             <text>The building envelope, interior spaces within the building, and building systems, including mechanical, electrical, and plumbing systems, shall be designed and constructed so that the interior sound pressure levels created by the combination of building systems noise and exterior sound sources, under normal operation with windows closed and no active sound masking systems, do not exceed the values specified in Table 801.3.3.2.  The hourly average sound pressure level may  not exceed the values listed in Table 801.3.3.2.   Outdoor noise levels must comply with Title 9 of the Baltimore City Health Article.</text>
             <para>
               <num>801.3.3.2.1</num>
-              <title>High-Noise Exterior Events.</title>
+              <heading>High-Noise Exterior Events.</heading>
               <reason>Not Adopted</reason>
             </para>
             <para>
               <num>801.3.3.2.2</num>
-              <title>Conformance.</title>
+              <heading>Conformance.</heading>
               <reason>As in IgCC</reason>
             </para>
             <para>
               <num>801.3.3.2.3</num>
-              <title>Interior Background Noise – Design.</title>
+              <heading>Interior Background Noise – Design.</heading>
               <reason>As in IgCC</reason>
               <para>
                 <num>801.3.3.2.3.1</num>
-                <title>Building Envelope.</title>
+                <heading>Building Envelope.</heading>
                 <reason>Not Adopted</reason>
               </para>
               <para>
@@ -22247,18 +22247,18 @@
               </para>
               <para>
                 <num>801.3.3.2.3.3</num>
-                <title>Penetrations and Fenestrations.</title>
+                <heading>Penetrations and Fenestrations.</heading>
                 <reason>As in IgCC</reason>
               </para>
               <para>
                 <num>801.3.3.2.3.4</num>
-                <title>Inspection.</title>
+                <heading>Inspection.</heading>
                 <reason>As in IgCC</reason>
               </para>
             </para>
             <para>
               <num>801.3.3.2.4</num>
-              <title>Interior Background Noise – Testing.</title>
+              <heading>Interior Background Noise – Testing.</heading>
               <reason>Not Adopted</reason>
               <text>
                 <table>
@@ -22400,16 +22400,16 @@
           </para>
           <para>
             <num>801.3.3.3</num>
-            <title>Interior Sound Transmission.</title>
+            <heading>Interior Sound Transmission.</heading>
             <reason>As in IgCC</reason>
             <para>
               <num>801.3.3.3.1</num>
-              <title>Conformance.</title>
+              <heading>Conformance.</heading>
               <reason>As in IgCC</reason>
             </para>
             <para>
               <num>801.3.3.3.2</num>
-              <title>Interior Sound Transmission – Design.</title>
+              <heading>Interior Sound Transmission – Design.</heading>
               <reason>As in IgCC</reason>
               <para>
                 <num>801.3.3.3.2.1</num>
@@ -22419,7 +22419,7 @@
             </para>
             <para>
               <num>801.3.3.3.3</num>
-              <title>Interior Sound Transmission – Testing.</title>
+              <heading>Interior Sound Transmission – Testing.</heading>
               <reason>Not Adopted</reason>
               <text>
                 <table>
@@ -22594,28 +22594,28 @@
           </para>
           <para>
             <num>801.3.3.5</num>
-            <title>Property Line Sound Levels.</title>
+            <heading>Property Line Sound Levels.</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
         <para>
           <num>801.3.4</num>
-          <title>Soil-Gas Control.</title>
+          <heading>Soil-Gas Control.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>801.3.5</num>
-          <title>Lighting Quality.</title>
+          <heading>Lighting Quality.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>801.3.6</num>
-          <title>Moisture Control.</title>
+          <heading>Moisture Control.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>801.3.7</num>
-          <title>Glare Control</title>
+          <heading>Glare Control</heading>
           <reason>As in IgCC</reason>
         </para>
       </section>
@@ -22636,7 +22636,7 @@
             </text>
             <para>
               <num>801.4.1.1.1</num>
-              <title>Minimum daylight area.</title>
+              <heading>Minimum daylight area.</heading>
               <reason>Not Adopted</reason>
             </para>
             <para name="801.4.1.1.2through801.4.1.3.">
@@ -22647,52 +22647,52 @@
         </para>
         <para>
           <num>801.4.2</num>
-          <title>Materials.</title>
+          <heading>Materials.</heading>
           <reason>As in IgCC</reason>
           <para>
             <num>801.4.2.1</num>
-            <title>Adhesives and Sealants.</title>
+            <heading>Adhesives and Sealants.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.4.2.2</num>
-            <title>Paints and Coatings.</title>
+            <heading>Paints and Coatings.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.4.2.3</num>
-            <title>Floor Covering Materials.</title>
+            <heading>Floor Covering Materials.</heading>
             <reason>As in IgCC</reason>
             <para>
               <num>801.4.2.3.1</num>
-              <title>Deemed to Comply.</title>
+              <heading>Deemed to Comply.</heading>
               <reason>As in IgCC</reason>
             </para>
           </para>
           <para>
             <num>801.4.2.4</num>
-            <title>Composite Wood, Wood Structural Panel, and Agrifiber Products.</title>
+            <heading>Composite Wood, Wood Structural Panel, and Agrifiber Products.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>801.4.2.5</num>
-            <title>Office Furniture Systems and Seating.</title>
+            <heading>Office Furniture Systems and Seating.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>801.4.2.6</num>
-            <title>Ceiling and Wall Assemblies.</title>
+            <heading>Ceiling and Wall Assemblies.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>801.4.2.7</num>
-            <title>Insulation.</title>
+            <heading>Insulation.</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
         <para>
           <num>801.4.3</num>
-          <title>Lighting for Presentations.</title>
+          <heading>Lighting for Presentations.</heading>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -22702,17 +22702,17 @@
         <heading>Performance option</heading>
         <para>
           <num>801.5.1</num>
-          <title>Daylight Simulation.</title>
+          <heading>Daylight Simulation.</heading>
           <reason>Not Adopted</reason>
         </para>
         <para>
           <num>801.5.2</num>
-          <title>Materials.</title>
+          <heading>Materials.</heading>
           <reason>As in IgCC</reason>
         </para>
         <para>
           <num>801.5.3</num>
-          <title>Lighting for Presentations.</title>
+          <heading>Lighting for Presentations.</heading>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -22748,12 +22748,12 @@
           </para>
           <para>
             <num>901.3.1.2</num>
-            <title>Total Waste.</title>
+            <heading>Total Waste.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>901.3.1.3.</num>
-            <title>Construction Waste Management.</title>
+            <heading>Construction Waste Management.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
@@ -22800,7 +22800,7 @@
           <heading>Construction.</heading>
           <para>
             <num>1001.3.1.1</num>
-            <title>Building Systems FPT.</title>
+            <heading>Building Systems FPT.</heading>
             <reason>As in IgCC</reason>
             <para>
               <num>1001.3.1.1.1</num>
@@ -22854,24 +22854,24 @@
               </para>
               <para>
                 <num>1001.3.1.1.1.2</num>
-                <title>Activities Prior to Building Occupancy for Facilities Using the FPT Process.</title>
+                <heading>Activities Prior to Building Occupancy for Facilities Using the FPT Process.</heading>
                 <reason>As in IgCC</reason>
               </para>
               <para>
                 <num>1001.3.1.1.1.3</num>
-                <title>Documentation.</title>
+                <heading>Documentation.</heading>
                 <reason>As in IgCC</reason>
               </para>
             </para>
             <para>
               <num>1001.3.1.1.2</num>
-              <title>Acoustical Control.</title>
+              <heading>Acoustical Control.</heading>
               <reason>Not Adopted</reason>
             </para>
           </para>
           <para>
             <num>1001.3.1.2</num>
-            <title>Building Project Commissioning (Cx) Process.</title>
+            <heading>Building Project Commissioning (Cx) Process.</heading>
             <reason>As in IgCC</reason>
             <para>
               <num>1001.3.1.2.1</num>
@@ -22893,7 +22893,7 @@
           </para>
           <para>
             <num>1001.3.1.3</num>
-            <title>Project Cx Documents.</title>
+            <heading>Project Cx Documents.</heading>
             <reason>As in IgCC</reason>
             <para name="1001.3.1.3.1through1001.3.1.3.4">
               <num from="1001.3.1.3.1" to="1001.3.1.3.4">1001.3.1.3.1 through 1001.3.1.3.4</num>
@@ -22901,18 +22901,18 @@
             </para>
             <para>
               <num>1001.3.1.3.5</num>
-              <title>Building Envelope Airtightness.</title>
+              <heading>Building Envelope Airtightness.</heading>
               <reason>Not Adopted</reason>
             </para>
             <para>
               <num>1001.3.1.3.6</num>
-              <title>Documentation.</title>
+              <heading>Documentation.</heading>
               <reason>As in IgCC</reason>
             </para>
           </para>
           <para>
             <num>1001.3.1.4</num>
-            <title>Erosion and Sedimentation Control.</title>
+            <heading>Erosion and Sedimentation Control.</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -22929,7 +22929,7 @@
               <text>For preK-12  schools and health-care projects, after construction ends, prior to occupancy and with all interior finishes installed, a postconstruction, preoccupancy building flush-out, as described in § 1001.3.1.5(b)(1), or a postconstruction, preoccupancy baseline IAQ monitoring, as described in § 1001.3.1.5(b)(2), must be performed:</text>
               <para>
                 <num>1.</num>
-                <title>Postconstruction, preoccupancy flushout.</title>
+                <heading>Postconstruction, preoccupancy flushout.</heading>
                 <reason>As in IgCC</reason>
               </para>
               <para>
@@ -23098,33 +23098,33 @@
           </para>
           <para>
             <num>1001.3.1.6</num>
-            <title>Moisture Control</title>
+            <heading>Moisture Control</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>1001.3.1.7</num>
-            <title>Construction Activity Pollution Prevention: Idling of Construction Vehicles.</title>
+            <heading>Construction Activity Pollution Prevention: Idling of Construction Vehicles.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>1001.3.1.8</num>
-            <title>Construction Activity Pollution Prevention: Protection of Occupied Areas.</title>
+            <heading>Construction Activity Pollution Prevention: Protection of Occupied Areas.</heading>
             <reason>As in IgCC</reason>
           </para>
           <para>
             <num>1001.3.1.9</num>
-            <title>Soil-Gas Control</title>
+            <heading>Soil-Gas Control</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
             <num>1001.3.1.10</num>
-            <title>Construction Waste Management.</title>
+            <heading>Construction Waste Management.</heading>
             <reason>As in IgCC</reason>
           </para>
         </para>
         <para>
           <num>1001.3.2</num>
-          <title>Plans for Operation.</title>
+          <heading>Plans for Operation.</heading>
           <reason>Not Adopted</reason>
         </para>
       </section>
@@ -23637,7 +23637,7 @@
         </para>
         <para>
           <num>103.4</num>
-          <title>Liability.</title>
+          <heading>Liability.</heading>
           <reason>Not Adopted.  See state courts article § 5-302</reason>
         </para>
       </section>
@@ -23661,7 +23661,7 @@
         </para>
         <para>
           <num>104.5</num>
-          <title>Identification.</title>
+          <heading>Identification.</heading>
           <reason>As in ISPSC</reason>
         </para>
         <para>
@@ -23676,7 +23676,7 @@
         </para>
         <para>
           <num>104.8</num>
-          <title>Modifications.</title>
+          <heading>Modifications.</heading>
           <reason>As in ISPSC</reason>
         </para>
         <para>
@@ -23694,17 +23694,17 @@
         </para>
         <para>
           <num>104.10</num>
-          <title>Required testing.</title>
+          <heading>Required testing.</heading>
           <reason>As in ISPSC</reason>
         </para>
         <para>
           <num>104.11</num>
-          <title>Alternative engineered design.</title>
+          <heading>Alternative engineered design.</heading>
           <reason>As in ISPSC</reason>
         </para>
         <para>
           <num>104.12</num>
-          <title>Material and equipment reuse.</title>
+          <heading>Material and equipment reuse.</heading>
           <reason>As in ISPSC</reason>
         </para>
       </section>
@@ -23714,7 +23714,7 @@
         <heading>Permits</heading>
         <para>
           <num>105.1</num>
-          <title>When required.</title>
+          <heading>When required.</heading>
           <reason>As in ISPSC</reason>
         </para>
         <para>
@@ -23724,26 +23724,26 @@
         </para>
         <para>
           <num>105.3</num>
-          <title>Construction documents.</title>
+          <heading>Construction documents.</heading>
           <reason>As in ISPSC</reason>
         </para>
         <para>
           <num>105.4</num>
-          <title>Time limitation of application.</title>
+          <heading>Time limitation of application.</heading>
           <reason>As in ISPSC</reason>
         </para>
         <para>
           <num>105.5</num>
-          <title>Permit issuance.</title>
+          <heading>Permit issuance.</heading>
           <reason>As in ISPSC</reason>
           <para>
             <num>105.5.1</num>
-            <title>Approved construction documents.</title>
+            <heading>Approved construction documents.</heading>
             <reason>As in ISPSC</reason>
           </para>
           <para>
             <num>105.5.2</num>
-            <title>Validity.</title>
+            <heading>Validity.</heading>
             <reason>As in ISPSC</reason>
           </para>
           <para>
@@ -23763,17 +23763,17 @@
           </para>
           <para>
             <num>105.5.6</num>
-            <title>Retention of construction documents.</title>
+            <heading>Retention of construction documents.</heading>
             <reason>As in ISPSC</reason>
           </para>
         </para>
         <para>
           <num>105.6</num>
-          <title>Fees.</title>
+          <heading>Fees.</heading>
           <reason>As in ISPSC</reason>
           <para>
             <num>105.6.1</num>
-            <title>Work commencing before permit issuance</title>
+            <heading>Work commencing before permit issuance</heading>
             <reason>Not Adopted</reason>
           </para>
           <para>
@@ -23783,7 +23783,7 @@
           </para>
           <para>
             <num>105.6.3</num>
-            <title>Fee refunds</title>
+            <heading>Fee refunds</heading>
             <reason>Not Adopted</reason>
           </para>
         </para>
@@ -23851,7 +23851,7 @@
         </para>
         <para>
           <num>201.4</num>
-          <title>Terms not defined.</title>
+          <heading>Terms not defined.</heading>
           <reason>As in ISPSC</reason>
         </para>
       </section>
@@ -23931,7 +23931,7 @@
         <heading>Flood Hazard Areas</heading>
         <para>
           <num>304.1</num>
-          <title>General.</title>
+          <heading>General.</heading>
           <reason>As in ISPSC</reason>
         </para>
         <para>
