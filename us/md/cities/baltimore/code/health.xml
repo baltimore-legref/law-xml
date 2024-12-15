@@ -3769,7 +3769,9 @@
           <num>(c)</num>
           <heading>Text of warning.</heading>
           <text>The warning must warn the consumer against the hazard of suffocation by children in the following or substantially equivalent wording:</text>
-          <text>"Warning:  To avoid danger of suffocation, keep away from babies and children.  Do not use in cribs, beds, carriages, or playpens.  This bag is not a toy."</text>
+          <include>
+            <text>"Warning:  To avoid danger of suffocation, keep away from babies and children.  Do not use in cribs, beds, carriages, or playpens.  This bag is not a toy."</text>
+          </include>
         </para>
         <para>
           <num>(d)</num>
