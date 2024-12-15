@@ -434,7 +434,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|2|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Cooperation with Department</heading>
@@ -541,7 +541,7 @@
           <prefix>§</prefix>
           <num>2-213</num>
           <heading>Failure to obey notice or order: $200 plus $50/day.</heading>
-          <text>Unless a higher penalty is specified in <cite path="|health">this article</cite> for the same offense, the penalty for a violation of § 2-207 {"Failure to comply with order or notice"} of this subtitle is a fine of not more than $200 for each offense, plus $50 for each day that the offense continues.</text>
+          <text>Unless a higher penalty is specified in <cite path="|health">this article</cite> for the same offense, the penalty for a violation of <cite path="|health|§2-207">§ 2-207 {"Failure to comply with order or notice"} of this subtitle</cite> is a fine of not more than $200 for each offense, plus $50 for each day that the offense continues.</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §6(last cl.)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -549,7 +549,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="health|2|3">
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Administrative Hearings</heading>
@@ -710,7 +710,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>the right of a party to call witnesses and submit documents or other evidence under § 2-305 of this subtitle; and</text>
+              <text>the right of a party to call witnesses and submit documents or other evidence under <cite path="|health|§2-305">§ 2-305 of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(iv)</num>
@@ -1109,7 +1109,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|3|5">
       <prefix>Subtitle</prefix>
       <num>5</num>
       <heading>Limited-Service Pregnancy Centers</heading>
@@ -1196,7 +1196,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The failure to comply with an order issued under § 3-503 {"Violation notice"} of this subtitle may be enforced by issuance of:</text>
+          <text>The failure to comply with an order issued under <cite path="|health|§3-503">§ 3-503 {"Violation notice"} of this subtitle</cite> may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
             <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
@@ -1217,7 +1217,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="health|4">
     <prefix>Title</prefix>
     <num>4</num>
     <heading>Disease Control</heading>
@@ -1298,7 +1298,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|4|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Reporting Diseases — In General</heading>
@@ -1323,7 +1323,7 @@
           <para>
             <num>(c)</num>
             <heading>Contents of report.</heading>
-            <text>In addition to the information required by § 4-102 {"Form and contents of reports"} of this title, the report must contain the following information:</text>
+            <text>In addition to the information required by <cite path="|health|§4-102">§ 4-102 {"Form and contents of reports"} of this title</cite>, the report must contain the following information:</text>
             <para>
               <num>(1)</num>
               <text>the identity of the disease or condition; and</text>
@@ -1378,7 +1378,7 @@
           <para>
             <num>(d)</num>
             <heading>Contents of report.</heading>
-            <text>In addition to the information required by § 4-102 {"Form and contents of reports"} of this title, the report must contain the following information:</text>
+            <text>In addition to the information required by <cite path="|health|§4-102">§ 4-102 {"Form and contents of reports"} of this title</cite>, the report must contain the following information:</text>
             <para>
               <num>(1)</num>
               <text>the identity of the disease or condition; and</text>
@@ -1391,7 +1391,7 @@
           <para>
             <num>(e)</num>
             <heading>Nature of report.</heading>
-            <text>The reporting of a disease or condition under this section does not absolve the attending physician of the duty to report the same disease or condition under § 4-201 {"Physicians"} of this subtitle.</text>
+            <text>The reporting of a disease or condition under this section does not absolve the attending physician of the duty to report the same disease or condition under <cite path="|health|§4-201">§ 4-201 {"Physicians"} of this subtitle</cite>.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §205(a) - (d), (e)(2nd cl.)</annotation>
@@ -1432,7 +1432,7 @@
           <para>
             <num>(c)</num>
             <heading>Contents of report.</heading>
-            <text>In addition to the information required by § 4-102 {"Form and contents of reports"} of this title, the report must contain the following information:</text>
+            <text>In addition to the information required by <cite path="|health|§4-102">§ 4-102 {"Form and contents of reports"} of this title</cite>, the report must contain the following information:</text>
             <para>
               <num>(1)</num>
               <text>the date and type of test performed;</text>
@@ -1460,7 +1460,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>does not absolve the attending physician of the duty to report her or his diagnosis of the case under § 4-201 {"Physicians"} of this subtitle.</text>
+              <text>does not absolve the attending physician of the duty to report her or his diagnosis of the case under <cite path="|health|§4-201">§ 4-201 {"Physicians"} of this subtitle</cite>.</text>
             </para>
           </para>
           <annotations>
@@ -1485,7 +1485,7 @@
             <text>The referral of cultures does not:</text>
             <para>
               <num>(1)</num>
-              <text>satisfy the reporting requirements of § 4-203 {"Laboratories — in general"} of this subtitle; or</text>
+              <text>satisfy the reporting requirements of <cite path="|health|§4-203">§ 4-203 {"Laboratories — in general"} of this subtitle</cite>; or</text>
             </para>
             <para>
               <num>(2)</num>
@@ -1574,7 +1574,7 @@
           <para>
             <num>(d)</num>
             <heading>Contents of report.</heading>
-            <text>In addition to the information required by § 4-102 {"Form and contents of reports"} of this title, the report must contain the following information:</text>
+            <text>In addition to the information required by <cite path="|health|§4-102">§ 4-102 {"Form and contents of reports"} of this title</cite>, the report must contain the following information:</text>
             <para>
               <num>(1)</num>
               <text>the name and location of the vessel;</text>
@@ -1595,7 +1595,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="health|4|3">
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Reporting Diseases — Tuberculosis</heading>
@@ -1635,7 +1635,7 @@
         <para>
           <num>(c)</num>
           <heading>Contents of report.</heading>
-          <text>In addition to the information required by § 4-102 {"Form and contents of reports"} of this title, the report must contain the following information:</text>
+          <text>In addition to the information required by <cite path="|health|§4-102">§ 4-102 {"Form and contents of reports"} of this title</cite>, the report must contain the following information:</text>
           <para>
             <num>(1)</num>
             <text>the type, and strength of medication issued;</text>
@@ -1671,7 +1671,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>does not absolve the attending physician of the duty to report her or his diagnosis of the case under § 4-201 {"Physicians"} of this subtitle.</text>
+            <text>does not absolve the attending physician of the duty to report her or his diagnosis of the case under <cite path="|health|§4-201">§ 4-201 {"Physicians"} of this subtitle</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -1728,7 +1728,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>the personal information listed in § 4-102 {"Form and contents of reports"} of this title.</text>
+              <text>the personal information listed in <cite path="|health|§4-102">§ 4-102 {"Form and contents of reports"} of this title</cite>.</text>
             </para>
           </para>
         </para>
@@ -1802,7 +1802,7 @@
         <para>
           <num>(c)</num>
           <heading>Contents of report.</heading>
-          <text>In addition to the information required by § 4-102 {"Form and contents of reports"} of this title, the report must contain the place of death.</text>
+          <text>In addition to the information required by <cite path="|health|§4-102">§ 4-102 {"Form and contents of reports"} of this title</cite>, the report must contain the place of death.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §209(a)</annotation>
@@ -1810,7 +1810,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|4|4">
       <prefix>Subtitle</prefix>
       <num>4</num>
       <heading>Controlling Communicable Diseases</heading>
@@ -1981,11 +1981,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>remove or deface any notice posted under § 4-404 {"Action to prevent spread; public notice of disease"} of this subtitle;</text>
+          <text>remove or deface any notice posted under <cite path="|health|§4-404">§ 4-404 {"Action to prevent spread; public notice of disease"} of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>refuse, neglect, or otherwise fail to comply fully with an order for medical isolation issued under authority of § 4-406 {"Medical isolation"} of this subtitle;</text>
+          <text>refuse, neglect, or otherwise fail to comply fully with an order for medical isolation issued under authority of <cite path="|health|§4-406">§ 4-406 {"Medical isolation"} of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2001,7 +2001,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|4|5">
       <prefix>Subtitle</prefix>
       <num>5</num>
       <heading>Immunizations</heading>
@@ -2032,7 +2032,7 @@
           <prefix>§</prefix>
           <num>4-503</num>
           <heading>Parental responsibility.</heading>
-          <text>Except as specified in § 4-506 {"Exceptions"} of this subtitle, every parent and guardian must provide for the timely and appropriate immunization of their minor children against all immunization-preventable childhood diseases, as specified by rule or regulation that the  Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
+          <text>Except as specified in <cite path="|health|§4-506">§ 4-506 {"Exceptions"} of this subtitle</cite>, every parent and guardian must provide for the timely and appropriate immunization of their minor children against all immunization-preventable childhood diseases, as specified by rule or regulation that the  Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §199</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -2150,7 +2150,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="health|4|6">
       <prefix>Subtitle</prefix>
       <num>6</num>
       <heading>Lead Poisoning</heading>
@@ -2162,7 +2162,7 @@
           <prefix>§</prefix>
           <num>4-601</num>
           <heading>Parental responsibility.</heading>
-          <text>Except as specified in § 4-603 {"Exceptions"} of this subtitle, every parent and guardian must provide for the timely and appropriate testing for lead poisoning of his or her minor children, as specified by the rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
+          <text>Except as specified in <cite path="|health|§4-603">§ 4-603 {"Exceptions"} of this subtitle</cite>, every parent and guardian must provide for the timely and appropriate testing for lead poisoning of his or her minor children, as specified by the rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 00-020" type="History">Ord. 00-020</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
@@ -2173,7 +2173,7 @@
           <prefix>§</prefix>
           <num>4-602</num>
           <heading>Provider's responsibility.</heading>
-          <text>Except as specified in § 4-603 {"Exceptions"} of this subtitle, every pediatric and primary care health provider must order the timely and appropriate testing for lead poisoning of his or her minor patients, as specified by the rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
+          <text>Except as specified in <cite path="|health|§4-603">§ 4-603 {"Exceptions"} of this subtitle</cite>, every pediatric and primary care health provider must order the timely and appropriate testing for lead poisoning of his or her minor patients, as specified by the rules and regulations that the Commissioner adopts under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 00-020" type="History">Ord. 00-020</annotation>
             <annotation type="History">Text Conformed 03/10/21</annotation>
@@ -2206,7 +2206,7 @@
           <para>
             <num>(c)</num>
             <heading>Civil penalties — Providers.</heading>
-            <text>Any provider who violates any provision of § 4-602 {"Provider's responsibility"} of this subtitle or of a rule or regulation adopted under it is subject to a civil penalty of not more than $100 for each violation.</text>
+            <text>Any provider who violates any provision of <cite path="|health|§4-602">§ 4-602 {"Provider's responsibility"} of this subtitle</cite> or of a rule or regulation adopted under it is subject to a civil penalty of not more than $100 for each violation.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -2556,7 +2556,7 @@
         <para>
           <num>(a)</num>
           <heading>Duty to report.</heading>
-          <text>The reporting officer of each hospital, related institution, clinic, or other health care facility, as appointed under § 4-202 of this title, must report to the Commissioner on all emergency department visits by individuals who evidence suspect symptoms.</text>
+          <text>The reporting officer of each hospital, related institution, clinic, or other health care facility, as appointed under <cite path="|health|§4-202">§ 4-202 of this title</cite>, must report to the Commissioner on all emergency department visits by individuals who evidence suspect symptoms.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2637,7 +2637,7 @@
         <prefix>§</prefix>
         <num>4-903</num>
         <heading>Failure to vaccinate: $500.</heading>
-        <text>The penalty for a violation of § 4-503 {"Parental responsibility"} of this title is a fine of not more than $500 for each offense.</text>
+        <text>The penalty for a violation of <cite path="|health|§4-503">§ 4-503 {"Parental responsibility"} of this title</cite> is a fine of not more than $500 for each offense.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §204(2nd cl.)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -2725,7 +2725,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|5|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Nuisance Abatement — Generally</heading>
@@ -2857,7 +2857,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>posting or publishing notice under § 5-204 {"Service of notice"} of this subtitle.</text>
+            <text>posting or publishing notice under <cite path="|health|§5-204">§ 5-204 {"Service of notice"} of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -3144,7 +3144,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|5|5">
       <prefix>Subtitle</prefix>
       <num>5</num>
       <heading>Bodily Wastes</heading>
@@ -3204,7 +3204,7 @@
         <prefix>§</prefix>
         <num>5-504</num>
         <heading>Urinating or defecating in public places — parents or guardians of minors.</heading>
-        <text>A parent or guardian may not knowingly permit a minor for whom the parent or guardian is responsible to violate § 5-503 {"Urinating or defecating in public places — in general"} of this subtitle.</text>
+        <text>A parent or guardian may not knowingly permit a minor for whom the parent or guardian is responsible to violate <cite path="|health|§5-503">§ 5-503 {"Urinating or defecating in public places — in general"} of this subtitle</cite>.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §171A(b)(3)(i)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -3221,7 +3221,7 @@
         <para>
           <num>(a)</num>
           <heading>Order to stop.</heading>
-          <text>A police officer who finds any minor violating § 5-503 {"Urinating or defecating in public places — in general"} of this subtitle must order the minor to stop the violation.</text>
+          <text>A police officer who finds any minor violating <cite path="|health|§5-503">§ 5-503 {"Urinating or defecating in public places — in general"} of this subtitle</cite> must order the minor to stop the violation.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3286,7 +3286,7 @@
         <para>
           <num>(a)</num>
           <heading>Spitting: $25/ $50.</heading>
-          <text>Any person who violates any provision of § 5-501 {"Spitting in public places"} of this subtitle is guilty of a misdemeanor and, on conviction, is subject to:</text>
+          <text>Any person who violates any provision of <cite path="|health|§5-501">§ 5-501 {"Spitting in public places"} of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to:</text>
           <para>
             <num>(1)</num>
             <text>for a first offense, a fine of not more than $25; and</text>
@@ -3299,12 +3299,12 @@
         <para>
           <num>(b)</num>
           <heading>Urinating or defecating — adult offenders: $500 and 30 days.</heading>
-          <text>Any adult who violates § 5-503 {"Urinating or defecating in public places — in general"} of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 30 days or to both fine and imprisonment for each offense.</text>
+          <text>Any adult who violates <cite path="|health|§5-503">§ 5-503 {"Urinating or defecating in public places — in general"} of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or to imprisonment for not more than 30 days or to both fine and imprisonment for each offense.</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>Urinating or defecating — parent or guardian of minor: $200.</heading>
-          <text>Any parent or guardian who violates § 5-504 {"Urinating or defecating in public places — parents or guardians of minors"} of this subtitle within 12 months after receiving written notice of the minor's having violated § 5-504 {"Urinating or defecating in public places — in general"} of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $200 for each offense.</text>
+          <text>Any parent or guardian who violates <cite path="|health|§5-504">§ 5-504 {"Urinating or defecating in public places — parents or guardians of minors"} of this subtitle</cite> within 12 months after receiving written notice of the minor's having violated <cite path="|health|§5-504">§ 5-504 {"Urinating or defecating in public places — in general"} of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $200 for each offense.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §140, art. 19, §171A(b)(3)(ii), (5)</annotation>
@@ -3642,7 +3642,7 @@
       <num>8</num>
       <reason>Reserved</reason>
     </container>
-    <container>
+    <container cache:ref-path="health|5|9">
       <prefix>Subtitle</prefix>
       <num>9</num>
       <heading>Miscellaneous Requirements</heading>
@@ -3856,7 +3856,7 @@
           <heading>Abandoned refrigerators: $500 and 30 days.</heading>
           <para>
             <num>(1)</num>
-            <text>For a person who violates any provision of § 5-906 {"Abandoned refrigerators, etc."} of this subtitle, the penalty is a fine of not more than $500 or imprisonment for not more than 30 days or both fine and imprisonment for each offense.</text>
+            <text>For a person who violates any provision of <cite path="|health|§5-906">§ 5-906 {"Abandoned refrigerators, etc."} of this subtitle</cite>, the penalty is a fine of not more than $500 or imprisonment for not more than 30 days or both fine and imprisonment for each offense.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3870,7 +3870,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="health|6">
     <prefix>Title</prefix>
     <num>6</num>
     <heading>Food Service Facilities</heading>
@@ -3957,7 +3957,7 @@
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this title "person" also includes, except as used in <cite path="|general|6|8|6-802" proof="needed">§ 6-802 {"Penalties"}</cite> of this title, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this title "person" also includes, except as used in <cite path="|health|§6-802">§ 6-802 {"Penalties"} of this title</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <annotations>
@@ -4376,7 +4376,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|6|4">
       <prefix>Subtitle</prefix>
       <num>4</num>
       <heading>Fees</heading>
@@ -4414,7 +4414,7 @@
         <prefix>§</prefix>
         <num>6-403</num>
         <heading>Annual license fees.</heading>
-        <text>Subject to § 6-404 {"Reduced fee for certain tax exempt entities"} and § 6-405 {"Waived fee for certain day care centers"} of this subtitle, the annual license fee for each class of food service facility is as set from time to time by the Commissioner, with the approval of the City Council.</text>
+        <text>Subject to § 6-404 {"Reduced fee for certain tax exempt entities"} and <cite path="|health|§6-405">§ 6-405 {"Waived fee for certain day care centers"} of this subtitle</cite>, the annual license fee for each class of food service facility is as set from time to time by the Commissioner, with the approval of the City Council.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §165(a)12(2nd sen.), (d)(1)</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -4998,7 +4998,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|6|6">
       <prefix>Subtitle</prefix>
       <num>6</num>
       <heading>Suspensions and Revocations</heading>
@@ -5067,7 +5067,7 @@
         <para>
           <num>(a)</num>
           <heading>Order of violation and suspension.</heading>
-          <text>If the Commissioner considers it necessary in the interest of public health, the Commissioner may issue an order of immediate suspension to the facility without having first issued a violation notice under § 6-601 {"Notice of violation or hazard"} of this subtitle.</text>
+          <text>If the Commissioner considers it necessary in the interest of public health, the Commissioner may issue an order of immediate suspension to the facility without having first issued a violation notice under <cite path="|health|§6-601">§ 6-601 {"Notice of violation or hazard"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5431,7 +5431,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="health|7">
     <prefix>Title</prefix>
     <num>7</num>
     <heading>Waste Control</heading>
@@ -5688,7 +5688,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|7|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Solid Waste Collection</heading>
@@ -6200,7 +6200,7 @@
           <para>
             <num>(b)</num>
             <heading>Warnings.</heading>
-            <text>This list must contain a notice of the prohibition in § 7-226 {"Prohibited conduct"} of this subtitle against using an unlicensed hauler.</text>
+            <text>This list must contain a notice of the prohibition in <cite path="|health|§7-226">§ 7-226 {"Prohibited conduct"} of this subtitle</cite> against using an unlicensed hauler.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §268(d)</annotation>
@@ -6362,7 +6362,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|7|4">
       <prefix>Subtitle</prefix>
       <num>4</num>
       <heading>Landfills</heading>
@@ -6395,7 +6395,7 @@
             <para>
               <num>(2)</num>
               <heading>Qualified inclusion of governmental entities.</heading>
-              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|7|4|7-419" proof="needed">§ 7-419 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|health|§7-419">§ 7-419 {"Penalties"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
             </para>
           </para>
           <annotations>
@@ -6747,7 +6747,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|7|6">
       <prefix>Subtitle</prefix>
       <num>6</num>
       <heading>Prohibited Disposal</heading>
@@ -7309,7 +7309,7 @@
           <prefix>§</prefix>
           <num>7-628</num>
           <heading>Liability for costs and expenses.</heading>
-          <text>Any person who, in violation of § 7-608 {"Dumping on public property"} of this subtitle or in violation of any other provision of law, dumps or otherwise disposes of matter in or on property owned, leased, or controlled by the City is liable to the City for the costs of:</text>
+          <text>Any person who, in violation of <cite path="|health|§7-608">§ 7-608 {"Dumping on public property"} of this subtitle</cite> or in violation of any other provision of law, dumps or otherwise disposes of matter in or on property owned, leased, or controlled by the City is liable to the City for the costs of:</text>
           <para>
             <num>(1)</num>
             <text>removing the matter dumped or disposed of; and</text>
@@ -7408,7 +7408,7 @@
         <prefix>§</prefix>
         <num>7-701</num>
         <heading>"Litter" defined.</heading>
-        <text>"Litter" means to discard or otherwise dispose of, in any way other than as authorized by § 7-601 of this title, of small amounts of paper, beverage containers, glass, garbage, or other waste that:</text>
+        <text>"Litter" means to discard or otherwise dispose of, in any way other than as authorized by <cite path="|health|§7-601">§ 7-601 of this title</cite>, of small amounts of paper, beverage containers, glass, garbage, or other waste that:</text>
         <para>
           <num>(1)</num>
           <text>weigh less than 1 pound;</text>
@@ -7616,7 +7616,7 @@
           <reason>Reserved</reason>
         </section>
       </container>
-      <container>
+      <container cache:ref-path="health|8|1|II">
         <prefix>Part</prefix>
         <num>II</num>
         <heading>Commercial Solid Waste Incinerators</heading>
@@ -7878,7 +7878,7 @@
               <text>Each facility must provide a daily report to its Air Monitoring Contractor that details:</text>
               <para>
                 <num>(i)</num>
-                <text>the daily emissions from the facility of the pollutants listed in § 8-114 {"Pollutants to be continuously monitored"} of this Part II; and</text>
+                <text>the daily emissions from the facility of the pollutants listed in <cite path="|health|§8-114">§ 8-114 {"Pollutants to be continuously monitored"} of this Part II</cite>; and</text>
               </para>
               <para>
                 <num>(ii)</num>
@@ -7919,11 +7919,11 @@
             <heading>In general.</heading>
             <para>
               <num>(1)</num>
-              <text>The Air Monitoring Contractor must disclose the information it receives in the daily reports required by § 8-120(a) {"Required CEMS reports: Reports required"} of this Part II to the public on a publicly accessible webpage capable of providing an easy to read graphical portrayal of the information.</text>
+              <text>The Air Monitoring Contractor must disclose the information it receives in the daily reports required by <cite path="|health|§8-120|(a)">§ 8-120(a) {"Required CEMS reports: Reports required"} of this Part II</cite> to the public on a publicly accessible webpage capable of providing an easy to read graphical portrayal of the information.</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>The Air Monitoring Contractor must archive all of the daily reports received from a facility under § 8-120 {"Required CEMS reports"} of this Part II  and make this archived historical data, together with all data provided by the facility under § 8-120(d) {"Required CEMS reports: Historical reports"}, available on a publicly accessible webpage capable of providing an easy to read graphical portrayal of the information.</text>
+              <text>The Air Monitoring Contractor must archive all of the daily reports received from a facility under <cite path="|health|§8-120">§ 8-120 {"Required CEMS reports"} of this Part II</cite>  and make this archived historical data, together with all data provided by the facility under § 8-120(d) {"Required CEMS reports: Historical reports"}, available on a publicly accessible webpage capable of providing an easy to read graphical portrayal of the information.</text>
             </para>
           </para>
           <para>
@@ -7988,11 +7988,11 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>performing regular inspections as required by§ 8-122 {"Inspections"} of this Part II; and</text>
+              <text>performing regular inspections as required by<cite path="|health|§8-122">§ 8-122 {"Inspections"} of this Part II</cite>; and</text>
             </para>
             <para>
               <num>(3)</num>
-              <text>developing software utilities capable of capturing and publically displaying CEMS data needed for the daily reports required by § 8-120 {"Required CEMS reports"} of this Part II.</text>
+              <text>developing software utilities capable of capturing and publically displaying CEMS data needed for the daily reports required by <cite path="|health|§8-120">§ 8-120 {"Required CEMS reports"} of this Part II</cite>.</text>
             </para>
           </para>
           <para>
@@ -8037,7 +8037,7 @@
           <para>
             <num>(b)</num>
             <heading>Multiple simultaneous violations.</heading>
-            <text>If a person is responsible for simultaneous violations of more than 1 section of this Part II, simultaneously failing to monitor, measure, and disclose the emission of more than 1 pollutant as required by § 8-114 {"Pollutants to be continuously monitored"} of this Part II, or simultaneously violating more than 1 standard required by § 8-116 {"Emission limits"} of this Part II, each separate violation constitutes a separate offense.</text>
+            <text>If a person is responsible for simultaneous violations of more than 1 section of this Part II, simultaneously failing to monitor, measure, and disclose the emission of more than 1 pollutant as required by <cite path="|health|§8-114">§ 8-114 {"Pollutants to be continuously monitored"} of this Part II</cite>, or simultaneously violating more than 1 standard required by <cite path="|health|§8-116">§ 8-116 {"Emission limits"} of this Part II</cite>, each separate violation constitutes a separate offense.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -8057,7 +8057,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="health|8|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Open Burning</heading>
@@ -8108,7 +8108,7 @@
         <prefix>§</prefix>
         <num>8-203</num>
         <heading>Open burning prohibited.</heading>
-        <text>Except as specified in § 8-204 {"Exceptions"} of this subtitle, no person may permit or carry on any open burning of waste.</text>
+        <text>Except as specified in <cite path="|health|§8-204">§ 8-204 {"Exceptions"} of this subtitle</cite>, no person may permit or carry on any open burning of waste.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §19</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -8369,7 +8369,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|9|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Basic Sound Level Standards</heading>
@@ -8411,7 +8411,7 @@
             <para>
               <num>(2)</num>
               <heading>Qualified inclusion of governmental entities.</heading>
-              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|9|2|9-218" proof="needed">§ 9-218 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|health|§9-218">§ 9-218 {"Penalties"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
             </para>
           </para>
           <para>
@@ -8657,14 +8657,14 @@
           <prefix>§</prefix>
           <num>9-207</num>
           <heading>Nighttime sound reductions.</heading>
-          <text>Between the hours of 9 p.m. and 7 a.m., the maximum permissible sound specified in § 9-206 {"Limits"} of this subtitle must be reduced by 5 dB(A) for any use that:</text>
+          <text>Between the hours of 9 p.m. and 7 a.m., the maximum permissible sound specified in <cite path="|health|§9-206">§ 9-206 {"Limits"} of this subtitle</cite> must be reduced by 5 dB(A) for any use that:</text>
           <para>
             <num>(1)</num>
             <text>borders on a residential zone; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>except for the level permitted by § 9-206(d)(2) of this subtitle, is in a residential zone.</text>
+            <text>except for the level permitted by <cite path="|health|§9-206|(d)|(2)">§ 9-206(d)(2) of this subtitle</cite>, is in a residential zone.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §236(a)</annotation>
@@ -8678,7 +8678,7 @@
           <para>
             <num>(a)</num>
             <heading>Short, durational deviations.</heading>
-            <text>The maximum permissible sound levels specified in § 9-206 {"Limits"} of this subtitle may be exceeded by no more than:</text>
+            <text>The maximum permissible sound levels specified in <cite path="|health|§9-206">§ 9-206 {"Limits"} of this subtitle</cite> may be exceeded by no more than:</text>
             <para>
               <num>(1)</num>
               <text>5 dB(A) for a total of not more than 12 minutes in any 1-hour period;</text>
@@ -8708,7 +8708,7 @@
           <para>
             <num>(c)</num>
             <heading>Home activities — air conditioners; heat pumps.</heading>
-            <text>Air conditioning and heat pump equipment used to cool or heat housing on residential property may exceed the maximum sound levels specified in § 9-206 {"Limits"} of this subtitle as long as the sound level does not exceed:</text>
+            <text>Air conditioning and heat pump equipment used to cool or heat housing on residential property may exceed the maximum sound levels specified in <cite path="|health|§9-206">§ 9-206 {"Limits"} of this subtitle</cite> as long as the sound level does not exceed:</text>
             <para>
               <num>(1)</num>
               <text>for air conditioning equipment, 70 dB(A) at any point on the property line of any other residential property; and</text>
@@ -8964,7 +8964,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="health|9|3">
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Entertainment and Commercial Noise</heading>
@@ -9147,7 +9147,7 @@
           <prefix>§</prefix>
           <num>9-306</num>
           <heading>Prohibited conduct — in general.</heading>
-          <text>Except as authorized under § 9-303 {"Temporary exemptions"} of this subtitle, no person may play, operate, or permit to be played or operated any radio, musical instrument, phonograph, tape- or compact disc-player, or other device for the production or reproduction of sound if:</text>
+          <text>Except as authorized under <cite path="|health|§9-303">§ 9-303 {"Temporary exemptions"} of this subtitle</cite>, no person may play, operate, or permit to be played or operated any radio, musical instrument, phonograph, tape- or compact disc-player, or other device for the production or reproduction of sound if:</text>
           <para>
             <num>(1)</num>
             <text>that sound is used or intended for entertainment; and</text>
@@ -9177,7 +9177,7 @@
           <prefix>§</prefix>
           <num>9-307</num>
           <heading>Prohibited conduct —parents or guardians of minors.</heading>
-          <text>A parent or guardian may not knowingly permit a minor for whom the parent or guardian is responsible to violate § 9-306 {"Prohibited conduct — in general"} of this subtitle.</text>
+          <text>A parent or guardian may not knowingly permit a minor for whom the parent or guardian is responsible to violate <cite path="|health|§9-306">§ 9-306 {"Prohibited conduct — in general"} of this subtitle</cite>.</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §221(c)(3)(i)</annotation>
             <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -9209,7 +9209,7 @@
           <para>
             <num>(a)</num>
             <heading>Order to stop.</heading>
-            <text>A police officer who finds any minor violating § 9-306 {"Prohibited conduct — in general"} of this subtitle must order the minor to stop the violation.</text>
+            <text>A police officer who finds any minor violating <cite path="|health|§9-306">§ 9-306 {"Prohibited conduct — in general"} of this subtitle</cite> must order the minor to stop the violation.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -9331,24 +9331,24 @@
           <para>
             <num>(b)</num>
             <heading>Entertainment noise — adult offenders: $500 and 30 days.</heading>
-            <text>For an adult who violates § 9-306 {"Prohibited conduct — in general"} of this subtitle, the penalty is a fine of not more $500 or imprisonment for not more than 30 days or both fine and imprisonment for each offense.</text>
+            <text>For an adult who violates <cite path="|health|§9-306">§ 9-306 {"Prohibited conduct — in general"} of this subtitle</cite>, the penalty is a fine of not more $500 or imprisonment for not more than 30 days or both fine and imprisonment for each offense.</text>
           </para>
           <para>
             <num>(c)</num>
             <heading>Entertainment noise — parent or guardian of minor: $100.</heading>
-            <text>For a parent or guardian who violates § 9-307 {"Prohibited conduct —parents or guardians of minors"<strong>}</strong> of this subtitle within 12 months after receiving written notice of the minor's having violated § 9-306 {"Prohibited conduct — in general"} of this subtitle, the parent or guardian is subject to a fine of not more than $100 for each offense.</text>
+            <text>For a parent or guardian who violates § 9-307 {"Prohibited conduct —parents or guardians of minors"<strong>}</strong> of this subtitle within 12 months after receiving written notice of the minor's having violated <cite path="|health|§9-306">§ 9-306 {"Prohibited conduct — in general"} of this subtitle</cite>, the parent or guardian is subject to a fine of not more than $100 for each offense.</text>
           </para>
           <para>
             <num>(d)</num>
             <heading>Commercial noise — Outcrying: $1,000.</heading>
-            <text>For any violation of § 9-313 {"Outcrying"} of this subtitle, the penalty is a fine of not more than $1,000 for each offense.</text>
+            <text>For any violation of <cite path="|health|§9-313">§ 9-313 {"Outcrying"} of this subtitle</cite>, the penalty is a fine of not more than $1,000 for each offense.</text>
           </para>
           <para>
             <num>(e)</num>
             <heading>Commercial noise — Loudspeakers: $1,000 and 60 days.</heading>
             <para>
               <num>(1)</num>
-              <text>For any violation of § 9-312 {"Loudspeakers, etc."} of this subtitle, the penalty is a fine of not more than $1,000 or imprisonment for not more than 60 days or both fine and imprisonment for each offense.</text>
+              <text>For any violation of <cite path="|health|§9-312">§ 9-312 {"Loudspeakers, etc."} of this subtitle</cite>, the penalty is a fine of not more than $1,000 or imprisonment for not more than 60 days or both fine and imprisonment for each offense.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -9744,11 +9744,11 @@
       </container>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="health|10">
     <prefix>Title</prefix>
     <num>10</num>
     <heading>Animal Control and Protection</heading>
-    <container>
+    <container cache:ref-path="health|10|1">
       <prefix>Subtitle</prefix>
       <num>1</num>
       <heading>General Provisions</heading>
@@ -9778,7 +9778,7 @@
           <para>
             <num>(d)</num>
             <heading>Animal at large.</heading>
-            <text>"Animal at large" has the meaning stated in § 10-504 of this title.</text>
+            <text>"Animal at large" has the meaning stated in <cite path="|health|§10-504">§ 10-504 of this title</cite>.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -9788,7 +9788,7 @@
           <para>
             <num>(f)</num>
             <heading>Animal enforcement officer.</heading>
-            <text>"Animal enforcement officer" has the meaning stated in § 10-110 {"Animal enforcement officers"} of this title.</text>
+            <text>"Animal enforcement officer" has the meaning stated in <cite path="|health|§10-110">§ 10-110 {"Animal enforcement officers"} of this title</cite>.</text>
           </para>
           <para>
             <num>(g)</num>
@@ -9968,7 +9968,7 @@
           <para>
             <num>(o)</num>
             <heading>Dangerous animal.</heading>
-            <text>"Dangerous animal" has the meaning stated in § 10-702 of this title.</text>
+            <text>"Dangerous animal" has the meaning stated in <cite path="|health|§10-702">§ 10-702 of this title</cite>.</text>
           </para>
           <para>
             <num>(p)</num>
@@ -10101,7 +10101,7 @@
           <para>
             <num>(ee)</num>
             <heading>Vicious animal.</heading>
-            <text>"Vicious animal" has the meaning stated in § 10-703 of this title.</text>
+            <text>"Vicious animal" has the meaning stated in <cite path="|health|§10-703">§ 10-703 of this title</cite>.</text>
           </para>
           <para>
             <num>(ff)</num>
@@ -10367,7 +10367,7 @@
             </para>
             <para>
               <num>(5)</num>
-              <text>in accordance with § 10-108 of this subtitle, conduct inspections of animal facilities and private residences, as directed by the Commissioner;</text>
+              <text>in accordance with <cite path="|health|§10-108">§ 10-108 of this subtitle</cite>, conduct inspections of animal facilities and private residences, as directed by the Commissioner;</text>
             </para>
             <para>
               <num>(6)</num>
@@ -10425,7 +10425,7 @@
             <heading>Inspection of  commercial establishments.</heading>
             <para>
               <num>(1)</num>
-              <text>A commercial establishment may not refuse an inspection authorized by § 10-108 of this subtitle.</text>
+              <text>A commercial establishment may not refuse an inspection authorized by <cite path="|health|§10-108">§ 10-108 of this subtitle</cite>.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -10714,7 +10714,7 @@
             <heading>Fees.</heading>
             <para>
               <num>(1)</num>
-              <text>The license fee for each class is as set under § 10-106 of this title.</text>
+              <text>The license fee for each class is as set under <cite path="|health|§10-106">§ 10-106 of this title</cite>.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -11280,7 +11280,7 @@
           <para>
             <num>(d)</num>
             <heading>Reclaiming animal to be transferred.</heading>
-            <text>After the Office's verification and approval of the notarized affidavits, the new owner must reclaim the animal in accordance with § 10-805 {" Reclaiming animal"} of this title within 72 hours of notice of the approval from the Office.</text>
+            <text>After the Office's verification and approval of the notarized affidavits, the new owner must reclaim the animal in accordance with <cite path="|health|§10-805">§ 10-805 {" Reclaiming animal"} of this title</cite> within 72 hours of notice of the approval from the Office.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -11458,7 +11458,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>When the animal is impounded, the animal's owner or custodian must pay to the Office an initial deposit, as set under § 10-106 of this title, toward expenses related to isolation and examination.</text>
+            <text>When the animal is impounded, the animal's owner or custodian must pay to the Office an initial deposit, as set under <cite path="|health|§10-106">§ 10-106 of this title</cite>, toward expenses related to isolation and examination.</text>
           </para>
         </para>
         <para>
@@ -11581,7 +11581,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>in the case of a dangerous animal, as required by § 10-702 {"Dangerous animals"} of this title.</text>
+            <text>in the case of a dangerous animal, as required by <cite path="|health|§10-702">§ 10-702 {"Dangerous animals"} of this title</cite>.</text>
           </para>
         </para>
         <para>
@@ -11672,7 +11672,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>On request, the Office may pick up dead domesticated animals for disposal, subject to a fee for the disposal as set under § 10-105 of this title.</text>
+            <text>On request, the Office may pick up dead domesticated animals for disposal, subject to a fee for the disposal as set under <cite path="|health|§10-105">§ 10-105 of this title</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -11794,7 +11794,7 @@
         <prefix>§</prefix>
         <num>10-402</num>
         <heading>Neglect of animal.</heading>
-        <text>No person may neglect to provide humane care and treatment, as described in § 10-303 {"Humane care required"} of this title, for any animal that the person owns, keeps, restrains, or confines, whether as a pet or for any other purpose.</text>
+        <text>No person may neglect to provide humane care and treatment, as described in <cite path="|health|§10-303">§ 10-303 {"Humane care required"} of this title</cite>, for any animal that the person owns, keeps, restrains, or confines, whether as a pet or for any other purpose.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §13</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
@@ -12779,7 +12779,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|10|8">
       <prefix>Subtitle</prefix>
       <num>8</num>
       <heading>Impoundment</heading>
@@ -12844,7 +12844,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>On the determination that an animal should be impounded, an animal enforcement officer, police officer, humane officer, or other person authorized and contracting with the City to do so may, subject to § 10-108 of this subtitle, enter onto public or private property, remove the animal, and impound it at an animal shelter or other facility approved by the Commissioner.</text>
+          <text>On the determination that an animal should be impounded, an animal enforcement officer, police officer, humane officer, or other person authorized and contracting with the City to do so may, subject to <cite path="|health|§10-108">§ 10-108 of this subtitle</cite>, enter onto public or private property, remove the animal, and impound it at an animal shelter or other facility approved by the Commissioner.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -13802,7 +13802,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="health|10|10">
       <prefix>Subtitle</prefix>
       <num>10</num>
       <heading>Hearings and Judicial Review</heading>
@@ -14150,7 +14150,7 @@
           <para>
             <num>(a)</num>
             <heading>In general.</heading>
-            <text>If an animal is held under § 10-1009 {"Office to hold animal"} of this subtitle while a requested hearing or appeal is pending, all costs for care or other expenses of the animal incurred by the Office from the time of impoundment through the Commissioner's final decision are a personal debt due to the City or its agent by the owner or custodian of the animal.</text>
+            <text>If an animal is held under <cite path="|health|§10-1009">§ 10-1009 {"Office to hold animal"} of this subtitle</cite> while a requested hearing or appeal is pending, all costs for care or other expenses of the animal incurred by the Office from the time of impoundment through the Commissioner's final decision are a personal debt due to the City or its agent by the owner or custodian of the animal.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -14247,7 +14247,7 @@
         <para>
           <num>(c)</num>
           <heading>Misrepresentation: $1,000 and 30 days.</heading>
-          <text>For a violation of § 10-112 {"Obstructing, etc., officer; False statements"} of this title, the penalty is a fine of not more than $1,000 or imprisonment for not more than 30 days or both fine and imprisonment for each offense.</text>
+          <text>For a violation of <cite path="|health|§10-112">§ 10-112 {"Obstructing, etc., officer; False statements"} of this title</cite>, the penalty is a fine of not more than $1,000 or imprisonment for not more than 30 days or both fine and imprisonment for each offense.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -14487,7 +14487,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="health|11|3">
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Public Swimming Pools</heading>
@@ -14515,7 +14515,7 @@
             <para>
               <num>(2)</num>
               <heading>Qualified inclusion of governmental entities.</heading>
-              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|11|3|11-318" proof="needed">§ 11-318 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+              <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|health|§11-318">§ 11-318 {"Penalties"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
             </para>
           </para>
           <para>
@@ -14849,7 +14849,7 @@
       </container>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="health|12">
     <prefix>Title</prefix>
     <num>12</num>
     <heading>Tobacco Products and Smoking Devices</heading>
@@ -15350,7 +15350,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|12|3">
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Distribution of Samples and Coupons</heading>
@@ -15481,12 +15481,12 @@
         <para>
           <num>(a)</num>
           <heading>Tobacco products.</heading>
-          <text>Except as specified in § 12-302 {"Exemptions"} of this subtitle, no person in any public place or at any public event may distribute to a member of the public any tobacco product at less than basic cost.</text>
+          <text>Except as specified in <cite path="|health|§12-302">§ 12-302 {"Exemptions"} of this subtitle</cite>, no person in any public place or at any public event may distribute to a member of the public any tobacco product at less than basic cost.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Coupons.</heading>
-          <text>Except as specified in § 12-302 {"Exemptions"} of this subtitle, no person in any public place or at any public event may distribute to a member of the public any coupon that is redeemable for a tobacco product to members of the public in public places, in public areas or at public events.</text>
+          <text>Except as specified in <cite path="|health|§12-302">§ 12-302 {"Exemptions"} of this subtitle</cite>, no person in any public place or at any public event may distribute to a member of the public any coupon that is redeemable for a tobacco product to members of the public in public places, in public areas or at public events.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §284(b)</annotation>
@@ -15535,7 +15535,7 @@
         <para>
           <num>(b)</num>
           <heading>Electronic smoking device.</heading>
-          <text>"Electronic smoking device" has the meaning stated in § 12-101 {"Definitions"} of this title.</text>
+          <text>"Electronic smoking device" has the meaning stated in <cite path="|health|§12-101">§ 12-101 {"Definitions"} of this title</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -16081,7 +16081,7 @@
         <para>
           <num>(c)</num>
           <heading>Smoke.</heading>
-          <text>"Smoke" has the meaning stated in § 12-101 {"Definitions"} of this title.</text>
+          <text>"Smoke" has the meaning stated in <cite path="|health|§12-101">§ 12-101 {"Definitions"} of this title</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 14-237" type="History">Ord. 14-237</annotation>
@@ -16206,7 +16206,7 @@
         <para>
           <num>(f)</num>
           <heading>Smoke.</heading>
-          <text>"Smoke" has the meaning stated in § 12-101 {"Definitions"} of this title.</text>
+          <text>"Smoke" has the meaning stated in <cite path="|health|§12-101">§ 12-101 {"Definitions"} of this title</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 14-212" type="History">Ord. 14-212</annotation>
@@ -16305,7 +16305,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|12|9">
       <prefix>Subtitle</prefix>
       <num>9</num>
       <heading>Nicotine Replacement Therapy Products</heading>
@@ -16337,7 +16337,7 @@
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|12|9|12-908" proof="needed">§ 12-908 {"Civil Penalties: $100"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|health|§12-908" proof="needed">§ 12-908 {"Civil Penalties: $100"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <annotations>
@@ -16596,7 +16596,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="health|14">
     <prefix>Title</prefix>
     <num>14</num>
     <heading>Ammunition Sales to Minors</heading>
@@ -16728,11 +16728,11 @@
       <text>Every person engaged in the business of selling ammunition must post conspicuously in that person's place of business a notice of:</text>
       <para>
         <num>(1)</num>
-        <text>the prohibition in § 14-103 of this title against the transfer of ammunition to minors; and</text>
+        <text>the prohibition in <cite path="|health|§14-103">§ 14-103 of this title</cite> against the transfer of ammunition to minors; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>the requirement in § 14-105 of this title for age verification.</text>
+        <text>the requirement in <cite path="|health|§14-105">§ 14-105 of this title</cite> for age verification.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 02-452" type="History">Ord. 02-452</annotation>
@@ -16780,15 +16780,15 @@
       <text>In the rules and regulations adopted under <cite path="|health|§2-106">§ 2-106 {"Rules and regulations"} of this article</cite>, the Commissioner may include provisions governing:</text>
       <para>
         <num>(1)</num>
-        <text>registration information to be provided and, from time to time, supplemented under § 14-107 of this title;</text>
+        <text>registration information to be provided and, from time to time, supplemented under <cite path="|health|§14-107">§ 14-107 of this title</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>the wording, size, and placement of the notices required by § 14-108 of this title; and</text>
+        <text>the wording, size, and placement of the notices required by <cite path="|health|§14-108">§ 14-108 of this title</cite>; and</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>the form of and information to be recorded in the sales log required by § 14-109 of this title.</text>
+        <text>the form of and information to be recorded in the sales log required by <cite path="|health|§14-109">§ 14-109 of this title</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 02-452" type="History">Ord. 02-452</annotation>
@@ -16860,7 +16860,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|15|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Distribution to Minors</heading>
@@ -16888,7 +16888,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>A person not described in § 15-201 of this subtitle may not buy for or sell or deliver to a minor:</text>
+          <text>A person not described in <cite path="|health|§15-201">§ 15-201 of this subtitle</cite> may not buy for or sell or deliver to a minor:</text>
           <text>any ephedrine product; or</text>
           <text>any coupon redeemable for any ephedrine product.</text>
         </para>
@@ -16967,7 +16967,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|15|3">
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Product Placement</heading>
@@ -16984,7 +16984,7 @@
         <prefix>§</prefix>
         <num>15-302</num>
         <heading>Examples of complying placement.</heading>
-        <text>The display, storage, or placement of ephedrine products in accord with one of the following methods does not violate § 15-301 of this subtitle:</text>
+        <text>The display, storage, or placement of ephedrine products in accord with one of the following methods does not violate <cite path="|health|§15-301">§ 15-301 of this subtitle</cite>:</text>
         <para>
           <num>(1)</num>
           <text>behind a sales counter in a place that, absent extraordinary efforts, is beyond the physical reach of customers;</text>
@@ -17212,7 +17212,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="health|16|3">
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Administrative Sanctions</heading>
@@ -17309,7 +17309,7 @@
           <para>
             <num>(a)</num>
             <heading>In general.</heading>
-            <text>The Commissioner may suspend or revoke the license of a person if the licensee has first been issued a violation notice under § 16-301 {"Notice of Violation"} of this subtitle.</text>
+            <text>The Commissioner may suspend or revoke the license of a person if the licensee has first been issued a violation notice under <cite path="|health|§16-301">§ 16-301 {"Notice of Violation"} of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -17327,7 +17327,7 @@
           <para>
             <num>(a)</num>
             <heading>Order of immediate suspension.</heading>
-            <text>If the Commissioner considers it necessary and in the interest of public health and safety because of exigent circumstances where public health and safety are under imminent threat, the Commissioner may issue an order of immediate suspension to a licensee without having first issued a violation notice under § 16-301 {"Notice of Violation"} of this subtitle.</text>
+            <text>If the Commissioner considers it necessary and in the interest of public health and safety because of exigent circumstances where public health and safety are under imminent threat, the Commissioner may issue an order of immediate suspension to a licensee without having first issued a violation notice under <cite path="|health|§16-301">§ 16-301 {"Notice of Violation"} of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -17518,7 +17518,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="health|19">
     <prefix>Title</prefix>
     <num>19</num>
     <heading>Pesticides</heading>
@@ -17607,7 +17607,7 @@
             <text>"Lawn" does not include:</text>
             <para>
               <num>(i)</num>
-              <text>a playing field as defined in § 19-301 of this title;</text>
+              <text>a playing field as defined in <cite path="|health|§19-301">§ 19-301 of this title</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -17979,7 +17979,7 @@
         <para>
           <num>(b)</num>
           <heading>Permitted applications.</heading>
-          <text>Except as provided in § 19-303 {"Glyphosate use prohibited"}, § 19-304 {"Chlorpyrifos use prohibited"}, and § 19-305 {"Neonicotinoid pesticides on City-owned property"} of this title, a person may apply any registered pesticide to:</text>
+          <text>Except as provided in § 19-303 {"Glyphosate use prohibited"}, § 19-304 {"Chlorpyrifos use prohibited"}, and <cite path="|health|§19-305">§ 19-305 {"Neonicotinoid pesticides on City-owned property"} of this title</cite>, a person may apply any registered pesticide to:</text>
           <para>
             <num>(1)</num>
             <text>control weeds, as required by Title 5, Subtitle 7, of <cite path="|health">this article</cite>;</text>

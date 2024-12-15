@@ -3,7 +3,7 @@
   <prefix>Article</prefix>
   <num>2</num>
   <heading>Consumer Protections</heading>
-  <container>
+  <container cache:ref-path="2|1">
     <prefix>Subtitle</prefix>
     <num>1</num>
     <heading>Auctions</heading>
@@ -213,7 +213,7 @@
       <para>
         <num>(b)</num>
         <heading>Death of licensee.</heading>
-        <text>Upon the death of any auctioneer prior to the expiration of his license, his personal representative or a person named in § 1-6 of this subtitle may continue to act under the license for its unexpired term, or for a period of 30 days, whichever is greater.</text>
+        <text>Upon the death of any auctioneer prior to the expiration of his license, his personal representative or a person named in <cite path="|2|§1-6">§ 1-6 of this subtitle</cite> may continue to act under the license for its unexpired term, or for a period of 30 days, whichever is greater.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 2, §10</annotation>
@@ -333,7 +333,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>failing to designate persons as provided in § 1-6 of this subtitle; and</text>
+          <text>failing to designate persons as provided in <cite path="|2|§1-6">§ 1-6 of this subtitle</cite>; and</text>
         </para>
         <para>
           <num>(4)</num>
@@ -368,7 +368,7 @@
         <text>The following additional acts are violations of this subtitle for which civil liability may be imposed:</text>
         <para>
           <num>(1)</num>
-          <text>receipt of commissions in an amount greater than authorized under § 1-10 of this subtitle.</text>
+          <text>receipt of commissions in an amount greater than authorized under <cite path="|2|§1-10">§ 1-10 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -445,7 +445,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>to the sale at public auction of the stock on hand of any person or persons or corporation that shall, for the period of 1 year next preceding such sale have been continuously in business in the City of Baltimore as a retail or wholesale merchant of gold, silver, plated ware, precious stones, watches, clocks, or jewelry, and that shall also have held trader's license for such business during said period; provided, further, that such sale at public auction of the stock on hand of such merchant or merchants shall be held only subject strictly to the conditions in  § 1-18 of this subtitle.</text>
+          <text>to the sale at public auction of the stock on hand of any person or persons or corporation that shall, for the period of 1 year next preceding such sale have been continuously in business in the City of Baltimore as a retail or wholesale merchant of gold, silver, plated ware, precious stones, watches, clocks, or jewelry, and that shall also have held trader's license for such business during said period; provided, further, that such sale at public auction of the stock on hand of such merchant or merchants shall be held only subject strictly to the conditions in  <cite path="|2|§1-18">§ 1-18 of this subtitle</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -2018,7 +2018,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="2|8">
     <prefix>Subtitle</prefix>
     <num>8</num>
     <heading>Scrap Metal Dealers</heading>
@@ -2244,7 +2244,7 @@
       <para>
         <num>(a)</num>
         <heading>Judicial review.</heading>
-        <text>A person aggrieved by a decision of the Police Commissioner under § 8-11 {"Denial, suspension, etc., of license"} of this subtitle may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+        <text>A person aggrieved by a decision of the Police Commissioner under <cite path="|2|§8-11">§ 8-11 {"Denial, suspension, etc., of license"} of this subtitle</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2398,7 +2398,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="2|10">
     <prefix>Subtitle</prefix>
     <num>10</num>
     <heading>Motor Fuel Sales</heading>
@@ -2687,7 +2687,7 @@
       <para>
         <num>(b)</num>
         <heading>Violations of §10-6.</heading>
-        <text>Any retail service station dealer who is convicted of a violation of any provision of § 10-6 of this subtitle is subject to a fine of not more than $25.</text>
+        <text>Any retail service station dealer who is convicted of a violation of any provision of <cite path="|2|§10-6">§ 10-6 of this subtitle</cite> is subject to a fine of not more than $25.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 14, §11</annotation>
@@ -2696,7 +2696,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="2|11">
     <prefix>Subtitle</prefix>
     <num>11</num>
     <heading>Pawnbrokers</heading>
@@ -2871,7 +2871,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The pawnbroker shall forward the daily report to the Police Department, as provided in § 11-7 of this subtitle.</text>
+          <text>The pawnbroker shall forward the daily report to the Police Department, as provided in <cite path="|2|§11-7">§ 11-7 of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -3052,7 +3052,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>the item has not been identified under § 11-9(a)(2) of this subtitle.</text>
+            <text>the item has not been identified under <cite path="|2|§11-9|(a)|(2)">§ 11-9(a)(2) of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -3076,7 +3076,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>if requested to do so, submit to the Police Department a photograph of the item, either by electronic transmittal or by mail or hand delivery, by the same deadline as required by § 11-7 of this subtitle for a daily report.</text>
+            <text>if requested to do so, submit to the Police Department a photograph of the item, either by electronic transmittal or by mail or hand delivery, by the same deadline as required by <cite path="|2|§11-7">§ 11-7 of this subtitle</cite> for a daily report.</text>
           </para>
         </para>
       </para>
@@ -3502,7 +3502,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="2|12">
     <prefix>Subtitle</prefix>
     <num>12</num>
     <heading>Second-Hand Property, Antiques, and Consignment Goods</heading>
@@ -3607,7 +3607,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Except as provided in § 12-4 of this subtitle, each person conducting business as a second-hand personal property dealer, antique dealer, or consignment goods dealer within the City of Baltimore shall pay for the privilege of conducting that business by first taking out an annual license and paying an annual license fee in the amount of $50 for each place of business.</text>
+        <text>Except as provided in <cite path="|2|§12-4">§ 12-4 of this subtitle</cite>, each person conducting business as a second-hand personal property dealer, antique dealer, or consignment goods dealer within the City of Baltimore shall pay for the privilege of conducting that business by first taking out an annual license and paying an annual license fee in the amount of $50 for each place of business.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3709,7 +3709,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The dealer shall forward the daily report to the Police Department, as provided in § 12-8 of this subtitle.</text>
+          <text>The dealer shall forward the daily report to the Police Department, as provided in <cite path="|2|§12-8">§ 12-8 of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -3929,7 +3929,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>the item has not been identified under § 12-10(a)(2) of this subtitle.</text>
+            <text>the item has not been identified under <cite path="|2|§12-10|(a)|(2)">§ 12-10(a)(2) of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -3953,7 +3953,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>if requested to do so, submit to the Police Department a photograph of the item, either by electronic transmittal or by mail or hand delivery, by the same deadline as required by § 12-8 of this subtitle for a daily report.</text>
+            <text>if requested to do so, submit to the Police Department a photograph of the item, either by electronic transmittal or by mail or hand delivery, by the same deadline as required by <cite path="|2|§12-8">§ 12-8 of this subtitle</cite> for a daily report.</text>
           </para>
         </para>
       </para>
@@ -4136,10 +4136,10 @@
       <para>
         <num>(a)</num>
         <heading>Consignment goods.</heading>
-        <text>Consignment goods are not subject to the daily reporting requirements of § 12-7 of this subtitle or to the item retention requirements of § 12-9 of this subtitle, as long as the dealer:</text>
+        <text>Consignment goods are not subject to the daily reporting requirements of <cite path="|2|§12-7">§ 12-7 of this subtitle</cite> or to the item retention requirements of <cite path="|2|§12-9">§ 12-9 of this subtitle</cite>, as long as the dealer:</text>
         <para>
           <num>(1)</num>
-          <text>keeps a record, subject to inspection under § 12-13 of this subtitle, of all the information required by § 12-7 of this subtitle; and</text>
+          <text>keeps a record, subject to inspection under <cite path="|2|§12-13">§ 12-13 of this subtitle</cite>, of all the information required by <cite path="|2|§12-7">§ 12-7 of this subtitle</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4179,10 +4179,10 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Items acquired under paragraph (1) of this subsection are not subject to the daily reporting requirements of § 12-7 of this subtitle or to the item retention requirements of § 12-9 of this subtitle, as long as the acquiring dealer:</text>
+          <text>Items acquired under paragraph (1) of this subsection are not subject to the daily reporting requirements of <cite path="|2|§12-7">§ 12-7 of this subtitle</cite> or to the item retention requirements of <cite path="|2|§12-9">§ 12-9 of this subtitle</cite>, as long as the acquiring dealer:</text>
           <para>
             <num>(i)</num>
-            <text>keeps a record, subject to inspection under § 12-13 of this subtitle, of the information required by § 12-7 of this subtitle; and</text>
+            <text>keeps a record, subject to inspection under <cite path="|2|§12-13">§ 12-13 of this subtitle</cite>, of the information required by <cite path="|2|§12-7">§ 12-7 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -4193,7 +4193,7 @@
       <para>
         <num>(c)</num>
         <heading>Flea market dealers.</heading>
-        <text>Second-hand personal property acquired by a dealer for resale, trade, or transfer exclusively at a flea market is not subject to the daily reporting requirements of § 12-7 of this subtitle or to the item retention requirements of § 12-9 of this subtitle, as long as:</text>
+        <text>Second-hand personal property acquired by a dealer for resale, trade, or transfer exclusively at a flea market is not subject to the daily reporting requirements of <cite path="|2|§12-7">§ 12-7 of this subtitle</cite> or to the item retention requirements of <cite path="|2|§12-9">§ 12-9 of this subtitle</cite>, as long as:</text>
         <para>
           <num>(1)</num>
           <text>all of the dealer's resale, trade, or transfer business is conducted exclusively at the flea market;</text>
@@ -4216,7 +4216,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>the dealer keeps a record, subject to inspection under § 12-13 of this subtitle, of all the information required by § 12-7 of this subtitle.</text>
+          <text>the dealer keeps a record, subject to inspection under <cite path="|2|§12-13">§ 12-13 of this subtitle</cite>, of all the information required by <cite path="|2|§12-7">§ 12-7 of this subtitle</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -5678,7 +5678,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="2|17">
     <prefix>Subtitle</prefix>
     <num>17</num>
     <heading>Ticket Sales – Ticket Purchasing Software</heading>
@@ -5758,7 +5758,7 @@
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except for the application of <cite path="|general|17|1|17-11" proof="needed">§ 17-11{"Prepayable citation"} and § 17-12 {"Criminal penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except for the application of <cite path="|general|17|1|17-11" proof="needed">§ 17-11{"Prepayable citation"}</cite> and <cite path="|2|§17-12">§ 17-12 {"Criminal penalties"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>

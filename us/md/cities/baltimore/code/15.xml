@@ -3,7 +3,7 @@
   <prefix>Article</prefix>
   <num>15</num>
   <heading>Licensing and Regulation</heading>
-  <container>
+  <container cache:ref-path="15|1">
     <prefix>Subtitle</prefix>
     <num>1</num>
     <heading>Adult-Entertainment Businesses</heading>
@@ -383,11 +383,11 @@
           <text>The Board must notify the applicant in writing of its decision to grant or deny the license as follows:</text>
           <para>
             <num>(1)</num>
-            <text>if no hearing is held under § 1-12(c) of this subtitle, within 15 days after the last day of the 15-day posting period; and</text>
+            <text>if no hearing is held under <cite path="|15|§1-12|(c)">§ 1-12(c) of this subtitle</cite>, within 15 days after the last day of the 15-day posting period; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>if a hearing is held under § 1-12(c) of this subtitle, within 15 days after conclusion of the hearing.</text>
+            <text>if a hearing is held under <cite path="|15|§1-12|(c)">§ 1-12(c) of this subtitle</cite>, within 15 days after conclusion of the hearing.</text>
           </para>
         </para>
         <para>
@@ -395,7 +395,7 @@
           <heading>Denial.</heading>
           <para>
             <num>(1)</num>
-            <text>Any denial of an adult-entertainment business license must be based solely on the qualifications set forth in § 1-11 of this subtitle.</text>
+            <text>Any denial of an adult-entertainment business license must be based solely on the qualifications set forth in <cite path="|15|§1-11">§ 1-11 of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -406,7 +406,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>notify the applicant of the opportunity to request a hearing under § 1-30 of this subtitle.</text>
+              <text>notify the applicant of the opportunity to request a hearing under <cite path="|15|§1-30">§ 1-30 of this subtitle</cite>.</text>
             </para>
           </para>
         </para>
@@ -456,7 +456,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Any denial of a renewal license must be based solely on the standards set forth in § 1-28 of this subtitle.</text>
+            <text>Any denial of a renewal license must be based solely on the standards set forth in <cite path="|15|§1-28">§ 1-28 of this subtitle</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -946,7 +946,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="15|2">
     <prefix>Subtitle</prefix>
     <num>2</num>
     <heading>Amusements</heading>
@@ -1242,7 +1242,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>For a simulated slot machine, if the device has been registered by the owner under § 2-13 of this subtitle, the device is exempt from the license fee provided for in § 2-15(a) of this subtitle.</text>
+            <text>For a simulated slot machine, if the device has been registered by the owner under <cite path="|15|§2-13">§ 2-13 of this subtitle</cite>, the device is exempt from the license fee provided for in <cite path="|15|§2-15|(a)">§ 2-15(a) of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -1479,7 +1479,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>The rules and regulations adopted under § 2-17 of this subtitle must establish:</text>
+            <text>The rules and regulations adopted under <cite path="|15|§2-17">§ 2-17 of this subtitle</cite> must establish:</text>
             <para>
               <num>(i)</num>
               <text>the amount of the service charge to be paid with each quarterly installment; and</text>
@@ -1534,7 +1534,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The rules and regulations adopted under § 2-17 of this subtitle shall establish, subject to the appropriation of funds as approved by the Board of Estimates, a bounty program to reward persons who report devices being operated without the license or registration required by this Part.</text>
+          <text>The rules and regulations adopted under <cite path="|15|§2-17">§ 2-17 of this subtitle</cite> shall establish, subject to the appropriation of funds as approved by the Board of Estimates, a bounty program to reward persons who report devices being operated without the license or registration required by this Part.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2426,7 +2426,7 @@
     <num>4 to 5</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="15|6">
     <prefix>Subtitle</prefix>
     <num>6</num>
     <heading>Carriages, Wagons, Boats, and Scows</heading>
@@ -2593,7 +2593,7 @@
       <para>
         <num>(a)</num>
         <heading>Proof of identity, etc.</heading>
-        <text>No owner licensed as provided in § 6-2 of this subtitle shall rent a vehicle to any person without first requiring proof of the identity (which shall include a clear photograph and a record of fingerprints) and address of the person proposing to rent the vehicle.</text>
+        <text>No owner licensed as provided in <cite path="|15|§6-2">§ 6-2 of this subtitle</cite> shall rent a vehicle to any person without first requiring proof of the identity (which shall include a clear photograph and a record of fingerprints) and address of the person proposing to rent the vehicle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3037,7 +3037,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="15|9">
     <prefix>Subtitle</prefix>
     <num>9</num>
     <heading>Late-Night Commercial Operations</heading>
@@ -3264,7 +3264,7 @@
             <text>A denial must be based solely on one or more of the following factors:</text>
             <para>
               <num>(i)</num>
-              <text>any cause for denial that is specified in § 9-16 {"Denial, suspension, or revocation"} of this subtitle;</text>
+              <text>any cause for denial that is specified in <cite path="|15|§9-16">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -3348,7 +3348,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>any cause for denial that is specified in § 9-16 {"Denial, suspension, or revocation"} of this subtitle;</text>
+            <text>any cause for denial that is specified in <cite path="|15|§9-16">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
@@ -3420,7 +3420,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>The considerations and decision of the Finance Director shall be as provided in § 9-9 of this subtitle.</text>
+            <text>The considerations and decision of the Finance Director shall be as provided in <cite path="|15|§9-9">§ 9-9 of this subtitle</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -4253,7 +4253,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="15|12">
     <prefix>Subtitle</prefix>
     <num>12</num>
     <heading>Commercial Parking Facilities</heading>
@@ -4560,7 +4560,7 @@
       <para>
         <num>(d)</num>
         <heading>Each vehicle towed a separate offense.</heading>
-        <text>Each vehicle towed in violation of § 12-11 {"Removal of vehicles"} of this subtitle is a separate offense.</text>
+        <text>Each vehicle towed in violation of <cite path="|15|§12-11">§ 12-11 {"Removal of vehicles"} of this subtitle</cite> is a separate offense.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 09-169" type="History">Ord. 09-169</annotation>
@@ -4584,7 +4584,7 @@
       <para>
         <num>(c)</num>
         <heading>Each vehicle towed a separate offense.</heading>
-        <text>Each vehicle towed in violation of § 12-11 {"Removal of vehicles"} of this subtitle is a separate offense.</text>
+        <text>Each vehicle towed in violation of <cite path="|15|§12-11">§ 12-11 {"Removal of vehicles"} of this subtitle</cite> is a separate offense.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 09-169" type="History">Ord. 09-169</annotation>
@@ -5566,7 +5566,7 @@
     <num>16</num>
     <reason>Repealed</reason>
   </container>
-  <container>
+  <container cache:ref-path="15|17">
     <prefix>Subtitle</prefix>
     <num>17</num>
     <heading>Street Vendors</heading>
@@ -5627,7 +5627,7 @@
         <para>
           <num>(f)</num>
           <heading>Mobile vending zone.</heading>
-          <text>"Mobile vending zone" means an area designated in accordance with § 17-5 {"Mobile vending zones"} of this subtitle for the use of mobile vendors.</text>
+          <text>"Mobile vending zone" means an area designated in accordance with <cite path="|15|§17-5">§ 17-5 {"Mobile vending zones"} of this subtitle</cite> for the use of mobile vendors.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -6010,7 +6010,7 @@
         <para>
           <num>(a)</num>
           <heading>Term.</heading>
-          <text>Except as provided in § 17-20 {"Temporary Licenses"} of this subtitle, a license expires on the 1<sup>st</sup> anniversary of its effective date.</text>
+          <text>Except as provided in <cite path="|15|§17-20">§ 17-20 {"Temporary Licenses"} of this subtitle</cite>, a license expires on the 1<sup>st</sup> anniversary of its effective date.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -6116,7 +6116,7 @@
         <para>
           <num>(a)</num>
           <heading>Scope of section.</heading>
-          <text>This section does not apply to a person who obtains a country grower's license under§ 17-25 {"Vendor identification – Country growers"} of this subtitle.</text>
+          <text>This section does not apply to a person who obtains a country grower's license under<cite path="|15|§17-25">§ 17-25 {"Vendor identification – Country growers"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -6191,7 +6191,7 @@
         <para>
           <num>(b)</num>
           <heading>Application.</heading>
-          <text>The application for a country grower's license must contain, in addition to the information required by § 17-18 {"Applications"} of this subtitle:</text>
+          <text>The application for a country grower's license must contain, in addition to the information required by <cite path="|15|§17-18">§ 17-18 {"Applications"} of this subtitle</cite>:</text>
           <para>
             <num>(1)</num>
             <text>the location of the land from which the fruits, vegetables, and other perishable articles are produced or grown;</text>
@@ -6218,7 +6218,7 @@
           <heading>Sign.</heading>
           <para>
             <num>(1)</num>
-            <text>Instead of the badge provided for in § 17-24 {"Vendor identification – In general"} of this subtitle, the Department of Transportation must provide the producer or grower with a sign to be displayed on his or her vehicle.</text>
+            <text>Instead of the badge provided for in <cite path="|15|§17-24">§ 17-24 {"Vendor identification – In general"} of this subtitle</cite>, the Department of Transportation must provide the producer or grower with a sign to be displayed on his or her vehicle.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -7454,7 +7454,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="15|21">
     <prefix>Subtitle</prefix>
     <num>21</num>
     <heading>Third-Party Food Delivery Platforms</heading>
@@ -7618,7 +7618,7 @@
       <para>
         <num>(c)</num>
         <heading>Each instance a separate offense.</heading>
-        <text>Each instance in violation of § 21-6 {"Prohibited conduct} of this subtitle is a separate offense.</text>
+        <text>Each instance in violation of <cite path="|15|§21-6">§ 21-6 {"Prohibited conduct} of this subtitle</cite> is a separate offense.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 21-001" type="History">Ord. 21-001</annotation>
@@ -7636,7 +7636,7 @@
       <para>
         <num>(b)</num>
         <heading>Each instance a separate offense.</heading>
-        <text>Each instance in violation of § 21-6 {"Prohibited conduct} of this subtitle is a separate offense.</text>
+        <text>Each instance in violation of <cite path="|15|§21-6">§ 21-6 {"Prohibited conduct} of this subtitle</cite> is a separate offense.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 21-001" type="History">Ord. 21-001</annotation>
@@ -7673,7 +7673,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="15|22">
     <prefix>Subtitle</prefix>
     <num>22</num>
     <heading>Towing Services – Trespass Towing</heading>
@@ -8400,7 +8400,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>the licensee has failed to make available for inspection by the Board or the Police Department the daily towing log required by § 22-10(d) of this subtitle;</text>
+          <text>the licensee has failed to make available for inspection by the Board or the Police Department the daily towing log required by <cite path="|15|§22-10|(d)">§ 22-10(d) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(7)</num>
@@ -8923,7 +8923,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="15|42">
     <prefix>Subtitle</prefix>
     <num>42</num>
     <heading>Human Trafficking Notice Requirements</heading>
@@ -9080,7 +9080,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Except as otherwise provided in this section, in each City-owned or -occupied building, at least 1 sign described in § 42-2(b) of this subtitle must be posted in each:</text>
+        <text>Except as otherwise provided in this section, in each City-owned or -occupied building, at least 1 sign described in <cite path="|15|§42-2|(b)">§ 42-2(b) of this subtitle</cite> must be posted in each:</text>
         <para>
           <num>(1)</num>
           <text>location where the notice required by Subtitle 4 {"Wages and Hours"}, Part V {"Enforcement"} of the State Labor and Employment Article is posted;</text>
@@ -9203,7 +9203,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="15|42A">
     <prefix>Subtitle</prefix>
     <num>42A</num>
     <heading>Temporary Shelter Human Trafficking Notice Requirements</heading>
@@ -9305,7 +9305,7 @@
       <para>
         <num>(a)</num>
         <heading>Placement.</heading>
-        <text>A copy of the human trafficking sign required by § 42A-2 {"Requirements"} of this subtitle shall be posted by the person in charge at the homeless shelter or transitional housing program facility or living area in a clear and conspicuous place where it can be easily seen and read by individuals staying at the homeless shelter or transitional housing program facility or living area.</text>
+        <text>A copy of the human trafficking sign required by <cite path="|15|§42A-2">§ 42A-2 {"Requirements"} of this subtitle</cite> shall be posted by the person in charge at the homeless shelter or transitional housing program facility or living area in a clear and conspicuous place where it can be easily seen and read by individuals staying at the homeless shelter or transitional housing program facility or living area.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -9658,7 +9658,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="15|48">
     <prefix>Subtitle</prefix>
     <num>48</num>
     <heading>Short-Term Residential Rentals</heading>
@@ -10146,7 +10146,7 @@
         <prefix>§</prefix>
         <num>48-21</num>
         <heading>Denial, suspension, or revocation of license – In general.</heading>
-        <text>Subject to the hearing provisions of § 48-22 of this subtitle, the Housing Commissioner may deny, suspend, or revoke a short-term residential rental license or renewal license for any of the following causes:</text>
+        <text>Subject to the hearing provisions of <cite path="|15|§48-22">§ 48-22 of this subtitle</cite>, the Housing Commissioner may deny, suspend, or revoke a short-term residential rental license or renewal license for any of the following causes:</text>
         <para>
           <num>(1)</num>
           <text>making any material false statement in an application for an initial or renewal license;</text>
@@ -10261,7 +10261,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Any person who violates any provision of this subtitle (including any offense listed in § 48-21 of this subtitle as potential cause for a denial, suspension, or revocation of a license) or any provision of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
+          <text>Any person who violates any provision of this subtitle (including any offense listed in <cite path="|15|§48-21">§ 48-21 of this subtitle</cite> as potential cause for a denial, suspension, or revocation of a license) or any provision of a rule or regulation adopted under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $500 for each offense.</text>
         </para>
         <para>
           <num>(b)</num>

@@ -241,7 +241,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="27|3">
     <prefix>Subtitle</prefix>
     <num>3</num>
     <heading>Fee Imposition and Collection</heading>
@@ -286,7 +286,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>the rate per  ERU set in accordance with § 3-4 {"Initial rates"} or § 3-5 {"Subsequent rates"} of this subtitle.</text>
+          <text>the rate per  ERU set in accordance with § 3-4 {"Initial rates"} or <cite path="|27|§3-5">§ 3-5 {"Subsequent rates"} of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -344,7 +344,7 @@
         <heading>Assessment formula.</heading>
         <para>
           <num>(1)</num>
-          <text>The fee for properties subject to this section is the rate per Equivalent Residential Unit (or "ERU") set in accordance with § 3-4 {"Initial rates"} or § 3-5 {"Subsequent rates"} of this subtitle times the number of ERUs on the property.</text>
+          <text>The fee for properties subject to this section is the rate per Equivalent Residential Unit (or "ERU") set in accordance with § 3-4 {"Initial rates"} or <cite path="|27|§3-5">§ 3-5 {"Subsequent rates"} of this subtitle</cite> times the number of ERUs on the property.</text>
         </para>
         <para>
           <num>(2)</num>

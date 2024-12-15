@@ -2407,7 +2407,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="10|8">
     <prefix>Subtitle</prefix>
     <num>8</num>
     <heading>Ammonium Nitrates</heading>
@@ -2437,7 +2437,7 @@
       <prefix>§</prefix>
       <num>8-3</num>
       <heading>Permits required.</heading>
-      <text>No shipments of ammonium nitrate or materials or products containing ammonium nitrate in excess of 13% or which are otherwise classified as dangerous under Interstate Commerce Commission regulations, except ammonium nitrate materials or products specifically exempted under § 8-6 of this subtitle, shall be brought into any anchorage or into or onto any dock, wharf, pier, or other similar waterfront structure (hereinafter called "waterfront facility") in, on, or immediately adjacent to the Patapsco River or any of its tributaries by any means of water transportation, except in cases of continuous cross-harbor freight car shipments by car floats or freight car shipments by car floats from car float bridges to Anchorage No. 6 heretofore mentioned in <cite path="|10">this </cite><cite path="|10">Article 10</cite>, unless and until after a permit to do so has first been obtained, upon proper written application, from the Harbor Engineer of the Mayor and City Council of Baltimore.</text>
+      <text>No shipments of ammonium nitrate or materials or products containing ammonium nitrate in excess of 13% or which are otherwise classified as dangerous under Interstate Commerce Commission regulations, except ammonium nitrate materials or products specifically exempted under <cite path="|10|§8-6">§ 8-6 of this subtitle</cite>, shall be brought into any anchorage or into or onto any dock, wharf, pier, or other similar waterfront structure (hereinafter called "waterfront facility") in, on, or immediately adjacent to the Patapsco River or any of its tributaries by any means of water transportation, except in cases of continuous cross-harbor freight car shipments by car floats or freight car shipments by car floats from car float bridges to Anchorage No. 6 heretofore mentioned in <cite path="|10">this </cite><cite path="|10">Article 10</cite>, unless and until after a permit to do so has first been obtained, upon proper written application, from the Harbor Engineer of the Mayor and City Council of Baltimore.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 10, §90(a)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 10, §90(a)</annotation>

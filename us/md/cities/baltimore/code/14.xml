@@ -3,7 +3,7 @@
   <prefix>Article</prefix>
   <num>14</num>
   <heading>Special Benefits Districts</heading>
-  <container>
+  <container cache:ref-path="14|1">
     <prefix>Subtitle</prefix>
     <num>1</num>
     <heading>Downtown Management District</heading>
@@ -273,7 +273,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>to borrow funds for purposes consistent with the public purposes of the Authority, provided that unless specific approval is provided by the Board of Estimates no borrowing shall be for a term beyond the date for renewal of the District under § 1-20 of this subtitle;</text>
+        <text>to borrow funds for purposes consistent with the public purposes of the Authority, provided that unless specific approval is provided by the Board of Estimates no borrowing shall be for a term beyond the date for renewal of the District under <cite path="|14|§1-20">§ 1-20 of this subtitle</cite>;</text>
       </para>
       <para>
         <num>(7)</num>
@@ -359,7 +359,7 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>Notwithstanding any other provisions of this subtitle, unless specifically approved by the Board of Estimates, no borrowing, leasing, contracting, or other agreement or obligation shall be for a term beyond the date for renewal of the District under § 1-20 of this subtitle.</text>
+        <text>Notwithstanding any other provisions of this subtitle, unless specifically approved by the Board of Estimates, no borrowing, leasing, contracting, or other agreement or obligation shall be for a term beyond the date for renewal of the District under <cite path="|14|§1-20">§ 1-20 of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 92-057" type="History">Ord. 92-057</annotation>
@@ -408,7 +408,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The interim membership of the Board shall be the 5 individuals listed on Exhibit B.  The interim Board, upon approval of the District and the Authority in accordance with § 1-19 of this subtitle, shall propose to the Board of Estimates the initial full membership of the Board and the proposed terms for each director.</text>
+          <text>The interim membership of the Board shall be the 5 individuals listed on Exhibit B.  The interim Board, upon approval of the District and the Authority in accordance with <cite path="|14|§1-19">§ 1-19 of this subtitle</cite>, shall propose to the Board of Estimates the initial full membership of the Board and the proposed terms for each director.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -583,7 +583,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>In the event that the Authority is not implemented as a result of the operation of § 1-19 of this subtitle, neither the Authority nor the District, nor the City, shall have any liability for costs incurred prior to the initiation of operations, whether or not incurred by the Administrator or on behalf of the District or the Authority.</text>
+          <text>In the event that the Authority is not implemented as a result of the operation of <cite path="|14|§1-19">§ 1-19 of this subtitle</cite>, neither the Authority nor the District, nor the City, shall have any liability for costs incurred prior to the initiation of operations, whether or not incurred by the Administrator or on behalf of the District or the Authority.</text>
         </para>
       </para>
       <annotations>
@@ -978,7 +978,7 @@
       <para>
         <num>(b)</num>
         <heading>Establishment of full Board.</heading>
-        <text>The full Board of the Authority proposed by the interim Board in accordance with § 1-7 of this subtitle shall be subject to the approval of the Board of Estimates.</text>
+        <text>The full Board of the Authority proposed by the interim Board in accordance with <cite path="|14|§1-7">§ 1-7 of this subtitle</cite> shall be subject to the approval of the Board of Estimates.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1121,7 +1121,7 @@
         <heading>Expiration.</heading>
         <para>
           <num>(1)</num>
-          <text>If the District and the Authority are not approved through the process described in § 1-19 of this subtitle, or are not renewed as provided above, the Authority shall cease its operations and the District ceases to exist, with the end of the fiscal year of the City in which the terminating event occurs.</text>
+          <text>If the District and the Authority are not approved through the process described in <cite path="|14|§1-19">§ 1-19 of this subtitle</cite>, or are not renewed as provided above, the Authority shall cease its operations and the District ceases to exist, with the end of the fiscal year of the City in which the terminating event occurs.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1164,7 +1164,7 @@
     <num>2 to 5</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="14|6">
     <prefix>Subtitle</prefix>
     <num>6</num>
     <heading>Charles Village Community Benefits District</heading>
@@ -1562,7 +1562,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>borrow funds for purposes consistent with the public purposes of the Authority, provided no borrowing shall be for a term beyond the date for renewal of the District under § 6-16 of this subtitle;</text>
+        <text>borrow funds for purposes consistent with the public purposes of the Authority, provided no borrowing shall be for a term beyond the date for renewal of the District under <cite path="|14|§6-16">§ 6-16 of this subtitle</cite>;</text>
       </para>
       <para>
         <num>(9)</num>
@@ -1794,7 +1794,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>At least a majority of the Board shall be composed of owners or representatives of property owners subject to the tax imposed by this subtitle.  A voting member of the Board must be eligible to vote in the election under § 6-15 of this subtitle.</text>
+          <text>At least a majority of the Board shall be composed of owners or representatives of property owners subject to the tax imposed by this subtitle.  A voting member of the Board must be eligible to vote in the election under <cite path="|14|§6-15">§ 6-15 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -1875,7 +1875,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>If the Authority is not implemented as a result of the operation of § 6-15 of this subtitle, neither the Authority nor the District, nor the City, shall have any liability for costs incurred prior to the initiation of operations, whether or not incurred by the Administrator or on behalf of the District or the Authority.</text>
+          <text>If the Authority is not implemented as a result of the operation of <cite path="|14|§6-15">§ 6-15 of this subtitle</cite>, neither the Authority nor the District, nor the City, shall have any liability for costs incurred prior to the initiation of operations, whether or not incurred by the Administrator or on behalf of the District or the Authority.</text>
         </para>
       </para>
       <annotations>
@@ -2173,7 +2173,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>hire and retain such employees, agents, and contractors as are needed to perform its functions for the Authority, provided that all hiring and contracting shall comply with § 6-4(12) of this subtitle;</text>
+          <text>hire and retain such employees, agents, and contractors as are needed to perform its functions for the Authority, provided that all hiring and contracting shall comply with <cite path="|14|§6-4|(12)">§ 6-4(12) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(7)</num>
@@ -2211,7 +2211,7 @@
       <para>
         <num>(b)</num>
         <heading>Establishment of full Board.</heading>
-        <text>The full Board proposed by the interim Board in accordance with § 6-6 of this subtitle shall be subject to the approval of the Board of Estimates.</text>
+        <text>The full Board proposed by the interim Board in accordance with <cite path="|14|§6-6">§ 6-6 of this subtitle</cite> shall be subject to the approval of the Board of Estimates.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2350,7 +2350,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="14|7">
     <prefix>Subtitle</prefix>
     <num>7</num>
     <heading>Midtown Community Benefits District</heading>
@@ -2458,7 +2458,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>borrow funds for purposes consistent with the public purposes of the Authority, provided no borrowing shall be for a term beyond the date for renewal of the District under § 7-16 of this subtitle;</text>
+        <text>borrow funds for purposes consistent with the public purposes of the Authority, provided no borrowing shall be for a term beyond the date for renewal of the District under <cite path="|14|§7-16">§ 7-16 of this subtitle</cite>;</text>
       </para>
       <para>
         <num>(9)</num>
@@ -2768,7 +2768,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>If the Authority is not implemented as a result of the operation of § 7-15 of this subtitle, neither the Authority nor the District, nor the City, shall have any liability for costs incurred prior to the initiation of operations, whether or not incurred by the Administrator or on behalf of the District or the Authority.</text>
+          <text>If the Authority is not implemented as a result of the operation of <cite path="|14|§7-15">§ 7-15 of this subtitle</cite>, neither the Authority nor the District, nor the City, shall have any liability for costs incurred prior to the initiation of operations, whether or not incurred by the Administrator or on behalf of the District or the Authority.</text>
         </para>
       </para>
       <annotations>
@@ -3061,7 +3061,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>hire and retain such employees, agents, and contractors as are needed to perform its functions for the Authority, provided that all hiring and contracting shall comply with § 7-4(12) of this subtitle;</text>
+          <text>hire and retain such employees, agents, and contractors as are needed to perform its functions for the Authority, provided that all hiring and contracting shall comply with <cite path="|14|§7-4|(12)">§ 7-4(12) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(7)</num>
@@ -3099,7 +3099,7 @@
       <para>
         <num>(b)</num>
         <heading>Establishment of full Board.</heading>
-        <text>The full Board proposed by the interim Board in accordance with § 7-6 of this subtitle shall be subject to the approval of the Board of Estimates.</text>
+        <text>The full Board proposed by the interim Board in accordance with <cite path="|14|§7-6">§ 7-6 of this subtitle</cite> shall be subject to the approval of the Board of Estimates.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -3233,7 +3233,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="14|8">
     <prefix>Subtitle</prefix>
     <num>8</num>
     <heading>Waterfront Management District</heading>
@@ -3445,7 +3445,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority.  However, no borrowing may be for a term beyond the date for the District's renewal under § 8-16 of this subtitle;</text>
+          <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority.  However, no borrowing may be for a term beyond the date for the District's renewal under <cite path="|14|§8-16">§ 8-16 of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(6)</num>
@@ -3537,7 +3537,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Except as otherwise provided in § 8-17 of this subtitle, the Authority may not revert charges or taxes collected under this subtitle to the General Fund of the City.</text>
+          <text>Except as otherwise provided in <cite path="|14|§8-17">§ 8-17 of this subtitle</cite>, the Authority may not revert charges or taxes collected under this subtitle to the General Fund of the City.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -4027,7 +4027,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>hire and retain employees, agents, and contractors as needed to perform the Administrator's functions for the Authority, subject to § 8-4(b)(9) of this subtitle;</text>
+          <text>hire and retain employees, agents, and contractors as needed to perform the Administrator's functions for the Authority, subject to <cite path="|14|§8-4|(b)|(9)">§ 8-4(b)(9) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(5)</num>
@@ -4100,7 +4100,7 @@
         <heading>Eligibility criteria.</heading>
         <para>
           <num>(1)</num>
-          <text>Persons eligible to vote are the owners of property subject to tax under § 8-8 of this subtitle.</text>
+          <text>Persons eligible to vote are the owners of property subject to tax under <cite path="|14|§8-8">§ 8-8 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4166,7 +4166,7 @@
       <para>
         <num>(a)</num>
         <heading>Dissolution on certain events.</heading>
-        <text>If the District is not approved as provided in § 8-15 of this subtitle, or is not renewed as provided in § 8-16 of this subtitle, the Authority shall cease its operations, and the District shall cease to exist, at the end of the City's fiscal year in which the terminating event occurs.</text>
+        <text>If the District is not approved as provided in <cite path="|14|§8-15">§ 8-15 of this subtitle</cite>, or is not renewed as provided in <cite path="|14|§8-16">§ 8-16 of this subtitle</cite>, the Authority shall cease its operations, and the District shall cease to exist, at the end of the City's fiscal year in which the terminating event occurs.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4191,7 +4191,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="14|9">
     <prefix>Subtitle</prefix>
     <num>9</num>
     <heading>York Corridor Business Improvement District</heading>
@@ -4350,7 +4350,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority.  However, no borrowing may be for a term beyond the date for the District's renewal under § 9-16 {"4-year reviews"} of this subtitle;</text>
+          <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority.  However, no borrowing may be for a term beyond the date for the District's renewal under <cite path="|14|§9-16">§ 9-16 {"4-year reviews"} of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(6)</num>
@@ -4442,7 +4442,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Except as otherwise provided in § 9-17 {"Dissolution of District"} of this subtitle, the Authority may not revert charges or taxes collected under this subtitle to the General Fund of the City.</text>
+          <text>Except as otherwise provided in <cite path="|14|§9-17">§ 9-17 {"Dissolution of District"} of this subtitle</cite>, the Authority may not revert charges or taxes collected under this subtitle to the General Fund of the City.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -4919,7 +4919,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>hire and retain employees, agents, and contractors as needed to perform the Administrator's functions for the Authority, subject to § 9-4(b)(9) of this subtitle;</text>
+          <text>hire and retain employees, agents, and contractors as needed to perform the Administrator's functions for the Authority, subject to <cite path="|14|§9-4|(b)|(9)">§ 9-4(b)(9) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(5)</num>
@@ -4992,7 +4992,7 @@
         <heading>Eligibility criteria.</heading>
         <para>
           <num>(1)</num>
-          <text>Persons eligible to vote are the owners of property subject to tax under § 9-8 {"Supplemental Tax"} of this subtitle.</text>
+          <text>Persons eligible to vote are the owners of property subject to tax under <cite path="|14|§9-8">§ 9-8 {"Supplemental Tax"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -5057,7 +5057,7 @@
       <para>
         <num>(a)</num>
         <heading>Dissolution on certain events.</heading>
-        <text>If the District is not approved as provided in § 9-15 {"Election approval process"} of this subtitle, or is not renewed as provided in § 9-16 {"4-year reviews"} of this subtitle, the Authority shall cease its operations, and the District shall cease to exist, at the end of the City's fiscal year in which the terminating event occurs.</text>
+        <text>If the District is not approved as provided in <cite path="|14|§9-15">§ 9-15 {"Election approval process"} of this subtitle</cite>, or is not renewed as provided in <cite path="|14|§9-16">§ 9-16 {"4-year reviews"} of this subtitle</cite>, the Authority shall cease its operations, and the District shall cease to exist, at the end of the City's fiscal year in which the terminating event occurs.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -5082,7 +5082,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="14|10">
     <prefix>Subtitle</prefix>
     <num>10</num>
     <heading>Port Covington Community Benefits District</heading>
@@ -5246,7 +5246,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority and pledge some or all of its revenues in support of such borrowings.  However, no borrowing may be for a term beyond the date for the District's renewal under § 10-16 of this subtitle.</text>
+          <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority and pledge some or all of its revenues in support of such borrowings.  However, no borrowing may be for a term beyond the date for the District's renewal under <cite path="|14|§10-16">§ 10-16 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -5342,7 +5342,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Except as otherwise provided in § 10-17 of this subtitle, the Authority may not revert charges or taxes collected under this subtitle to the General Fund of the City.</text>
+          <text>Except as otherwise provided in <cite path="|14|§10-17">§ 10-17 of this subtitle</cite>, the Authority may not revert charges or taxes collected under this subtitle to the General Fund of the City.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -5785,7 +5785,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>hire and retain employees, agents, and contractors as needed to perform the Administrator's functions for the Authority, subject to § 10-4(b) of this subtitle;</text>
+          <text>hire and retain employees, agents, and contractors as needed to perform the Administrator's functions for the Authority, subject to <cite path="|14|§10-4|(b)">§ 10-4(b) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(5)</num>
@@ -5923,7 +5923,7 @@
       <para>
         <num>(a)</num>
         <heading>Dissolution on certain events.</heading>
-        <text>If the District is not approved as provided in § 10-15 of this subtitle, or is not renewed as provided in § 10-16 of this subtitle, the Authority shall cease its operations, and the District shall cease to exist, at the end of the City's fiscal year in which the terminating event occurs.</text>
+        <text>If the District is not approved as provided in <cite path="|14|§10-15">§ 10-15 of this subtitle</cite>, or is not renewed as provided in <cite path="|14|§10-16">§ 10-16 of this subtitle</cite>, the Authority shall cease its operations, and the District shall cease to exist, at the end of the City's fiscal year in which the terminating event occurs.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -5948,7 +5948,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="14|11">
     <prefix>Subtitle</prefix>
     <num>11</num>
     <heading>Retail Business Districts</heading>
@@ -6159,7 +6159,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>The portion of a licensee's manufacturing space subject to the license fee shall be determined by the Commissioner under the authority granted him in § 11-14 of this subtitle.</text>
+            <text>The portion of a licensee's manufacturing space subject to the license fee shall be determined by the Commissioner under the authority granted him in <cite path="|14|§11-14">§ 11-14 of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -6353,7 +6353,7 @@
         <para>
           <num>(b)</num>
           <heading>Waivers.</heading>
-          <text>The Appeals Board created in § 11-12 of this subtitle is hereby authorized for good and sufficient cause to waive the imposition of this penalty and interest in its entirety or a portion thereof prior to institution of civil prosecution.</text>
+          <text>The Appeals Board created in <cite path="|14|§11-12">§ 11-12 of this subtitle</cite> is hereby authorized for good and sufficient cause to waive the imposition of this penalty and interest in its entirety or a portion thereof prior to institution of civil prosecution.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §116</annotation>
@@ -6409,7 +6409,7 @@
         <para>
           <num>(c)</num>
           <heading>Limitations.</heading>
-          <text>Provided, however that nothing contained herein shall be construed as authorizing the Appeals Board to waive, set aside, or in any manner change any provision or provisions of this subtitle, other than as authorized in § 11-11 herein, nor any decision made by the Mayor and City Council pursuant to § 11-4 of this subtitle.</text>
+          <text>Provided, however that nothing contained herein shall be construed as authorizing the Appeals Board to waive, set aside, or in any manner change any provision or provisions of this subtitle, other than as authorized in § 11-11 herein, nor any decision made by the Mayor and City Council pursuant to <cite path="|14|§11-4">§ 11-4 of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 15, §118(3rd, 4th sens.), §119</annotation>
@@ -6591,7 +6591,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>Notwithstanding the provisions of § 11-7(b) of this subtitle, it is further understood that the license fee due from business establishments shall be calculated by the Merchants' Association and certified to the Commissioner of Housing and Community Development on a yearly basis.</text>
+            <text>Notwithstanding the provisions of <cite path="|14|§11-7|(b)">§ 11-7(b) of this subtitle</cite>, it is further understood that the license fee due from business establishments shall be calculated by the Merchants' Association and certified to the Commissioner of Housing and Community Development on a yearly basis.</text>
           </para>
         </para>
         <para>
@@ -6697,7 +6697,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>Notwithstanding the provisions of § 11-7(b) of this subtitle, the license fee due from business establishments shall be calculated by the Highlandtown Merchants' Association and certified to the Commissioner annually.</text>
+            <text>Notwithstanding the provisions of <cite path="|14|§11-7|(b)">§ 11-7(b) of this subtitle</cite>, the license fee due from business establishments shall be calculated by the Highlandtown Merchants' Association and certified to the Commissioner annually.</text>
           </para>
         </para>
         <para>
@@ -6910,7 +6910,7 @@
     <num>12 to 15</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="14|16">
     <prefix>Subtitle</prefix>
     <num>16</num>
     <heading>Bmore Safe Places {a/k/a "NeighborWatch Areas"}</heading>
@@ -7096,7 +7096,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>approve the design and specifications of the signs that the Department of Transportation provides in accordance with § 16-12(f) {"Operation[s]: Signage"} of this subtitle.</text>
+        <text>approve the design and specifications of the signs that the Department of Transportation provides in accordance with <cite path="|14|§16-12|(f)">§ 16-12(f) {"Operation[s]: Signage"} of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §240(a)(part)</annotation>
@@ -7277,7 +7277,7 @@
     <num>17 to 18</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="14|19">
     <prefix>Subtitle</prefix>
     <num>19</num>
     <heading>South Baltimore Gateway Community Impact District</heading>
@@ -7532,7 +7532,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The Authority shall adopt an annual budget, as provided in § 19-7 of this subtitle.</text>
+          <text>The Authority shall adopt an annual budget, as provided in <cite path="|14|§19-7">§ 19-7 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -7580,7 +7580,7 @@
         </para>
         <para>
           <num>(15)</num>
-          <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority.  However, no borrowing may be for a term beyond the date for the District's renewal under § 19-16 of this subtitle.</text>
+          <text>The Authority may borrow funds for purposes consistent with the public purposes of the Authority.  However, no borrowing may be for a term beyond the date for the District's renewal under <cite path="|14|§19-16">§ 19-16 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(16)</num>
@@ -7657,7 +7657,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Except as otherwise provided in § 19-17 of this subtitle, the Authority may not revert revenues collected under this subtitle to the City's General Fund.</text>
+          <text>Except as otherwise provided in <cite path="|14|§19-17">§ 19-17 of this subtitle</cite>, the Authority may not revert revenues collected under this subtitle to the City's General Fund.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -7946,7 +7946,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>are not transferred directly to the Authority under § 19-3(c)(2) of this subtitle and § 9-1A-31(b)(3) of the  State Government Article.</text>
+            <text>are not transferred directly to the Authority under <cite path="|14|§19-3|(c)|(2)">§ 19-3(c)(2) of this subtitle</cite> and § 9-1A-31(b)(3) of the  State Government Article.</text>
           </para>
         </para>
       </para>
@@ -7979,7 +7979,7 @@
         <para>
           <num>(4)</num>
           <heading>Services provided by indirect local impact grants.</heading>
-          <text>Services provided by local impact grant funds that, as described in subsection (b)(3) of this section, are not transferred directly to the Authority under § 19-3(c)(2) of this subtitle do not constitute baseline City services.</text>
+          <text>Services provided by local impact grant funds that, as described in subsection (b)(3) of this section, are not transferred directly to the Authority under <cite path="|14|§19-3|(c)|(2)">§ 19-3(c)(2) of this subtitle</cite> do not constitute baseline City services.</text>
         </para>
       </para>
       <annotations>
@@ -8042,7 +8042,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>hire and retain employees, agents, and contractors as needed to assist in the Administrator in the performance of the Administrator's functions, subject to § 19-5(b)(10) of this subtitle;</text>
+          <text>hire and retain employees, agents, and contractors as needed to assist in the Administrator in the performance of the Administrator's functions, subject to <cite path="|14|§19-5|(b)|(10)">§ 19-5(b)(10) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(5)</num>
@@ -8096,7 +8096,7 @@
       <para>
         <num>(a)</num>
         <heading>Dissolution on non-renewal.</heading>
-        <text>If the District is not renewed as provided in § 19-16 of this subtitle, the Authority shall cease its operations and the District shall cease to exist at the end of the City's fiscal year in which approval was not granted, subject to limited continuation as provided in subsection (b) of this section.</text>
+        <text>If the District is not renewed as provided in <cite path="|14|§19-16">§ 19-16 of this subtitle</cite>, the Authority shall cease its operations and the District shall cease to exist at the end of the City's fiscal year in which approval was not granted, subject to limited continuation as provided in subsection (b) of this section.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -8125,7 +8125,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="14|20">
     <prefix>Subtitle</prefix>
     <num>20</num>
     <heading>Baltimore Tourism Improvement District</heading>
@@ -8364,7 +8364,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>propose, in the District's financial plan, the District special assessments in accordance with § 20-8 of this subtitle;</text>
+          <text>propose, in the District's financial plan, the District special assessments in accordance with <cite path="|14|§20-8">§ 20-8 of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(8)</num>
@@ -8429,7 +8429,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Except as otherwise provided in § 20-17 of this subtitle, the Association may not revert charges or District special assessments collected to the General Fund of the City.</text>
+          <text>Except as otherwise provided in <cite path="|14|§20-17">§ 20-17 of this subtitle</cite>, the Association may not revert charges or District special assessments collected to the General Fund of the City.</text>
         </para>
       </para>
       <annotations>
@@ -8482,7 +8482,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The District Management Committee may delegate to the president and chief executive officer of the Association the authority to discharge District Management Committee duties deemed appropriate and necessary by the District Management Committee in accordance with § 20-8 of this Subtitle.</text>
+          <text>The District Management Committee may delegate to the president and chief executive officer of the Association the authority to discharge District Management Committee duties deemed appropriate and necessary by the District Management Committee in accordance with <cite path="|14|§20-8">§ 20-8 of this Subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -8912,7 +8912,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>If the District is not approved as provided in § 20-15 of this subtitle, or is not renewed as provided in § 20-16 of this subtitle, the Association shall cease its operations related to the District, and the District shall cease to exist, at the end of the City's fiscal year in which the terminating event occurs.</text>
+        <text>If the District is not approved as provided in <cite path="|14|§20-15">§ 20-15 of this subtitle</cite>, or is not renewed as provided in <cite path="|14|§20-16">§ 20-16 of this subtitle</cite>, the Association shall cease its operations related to the District, and the District shall cease to exist, at the end of the City's fiscal year in which the terminating event occurs.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -8927,7 +8927,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>In order to dissolve the District, the assessed business owners shall follow a petition process matching the requirements set forth in § 20-15(a)(2) of this subtitle.  Petitions, with signatures of assessed business owners or their duly authorized representatives, shall be returned to the Board of Estimates.</text>
+          <text>In order to dissolve the District, the assessed business owners shall follow a petition process matching the requirements set forth in <cite path="|14|§20-15|(a)|(2)">§ 20-15(a)(2) of this subtitle</cite>.  Petitions, with signatures of assessed business owners or their duly authorized representatives, shall be returned to the Board of Estimates.</text>
         </para>
         <para>
           <num>(4)</num>

@@ -6234,7 +6234,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="building-codes|II|5">
       <prefix>Chapter</prefix>
       <num>5</num>
       <heading>General Building Heights and Areas</heading>
@@ -6253,7 +6253,7 @@
           <text>Address identification must be provided and maintained for all buildings in accordance with:</text>
           <para>
             <num>1.</num>
-            <text>§ 502 {"Building Address"} of this Chapter; and</text>
+            <text><cite path="|building-codes|§502">§ 502 {"Building Address"} of this Chapter</cite>; and</text>
           </para>
           <para>
             <num>2.</num>
@@ -9331,7 +9331,7 @@
       <num>37</num>
       <reason>Vacant</reason>
     </container>
-    <container>
+    <container cache:ref-path="building-codes|II|38">
       <prefix>Chapter</prefix>
       <num>38</num>
       <heading>Traffic Impact and Mitigation</heading>
@@ -9437,7 +9437,7 @@
             <text>if no additional information is needed:</text>
             <para>
               <num>a.</num>
-              <text>whether the proposed project is in a Traffic-Mitigation Zone, and if so,whether the developer of a project must pay a Traffic-Mitigation Fee under § 3806 {"Traffic-Mitigation Fee"} of this Chapter,</text>
+              <text>whether the proposed project is in a Traffic-Mitigation Zone, and if so,whether the developer of a project must pay a Traffic-Mitigation Fee under <cite path="|building-codes|§3806">§ 3806 {"Traffic-Mitigation Fee"} of this Chapter</cite>,</text>
             </para>
             <para>
               <num>b.</num>
@@ -14075,7 +14075,7 @@
       <heading>City modifications.</heading>
       <text>The additions, deletions, amendments, and other modifications adopted by the City are as follows:</text>
     </section>
-    <container>
+    <container cache:ref-path="building-codes|VII|1">
       <prefix>Chapter</prefix>
       <num>1</num>
       <heading>Scope and Administration</heading>
@@ -14347,7 +14347,7 @@
         <para>
           <num>106.3</num>
           <heading>Prosecution of violation.</heading>
-          <text>Any person who violates a provision of this Code or who fails to comply with a notice of violation or an order served in accordance with § 107 {"Notices and Orders"} of this Chapter is guilty of a misdemeanor.  If the violation is not abated or the notice or order not complied with, the Code Official may institute the appropriate proceeding at law or in equity to restrain, correct, or abate the violation or to require the removal or termination of the unlawful occupancy of the structure in violation of this Code or of the order or direction made under this Code.</text>
+          <text>Any person who violates a provision of this Code or who fails to comply with a notice of violation or an order served in accordance with <cite path="|building-codes|§107">§ 107 {"Notices and Orders"} of this Chapter</cite> is guilty of a misdemeanor.  If the violation is not abated or the notice or order not complied with, the Code Official may institute the appropriate proceeding at law or in equity to restrain, correct, or abate the violation or to require the removal or termination of the unlawful occupancy of the structure in violation of this Code or of the order or direction made under this Code.</text>
         </para>
         <para>
           <num>106.4</num>
@@ -14702,7 +14702,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="building-codes|VII|3">
       <prefix>Chapter</prefix>
       <num>3</num>
       <heading>General Requirements</heading>
@@ -14752,7 +14752,7 @@
               </para>
               <para>
                 <num>b.</num>
-                <text>otherwise complying with the requirements specified in § 308 {"Occupants' Sanitary Responsibility"} of this Chapter.</text>
+                <text>otherwise complying with the requirements specified in <cite path="|building-codes|§308">§ 308 {"Occupants' Sanitary Responsibility"} of this Chapter</cite>.</text>
               </para>
             </para>
           </para>
@@ -15399,7 +15399,7 @@
         <para>
           <num>308.2</num>
           <heading>Exteriors.</heading>
-          <text>An occupant of a single-unit building and an occupant of a unit with exclusive use of an exterior property area must maintain the exterior areas, including abutting sidewalks, gutters, and alleys, in compliance with § 305 {"Exterior ... maintenance – General"} and § 306 {"Exterior ...  maintenance – Trash, garbage..."} of this Chapter.  However, the owner and operator are responsible for any insanitary condition caused by a sewer back-up or a structural defect.</text>
+          <text>An occupant of a single-unit building and an occupant of a unit with exclusive use of an exterior property area must maintain the exterior areas, including abutting sidewalks, gutters, and alleys, in compliance with § 305 {"Exterior ... maintenance – General"} and <cite path="|building-codes|§306">§ 306 {"Exterior ...  maintenance – Trash, garbage..."} of this Chapter</cite>.  However, the owner and operator are responsible for any insanitary condition caused by a sewer back-up or a structural defect.</text>
           <para>
             <num>308.2.1</num>
             <heading>Exception – Residential property registration.</heading>
@@ -15419,7 +15419,7 @@
         <para>
           <num>308.3</num>
           <heading>Interiors.</heading>
-          <text>Except as otherwise specified in § 308.5, an occupant must maintain the interior of the occupant's unit and any other part of the building that the occupant occupies or controls in compliance with § 307 {"Interior ... maintenance"} of this Chapter.</text>
+          <text>Except as otherwise specified in § 308.5, an occupant must maintain the interior of the occupant's unit and any other part of the building that the occupant occupies or controls in compliance with <cite path="|building-codes|§307">§ 307 {"Interior ... maintenance"} of this Chapter</cite>.</text>
         </para>
         <para>
           <num>308.4</num>
@@ -15434,7 +15434,7 @@
         <para>
           <num>308.6</num>
           <heading>Trash disposal.</heading>
-          <text>An occupant may dispose of trash, garbage, and debris only in compliance with § 306 {"Exterior ...  maintenance – Trash, garbage..."} of this Chapter.</text>
+          <text>An occupant may dispose of trash, garbage, and debris only in compliance with <cite path="|building-codes|§306">§ 306 {"Exterior ...  maintenance – Trash, garbage..."} of this Chapter</cite>.</text>
         </para>
         <para>
           <num>308.7</num>
@@ -16004,7 +16004,7 @@
         <reason>As in IPMC</reason>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="building-codes|VII|7">
       <prefix>Chapter</prefix>
       <num>7</num>
       <heading>Fire Safety Requirements</heading>
@@ -16020,7 +16020,7 @@
         <para>
           <num>701.2</num>
           <heading>Responsibility.</heading>
-          <text>Except as provided in § 704 {"Protection and Detection Systems"} of this Chapter, the owner and operator of the premises must provide and maintain fire safety facilities and equipment in compliance with these requirements.</text>
+          <text>Except as provided in <cite path="|building-codes|§704">§ 704 {"Protection and Detection Systems"} of this Chapter</cite>, the owner and operator of the premises must provide and maintain fire safety facilities and equipment in compliance with these requirements.</text>
         </para>
       </section>
       <section>
@@ -18194,7 +18194,7 @@
       <heading>General Requirements</heading>
       <reason>As in IECC-C</reason>
     </container>
-    <container>
+    <container cache:ref-path="building-codes|IX-A|4">
       <prefix>Chapter</prefix>
       <num>4</num>
       <heading>Commercial Energy Efficiency</heading>
@@ -18218,10 +18218,10 @@
           </para>
           <para>
             <num>2.</num>
-            <text>the building meets the requirements of §§ 402 through 405 and § 408 of this Chapter, and, in addition:</text>
+            <text>the building meets the requirements of §§ 402 through 405 and <cite path="|building-codes|§408">§ 408 of this Chapter</cite>, and, in addition:</text>
             <para>
               <num>a.</num>
-              <text>the commercial building complies with § 406 of this Chapter; and</text>
+              <text>the commercial building complies with <cite path="|building-codes|§406">§ 406 of this Chapter</cite>; and</text>
             </para>
             <para>
               <num>b.</num>
@@ -18766,7 +18766,7 @@
       <heading>General Requirements</heading>
       <reason>As in IECC-R</reason>
     </container>
-    <container>
+    <container cache:ref-path="building-codes|IX-B|4">
       <prefix>Chapter</prefix>
       <num>4</num>
       <heading>Residential Energy Efficiency</heading>
@@ -18806,11 +18806,11 @@
               <text><strong>Exceptions:</strong>  As provided for in the:</text>
               <para>
                 <num>(i)</num>
-                <text>Simulated Performance Path listed in § 405 of this Chapter; or</text>
+                <text>Simulated Performance Path listed in <cite path="|building-codes|§405">§ 405 of this Chapter</cite>; or</text>
               </para>
               <para>
                 <num>(ii)</num>
-                <text>Energy Rating Index Compliance Alternative in § 406 of this Chapter.</text>
+                <text>Energy Rating Index Compliance Alternative in <cite path="|building-codes|§406">§ 406 of this Chapter</cite>.</text>
               </para>
             </para>
           </para>

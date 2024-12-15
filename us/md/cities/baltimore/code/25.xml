@@ -944,7 +944,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="25|3">
     <prefix>Subtitle</prefix>
     <num>3</num>
     <heading>Wastewater Discharge Permits</heading>
@@ -1251,7 +1251,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>statement of non-transferability, as specified in § 3-10 of this subtitle;</text>
+          <text>statement of non-transferability, as specified in <cite path="|25|§3-10">§ 3-10 of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(8)</num>
@@ -3209,7 +3209,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="25|14">
     <prefix>Subtitle</prefix>
     <num>14</num>
     <heading>Surcharge for Industrial Wastewater</heading>
@@ -3220,12 +3220,12 @@
       <para>
         <num>(a)</num>
         <heading>Iteration 1.</heading>
-        <text>In addition to normal sewer charges, which are based on the volume of wastewater discharged into the public sanitary sewers, there shall be levied a surcharge for discharging into the sanitary sewer system any wastewater which exceeds the maximum values of polluting materials established by the surcharge formula in § 14-3 of this subtitle.</text>
+        <text>In addition to normal sewer charges, which are based on the volume of wastewater discharged into the public sanitary sewers, there shall be levied a surcharge for discharging into the sanitary sewer system any wastewater which exceeds the maximum values of polluting materials established by the surcharge formula in <cite path="|25|§14-3">§ 14-3 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Iteration 2.</heading>
-        <text>There is hereby imposed an annual surcharge, established by the surcharge formula in § 14-3 of this subtitle, for the use of, and the services rendered by, the plants, properties, works, systems, or facilities, or any part thereof, which are owned or controlled by the City, for discharging any wastewater into the sanitary sewer system and/or storm sewer system which exceeds the maximum values of polluting materials.</text>
+        <text>There is hereby imposed an annual surcharge, established by the surcharge formula in <cite path="|25|§14-3">§ 14-3 of this subtitle</cite>, for the use of, and the services rendered by, the plants, properties, works, systems, or facilities, or any part thereof, which are owned or controlled by the City, for discharging any wastewater into the sanitary sewer system and/or storm sewer system which exceeds the maximum values of polluting materials.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §8(a)(1st sen.), (d)(1)</annotation>
@@ -3242,7 +3242,7 @@
       <para>
         <num>(a)</num>
         <heading>Iteration 1.</heading>
-        <text>The surcharge imposed hereunder shall be on a calendar year basis at the annual rate as established by the surcharge formula in § 14-3 of this subtitle.</text>
+        <text>The surcharge imposed hereunder shall be on a calendar year basis at the annual rate as established by the surcharge formula in <cite path="|25|§14-3">§ 14-3 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4438,7 +4438,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="25|22">
     <prefix>Subtitle</prefix>
     <num>22</num>
     <heading>Administrative Remedies</heading>
@@ -4576,7 +4576,7 @@
       <prefix>§</prefix>
       <num>22-5</num>
       <heading>Right to legal action.</heading>
-      <text>As an alternative to the actions set forth in § 22-4 of this subtitle, the Director of Public Works may refer the complaint or charges for violations to the City Solicitor or State's Attorney for Baltimore City.</text>
+      <text>As an alternative to the actions set forth in <cite path="|25|§22-4">§ 22-4 of this subtitle</cite>, the Director of Public Works may refer the complaint or charges for violations to the City Solicitor or State's Attorney for Baltimore City.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 25, §11(a)(9)</annotation>
         <annotation doc="City of Balt., Md., Ord. 84-129" type="History">Ord. 84-129</annotation>

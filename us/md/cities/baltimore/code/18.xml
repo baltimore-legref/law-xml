@@ -775,7 +775,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="18|I|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Scholarships to Maryland Institute</heading>
@@ -922,7 +922,7 @@
           <heading>Payments to Institute.</heading>
           <para>
             <num>(1)</num>
-            <text>If the Director of Finance is satisfied that the contract is being faithfully observed, he shall pay the Institute annually, in installments on the 1<sup>st</sup> days of October and February, such sums as equal the tuition charges computed under § 2-6 of this subtitle, but the payment in any instance shall not exceed a sum equal to ½ of the appropriation included in the Ordinance of Estimates for that year.</text>
+            <text>If the Director of Finance is satisfied that the contract is being faithfully observed, he shall pay the Institute annually, in installments on the 1<sup>st</sup> days of October and February, such sums as equal the tuition charges computed under <cite path="|18|§2-6">§ 2-6 of this subtitle</cite>, but the payment in any instance shall not exceed a sum equal to ½ of the appropriation included in the Ordinance of Estimates for that year.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1292,7 +1292,7 @@
       <prefix>Subtitle</prefix>
       <num>7</num>
       <heading>Enoch Pratt Free Library</heading>
-      <container>
+      <container cache:ref-path="18|II|7|1">
         <prefix>Part</prefix>
         <num>1</num>
         <heading>Establishment</heading>
@@ -1337,7 +1337,7 @@
           <prefix>§</prefix>
           <num>7-3</num>
           <heading>Investment in sinking fund.</heading>
-          <text>So soon as Enoch Pratt shall pay to the Mayor and City Council of Baltimore, the sum of $833,333.33, according to the terms and provisions of § 7-1 of this Part, it shall be the duty of the Board of Finance to invest the same in Baltimore City stock heretofore authorized to be issued at par as a sinking fund, to be known by the name of the "Enoch Pratt Free Library Sinking Fund".</text>
+          <text>So soon as Enoch Pratt shall pay to the Mayor and City Council of Baltimore, the sum of $833,333.33, according to the terms and provisions of <cite path="|18|§7-1">§ 7-1 of this Part</cite>, it shall be the duty of the Board of Finance to invest the same in Baltimore City stock heretofore authorized to be issued at par as a sinking fund, to be known by the name of the "Enoch Pratt Free Library Sinking Fund".</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1893, art. 39, §3</annotation>
             <annotation type="Prior Codifications">1927, art. 34, §3</annotation>

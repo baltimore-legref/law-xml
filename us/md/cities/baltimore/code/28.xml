@@ -1264,7 +1264,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="28|II|8.1">
       <prefix>Subtitle</prefix>
       <num>8.1</num>
       <heading>In Rem Foreclosure – Vacant and Abandoned Property</heading>
@@ -1466,7 +1466,7 @@
           <text>The Department may file a complaint in the Circuit Court for Baltimore City to initiate an in rem foreclosure action if:</text>
           <para>
             <num>(1)</num>
-            <text>the property otherwise meets the specifications in § 8.1-3(b) {"Applicable properties"} of this subtitle;</text>
+            <text>the property otherwise meets the specifications in <cite path="|28|§8.1-3|(b)">§ 8.1-3(b) {"Applicable properties"} of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1831,7 +1831,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>order that the ownership of the real property is transferred to the Mayor and City Council pursuant to § 8.1-13 {"Title; Recordation"} of this subtitle.</text>
+            <text>order that the ownership of the real property is transferred to the Mayor and City Council pursuant to <cite path="|28|§8.1-13">§ 8.1-13 {"Title; Recordation"} of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -2383,7 +2383,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="28|II|10">
       <prefix>Subtitle</prefix>
       <num>10</num>
       <heading>Credits</heading>
@@ -4960,7 +4960,7 @@
           <text>The tax credit granted under this section does not apply to:</text>
           <para>
             <num>(1)</num>
-            <text>any project that involves improvements eligible for a tax credit under § 10-8 {"Historic restorations and rehabilitations"} of this subtitle; or</text>
+            <text>any project that involves improvements eligible for a tax credit under <cite path="|28|§10-8">§ 10-8 {"Historic restorations and rehabilitations"} of this subtitle</cite>; or</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5193,7 +5193,7 @@
           </para>
           <para>
             <num>(6)</num>
-            <text>not currently receiving the credit authorized by § 10-5 of this subtitle {"Newly constructed dwellings"}.</text>
+            <text>not currently receiving the credit authorized by <cite path="|28|§10-5">§ 10-5 of this subtitle</cite> {"Newly constructed dwellings"}.</text>
           </para>
         </para>
         <para>
@@ -6895,7 +6895,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="28|III|17">
       <prefix>Subtitle</prefix>
       <num>17</num>
       <heading>Transfer Tax</heading>
@@ -7095,7 +7095,7 @@
         <para>
           <num>(b)</num>
           <heading>Scope.</heading>
-          <text>Nothing in this section shall be taken to apply to any lease not taxable under § 17-1 of this subtitle.</text>
+          <text>Nothing in this section shall be taken to apply to any lease not taxable under <cite path="|28|§17-1">§ 17-1 of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §68(a)(1)</annotation>
@@ -7374,7 +7374,7 @@
         <para>
           <num>(b)</num>
           <heading>But governmental transferors.</heading>
-          <text>Except that, in the case of transfers by the United States, the State of Maryland, or any political subdivision thereof, or the Mayor and City Council of Baltimore, or any instrumentality or agency of said respective bodies politic, which transfers are not exempt under § 17-7 of this subtitle, the tax levied and imposed by this subtitle, and all increases, interest and penalties thereon, shall be and become, from the time due and payable, the debt of the legal and equitable transferees only, and shall not become the debt of any of the aforementioned bodies politic or any instrumentality or agency thereof.</text>
+          <text>Except that, in the case of transfers by the United States, the State of Maryland, or any political subdivision thereof, or the Mayor and City Council of Baltimore, or any instrumentality or agency of said respective bodies politic, which transfers are not exempt under <cite path="|28|§17-7">§ 17-7 of this subtitle</cite>, the tax levied and imposed by this subtitle, and all increases, interest and penalties thereon, shall be and become, from the time due and payable, the debt of the legal and equitable transferees only, and shall not become the debt of any of the aforementioned bodies politic or any instrumentality or agency thereof.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1966, art. 28, §122(j)</annotation>
@@ -8358,7 +8358,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="28|III|21">
       <prefix>Subtitle</prefix>
       <num>21</num>
       <heading>Hotel Room Tax</heading>
@@ -8477,7 +8477,7 @@
         <para>
           <num>(a)</num>
           <heading>Tax to be collected and remitted.</heading>
-          <text>Every person, firm, association, or corporation subject to the tax imposed by § 21-2 {"Tax imposed"} of this subtitle:</text>
+          <text>Every person, firm, association, or corporation subject to the tax imposed by <cite path="|28|§21-2">§ 21-2 {"Tax imposed"} of this subtitle</cite>:</text>
           <para>
             <num>(1)</num>
             <text>shall collect the tax levied and imposed by this subtitle from the persons paying the rental or other charges for the use or occupancy of any room or rooms for sleeping accommodations; and</text>
@@ -9161,7 +9161,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="28|III|23">
       <prefix>Subtitle</prefix>
       <num>23</num>
       <heading>Pole License Fee</heading>
@@ -9302,7 +9302,7 @@
         <para>
           <num>(4)</num>
           <text>on which the prescribed tin plate is not securely fastened in some conspicuous place,</text>
-          <text>on or before June 15 in any year, shall be forthwith removed by its owner and, in default thereof, may be cut or taken down and removed from the streets by the Director of Transportation, in addition to the owner incurring the penalties provided in § 23-7 of this subtitle.</text>
+          <text>on or before June 15 in any year, shall be forthwith removed by its owner and, in default thereof, may be cut or taken down and removed from the streets by the Director of Transportation, in addition to the owner incurring the penalties provided in <cite path="|28|§23-7">§ 23-7 of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1893, art. 50, §77</annotation>
@@ -9326,15 +9326,15 @@
         <text>Any person or persons, or corporation using, possessing, or maintaining any telegraph, telephone, electric light, or other poles in any of the streets, lanes, and alleys of the City:</text>
         <para>
           <num>(1)</num>
-          <text>who fails to file a list of these poles with the Director of Transportation, as prescribed in § 23-2 of this subtitle;</text>
+          <text>who fails to file a list of these poles with the Director of Transportation, as prescribed in <cite path="|28|§23-2">§ 23-2 of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>who fails to have stamped, printed, or painted in legible characters, the owner's name on each of these poles, as prescribed in§ 23-2 of this subtitle;</text>
+          <text>who fails to have stamped, printed, or painted in legible characters, the owner's name on each of these poles, as prescribed in<cite path="|28|§23-2">§ 23-2 of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>who, as required by § 23-3 of this subtitle:</text>
+          <text>who, as required by <cite path="|28|§23-3">§ 23-3 of this subtitle</cite>:</text>
           <para>
             <num>(i)</num>
             <text>fails to pay the prescribed fee for each pole; or</text>
@@ -10449,7 +10449,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="28|III|27">
       <prefix>Subtitle</prefix>
       <num>27</num>
       <heading>Tobacco Tax</heading>
@@ -10741,7 +10741,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>identify the number of products supplied in each of the classifications specified in § 27-3 of this subtitle.</text>
+              <text>identify the number of products supplied in each of the classifications specified in <cite path="|28|§27-3">§ 27-3 of this subtitle</cite>.</text>
             </para>
           </para>
         </para>
@@ -11785,7 +11785,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="28|III|30">
       <prefix>Subtitle</prefix>
       <num>30</num>
       <heading>Property Assessed Clean Energy (PACE) Loan Program</heading>
@@ -11801,7 +11801,7 @@
         <para>
           <num>(b)</num>
           <heading>Administrator.</heading>
-          <text>"Administrator" means the contractor selected under § 30-3 {"Program administration"} of this subtitle to administer the PACE Loan Program for the City.</text>
+          <text>"Administrator" means the contractor selected under <cite path="|28|§30-3">§ 30-3 {"Program administration"} of this subtitle</cite> to administer the PACE Loan Program for the City.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -12166,7 +12166,7 @@
           <para>
             <num>(3)</num>
             <heading>Costs included.</heading>
-            <text>A clean energy loan may include costs associated with executing the financing agreement, including origination, legal, and closing costs, but excluding the non-financeable fees provided for in § 30-3(c)(2) {"Program expenses"} of this subtitle.</text>
+            <text>A clean energy loan may include costs associated with executing the financing agreement, including origination, legal, and closing costs, but excluding the non-financeable fees provided for in <cite path="|28|§30-3|(c)|(2)">§ 30-3(c)(2) {"Program expenses"} of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -12231,7 +12231,7 @@
         <para>
           <num>(c)</num>
           <heading>Transferability.</heading>
-          <text>Except as provided in § 30-3(a)(2) of this subtitle, if a person acquires a commercial property that is subject to a surcharge incurred under this subtitle, that person assumes the obligation to pay the surcharge, whether the acquisition was voluntary or involuntary.</text>
+          <text>Except as provided in <cite path="|28|§30-3|(a)|(2)">§ 30-3(a)(2) of this subtitle</cite>, if a person acquires a commercial property that is subject to a surcharge incurred under this subtitle, that person assumes the obligation to pay the surcharge, whether the acquisition was voluntary or involuntary.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -12461,7 +12461,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="28|III|32">
       <prefix>Subtitle</prefix>
       <num>32</num>
       <heading>Checkout Bag Surcharge</heading>
@@ -12682,7 +12682,7 @@
         <para>
           <num>(b)</num>
           <heading>Failure to file reports; maintain records.</heading>
-          <text>If a person fails to submit the remittance reports or fails to keep suitable records as required by § 32-4 of this subtitle, the person must pay the Director, in addition to the surcharge, a penalty of $1,000 for each month that reports are not submitted or for each month that suitable records are not kept.</text>
+          <text>If a person fails to submit the remittance reports or fails to keep suitable records as required by <cite path="|28|§32-4">§ 32-4 of this subtitle</cite>, the person must pay the Director, in addition to the surcharge, a penalty of $1,000 for each month that reports are not submitted or for each month that suitable records are not kept.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-337" type="History">Ord. 20-337</annotation>

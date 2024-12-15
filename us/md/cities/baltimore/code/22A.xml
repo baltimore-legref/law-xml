@@ -339,7 +339,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="22A|2">
     <prefix>Subtitle</prefix>
     <num>2</num>
     <heading>Administration</heading>
@@ -461,7 +461,7 @@
       <para>
         <num>(b)</num>
         <heading>Administrative capacity.</heading>
-        <text>Subject to § 2-8 {"Retention of services; Right of reliance"} of this subtitle, the Board is responsible for:</text>
+        <text>Subject to <cite path="|22A|§2-8">§ 2-8 {"Retention of services; Right of reliance"} of this subtitle</cite>, the Board is responsible for:</text>
         <para>
           <num>(1)</num>
           <text>the general administration and proper operation of the Plan; and</text>
@@ -480,7 +480,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Subject to § 2-8 {"Retention of services; Right of reliance"} of this subtitle, the Board is responsible for:</text>
+          <text>Subject to <cite path="|22A|§2-8">§ 2-8 {"Retention of services; Right of reliance"} of this subtitle</cite>, the Board is responsible for:</text>
           <para>
             <num>(i)</num>
             <text>selecting investment funds (including a default investment fund) under <cite path="|22A|§6-2">§ 6-2 {"Accounts: Investments"} of this article</cite>;</text>
@@ -498,7 +498,7 @@
       <para>
         <num>(d)</num>
         <heading>Other assets.</heading>
-        <text>Subject to § 2-8 {"Retention of services; Right of reliance"} of this subtitle, the Board is responsible for any other assets assigned to the Board by the City.  The scope of the Board's responsibility is determined by the terms of the assignment.</text>
+        <text>Subject to <cite path="|22A|§2-8">§ 2-8 {"Retention of services; Right of reliance"} of this subtitle</cite>, the Board is responsible for any other assets assigned to the Board by the City.  The scope of the Board's responsibility is determined by the terms of the assignment.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
@@ -538,7 +538,7 @@
         <heading>Secretary.</heading>
         <para>
           <num>(1)</num>
-          <text>If an Executive Director has been appointed by the Board under § 2-8(a) {"Services"} of this subtitle, the Executive Director serves as the Board's Secretary.</text>
+          <text>If an Executive Director has been appointed by the Board under <cite path="|22A|§2-8|(a)">§ 2-8(a) {"Services"} of this subtitle</cite>, the Executive Director serves as the Board's Secretary.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -876,7 +876,7 @@
       <para>
         <num>(a)</num>
         <heading>Judicial review.</heading>
-        <text>A party aggrieved by a final decision of the Board of Trustees under § 2-17 {"Administrative appeal"} of this subtitle may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+        <text>A party aggrieved by a final decision of the Board of Trustees under <cite path="|22A|§2-17">§ 2-17 {"Administrative appeal"} of this subtitle</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1201,7 +1201,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="22A|5">
     <prefix>Subtitle</prefix>
     <num>5</num>
     <heading>Contributions</heading>
@@ -1212,15 +1212,15 @@
       <text>The following contributions are made to the Retirement Savings Plan:</text>
       <para>
         <num>(1)</num>
-        <text>Mandatory employee contributions made under§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle;</text>
+        <text>Mandatory employee contributions made under<cite path="|22A|§5-2">§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Employer contributions made under § 5-3 {"Employer contributions"} of this subtitle; and</text>
+        <text>Employer contributions made under <cite path="|22A|§5-3">§ 5-3 {"Employer contributions"} of this subtitle</cite>; and</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Rollover contributions made under § 5-4 {"Rollover contributions"} of this subtitle.</text>
+        <text>Rollover contributions made under <cite path="|22A|§5-4">§ 5-4 {"Rollover contributions"} of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
@@ -1302,7 +1302,7 @@
         <heading>Non-hybrid members.</heading>
         <para>
           <num>(1)</num>
-          <text>For each payroll period in which a non-hybrid member makes a mandatory employee contribution under § 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle, the member's employer must contribute to the Retirement Savings Plan an amount equal to 4% of the member's earnable compensation for that payroll period.</text>
+          <text>For each payroll period in which a non-hybrid member makes a mandatory employee contribution under <cite path="|22A|§5-2">§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle</cite>, the member's employer must contribute to the Retirement Savings Plan an amount equal to 4% of the member's earnable compensation for that payroll period.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1448,7 +1448,7 @@
           <num>(1)</num>
           <para>
             <num>(i)</num>
-            <text>To the extent required by USERRA, a non-hybrid member returning from an unpaid leave of absence on account of military service may make a 1-time irrevocable election to make up all or part of the mandatory employee contributions the member would have been required to make under § 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle had he or she remained actively employed by a participating employer.</text>
+            <text>To the extent required by USERRA, a non-hybrid member returning from an unpaid leave of absence on account of military service may make a 1-time irrevocable election to make up all or part of the mandatory employee contributions the member would have been required to make under <cite path="|22A|§5-2">§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle</cite> had he or she remained actively employed by a participating employer.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -1480,7 +1480,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Makeup contributions made under this subsection will be treated as being "picked up" to the same extent as mandatory employee contributions are treated as being "picked up" under § 5-2I {"Mandatory contributions by non-hybrid members: 'Picked-up' Status"} of this subtitle.</text>
+          <text>Makeup contributions made under this subsection will be treated as being "picked up" to the same extent as mandatory employee contributions are treated as being "picked up" under <cite path="|22A|§5-2I" proof="needed">§ 5-2I {"Mandatory contributions by non-hybrid members: 'Picked-up' Status"} of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -1512,7 +1512,7 @@
         <heading>Hybrid members.</heading>
         <para>
           <num>(1)</num>
-          <text>To the extent required by USERRA, the employer of a hybrid member returning from an unpaid leave of absence on account of military service must make an employer contribution to this Plan in an amount equal to the amount the employer would have been required to make, under § 5-3(c) {"Employer contributions: Hybrid members"} of this subtitle, had the retiring member remained actively employed by a participating employer.</text>
+          <text>To the extent required by USERRA, the employer of a hybrid member returning from an unpaid leave of absence on account of military service must make an employer contribution to this Plan in an amount equal to the amount the employer would have been required to make, under <cite path="|22A|§5-3|(c)">§ 5-3(c) {"Employer contributions: Hybrid members"} of this subtitle</cite>, had the retiring member remained actively employed by a participating employer.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1544,22 +1544,22 @@
             <text>"Annual additions" means the sum of the following amounts credited to a member's account for the Limitation Year:</text>
             <para>
               <num>(A)</num>
-              <text>Mandatory employee contributions made under§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle; and</text>
+              <text>Mandatory employee contributions made under<cite path="|22A|§5-2">§ 5-2 {"Mandatory contributions by non-hybrid members"} of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>Employer contributions made under§ 5-3 {"Employer contributions"} of this subtitle.</text>
+              <text>Employer contributions made under<cite path="|22A|§5-3">§ 5-3 {"Employer contributions"} of this subtitle</cite>.</text>
             </para>
           </para>
           <para>
             <num>(ii)</num>
             <heading>Inclusions.</heading>
-            <text>"Annual additions" includes makeup contributions made under § 5-5 {"Makeup contributions after military leave"} of this subtitle for the limitation year to which the contributions relate (not for the limitation year in which the contributions are made).</text>
+            <text>"Annual additions" includes makeup contributions made under <cite path="|22A|§5-5">§ 5-5 {"Makeup contributions after military leave"} of this subtitle</cite> for the limitation year to which the contributions relate (not for the limitation year in which the contributions are made).</text>
           </para>
           <para>
             <num>(iii)</num>
             <heading>Exclusions.</heading>
-            <text>"Annual additions" does not include rollover contributions made under § 5-4 {"Rollover contributions"} of this subtitle.</text>
+            <text>"Annual additions" does not include rollover contributions made under <cite path="|22A|§5-4">§ 5-4 {"Rollover contributions"} of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -1658,7 +1658,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="22A|6">
     <prefix>Subtitle</prefix>
     <num>6</num>
     <heading>Accounts</heading>
@@ -1706,11 +1706,11 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>gains and losses are allocated under § 6-2(d) {"Investments: Fund gains and losses"} of this subtitle; and</text>
+            <text>gains and losses are allocated under <cite path="|22A|§6-2|(d)">§ 6-2(d) {"Investments: Fund gains and losses"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>fees and expenses are charged under§ 6-2(e) {"Investments: Fund fees and expenses"} of this subtitle.</text>
+            <text>fees and expenses are charged under<cite path="|22A|§6-2|(e)">§ 6-2(e) {"Investments: Fund fees and expenses"} of this subtitle</cite>.</text>
           </para>
         </para>
       </para>
@@ -1909,7 +1909,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="22A|8">
     <prefix>Subtitle</prefix>
     <num>8</num>
     <heading>Forfeitures</heading>
@@ -1957,7 +1957,7 @@
       <para>
         <num>(a)</num>
         <heading>To defray reasonable Plan expenses.</heading>
-        <text>After the end of each Plan Year, any amount remaining in the Forfeiture Account after all Employer Contribution Sub-Accounts are restored under § 8-3 {"Restoration"} of this subtitle will be used to defray reasonable Plan administrative expenses.</text>
+        <text>After the end of each Plan Year, any amount remaining in the Forfeiture Account after all Employer Contribution Sub-Accounts are restored under <cite path="|22A|§8-3">§ 8-3 {"Restoration"} of this subtitle</cite> will be used to defray reasonable Plan administrative expenses.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1969,7 +1969,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="22A|9">
     <prefix>Subtitle</prefix>
     <num>9</num>
     <heading>Distributions</heading>
@@ -1982,7 +1982,7 @@
         <heading>In general.</heading>
         <para>
           <num>(1)</num>
-          <text>On a distributable event under § 9-2 {"Distributable events – Retirement"}, § 9-3 {"Distributable events – Disability"}, or § 9-5 {"Distributable events – Other termination of employment"} of this subtitle, a member may elect to have his or her vested account distributed under 1 of the options described in subsection (b) of this section.</text>
+          <text>On a distributable event under § 9-2 {"Distributable events – Retirement"}, § 9-3 {"Distributable events – Disability"}, or <cite path="|22A|§9-5">§ 9-5 {"Distributable events – Other termination of employment"} of this subtitle</cite>, a member may elect to have his or her vested account distributed under 1 of the options described in subsection (b) of this section.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2009,7 +2009,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Subject to § 9-8 {"Minimum distribution rules"} of this subtitle, the amount payable each year under this option is:</text>
+            <text>Subject to <cite path="|22A|§9-8">§ 9-8 {"Minimum distribution rules"} of this subtitle</cite>, the amount payable each year under this option is:</text>
             <para>
               <num>(A)</num>
               <text>the balance of the member's vested account at the end of the preceding year, multiplied by</text>
@@ -2153,7 +2153,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>the member might still be eligible for a distribution of that sub-account under§ 9-2 {"Distributable events – Retirement"} or § 9-5 {"Distributable events – Other termination of employment"} of this subtitle.</text>
+            <text>the member might still be eligible for a distribution of that sub-account under§ 9-2 {"Distributable events – Retirement"} or <cite path="|22A|§9-5">§ 9-5 {"Distributable events – Other termination of employment"} of this subtitle</cite>.</text>
           </para>
         </para>
       </para>
@@ -2181,7 +2181,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>On the death of a member while an employee (or before receiving a distribution under § 9-2 {"Distributable events – Retirement"}, § 9-3 {"Distributable events – Disability"}, or § 9-5 {"Distributable events – Other termination of employment"} of this subtitle), the member's beneficiary is entitled to receive, as soon as administratively practicable after the Board of Trustees has determined that the member has died, a lump-sum cash payment in an amount equal to the value of the member's:</text>
+        <text>On the death of a member while an employee (or before receiving a distribution under § 9-2 {"Distributable events – Retirement"}, § 9-3 {"Distributable events – Disability"}, or <cite path="|22A|§9-5">§ 9-5 {"Distributable events – Other termination of employment"} of this subtitle</cite>), the member's beneficiary is entitled to receive, as soon as administratively practicable after the Board of Trustees has determined that the member has died, a lump-sum cash payment in an amount equal to the value of the member's:</text>
         <para>
           <num>(1)</num>
           <text>if applicable, Mandatory Employee Contribution Sub-Account;</text>
@@ -2618,7 +2618,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="22A|10">
     <prefix>Subtitle</prefix>
     <num>10</num>
     <heading>Anti-Alienation Provisions</heading>
@@ -2647,7 +2647,7 @@
       <prefix>§</prefix>
       <num>10-3</num>
       <heading>Exceptions – General applicability.</heading>
-      <text>Subject to the requirements of § 10-12 {"Notice to Board"} of this subtitle, the exceptions provided in §§ 10-4 {"Exceptions - Court orders"} through 10-10 {"Exceptions – Funeral expenses"} apply notwithstanding § 10-1 {"Prohibited assignments, attachments, etc."} of this subtitle.</text>
+      <text>Subject to the requirements of <cite path="|22A|§10-12">§ 10-12 {"Notice to Board"} of this subtitle</cite>, the exceptions provided in §§ 10-4 {"Exceptions - Court orders"} through 10-10 {"Exceptions – Funeral expenses"} apply notwithstanding <cite path="|22A|§10-1">§ 10-1 {"Prohibited assignments, attachments, etc."} of this subtitle</cite>.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 14-216" type="History">Ord. 14-216</annotation>
       </annotations>

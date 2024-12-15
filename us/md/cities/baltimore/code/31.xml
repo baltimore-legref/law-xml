@@ -3,7 +3,7 @@
   <prefix>Article</prefix>
   <num>31</num>
   <heading>Transit and Traffic</heading>
-  <container>
+  <container cache:ref-path="31|1">
     <prefix>Subtitle</prefix>
     <num>1</num>
     <heading>Definitions; General Provisions</heading>
@@ -317,7 +317,7 @@
       <para>
         <num>(f)</num>
         <heading>Street.</heading>
-        <text>"Street" means a highway, as defined in § 1-1(n) {"Definitions: Highway"} of this subtitle.</text>
+        <text>"Street" means a highway, as defined in <cite path="|31|§1-1|(n)">§ 1-1(n) {"Definitions: Highway"} of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -424,7 +424,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="31|2">
     <prefix>Subtitle</prefix>
     <num>2</num>
     <heading>General Administration</heading>
@@ -618,7 +618,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>further, prohibit parking or stopping in the manner and subject to the conditions and limitations set forth in § 2-6 of this subtitle on portions of streets designated as transit lanes, and whenever the Director has prohibited stopping or parking in these lanes in accordance with § 2-6 of this subtitle and a vehicle is stopped or parked contrary to an administrative regulation, and signs are posted warning that stopping or parking in violation of the regulation will result in the impounding of the motor vehicle, the Police Department shall impound the vehicle in the manner and under the conditions set forth in Subtitle 31 of <cite path="|31">this article</cite>;</text>
+          <text>further, prohibit parking or stopping in the manner and subject to the conditions and limitations set forth in <cite path="|31|§2-6">§ 2-6 of this subtitle</cite> on portions of streets designated as transit lanes, and whenever the Director has prohibited stopping or parking in these lanes in accordance with <cite path="|31|§2-6">§ 2-6 of this subtitle</cite> and a vehicle is stopped or parked contrary to an administrative regulation, and signs are posted warning that stopping or parking in violation of the regulation will result in the impounding of the motor vehicle, the Police Department shall impound the vehicle in the manner and under the conditions set forth in Subtitle 31 of <cite path="|31">this article</cite>;</text>
         </para>
       </para>
       <para>
@@ -1174,7 +1174,7 @@
     <num>4 to 5</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="31|6">
     <prefix>Subtitle</prefix>
     <num>6</num>
     <heading>Parking, Standing, and Stopping Regulations</heading>
@@ -1229,7 +1229,7 @@
         <prefix>§</prefix>
         <num>6-2</num>
         <heading>Motorcycles and motor bikes.</heading>
-        <text>Notwithstanding the provisions of § 6-1 of this subtitle, in all cases where motor-driven 2- or 3-wheel vehicles known generally as motorcycles or motor bikes shall stand upon the streets of the City:</text>
+        <text>Notwithstanding the provisions of <cite path="|31|§6-1">§ 6-1 of this subtitle</cite>, in all cases where motor-driven 2- or 3-wheel vehicles known generally as motorcycles or motor bikes shall stand upon the streets of the City:</text>
         <para>
           <num>(1)</num>
           <text>they shall be so placed that either their front or rear wheels or both front and rear wheels are next to the curb and not more than 12 inches therefrom; and</text>
@@ -3044,7 +3044,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="31|9">
     <prefix>Subtitle</prefix>
     <num>9</num>
     <heading>Parking for Disabled Persons and Helpers</heading>
@@ -3130,7 +3130,7 @@
           <heading>Application to Department.</heading>
           <para>
             <num>(1)</num>
-            <text>Any person desiring a reserved parking space and meeting the criteria of § 9-1 of this subtitle may submit an application for a reserved parking permit to the Department of Transportation.</text>
+            <text>Any person desiring a reserved parking space and meeting the criteria of <cite path="|31|§9-1">§ 9-1 of this subtitle</cite> may submit an application for a reserved parking permit to the Department of Transportation.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3436,7 +3436,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="31|10">
     <prefix>Subtitle</prefix>
     <num>10</num>
     <heading>Residential Permit Parking Program</heading>
@@ -3621,11 +3621,11 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>provide for the payment of major change costs under § 10-20 of this subtitle;</text>
+            <text>provide for the payment of major change costs under <cite path="|31|§10-20">§ 10-20 of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>allow for the issuance of special permits under § 10-22(d) of this subtitle; and</text>
+            <text>allow for the issuance of special permits under <cite path="|31|§10-22|(d)">§ 10-22(d) of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(4)</num>
@@ -3770,27 +3770,27 @@
           <text>Except as otherwise provided in this section, participation in the Program is available to the following areas:</text>
           <para>
             <num>(1)</num>
-            <text>the "Pimlico Race Track Area", as described in § 10-33 of this subtitle;</text>
+            <text>the "Pimlico Race Track Area", as described in <cite path="|31|§10-33">§ 10-33 of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>the "Little Italy Area", as described in § 10-34 of this subtitle;</text>
+            <text>the "Little Italy Area", as described in <cite path="|31|§10-34">§ 10-34 of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>the "Fells Point Area", as described in § 10-35 of this subtitle;</text>
+            <text>the "Fells Point Area", as described in <cite path="|31|§10-35">§ 10-35 of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>the "Cross Street Area", as described in § 10-36 of this subtitle;</text>
+            <text>the "Cross Street Area", as described in <cite path="|31|§10-36">§ 10-36 of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>the "Camden Yards Stadium Complex Area", as described in § 10-37 of this subtitle;</text>
+            <text>the "Camden Yards Stadium Complex Area", as described in <cite path="|31|§10-37">§ 10-37 of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(6)</num>
-            <text>the "Guilford Area", as described in § 10-38 of this subtitle; and</text>
+            <text>the "Guilford Area", as described in <cite path="|31|§10-38">§ 10-38 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(7)</num>
@@ -4078,7 +4078,7 @@
         <para>
           <num>(a)</num>
           <heading>Director to develop.</heading>
-          <text>If the criteria specified in § 10-15 {"Criteria for further consideration"} of this subtitle are satisfied, the Executive Director shall use the parking study to design a Parking Management Plan that addresses the identified problem.</text>
+          <text>If the criteria specified in <cite path="|31|§10-15">§ 10-15 {"Criteria for further consideration"} of this subtitle</cite> are satisfied, the Executive Director shall use the parking study to design a Parking Management Plan that addresses the identified problem.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4344,7 +4344,7 @@
               </para>
               <para>
                 <num>(B)</num>
-                <text>adding or eliminating permit authorization under § 10-22(b)(2) of this subtitle for residents of corner properties.</text>
+                <text>adding or eliminating permit authorization under <cite path="|31|§10-22|(b)|(2)">§ 10-22(b)(2) of this subtitle</cite> for residents of corner properties.</text>
               </para>
             </para>
             <para>
@@ -4448,12 +4448,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>A developer, property owner, or establishment seeking a major change to a Residential Permit Parking Plan under § 10-19 of this subtitle that would allow for the issuance of new permits of any type is responsible for the costs of the major change process, as determined by the Executive Director.</text>
+          <text>A developer, property owner, or establishment seeking a major change to a Residential Permit Parking Plan under <cite path="|31|§10-19">§ 10-19 of this subtitle</cite> that would allow for the issuance of new permits of any type is responsible for the costs of the major change process, as determined by the Executive Director.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Rules and regulations.</heading>
-          <text>The rules and regulations adopted under § 10-8 of this subtitle must include rules and regulations to:</text>
+          <text>The rules and regulations adopted under <cite path="|31|§10-8">§ 10-8 of this subtitle</cite> must include rules and regulations to:</text>
           <para>
             <num>(1)</num>
             <text>determine the costs of a major change process that must be paid under this section,</text>
@@ -4570,7 +4570,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>if more than 5 dwelling units are added as a result of the development, redevelopment, or renovation, permit eligibility for residents of the additional units is approved as a major change through the amendment process set out in § 10-19 of this subtitle.</text>
+              <text>if more than 5 dwelling units are added as a result of the development, redevelopment, or renovation, permit eligibility for residents of the additional units is approved as a major change through the amendment process set out in <cite path="|31|§10-19">§ 10-19 of this subtitle</cite>.</text>
             </para>
           </para>
         </para>
@@ -4653,7 +4653,7 @@
         <para>
           <num>(d)</num>
           <heading>Areas exempt from fees.</heading>
-          <text>No fee may be charged for any permit to an eligible resident in Areas A and B of the Camden Yards Stadium Complex Area, as described in § 10-37 of this subtitle.</text>
+          <text>No fee may be charged for any permit to an eligible resident in Areas A and B of the Camden Yards Stadium Complex Area, as described in <cite path="|31|§10-37">§ 10-37 of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §156(e)(parts)</annotation>
@@ -5251,7 +5251,7 @@
         <para>
           <num>(b)</num>
           <heading>Ineligible vehicle.</heading>
-          <text>No person may display any permit in a vehicle that is not of a class described in § 10-22(a) {"Eligibility for permit: Vehicles"} of this subtitle.</text>
+          <text>No person may display any permit in a vehicle that is not of a class described in <cite path="|31|§10-22|(a)">§ 10-22(a) {"Eligibility for permit: Vehicles"} of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 06-316" type="History">Ord. 06-316</annotation>
@@ -5332,7 +5332,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>If an unattended vehicle is found parked in violation of § 10-43 {"Using invalid permits"} of this subtitle, the vehicle may be impounded or immobilized pending surrender of the invalid permit.</text>
+          <text>If an unattended vehicle is found parked in violation of <cite path="|31|§10-43">§ 10-43 {"Using invalid permits"} of this subtitle</cite>, the vehicle may be impounded or immobilized pending surrender of the invalid permit.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5429,7 +5429,7 @@
       <reason>Repealed by Ord. 15-435</reason>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="31|12">
     <prefix>Subtitle</prefix>
     <num>12</num>
     <heading>Off-Street Parking Commission</heading>
@@ -5517,7 +5517,7 @@
       <para>
         <num>(a)</num>
         <heading>Terms - ex-officio members.</heading>
-        <text>The person holding the particular public office stated in § 12-1(a)(1) of this subtitle shall serve until he ceases to hold office or until the particular office is abolished.</text>
+        <text>The person holding the particular public office stated in <cite path="|31|§12-1|(a)|(1)" proof="needed">§ 12-1(a)(1) of this subtitle</cite> shall serve until he ceases to hold office or until the particular office is abolished.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -5730,7 +5730,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="31|13">
     <prefix>Subtitle</prefix>
     <num>13</num>
     <heading>Baltimore City Parking Authority</heading>
@@ -6248,7 +6248,7 @@
         <heading>Staff.</heading>
         <para>
           <num>(1)</num>
-          <text>The Board must select an executive director, as provided in § 13-10 of this subtitle.</text>
+          <text>The Board must select an executive director, as provided in <cite path="|31|§13-10">§ 13-10 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -6519,7 +6519,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="31|14">
     <prefix>Subtitle</prefix>
     <num>14</num>
     <heading>Valet Parking</heading>
@@ -6785,7 +6785,7 @@
         <para>
           <num>(b)</num>
           <heading>Prior infractions.</heading>
-          <text>Neither the applicant nor any of the applicant's principals, employees, attendants or other agents may have committed an act or omission within the preceding 12 months that, under § 14-41 of this subtitle, is cause for the denial, suspension, or revocation of an operator's license.</text>
+          <text>Neither the applicant nor any of the applicant's principals, employees, attendants or other agents may have committed an act or omission within the preceding 12 months that, under <cite path="|31|§14-41">§ 14-41 of this subtitle</cite>, is cause for the denial, suspension, or revocation of an operator's license.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -6858,7 +6858,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>proof of insurance in the form and amount required under § 14-8(c) {"Qualifications: Liability insurance"} of this subtitle;</text>
+            <text>proof of insurance in the form and amount required under <cite path="|31|§14-8|(c)">§ 14-8(c) {"Qualifications: Liability insurance"} of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(6)</num>
@@ -6874,7 +6874,7 @@
           </para>
           <para>
             <num>(9)</num>
-            <text>certification that neither the applicant nor any of the applicant's principals, employees, attendants or other agents have committed an act or omission within the preceding 12 months that, under § 14-41 of this subtitle, is cause for the denial, suspension, or revocation of an operator's license;</text>
+            <text>certification that neither the applicant nor any of the applicant's principals, employees, attendants or other agents have committed an act or omission within the preceding 12 months that, under <cite path="|31|§14-41">§ 14-41 of this subtitle</cite>, is cause for the denial, suspension, or revocation of an operator's license;</text>
           </para>
           <para>
             <num>(10)</num>
@@ -7044,7 +7044,7 @@
         <para>
           <num>(c)</num>
           <heading>Prior infractions.</heading>
-          <text>Neither the host, operator, nor any of the host's or operator's principals, employees, attendants, or other agents may have committed an act or omission within the preceding 12 months that, under § 14-41 or § 14-42 of this subtitle, is cause for the denial, suspension, or revocation of an operator's license or a valet zone parking permit.</text>
+          <text>Neither the host, operator, nor any of the host's or operator's principals, employees, attendants, or other agents may have committed an act or omission within the preceding 12 months that, under § 14-41 or <cite path="|31|§14-42">§ 14-42 of this subtitle</cite>, is cause for the denial, suspension, or revocation of an operator's license or a valet zone parking permit.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 13-098" type="History">Ord. 13-098</annotation>
@@ -7101,11 +7101,11 @@
           </para>
           <para>
             <num>(7)</num>
-            <text>a valet parking plan for the location that complies with § 14-19 {"Valet parking plan"} of this subtitle;</text>
+            <text>a valet parking plan for the location that complies with <cite path="|31|§14-19">§ 14-19 {"Valet parking plan"} of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(8)</num>
-            <text>certification that neither the applicant nor any of the applicant's principals, employees, attendants or other agents have committed an act or omission within the preceding 12 months that, under § 14-41 of this subtitle, is cause for the denial, suspension, or revocation of an operator's license; and</text>
+            <text>certification that neither the applicant nor any of the applicant's principals, employees, attendants or other agents have committed an act or omission within the preceding 12 months that, under <cite path="|31|§14-41">§ 14-41 of this subtitle</cite>, is cause for the denial, suspension, or revocation of an operator's license; and</text>
           </para>
           <para>
             <num>(9)</num>
@@ -7306,7 +7306,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Written notice of the hearing shall be provided by first class mail at least 15 days prior to the hearing to all persons listed in § 14-19(i) of this subtitle.</text>
+            <text>Written notice of the hearing shall be provided by first class mail at least 15 days prior to the hearing to all persons listed in <cite path="|31|§14-19|(i)">§ 14-19(i) of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -7321,11 +7321,11 @@
             <text>The Director of Transportation must notify the applicant in writing of his or her decision to grant or deny the permit as follows:</text>
             <para>
               <num>(i)</num>
-              <text>if no hearing is held under § 14-20(c) of this subtitle, within 15 days after the last day of the 15-day posting period; and</text>
+              <text>if no hearing is held under <cite path="|31|§14-20|(c)">§ 14-20(c) of this subtitle</cite>, within 15 days after the last day of the 15-day posting period; and</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>if a hearing is held under § 14-20(c) of this subtitle, within 15 days after conclusion of the hearing.</text>
+              <text>if a hearing is held under <cite path="|31|§14-20|(c)">§ 14-20(c) of this subtitle</cite>, within 15 days after conclusion of the hearing.</text>
             </para>
           </para>
           <para>
@@ -7341,7 +7341,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>notify the applicant of the opportunity to appeal the denial of the permit under § 14-46 {"Administrative appeals"} of this subtitle.</text>
+              <text>notify the applicant of the opportunity to appeal the denial of the permit under <cite path="|31|§14-46">§ 14-46 {"Administrative appeals"} of this subtitle</cite>.</text>
             </para>
           </para>
         </para>
@@ -7847,7 +7847,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>must provide written notice of the hearing by first class mail at least 15 days prior to the hearing to all persons listed in § 14-19(i) of this subtitle; and</text>
+            <text>must provide written notice of the hearing by first class mail at least 15 days prior to the hearing to all persons listed in <cite path="|31|§14-19|(i)">§ 14-19(i) of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(3)</num>
@@ -7865,7 +7865,7 @@
         <para>
           <num>(a)</num>
           <heading>Judicial review.</heading>
-          <text>A party aggrieved by a final decision of the Board of Municipal and Zoning Appeals under § 14-46 {"Administrative appeals"} of this subtitle may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+          <text>A party aggrieved by a final decision of the Board of Municipal and Zoning Appeals under <cite path="|31|§14-46">§ 14-46 {"Administrative appeals"} of this subtitle</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -9418,7 +9418,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="31|17">
     <prefix>Subtitle</prefix>
     <num>17</num>
     <heading>No-Cruising District</heading>
@@ -9439,7 +9439,7 @@
       <para>
         <num>(c)</num>
         <heading>District.</heading>
-        <text>"District" means the No-Cruising District described in § 17-4 of this subtitle.</text>
+        <text>"District" means the No-Cruising District described in <cite path="|31|§17-4">§ 17-4 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -9604,17 +9604,17 @@
         <heading>Cruising.</heading>
         <para>
           <num>(1)</num>
-          <text>A person who violates § 17-5(a) of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $200.</text>
+          <text>A person who violates <cite path="|31|§17-5|(a)">§ 17-5(a) of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $200.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Violations of § 17-5(a) of this subtitle may be enforced by citation under Maryland Rule 4-201(b)(3).</text>
+          <text>Violations of <cite path="|31|§17-5|(a)">§ 17-5(a) of this subtitle</cite> may be enforced by citation under Maryland Rule 4-201(b)(3).</text>
         </para>
       </para>
       <para>
         <num>(b)</num>
         <heading>Stopping. etc.</heading>
-        <text>A person who violates § 17-5(b) of this subtitle is guilty of a parking violation punishable by a fine of $50.</text>
+        <text>A person who violates <cite path="|31|§17-5|(b)">§ 17-5(b) of this subtitle</cite> is guilty of a parking violation punishable by a fine of $50.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 31, §168</annotation>
@@ -9622,7 +9622,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="31|18">
     <prefix>Subtitle</prefix>
     <num>18</num>
     <heading>Bicycles</heading>
@@ -9780,7 +9780,7 @@
       <para>
         <num>(a)</num>
         <heading>Violation of § 18-2.</heading>
-        <text>Any person violating § 18-2 {"Removing, etc., identification number"} of this subtitle shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $100 or imprisoned for not more than 3 months, or both fined and imprisoned, in the discretion of the court.</text>
+        <text>Any person violating <cite path="|31|§18-2">§ 18-2 {"Removing, etc., identification number"} of this subtitle</cite> shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $100 or imprisoned for not more than 3 months, or both fined and imprisoned, in the discretion of the court.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -10453,7 +10453,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="31|22">
     <prefix>Subtitle</prefix>
     <num>22</num>
     <heading>Towing Services – Accident Towing</heading>
@@ -10888,7 +10888,7 @@
           <text>To the extent possible under the circumstances, the police officer at the scene shall verify that the towing vehicle arriving at the scene and preparing to tow the disabled vehicle:</text>
           <para>
             <num>(1)</num>
-            <text>is not there in violation of § 22-21 {"Solicitations prohibited"}or § 22-24 {"Police radios prohibited"} of this subtitle; and</text>
+            <text>is not there in violation of § 22-21 {"Solicitations prohibited"}or <cite path="|31|§22-24">§ 22-24 {"Police radios prohibited"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -10940,7 +10940,7 @@
           <heading>Allocation by proximity.</heading>
           <para>
             <num>(1)</num>
-            <text>Subject to § 22-11 {"Owner's, operator's right to choose"} of this subtitle, whenever the services of a towing vehicle are required and a request is made to the Commissioner's office for towing services, the Commissioner shall summons the medallion towing company whose place of business is closest to the scene of the accident.</text>
+            <text>Subject to <cite path="|31|§22-11">§ 22-11 {"Owner's, operator's right to choose"} of this subtitle</cite>, whenever the services of a towing vehicle are required and a request is made to the Commissioner's office for towing services, the Commissioner shall summons the medallion towing company whose place of business is closest to the scene of the accident.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11441,7 +11441,7 @@
     <num>29 to 30</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="31|31">
     <prefix>Subtitle</prefix>
     <num>31</num>
     <heading>Clear Streets and Impoundment</heading>
@@ -12111,11 +12111,11 @@
             <text>The application shall be filed within 10 days from:</text>
             <para>
               <num>(i)</num>
-              <text>the date the owner has been provided notice of immobilization, as specified in § 31-25 of this subtitle;</text>
+              <text>the date the owner has been provided notice of immobilization, as specified in <cite path="|31|§31-25">§ 31-25 of this subtitle</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>the receipt of written notice to be provided the owner, as prescribed in § 31-28 of this subtitle; or</text>
+              <text>the receipt of written notice to be provided the owner, as prescribed in <cite path="|31|§31-28">§ 31-28 of this subtitle</cite>; or</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -12140,7 +12140,7 @@
           <heading>In general.</heading>
           <para>
             <num>(1)</num>
-            <text>Unless the owner of a vehicle immobilized under the provisions of this Part 3 appears to secure release of the vehicle within 24 hours after the vehicle has been immobilized, in addition to the notice given the owner of the vehicle, as provided for under § 31-25 of this subtitle, the Director of Transportation shall give the owner written notice, by certified mail within 48 hours after the vehicle has been immobilized, that the owner has the right to contest the validity of the immobilization at a hearing within 72 hours, excluding Sundays and holidays, from the submission of an application.</text>
+            <text>Unless the owner of a vehicle immobilized under the provisions of this Part 3 appears to secure release of the vehicle within 24 hours after the vehicle has been immobilized, in addition to the notice given the owner of the vehicle, as provided for under <cite path="|31|§31-25">§ 31-25 of this subtitle</cite>, the Director of Transportation shall give the owner written notice, by certified mail within 48 hours after the vehicle has been immobilized, that the owner has the right to contest the validity of the immobilization at a hearing within 72 hours, excluding Sundays and holidays, from the submission of an application.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -12191,7 +12191,7 @@
           <heading>Decision.</heading>
           <para>
             <num>(1)</num>
-            <text>If it is determined by the hearing officer, after consideration of the criteria prescribed for the hearing as set forth in § 31-24 of this subtitle, that the vehicle should not have been immobilized:</text>
+            <text>If it is determined by the hearing officer, after consideration of the criteria prescribed for the hearing as set forth in <cite path="|31|§31-24">§ 31-24 of this subtitle</cite>, that the vehicle should not have been immobilized:</text>
             <para>
               <num>(i)</num>
               <text>the owner shall not be required to pay the booting fee provided for under § 31-26 to secure release of said vehicle; or</text>
@@ -12771,7 +12771,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Except as provided in § 31-58 of this subtitle, the Department may notify scrap metal processors, used car dealers, and spare parts dealers so as to endeavor to have a number of competitive bidders at each sale, it being the intent that every vehicle listed for sale at a given time shall be disposed of and removed from the auto pound, so as to prevent the storage area from becoming overcrowded.</text>
+            <text>Except as provided in <cite path="|31|§31-58">§ 31-58 of this subtitle</cite>, the Department may notify scrap metal processors, used car dealers, and spare parts dealers so as to endeavor to have a number of competitive bidders at each sale, it being the intent that every vehicle listed for sale at a given time shall be disposed of and removed from the auto pound, so as to prevent the storage area from becoming overcrowded.</text>
           </para>
         </para>
         <annotations>
@@ -14227,7 +14227,7 @@
     <num>35</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="31|36">
     <prefix>Subtitle</prefix>
     <num>36</num>
     <heading>Parking, etc., Fines, Penalties, and Procedures</heading>
@@ -14402,11 +14402,11 @@
           <text>This paragraph (3) does not apply to an obstruction or impediment:</text>
           <para>
             <num>(A)</num>
-            <text>by a commercial vehicle, as provided in § 36-4(2) of this subtitle;</text>
+            <text>by a commercial vehicle, as provided in <cite path="|31|§36-4|(2)">§ 36-4(2) of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>along a block face abutting or across from the grounds of a school, as provided in § 36-4(3) of this subtitle; or</text>
+            <text>along a block face abutting or across from the grounds of a school, as provided in <cite path="|31|§36-4|(3)">§ 36-4(3) of this subtitle</cite>; or</text>
           </para>
           <para>
             <num>(C)</num>
@@ -14721,12 +14721,12 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="31|38">
     <prefix>Subtitle</prefix>
     <num>38</num>
     <heading>Dockless Vehicles</heading>
     <annotations>
-      <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 19-251 on May 6, 2019.  Section 3 of that Ordinance provided for § 38-3 {“Rules and regulations”} of this subtitle to become effective on “the date of enactment”.  Section 4, in turn, provides that the rest of Ord. 19-251 “takes effect on the effective date of the rules and regulations adopted ... pursuant to ... <cite path="|31">Article 31</cite>, ... § 38-3”.  The effective date of these rules and regulations – and, thus, the effective date of this subtitle – was July 5, 2019.</annotation>
+      <annotation type="Editor's Notes">This subtitle was enacted by Ordinance 19-251 on May 6, 2019.  Section 3 of that Ordinance provided for <cite path="|31|§38-3">§ 38-3 {“Rules and regulations”} of this subtitle</cite> to become effective on “the date of enactment”.  Section 4, in turn, provides that the rest of Ord. 19-251 “takes effect on the effective date of the rules and regulations adopted ... pursuant to ... <cite path="|31">Article 31</cite>, ... § 38-3”.  The effective date of these rules and regulations – and, thus, the effective date of this subtitle – was July 5, 2019.</annotation>
     </annotations>
     <container>
       <prefix>Part</prefix>
@@ -15018,7 +15018,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>a performance bond as provided in § 38-23 of this subtitle; and</text>
+            <text>a performance bond as provided in <cite path="|31|§38-23">§ 38-23 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(5)</num>
@@ -15041,7 +15041,7 @@
         <para>
           <num>(b)</num>
           <heading>Renewal application.</heading>
-          <text>The application for renewal must be in the form and contain the information required under § 38-9 of this subtitle.</text>
+          <text>The application for renewal must be in the form and contain the information required under <cite path="|31|§38-9">§ 38-9 of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 19-251" type="History">Ord. 19-251</annotation>
@@ -15139,7 +15139,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>failed to provide a performance bond as provided in § 38-23 of this subtitle.</text>
+            <text>failed to provide a performance bond as provided in <cite path="|31|§38-23">§ 38-23 of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -15319,7 +15319,7 @@
         <para>
           <num>(b)</num>
           <heading>Publication.</heading>
-          <text>As a component of the education required under this section, a provider must make visible on its dockless vehicles or publish on its mobile application, or both, the standards of operation set forth in § 38-18 and § 38-19 of this subtitle or the rules and regulations adopted under this subtitle.</text>
+          <text>As a component of the education required under this section, a provider must make visible on its dockless vehicles or publish on its mobile application, or both, the standards of operation set forth in § 38-18 and <cite path="|31|§38-19">§ 38-19 of this subtitle</cite> or the rules and regulations adopted under this subtitle.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 19-251" type="History">Ord. 19-251</annotation>
@@ -15445,7 +15445,7 @@
         <para>
           <num>(c)</num>
           <heading>Vehicles returned on payment.</heading>
-          <text>Any dockless vehicle for hire seized under this section must be returned to its provider on payment from funds provided by the performance bond required by § 38-23 of this subtitle.</text>
+          <text>Any dockless vehicle for hire seized under this section must be returned to its provider on payment from funds provided by the performance bond required by <cite path="|31|§38-23">§ 38-23 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(d)</num>

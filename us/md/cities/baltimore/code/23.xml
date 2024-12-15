@@ -299,7 +299,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="23|2">
     <prefix>Subtitle</prefix>
     <num>2</num>
     <heading>Mixed Refuse Handling and Collection</heading>
@@ -324,7 +324,7 @@
       <para>
         <num>(a)</num>
         <heading>Placement in receptacles.</heading>
-        <text>Occupants of any dwelling, including any multiple-family dwelling, and the proprietor of any boarding house, hotel, restaurant, and other place where mixed refuse is accumulated must place the mixed refuse into a receptacle provided for that purpose, as required by § 2-1 of this subtitle.</text>
+        <text>Occupants of any dwelling, including any multiple-family dwelling, and the proprietor of any boarding house, hotel, restaurant, and other place where mixed refuse is accumulated must place the mixed refuse into a receptacle provided for that purpose, as required by <cite path="|23|§2-1">§ 2-1 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -650,7 +650,7 @@
     <num>8 to 10</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="23|11">
     <prefix>Subtitle</prefix>
     <num>11</num>
     <heading>Solid Waste Surcharges</heading>
@@ -828,7 +828,7 @@
         <num>(a)</num>
         <heading>Surcharge imposed.</heading>
         <text>
-          <em>Except as otherwise provided in § 11-7 {"Exemptions"} of this subtitle, there is a solid waste hauler disposal surcharge imposed on every hauler or solid waste generator who disposes of or causes to be disposed any solid waste in Baltimore City.</em>
+          <em>Except as otherwise provided in <cite path="|23|§11-7">§ 11-7 {"Exemptions"} of this subtitle</cite>, there is a solid waste hauler disposal surcharge imposed on every hauler or solid waste generator who disposes of or causes to be disposed any solid waste in Baltimore City.</em>
         </text>
       </para>
       <para>

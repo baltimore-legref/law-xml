@@ -891,7 +891,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|I|2">
       <prefix>Subtitle</prefix>
       <num>2</num>
       <heading>Floodplain District</heading>
@@ -1167,7 +1167,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>require the applicant to establish Regulated Flood Hazard Areas and design-flood elevations as set forth in § 2-5 {"Changes to District"} of this subtitle.</text>
+            <text>require the applicant to establish Regulated Flood Hazard Areas and design-flood elevations as set forth in <cite path="|7|§2-5">§ 2-5 {"Changes to District"} of this subtitle</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -1286,7 +1286,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|I|3">
       <prefix>Subtitle</prefix>
       <num>3</num>
       <heading>Development Regulations</heading>
@@ -1423,7 +1423,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>Every new or substantially improved residential structure must meet the requirements of § 3-14 {"Enclosures below lowest floor or flood-protection elevation"} of this subtitle.</text>
+              <text>Every new or substantially improved residential structure must meet the requirements of <cite path="|7|§3-14">§ 3-14 {"Enclosures below lowest floor or flood-protection elevation"} of this subtitle</cite>.</text>
             </para>
           </para>
           <para>
@@ -1492,7 +1492,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>Every new or substantially improved nonresidential structure must meet the requirements of § 3-14 {"Enclosures below lowest floor or flood-protection elevation"} of this subtitle.</text>
+              <text>Every new or substantially improved nonresidential structure must meet the requirements of <cite path="|7|§3-14">§ 3-14 {"Enclosures below lowest floor or flood-protection elevation"} of this subtitle</cite>.</text>
             </para>
             <para>
               <num>(4)</num>
@@ -1539,7 +1539,7 @@
             <text>If the construction, reconstruction, or modification of any structure constitutes less than a substantial improvement:</text>
             <para>
               <num>(1)</num>
-              <text>the installation of any electric, plumbing, or mechanical systems must comply with § 3-10 {"Electric, plumbing, and mechanical systems"} of this subtitle; and</text>
+              <text>the installation of any electric, plumbing, or mechanical systems must comply with <cite path="|7|§3-10">§ 3-10 {"Electric, plumbing, and mechanical systems"} of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(2)</num>
@@ -1839,7 +1839,7 @@
             <text>Accessory structures:</text>
             <para>
               <num>(1)</num>
-              <text>shall comply with the elevation requirements and other requirements of § 3-14 {"Enclosures below the first floor or flood-protection elevation"} of this subtitle; or</text>
+              <text>shall comply with the elevation requirements and other requirements of <cite path="|7|§3-14">§ 3-14 {"Enclosures below the first floor or flood-protection elevation"} of this subtitle</cite>; or</text>
             </para>
             <para>
               <num>(2)</num>
@@ -2312,7 +2312,7 @@
           <prefix>§</prefix>
           <num>3-27</num>
           <heading>Map revision.</heading>
-          <text>Any development in the floodway that proposes to increase the water surface elevation or change the delineation of the floodway requires a Conditional Letter of Map Revision and a Letter of Map Revision as described in § 3-21 {"Letter of map change"} of this subtitle.</text>
+          <text>Any development in the floodway that proposes to increase the water surface elevation or change the delineation of the floodway requires a Conditional Letter of Map Revision and a Letter of Map Revision as described in <cite path="|7|§3-21">§ 3-21 {"Letter of map change"} of this subtitle</cite>.</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 7, §5(b)(3)(2nd par.)</annotation>
             <annotation type="Prior Codifications">2000, art. 7, §3-26</annotation>
@@ -2610,7 +2610,7 @@
             <heading>Recreational vehicles.</heading>
             <para>
               <num>(1)</num>
-              <text>In this subsection, "recreational vehicle" has the meaning stated in § 3-19 {"Recreational vehicles"} of this subtitle.</text>
+              <text>In this subsection, "recreational vehicle" has the meaning stated in <cite path="|7|§3-19">§ 3-19 {"Recreational vehicles"} of this subtitle</cite>.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -2973,7 +2973,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|I|5">
       <prefix>Subtitle</prefix>
       <num>5</num>
       <heading>Floodplain Variances</heading>
@@ -3169,7 +3169,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>This notification must be maintained as part of the record required in § 5-7 {"Record of variance actions"} of this subtitle.</text>
+            <text>This notification must be maintained as part of the record required in <cite path="|7|§5-7">§ 5-7 {"Record of variance actions"} of this subtitle</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -3424,7 +3424,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|I|8">
       <prefix>Subtitle</prefix>
       <num>8</num>
       <heading>Administrative and Judicial Review</heading>
@@ -3541,7 +3541,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>the right of a party to call witnesses and submit documents or other evidence   under § 8-4 {"Administrative review – Evidence"} of this subtitle; and</text>
+              <text>the right of a party to call witnesses and submit documents or other evidence   under <cite path="|7|§8-4">§ 8-4 {"Administrative review – Evidence"} of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(iv)</num>
@@ -3696,7 +3696,7 @@
         <para>
           <num>(b)</num>
           <heading>When filed.</heading>
-          <text>Appeals must be filed within 30 days of the Planning Director's final decision, as specified in § 8-5 {"Administrative review- Final decisions"} of this subtitle.</text>
+          <text>Appeals must be filed within 30 days of the Planning Director's final decision, as specified in <cite path="|7|§8-5">§ 8-5 {"Administrative review- Final decisions"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -4437,7 +4437,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|II|22">
       <prefix>Subtitle</prefix>
       <num>22</num>
       <heading>Stormwater Management Plans</heading>
@@ -4593,7 +4593,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>Environmental site design techniques and practices and structural stormwater management measures used to satisfy the minimum control requirements of § 22-3 of this subtitle:</text>
+            <text>Environmental site design techniques and practices and structural stormwater management measures used to satisfy the minimum control requirements of <cite path="|7|§22-3">§ 22-3 of this subtitle</cite>:</text>
             <para>
               <num>(i)</num>
               <text>must have easements, as described in § 25-1(b)(1) of this Division II, recorded in the land records of Baltimore City;</text>
@@ -4613,7 +4613,7 @@
           <heading>Environmental site design planning techniques and practices.</heading>
           <para>
             <num>(1)</num>
-            <text>The following planning techniques must be applied according to the State's Design Manual to satisfy the applicable minimum control requirements of § 22-3 of this subtitle:</text>
+            <text>The following planning techniques must be applied according to the State's Design Manual to satisfy the applicable minimum control requirements of <cite path="|7|§22-3">§ 22-3 of this subtitle</cite>:</text>
             <para>
               <num>(i)</num>
               <text>preserving and protecting natural resources;</text>
@@ -4653,7 +4653,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>The following environmental site design treatment practices must be designed according to the State's Design Manual and the City's Design Guidelines to satisfy the applicable minimum control requirements established in § 22-3 of this subtitle:</text>
+            <text>The following environmental site design treatment practices must be designed according to the State's Design Manual and the City's Design Guidelines to satisfy the applicable minimum control requirements established in <cite path="|7|§22-3">§ 22-3 of this subtitle</cite>:</text>
             <para>
               <num>(i)</num>
               <text>disconnection of rooftop runoff;</text>
@@ -4717,7 +4717,7 @@
           <heading>Structural stormwater management measures.</heading>
           <para>
             <num>(1)</num>
-            <text>The following structural stormwater management practices must be designed to satisfy the applicable minimum control requirements of § 22-3 of this subtitle.</text>
+            <text>The following structural stormwater management practices must be designed to satisfy the applicable minimum control requirements of <cite path="|7|§22-3">§ 22-3 of this subtitle</cite>.</text>
             <para>
               <num>(i)</num>
               <text>stormwater management ponds;</text>
@@ -4837,11 +4837,11 @@
             <text>Each plan must:</text>
             <para>
               <num>(i)</num>
-              <text>include the minimum content specified in § 22-3 {"Minimum control requirements"} of this subtitle; and</text>
+              <text>include the minimum content specified in <cite path="|7|§22-3">§ 22-3 {"Minimum control requirements"} of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>meet the requirements of the State's Design Manual, the City's Design Guidelines, and § 22-4 {"Environmental site design; Structural practices"} of this subtitle.</text>
+              <text>meet the requirements of the State's Design Manual, the City's Design Guidelines, and <cite path="|7|§22-4">§ 22-4 {"Environmental site design; Structural practices"} of this subtitle</cite>.</text>
             </para>
           </para>
         </para>
@@ -4850,7 +4850,7 @@
           <heading>Concept plan.</heading>
           <para>
             <num>(1)</num>
-            <text>The applicant must submit a concept plan that provides sufficient information for an initial assessment of the proposed project and whether stormwater management can be provided according to § 22-4 {"Environmental site design; Structural practices"} of this subtitle and the State's Design Manual.</text>
+            <text>The applicant must submit a concept plan that provides sufficient information for an initial assessment of the proposed project and whether stormwater management can be provided according to <cite path="|7|§22-4">§ 22-4 {"Environmental site design; Structural practices"} of this subtitle</cite> and the State's Design Manual.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5320,7 +5320,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|II|23">
       <prefix>Subtitle</prefix>
       <num>23</num>
       <heading>Waivers</heading>
@@ -5331,7 +5331,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as provided for in § 23-5 {"Phased development projects"} of this subtitle, the Department may grant a waiver of quantitative control requirements, applied to the existing impervious cover on the site, for a project if:</text>
+          <text>Except as provided for in <cite path="|7|§23-5">§ 23-5 {"Phased development projects"} of this subtitle</cite>, the Department may grant a waiver of quantitative control requirements, applied to the existing impervious cover on the site, for a project if:</text>
           <para>
             <num>(1)</num>
             <text>environmental site design has been implemented to the maximum extent practicable; and</text>
@@ -5341,7 +5341,7 @@
             <text>1 or another of the following applies:</text>
             <para>
               <num>(i)</num>
-              <text>the project is within an area for which a watershed management plan has been developed consistent with § 23-6 of this subtitle;</text>
+              <text>the project is within an area for which a watershed management plan has been developed consistent with <cite path="|7|§23-6">§ 23-6 of this subtitle</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -5415,7 +5415,7 @@
         <prefix>§</prefix>
         <num>23-2</num>
         <heading>Qualitative control waiver.</heading>
-        <text>Except as provided for in § 23-5 {"Phased development projects"} of this subtitle, the Department may grant a waiver of qualitative control requirements for a project if:</text>
+        <text>Except as provided for in <cite path="|7|§23-5">§ 23-5 {"Phased development projects"} of this subtitle</cite>, the Department may grant a waiver of qualitative control requirements for a project if:</text>
         <para>
           <num>(1)</num>
           <text>the project will return the disturbed area to a predevelopment runoff condition, such as pipeline or conduit projects, certain landscaping projects, certain maintenance projects, and certain underground projects;</text>
@@ -5434,7 +5434,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>the project is a redevelopment project for which the requirements of § 23-7 of this subtitle are satisfied; or</text>
+          <text>the project is a redevelopment project for which the requirements of <cite path="|7|§23-7">§ 23-7 of this subtitle</cite> are satisfied; or</text>
         </para>
         <para>
           <num>(4)</num>
@@ -5704,7 +5704,7 @@
           <heading>In general.</heading>
           <para>
             <num>(1)</num>
-            <text>Stormwater management plans are required for all redevelopment, unless otherwise specified by watershed management plans developed under § 23-6(b) of this subtitle.</text>
+            <text>Stormwater management plans are required for all redevelopment, unless otherwise specified by watershed management plans developed under <cite path="|7|§23-6|(b)">§ 23-6(b) of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5824,7 +5824,7 @@
             </para>
             <para>
               <num>(v)</num>
-              <text>design criteria based on watershed management plans developed under § 23-6(b) of this subtitle;</text>
+              <text>design criteria based on watershed management plans developed under <cite path="|7|§23-6|(b)">§ 23-6(b) of this subtitle</cite>;</text>
             </para>
             <para>
               <num>(vi)</num>
@@ -6934,7 +6934,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|II|28">
       <prefix>Subtitle</prefix>
       <num>28</num>
       <heading>Enforcement; Reviews; Penalties</heading>
@@ -7133,7 +7133,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>the right of a party to call witnesses and submit documents or other evidence under § 28-8 of this subtitle; and</text>
+              <text>the right of a party to call witnesses and submit documents or other evidence under <cite path="|7|§28-8">§ 28-8 of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(iv)</num>
@@ -8607,7 +8607,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|III|35">
       <prefix>Subtitle</prefix>
       <num>35</num>
       <heading>Enforcement; Reviews; Penalties</heading>
@@ -8678,7 +8678,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>refer the matter for legal action, including pursuit of criminal and civil penalties under § 35-9 of this subtitle.</text>
+            <text>refer the matter for legal action, including pursuit of criminal and civil penalties under <cite path="|7|§35-9">§ 35-9 of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -8814,7 +8814,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>the right of a party to call witnesses and submit documents or other evidence under § 35-8 of this subtitle; and</text>
+              <text>the right of a party to call witnesses and submit documents or other evidence under <cite path="|7|§35-8">§ 35-8 of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(iv)</num>
@@ -9031,7 +9031,7 @@
     <annotations>
       <annotation type="Editor's Notes">This Division IV was substantially amended by Ordinance 20-401, effective December 28, 2020.</annotation>
     </annotations>
-    <container>
+    <container cache:ref-path="7|IV|41">
       <prefix>Subtitle</prefix>
       <num>41</num>
       <heading>Purpose; Definitions; General Provisions</heading>
@@ -9215,7 +9215,7 @@
         <heading>Scope of Division – In general.</heading>
         <para>
           <num>(1)</num>
-          <text>Except as provided in § 41-5 of this subtitle, this Division IV applies to:</text>
+          <text>Except as provided in <cite path="|7|§41-5">§ 41-5 of this subtitle</cite>, this Division IV applies to:</text>
           <para>
             <num>(i)</num>
             <text>any person making application for a grading or building permit on a parcel or parcels of land for a total area of 5,000 square feet or greater;</text>
@@ -9226,7 +9226,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>a public utility not exempt under § 41-5(b)(3) of this subtitle.</text>
+            <text>a public utility not exempt under <cite path="|7|§41-5|(b)|(3)">§ 41-5(b)(3) of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -9978,7 +9978,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|IV|46">
       <prefix>Subtitle</prefix>
       <num>46</num>
       <heading>Forest Conservation Fund</heading>
@@ -10023,12 +10023,12 @@
         <para>
           <num>(a)</num>
           <heading>In lieu of reforestation or afforestation.</heading>
-          <text>A person permitted by § 46-2 of this subtitle to contribute to this fund in lieu of reforestation or afforestation shall make a payment to the Baltimore City Conservation Fund of $60,000 per acre of the area requiring planting or at a rate  determined and adjusted periodically by the Planning Commission and approved by the Board of Estimates.</text>
+          <text>A person permitted by <cite path="|7|§46-2">§ 46-2 of this subtitle</cite> to contribute to this fund in lieu of reforestation or afforestation shall make a payment to the Baltimore City Conservation Fund of $60,000 per acre of the area requiring planting or at a rate  determined and adjusted periodically by the Planning Commission and approved by the Board of Estimates.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>In lieu of specimen tree mitigation.</heading>
-          <text>A person permitted by § 46-2 of this subtitle to contribute to this fund in lieu of specimen tree mitigation shall make a payment to the Baltimore City Conservation Fund of $300 per inch of required mitigation, or at a rate as determined and adjusted periodically by the Planning Commission and approved by the Board of Estimates.</text>
+          <text>A person permitted by <cite path="|7|§46-2">§ 46-2 of this subtitle</cite> to contribute to this fund in lieu of specimen tree mitigation shall make a payment to the Baltimore City Conservation Fund of $300 per inch of required mitigation, or at a rate as determined and adjusted periodically by the Planning Commission and approved by the Board of Estimates.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 9A, §9-2</annotation>
@@ -10546,7 +10546,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|V|53">
       <prefix>Subtitle</prefix>
       <num>53</num>
       <heading>Trees along City Streets, etc.</heading>
@@ -10867,7 +10867,7 @@
           <text>If any person or persons shall willfully break, pull down, hurt, or destroy any tree or trees, or enclosure around the same, which are now or may hereafter be planted in any of the streets, lanes, or alleys of the City, or in any other public grounds within the City, such person or persons:</text>
           <para>
             <num>(1)</num>
-            <text>shall be subject to a penalty as provided in § 53-26 of this subtitle; and</text>
+            <text>shall be subject to a penalty as provided in <cite path="|7|§53-26">§ 53-26 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11319,7 +11319,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="7|VI|62">
       <prefix>Subtitle</prefix>
       <num>62</num>
       <heading>Plastic Bag Reduction</heading>
@@ -11428,7 +11428,7 @@
         <prefix>§</prefix>
         <num>62-3</num>
         <heading>Prohibited conduct.</heading>
-        <text>Except as provided in § 62-4 {"Exemption: Bags for certain products"} of this subtitle, no dealer may supply customers with plastic checkout bags.</text>
+        <text>Except as provided in <cite path="|7|§62-4">§ 62-4 {"Exemption: Bags for certain products"} of this subtitle</cite>, no dealer may supply customers with plastic checkout bags.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-337" type="History">Ord. 20-337</annotation>
         </annotations>

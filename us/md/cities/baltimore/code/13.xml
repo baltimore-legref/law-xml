@@ -1511,7 +1511,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|I|2B">
       <prefix>Subtitle</prefix>
       <num>2B</num>
       <heading>Inclusionary Housing Requirements</heading>
@@ -1912,7 +1912,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>it satisfies the affordability requirements of § 2B-21(b) of this subtitle.</text>
+              <text>it satisfies the affordability requirements of <cite path="|13|§2B-21|(b)">§ 2B-21(b) of this subtitle</cite>.</text>
             </para>
           </para>
           <annotations>
@@ -2481,7 +2481,7 @@
                 </para>
                 <para>
                   <num>(B)</num>
-                  <text>20% of the additional cost that would have been required to achieve the affordability targets specified in § 2B-21(b)(2) of this subtitle.</text>
+                  <text>20% of the additional cost that would have been required to achieve the affordability targets specified in <cite path="|13|§2B-21|(b)|(2)">§ 2B-21(b)(2) of this subtitle</cite>.</text>
                 </para>
               </para>
             </para>
@@ -2827,7 +2827,7 @@
           <para>
             <num>(a)</num>
             <heading>Projects subject to affordable housing requirements.</heading>
-            <text>For any unit in any residential project that meets the requirements of § 2B-21(a), § 2B-22(a), or, when effective, § 2B-23(a) of this subtitle, a person may not:</text>
+            <text>For any unit in any residential project that meets the requirements of § 2B-21(a), § 2B-22(a), or, when effective, <cite path="|13|§2B-23|(a)">§ 2B-23(a) of this subtitle</cite>, a person may not:</text>
             <para>
               <num>(1)</num>
               <text>refuse to sell or rent, refuse to negotiate for the sale or rental of, or otherwise make unavailable or deny, a dwelling to any person because of that person's source of income;</text>
@@ -2852,7 +2852,7 @@
           <para>
             <num>(b)</num>
             <heading>Projects receiving cost offsets for affordable housing.</heading>
-            <text>For any unit in any residential project that receives a cost offset from the Housing Commissioner under § 2B-24 of this subtitle, a person may not:</text>
+            <text>For any unit in any residential project that receives a cost offset from the Housing Commissioner under <cite path="|13|§2B-24">§ 2B-24 of this subtitle</cite>, a person may not:</text>
             <para>
               <num>(1)</num>
               <text>refuse to sell or rent, refuse to negotiate for the sale or rental of, or otherwise make unavailable or deny, a dwelling to any person because of that person's source of income;</text>
@@ -3514,7 +3514,7 @@
           <para>
             <num>(a)</num>
             <heading>Judicial review.</heading>
-            <text>A party aggrieved by a final decision of the Board of Estimates under § 2B-71 {"Administrative appeals"} of this subtitle may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+            <text>A party aggrieved by a final decision of the Board of Estimates under <cite path="|13|§2B-71">§ 2B-71 {"Administrative appeals"} of this subtitle</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -3760,7 +3760,7 @@
   <container>
     <prefix>Division</prefix>
     <num>II</num>
-    <container>
+    <container cache:ref-path="13|II|4">
       <prefix>Subtitle</prefix>
       <num>4</num>
       <heading>Registration of Non-Owner-Occupied Dwellings, Rooming Houses, and Vacant Structures</heading>
@@ -3836,7 +3836,7 @@
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|4|1|4-17" proof="needed">§ 4-17 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|13|§4-17">§ 4-17 {"Penalties"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -4169,17 +4169,17 @@
           <text>The Department of Housing and Community Development shall affix, in a position that is conspicuous and visible from the street or road fronting the property, a sign containing:</text>
           <para>
             <num>(1)</num>
-            <text>the information set forth in § 4-6(a) {"Registration statement: Form and contents"} of this subtitle; or</text>
+            <text>the information set forth in <cite path="|13|§4-6|(a)">§ 4-6(a) {"Registration statement: Form and contents"} of this subtitle</cite>; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>at a minimum, information on how to access the information set forth in § 4-6(a) {"Registration statement: Form and contents"} of this subtitle.</text>
+            <text>at a minimum, information on how to access the information set forth in <cite path="|13|§4-6|(a)">§ 4-6(a) {"Registration statement: Form and contents"} of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
           <heading>Time.</heading>
-          <text>The sign required by subsection (a) of this section must be posted within 10 days of registering the vacant structure with the Commissioner under § 4-5 {"Registration required"} of this subtitle.</text>
+          <text>The sign required by subsection (a) of this section must be posted within 10 days of registering the vacant structure with the Commissioner under <cite path="|13|§4-5">§ 4-5 {"Registration required"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -4218,11 +4218,11 @@
         <text>On or before June 30 of each year, the Commissioner shall submit an annual report to the Mayor and City Council detailing compliance with this subtitle, including:</text>
         <para>
           <num>(1)</num>
-          <text>the number of properties registered under § 4-5 {"Registration required"} of this subtitle; and</text>
+          <text>the number of properties registered under <cite path="|13|§4-5">§ 4-5 {"Registration required"} of this subtitle</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>the number of signs that the Department of Housing and Community Development has posted on vacant structures as required by § 4-12 {"Vacant structures: Posting ownership information"} of this subtitle.</text>
+          <text>the number of signs that the Department of Housing and Community Development has posted on vacant structures as required by <cite path="|13|§4-12">§ 4-12 {"Vacant structures: Posting ownership information"} of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
@@ -4273,7 +4273,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|5">
       <prefix>Subtitle</prefix>
       <num>5</num>
       <heading>Licensing of Rental Dwellings</heading>
@@ -4354,7 +4354,7 @@
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|general|5|2|5-21" proof="needed">§ 5-21 {"Penalties"}</cite> of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|13|§5-21">§ 5-21 {"Penalties"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -4492,7 +4492,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>the premises have passed an inspection, as required by§ 5-7 {"Prerequisites ... – Inspection"} of this subtitle;</text>
+          <text>the premises have passed an inspection, as required by<cite path="|13|§5-7">§ 5-7 {"Prerequisites ... – Inspection"} of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -4539,7 +4539,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The inspection required by § 5-6 {"Prerequisites ... – In general"} of this subtitle must comply with either:</text>
+          <text>The inspection required by <cite path="|13|§5-6">§ 5-6 {"Prerequisites ... – In general"} of this subtitle</cite> must comply with either:</text>
           <para>
             <num>(1)</num>
             <text>subsection (b) {"Third-party home inspections"} of this section; or</text>
@@ -4720,7 +4720,7 @@
         <para>
           <num>(c)</num>
           <heading>1st renewal of initial license.</heading>
-          <text>Subject to compliance with § 5-6 {"Prerequisites for ... renewal license – In general"} of this subtitle, the 1<sup>st</sup> renewal of an initial 2-year license will be for a 3-, 2-, or 1-year renewal term, based on the following risk factors:</text>
+          <text>Subject to compliance with <cite path="|13|§5-6">§ 5-6 {"Prerequisites for ... renewal license – In general"} of this subtitle</cite>, the 1<sup>st</sup> renewal of an initial 2-year license will be for a 3-, 2-, or 1-year renewal term, based on the following risk factors:</text>
           <para>
             <num>(1)</num>
             <text><em>3-Year Term:</em> The renewal license will be for a 3-year term if, during the 24 months immediately preceding submission of a completed renewal application, all violation notices or orders issued during those months under the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite> have been abated within 60 days of their issuance.</text>
@@ -4737,7 +4737,7 @@
         <para>
           <num>(d)</num>
           <heading>Subsequent renewals.</heading>
-          <text>Subject to compliance with § 5-6 {"Prerequisites for ... renewal license – In general"} of this subtitle, all subsequent renewal terms will be based on the following risk factors:</text>
+          <text>Subject to compliance with <cite path="|13|§5-6">§ 5-6 {"Prerequisites for ... renewal license – In general"} of this subtitle</cite>, all subsequent renewal terms will be based on the following risk factors:</text>
           <para>
             <num>(1)</num>
             <text><em>3-Year Term:</em> The renewal license will be for a 3-year term if, during the 36 months immediately preceding submission of a completed renewal application, all violation notices or orders issued during those months under the <cite path="|codes" proof="needed">City Building, Fire, and Related Codes Article</cite> have been abated within 60 days of their issuance.</text>
@@ -4839,7 +4839,7 @@
         <para>
           <num>(b)</num>
           <heading>Causes for denial, suspension, or revocation.</heading>
-          <text>Subject to the hearing provisions of § 5-16 of this subtitle, the Housing Commissioner may deny, suspend, or revoke a rental dwelling license or renewal license for any of the following causes:</text>
+          <text>Subject to the hearing provisions of <cite path="|13|§5-16">§ 5-16 of this subtitle</cite>, the Housing Commissioner may deny, suspend, or revoke a rental dwelling license or renewal license for any of the following causes:</text>
           <para>
             <num>(1)</num>
             <text>making any material false statement in an application for an initial or renewal license;</text>
@@ -5086,7 +5086,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Any person who violates any provision of this subtitle (including any offense listed in § 5-15 of this subtitle as potential cause for a denial, suspension, or revocation of a license) or any provision of a rule, regulation, or order adopted or issued under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
+          <text>Any person who violates any provision of this subtitle (including any offense listed in <cite path="|13|§5-15">§ 5-15 of this subtitle</cite> as potential cause for a denial, suspension, or revocation of a license) or any provision of a rule, regulation, or order adopted or issued under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5100,7 +5100,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|6">
       <prefix>Subtitle</prefix>
       <num>6</num>
       <heading>Tenant's Right of First Refusal</heading>
@@ -5402,7 +5402,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>any sale at public auction of a property individually, if the landlord has offered the property to the tenant as required by § 6-4(a) of this subtitle, and the tenant has failed to exercise the right of first refusal before the auction sale;</text>
+          <text>any sale at public auction of a property individually, if the landlord has offered the property to the tenant as required by <cite path="|13|§6-4|(a)">§ 6-4(a) of this subtitle</cite>, and the tenant has failed to exercise the right of first refusal before the auction sale;</text>
         </para>
         <para>
           <num>(9)</num>
@@ -5549,7 +5549,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|6A">
       <prefix>Subtitle</prefix>
       <num>6A</num>
       <heading>Tenants' Right to Counsel in Eviction Cases</heading>
@@ -5705,7 +5705,7 @@
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
-          <annotation type="Editor's Notes">See also § 6A-4 {“Additional Commission member”} of this subtitle.</annotation>
+          <annotation type="Editor's Notes">See also <cite path="|13|§6A-4">§ 6A-4 {“Additional Commission member”} of this subtitle</cite>.</annotation>
         </annotations>
       </section>
       <section>
@@ -6130,7 +6130,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|7">
       <prefix>Subtitle</prefix>
       <num>7</num>
       <heading>Residential Lease Requirements</heading>
@@ -6279,7 +6279,7 @@
           <heading>Additional required disclosures.</heading>
           <para>
             <num>(1)</num>
-            <text>Along with the copy of the lease required to be given to the tenant by § 7-2 of this subtitle, the tenant must be given a copy of a tenants rights brochure approved by the Housing Commissioner that discusses:</text>
+            <text>Along with the copy of the lease required to be given to the tenant by <cite path="|13|§7-2">§ 7-2 of this subtitle</cite>, the tenant must be given a copy of a tenants rights brochure approved by the Housing Commissioner that discusses:</text>
             <para>
               <num>(i)</num>
               <text>free or reduced price legal representation available to tenants;</text>
@@ -6375,7 +6375,7 @@
         <prefix>§</prefix>
         <num>7-7</num>
         <heading>Penalties.</heading>
-        <text>Any property owner or landlord who leases residential property under a written lease which does not conform to the provisions of this subtitle, or who fails to give a tenant a copy of the lease as provided in § 7-2 of this subtitle and the tenants rights brochure as provided in § 7-3(c) of this subtitle, shall be guilty of a misdemeanor and, upon conviction, shall be subject to a fine of up to $100 for each violation.</text>
+        <text>Any property owner or landlord who leases residential property under a written lease which does not conform to the provisions of this subtitle, or who fails to give a tenant a copy of the lease as provided in <cite path="|13|§7-2">§ 7-2 of this subtitle</cite> and the tenants rights brochure as provided in <cite path="|13|§7-3|(c)">§ 7-3(c) of this subtitle</cite>, shall be guilty of a misdemeanor and, upon conviction, shall be subject to a fine of up to $100 for each violation.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(e)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
@@ -6383,7 +6383,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|8">
       <prefix>Subtitle</prefix>
       <num>8</num>
       <heading>Rent Increases</heading>
@@ -6634,7 +6634,7 @@
         <prefix>§</prefix>
         <num>8-6</num>
         <heading>Enforcement by tenant.</heading>
-        <text>A tenant may seek relief from an appropriate court to restrain or enjoin any violation of § 8-2 and § 8-3 of this subtitle in accordance with State law.</text>
+        <text>A tenant may seek relief from an appropriate court to restrain or enjoin any violation of § 8-2 and <cite path="|13|§8-3">§ 8-3 of this subtitle</cite> in accordance with State law.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(e)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
@@ -6662,7 +6662,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|8A">
       <prefix>Subtitle</prefix>
       <num>8A</num>
       <heading>Eviction Chattels</heading>
@@ -6821,17 +6821,17 @@
         <para>
           <num>(a)</num>
           <heading>By Sheriff.</heading>
-          <text>If the Sheriff reasonably believes that the landlord did not provide the tenant with the notice required by § 8A-2 of this subtitle, the Sheriff shall notify the District Court and may not execute  the warrant of restitution until further order of the Court.</text>
+          <text>If the Sheriff reasonably believes that the landlord did not provide the tenant with the notice required by <cite path="|13|§8A-2">§ 8A-2 of this subtitle</cite>, the Sheriff shall notify the District Court and may not execute  the warrant of restitution until further order of the Court.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>By District Court.</heading>
-          <text>If the District Court finds that the landlord did not provide the tenant with the notice required by § 8A-2 of this subtitle, the District Court shall vacate the warrant of restitution.</text>
+          <text>If the District Court finds that the landlord did not provide the tenant with the notice required by <cite path="|13|§8A-2">§ 8A-2 of this subtitle</cite>, the District Court shall vacate the warrant of restitution.</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>Presumption that tenant notified.</heading>
-          <text>If the landlord provides a copy of the notice, certificate of mailing, and signed affidavit by the person who posted the property, all of which are dated within the proper time periods required by § 8A-2 of this subtitle, there is a rebuttable presumption that the tenant was notified.</text>
+          <text>If the landlord provides a copy of the notice, certificate of mailing, and signed affidavit by the person who posted the property, all of which are dated within the proper time periods required by <cite path="|13|§8A-2">§ 8A-2 of this subtitle</cite>, there is a rebuttable presumption that the tenant was notified.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
@@ -6932,7 +6932,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Any person who violates any provision of § 8A-5 or § 8A-6 of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
+          <text>Any person who violates any provision of § 8A-5 or <cite path="|13|§8A-6">§ 8A-6 of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -6944,7 +6944,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|8B">
       <prefix>Subtitle</prefix>
       <num>8B</num>
       <heading>Foreclosure Chattels</heading>
@@ -7050,12 +7050,12 @@
         <para>
           <num>(b)</num>
           <heading>By Circuit Court.</heading>
-          <text>If the Circuit Court finds that neither the foreclosure purchaser nor the Sheriff  provided the occupant with the notice required by § 8B-2 of this subtitle, the Circuit Court shall vacate the writ of possession.</text>
+          <text>If the Circuit Court finds that neither the foreclosure purchaser nor the Sheriff  provided the occupant with the notice required by <cite path="|13|§8B-2">§ 8B-2 of this subtitle</cite>, the Circuit Court shall vacate the writ of possession.</text>
         </para>
         <para>
           <num>(c)</num>
           <text><em>Presumption that occupant notified</em>.</text>
-          <text>If the foreclosure purchaser provides a copy of the notice, certificate of mailing, and signed affidavit by the person who posted the property, all of which are dated within the proper time periods required by § 8B-2 of this subtitle, there is a rebuttable presumption that the occupant was notified.</text>
+          <text>If the foreclosure purchaser provides a copy of the notice, certificate of mailing, and signed affidavit by the person who posted the property, all of which are dated within the proper time periods required by <cite path="|13|§8B-2">§ 8B-2 of this subtitle</cite>, there is a rebuttable presumption that the occupant was notified.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
@@ -7126,7 +7126,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Any person who violates any provision of § 8B-5 or § 8B-6 of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
+          <text>Any person who violates any provision of § 8B-5 or <cite path="|13|§8B-6">§ 8B-6 of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -7138,7 +7138,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|8C">
       <prefix>Subtitle</prefix>
       <num>8C</num>
       <heading>Lease Renewals</heading>
@@ -7181,7 +7181,7 @@
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in § 8C-6 {"Penalties"} of this subtitle, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|13|§8C-6">§ 8C-6 {"Penalties"} of this subtitle</cite>, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <annotations>
@@ -7265,11 +7265,11 @@
           <text>The presumption described in subsection (a) of this section does not exist if:</text>
           <para>
             <num>(1)</num>
-            <text>the landlord provides timely notice declining to renew for good cause as specified in § 8C-2(b) of this subtitle;</text>
+            <text>the landlord provides timely notice declining to renew for good cause as specified in <cite path="|13|§8C-2|(b)">§ 8C-2(b) of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>the tenant fails to respond to a timely notice offering to renew the lease as specified in § 8C-2(a) of this subtitle; or</text>
+            <text>the tenant fails to respond to a timely notice offering to renew the lease as specified in <cite path="|13|§8C-2|(a)">§ 8C-2(a) of this subtitle</cite>; or</text>
           </para>
           <para>
             <num>(3)</num>
@@ -7307,7 +7307,7 @@
         </annotations>
       </section>
     </container>
-    <container>
+    <container cache:ref-path="13|II|9">
       <prefix>Subtitle</prefix>
       <num>9</num>
       <heading>Rental Units in Floodplain District</heading>
@@ -7373,7 +7373,7 @@
         <prefix>§</prefix>
         <num>9-3</num>
         <heading>Form of notice.</heading>
-        <text>The notice and acknowledgment required by § 9-2 of this subtitle shall be in printed form, utilizing bold face type, and set apart from the body of the lease.  The acknowledgment shall provide space for a written acknowledgment that the tenant is cognizant of the flood risk.</text>
+        <text>The notice and acknowledgment required by <cite path="|13|§9-2">§ 9-2 of this subtitle</cite> shall be in printed form, utilizing bold face type, and set apart from the body of the lease.  The acknowledgment shall provide space for a written acknowledgment that the tenant is cognizant of the flood risk.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §61</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
@@ -7387,12 +7387,12 @@
         <para>
           <num>(a)</num>
           <heading>Written lease.</heading>
-          <text>Where there is a written lease between the landlord and tenant, the notice and acknowledgment required by § 9-2 of this subtitle shall be initialed by both parties and attached in a secure manner to the lease.</text>
+          <text>Where there is a written lease between the landlord and tenant, the notice and acknowledgment required by <cite path="|13|§9-2">§ 9-2 of this subtitle</cite> shall be initialed by both parties and attached in a secure manner to the lease.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Oral lease.</heading>
-          <text>Where the lease agreement between the landlord and tenant is oral, the notice and acknowledgment required by § 9-2 of this subtitle shall be presented to the tenant before his agreeing to the lease.</text>
+          <text>Where the lease agreement between the landlord and tenant is oral, the notice and acknowledgment required by <cite path="|13|§9-2">§ 9-2 of this subtitle</cite> shall be presented to the tenant before his agreeing to the lease.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §62</annotation>
@@ -7404,7 +7404,7 @@
         <prefix>§</prefix>
         <num>9-5</num>
         <heading>Liability for omission.</heading>
-        <text>Any landlord who has received notice from the City or any other governmental agency that the tenant's unit is within the Floodplain District and who has failed to give the notice and acknowledgment referred to in § 9-2 of this subtitle shall be liable for actual damages proximately caused by natural flooding.</text>
+        <text>Any landlord who has received notice from the City or any other governmental agency that the tenant's unit is within the Floodplain District and who has failed to give the notice and acknowledgment referred to in <cite path="|13|§9-2">§ 9-2 of this subtitle</cite> shall be liable for actual damages proximately caused by natural flooding.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §63</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>

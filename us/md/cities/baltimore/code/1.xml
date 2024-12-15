@@ -333,7 +333,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|2">
     <prefix>Subtitle</prefix>
     <num>2</num>
     <heading>Office of Council Services</heading>
@@ -464,7 +464,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>shall have such qualifications, duties, and responsibilities as may be prescribed from time to time by the Oversight Committee as provided in § 2-2 of this subtitle.</text>
+            <text>shall have such qualifications, duties, and responsibilities as may be prescribed from time to time by the Oversight Committee as provided in <cite path="|1|§2-2">§ 2-2 of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -475,7 +475,7 @@
       <para>
         <num>(b)</num>
         <heading>Reports.</heading>
-        <text>The Director shall report to the Oversight Committee concerning the operations of the Office of Council Services in a manner specified in the policies and procedures adopted by the Council pursuant to § 2-2 of this subtitle.</text>
+        <text>The Director shall report to the Oversight Committee concerning the operations of the Office of Council Services in a manner specified in the policies and procedures adopted by the Council pursuant to <cite path="|1|§2-2">§ 2-2 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -521,7 +521,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|3">
     <prefix>Subtitle</prefix>
     <num>3</num>
     <heading>Claims Before Council</heading>
@@ -586,7 +586,7 @@
       <prefix>§</prefix>
       <num>3-3</num>
       <heading>Resolution required.</heading>
-      <text>None of the items of expense embraced in § 3-2 of this subtitle shall be paid unless authorized by resolution or resolutions of the City Council.</text>
+      <text>None of the items of expense embraced in <cite path="|1|§3-2">§ 3-2 of this subtitle</cite> shall be paid unless authorized by resolution or resolutions of the City Council.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1893, art. 1, §34</annotation>
         <annotation type="Prior Codifications">1927, art. 1, §46</annotation>
@@ -1589,7 +1589,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|8">
     <prefix>Subtitle</prefix>
     <num>8</num>
     <heading>Whistleblower Rights and Responsibilities</heading>
@@ -1771,7 +1771,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>On the Civil Service Commission's request, the Office of the Inspector General may investigate allegations made to the Civil Service Commission regarding retaliatory personnel actions and provide the Office's findings to the Commission at or before a Commission hearing to the extent permitted by <cite doc="City of Baltimore, Md., Charter" path="X">Article X of the Charter of Baltimore City</cite>.  The Inspector General's findings shall state whether the Inspector General believes the personnel actions were in violation of § 8-3 of this subtitle.</text>
+          <text>On the Civil Service Commission's request, the Office of the Inspector General may investigate allegations made to the Civil Service Commission regarding retaliatory personnel actions and provide the Office's findings to the Commission at or before a Commission hearing to the extent permitted by <cite doc="City of Baltimore, Md., Charter" path="X">Article X of the Charter of Baltimore City</cite>.  The Inspector General's findings shall state whether the Inspector General believes the personnel actions were in violation of <cite path="|1|§8-3">§ 8-3 of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -1779,11 +1779,11 @@
         <heading>Civil Service Commission findings.</heading>
         <para>
           <num>(1)</num>
-          <text>During a Civil Service Commission hearing, the Commission may find that the personnel action described in subsection (a) of this section violates § 8-3 of this subtitle.</text>
+          <text>During a Civil Service Commission hearing, the Commission may find that the personnel action described in subsection (a) of this section violates <cite path="|1|§8-3">§ 8-3 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If the Commission finds that the personnel action described in subsection (a) of this section violates § 8-3 of this subtitle, this finding may be considered by the Commission in disposing of the matter before it.</text>
+          <text>If the Commission finds that the personnel action described in subsection (a) of this section violates <cite path="|1|§8-3">§ 8-3 of this subtitle</cite>, this finding may be considered by the Commission in disposing of the matter before it.</text>
         </para>
       </para>
       <annotations>
@@ -2666,12 +2666,12 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|11">
     <prefix>Subtitle</prefix>
     <num>11</num>
     <heading>Police Accountability Board</heading>
     <annotations>
-      <annotation type="Editor's Notes">Ordinance 22-146 (effective June 30, 2022) establishes that the Baltimore City Office of Equity and Civil Rights shall temporarily serve as the Police Accountability Board’s designee, as provided for in § 11-9(a) {“Complaints of police misconduct . . . In general.”} of this subtitle, and accept complaints of police misconduct beginning July 1, 2022, and continuing until the Board establishes a uniform procedure for filing complaints as required by § 11-9(c) {“Complaints of police misconduct . . . Procedure for filing complaints.”} of this subtitle.</annotation>
+      <annotation type="Editor's Notes">Ordinance 22-146 (effective June 30, 2022) establishes that the Baltimore City Office of Equity and Civil Rights shall temporarily serve as the Police Accountability Board’s designee, as provided for in <cite path="|1|§11-9|(a)">§ 11-9(a) {“Complaints of police misconduct . . . In general.”} of this subtitle</cite>, and accept complaints of police misconduct beginning July 1, 2022, and continuing until the Board establishes a uniform procedure for filing complaints as required by § 11-9(c) {“Complaints of police misconduct . . . Procedure for filing complaints.”} of this subtitle.</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -3084,7 +3084,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>forwarded to the Board by the Board's designee, as authorized under § 11-9(a)(1)(i) of this subtitle.</text>
+          <text>forwarded to the Board by the Board's designee, as authorized under <cite path="|1|§11-9|(a)|(1)|(i)">§ 11-9(a)(1)(i) of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -3373,7 +3373,7 @@
           <heading>In general.</heading>
           <para>
             <num>(i)</num>
-            <text>At the time a former police officer is nominated to the Board under § 11-3(a)(2) {"Nomination and appointment"} of this subtitle the Director shall submit written public records requests for the former police officer's personnel records.</text>
+            <text>At the time a former police officer is nominated to the Board under <cite path="|1|§11-3|(a)|(2)">§ 11-3(a)(2) {"Nomination and appointment"} of this subtitle</cite> the Director shall submit written public records requests for the former police officer's personnel records.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -4969,7 +4969,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|22">
     <prefix>Subtitle</prefix>
     <num>22</num>
     <heading>Children, Youth, and Families</heading>
@@ -5858,11 +5858,11 @@
         <text>On or before June 30 of each year, utilizing its established evaluation and assessment metrics and its expertise, the Task Force shall submit a report to the Mayor and City Council containing:</text>
         <para>
           <num>(1)</num>
-          <text>an assessment of the implementation of trauma-informed care within each agency as defined in § 22-21(a)(2) of this subtitle;</text>
+          <text>an assessment of the implementation of trauma-informed care within each agency as defined in <cite path="|1|§22-21|(a)|(2)">§ 22-21(a)(2) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>an assessment of the trauma-responsiveness of each agency as defined in § 22-21(a)(2) of this subtitle; and</text>
+          <text>an assessment of the trauma-responsiveness of each agency as defined in <cite path="|1|§22-21|(a)|(2)">§ 22-21(a)(2) of this subtitle</cite>; and</text>
         </para>
         <para>
           <num>(3)</num>
@@ -7155,7 +7155,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|28">
     <prefix>Subtitle</prefix>
     <num>28</num>
     <heading>Child First Authority</heading>
@@ -7423,7 +7423,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>hire and retain the employees, agents, and contractors needed to perform the functions of the Executive Director, subject to the requirements of § 28-3(b)(8) of this subtitle;</text>
+          <text>hire and retain the employees, agents, and contractors needed to perform the functions of the Executive Director, subject to the requirements of <cite path="|1|§28-3|(b)|(8)">§ 28-3(b)(8) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(6)</num>
@@ -8821,7 +8821,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="1|34">
     <prefix>Subtitle</prefix>
     <num>34</num>
     <heading>Baltimore City Office of Sustainability</heading>
@@ -9019,7 +9019,7 @@
             </para>
             <para>
               <num>(C)</num>
-              <text>by January 1, 2045, net-zero emissions, as defined in § 34-1(f) of this subtitle;</text>
+              <text>by January 1, 2045, net-zero emissions, as defined in <cite path="|1|§34-1|(f)">§ 34-1(f) of this subtitle</cite>;</text>
             </para>
           </para>
           <para>
@@ -9156,7 +9156,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>by January 1, 2045, net-zero emissions, as defined in § 34-1(f) of this subtitle.</text>
+          <text>by January 1, 2045, net-zero emissions, as defined in <cite path="|1|§34-1|(f)">§ 34-1(f) of this subtitle</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -9343,7 +9343,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|36A">
     <prefix>Subtitle</prefix>
     <num>36A</num>
     <heading>Legal Holidays</heading>
@@ -9369,7 +9369,7 @@
       <prefix>§</prefix>
       <num>36A-2</num>
       <heading>Observance.</heading>
-      <text>The City shall observe the legal holidays specified in § 36A-1 of this subtitle annually, in the same manner as it observes other legal holidays established from time to time by union contract,  by agency regulation, or by action of the Board of Estimates.</text>
+      <text>The City shall observe the legal holidays specified in <cite path="|1|§36A-1">§ 36A-1 of this subtitle</cite> annually, in the same manner as it observes other legal holidays established from time to time by union contract,  by agency regulation, or by action of the Board of Estimates.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-432" type="History">Ord. 20-432</annotation>
       </annotations>
@@ -9491,7 +9491,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|38">
     <prefix>Subtitle</prefix>
     <num>38</num>
     <heading>Municipal Identification</heading>
@@ -9601,7 +9601,7 @@
       <para>
         <num>(a)</num>
         <heading>Available to all City residents.</heading>
-        <text>MOIT must make a Baltimore City ID Card available to any resident of Baltimore City who can meet the requirements of § 38-8 {"Eligibility for identity card"} of this subtitle for establishing his or her identity and residency, regardless of his or her race, color, creed, age, national origin, alienage or citizenship status, gender, sexual orientation, disability, marital status, partnership status, source of lawful income, housing status, status as a victim of domestic violence, status as a victim of sex offenses or stalking, or conviction or arrest record.</text>
+        <text>MOIT must make a Baltimore City ID Card available to any resident of Baltimore City who can meet the requirements of <cite path="|1|§38-8">§ 38-8 {"Eligibility for identity card"} of this subtitle</cite> for establishing his or her identity and residency, regardless of his or her race, color, creed, age, national origin, alienage or citizenship status, gender, sexual orientation, disability, marital status, partnership status, source of lawful income, housing status, status as a victim of domestic violence, status as a victim of sex offenses or stalking, or conviction or arrest record.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -9825,7 +9825,7 @@
       <para>
         <num>(a)</num>
         <heading>Documents not to be retained.</heading>
-        <text>Baltimore City may not retain originals or copies of documents provided by an applicant to prove his or her identity or residency under § 38-8 {"Eligibility for identity card"} of this subtitle.</text>
+        <text>Baltimore City may not retain originals or copies of documents provided by an applicant to prove his or her identity or residency under <cite path="|1|§38-8">§ 38-8 {"Eligibility for identity card"} of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -10090,7 +10090,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|40">
     <prefix>Subtitle</prefix>
     <num>40</num>
     <heading>Environmental Control Board</heading>
@@ -10332,7 +10332,7 @@
       <prefix>§</prefix>
       <num>40-5</num>
       <heading>General jurisdiction of Board.</heading>
-      <text>The Board has full authority to enforce, in accordance with the provisions of this subtitle, the sanitation, environmental, health, safety, and other quality-of-life provisions of law listed in § 40-14 of this subtitle, including any rules and regulations adopted under them.</text>
+      <text>The Board has full authority to enforce, in accordance with the provisions of this subtitle, the sanitation, environmental, health, safety, and other quality-of-life provisions of law listed in <cite path="|1|§40-14">§ 40-14 of this subtitle</cite>, including any rules and regulations adopted under them.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §299</annotation>
         <annotation doc="City of Balt., Md., Ord. 98-326" type="History">Ord. 98-326</annotation>
@@ -12112,7 +12112,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|41">
     <prefix>Subtitle</prefix>
     <num>41</num>
     <heading>Civil Citations</heading>
@@ -12128,7 +12128,7 @@
       <para>
         <num>(b)</num>
         <heading>Civil citation.</heading>
-        <text>"Civil citation" means a prepayable civil citation issued under this subtitle for violation of any offense listed in § 41-14 of this subtitle.</text>
+        <text>"Civil citation" means a prepayable civil citation issued under this subtitle for violation of any offense listed in <cite path="|1|§41-14">§ 41-14 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -12179,7 +12179,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>An enforcement officer may issue a civil citation to any adult who the officer, on observation, report, or investigation, believes is committing or has committed an offense listed in § 41-14 of this subtitle.</text>
+        <text>An enforcement officer may issue a civil citation to any adult who the officer, on observation, report, or investigation, believes is committing or has committed an offense listed in <cite path="|1|§41-14">§ 41-14 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -12451,7 +12451,7 @@
       <para>
         <num>(b)</num>
         <heading>Burden of proof.</heading>
-        <text>Except in the case of a default under § 41-10 of this subtitle, the City has the burden to prove, by a preponderance of the evidence, that the defendant has committed the offense charged.</text>
+        <text>Except in the case of a default under <cite path="|1|§41-10">§ 41-10 of this subtitle</cite>, the City has the burden to prove, by a preponderance of the evidence, that the defendant has committed the offense charged.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -12533,12 +12533,12 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>A civil citation may be issued under this subtitle only for violation of a provision of the Baltimore City Code listed in § 41-14 of this subtitle.</text>
+        <text>A civil citation may be issued under this subtitle only for violation of a provision of the Baltimore City Code listed in <cite path="|1|§41-14">§ 41-14 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Prepayable-fine amounts.</heading>
-        <text>The prepayable civil fine for the violation of a provision is as specified next to the listing of that provision in § 41-14 of this subtitle.</text>
+        <text>The prepayable civil fine for the violation of a provision is as specified next to the listing of that provision in <cite path="|1|§41-14">§ 41-14 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -15742,7 +15742,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="1|59">
     <prefix>Subtitle</prefix>
     <num>59</num>
     <heading>Community Reinvestment and Reparations Commission</heading>
@@ -16012,7 +16012,7 @@
       <para>
         <num>(c)</num>
         <heading>Staff.</heading>
-        <text>The Commission shall have such staff as provided for in the Ordinance of Estimates to assist the Commission in fulfilling its duties as provided for under § 59-2 {"Commission created; purpose; duties"} of this subtitle.</text>
+        <text>The Commission shall have such staff as provided for in the Ordinance of Estimates to assist the Commission in fulfilling its duties as provided for under <cite path="|1|§59-2">§ 59-2 {"Commission created; purpose; duties"} of this subtitle</cite>.</text>
       </para>
     </section>
     <section>

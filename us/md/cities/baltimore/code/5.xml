@@ -354,7 +354,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|5">
     <prefix>Subtitle</prefix>
     <num>5</num>
     <heading>Investments</heading>
@@ -366,7 +366,7 @@
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 5, §21</annotation>
         <annotation doc="City of Balt., Md., Ord. 74-749" type="History">Ord. 74-749</annotation>
-        <annotation type="Editor's Notes">The State enabling law to which the preceding section refers, State <cite path="|95" proof="needed">Article 95</cite>, §22A, was repealed by Chapter 319, Laws of Maryland 1997.  But see § 5-2 of this subtitle below.</annotation>
+        <annotation type="Editor's Notes">The State enabling law to which the preceding section refers, State <cite path="|95" proof="needed">Article 95</cite>, §22A, was repealed by Chapter 319, Laws of Maryland 1997.  But see <cite path="|5|§5-2">§ 5-2 of this subtitle</cite> below.</annotation>
       </annotations>
     </section>
     <section>
@@ -620,7 +620,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|9">
     <prefix>Subtitle</prefix>
     <num>9</num>
     <heading>Children and Youth Fund</heading>
@@ -641,7 +641,7 @@
       <para>
         <num>(c)</num>
         <heading>Fiscal agent.</heading>
-        <text>"Fiscal agent" means the entity designated by § 9-4(a) of this subtitle to administer the Fund and this subtitle.</text>
+        <text>"Fiscal agent" means the entity designated by <cite path="|5|§9-4|(a)">§ 9-4(a) of this subtitle</cite> to administer the Fund and this subtitle.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -931,7 +931,7 @@
         <para>
           <num>(2)</num>
           <heading>Remainder to be disbursed.</heading>
-          <text>The Board must allocate the remainder of the Fund's balance among the programs and services identified under § 9-4(c) of this subtitle, with an emphasis on programs or services operating in, or meant to assist young people from, the communities in Baltimore City most impacted by high poverty.</text>
+          <text>The Board must allocate the remainder of the Fund's balance among the programs and services identified under <cite path="|5|§9-4|(c)">§ 9-4(c) of this subtitle</cite>, with an emphasis on programs or services operating in, or meant to assist young people from, the communities in Baltimore City most impacted by high poverty.</text>
         </para>
       </para>
       <para>
@@ -1008,7 +1008,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|10">
     <prefix>Subtitle</prefix>
     <num>10</num>
     <heading>Property Insurance</heading>
@@ -1088,7 +1088,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Comptroller may determine the property and perils to be covered by this Fund and promulgate rules and regulations governing payments from this Fund.  Such rules and regulations shall be in accord with the provisions of § 10-5 of this subtitle, but may amplify and extend the basic principles as set forth in that section.</text>
+          <text>The Comptroller may determine the property and perils to be covered by this Fund and promulgate rules and regulations governing payments from this Fund.  Such rules and regulations shall be in accord with the provisions of <cite path="|5|§10-5">§ 10-5 of this subtitle</cite>, but may amplify and extend the basic principles as set forth in that section.</text>
         </para>
       </para>
       <para>
@@ -1193,7 +1193,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|11">
     <prefix>Subtitle</prefix>
     <num>11</num>
     <heading>Fair Election Fund</heading>
@@ -1953,7 +1953,7 @@
           <heading>Applicant candidate certification.</heading>
           <para>
             <num>(1)</num>
-            <text>Subject to paragraph (2) of this subsection, on notice of the State Board's certification of an applicant candidate, the Director must disperse the appropriate public contribution under § 11-17 {"Distribution of public contribution"} of this subtitle.</text>
+            <text>Subject to paragraph (2) of this subsection, on notice of the State Board's certification of an applicant candidate, the Director must disperse the appropriate public contribution under <cite path="|5|§11-17">§ 11-17 {"Distribution of public contribution"} of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2540,7 +2540,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|13">
     <prefix>Subtitle</prefix>
     <num>13</num>
     <heading>Self-Insurance Program for Commodity, Service, and Construction Contracts</heading>
@@ -2669,7 +2669,7 @@
       <prefix>§</prefix>
       <num>13-4</num>
       <heading>Liability Reserve Fund — when to be used.</heading>
-      <text>The Liability Reserve Fund shall be used to pay any losses which the Mayor and City Council of Baltimore sustains pursuant to its Self-Insurance Program, only after the sums provided for in § 13-2 of this subtitle have been fully expended or encumbered.</text>
+      <text>The Liability Reserve Fund shall be used to pay any losses which the Mayor and City Council of Baltimore sustains pursuant to its Self-Insurance Program, only after the sums provided for in <cite path="|5|§13-2">§ 13-2 of this subtitle</cite> have been fully expended or encumbered.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §204</annotation>
         <annotation doc="City of Balt., Md., Ord. 86-774" type="History">Ord. 86-774</annotation>
@@ -2735,7 +2735,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|14">
     <prefix>Subtitle</prefix>
     <num>14</num>
     <heading>Private Security Camera System Rebate and Voucher Program</heading>
@@ -2842,7 +2842,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>submit a rebate application to the Director as required by § 14-5 {"Rebate application"} of this subtitle.</text>
+        <text>submit a rebate application to the Director as required by <cite path="|5|§14-5">§ 14-5 {"Rebate application"} of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-355" type="History">Ord. 20-355</annotation>
@@ -2914,7 +2914,7 @@
         <heading>In general.</heading>
         <para>
           <num>(1)</num>
-          <text>On approval of a rebate application submitted in accordance with § 14-5 {"Rebate application"} of this subtitle, the Director shall provide a rebate of the lesser of $150 or the actual cost of the system.</text>
+          <text>On approval of a rebate application submitted in accordance with <cite path="|5|§14-5">§ 14-5 {"Rebate application"} of this subtitle</cite>, the Director shall provide a rebate of the lesser of $150 or the actual cost of the system.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3019,7 +3019,7 @@
         <para>
           <num>(2)</num>
           <heading>Value.</heading>
-          <text>A voucher under this section may not exceed the amount for a rebate claim under § 14-6 {"Rebate amount"} of this subtitle.</text>
+          <text>A voucher under this section may not exceed the amount for a rebate claim under <cite path="|5|§14-6">§ 14-6 {"Rebate amount"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3058,15 +3058,15 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>in collaboration with the Department of Planning and the Mayor's Office of Criminal Justice, identification of priority areas for rebates based on violent crime indicators and socio-economic status as required by § 14-6 {"Rebate amount"} of this subtitle;</text>
+          <text>in collaboration with the Department of Planning and the Mayor's Office of Criminal Justice, identification of priority areas for rebates based on violent crime indicators and socio-economic status as required by <cite path="|5|§14-6">§ 14-6 {"Rebate amount"} of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>procedures for participating in the voucher program established by § 14-8 {"Vouchers"} of this subtitle; and</text>
+          <text>procedures for participating in the voucher program established by <cite path="|5|§14-8">§ 14-8 {"Vouchers"} of this subtitle</cite>; and</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>in consultation with the Mayor's Office of Criminal Justice, identification of priority areas for vouchers based on violent crime indicators as required by § 14-8(d) {"Vouchers: Distribution"} of this subtitle.</text>
+          <text>in consultation with the Mayor's Office of Criminal Justice, identification of priority areas for vouchers based on violent crime indicators as required by <cite path="|5|§14-8|(d)" proof="needed">§ 14-8(d) {"Vouchers: Distribution"} of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -3124,7 +3124,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|15">
     <prefix>Subtitle</prefix>
     <num>15</num>
     <heading>Employee-Owned Businesses</heading>
@@ -3231,7 +3231,7 @@
       <prefix>§</prefix>
       <num>15-4</num>
       <heading>Assessments; Legislative and policy recommendations.</heading>
-      <text>Utilizing the data contained in the report required by § 15-2 {"Reporting – In general"} of this subtitle, the Mayor's Office of Small Business (or its successor office, agency, or unit) shall, no later than June 30 of each year, submit a report to the Mayor and City Council setting forth:</text>
+      <text>Utilizing the data contained in the report required by <cite path="|5|§15-2">§ 15-2 {"Reporting – In general"} of this subtitle</cite>, the Mayor's Office of Small Business (or its successor office, agency, or unit) shall, no later than June 30 of each year, submit a report to the Mayor and City Council setting forth:</text>
       <para>
         <num>(1)</num>
         <text>an assessment of the difficulties or obstacles that employee-owned businesses encounter when competing for City contracts; and</text>
@@ -3618,7 +3618,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|20A">
     <prefix>Subtitle</prefix>
     <num>20A</num>
     <heading>Demolition of City Property</heading>
@@ -3755,7 +3755,7 @@
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 16-451" type="History">Ord. 16-451</annotation>
-        <annotation type="Editor's Notes">See Note to § 20A-1(b) of this subtitle for this section’s limited application to school buildings.</annotation>
+        <annotation type="Editor's Notes">See Note to <cite path="|5|§20A-1|(b)">§ 20A-1(b) of this subtitle</cite> for this section’s limited application to school buildings.</annotation>
       </annotations>
     </section>
     <section>
@@ -3797,7 +3797,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|21">
     <prefix>Subtitle</prefix>
     <num>21</num>
     <heading>Public Art</heading>
@@ -3859,7 +3859,7 @@
         <para>
           <num>(b)</num>
           <heading>Artwork allocation.</heading>
-          <text>"Artwork allocation" means the amount required by § 21-16 of this subtitle to be allocated to artwork.</text>
+          <text>"Artwork allocation" means the amount required by <cite path="|5|§21-16">§ 21-16 of this subtitle</cite> to be allocated to artwork.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -4267,7 +4267,7 @@
           <text>Based on the consultation, the Commission shall determine within 90 days:</text>
           <para>
             <num>(1)</num>
-            <text>the aggregate amount of the artwork allocation required by § 21-16 of this subtitle; and</text>
+            <text>the aggregate amount of the artwork allocation required by <cite path="|5|§21-16">§ 21-16 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4307,7 +4307,7 @@
         <prefix>§</prefix>
         <num>21-20</num>
         <heading>Allocation of funds.</heading>
-        <text>On the award of a contract for the project, the contracting agency shall notify the Department of Finance that the aggregate amount of the artwork allocation, as determined under § 21-18(b) of this subtitle, shall be transferred as it become available to a capital account to be used for purposes of this subtitle.</text>
+        <text>On the award of a contract for the project, the contracting agency shall notify the Department of Finance that the aggregate amount of the artwork allocation, as determined under <cite path="|5|§21-18|(b)">§ 21-18(b) of this subtitle</cite>, shall be transferred as it become available to a capital account to be used for purposes of this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-489" type="History">Ord. 07-489</annotation>
         </annotations>
@@ -4566,7 +4566,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|25">
     <prefix>Subtitle</prefix>
     <num>25</num>
     <heading>Prevailing Wages for Work Under Construction Contracts</heading>
@@ -4720,7 +4720,7 @@
       <para>
         <num>(b)</num>
         <heading>How computed.</heading>
-        <text>No overtime hours, however, shall be compensated for more than once and overtime shall be paid only on the regular hourly rate of pay and not on the fringe benefits or their cash equivalents, provided for in § 25-17 of this subtitle.</text>
+        <text>No overtime hours, however, shall be compensated for more than once and overtime shall be paid only on the regular hourly rate of pay and not on the fringe benefits or their cash equivalents, provided for in <cite path="|5|§25-17">§ 25-17 of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1950, art. 1, §14(b)</annotation>
@@ -5304,7 +5304,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|26">
     <prefix>Subtitle</prefix>
     <num>26</num>
     <heading>Living Wages for Work Under Service Contracts</heading>
@@ -5325,7 +5325,7 @@
       <para>
         <num>(c)</num>
         <heading>Living hourly wage rate.</heading>
-        <text>"Living hourly wage rate" means the rate established by the Board of Estimates under the formula set forth in § 26-16 of this subtitle, as the minimum hourly wage rate that must be paid a worker employed by a service contractor.</text>
+        <text>"Living hourly wage rate" means the rate established by the Board of Estimates under the formula set forth in <cite path="|5|§26-16">§ 26-16 of this subtitle</cite>, as the minimum hourly wage rate that must be paid a worker employed by a service contractor.</text>
       </para>
       <para name="(d)">
         <num>(d)</num>
@@ -5813,7 +5813,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|26A">
     <prefix>Subtitle</prefix>
     <num>26A</num>
     <heading>Labor Trafficking Notice Requirements</heading>
@@ -5904,7 +5904,7 @@
       <prefix>§</prefix>
       <num>26A-3</num>
       <heading>Sign location.</heading>
-      <text>A copy of the labor trafficking sign required by § 26A-2 {"Requirements"} of this subtitle shall be posted by the contractor at the site of the work in a clear and conspicuous place where it can be easily seen and read by the workers.  Example areas include break rooms, locker rooms, cafeterias, and other similar locations.</text>
+      <text>A copy of the labor trafficking sign required by <cite path="|5|§26A-2">§ 26A-2 {"Requirements"} of this subtitle</cite> shall be posted by the contractor at the site of the work in a clear and conspicuous place where it can be easily seen and read by the workers.  Example areas include break rooms, locker rooms, cafeterias, and other similar locations.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 22-10" type="History">Ord. 22-10</annotation>
       </annotations>
@@ -8514,7 +8514,7 @@
         </section>
       </container>
     </container>
-    <container>
+    <container cache:ref-path="5|28|3">
       <prefix>Chapter</prefix>
       <num>3</num>
       <heading>Small Local Business Enterprise Procurement Requirements</heading>
@@ -8567,7 +8567,7 @@
           <para>
             <num>(d)</num>
             <heading>Emerging SLBE.</heading>
-            <text>"Emerging SLBE" means a firm that meets the eligibility requirements specified in § 28-107(a) {"Certification as Emerging SLBE: Eligibility"} of this chapter.</text>
+            <text>"Emerging SLBE" means a firm that meets the eligibility requirements specified in <cite path="|5|§28-107|(a)">§ 28-107(a) {"Certification as Emerging SLBE: Eligibility"} of this chapter</cite>.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -8617,7 +8617,7 @@
           <para>
             <num>(k)</num>
             <heading>Small local business enterprise; SLBE.</heading>
-            <text>"Small local business enterprise" or "SLBE" means a firm that meets the eligibility requirements specified in § 28-105(a) {" Eligibility for SLBE Program: General eligibility requirements"} of this chapter.</text>
+            <text>"Small local business enterprise" or "SLBE" means a firm that meets the eligibility requirements specified in <cite path="|5|§28-105|(a)">§ 28-105(a) {" Eligibility for SLBE Program: General eligibility requirements"} of this chapter</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
@@ -8867,7 +8867,7 @@
           <para>
             <num>(c)</num>
             <heading>Periodic City review.</heading>
-            <text>The Board of Estimates, or its designee, must periodically review the SLBE Program to determine whether the various contracting procedures used to enhance SLBE contract participation need to be adjusted or used more or less aggressively in future years to achieve the goals stated in § 28-97 {"Purpose; Scope"} and § 28-98 {"Program objectives"} of this chapter.</text>
+            <text>The Board of Estimates, or its designee, must periodically review the SLBE Program to determine whether the various contracting procedures used to enhance SLBE contract participation need to be adjusted or used more or less aggressively in future years to achieve the goals stated in § 28-97 {"Purpose; Scope"} and <cite path="|5|§28-98">§ 28-98 {"Program objectives"} of this chapter</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
@@ -9682,7 +9682,7 @@
       </section>
     </container>
   </container>
-  <container>
+  <container cache:ref-path="5|29">
     <prefix>Subtitle</prefix>
     <num>29</num>
     <heading>Commercial Non-Discrimination Policy</heading>
@@ -9796,7 +9796,7 @@
         <text>This subtitle applies to all business firms and all contracts to which the City is a party.  A claim of discrimination may be investigated and adjudicated under this policy only if the claim alleges that:</text>
         <para>
           <num>(1)</num>
-          <text>the discrimination was committed by a business firm within the applicable limitations period set forth in § 29-7 of this subtitle; and</text>
+          <text>the discrimination was committed by a business firm within the applicable limitations period set forth in <cite path="|5|§29-7">§ 29-7 of this subtitle</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -11314,7 +11314,7 @@
     <num>39</num>
     <reason>Reserved</reason>
   </container>
-  <container>
+  <container cache:ref-path="5|40">
     <prefix>Subtitle</prefix>
     <num>40</num>
     <heading>Debarment from City Contracts</heading>
@@ -11766,7 +11766,7 @@
           <text>This section applies if:</text>
           <para>
             <num>(1)</num>
-            <text>a person is convicted of an offense described in § 40-5 {"Automatic debarment for certain bribery offenses"} of this subtitle; and</text>
+            <text>a person is convicted of an offense described in <cite path="|5|§40-5">§ 40-5 {"Automatic debarment for certain bribery offenses"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11779,7 +11779,7 @@
           <text>When the Board learns of the conviction, the Board shall:</text>
           <para>
             <num>(1)</num>
-            <text>notify the person of the person's automatic debarment under § 40-5 of this subtitle; and</text>
+            <text>notify the person of the person's automatic debarment under <cite path="|5|§40-5">§ 40-5 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11800,7 +11800,7 @@
           <text>This section applies if:</text>
           <para>
             <num>(1)</num>
-            <text>a person is subject to debarment under § 40-6 {"Other bribery offenses"}, § 40-7 {"Violations of other laws"}, or § 40-8 {"Other events"} of this subtitle; and</text>
+            <text>a person is subject to debarment under § 40-6 {"Other bribery offenses"}, § 40-7 {"Violations of other laws"}, or <cite path="|5|§40-8">§ 40-8 {"Other events"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11812,7 +11812,7 @@
           <heading>Notice of proposed debarment.</heading>
           <para>
             <num>(1)</num>
-            <text>When the Board receives information that indicates a basis for debarring a person under § 40-6, § 40-7, or § 40-8 of this subtitle, the Board may institute debarment proceedings by notice to that person.</text>
+            <text>When the Board receives information that indicates a basis for debarring a person under § 40-6, § 40-7, or <cite path="|5|§40-8">§ 40-8 of this subtitle</cite>, the Board may institute debarment proceedings by notice to that person.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11876,7 +11876,7 @@
           <text>A business is suspended to the same extent that a person is suspended under this section if:</text>
           <para>
             <num>(1)</num>
-            <text>the suspended person's debarment would cause the debarment of the business under § 40-20 {"Debarment of businesses"} of this subtitle; and</text>
+            <text>the suspended person's debarment would cause the debarment of the business under <cite path="|5|§40-20">§ 40-20 {"Debarment of businesses"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11934,7 +11934,7 @@
         <para>
           <num>(b)</num>
           <heading>Factors to be considered.</heading>
-          <text>In a proceeding under § 40-6, § 40-7, or § 40-8 of this subtitle, the Board shall:</text>
+          <text>In a proceeding under § 40-6, § 40-7, or <cite path="|5|§40-8">§ 40-8 of this subtitle</cite>, the Board shall:</text>
           <para>
             <num>(1)</num>
             <text>determine whether the integrity of the contracting process and the best interests of the City would be served by debarring the person from entering into or performing contracts with the City; and</text>
@@ -12050,7 +12050,7 @@
         <para>
           <num>(b)</num>
           <heading>Bribery offenses.</heading>
-          <text>For a person debarred under § 40-5 or § 40-6 of this subtitle, the petition may be filed at any time after expiration of 5 years from:</text>
+          <text>For a person debarred under § 40-5 or <cite path="|5|§40-6">§ 40-6 of this subtitle</cite>, the petition may be filed at any time after expiration of 5 years from:</text>
           <para>
             <num>(1)</num>
             <text>the date of the debarment; or</text>
@@ -12063,7 +12063,7 @@
         <para>
           <num>(c)</num>
           <heading>Other causes.</heading>
-          <text>For a person debarred under § 40-7 or § 40-8 of this subtitle, the petition may be filed at any time after expiration of the earlier of:</text>
+          <text>For a person debarred under § 40-7 or <cite path="|5|§40-8">§ 40-8 of this subtitle</cite>, the petition may be filed at any time after expiration of the earlier of:</text>
           <para>
             <num>(1)</num>
             <text>one-half of the period of debarment; or</text>
@@ -12190,11 +12190,11 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>has been convicted of any offense described in § 40-7 of this subtitle;</text>
+            <text>has been convicted of any offense described in <cite path="|5|§40-7">§ 40-7 of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>has been found civilly liable under an antitrust statute as described in § 40-7 of this subtitle; or</text>
+            <text>has been found civilly liable under an antitrust statute as described in <cite path="|5|§40-7">§ 40-7 of this subtitle</cite>; or</text>
           </para>
           <para>
             <num>(4)</num>
@@ -12866,12 +12866,12 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container cache:ref-path="5|49">
     <prefix>Subtitle</prefix>
     <num>49</num>
     <heading>American Rescue Plan Funds</heading>
     <annotations>
-      <annotation type="Editor's Notes">Pursuant to Charter Art.  IV, § 5(c), this subtitle was enacted by Ordinance 22-107 without the Mayor’s signature, on January 11, 2022.  Section 2 of that Ordinance provides that it takes effect on February 10, 2022 (“the 30th day after the date it is enacted”) and that “[i]t shall remain effective until September 24, 2024; and, immediately after that date with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect”.</annotation>
+      <annotation type="Editor's Notes">Pursuant to Charter Art.  IV, <cite path="|5|§5|(c)" proof="needed">§ 5(c), this subtitle</cite> was enacted by Ordinance 22-107 without the Mayor’s signature, on January 11, 2022.  Section 2 of that Ordinance provides that it takes effect on February 10, 2022 (“the 30th day after the date it is enacted”) and that “[i]t shall remain effective until September 24, 2024; and, immediately after that date with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect”.</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
