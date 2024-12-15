@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-403" codify:doc="City of Baltimore, Md., Code">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-403" codify:doc="City of Baltimore, Md., Code">
   <num type="law">24-403</num>
   <num type="bill">24-0357</num>
   <heading type="short">Strengthening Renters' Safety Act</heading>
@@ -686,81 +686,81 @@
     </section>
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-11">
-      <section>
-        <prefix>§</prefix>
-        <num>5-11</num>
-        <heading>Posting license; license number.</heading>
-        <text>The license issued under this subtitle must be  prominently displayed:</text>
+    <section>
+      <prefix>§</prefix>
+      <num>5-11</num>
+      <heading>Posting license; license number.</heading>
+      <text>The license issued under this subtitle must be  prominently displayed:</text>
+      <para>
+        <num>(a)</num>
+        <heading>Dwellings.</heading>
         <para>
-          <num>(a)</num>
-          <heading>Dwellings.</heading>
-          <para>
-            <num>(1)</num>
-            <text>for a multiple-family dwelling or rooming house, in the vestibule, lobby, or other public place on the premises; and</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>for a 1- or 2-family dwelling, in an area of each dwelling unit that is accessible to that unit's occupants and to housing inspectors.</text>
-          </para>
+          <num>(1)</num>
+          <text>for a multiple-family dwelling or rooming house, in the vestibule, lobby, or other public place on the premises; and</text>
         </para>
         <para>
-          <num>(b)</num>
-          <heading>Lease agreements.</heading>
-          <text>A license issued under this subtitle must be provided to:</text>
-          <para>
-            <num>(1)</num>
-            <text>any prospective tenant who requests an application; and</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>all existing or future tenants at the time a rental dwelling lease agreement or renewal lease agreement is:</text>
-            <para>
-              <num>(i)</num>
-              <text>offered;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>executed; or</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>renewed.</text>
-            </para>
-          </para>
+          <num>(2)</num>
+          <text>for a 1- or 2-family dwelling, in an area of each dwelling unit that is accessible to that unit's occupants and to housing inspectors.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Lease agreements.</heading>
+        <text>A license issued under this subtitle must be provided to:</text>
+        <para>
+          <num>(1)</num>
+          <text>any prospective tenant who requests an application; and</text>
         </para>
         <para>
-          <num>(c)</num>
-          <heading>Advertising materials.</heading>
+          <num>(2)</num>
+          <text>all existing or future tenants at the time a rental dwelling lease agreement or renewal lease agreement is:</text>
           <para>
-            <num>(1)</num>
-            <heading>In general.</heading>
-            <text>Any material advertising a rental dwelling for rent covered by this subtitle must include the rental license number for the advertised rental dwelling.</text>
+            <num>(i)</num>
+            <text>offered;</text>
           </para>
           <para>
-            <num>(2)</num>
-            <heading>Prohibitions.</heading>
-            <text>Any material advertising a rental dwelling for rent that is covered by this subtitle may not include a rental license number that is, pursuant to this subtitle:</text>
-            <para>
-              <num>(i)</num>
-              <text>expired;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>suspended; or</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>revoked.</text>
-            </para>
+            <num>(ii)</num>
+            <text>executed; or</text>
           </para>
+          <para>
+            <num>(iii)</num>
+            <text>renewed.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Advertising materials.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general.</heading>
+          <text>Any material advertising a rental dwelling for rent covered by this subtitle must include the rental license number for the advertised rental dwelling.</text>
         </para>
         <para>
-          <num>(3)</num>
-          <heading>Exceptions</heading>
-          <text>Notwithstanding anything contained in this section to the contrary, the record owner and managing operator, if any, of a newly constructed or renovated dwelling unit or rooming unit that does not yet have a rental dwelling license number shall include the following text in any lease agreement, advertising material, or other publicly facing document:</text>
-          <text>"This is a newly constructed or renovated dwelling unit and does not currently have a rental license.  As soon as available, a rental license will be provided to all individuals as required by <cite doc="City of Baltimore, Md., Code" path="13|II|5">Article 13, Subtitle 5 {"Licensing of Rental Dwellings"}</cite> of the Baltimore City Code.".</text>
+          <num>(2)</num>
+          <heading>Prohibitions.</heading>
+          <text>Any material advertising a rental dwelling for rent that is covered by this subtitle may not include a rental license number that is, pursuant to this subtitle:</text>
+          <para>
+            <num>(i)</num>
+            <text>expired;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>suspended; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>revoked.</text>
+          </para>
         </para>
-      </section>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Exceptions</heading>
+        <text>Notwithstanding anything contained in this section to the contrary, the record owner and managing operator, if any, of a newly constructed or renovated dwelling unit or rooming unit that does not yet have a rental dwelling license number shall include the following text in any lease agreement, advertising material, or other publicly facing document:</text>
+        <text>"This is a newly constructed or renovated dwelling unit and does not currently have a rental license.  As soon as available, a rental license will be provided to all individuals as required by <cite doc="City of Baltimore, Md., Code" path="13|II|5">Article 13, Subtitle 5 {"Licensing of Rental Dwellings"}</cite> of the Baltimore City Code.".</text>
+      </para>
+    </section>
   </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-12">
     <section>
@@ -1007,250 +1007,250 @@
     </section>
   </codify:replace>
   <codify:insert doc="City of Baltimore, Md., Code" path="13|II|5">
-      <section>
-        <prefix>§</prefix>
-        <num>5-27</num>
-        <heading>Data collection.</heading>
-        <para>
-          <num>(a)</num>
-          <heading>In general.</heading>
-          <text>The Commissioner, the City's Chief Data Officer, and any other City employee who maintains data pertaining to priority dwellings or priority inspections must collaborate to develop a system to track and analyze priority dwellings and priority inspections.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <heading>Discretion of Commissioner.</heading>
-          <text>The Department of Housing and Community Development may use existing resources to track and analyze priority dwellings at the discretion of the Commissioner.</text>
-        </para>
-      </section>
+    <section>
+      <prefix>§</prefix>
+      <num>5-27</num>
+      <heading>Data collection.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>The Commissioner, the City's Chief Data Officer, and any other City employee who maintains data pertaining to priority dwellings or priority inspections must collaborate to develop a system to track and analyze priority dwellings and priority inspections.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Discretion of Commissioner.</heading>
+        <text>The Department of Housing and Community Development may use existing resources to track and analyze priority dwellings at the discretion of the Commissioner.</text>
+      </para>
+    </section>
   </codify:insert>
   <codify:insert doc="City of Baltimore, Md., Code" path="13|II|5">
-      <section>
-        <prefix>§</prefix>
-        <num>5-28</num>
-        <heading>Annual Report.</heading>
+    <section>
+      <prefix>§</prefix>
+      <num>5-28</num>
+      <heading>Annual Report.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general.</heading>
+        <text>Not later than May 1 of each year, the Department of Housing and Community Development must submit an annual report for the previous calendar year to the Mayor and the City Council detailing:</text>
         <para>
-          <num>(a)</num>
-          <heading>In general.</heading>
-          <text>Not later than May 1 of each year, the Department of Housing and Community Development must submit an annual report for the previous calendar year to the Mayor and the City Council detailing:</text>
-          <para>
-            <num>(1)</num>
-            <text>the number of priority dwellings;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>the number of priority dwellings for which the Department of Housing and Community Development conducted 2 priority inspections;</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>the number of priority dwellings where at least 1 violation notice was issued during a priority inspection that was not abated within the allowable time;</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>the number of priority dwellings where at least 1citation was issued during a priority inspection;</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>the number of attempted priority inspections;</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>the number of rental licenses revoked under <cite doc="City of Baltimore, Md., Code" path="13|§5-15|(b)|(6)">§ 5-15(b)(6)</cite> of this subtitle;</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>the number of rental licenses revoked under <cite doc="City of Baltimore, Md., Code" path="13|§5-15|(b)|(7)">§ 5-15(b)(7)</cite> of this subtitle;</text>
-          </para>
-          <para>
-            <num>(8)</num>
-            <text>the total number of rental licenses revoked;</text>
-          </para>
-          <para>
-            <num>(9)</num>
-            <text>the number of completed priority inspections;</text>
-          </para>
-          <para>
-            <num>(10)</num>
-            <text>of the total number of priority inspections completed, the percentage of priority inspections that did not yield any violation notices or citations; and</text>
-          </para>
-          <para>
-            <num>(11)</num>
-            <text>any other information requested by the Mayor or by a Resolution of
+          <num>(1)</num>
+          <text>the number of priority dwellings;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the number of priority dwellings for which the Department of Housing and Community Development conducted 2 priority inspections;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the number of priority dwellings where at least 1 violation notice was issued during a priority inspection that was not abated within the allowable time;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the number of priority dwellings where at least 1citation was issued during a priority inspection;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the number of attempted priority inspections;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the number of rental licenses revoked under <cite doc="City of Baltimore, Md., Code" path="13|§5-15|(b)|(6)">§ 5-15(b)(6)</cite> of this subtitle;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the number of rental licenses revoked under <cite doc="City of Baltimore, Md., Code" path="13|§5-15|(b)|(7)">§ 5-15(b)(7)</cite> of this subtitle;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the total number of rental licenses revoked;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>the number of completed priority inspections;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>of the total number of priority inspections completed, the percentage of priority inspections that did not yield any violation notices or citations; and</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>any other information requested by the Mayor or by a Resolution of
 				 the City Council.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Inclusions - All licensed rental dwellings.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Totals.</heading>
+          <text>The annual report required under subsection (a) of this section must include a matrix identifying the following in aggregate for all licensed rental dwellings:</text>
+          <para>
+            <num>(i)</num>
+            <text>the total number of 3-1-1 complaints;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the total number of notices issued by the Department of Housing and Community Development;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the total number of notices abated within 90 days;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the number of notices for which the Department of Housing and Community Development pursued legal action; and </text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>the total number of citations issued.</text>
           </para>
         </para>
         <para>
-          <num>(b)</num>
-          <heading>Inclusions - All licensed rental dwellings.</heading>
+          <num>(2)</num>
+          <heading>Specific categories.</heading>
+          <text>The annual report required under subsection (a) of this section must include a matrix identifying the data required under subsection (b)(1) of this section for all licensed rental dwellings in aggregate, for each of the following categories:</text>
           <para>
-            <num>(1)</num>
-            <heading>Totals.</heading>
-            <text>The annual report required under subsection (a) of this section must include a matrix identifying the following in aggregate for all licensed rental dwellings:</text>
-            <para>
-              <num>(i)</num>
-              <text>the total number of 3-1-1 complaints;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>the total number of notices issued by the Department of Housing and Community Development;</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>the total number of notices abated within 90 days;</text>
-            </para>
-            <para>
-              <num>(iv)</num>
-              <text>the number of notices for which the Department of Housing and Community Development pursued legal action; and </text>
-            </para>
-            <para>
-              <num>(v)</num>
-              <text>the total number of citations issued.</text>
-            </para>
+            <num>(i)</num>
+            <text>heating;</text>
           </para>
           <para>
-            <num>(2)</num>
-            <heading>Specific categories.</heading>
-            <text>The annual report required under subsection (a) of this section must include a matrix identifying the data required under subsection (b)(1) of this section for all licensed rental dwellings in aggregate, for each of the following categories:</text>
-            <para>
-              <num>(i)</num>
-              <text>heating;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>ventilation;</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>plumbing;</text>
-            </para>
-            <para>
-              <num>(iv)</num>
-              <text>roof leaks;</text>
-            </para>
-            <para>
-              <num>(v)</num>
-              <text>rodents;</text>
-            </para>
-            <para>
-              <num>(vi)</num>
-              <text>lead paint;</text>
-            </para>
-            <para>
-              <num>(vii)</num>
-              <text>fire protections;</text>
-            </para>
-            <para>
-              <num>(viii)</num>
-              <text>electrical systems;</text>
-            </para>
-            <para>
-              <num>(ix)</num>
-              <text>water supply;</text>
-            </para>
-            <para>
-              <num>(x)</num>
-              <text>structural deficiencies;</text>
-            </para>
-            <para>
-              <num>(xi)</num>
-              <text>insects;</text>
-            </para>
-            <para>
-              <num>(xii)</num>
-              <text>elevators;</text>
-            </para>
-            <para>
-              <num>(xiii)</num>
-              <text>weatherproofing; and</text>
-            </para>
-            <para>
-              <num>(xiv)</num>
-              <text>appearance of mold</text>
-            </para>
+            <num>(ii)</num>
+            <text>ventilation;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>plumbing;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>roof leaks;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>rodents;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>lead paint;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>fire protections;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>electrical systems;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>water supply;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>structural deficiencies;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>insects;</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>elevators;</text>
+          </para>
+          <para>
+            <num>(xiii)</num>
+            <text>weatherproofing; and</text>
+          </para>
+          <para>
+            <num>(xiv)</num>
+            <text>appearance of mold</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Inclusions - Priority dwellings.</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Totals.</heading>
+          <text>The annual report required under subsection (a) of this section must include a matrix identifying the following for all priority dwellings:</text>
+          <para>
+            <num>(i)</num>
+            <text>the total number of 3-1-1 complaints;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the total number of notices issued by the Department of Housing and Community Development;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the total number of notices abated within 90 days;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the number of notices for which the Department of Housing and Community Development pursued legal action; and </text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>the total number of citations issued.</text>
           </para>
         </para>
         <para>
-          <num>(c)</num>
-          <heading>Inclusions - Priority dwellings.</heading>
+          <num>(2)</num>
+          <heading>Specific categories.</heading>
+          <text>The annual report required under subsection (a) of this section must, for all priority dwellings,  include a matrix identifying the data required under subsection (b)(1) of this section for each of the following categories:</text>
           <para>
-            <num>(1)</num>
-            <heading>Totals.</heading>
-            <text>The annual report required under subsection (a) of this section must include a matrix identifying the following for all priority dwellings:</text>
-            <para>
-              <num>(i)</num>
-              <text>the total number of 3-1-1 complaints;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>the total number of notices issued by the Department of Housing and Community Development;</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>the total number of notices abated within 90 days;</text>
-            </para>
-            <para>
-              <num>(iv)</num>
-              <text>the number of notices for which the Department of Housing and Community Development pursued legal action; and </text>
-            </para>
-            <para>
-              <num>(v)</num>
-              <text>the total number of citations issued.</text>
-            </para>
+            <num>(i)</num>
+            <text>heating;</text>
           </para>
           <para>
-            <num>(2)</num>
-            <heading>Specific categories.</heading>
-            <text>The annual report required under subsection (a) of this section must, for all priority dwellings,  include a matrix identifying the data required under subsection (b)(1) of this section for each of the following categories:</text>
-            <para>
-              <num>(i)</num>
-              <text>heating;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>ventilation;</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>plumbing;</text>
-            </para>
-            <para>
-              <num>(iv)</num>
-              <text>roof leaks;</text>
-            </para>
-            <para>
-              <num>(v)</num>
-              <text>rodents;</text>
-            </para>
-            <para>
-              <num>(vi)</num>
-              <text>lead paint;</text>
-            </para>
-            <para>
-              <num>(vii)</num>
-              <text>fire protections;</text>
-            </para>
-            <para>
-              <num>(viii)</num>
-              <text>electrical systems;</text>
-            </para>
-            <para>
-              <num>(ix)</num>
-              <text>water supply;</text>
-            </para>
-            <para>
-              <num>(x)</num>
-              <text>structural deficiencies;</text>
-            </para>
-            <para>
-              <num>(xi)</num>
-              <text>bed bugs; and</text>
-            </para>
-            <para>
-              <num>(xii)</num>
-              <text>elevators.</text>
-            </para>
+            <num>(ii)</num>
+            <text>ventilation;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>plumbing;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>roof leaks;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>rodents;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>lead paint;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>fire protections;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>electrical systems;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>water supply;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>structural deficiencies;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>bed bugs; and</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>elevators.</text>
           </para>
         </para>
-      </section>
+      </para>
+    </section>
   </codify:insert>
   <codify:replace doc="City of Baltimore, Md., Code" path="1|§40-14|(e)">
     <para>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-367">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-367">
   <num type="law">24-367</num>
   <num type="bill">24-0559</num>
   <heading type="short">Francis Scott Key Bridge - Actions and Remedies</heading>
@@ -31,7 +31,7 @@
       <section>
         <prefix>§</prefix>
         <num>10-2</num>
-        <heading></heading>
+        <heading/>
         <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act - Regulations"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the City Solicitor may adopt such rules and regulations deemed necessary and proper to carry out the provisions of this <cite doc="City of Baltimore, Md., Code" path="10|10">Subtitle 10</cite>, as the same may be amended from time to time.</text>
       </section>
       <section>

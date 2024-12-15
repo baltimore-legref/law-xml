@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of Balt., Md., Ord. 24-341" codify:doc="City of Baltimore, Md., Code">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-341" codify:doc="City of Baltimore, Md., Code">
   <num type="law">24-341</num>
   <num type="bill">24-0502</num>
   <heading type="short">Building, Fire, and Related Codes - 2021 Edition</heading>
@@ -1297,7 +1297,7 @@
       <heading>General.</heading>
       <text>Except as provided in § 202.2 of this Code, terms that are used in this Code and defined in the <cite doc="City of Baltimore, Md., Code" path="|building-codes|II" proof="needed">International Building Code</cite> (2021 Edition) have the meanings given in the <cite doc="City of Baltimore, Md., Code" path="|building-codes|II" proof="needed">International Building Code</cite> (2021 Edition).</text>
     </para>
-  </codify:replace>  
+  </codify:replace>
   <codify:replace path="building-codes|II|2|202|202.2">
     <para>
       <num>202.2</num>
@@ -2110,46 +2110,46 @@
     </section>
   </codify:insert>
   <codify:replace path="building-codes|II|15|1504">
-      <section>
-        <prefix>Section</prefix>
-        <num>1504</num>
-        <heading>Performance Requirements</heading>
-        <para name="1504.1to1504.9">
-          <num>1504.1 to 1504.9</num>
-          <reason>As in IBC</reason>
+    <section>
+      <prefix>Section</prefix>
+      <num>1504</num>
+      <heading>Performance Requirements</heading>
+      <para name="1504.1to1504.9">
+        <num>1504.1 to 1504.9</num>
+        <reason>As in IBC</reason>
+      </para>
+      <para>
+        <num>1504.10</num>
+        <heading>Reflectance.</heading>
+        <text>Roof Coverings over conditioned spaces on low-slope roofs (roof slope &lt; 2:12) on newly constructed buildings and additions to existing buildings shall have a minimum 3-year-aged solar reflective index of 78, as determined by the Cool Roof Rating Council.</text>
+        <text>Exceptions:</text>
+        <para>
+          <num>1.</num>
+          <text>An addition to a roof that supports living vegetation and includes a synthetic, high quality waterproof membrane, drainage layer, soil layer, and lightweight medium plants.</text>
         </para>
         <para>
-          <num>1504.10</num>
-          <heading>Reflectance.</heading>
-          <text>Roof Coverings over conditioned spaces on low-slope roofs (roof slope &lt; 2:12) on newly constructed buildings and additions to existing buildings shall have a minimum 3-year-aged solar reflective index of 78, as determined by the Cool Roof Rating Council.</text>
-          <text>Exceptions:</text>
-          <para>
-            <num>1.</num>
-            <text>An addition to a roof that supports living vegetation and includes a synthetic, high quality waterproof membrane, drainage layer, soil layer, and lightweight medium plants.</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>Roof areas used as outdoor recreation space by the occupants of the building.</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>An area including and adjacent to rooftop photovoltaic and solar thermal equipment, totaling not more than 3 times the area that is covered with photovoltaic and solar thermal equipment.</text>
-          </para>
-          <para>
-            <num>4.</num>
-            <text>Limited roof areas as determined by regulations promulgated by the Department of Housing &amp; Community Development.</text>
-          </para>
-          <para>
-            <num>5.</num>
-            <text>A roof, the area of which is less than 3% of the gross floor area of the building.</text>
-          </para>
+          <num>2.</num>
+          <text>Roof areas used as outdoor recreation space by the occupants of the building.</text>
         </para>
         <para>
-          <num>1504.10.1</num>
-          <heading>Conflicts.</heading>
-          <text>In the event of a conflict between § 1504.10 of this Code and City Code <cite path="|6">Article 6 {"Historical and Architectural Preservation"}</cite>, City Code <cite path="|6">Article 6 {"Historical and Architectural Preservation"}</cite> prevails.</text>
+          <num>3.</num>
+          <text>An area including and adjacent to rooftop photovoltaic and solar thermal equipment, totaling not more than 3 times the area that is covered with photovoltaic and solar thermal equipment.</text>
         </para>
-      </section>
+        <para>
+          <num>4.</num>
+          <text>Limited roof areas as determined by regulations promulgated by the Department of Housing &amp; Community Development.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>A roof, the area of which is less than 3% of the gross floor area of the building.</text>
+        </para>
+      </para>
+      <para>
+        <num>1504.10.1</num>
+        <heading>Conflicts.</heading>
+        <text>In the event of a conflict between § 1504.10 of this Code and City Code <cite path="|6">Article 6 {"Historical and Architectural Preservation"}</cite>, City Code <cite path="|6">Article 6 {"Historical and Architectural Preservation"}</cite> prevails.</text>
+      </para>
+    </section>
   </codify:replace>
   <codify:replace path="building-codes|II|15|1505 to 1509" warning="false">
     <section name="1505to1510">
@@ -4377,53 +4377,53 @@
     </section>
   </codify:replace>
   <codify:replace path="building-codes|VII|1|109">
-      <section>
-        <prefix>Section</prefix>
-        <num>109</num>
-        <heading>Violations</heading>
+    <section>
+      <prefix>Section</prefix>
+      <num>109</num>
+      <heading>Violations</heading>
+      <para>
+        <num>109.1</num>
+        <heading>Unlawful acts.</heading>
+        <text>It is unlawful for any person to be in conflict with or in violation of any provision of this Code or of any {rule,} regulation, permit, notice, or order issued under this Code.</text>
+      </para>
+      <para>
+        <num>109.2</num>
+        <heading>Notice of violation.</heading>
+        <text>Except as otherwise specifically authorized by law, the Code Official must serve a notice of violation or an order before undertaking a prosecution or other enforcement action.</text>
+      </para>
+      <para>
+        <num>109.3</num>
+        <heading>Prosecution of violation.</heading>
+        <text>Any person who violates a provision of this Code or who fails to comply with a notice of violation or an order served in accordance with § 110 {"Notices and Orders”} of this Chapter is guilty of a misdemeanor.  If the violation is not abated or the notice or order not complied with, the Code Official may institute the appropriate proceeding at law or in equity to restrain, correct, or abate the violation or to require the removal or termination of the unlawful occupancy of the structure in violation of this Code or of the order or direction made under this Code.</text>
+      </para>
+      <para>
+        <num>109.4</num>
+        <heading>Violation penalties.</heading>
+        <text>The penalties for a violation of this Code are as provided in § 114 {"Violations”} of the Baltimore City Building Code for a violation of that Code.</text>
+      </para>
+      <para>
+        <num>109.5</num>
+        <heading>Remedies and enforcement.</heading>
+        <text>The imposition of penalties under this section does not preclude the institution of appropriate action:</text>
         <para>
-          <num>109.1</num>
-          <heading>Unlawful acts.</heading>
-          <text>It is unlawful for any person to be in conflict with or in violation of any provision of this Code or of any {rule,} regulation, permit, notice, or order issued under this Code.</text>
+          <num>1.</num>
+          <text>to restrain, correct, or abate a violation,</text>
         </para>
         <para>
-          <num>109.2</num>
-          <heading>Notice of violation.</heading>
-          <text>Except as otherwise specifically authorized by law, the Code Official must serve a notice of violation or an order before undertaking a prosecution or other enforcement action.</text>
+          <num>2.</num>
+          <text>to prevent illegal occupancy of a structure or premises, or</text>
         </para>
         <para>
-          <num>109.3</num>
-          <heading>Prosecution of violation.</heading>
-          <text>Any person who violates a provision of this Code or who fails to comply with a notice of violation or an order served in accordance with § 110 {"Notices and Orders”} of this Chapter is guilty of a misdemeanor.  If the violation is not abated or the notice or order not complied with, the Code Official may institute the appropriate proceeding at law or in equity to restrain, correct, or abate the violation or to require the removal or termination of the unlawful occupancy of the structure in violation of this Code or of the order or direction made under this Code.</text>
+          <num>3.</num>
+          <text>to stop an illegal act, conduct, business, or use of the structure or premises.</text>
         </para>
         <para>
-          <num>109.4</num>
-          <heading>Violation penalties.</heading>
-          <text>The penalties for a violation of this Code are as provided in § 114 {"Violations”} of the Baltimore City Building Code for a violation of that Code.</text>
+          <num>109.5.1</num>
+          <heading>Building Code provisions.</heading>
+          <text>Additional remedies, civil penalties, and enforcement proceedings are as provided in § 114.3 {"Enforcement generally"} and § 114.5 {"Civil penalties and costs"} of the Baltimore City <cite doc="City of Baltimore, Md., Code" path="|building-codes|II" proof="needed">Building Code</cite>.</text>
         </para>
-        <para>
-          <num>109.5</num>
-          <heading>Remedies and enforcement.</heading>
-          <text>The imposition of penalties under this section does not preclude the institution of appropriate action:</text>
-          <para>
-            <num>1.</num>
-            <text>to restrain, correct, or abate a violation,</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>to prevent illegal occupancy of a structure or premises, or</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>to stop an illegal act, conduct, business, or use of the structure or premises.</text>
-          </para>
-          <para>
-            <num>109.5.1</num>
-            <heading>Building Code provisions.</heading>
-            <text>Additional remedies, civil penalties, and enforcement proceedings are as provided in § 114.3 {"Enforcement generally"} and § 114.5 {"Civil penalties and costs"} of the Baltimore City <cite doc="City of Baltimore, Md., Code" path="|building-codes|II" proof="needed">Building Code</cite>.</text>
-          </para>
-        </para>
-      </section>
+      </para>
+    </section>
   </codify:replace>
   <codify:replace path="building-codes|VII|1|110">
     <section>
@@ -5465,7 +5465,9 @@
         <num>907.2</num>
         <heading>Where required – New buildings and structures.</heading>
         <reason>As in IFC</reason>
-        <text><strong>Exception 2: {Not Adopted}</strong></text>
+        <text>
+          <strong>Exception 2: {Not Adopted}</strong>
+        </text>
         <para name="907.2.1to907.2.7">
           <num>907.2.1 to 907.2.7</num>
           <reason>As in IFC</reason>
@@ -5479,7 +5481,9 @@
             <num>907.2.8.1</num>
             <heading>Manual fire alarm system</heading>
             <reason>As in IFC</reason>
-            <text><strong>Exceptions: {Not Adopted}</strong></text>
+            <text>
+              <strong>Exceptions: {Not Adopted}</strong>
+            </text>
           </para>
           <para>
             <num>907.2.8.2</num>
@@ -5495,7 +5499,9 @@
             <num>907.2.9.1</num>
             <heading>Manual fire alarm system</heading>
             <reason>As in IFC</reason>
-            <text><strong>Exceptions: {Not Adopted}</strong></text>
+            <text>
+              <strong>Exceptions: {Not Adopted}</strong>
+            </text>
           </para>
           <para name="907.2.9.2to907.2.9.3">
             <num>907.2.9.2 to 907.2.9.3</num>
@@ -5657,7 +5663,7 @@
       <num>106</num>
       <heading>Notice of Approval</heading>
       <reason>As in IECC-C</reason>
-    </section>  
+    </section>
   </codify:insert>
   <codify:replace path="building-codes|IX-A|2|202">
     <section>
@@ -5841,7 +5847,7 @@
       <num>106</num>
       <heading>Notice of Approval</heading>
       <reason>As in IECC-R</reason>
-    </section>  
+    </section>
   </codify:insert>
   <codify:replace path="building-codes|IX-B|2|202">
     <section>
@@ -5912,7 +5918,11 @@
       <para>
         <num>406.2</num>
         <heading>ERI Compliance</heading>
-        <text><strong><em>{As in IECC-R, subject to the following MBPS Modification}</em></strong></text>
+        <text>
+          <strong>
+            <em>{As in IECC-R, subject to the following MBPS Modification}</em>
+          </strong>
+        </text>
         <text>
           <strong>{Per MBPS Modification:}</strong>
         </text>
@@ -7765,8 +7775,8 @@
       <heading>Splash Pads</heading>
       <para>
         <num>612.1</num>
-      <heading>General.</heading>
-      <text>Construction and operation of any splash pad shall comply with this § 612.</text>
+        <heading>General.</heading>
+        <text>Construction and operation of any splash pad shall comply with this § 612.</text>
         <para>
           <num>612.1.1</num>
           <heading>Definitions.</heading>
@@ -8143,32 +8153,32 @@
     </para>
   </codify:replace>
   <codify:replace path="1|§41-14|(5a)">
-      <para>
-        <num>(5a)</num>
-        <text>
-          <strong>
-            <em><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></em>
-          </strong>
-        </text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>§ 305.9.  Snow and ice on sidewalks</td>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <td class="text-indent-1">Residential properties</td>
-                <td>$50</td>
-              </tr>
-              <tr>
-                <td class="text-indent-1">Commercial properties</td>
-                <td>$100</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-      </para>
+    <para>
+      <num>(5a)</num>
+      <text>
+        <strong>
+          <em><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></em>
+        </strong>
+      </text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td>§ 305.9.  Snow and ice on sidewalks</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td class="text-indent-1">Residential properties</td>
+              <td>$50</td>
+            </tr>
+            <tr>
+              <td class="text-indent-1">Commercial properties</td>
+              <td>$100</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
   </codify:replace>
   <codify:replace path="26|§6-7">
     <section>
