@@ -217,7 +217,7 @@
         <section>
           <prefix>§</prefix>
           <num>6-6</num>
-          <heading>{Reserved}</heading>
+          <reason>Reserved</reason>
         </section>
       </container>
       <container>
@@ -370,24 +370,8 @@
             <text>If 6 months elapses from the date the landlord has delivered the written offer of sale required by § 6-8  {"Offer of sale"} to a tenant and the landlord has not gone to settlement on the sale of the rental  dwelling unit, the landlord shall send a new written offer of sale to the relevant parties before selling the rental  dwelling unit.</text>
           </para>
         </section>
-        <section>
-          <prefix>§</prefix>
-          <num>6-10</num>
-          <reason>Reserved</reason>
-        </section>
-        <section>
-          <prefix>§</prefix>
-          <num>6-11</num>
-          <reason>Reserved</reason>
-        </section>
-        <section>
-          <prefix>§</prefix>
-          <num>6-12</num>
-          <reason>Reserved</reason>
-        </section>
-        <section>
-          <prefix>§</prefix>
-          <num>6-13</num>
+        <section name="6-10to6-13">
+          <num>6-10 to 6-13</num>
           <reason>Reserved</reason>
         </section>
       </container>
@@ -523,14 +507,8 @@
             </para>
           </para>
         </section>
-        <section>
-          <prefix>§</prefix>
-          <num>6-18</num>
-          <reason>Reserved</reason>
-        </section>
-        <section>
-          <prefix>§</prefix>
-          <num>6-19</num>
+        <section name="6-18to6-19">
+          <num>6-18 to 6-19</num>
           <reason>Reserved</reason>
         </section>
       </container>

@@ -21,7 +21,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-1</num>
-      <heading>Definitions – General</heading>
+      <heading>Definitions – General.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -151,7 +151,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-2</num>
-      <heading>Definitions – Affordability standards</heading>
+      <heading>Definitions – Affordability standards.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -257,7 +257,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-3</num>
-      <heading>Rules and regulations</heading>
+      <heading>Rules and regulations.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -310,7 +310,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-12</num>
-      <heading>Composition</heading>
+      <heading>Composition.</heading>
       <para>
         <num>(a)</num>
         <text><em>In general</em>.</text>
@@ -389,7 +389,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-16</num>
-      <heading>Annual Report</heading>
+      <heading>Annual Report.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -436,7 +436,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-17</num>
-      <heading>Duties</heading>
+      <heading>Duties.</heading>
       <text>In addition to the other duties specified elsewhere in this subtitle, the Board is responsible for:</text>
       <para>
         <num>(1)</num>
@@ -452,7 +452,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-21</num>
-      <heading>Inclusionary requirements</heading>
+      <heading>Inclusionary requirements.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -536,7 +536,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-22</num>
-      <heading>Inclusionary housing plan</heading>
+      <heading>Inclusionary housing plan.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -582,7 +582,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-23</num>
-      <heading>Fair housing laws and regulations</heading>
+      <heading>Fair housing laws and regulations.</heading>
       <text>All residential projects created under this subtitle are subject to applicable federal, state, and local housing laws and regulations.</text>
     </section>
   </codify:replace>
@@ -656,7 +656,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-31</num>
-      <heading>Comparable design</heading>
+      <heading>Comparable design.</heading>
       <text>The affordable units required by this subtitle:</text>
       <para>
         <num>(1)</num>
@@ -684,7 +684,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-32</num>
-      <heading>Placement</heading>
+      <heading>Placement.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -705,7 +705,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-33</num>
-      <heading>Affordable unit count</heading>
+      <heading>Affordable unit count.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -737,7 +737,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-36</num>
-      <heading>Management of rental units</heading>
+      <heading>Management of rental units.</heading>
       <text>An affordable rental unit provided under this subtitle must be managed under the same management standards as all market-rate rental units in the development.</text>
     </section>
   </codify:replace>
@@ -746,7 +746,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-37</num>
-      <heading>Master leasing affordable units</heading>
+      <heading>Master leasing affordable units.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -775,7 +775,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-41</num>
-      <heading>Rental units</heading>
+      <heading>Rental units.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -859,7 +859,7 @@
     <num>VI</num>
   </codify:replace>
   <codify:replace path="13|I|2B|VI|heading">
-    <heading>Administrative Review, Judicial Review, and Penalties</heading>
+    <heading>Administrative Review, Judicial Review, and Penalties.</heading>
   </codify:replace>
   <codify:recodify-section path="13|§2B-71" num-value="2B-51"/>
   <codify:recodify-section path="13|§2B-72" num-value="2B-52"/>
@@ -869,7 +869,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-51</num>
-      <heading>Administrative appeals</heading>
+      <heading>Administrative appeals.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -905,7 +905,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-52</num>
-      <heading>Judicial and appellate review</heading>
+      <heading>Judicial and appellate review.</heading>
       <para>
         <num>(a)</num>
         <text>
@@ -924,7 +924,7 @@
     <section>
       <prefix>§</prefix>
       <num>2B-53</num>
-      <heading>Penalties</heading>
+      <heading>Penalties.</heading>
       <para>
         <num>(a)</num>
         <text>

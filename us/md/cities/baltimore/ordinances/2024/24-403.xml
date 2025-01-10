@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-403" codify:doc="City of Baltimore, Md., Code">
   <num type="law">24-403</num>
-  <num type="bill">24-0357</num>
+  <num type="bill">23-0357</num>
   <heading type="short">Strengthening Renters' Safety Act</heading>
   <heading type="long">An Ordinance Concerning Strengthening Renters' Safety Act</heading>
   <meta>
@@ -513,6 +513,12 @@
     </section>
   </codify:replace>
   <codify:repeal doc="City of Baltimore, Md., Code" path="13|§5-8"/>
+  <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-8" warning="false">
+    <section>
+      <num>5-8</num>
+      <reason>Reserved</reason>
+    </section>
+  </codify:replace>
   <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-9">
     <section>
       <prefix>§</prefix>
@@ -756,7 +762,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <heading>Exceptions</heading>
+        <heading>Exceptions.</heading>
         <text>Notwithstanding anything contained in this section to the contrary, the record owner and managing operator, if any, of a newly constructed or renovated dwelling unit or rooming unit that does not yet have a rental dwelling license number shall include the following text in any lease agreement, advertising material, or other publicly facing document:</text>
         <text>"This is a newly constructed or renovated dwelling unit and does not currently have a rental license.  As soon as available, a rental license will be provided to all individuals as required by <cite doc="City of Baltimore, Md., Code" path="13|II|5">Article 13, Subtitle 5 {"Licensing of Rental Dwellings"}</cite> of the Baltimore City Code.".</text>
       </para>
@@ -1001,7 +1007,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <heading>Separate Offenses</heading>
+        <heading>Separate Offenses.</heading>
         <text>Each day that a violation continues is a separate offense.</text>
       </para>
     </section>
