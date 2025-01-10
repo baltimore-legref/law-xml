@@ -309,7 +309,7 @@
           <heading>Existing conditions.</heading>
           <text>The legal occupancy of any structure existing on the date of adoption of this Code is permitted to continue without change, except as otherwise specifically provided in this Code, the <cite path="|codes|VII" proof="needed">International Property Maintenance Code</cite>, or the <cite path="|codes|VIII" proof="needed">International Fire Code</cite>.</text>
           <para name="102.6.1to106.1.2">
-            <num from="102.6.1" to="106.1.2">102.6.1 to 106.1.2</num>
+            <num from="102.6.1" to="102.6.2">102.6.1 to 102.6.2</num>
             <reason>As in IBC</reason>
           </para>
         </para>
@@ -18296,7 +18296,7 @@
             <num>402.3.1</num>
             <heading>Aged roof solar reflectance.</heading>
             <text>Where an aged solar reflectance required by Section 402.3 is not available, it shall be determined in accordance with Equation 4-3.</text>
-            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial </em></sub>- 0.2)] 			<strong>	(Equation 4-3)</strong></text>
+            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial </em></sub>- 0.2)]             <strong>    (Equation 4-3)</strong></text>
             <text>where:</text>
             <text><em>R</em><sub><em>aged</em></sub> =  The aged solar reflectance.</text>
             <text><em>R</em><sub><em>initial</em></sub> =  The initial solar reflectance determined in accordance with CRRC-S100.</text>
@@ -22511,10 +22511,10 @@
                     </tr>
                     <tr>
                       <td proof="needed" colspan="3">
-                        <p>a	The IIC value listed addresses footfall noise but not exercise-related vibration-borne sound. Exercise-related vibration-borne sound must comply with the requirements of § 801.3.3.2.</p>
-                        <p>b	Minimum cSTC and IIC values are not required between adjacent rooms of the same room type.</p>
-                        <p>c	For operable partitions and walls containing doors, windows, or both, the minimum cSTC ratings must  be 5 less than the values listed in Table 801.3.3.3.</p>
-                        <p>d	The minimum cSTC values must  be 5 less than the cSTC values in Table 801.3.3.3 for walls between spaces and corridors and between spaces and open offices.  The minimum cSTC values must be 15 less than the cSTC values specified in Table 801.3.3.3 for walls having doors that open to corridors or open offices.</p>
+                        <p>a    The IIC value listed addresses footfall noise but not exercise-related vibration-borne sound. Exercise-related vibration-borne sound must comply with the requirements of § 801.3.3.2.</p>
+                        <p>b    Minimum cSTC and IIC values are not required between adjacent rooms of the same room type.</p>
+                        <p>c    For operable partitions and walls containing doors, windows, or both, the minimum cSTC ratings must  be 5 less than the values listed in Table 801.3.3.3.</p>
+                        <p>d    The minimum cSTC values must  be 5 less than the cSTC values in Table 801.3.3.3 for walls between spaces and corridors and between spaces and open offices.  The minimum cSTC values must be 15 less than the cSTC values specified in Table 801.3.3.3 for walls having doors that open to corridors or open offices.</p>
                       </td>
                     </tr>
                   </tbody>
@@ -23112,8 +23112,8 @@
                       </tr>
                       <tr>
                         <td proof="needed" colspan="2">
-                          <p>a.	This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</p>
-                          <p>b.	TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</p>
+                          <p>a. This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</p>
+                          <p>b. TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</p>
                         </td>
                       </tr>
                     </tbody>

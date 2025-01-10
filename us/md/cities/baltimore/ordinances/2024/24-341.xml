@@ -21,7 +21,7 @@
     <section>
       <prefix>§</prefix>
       <num>1-101</num>
-      <heading>State action.</heading>
+      <heading>State action</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -50,7 +50,7 @@
     <section>
       <prefix>§</prefix>
       <num>1-102</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <text>The Maryland Building Performance Standards are adopted as part of the Building, Fire, and Related Codes of Baltimore City, subject to the following modifications:</text>
       <para>
         <num>(1)</num>
@@ -94,7 +94,7 @@
     <section>
       <prefix>§</prefix>
       <num>2-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -739,7 +739,7 @@
     <section>
       <prefix>Section</prefix>
       <num>107</num>
-      <heading>Construction Documents.</heading>
+      <heading>Construction Documents</heading>
       <para>
         <num>107.1</num>
         <heading>General.</heading>
@@ -1362,7 +1362,7 @@
       </para>
       <para>
         <num>202.2.6</num>
-        <heading>Basement (for flood loads)</heading>
+        <heading>Basement (for flood loads).</heading>
         <reason>Not Adopted</reason>
       </para>
       <para>
@@ -1929,7 +1929,7 @@
     <section>
       <prefix>Section</prefix>
       <num>419</num>
-      <heading>Artificial decorative vegetation.</heading>
+      <heading>Artificial decorative vegetation</heading>
       <para>
         <num>419.1</num>
         <heading>Artificial decorative vegetation.</heading>
@@ -2723,7 +2723,7 @@
     <section>
       <prefix>§</prefix>
       <num>3-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -2740,7 +2740,7 @@
     <section>
       <prefix>Section</prefix>
       <num>100.1</num>
-      <heading>In general.</heading>
+      <heading>In general</heading>
       <text>Except as provided in § 100.2 of this Code, terms that are used in these regulations and defined in the National Electrical Code (2020 Edition) have the meanings given in that Code.</text>
     </section>
   </codify:replace>
@@ -2970,7 +2970,7 @@
     <section>
       <prefix>§</prefix>
       <num>4-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -3113,7 +3113,7 @@
     <section>
       <prefix>Section</prefix>
       <num>108</num>
-      <heading>Notice of Approval </heading>
+      <heading>Notice of Approval</heading>
       <reason>As in IFGC</reason>
     </section>
   </codify:replace>
@@ -3121,7 +3121,7 @@
     <section>
       <prefix>Section</prefix>
       <num>109</num>
-      <heading>Fees.</heading>
+      <heading>Fees</heading>
       <reason>As in IFGC</reason>
       <para>
         <num>109.1</num>
@@ -3135,22 +3135,22 @@
       </para>
       <para>
         <num>109.3</num>
-        <heading>Permit valuations</heading>
+        <heading>Permit valuations.</heading>
         <reason>As in IFGC</reason>
       </para>
       <para>
         <num>109.4</num>
-        <heading>Work commencing before permit issuance</heading>
+        <heading>Work commencing before permit issuance.</heading>
         <reason>Not Adopted</reason>
       </para>
       <para>
         <num>109.5</num>
-        <heading>Related fees</heading>
+        <heading>Related fees.</heading>
         <reason>As in IFGC</reason>
       </para>
       <para>
         <num>109.6</num>
-        <heading>Fee refunds</heading>
+        <heading>Fee refunds.</heading>
         <reason>Not Adopted</reason>
       </para>
     </section>
@@ -3311,7 +3311,7 @@
     <section>
       <prefix>§</prefix>
       <num>5-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -3449,7 +3449,7 @@
     <section>
       <prefix>Section</prefix>
       <num>108</num>
-      <heading>Notice of Approval </heading>
+      <heading>Notice of Approval</heading>
       <reason>As in IMC</reason>
     </section>
   </codify:replace>
@@ -3457,7 +3457,7 @@
     <section>
       <prefix>Section</prefix>
       <num>109</num>
-      <heading>Fees.</heading>
+      <heading>Fees</heading>
       <reason>As in IMC</reason>
       <para>
         <num>109.1</num>
@@ -3471,22 +3471,22 @@
       </para>
       <para>
         <num>109.3</num>
-        <heading>Permit valuations</heading>
+        <heading>Permit valuations.</heading>
         <reason>As in IMC</reason>
       </para>
       <para>
         <num>109.4</num>
-        <heading>Work commencing before permit issuance</heading>
+        <heading>Work commencing before permit issuance.</heading>
         <reason>Not Adopted</reason>
       </para>
       <para>
         <num>109.5</num>
-        <heading>Related fees</heading>
+        <heading>Related fees.</heading>
         <reason>As in IMC</reason>
       </para>
       <para>
         <num>109.6</num>
-        <heading>Fee refunds</heading>
+        <heading>Fee refunds.</heading>
         <reason>Not Adopted</reason>
       </para>
     </section>
@@ -3720,7 +3720,7 @@
     <section>
       <prefix>§</prefix>
       <num>6-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -3845,7 +3845,7 @@
       </para>
       <para>
         <num>106.4</num>
-        <heading>By Whom Application Made</heading>
+        <heading>By Whom Application Made.</heading>
         <reason>As in IPC</reason>
       </para>
       <para>
@@ -3898,7 +3898,7 @@
     <section>
       <prefix>Section</prefix>
       <num>109</num>
-      <heading>Fees.</heading>
+      <heading>Fees</heading>
       <reason>As in IPC</reason>
       <para>
         <num>109.1</num>
@@ -3912,17 +3912,17 @@
       </para>
       <para>
         <num>109.3</num>
-        <heading>Work commencing before permit issuance</heading>
+        <heading>Work commencing before permit issuance.</heading>
         <reason>Not Adopted</reason>
       </para>
       <para>
         <num>109.4</num>
-        <heading>Related fees</heading>
+        <heading>Related fees.</heading>
         <reason>As in IPC</reason>
       </para>
       <para>
         <num>109.6</num>
-        <heading>Refunds</heading>
+        <heading>Refunds.</heading>
         <reason>Not Adopted</reason>
       </para>
     </section>
@@ -4082,7 +4082,7 @@
     <section>
       <prefix>§</prefix>
       <num>7-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -4194,7 +4194,7 @@
       </para>
       <para>
         <num>102.6</num>
-        <heading>Structural Analysis</heading>
+        <heading>Structural Analysis.</heading>
         <reason>As in IPMC</reason>
       </para>
       <para>
@@ -4247,7 +4247,7 @@
     <section>
       <prefix>Section</prefix>
       <num>104</num>
-      <heading>Fees.</heading>
+      <heading>Fees</heading>
       <para>
         <num>104.1</num>
         <heading>Fees.</heading>
@@ -4749,7 +4749,7 @@
     <section>
       <prefix>§</prefix>
       <num>8-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -4910,7 +4910,7 @@
       </para>
       <para>
         <num>104.9</num>
-        <heading>Modifications</heading>
+        <heading>Modifications.</heading>
         <reason>As in IFC</reason>
       </para>
       <para>
@@ -5235,7 +5235,7 @@
       <heading>General</heading>
       <para>
         <num>901.1</num>
-        <heading>Scope</heading>
+        <heading>Scope.</heading>
         <reason>As in IFC</reason>
       </para>
       <para>
@@ -5400,7 +5400,7 @@
       </para>
       <para>
         <num>904.3</num>
-        <heading>Installation</heading>
+        <heading>Installation.</heading>
         <reason>As in IFC</reason>
         <para name="904.3.1 TO 904.3.3">
           <num>904.3.1 TO 904.3.3</num>
@@ -5408,7 +5408,7 @@
         </para>
         <para>
           <num>904.3.4</num>
-          <heading>Alarms and warning signs</heading>
+          <heading>Alarms and warning signs.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>904.3.4.1</num>
@@ -5418,7 +5418,7 @@
         </para>
         <para>
           <num>904.3.5</num>
-          <heading>Monitoring</heading>
+          <heading>Monitoring.</heading>
           <reason>As in IFC</reason>
         </para>
       </para>
@@ -5457,7 +5457,7 @@
         </para>
         <para>
           <num>907.1.3</num>
-          <heading>Equipment</heading>
+          <heading>Equipment.</heading>
           <reason>As in IFC</reason>
         </para>
       </para>
@@ -5475,11 +5475,11 @@
         </para>
         <para>
           <num>907.2.8</num>
-          <heading>Group R-1</heading>
+          <heading>Group R-1.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>907.2.8.1</num>
-            <heading>Manual fire alarm system</heading>
+            <heading>Manual fire alarm system.</heading>
             <reason>As in IFC</reason>
             <text>
               <strong>Exceptions: {Not Adopted}</strong>
@@ -5487,17 +5487,17 @@
           </para>
           <para>
             <num>907.2.8.2</num>
-            <heading>Automatic smoke detection system</heading>
+            <heading>Automatic smoke detection system.</heading>
             <reason>As in IFC</reason>
           </para>
         </para>
         <para>
           <num>907.2.9</num>
-          <heading>Group R-2</heading>
+          <heading>Group R-2.</heading>
           <reason>As in IFC</reason>
           <para>
             <num>907.2.9.1</num>
-            <heading>Manual fire alarm system</heading>
+            <heading>Manual fire alarm system.</heading>
             <reason>As in IFC</reason>
             <text>
               <strong>Exceptions: {Not Adopted}</strong>
@@ -5605,7 +5605,7 @@
     <section>
       <prefix>§</prefix>
       <num>9A-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -5745,7 +5745,7 @@
         </para>
         <para>
           <num>401.2.1</num>
-          <heading>International Energy Conservation Code</heading>
+          <heading>International Energy Conservation Code.</heading>
           <reason>As in IECC-C</reason>
         </para>
         <para>
@@ -5756,7 +5756,7 @@
       </para>
       <para>
         <num>401.3</num>
-        <heading>Thermal envelope certificate</heading>
+        <heading>Thermal envelope certificate.</heading>
         <reason>As in IECC-C</reason>
       </para>
     </section>
@@ -5789,7 +5789,7 @@
     <section>
       <prefix>§</prefix>
       <num>9B-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -5912,12 +5912,12 @@
       <heading>Energy Rating Index Compliance Alternative</heading>
       <para>
         <num>406.1</num>
-        <heading>Scope</heading>
+        <heading>Scope.</heading>
         <reason>As in IECC-R</reason>
       </para>
       <para>
         <num>406.2</num>
-        <heading>ERI Compliance</heading>
+        <heading>ERI Compliance.</heading>
         <text>
           <strong>
             <em>{As in IECC-R, subject to the following MBPS Modification}</em>
@@ -5966,7 +5966,7 @@
     <section>
       <prefix>§</prefix>
       <num>10-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -6200,7 +6200,7 @@
     <section>
       <prefix>§</prefix>
       <num>11-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -6297,7 +6297,7 @@
       </para>
       <para>
         <num>101.5</num>
-        <heading>Compliance</heading>
+        <heading>Compliance.</heading>
         <reason>As in IgCC</reason>
       </para>
       <para>
@@ -6766,7 +6766,7 @@
       </para>
       <para>
         <num>601.3.3</num>
-        <heading>Hot Water Distribution </heading>
+        <heading>Hot Water Distribution.</heading>
         <reason>As in IgCC</reason>
       </para>
       <para>
@@ -6926,7 +6926,7 @@
     <section>
       <prefix>Section</prefix>
       <num>701.5</num>
-      <heading>Performance option  As in Baltimore City IECC § 401.2.1 (Options 1 or 2).</heading>
+      <heading>Performance option  As in Baltimore City IECC § 401.2.1 (Options 1 or 2)</heading>
       <para>
         <num>701.5.1</num>
         <heading>Annual Energy Cost.</heading>
@@ -7149,7 +7149,7 @@
     <section>
       <prefix>Section</prefix>
       <num>1001.4</num>
-      <heading>Construction Operations and Start-Up Requirements.</heading>
+      <heading>Construction Operations and Start-Up Requirements</heading>
       <para>
         <num>1001.4.1</num>
         <heading>Erosion and Sedimation Control (ESC).</heading>
@@ -7179,7 +7179,7 @@
     <section>
       <prefix>Section</prefix>
       <num>1001.5</num>
-      <heading>Acoustical field measurement.</heading>
+      <heading>Acoustical field measurement</heading>
       <reason>Not Adopted</reason>
     </section>
   </codify:insert>
@@ -7374,7 +7374,7 @@
     <section>
       <prefix>Section</prefix>
       <num>1001.9</num>
-      <heading>Plans for high-performance building operation.</heading>
+      <heading>Plans for high-performance building operation</heading>
       <reason>Not Adopted</reason>
     </section>
   </codify:insert>
@@ -7382,7 +7382,7 @@
     <section>
       <prefix>Section</prefix>
       <num>1001.10</num>
-      <heading>Service life plan.</heading>
+      <heading>Service life plan</heading>
       <reason>Not Adopted</reason>
     </section>
   </codify:insert>
@@ -7390,7 +7390,7 @@
     <section>
       <prefix>Section</prefix>
       <num>1001.11</num>
-      <heading>Transportation management plan.</heading>
+      <heading>Transportation management plan</heading>
       <reason>Not Adopted</reason>
     </section>
   </codify:insert>
@@ -7398,7 +7398,7 @@
     <section>
       <prefix>§</prefix>
       <num>12-101</num>
-      <heading>City adoption.</heading>
+      <heading>City adoption</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -7655,17 +7655,17 @@
       <reason>As in ISPSC</reason>
       <para>
         <num>109.1</num>
-        <heading>Connection of service utilities</heading>
+        <heading>Connection of service utilities.</heading>
         <reason>As in ISPSC</reason>
       </para>
       <para>
         <num>109.2</num>
-        <heading>Temporary connection</heading>
+        <heading>Temporary connection.</heading>
         <reason>Not Adopted</reason>
       </para>
       <para>
         <num>109.3</num>
-        <heading>Authority to disconnect service utilities</heading>
+        <heading>Authority to disconnect service utilities.</heading>
         <reason>Not Adopted</reason>
       </para>
     </section>
