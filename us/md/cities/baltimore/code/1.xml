@@ -38,7 +38,7 @@
         <para>
           <num>(1)</num>
           <heading>General.</heading>
-          <text>Every ordinance and resolution of the Mayor and City Council of Baltimore, when delivered to the Mayor for approval, duly authenticated as required by Article IV, § 5 of the City Charter, shall have indicated on it the date of each reading.</text>
+          <text>Every ordinance and resolution of the Mayor and City Council of Baltimore, when delivered to the Mayor for approval, duly authenticated as required by <cite doc="City of Baltimore, Md., Charter" path="IV|§5">Article IV, § 5 of the City Charter</cite>, shall have indicated on it the date of each reading.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -300,7 +300,7 @@
       <prefix>§</prefix>
       <num>1-6</num>
       <heading>Agencies to provide legislative information.</heading>
-      <text>It shall be the duty of the head of every City department or bureau established by the Baltimore City Charter or by ordinance to provide all technical materials, plats, drawings, and information that are requested by any member or the President of the City Council for the purpose of introducing legislation into the Council.</text>
+      <text>It shall be the duty of the head of every City department or bureau established by <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite> or by ordinance to provide all technical materials, plats, drawings, and information that are requested by any member or the President of the City Council for the purpose of introducing legislation into the Council.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §6</annotation>
         <annotation doc="City of Balt., Md., Ord. 76-080" type="History">Ord. 76-080</annotation>
@@ -464,7 +464,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>shall have such qualifications, duties, and responsibilities as may be prescribed from time to time by the Oversight Committee as provided in § 2-2 of this subtitle.</text>
+            <text>shall have such qualifications, duties, and responsibilities as may be prescribed from time to time by the Oversight Committee as provided in <cite path="|1|§2-2">§ 2-2 of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -475,7 +475,7 @@
       <para>
         <num>(b)</num>
         <heading>Reports.</heading>
-        <text>The Director shall report to the Oversight Committee concerning the operations of the Office of Council Services in a manner specified in the policies and procedures adopted by the Council pursuant to § 2-2 of this subtitle.</text>
+        <text>The Director shall report to the Oversight Committee concerning the operations of the Office of Council Services in a manner specified in the policies and procedures adopted by the Council pursuant to <cite path="|1|§2-2">§ 2-2 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -544,7 +544,7 @@
       <prefix>§</prefix>
       <num>3-2</num>
       <heading>Diary fund.</heading>
-      <text>With the exception of the matter of the compensation to the members of the City Council for their services as now provided by Article III, § 1 of the City Charter, the City Council shall have the control of all matters of expenditure which relate to the business operations or diary of the City Council, embracing:</text>
+      <text>With the exception of the matter of the compensation to the members of the City Council for their services as now provided by <cite doc="City of Baltimore, Md., Charter" path="III|§1">Article III, § 1 of the City Charter</cite>, the City Council shall have the control of all matters of expenditure which relate to the business operations or diary of the City Council, embracing:</text>
       <para>
         <num>(1)</num>
         <text>the salaries of its officers;</text>
@@ -586,7 +586,7 @@
       <prefix>§</prefix>
       <num>3-3</num>
       <heading>Resolution required.</heading>
-      <text>None of the items of expense embraced in § 3-2 of this subtitle shall be paid unless authorized by resolution or resolutions of the City Council.</text>
+      <text>None of the items of expense embraced in <cite path="|1|§3-2">§ 3-2 of this subtitle</cite> shall be paid unless authorized by resolution or resolutions of the City Council.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1893, art. 1, §34</annotation>
         <annotation type="Prior Codifications">1927, art. 1, §46</annotation>
@@ -1029,7 +1029,7 @@
     <num>6</num>
     <heading>Meetings of Boards And Commissions</heading>
     <annotations>
-      <annotation type="Editor's Notes">State law imposes greater restraints than does the ensuing § 6-1 on the authority of public bodies to meet in “executive session”. The State law also contains provisions governing notices, minutes, and the like.  See generally State General Provisions Article, Title 3 {“State Open Meetings Act”}.</annotation>
+      <annotation type="Editor's Notes">State law imposes greater restraints than does the ensuing <cite path="|general|6|1|6-1" proof="needed">§ 6-1 </cite>on the authority of public bodies to meet in “executive session”. The State law also contains provisions governing notices, minutes, and the like.  See generally State <cite path="|general">General Provisions Article</cite>, Title 3 {“State Open Meetings Act”}.</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -1090,7 +1090,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Each board or commission established by the Baltimore City Charter or the Baltimore City Code whose membership is appointed shall hold a minimum of 1 regular meeting each year.</text>
+        <text>Each board or commission established by <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite> or the Baltimore City Code whose membership is appointed shall hold a minimum of 1 regular meeting each year.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1125,7 +1125,7 @@
         <heading>7-day notice to be provided.</heading>
         <para>
           <num>(1)</num>
-          <text>It shall be the duty of each board or commission established by the Baltimore City Charter or the Baltimore City Code to furnish written notice to the Department of Legislative Reference, for posting on a space designated by the Department of Legislative Reference, no less than 7 days before any meeting held by that board or commission.</text>
+          <text>It shall be the duty of each board or commission established by <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite> or the Baltimore City Code to furnish written notice to the Department of Legislative Reference, for posting on a space designated by the Department of Legislative Reference, no less than 7 days before any meeting held by that board or commission.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1174,7 +1174,7 @@
       <para>
         <num>(a)</num>
         <heading>Required.</heading>
-        <text>Minutes shall be taken at all meetings, including regular, special, and emergency meetings, of all appointed boards and commissions established by the Baltimore City Charter and the Baltimore City Code.</text>
+        <text>Minutes shall be taken at all meetings, including regular, special, and emergency meetings, of all appointed boards and commissions established by <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite> and the Baltimore City Code.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1327,7 +1327,7 @@
       <para>
         <num>(c)</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance must adopt rules and regulations to carry out this section.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance must adopt rules and regulations to carry out this section.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 01-244" type="History">Ord. 01-244</annotation>
@@ -1767,11 +1767,11 @@
         <heading>Jurisdiction of Civil Service Commission.</heading>
         <para>
           <num>(1)</num>
-          <text>The Civil Service Commission has jurisdiction over personnel actions described in subsection (a) of this section, as provided in City Charter Article VII §§ 94 through 104.</text>
+          <text>The Civil Service Commission has jurisdiction over personnel actions described in subsection (a) of this section, as provided in <cite doc="City of Baltimore, Md., Charter" path="VII">City Charter Article VII</cite> §§ 94 through 104.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>On the Civil Service Commission's request, the Office of the Inspector General may investigate allegations made to the Civil Service Commission regarding retaliatory personnel actions and provide the Office's findings to the Commission at or before a Commission hearing to the extent permitted by Article X of the Charter of Baltimore City.  The Inspector General's findings shall state whether the Inspector General believes the personnel actions were in violation of § 8-3 of this subtitle.</text>
+          <text>On the Civil Service Commission's request, the Office of the Inspector General may investigate allegations made to the Civil Service Commission regarding retaliatory personnel actions and provide the Office's findings to the Commission at or before a Commission hearing to the extent permitted by <cite doc="City of Baltimore, Md., Charter" path="X">Article X of the Charter of Baltimore City</cite>.  The Inspector General's findings shall state whether the Inspector General believes the personnel actions were in violation of <cite path="|1|§8-3">§ 8-3 of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -1779,11 +1779,11 @@
         <heading>Civil Service Commission findings.</heading>
         <para>
           <num>(1)</num>
-          <text>During a Civil Service Commission hearing, the Commission may find that the personnel action described in subsection (a) of this section violates § 8-3 of this subtitle.</text>
+          <text>During a Civil Service Commission hearing, the Commission may find that the personnel action described in subsection (a) of this section violates <cite path="|1|§8-3">§ 8-3 of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If the Commission finds that the personnel action described in subsection (a) of this section violates § 8-3 of this subtitle, this finding may be considered by the Commission in disposing of the matter before it.</text>
+          <text>If the Commission finds that the personnel action described in subsection (a) of this section violates <cite path="|1|§8-3">§ 8-3 of this subtitle</cite>, this finding may be considered by the Commission in disposing of the matter before it.</text>
         </para>
       </para>
       <annotations>
@@ -1975,7 +1975,7 @@
       <prefix>§</prefix>
       <num>8-10</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Inspector General must adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Inspector General must adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 19-308" type="History">Ord. 19-308</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
@@ -2118,7 +2118,7 @@
       <para>
         <num>(h)</num>
         <heading>Protected information.</heading>
-        <text>"Protected information" means any dataset or part of a dataset to which an agency is required or authorized to deny access pursuant to the Maryland Public Information Act (Title 4 of the State Code General Provisions Article) or any other applicable law.</text>
+        <text>"Protected information" means any dataset or part of a dataset to which an agency is required or authorized to deny access pursuant to the Maryland Public Information Act (Title 4 of the State Code <cite path="|general">General Provisions Article</cite>) or any other applicable law.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -2138,7 +2138,7 @@
       <prefix>§</prefix>
       <num>9-2</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City's Chief Data Officer may adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the City's Chief Data Officer may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 16-463" type="History">Ord. 16-463</annotation>
         <annotation type="History">Text Conformed 05/5/21</annotation>
@@ -2540,7 +2540,7 @@
       <para>
         <num>(c)</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City Records Management Officer must adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the City Records Management Officer must adopt rules and regulations to carry out this subtitle.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-407" type="History">Ord. 20-407</annotation>
@@ -2602,7 +2602,7 @@
       <para>
         <num>(c)</num>
         <heading>Agency compliance.</heading>
-        <text>Each agency must comply with its Record Retention and Disposition Schedule and the disposal process set forth in Title 10, Subtitle 6 of the State Government Article of the Maryland Code to ensure:</text>
+        <text>Each agency must comply with its Record Retention and Disposition Schedule and the disposal process set forth in <cite doc="Md. Code" path="gsg">Title 10, Subtitle 6 of the State Government Article of the Maryland Code</cite> to ensure:</text>
         <para>
           <num>(1)</num>
           <text>the orderly retention of records required for the operation of the agency; and</text>
@@ -2652,7 +2652,7 @@
       <prefix>§</prefix>
       <num>10-11</num>
       <heading>Digitization.</heading>
-      <text>As provided in City Charter Article I, § 7(b), any agency may substitute a digital image or file for any of its records, provided that:</text>
+      <text>As provided in <cite doc="City of Baltimore, Md., Charter" path="I|§7|(b)">City Charter Article I, § 7(b)</cite>, any agency may substitute a digital image or file for any of its records, provided that:</text>
       <para>
         <num>(1)</num>
         <text>the required Record Retention and Disposition Schedule has been approved; and</text>
@@ -2671,7 +2671,7 @@
     <num>11</num>
     <heading>Police Accountability Board</heading>
     <annotations>
-      <annotation type="Editor's Notes">Ordinance 22-146 (effective June 30, 2022) establishes that the Baltimore City Office of Equity and Civil Rights shall temporarily serve as the Police Accountability Board’s designee, as provided for in § 11-9(a) {“Complaints of police misconduct . . . In general.”} of this subtitle, and accept complaints of police misconduct beginning July 1, 2022, and continuing until the Board establishes a uniform procedure for filing complaints as required by § 11-9(c) {“Complaints of police misconduct . . . Procedure for filing complaints.”} of this subtitle.</annotation>
+      <annotation type="Editor's Notes">Ordinance 22-146 (effective June 30, 2022) establishes that the Baltimore City Office of Equity and Civil Rights shall temporarily serve as the Police Accountability Board’s designee, as provided for in <cite path="|1|§11-9|(a)">§ 11-9(a) {“Complaints of police misconduct . . . In general.”} of this subtitle</cite>, and accept complaints of police misconduct beginning July 1, 2022, and continuing until the Board establishes a uniform procedure for filing complaints as required by § 11-9(c) {“Complaints of police misconduct . . . Procedure for filing complaints.”} of this subtitle.</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -2804,7 +2804,7 @@
             <heading>Mayoral appointment.</heading>
             <para>
               <num>(A)</num>
-              <text>2 members shall be appointed to the Board by the Mayor in accordance with City Charter Article IV, § 6.</text>
+              <text>2 members shall be appointed to the Board by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>.</text>
             </para>
             <para>
               <num>(B)</num>
@@ -2820,7 +2820,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>The Mayor shall consider the candidates proposed by the City Council for appointment to the Board and may nominate the candidates at his or her discretion in accordance with City Charter Article IV, § 6.</text>
+              <text>The Mayor shall consider the candidates proposed by the City Council for appointment to the Board and may nominate the candidates at his or her discretion in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>.</text>
             </para>
             <para>
               <num>(C)</num>
@@ -2856,7 +2856,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>is or becomes a person required to file a financial disclosure statement as required under Article 8, §§ 7-7 {"Elected officials and staff"}, 7-8 {"Agency officials and staff"}, or 7-9 {"Procurement, legislative liaison, and enforcement personnel"} of the City Code; and</text>
+            <text>is or becomes a person required to file a financial disclosure statement as required under <cite path="|8">Article 8</cite>, §§ <cite path="|8|§7-7">7-7 {"Elected officials and staff"}</cite>, <cite path="|8|§7-8">7-8 {"Agency officials and staff"}</cite>, or <cite path="|8|§7-9">7-9 {"Procurement, legislative liaison, and enforcement personnel"}</cite> of the City Code; and</text>
           </para>
           <para>
             <num>(iv)</num>
@@ -3084,7 +3084,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>forwarded to the Board by the Board's designee, as authorized under § 11-9(a)(1)(i) of this subtitle.</text>
+          <text>forwarded to the Board by the Board's designee, as authorized under <cite path="|1|§11-9|(a)|(1)|(i)">§ 11-9(a)(1)(i) of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -3344,7 +3344,7 @@
       <prefix>§</prefix>
       <num>11-11</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director must adopt rules and regulations to carry out this subtitle.</text>
     </section>
     <section>
       <prefix>§</prefix>
@@ -3373,7 +3373,7 @@
           <heading>In general.</heading>
           <para>
             <num>(i)</num>
-            <text>At the time a former police officer is nominated to the Board under § 11-3(a)(2) {"Nomination and appointment"} of this subtitle the Director shall submit written public records requests for the former police officer's personnel records.</text>
+            <text>At the time a former police officer is nominated to the Board under <cite path="|1|§11-3|(a)|(2)">§ 11-3(a)(2) {"Nomination and appointment"} of this subtitle</cite> the Director shall submit written public records requests for the former police officer's personnel records.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -3507,7 +3507,7 @@
         <heading>In general.</heading>
         <para>
           <num>(1)</num>
-          <text>The City Solicitor shall appoint the employees of the Central Bureau of Investigation in accordance with  the City Charter.</text>
+          <text>The City Solicitor shall appoint the employees of the Central Bureau of Investigation in accordance with  <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3576,7 +3576,7 @@
       <para>
         <num>(a)</num>
         <heading>Convention Complex created; Director.</heading>
-        <text>There shall be a Convention Complex, consisting of the Baltimore Arena and the Convention Center, the head of which shall be a Convention Complex Director, who shall be appointed by the Mayor in accordance with Article IV, § 6 of the Baltimore City Charter.</text>
+        <text>There shall be a Convention Complex, consisting of the Baltimore Arena and the Convention Center, the head of which shall be a Convention Complex Director, who shall be appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3637,7 +3637,7 @@
       <para>
         <num>(a)</num>
         <heading>Contracts subject to Charter.</heading>
-        <text>All contracts or agreements entered into for or in connection with the maintenance or repair of the Convention Center and Baltimore Arena and their facilities shall be subject to the terms and provisions of Article VI, § 11 of the City Charter, as they now exist or as they may hereafter be amended.</text>
+        <text>All contracts or agreements entered into for or in connection with the maintenance or repair of the Convention Center and Baltimore Arena and their facilities shall be subject to the terms and provisions of <cite doc="City of Baltimore, Md., Charter" path="VI|§11">Article VI, § 11 of the City Charter</cite>, as they now exist or as they may hereafter be amended.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3713,7 +3713,7 @@
         <para>
           <num>(b)</num>
           <text>Appointment.</text>
-          <text>The Director is appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+          <text>The Director is appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3838,7 +3838,7 @@
         <prefix>§</prefix>
         <num>14-6</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director must adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director must adopt rules and regulations to carry out this subtitle.</text>
       </section>
       <section>
         <prefix>§</prefix>
@@ -3876,7 +3876,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The Commission shall consist of 29 members, 18 of whom are appointed by the Mayor in accordance with Article IV, § 6 {"Administrative Procedure Act – Regulations"} of the Baltimore City Charter, and 11 of whom are ex-officio members.</text>
+          <text>The Commission shall consist of 29 members, 18 of whom are appointed by the Mayor in accordance with Article IV, § 6 {"Administrative Procedure Act – Regulations"} of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>, and 11 of whom are ex-officio members.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4119,7 +4119,7 @@
       <para>
         <num>(a)</num>
         <heading>Authorized.</heading>
-        <text>Upon the payment and full satisfaction of any loan heretofore or hereafter made by the Mayor and City Council of Baltimore for Off-Street Parking Projects, as authorized under Article II, § (20) of the City Charter and property is conveyed to the Mayor and City Council of Baltimore to secure the repayment of the same, the Mayor and City Council of Baltimore with the approval of the Board of Estimates of Baltimore City is hereby authorized and empowered to execute and deliver to the owner or owners a release, a conveyance, or reconveyance of the land with the improvements thereon so conveyed to the City of Baltimore to secure said loan.</text>
+        <text>Upon the payment and full satisfaction of any loan heretofore or hereafter made by the Mayor and City Council of Baltimore for Off-Street Parking Projects, as authorized under <cite doc="City of Baltimore, Md., Charter" path="II|§(20)">Article II, § (20) of the City Charter</cite> and property is conveyed to the Mayor and City Council of Baltimore to secure the repayment of the same, the Mayor and City Council of Baltimore with the approval of the Board of Estimates of Baltimore City is hereby authorized and empowered to execute and deliver to the owner or owners a release, a conveyance, or reconveyance of the land with the improvements thereon so conveyed to the City of Baltimore to secure said loan.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4155,7 +4155,7 @@
       <para>
         <num>(a)</num>
         <heading>Fee authorized.</heading>
-        <text>The Department of Planning, with the approval of the City Council of Baltimore, may establish and impose charges for subdivision plans, as defined in Article VII, § 76 of the City Charter, submitted to the Planning Commission for examination and action by it, to defray the cost and expenses incident to said examination and action.</text>
+        <text>The Department of Planning, with the approval of the City Council of Baltimore, may establish and impose charges for subdivision plans, as defined in <cite doc="City of Baltimore, Md., Charter" path="VII|§76">Article VII, § 76 of the City Charter</cite>, submitted to the Planning Commission for examination and action by it, to defray the cost and expenses incident to said examination and action.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4307,7 +4307,7 @@
       <para>
         <num>(a)</num>
         <heading>Designation of initial Director.</heading>
-        <text>The Director of said Office initially shall be the same person who is, at the time of the passage of this ordinance, Director of the Civil Defense Division of the Fire Department; and also the same person appointed as Civil Defense Director of Baltimore City by the Governor, upon recommendation of the Mayor of said City, as provided by Article 16A, § 7 of the Maryland Code.</text>
+        <text>The Director of said Office initially shall be the same person who is, at the time of the passage of this ordinance, Director of the Civil Defense Division of the Fire Department; and also the same person appointed as Civil Defense Director of Baltimore City by the Governor, upon recommendation of the Mayor of said City, as provided by <cite doc="Md. Code" path="16A|7">Article 16A, § 7 of the Maryland Code</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4333,7 +4333,7 @@
       <para>
         <num>(a)</num>
         <heading>Director to appoint.</heading>
-        <text>The Director shall appoint such assistants, aides, and employees as may be necessary to carry out a disaster control and civil defense program and also the State Civil Defense Plans and Programs, such employees to be subject to the provisions of City classified service, as provided by Article VII, §§ 94 through 104 of the City Charter<em>.</em></text>
+        <text>The Director shall appoint such assistants, aides, and employees as may be necessary to carry out a disaster control and civil defense program and also the State Civil Defense Plans and Programs, such employees to be subject to the provisions of City classified service, as provided by Article VII, §§ <cite doc="City of Baltimore, Md., Charter" path="VII|§94">94</cite> through <cite doc="City of Baltimore, Md., Charter" path="VII|§104">104</cite> of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite><em>.</em></text>
       </para>
       <para>
         <num>(b)</num>
@@ -4529,7 +4529,7 @@
         <para>
           <num>(1)</num>
           <heading>Voting members.</heading>
-          <text>The Commission comprises 19 voting members, to be appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+          <text>The Commission comprises 19 voting members, to be appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -5062,7 +5062,7 @@
           <heading>Voting members.</heading>
           <para>
             <num>(1)</num>
-            <text>The  voting members shall be appointed by the Mayor, in accordance with City Charter Article IV, § 6, as follows:</text>
+            <text>The  voting members shall be appointed by the Mayor, in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>, as follows:</text>
             <para>
               <num>(i)</num>
               <text>1 youth from each of the 14 Council Districts, at least 1 of whom is not a graduate of or then enrolled in a traditional educational program; and</text>
@@ -5225,7 +5225,7 @@
         <para>
           <num>(e)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission may adopt rules and regulations to govern its meetings and operations.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to govern its meetings and operations.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §211(a)(4) - (9)</annotation>
@@ -5321,7 +5321,7 @@
         <prefix>§</prefix>
         <num>22-10</num>
         <heading>Director – appointment.</heading>
-        <text>The Director of the Office is appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+        <text>The Director of the Office is appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §214</annotation>
           <annotation doc="City of Balt., Md., Ord. 86-781" type="History">Ord. 86-781</annotation>
@@ -5439,7 +5439,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The Task Force comprises 37 members, 30 of whom are appointed by the Mayor under Article IV, § 6 of the City Charter and 7 of whom are ex-officio members.</text>
+          <text>The Task Force comprises 37 members, 30 of whom are appointed by the Mayor under <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite> and 7 of whom are ex-officio members.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5792,7 +5792,7 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>collaborate with the agency's equity coordinator, as designated under § 39-8 {"Agency implementation – Equity Coordinator"} of this article, to ensure that the agency's equity assessment program is trauma-informed and trauma-responsive;</text>
+              <text>collaborate with the agency's equity coordinator, as designated under <cite path="|1|§39-8">§ 39-8 {"Agency implementation – Equity Coordinator"} of this article</cite>, to ensure that the agency's equity assessment program is trauma-informed and trauma-responsive;</text>
             </para>
             <para>
               <num>(v)</num>
@@ -5856,11 +5856,11 @@
         <text>On or before June 30 of each year, utilizing its established evaluation and assessment metrics and its expertise, the Task Force shall submit a report to the Mayor and City Council containing:</text>
         <para>
           <num>(1)</num>
-          <text>an assessment of the implementation of trauma-informed care within each agency as defined in § 22-21(a)(2) of this subtitle;</text>
+          <text>an assessment of the implementation of trauma-informed care within each agency as defined in <cite path="|1|§22-21|(a)|(2)">§ 22-21(a)(2) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>an assessment of the trauma-responsiveness of each agency as defined in § 22-21(a)(2) of this subtitle; and</text>
+          <text>an assessment of the trauma-responsiveness of each agency as defined in <cite path="|1|§22-21|(a)|(2)">§ 22-21(a)(2) of this subtitle</cite>; and</text>
         </para>
         <para>
           <num>(3)</num>
@@ -5892,7 +5892,7 @@
       <para>
         <num>(c)</num>
         <heading>City.</heading>
-        <text>"City" means the Mayor and City Council of Baltimore, the body corporate as established by the Charter of Baltimore City.</text>
+        <text>"City" means the Mayor and City Council of Baltimore, the body corporate as established by <cite doc="City of Baltimore, Md., Charter">the Charter of Baltimore City</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -5962,7 +5962,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>21 members appointed by the Mayor under Article IV, § 6 of the City Charter as follows:</text>
+            <text>21 members appointed by the Mayor under <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite> as follows:</text>
             <para>
               <num>A.</num>
               <text>9 persons with disabilities, not employed in the field of disabilities;</text>
@@ -6234,7 +6234,7 @@
       <para>
         <num>(a)</num>
         <heading>Appointment of Director.</heading>
-        <text>In consultation with the Commission, the Mayor shall appoint a Director of the Commission in accordance with Article IV, § 6 of the City Charter.</text>
+        <text>In consultation with the Commission, the Mayor shall appoint a Director of the Commission in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -6450,7 +6450,7 @@
       <para>
         <num>(a)</num>
         <heading>Office to adopt.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Mayor's Office of Criminal Justice shall adopt rules and regulations to carry out this subtitle and the grant program established under it.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Mayor's Office of Criminal Justice shall adopt rules and regulations to carry out this subtitle and the grant program established under it.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -6500,7 +6500,7 @@
       <para>
         <num>(c)</num>
         <heading>City.</heading>
-        <text>"City" means the Mayor and City Council of Baltimore, the body corporate as established by the Charter of Baltimore City.</text>
+        <text>"City" means the Mayor and City Council of Baltimore, the body corporate as established by <cite doc="City of Baltimore, Md., Charter">the Charter of Baltimore City</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -6582,7 +6582,7 @@
       <para>
         <num>(b)</num>
         <heading>Public members.</heading>
-        <text>16 members shall be appointed by the Mayor pursuant to Article IV, § 6 of the City Charter:</text>
+        <text>16 members shall be appointed by the Mayor pursuant to <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>:</text>
         <para>
           <num>(1)</num>
           <text>3 members shall be non-profit or public community social workers;</text>
@@ -7064,7 +7064,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Such award may be a lump sum payment in the discretion of the Board or in its discretion may be made in periodic payments not exceeding the amount of such person's net or take-home wages, salary, or other earned income at the time of such occurrence, or the amount of the special death benefits payable upon the death of a beginning or 1<sup>st</sup> -year patrolman of the Baltimore City Police Department, as provided, and in the manner provided in Article 22, § 34(i) of the City Code, whichever is less.</text>
+          <text>Such award may be a lump sum payment in the discretion of the Board or in its discretion may be made in periodic payments not exceeding the amount of such person's net or take-home wages, salary, or other earned income at the time of such occurrence, or the amount of the special death benefits payable upon the death of a beginning or 1<sup>st</sup> -year patrolman of the Baltimore City Police Department, as provided, and in the manner provided in <cite path="|22|§34|(i)">Article 22, § 34(i)</cite> of the City Code, whichever is less.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -7116,7 +7116,7 @@
       <prefix>§</prefix>
       <num>27-5</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Estimates may adopt and from time to time change reasonable rules and regulations for the administration of this section which are not in conflict with the intent and specific wording hereof.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Estimates may adopt and from time to time change reasonable rules and regulations for the administration of this section which are not in conflict with the intent and specific wording hereof.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §140(e)</annotation>
         <annotation doc="City of Balt., Md., Ord. 67-1126" type="History">Ord. 67-1126</annotation>
@@ -7212,7 +7212,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>The powers of the Authority shall be broadly interpreted to allow the Authority to achieve the purposes of Article II, § (64) of the City Charter and this subtitle.</text>
+        <text>The powers of the Authority shall be broadly interpreted to allow the Authority to achieve the purposes of <cite doc="City of Baltimore, Md., Charter" path="II|§(64)">Article II, § (64) of the City Charter</cite> and this subtitle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -7248,7 +7248,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>contract for and purchase goods and services without being subject to approval by the Board of Estimates, but subject to the provisions of Article 5 of the City Code governing the prevailing wage and governing City policy on encouraging and achieving goals for Minority and Women's Business Enterprises' participation in the contracting activities of the Authority;</text>
+          <text>contract for and purchase goods and services without being subject to approval by the Board of Estimates, but subject to the provisions of <cite path="|5">Article 5</cite> of the City Code governing the prevailing wage and governing City policy on encouraging and achieving goals for Minority and Women's Business Enterprises' participation in the contracting activities of the Authority;</text>
         </para>
         <para>
           <num>(9)</num>
@@ -7421,7 +7421,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>hire and retain the employees, agents, and contractors needed to perform the functions of the Executive Director, subject to the requirements of § 28-3(b)(8) of this subtitle;</text>
+          <text>hire and retain the employees, agents, and contractors needed to perform the functions of the Executive Director, subject to the requirements of <cite path="|1|§28-3|(b)|(8)">§ 28-3(b)(8) of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(6)</num>
@@ -7532,7 +7532,7 @@
         <para>
           <num>(2)</num>
           <heading>Qualification.</heading>
-          <text>Only the entities listed in paragraph (1) of this subsection that are municipal agencies as defined in City Charter Article I, § 2(j) {"Definitions: Municipal agency"} are required to assist and participate with the Baltimore City Department of Health in this endeavor.</text>
+          <text>Only the entities listed in paragraph (1) of this subsection that are municipal agencies as defined in <cite doc="City of Baltimore, Md., Charter" path="I|§2|(j)">City Charter Article I, § 2(j)</cite> {"Definitions: Municipal agency"} are required to assist and participate with the Baltimore City Department of Health in this endeavor.</text>
         </para>
       </para>
       <para>
@@ -7977,7 +7977,7 @@
       <para>
         <num>(a)</num>
         <heading>Public Safety Apprenticeship Program.</heading>
-        <text>Program funding shall be subject to an appropriation of funds in accordance with the City Charter.</text>
+        <text>Program funding shall be subject to an appropriation of funds in accordance with <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -8388,7 +8388,7 @@
       <prefix>§</prefix>
       <num>32-1</num>
       <heading>Commission established.</heading>
-      <text>There is a Social Services Commission, as established in Article VII, § 58 of the City Charter.</text>
+      <text>There is a Social Services Commission, as established in <cite doc="City of Baltimore, Md., Charter" path="VII|§58">Article VII, § 58 of the City Charter</cite>.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 02-402" type="History">Ord. 02-402</annotation>
       </annotations>
@@ -8412,7 +8412,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>10 members appointed by the Mayor and confirmed by the City Council in accordance with Article IV, § 6 of the City Charter.</text>
+        <text>10 members appointed by the Mayor and confirmed by the City Council in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 02-402" type="History">Ord. 02-402</annotation>
@@ -8484,7 +8484,7 @@
         <para>
           <num>(b)</num>
           <heading>Development Commission.</heading>
-          <text>"The Development Commission" is that which is set forth in Article VII, §§111 through 113 of the City Charter.</text>
+          <text>"The Development Commission" is that which is set forth in Article VII, §§111 through 113 of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -8524,7 +8524,7 @@
           <annotation doc="City of Balt., Md., Ord. 92-014" type="History">Ord. 92-014</annotation>
           <annotation doc="City of Balt., Md., Ord. 92-015" type="History">Ord. 92-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
-          <annotation type="Editor's Notes">Article VII, §§ 111 through 113 of the City Charter were repealed and the Development Commission abolished by Res. 00-010, ratified November 2000.</annotation>
+          <annotation type="Editor's Notes">Article VII, §§ <cite doc="City of Baltimore, Md., Charter" path="VII|§111">111</cite> through <cite doc="City of Baltimore, Md., Charter" path="VII|§113" proof="needed">113</cite> of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> were repealed and the Development Commission abolished by Res. 00-010, ratified November 2000.</annotation>
         </annotations>
       </section>
     </container>
@@ -9017,7 +9017,7 @@
             </para>
             <para>
               <num>(C)</num>
-              <text>by January 1, 2045, net-zero emissions, as defined in § 34-1(f) of this subtitle;</text>
+              <text>by January 1, 2045, net-zero emissions, as defined in <cite path="|1|§34-1|(f)">§ 34-1(f) of this subtitle</cite>;</text>
             </para>
           </para>
           <para>
@@ -9117,7 +9117,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>manage the activities, as described in City Code Article 5, Subtitle 34, of the Commission on Sustainability;</text>
+        <text>manage the activities, as described in City Code <cite path="|5">Article 5</cite>, Subtitle 34, of the Commission on Sustainability;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -9138,7 +9138,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules and regulations to carry out this subtitle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -9154,7 +9154,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>by January 1, 2045, net-zero emissions, as defined in § 34-1(f) of this subtitle.</text>
+          <text>by January 1, 2045, net-zero emissions, as defined in <cite path="|1|§34-1|(f)">§ 34-1(f) of this subtitle</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -9367,7 +9367,7 @@
       <prefix>§</prefix>
       <num>36A-2</num>
       <heading>Observance.</heading>
-      <text>The City shall observe the legal holidays specified in § 36A-1 of this subtitle annually, in the same manner as it observes other legal holidays established from time to time by union contract,  by agency regulation, or by action of the Board of Estimates.</text>
+      <text>The City shall observe the legal holidays specified in <cite path="|1|§36A-1">§ 36A-1 of this subtitle</cite> annually, in the same manner as it observes other legal holidays established from time to time by union contract,  by agency regulation, or by action of the Board of Estimates.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-432" type="History">Ord. 20-432</annotation>
       </annotations>
@@ -9413,7 +9413,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>Retail Business District Business Associations established under City Code Article 14, § 11-9 {"Business Associations"};</text>
+              <text>Retail Business District Business Associations established under City Code <cite path="|14|§11-9">Article 14, § 11-9 {"Business Associations"}</cite>;</text>
             </para>
             <para>
               <num>(C)</num>
@@ -9467,7 +9467,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>fees charged by the Department of Housing and Community Development for temporary structures pursuant to Building Code § 109.6.1m {"Temporary structures"}; or</text>
+        <text>fees charged by the Department of Housing and Community Development for temporary structures pursuant to <cite path="|building-codes|II">Building Code</cite> <cite path="|building-codes|II|109.6.1" proof="needed">§ 109.6.1</cite>m {"Temporary structures"}; or</text>
       </para>
       <para>
         <num>(4)</num>
@@ -9481,7 +9481,7 @@
       <prefix>§</prefix>
       <num>37-3</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 17-102" type="History">Ord. 17-102</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
@@ -9584,7 +9584,7 @@
       <para>
         <num>(b)</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, MOIT may adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, MOIT may adopt rules and regulations to carry out this subtitle.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 16-586" type="History">Ord. 16-586</annotation>
@@ -9599,7 +9599,7 @@
       <para>
         <num>(a)</num>
         <heading>Available to all City residents.</heading>
-        <text>MOIT must make a Baltimore City ID Card available to any resident of Baltimore City who can meet the requirements of § 38-8 {"Eligibility for identity card"} of this subtitle for establishing his or her identity and residency, regardless of his or her race, color, creed, age, national origin, alienage or citizenship status, gender, sexual orientation, disability, marital status, partnership status, source of lawful income, housing status, status as a victim of domestic violence, status as a victim of sex offenses or stalking, or conviction or arrest record.</text>
+        <text>MOIT must make a Baltimore City ID Card available to any resident of Baltimore City who can meet the requirements of <cite path="|1|§38-8">§ 38-8 {"Eligibility for identity card"} of this subtitle</cite> for establishing his or her identity and residency, regardless of his or her race, color, creed, age, national origin, alienage or citizenship status, gender, sexual orientation, disability, marital status, partnership status, source of lawful income, housing status, status as a victim of domestic violence, status as a victim of sex offenses or stalking, or conviction or arrest record.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -9823,7 +9823,7 @@
       <para>
         <num>(a)</num>
         <heading>Documents not to be retained.</heading>
-        <text>Baltimore City may not retain originals or copies of documents provided by an applicant to prove his or her identity or residency under § 38-8 {"Eligibility for identity card"} of this subtitle.</text>
+        <text>Baltimore City may not retain originals or copies of documents provided by an applicant to prove his or her identity or residency under <cite path="|1|§38-8">§ 38-8 {"Eligibility for identity card"} of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -9911,7 +9911,7 @@
       <para>
         <num>(b)</num>
         <heading>Civil penalty.</heading>
-        <text>Any person who violates any provision of this section is subject to a civil penalty of $100 that may be enforced by issuance of a civil citation under Subtitle 41 {"Civil Citations"} of this article.</text>
+        <text>Any person who violates any provision of this section is subject to a civil penalty of $100 that may be enforced by issuance of a civil citation under Subtitle 41 {"Civil Citations"} of <cite path="|1">this article</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 16-586" type="History">Ord. 16-586</annotation>
@@ -10116,7 +10116,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>a Special Enforcement Officer appointed under City Code Article 19, § 71-1 {"Special Enforcement Officers: Appointment; duties"}; or</text>
+          <text>a Special Enforcement Officer appointed under City Code <cite path="|19|§71-1">Article 19, § 71-1 {"Special Enforcement Officers: Appointment; duties"}</cite>; or</text>
         </para>
         <para>
           <num>(3)</num>
@@ -10203,7 +10203,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>8 members are appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+          <text>8 members are appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         </para>
       </para>
       <para>
@@ -10309,7 +10309,7 @@
         <heading>Director.</heading>
         <para>
           <num>(1)</num>
-          <text>The Executive Director of the Board is appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+          <text>The Executive Director of the Board is appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -10330,7 +10330,7 @@
       <prefix>§</prefix>
       <num>40-5</num>
       <heading>General jurisdiction of Board.</heading>
-      <text>The Board has full authority to enforce, in accordance with the provisions of this subtitle, the sanitation, environmental, health, safety, and other quality-of-life provisions of law listed in § 40-14 of this subtitle, including any rules and regulations adopted under them.</text>
+      <text>The Board has full authority to enforce, in accordance with the provisions of this subtitle, the sanitation, environmental, health, safety, and other quality-of-life provisions of law listed in <cite path="|1|§40-14">§ 40-14 of this subtitle</cite>, including any rules and regulations adopted under them.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §299</annotation>
         <annotation doc="City of Balt., Md., Ord. 98-326" type="History">Ord. 98-326</annotation>
@@ -10343,7 +10343,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board must adopt and, from time to time, may amend rules and regulations necessary or appropriate to carry out its powers and duties under this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board must adopt and, from time to time, may amend rules and regulations necessary or appropriate to carry out its powers and duties under this subtitle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -10723,7 +10723,7 @@
           <num>(.5)</num>
           <text>
             <strong>
-              <em>Article 2.  Consumer Protections</em>
+              <em><cite path="|2">Article 2</cite>.  Consumer Protections</em>
             </strong>
           </text>
           <text>
@@ -10745,7 +10745,7 @@
           <num>(.5a)</num>
           <text>
             <strong>
-              <em>Article 5.  Finance, Property, and Procurement</em>
+              <em><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</em>
             </strong>
           </text>
           <text>
@@ -10767,7 +10767,7 @@
           <num>(.5b)</num>
           <text>
             <strong>
-              <em>Article 7.  Natural Resources</em>
+              <em><cite path="|7">Article 7</cite>.  Natural Resources</em>
             </strong>
           </text>
           <text>
@@ -10805,7 +10805,7 @@
           <num>(1)</num>
           <text>
             <strong>
-              <em>Article 13.  Housing and Urban Renewal</em>
+              <em><cite path="|13">Article 13</cite>.  Housing and Urban Renewal</em>
             </strong>
           </text>
           <text>
@@ -10854,7 +10854,7 @@
           <num>(2)</num>
           <text>
             <strong>
-              <em>Article 15.  Licensing and Regulation</em>
+              <em><cite path="|15">Article 15</cite>.  Licensing and Regulation</em>
             </strong>
           </text>
           <text>
@@ -10924,7 +10924,7 @@
           <num>(3)</num>
           <text>
             <strong>
-              <em>Article 19.  Police Ordinances</em>
+              <em><cite path="|19">Article 19</cite>.  Police Ordinances</em>
             </strong>
           </text>
           <text>
@@ -11054,7 +11054,7 @@
           <num>(4)</num>
           <text>
             <strong>
-              <em>Article 23.  Sanitation</em>
+              <em><cite path="|23">Article 23</cite>.  Sanitation</em>
             </strong>
           </text>
           <text>
@@ -11104,7 +11104,7 @@
           <num>(4a)</num>
           <text>
             <strong>
-              <em>Article 24.  Water</em>
+              <em><cite path="|24">Article 24</cite>.  Water</em>
             </strong>
           </text>
           <text>
@@ -11182,7 +11182,7 @@
           <num>(4b)</num>
           <text>
             <strong>
-              <em>Article 26.  Surveys, Streets, and Highways</em>
+              <em><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</em>
             </strong>
           </text>
           <text>
@@ -11204,7 +11204,7 @@
           <num>(5a)</num>
           <text>
             <strong>
-              <em>Article 31.  Transit and Traffic</em>
+              <em><cite path="|31">Article 31</cite>.  Transit and Traffic</em>
             </strong>
           </text>
           <text>
@@ -11481,7 +11481,7 @@
           <num>(5b)</num>
           <text>
             <strong>
-              <em>Article 32.  Zoning</em>
+              <em><cite path="|32">Article 32</cite>.  Zoning</em>
             </strong>
           </text>
           <text>
@@ -11499,7 +11499,7 @@
           <num>(5c)</num>
           <text>
             <strong>
-              <em>Building, Fire, and Related Codes Article – Building Code</em>
+              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|II">Building Code</cite></em>
             </strong>
           </text>
           <text>
@@ -11573,7 +11573,7 @@
           <num>(6)</num>
           <text>
             <strong>
-              <em>Building, Fire, and Related Codes Article – Fire Code</em>
+              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII">Fire Code</cite></em>
             </strong>
           </text>
           <text>
@@ -11623,12 +11623,12 @@
           <num>(6a)</num>
           <text>
             <strong>
-              <em>Building, Fire, and Related Codes Article –</em>
+              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
             </strong>
           </text>
           <text>
             <strong>
-              <em>Property Maintenance Code</em>
+              <em><cite path="|building-codes|VII">Property Maintenance Code</cite></em>
             </strong>
           </text>
           <text>
@@ -11662,12 +11662,12 @@
           <num>(6b)</num>
           <text>
             <strong>
-              <em>Building, Fire, and Related Codes Article –</em>
+              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
             </strong>
           </text>
           <text>
             <strong>
-              <em>International Residential Code</em>
+              <em><cite path="|building-codes|X">International Residential Code</cite></em>
             </strong>
           </text>
           <text>
@@ -11685,7 +11685,7 @@
           <num>(7)</num>
           <text>
             <strong>
-              <em>Health Code</em>
+              <em><cite path="|health">Health Code</cite></em>
             </strong>
           </text>
           <text>
@@ -12126,7 +12126,7 @@
       <para>
         <num>(b)</num>
         <heading>Civil citation.</heading>
-        <text>"Civil citation" means a prepayable civil citation issued under this subtitle for violation of any offense listed in § 41-14 of this subtitle.</text>
+        <text>"Civil citation" means a prepayable civil citation issued under this subtitle for violation of any offense listed in <cite path="|1|§41-14">§ 41-14 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -12138,7 +12138,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>a Special Enforcement Officer appointed under City Code Article 19, § 71-1 and authorized by the Police Commissioner to issue citations under this subtitle.</text>
+          <text>a Special Enforcement Officer appointed under City Code <cite path="|19|§71-1">Article 19, § 71-1</cite> and authorized by the Police Commissioner to issue citations under this subtitle.</text>
         </para>
       </para>
       <para name="(d)">
@@ -12163,11 +12163,11 @@
       <prefix>§</prefix>
       <num>41-3</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner, in consultation with the Director of Finance, may adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Police Commissioner, in consultation with the Director of Finance, may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
         <annotation type="History">Text Conformed 02/09/21</annotation>
-        <annotation type="Editor's Notes">Cf. Editor’s Note to § 40-6 of this article.</annotation>
+        <annotation type="Editor's Notes">Cf. Editor’s Note to <cite path="|1|§40-6">§ 40-6 of this article</cite>.</annotation>
       </annotations>
     </section>
     <section>
@@ -12177,7 +12177,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>An enforcement officer may issue a civil citation to any adult who the officer, on observation, report, or investigation, believes is committing or has committed an offense listed in § 41-14 of this subtitle.</text>
+        <text>An enforcement officer may issue a civil citation to any adult who the officer, on observation, report, or investigation, believes is committing or has committed an offense listed in <cite path="|1|§41-14">§ 41-14 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -12449,7 +12449,7 @@
       <para>
         <num>(b)</num>
         <heading>Burden of proof.</heading>
-        <text>Except in the case of a default under § 41-10 of this subtitle, the City has the burden to prove, by a preponderance of the evidence, that the defendant has committed the offense charged.</text>
+        <text>Except in the case of a default under <cite path="|1|§41-10">§ 41-10 of this subtitle</cite>, the City has the burden to prove, by a preponderance of the evidence, that the defendant has committed the offense charged.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -12531,12 +12531,12 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>A civil citation may be issued under this subtitle only for violation of a provision of the Baltimore City Code listed in § 41-14 of this subtitle.</text>
+        <text>A civil citation may be issued under this subtitle only for violation of a provision of the Baltimore City Code listed in <cite path="|1|§41-14">§ 41-14 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Prepayable-fine amounts.</heading>
-        <text>The prepayable civil fine for the violation of a provision is as specified next to the listing of that provision in § 41-14 of this subtitle.</text>
+        <text>The prepayable civil fine for the violation of a provision is as specified next to the listing of that provision in <cite path="|1|§41-14">§ 41-14 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -12562,7 +12562,7 @@
         <num>(.25)</num>
         <text>
           <strong>
-            <em>Article 1.  Mayor, City Council, and Municipal Agencies</em>
+            <em><cite path="|1">Article 1</cite>.  Mayor, City Council, and Municipal Agencies</em>
           </strong>
         </text>
         <text>
@@ -12580,7 +12580,7 @@
         <num>(.5)</num>
         <text>
           <strong>
-            <em>Article 2.  Consumer Protections</em>
+            <em><cite path="|2">Article 2</cite>.  Consumer Protections</em>
           </strong>
         </text>
         <text>
@@ -12602,7 +12602,7 @@
         <num>(.5a)</num>
         <text>
           <strong>
-            <em>Article 5.  Finance, Property, and Procurement</em>
+            <em><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</em>
           </strong>
         </text>
         <text>
@@ -12620,7 +12620,7 @@
         <num>(.5b)</num>
         <text>
           <strong>
-            <em>Article 7.  Natural Resources</em>
+            <em><cite path="|7">Article 7</cite>.  Natural Resources</em>
           </strong>
         </text>
         <text>
@@ -12638,7 +12638,7 @@
         <num>(1)</num>
         <text>
           <strong>
-            <em>Article 15.  Licensing and Regulation</em>
+            <em><cite path="|15">Article 15</cite>.  Licensing and Regulation</em>
           </strong>
         </text>
         <text>
@@ -12676,7 +12676,7 @@
         <num>(2)</num>
         <text>
           <strong>
-            <em>Article 19.  Police Ordinances</em>
+            <em><cite path="|19">Article 19</cite>.  Police Ordinances</em>
           </strong>
         </text>
         <text>
@@ -12884,7 +12884,7 @@
         <num>(3)</num>
         <text>
           <strong>
-            <em>Article 24.  Water</em>
+            <em><cite path="|24">Article 24</cite>.  Water</em>
           </strong>
         </text>
         <text>
@@ -12961,7 +12961,7 @@
         <num>(3a)</num>
         <text>
           <strong>
-            <em>Article 26.  Surveys, Streets, and Highways</em>
+            <em><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</em>
           </strong>
         </text>
         <text>
@@ -12979,7 +12979,7 @@
         <num>(4)</num>
         <text>
           <strong>
-            <em>Article 31.  Transit and Traffic</em>
+            <em><cite path="|31">Article 31</cite>.  Transit and Traffic</em>
           </strong>
         </text>
         <text>
@@ -13109,7 +13109,7 @@
         <num>(4a)</num>
         <text>
           <strong>
-            <em>Article 32.  Zoning</em>
+            <em><cite path="|32">Article 32</cite>.  Zoning</em>
           </strong>
         </text>
         <text>
@@ -13127,12 +13127,12 @@
         <num>(5)</num>
         <text>
           <strong>
-            <em>Building, Fire, and Related Codes Article –</em>
+            <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
           </strong>
         </text>
         <text>
           <strong>
-            <em>Fire Code</em>
+            <em><cite path="|building-codes|VIII">Fire Code</cite></em>
           </strong>
         </text>
         <text>
@@ -13166,12 +13166,12 @@
         <num>(5a)</num>
         <text>
           <strong>
-            <em>Building, Fire, and Related Codes Article –</em>
+            <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
           </strong>
         </text>
         <text>
           <strong>
-            <em>Property Maintenance Code</em>
+            <em><cite path="|building-codes|VII">Property Maintenance Code</cite></em>
           </strong>
         </text>
         <text>
@@ -13197,7 +13197,7 @@
         <num>(6)</num>
         <text>
           <strong>
-            <em>Health Code</em>
+            <em><cite path="|health">Health Code</cite></em>
           </strong>
         </text>
         <text>
@@ -13535,7 +13535,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>The Commission consists of 34 members.  Of these, 22 members are appointed by the Mayor in accordance with Article IV, § 6 of the Baltimore City Charter, 4 members are appointed by the President of the City Council, and 8 members serve ex officio.</text>
+        <text>The Commission consists of 34 members.  Of these, 22 members are appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite>, 4 members are appointed by the President of the City Council, and 8 members serve ex officio.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -13761,7 +13761,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>2 members are appointed by the Mayor in accordance with Article IV, § 6 of the Baltimore City Charter.</text>
+            <text>2 members are appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite>.</text>
           </para>
         </para>
       </para>
@@ -14008,7 +14008,7 @@
         <heading>Composition.</heading>
         <para>
           <num>(1)</num>
-          <text>The Commission comprises 11 members, who shall be appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+          <text>The Commission comprises 11 members, who shall be appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -14300,7 +14300,7 @@
         <heading>Composition – Voting members.</heading>
         <para>
           <num>(1)</num>
-          <text>The Commission comprises 13 voting members, appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+          <text>The Commission comprises 13 voting members, appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -14691,7 +14691,7 @@
           <text>Of these:</text>
           <para>
             <num>(i)</num>
-            <text>15 members are appointed by the Mayor in accordance with Article IV, § 6 of the Baltimore City Charter; and</text>
+            <text>15 members are appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -15057,7 +15057,7 @@
           <text>Of these:</text>
           <para>
             <num>(i)</num>
-            <text>20 members are appointed by the Mayor in accordance with City Charter Article IV, § 6; and</text>
+            <text>20 members are appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -15217,7 +15217,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>All meetings of the Commission must be conducted in accordance with the State Open Meetings Act (Title 3 of the General Provisions Article of the Maryland Code).</text>
+          <text>All meetings of the Commission must be conducted in accordance with the State Open Meetings Act (Title 3 of the <cite path="|general">General Provisions Article</cite> of the Maryland Code).</text>
         </para>
       </para>
       <para>
@@ -15370,7 +15370,7 @@
       <para>
         <num>(b)</num>
         <heading>Appointment.</heading>
-        <text>The Director is appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
+        <text>The Director is appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 21-028" type="History">Ord. 21-028</annotation>
@@ -15408,7 +15408,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>The Commission comprises at least 14 members, but no more than 25 members, appointed by the Mayor in accordance with Article IV, § 6 of the City Charter with:</text>
+          <text>The Commission comprises at least 14 members, but no more than 25 members, appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite> with:</text>
           <para>
             <num>(i)</num>
             <text>2 members nominated by the City Council President; and</text>
@@ -15583,27 +15583,27 @@
       <text>This subtitle only applies to environmental citations issued to commercial properties for violations of:</text>
       <para>
         <num>(1)</num>
-        <text>Article 19, Subtitle 32 {"Minors – Sales in Proximity to Liquor Store"};</text>
+        <text><cite path="|19">Article 19</cite>, Subtitle 32 {"Minors – Sales in Proximity to Liquor Store"};</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Article 23 {"Sanitation"};</text>
+        <text><cite path="|23">Article 23 {"Sanitation"}</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Title 5, Subtitle 2 {"Nuisance Abatement"} of the Health Code;</text>
+        <text><cite path="|health|5">Title 5</cite>, <cite path="|health|5|2">Subtitle 2 {"Nuisance Abatement"}</cite> of the <cite path="|health">Health Code;</cite></text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Title 7 {"Waste Control"} of the Health Code;</text>
+        <text><cite path="|health|7">Title 7 {"Waste Control"}</cite> of the <cite path="|health">Health Code;</cite></text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Title 12 {"Tobacco Products and Smoking Devices"} of the Health Code; or</text>
+        <text><cite path="|health|12">Title 12 {"Tobacco Products and Smoking Devices"}</cite> of the <cite path="|health">Health Code; or</cite></text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Title 15 {"Ephedrine Products"} of the Health Code.</text>
+        <text><cite path="|health|15">Title 15 {"Ephedrine Products"}</cite> of the <cite path="|health">Health Code.</cite></text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 21-059" type="History">Ord. 21-059</annotation>
@@ -15875,7 +15875,7 @@
           <text>Of these:</text>
           <para>
             <num>(i)</num>
-            <text>16 members are appointed by the Mayor in accordance with Article IV, § 6 of the Baltimore City Charter; and</text>
+            <text>16 members are appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the Baltimore City Charter</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -15909,7 +15909,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Mayor shall consider the candidates proposed by the City Council for appointment to the Board and may nominate the candidates at the Mayor's discretion in accordance with City Charter Article IV, § 6.</text>
+          <text>The Mayor shall consider the candidates proposed by the City Council for appointment to the Board and may nominate the candidates at the Mayor's discretion in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -16010,7 +16010,7 @@
       <para>
         <num>(c)</num>
         <heading>Staff.</heading>
-        <text>The Commission shall have such staff as provided for in the Ordinance of Estimates to assist the Commission in fulfilling its duties as provided for under § 59-2 {"Commission created; purpose; duties"} of this subtitle.</text>
+        <text>The Commission shall have such staff as provided for in the Ordinance of Estimates to assist the Commission in fulfilling its duties as provided for under <cite path="|1|§59-2">§ 59-2 {"Commission created; purpose; duties"} of this subtitle</cite>.</text>
       </para>
     </section>
     <section>
@@ -16097,7 +16097,7 @@
       <prefix>§</prefix>
       <num>59-8</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission may adopt rules and regulations to carry out the provisions of this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission may adopt rules and regulations to carry out the provisions of this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 23-249" type="History">Ord. 23-249</annotation>
       </annotations>

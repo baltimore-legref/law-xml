@@ -5,7 +5,7 @@
   <heading>Ethics</heading>
   <annotations>
     <annotation type="Editor's Notes">
-      <text>Ordinance 04-795, which enacted this article, contained these uncodified provisions:</text>
+      <text>Ordinance 04-795, which enacted <cite path="|8">this article</cite>, contained these uncodified provisions:</text>
       <text>Section 3 {Catchlines and Comments} –</text>
       <text>	[T]he catchlines preceding and the comments following the various sections and subsections in this Ordinance are for guidance only.  They are not law and may not be considered to have been enacted as a part of this Ordinance.</text>
       <text>Section 5 {Initial Training} –</text>
@@ -13,11 +13,11 @@
       <text>Section 6 {Codes of Conduct} –</text>
       <para>
         <num>(a)</num>
-        <text>The Codes of Conduct adopted by the Mayor (Executive Order dated June 13,1995), the City Council (Resolution 95-1279), and the Comptroller (July 14, 1995), having been specifically drafted to supplement the now-repealed provisions of former City Code Article 8, are repealed.</text>
+        <text>The Codes of Conduct adopted by the Mayor (Executive Order dated June 13,1995), the City Council (Resolution 95-1279), and the Comptroller (July 14, 1995), having been specifically drafted to supplement the now-repealed provisions of former City Code <cite path="|8">Article 8</cite>, are repealed.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Mayor, the City Council, the Comptroller, and all other agencies are encouraged to consult with the Ethics Board and develop, in accord with City Code Article 8, § 2-33(c), as enacted by this Ordinance, rules or regulations to supplement the statutory provisions governing conflicts of interest.</text>
+        <text>The Mayor, the City Council, the Comptroller, and all other agencies are encouraged to consult with the Ethics Board and develop, in accord with City Code <cite path="|8|§2-33|(c)" proof="needed">Article 8, § 2-33(c)</cite>, as enacted by this Ordinance, rules or regulations to supplement the statutory provisions governing conflicts of interest.</text>
       </para>
       <text>Section 7 {Initial Deadlines} –</text>
       <text>	[T]o avoid any undue burden that might result from the changes made by this Ordinance in reporting periods and filing deadlines for financial disclosure statements and lobbyist activity reports, the Board of Ethics may advance or delay, as appropriate, the filing deadline for the first statement or report to be filed after the effective date of this Ordinance and may shorten or lengthen, as appropriate, the reporting period for that first statement or report.</text>
@@ -58,7 +58,7 @@
       <prefix>§</prefix>
       <num>1-2</num>
       <heading>Goals; purpose.</heading>
-      <text>To guard against improper influence or even the appearance of improper influence, and to ensure public trust in the government, the Mayor and City Council of Baltimore enacts this article to:</text>
+      <text>To guard against improper influence or even the appearance of improper influence, and to ensure public trust in the government, the Mayor and City Council of Baltimore enacts <cite path="|8">this article</cite> to:</text>
       <para>
         <num>(1)</num>
         <text>set minimum ethical standards of conduct for City officials and employees;</text>
@@ -88,7 +88,7 @@
       <prefix>§</prefix>
       <num>1-3</num>
       <heading>Short title.</heading>
-      <text>This article may be cited as the "Baltimore City Public Ethics Law".</text>
+      <text><cite path="|8">This article</cite> may be cited as the "Baltimore City Public Ethics Law".</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
       </annotations>
@@ -106,7 +106,7 @@
         <prefix>§</prefix>
         <num>2-1</num>
         <heading>In general.</heading>
-        <text>In this article, the following terms have the meanings indicated unless the context clearly requires a different meaning or a different definition is adopted for a particular statutory unit.</text>
+        <text>In <cite path="|8">this article</cite>, the following terms have the meanings indicated unless the context clearly requires a different meaning or a different definition is adopted for a particular statutory unit.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
         </annotations>
@@ -300,7 +300,7 @@
         <para>
           <num>(b)</num>
           <heading>Inclusions.</heading>
-          <text>"Employee" also includes an employee of any agency or board included within the scope of § 2-2 {"Agency"} or § 2-3 {"Board"} of this subtitle.</text>
+          <text>"Employee" also includes an employee of any agency or board included within the scope of § 2-2 {"Agency"} or <cite path="|8|§2-3">§ 2-3 {"Board"} of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -313,7 +313,7 @@
         <prefix>§</prefix>
         <num>2-10</num>
         <heading>"Ethics Board".</heading>
-        <text>"Ethics Board" means the Baltimore City Board of Ethics, established under Article VII, § 106 of the City Charter and Subtitle 3 {"Administration") of this article.</text>
+        <text>"Ethics Board" means the Baltimore City Board of Ethics, established under <cite doc="City of Baltimore, Md., Charter" path="VII|§106">Article VII, § 106 of the City Charter</cite> and Subtitle 3 {"Administration") of <cite path="|8">this article</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
         </annotations>
@@ -387,7 +387,7 @@
         <num>2-18</num>
         <reason>Repealed by Ord. 22-125</reason>
         <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see City General Provisions Article, § 1-105.</annotation>
+          <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
         </annotations>
       </section>
       <section>
@@ -444,7 +444,7 @@
         <prefix>§</prefix>
         <num>2-20</num>
         <heading>"Lobbyist".</heading>
-        <text>"Lobbyist" means any person required to register with the Ethics Board under Subtitle 8 {"Lobbying"} of this article.</text>
+        <text>"Lobbyist" means any person required to register with the Ethics Board under Subtitle 8 {"Lobbying"} of <cite path="|8">this article</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Ethics Board	§2-10</annotation>
@@ -495,7 +495,7 @@
         <para>
           <num>(b)</num>
           <heading>Inclusions.</heading>
-          <text>"Official" also includes the Chief Executive Officer, Chief Operating Officer, Chief Financial Officer, Executive Director, Executive Secretary, or Administrator of any agency or board included within the scope of § 2-2 {"Agency"} or § 2-3 {"Board"} of this subtitle.</text>
+          <text>"Official" also includes the Chief Executive Officer, Chief Operating Officer, Chief Financial Officer, Executive Director, Executive Secretary, or Administrator of any agency or board included within the scope of § 2-2 {"Agency"} or <cite path="|8|§2-3">§ 2-3 {"Board"} of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -512,12 +512,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Qualified inclusion of governmental entities.</heading>
-          <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this article "person" also includes, except as used in Subtitle 9 {"Enforcement"} for the imposition of criminal penalties, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in <cite path="|8">this article</cite> "person" also includes, except as used in Subtitle 9 {"Enforcement"} for the imposition of criminal penalties, a governmental entity or an instrumentality or unit of a governmental entity.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -550,10 +550,10 @@
         <prefix>§</prefix>
         <num>2-31</num>
         <heading>In general.</heading>
-        <text>In interpreting and applying this article, the following rules of interpretation apply:</text>
+        <text>In interpreting and applying <cite path="|8">this article</cite>, the following rules of interpretation apply:</text>
         <para>
           <num>(1)</num>
-          <text>those contained in Subtitles 2 and 3 of the City Code's General Provisions Article; and</text>
+          <text>those contained in Subtitles 2 and 3 of the City Code's <cite path="|general">General Provisions Article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -571,17 +571,17 @@
         <para>
           <num>(a)</num>
           <heading>Article sets minimum requirements.</heading>
-          <text>In their interpretation and application, the provisions of this article must be taken to be the minimum requirements for the promotion of the public health, safety, and general welfare.</text>
+          <text>In their interpretation and application, the provisions of <cite path="|8">this article</cite> must be taken to be the minimum requirements for the promotion of the public health, safety, and general welfare.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Other laws.</heading>
-          <text>If another applicable law relating to conflicts of interest, financial disclosure, or lobbying is more stringent than this article, that provision also applies.</text>
+          <text>If another applicable law relating to conflicts of interest, financial disclosure, or lobbying is more stringent than <cite path="|8">this article</cite>, that provision also applies.</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>Agency rules and regulations.</heading>
-          <text>If an agency adopts a rule or regulation relating to conflicts of interest that is more stringent than this article, that provision also applies.</text>
+          <text>If an agency adopts a rule or regulation relating to conflicts of interest that is more stringent than <cite path="|8">this article</cite>, that provision also applies.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -593,7 +593,7 @@
         <prefix>§</prefix>
         <num>2-33</num>
         <heading>Liberal construction.</heading>
-        <text>The Mayor and City Council intends that the provisions of this article, except those imposing criminal sanctions, be liberally construed to accomplish their purposes.</text>
+        <text>The Mayor and City Council intends that the provisions of <cite path="|8">this article</cite>, except those imposing criminal sanctions, be liberally construed to accomplish their purposes.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
@@ -613,7 +613,7 @@
         <prefix>§</prefix>
         <num>3-1</num>
         <heading>Establishment.</heading>
-        <text>There is a Baltimore City Board of Ethics, as established under Article VII, § 106 of the City Charter and this subtitle.</text>
+        <text>There is a Baltimore City Board of Ethics, as established under <cite doc="City of Baltimore, Md., Charter" path="VII|§106">Article VII, § 106 of the City Charter</cite> and this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
         </annotations>
@@ -625,7 +625,7 @@
         <para>
           <num>(a)</num>
           <heading>Composition.</heading>
-          <text>The Ethics Board comprises the following 5 members, appointed by the Mayor in accordance with City Charter Article IV, § 6:</text>
+          <text>The Ethics Board comprises the following 5 members, appointed by the Mayor in accordance with <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>:</text>
           <para>
             <num>(1)</num>
             <text>1 member nominated by the President of the City Council;</text>
@@ -663,7 +663,7 @@
             <text>No person may be appointed to the Board or, once appointed, continue to serve on the Board if the person:</text>
             <para>
               <num>(i)</num>
-              <text>is or becomes a lobbyist under the State Public Ethics Law, Subtitle 8 of this article, or the ethics code of any political subdivision of this State;</text>
+              <text>is or becomes a lobbyist under the State Public Ethics Law, Subtitle 8 of <cite path="|8">this article</cite>, or the ethics code of any political subdivision of this State;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -694,7 +694,7 @@
           <heading>Tenure.</heading>
           <para>
             <num>(1)</num>
-            <text>In accordance with City Charter Article VII, § 108(a), the term of a member is 5 years.</text>
+            <text>In accordance with <cite doc="City of Baltimore, Md., Charter" path="VII|§108|(a)">City Charter Article VII, § 108(a)</cite>, the term of a member is 5 years.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -710,7 +710,7 @@
           <heading>Removal.</heading>
           <para>
             <num>(1)</num>
-            <text>The Mayor may remove an appointed member as provided in City Charter Article IV, § 6, but only for the following causes:</text>
+            <text>The Mayor may remove an appointed member as provided in <cite doc="City of Baltimore, Md., Charter" path="IV|§6">City Charter Article IV, § 6</cite>, but only for the following causes:</text>
             <para>
               <num>(i)</num>
               <text>neglect of duty;</text>
@@ -725,7 +725,7 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>a violation of this article.</text>
+              <text>a violation of <cite path="|8">this article</cite>.</text>
             </para>
           </para>
           <para>
@@ -829,7 +829,7 @@
         <para>
           <num>(c)</num>
           <heading>Open meetings.</heading>
-          <text>All meetings of the Ethics Board must be conducted in accordance with the State Open Meetings Act, Title 3 of the State General Provisions Article.</text>
+          <text>All meetings of the Ethics Board must be conducted in accordance with the State Open Meetings Act, Title 3 of the State <cite path="|general">General Provisions Article</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -858,12 +858,12 @@
         <para>
           <num>(a)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Ethics Board may adopt rules and regulations to carry out the provisions of this article.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Ethics Board may adopt rules and regulations to carry out the provisions of <cite path="|8">this article</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Orders.</heading>
-          <text>The Ethics Board may issue orders necessary or appropriate to carry out the provisions of this article.</text>
+          <text>The Ethics Board may issue orders necessary or appropriate to carry out the provisions of <cite path="|8">this article</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -928,7 +928,7 @@
         <prefix>§</prefix>
         <num>3-16</num>
         <heading>Forms.</heading>
-        <text>The Ethics Board must prepare and distribute all forms required by this article.</text>
+        <text>The Ethics Board must prepare and distribute all forms required by <cite path="|8">this article</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Ethics Board	§2-10</annotation>
@@ -941,7 +941,7 @@
         <text>As required by the Ethics Board from time to time, the Executive Director must:</text>
         <para>
           <num>(1)</num>
-          <text>review statements and reports filed in accordance with Subtitle 7 {"Financial Disclosure"} and Subtitle 8 {"Lobbying"} of this article; and</text>
+          <text>review statements and reports filed in accordance with Subtitle 7 {"Financial Disclosure"} and Subtitle 8 {"Lobbying"} of <cite path="|8">this article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -989,7 +989,7 @@
         <prefix>§</prefix>
         <num>3-19</num>
         <heading>Public awareness.</heading>
-        <text>The Ethics Board must publish and make publicly available information that explains the provisions of this article, the duties imposed by it, and the means for enforcing it.</text>
+        <text>The Ethics Board must publish and make publicly available information that explains the provisions of <cite path="|8">this article</cite>, the duties imposed by it, and the means for enforcing it.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Ethics Board	§2-10</annotation>
@@ -1002,7 +1002,7 @@
         <para>
           <num>(a)</num>
           <heading>Board to offer.</heading>
-          <text>The Ethics Board must develop and offer a training course of not less than 2 hours on the requirements of this article.</text>
+          <text>The Ethics Board must develop and offer a training course of not less than 2 hours on the requirements of <cite path="|8">this article</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1023,11 +1023,11 @@
               <text>an individual who is an official only by virtue of being a board member, unless the board:</text>
               <para>
                 <num>(A)</num>
-                <text>is  one of the entities listed in § 7-8 {"[Disclosures statements] – Agency officials and staff"} of this article; or</text>
+                <text>is  one of the entities listed in <cite path="|8|§7-8">§ 7-8 {"[Disclosures statements] – Agency officials and staff"} of this article</cite>; or</text>
               </para>
               <para>
                 <num>(B)</num>
-                <text>performs one of the functions described in § 7-9 {"[Disclosure statements] – Procurement, legislative liaison, and enforcement personnel"} of this article.</text>
+                <text>performs one of the functions described in <cite path="|8|§7-9">§ 7-9 {"[Disclosure statements] – Procurement, legislative liaison, and enforcement personnel"} of this article</cite>.</text>
               </para>
             </para>
           </para>
@@ -1087,7 +1087,7 @@
           <text>Each official must, within 6 months of his or her initial appointment to office, complete and file with the Ethics Board and with that official's appointing authority, an affidavit that certifies, under penalties of perjury, that the official:</text>
           <para>
             <num>(1)</num>
-            <text>has read and understands the provisions of this article governing conflicts of interest;</text>
+            <text>has read and understands the provisions of <cite path="|8">this article</cite> governing conflicts of interest;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1145,12 +1145,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as otherwise specified in this article, the Ethics Board may charge reasonable filing fees for statements, reports, and other documents filed under this article.</text>
+          <text>Except as otherwise specified in <cite path="|8">this article</cite>, the Ethics Board may charge reasonable filing fees for statements, reports, and other documents filed under <cite path="|8">this article</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>No fee for timely disclosure statement.</heading>
-          <text>The Board may not charge a fee for a disclosure statement timely filed under Subtitle 7 {"Financial Disclosure"} of this article.</text>
+          <text>The Board may not charge a fee for a disclosure statement timely filed under Subtitle 7 {"Financial Disclosure"} of <cite path="|8">this article</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1226,7 +1226,7 @@
           <heading>Board members – Special pre-appointment notice.</heading>
           <para>
             <num>(1)</num>
-            <text>An individual who is nominated to fill a vacancy on a City board must also be given written notice, in a form approved by the Ethics Board, of the provisions of § 6-14 {"Exceptions – New board members"} of this article.</text>
+            <text>An individual who is nominated to fill a vacancy on a City board must also be given written notice, in a form approved by the Ethics Board, of the provisions of <cite path="|8|§6-14">§ 6-14 {"Exceptions – New board members"} of this article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1249,14 +1249,14 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The Ethics Board may exempt from this article, or modify the applicability of this article to, a board or 1 or more members of a board if the Ethics Board determines that, because of the nature of the board, the application of this article to the board or member:</text>
+          <text>The Ethics Board may exempt from <cite path="|8">this article</cite>, or modify the applicability of <cite path="|8">this article</cite> to, a board or 1 or more members of a board if the Ethics Board determines that, because of the nature of the board, the application of <cite path="|8">this article</cite> to the board or member:</text>
           <para>
             <num>(1)</num>
             <text>would significantly reduce the availability of qualified individuals for public service; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>is not needed to preserve the purposes of this article.</text>
+            <text>is not needed to preserve the purposes of <cite path="|8">this article</cite>.</text>
           </para>
         </para>
         <para>
@@ -1300,7 +1300,7 @@
       <para>
         <num>(a)</num>
         <heading>Requester's right.</heading>
-        <text>At the written request of a person who is subject to this article, the Ethics Board must provide an advisory opinion, in a timely fashion, on the article's application to that person under the circumstances described in the request.</text>
+        <text>At the written request of a person who is subject to <cite path="|8">this article</cite>, the Ethics Board must provide an advisory opinion, in a timely fashion, on the article's application to that person under the circumstances described in the request.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1380,7 +1380,7 @@
       <prefix>§</prefix>
       <num>4-4</num>
       <heading>Reliance on opinion.</heading>
-      <text>Any person subject to this article is entitled to rely on an advisory opinion of the Ethics Board that:</text>
+      <text>Any person subject to <cite path="|8">this article</cite> is entitled to rely on an advisory opinion of the Ethics Board that:</text>
       <para>
         <num>(1)</num>
         <text>is reasonably applicable to that person's circumstances; and</text>
@@ -1394,7 +1394,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>superseded by an amendment to the applicable provisions of this article or of the rules and regulations adopted under it.</text>
+          <text>superseded by an amendment to the applicable provisions of <cite path="|8">this article</cite> or of the rules and regulations adopted under it.</text>
         </para>
       </para>
       <annotations>
@@ -1417,7 +1417,7 @@
         <heading>On complaint of other.</heading>
         <para>
           <num>(1)</num>
-          <text>Any person may file a complaint with the Ethics Board alleging a violation of this article.</text>
+          <text>Any person may file a complaint with the Ethics Board alleging a violation of <cite path="|8">this article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1439,7 +1439,7 @@
       <para>
         <num>(b)</num>
         <heading>On Board's motion.</heading>
-        <text>On its own motion, the Ethics Board may issue a written complaint alleging a violation of this article.</text>
+        <text>On its own motion, the Ethics Board may issue a written complaint alleging a violation of <cite path="|8">this article</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -1459,7 +1459,7 @@
       <para>
         <num>(b)</num>
         <heading>Confidentiality.</heading>
-        <text>For a complaint filed under § 5-1(a) {"Commencement of action: On complaint of other"} of this subtitle, the Executive Director must delete from the copy sent to the respondent:</text>
+        <text>For a complaint filed under <cite path="|8|§5-1|(a)">§ 5-1(a) {"Commencement of action: On complaint of other"} of this subtitle</cite>, the Executive Director must delete from the copy sent to the respondent:</text>
         <para>
           <num>(1)</num>
           <text>the complainant's name; and</text>
@@ -1522,7 +1522,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>the Board finds that a dismissal would not be contrary to the purposes of this article.</text>
+          <text>the Board finds that a dismissal would not be contrary to the purposes of <cite path="|8">this article</cite>.</text>
         </para>
       </para>
       <para>
@@ -1563,7 +1563,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>If the complaint is not dismissed under § 5-4 {"Dismissal on cure of violation"} or § 5-5 {"Dismissal on preliminary review"} of this subtitle, the Ethics Board must provide the respondent with notice and an opportunity for a hearing before the Board.</text>
+        <text>If the complaint is not dismissed under § 5-4 {"Dismissal on cure of violation"} or <cite path="|8|§5-5">§ 5-5 {"Dismissal on preliminary review"} of this subtitle</cite>, the Ethics Board must provide the respondent with notice and an opportunity for a hearing before the Board.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1593,7 +1593,7 @@
       <para>
         <num>(b)</num>
         <heading>Finding of no violation.</heading>
-        <text>If the Ethics Board determines that the respondent has not violated this article, the Board must:</text>
+        <text>If the Ethics Board determines that the respondent has not violated <cite path="|8">this article</cite>, the Board must:</text>
         <para>
           <num>(1)</num>
           <text>dismiss the complaint; and</text>
@@ -1606,7 +1606,7 @@
       <para>
         <num>(c)</num>
         <heading>Sanctions for violation.</heading>
-        <text>If the Ethics Board determines that the respondent has violated any provision of this article, the Board may take any 1 or more of the actions authorized in Subtitle 9 {"Enforcement"}, Part II {"Administrative Sanctions"}.</text>
+        <text>If the Ethics Board determines that the respondent has violated any provision of <cite path="|8">this article</cite>, the Board may take any 1 or more of the actions authorized in Subtitle 9 {"Enforcement"}, Part II {"Administrative Sanctions"}.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -1830,7 +1830,7 @@
             </para>
             <text>Ord. 04-795 was enacted on July 8, 2004.</text>
           </annotation>
-          <annotation type="Editor's Notes">Subsection (a) was added by Ordinance 13-102 (Bill 12-163).  Bill 12-163 passed the City Council on February 4, 2013.  Pursuant to City Charter Art. IV, § 5(c), that bill automatically became law on March 11, 2013, without the Mayor’s signature.</annotation>
+          <annotation type="Editor's Notes">Subsection (a) was added by Ordinance 13-102 (Bill 12-163).  Bill 12-163 passed the City Council on February 4, 2013.  Pursuant to <cite doc="City of Baltimore, Md., Charter" path="IV|§5|(c)">City Charter Art. IV, § 5(c)</cite>, that bill automatically became law on March 11, 2013, without the Mayor’s signature.</annotation>
         </annotations>
       </section>
       <section>
@@ -1862,7 +1862,7 @@
         <para>
           <num>(a)</num>
           <heading>Actions authorized by Board or article.</heading>
-          <text>The prohibitions in § 6-6 {"Prohibited participation"} of this subtitle do not apply to the extent that participation in a matter is expressly allowed:</text>
+          <text>The prohibitions in <cite path="|8|§6-6">§ 6-6 {"Prohibited participation"} of this subtitle</cite> do not apply to the extent that participation in a matter is expressly allowed:</text>
           <para>
             <num>(1)</num>
             <text>by a rule or regulation of the Ethics Board;</text>
@@ -1873,13 +1873,13 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>by another provision of this article.</text>
+            <text>by another provision of <cite path="|8">this article</cite>.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
           <heading>Ministerial activities.</heading>
-          <text>The prohibitions in § 6-6 {"Prohibited participation"} of this subtitle do not prohibit the exercise of a ministerial duty that does not affect the disposition of or any decision relating to the matter involved.</text>
+          <text>The prohibitions in <cite path="|8|§6-6">§ 6-6 {"Prohibited participation"} of this subtitle</cite> do not prohibit the exercise of a ministerial duty that does not affect the disposition of or any decision relating to the matter involved.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -1893,7 +1893,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Subject to subsection (b) of this section, a public servant who otherwise would be disqualified under § 6-6 {"Prohibited participation"} of this subtitle may nonetheless participate in a matter if:</text>
+          <text>Subject to subsection (b) of this section, a public servant who otherwise would be disqualified under <cite path="|8|§6-6">§ 6-6 {"Prohibited participation"} of this subtitle</cite> may nonetheless participate in a matter if:</text>
           <para>
             <num>(1)</num>
             <text>his or her disqualification would leave a board or other body with less than a quorum capable of acting;</text>
@@ -1934,7 +1934,7 @@
         <prefix>§</prefix>
         <num>6-9</num>
         <heading>Service with entity on City's behalf.</heading>
-        <text>The prohibitions in § 6-6 {"Prohibited participation"} of this subtitle do not apply to the service of a public servant as a trustee or director of a business entity doing business with or subject to regulation by the City as long as:</text>
+        <text>The prohibitions in <cite path="|8|§6-6">§ 6-6 {"Prohibited participation"} of this subtitle</cite> do not apply to the service of a public servant as a trustee or director of a business entity doing business with or subject to regulation by the City as long as:</text>
         <para>
           <num>(1)</num>
           <text>the City has an economic or programmatic interest in the entity; and</text>
@@ -2034,7 +2034,7 @@
         <prefix>§</prefix>
         <num>6-12</num>
         <heading>Exceptions – Board regulation.</heading>
-        <text>The prohibitions in § 6-11 {"Prohibited interests"} of this subtitle do not apply to an employment or financial interest that is allowed by a rule or regulation of the Ethics Board if:</text>
+        <text>The prohibitions in <cite path="|8|§6-11">§ 6-11 {"Prohibited interests"} of this subtitle</cite> do not apply to an employment or financial interest that is allowed by a rule or regulation of the Ethics Board if:</text>
         <para>
           <num>(1)</num>
           <text>in the case of employment, the employment does not create a conflict of interest or the appearance of a conflict of interest; and</text>
@@ -2054,7 +2054,7 @@
         <prefix>§</prefix>
         <num>6-13</num>
         <heading>Exceptions – Industry representatives.</heading>
-        <text>The prohibitions in § 6-11 {"Prohibited interests"} of this subtitle do not apply to an individual who is appointed to a regulatory or licensing unit pursuant to a requirement that persons subject to the jurisdiction of the unit be represented in appointments to it.</text>
+        <text>The prohibitions in <cite path="|8|§6-11">§ 6-11 {"Prohibited interests"} of this subtitle</cite> do not apply to an individual who is appointed to a regulatory or licensing unit pursuant to a requirement that persons subject to the jurisdiction of the unit be represented in appointments to it.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Person	§2-22</annotation>
@@ -2067,7 +2067,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The prohibitions in § 6-11 {"Prohibited interests"} of this subtitle do not apply to a board member who holds the employment or financial interest at the time of his or her appointment, if that employment or financial interest is publicly disclosed to the appointing authority, the Ethics Board, and, if applicable, the City Council before confirmation.</text>
+          <text>The prohibitions in <cite path="|8|§6-11">§ 6-11 {"Prohibited interests"} of this subtitle</cite> do not apply to a board member who holds the employment or financial interest at the time of his or her appointment, if that employment or financial interest is publicly disclosed to the appointing authority, the Ethics Board, and, if applicable, the City Council before confirmation.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2085,7 +2085,7 @@
         <prefix>§</prefix>
         <num>6-15</num>
         <heading>Exceptions – Service on City's behalf.</heading>
-        <text>The prohibitions in § 6-11 {"Prohibited interests"} of this subtitle do not apply to the service of a public servant as a trustee or director of a business entity in accord with and subject to the limitations specified in § 6-9 {"Service ... on City's behalf"} of this subtitle.</text>
+        <text>The prohibitions in <cite path="|8|§6-11">§ 6-11 {"Prohibited interests"} of this subtitle</cite> do not apply to the service of a public servant as a trustee or director of a business entity in accord with and subject to the limitations specified in <cite path="|8|§6-9">§ 6-9 {"Service ... on City's behalf"} of this subtitle</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Business entity	§2-4</annotation>
@@ -2099,7 +2099,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Subject to subsection (b) of this section, the Ethics Board may exempt a public servant from the prohibitions of § 6-11 {"Prohibited interests"} of this subtitle or modify the applicability of those prohibitions to a public servant if the Board determines that failure to grant the exemption or modification would limit the City's ability to:</text>
+          <text>Subject to subsection (b) of this section, the Ethics Board may exempt a public servant from the prohibitions of <cite path="|8|§6-11">§ 6-11 {"Prohibited interests"} of this subtitle</cite> or modify the applicability of those prohibitions to a public servant if the Board determines that failure to grant the exemption or modification would limit the City's ability to:</text>
           <para>
             <num>(1)</num>
             <text>recruit and hire highly qualified or uniquely qualified professionals for public service; or</text>
@@ -2144,7 +2144,7 @@
         <prefix>§</prefix>
         <num>6-17</num>
         <heading>Permitted transactions.</heading>
-        <text>The prohibitions of § 6-11 {"Prohibited interests"} of this subtitle do not prevent:</text>
+        <text>The prohibitions of <cite path="|8|§6-11">§ 6-11 {"Prohibited interests"} of this subtitle</cite> do not prevent:</text>
         <para>
           <num>(1)</num>
           <text>an elected official from appearing, without compensation, before any City agency or legislative body on behalf of constituents or in the performance of any public, official, or civic obligation or duty;</text>
@@ -2359,7 +2359,7 @@
         <prefix>§</prefix>
         <num>6-28</num>
         <heading>Qualified exemptions.</heading>
-        <text>Subject to § 6-29 {"Exemption limitations"} of this subtitle, the prohibitions in § 6-27 {"Acceptance prohibited"} of this subtitle do not apply to the unsolicited receipt of:</text>
+        <text>Subject to <cite path="|8|§6-29">§ 6-29 {"Exemption limitations"} of this subtitle</cite>, the prohibitions in <cite path="|8|§6-27">§ 6-27 {"Acceptance prohibited"} of this subtitle</cite> do not apply to the unsolicited receipt of:</text>
         <para>
           <num>(1)</num>
           <text>food or beverages received and consumed by the recipient in the presence of the donor or sponsoring entity;</text>
@@ -2410,7 +2410,7 @@
         <prefix>§</prefix>
         <num>6-29</num>
         <heading>Exemption limitations.</heading>
-        <text>The exemptions specified in § 6-28 {"Qualified exemptions"} of this subtitle do not apply to any gift if:</text>
+        <text>The exemptions specified in <cite path="|8|§6-28">§ 6-28 {"Qualified exemptions"} of this subtitle</cite> do not apply to any gift if:</text>
         <para>
           <num>(1)</num>
           <text>the gift would tend to impair the recipient's impartiality and independent judgment; or</text>
@@ -2704,7 +2704,7 @@
           <text>On or before February 1 of each year, the Director of Human Resources must provide to the Ethics Board the names and position numbers of all public servants who:</text>
           <para>
             <num>(1)</num>
-            <text>hold positions of the types described in § 7-9 {"Procurement, legislative liaison, and enforcement personnel"} of this subtitle; and</text>
+            <text>hold positions of the types described in <cite path="|8|§7-9">§ 7-9 {"Procurement, legislative liaison, and enforcement personnel"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3990,7 +3990,7 @@
         <para>
           <num>(2)</num>
           <heading>Legislative liaisons.</heading>
-          <text>All public servants whose functions include the influence of legislative action, as defined in § 8-1 of this article.</text>
+          <text>All public servants whose functions include the influence of legislative action, as defined in <cite path="|8|§8-1">§ 8-1 of this article</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -4259,7 +4259,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>For purposes of § 7-21 {"Real property"} of this subtitle and § 7-22 {"Business entities"} of this subtitle, the following interests are attributable to and must be reported by the public servant.</text>
+          <text>For purposes of <cite path="|8|§7-21">§ 7-21 {"Real property"} of this subtitle</cite> and <cite path="|8|§7-22">§ 7-22 {"Business entities"} of this subtitle</cite>, the following interests are attributable to and must be reported by the public servant.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4286,11 +4286,11 @@
             <text>This subsection does not limit:</text>
             <para>
               <num>(i)</num>
-              <text>the requirements of § 7-21 {"Real property"} of this subtitle to disclose real property interests held by entities in which the public servant holds an interest; or</text>
+              <text>the requirements of <cite path="|8|§7-21">§ 7-21 {"Real property"} of this subtitle</cite> to disclose real property interests held by entities in which the public servant holds an interest; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>the requirements of § 7-22 {"Business entities"} of this subtitle to disclose certain entities in which the public servant holds an interest.</text>
+              <text>the requirements of <cite path="|8|§7-22">§ 7-22 {"Business entities"} of this subtitle</cite> to disclose certain entities in which the public servant holds an interest.</text>
             </para>
           </para>
         </para>
@@ -4328,7 +4328,7 @@
         <text>For purposes of any of the disclosures required by this subtitle, interests held by a blind trust are not considered interests of the public servant making the statement if:</text>
         <para>
           <num>(1)</num>
-          <text>the blind trust is approved by the Ethics Board in accordance with rules and regulations adopted under this article; and</text>
+          <text>the blind trust is approved by the Ethics Board in accordance with rules and regulations adopted under <cite path="|8">this article</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -4352,7 +4352,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The statement must include a schedule of each interest in real property that, at any time during the reporting period, was held by or, under § 7-17 {"Attributable interests"} of this subtitle, was attributable to the public servant, including each interest held in the name of a partnership, limited liability partnership, limited liability company, or other unincorporated entity in which an interest was held by or attributable to the public servant.</text>
+          <text>The statement must include a schedule of each interest in real property that, at any time during the reporting period, was held by or, under <cite path="|8|§7-17">§ 7-17 {"Attributable interests"} of this subtitle</cite>, was attributable to the public servant, including each interest held in the name of a partnership, limited liability partnership, limited liability company, or other unincorporated entity in which an interest was held by or attributable to the public servant.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4421,7 +4421,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The statement must include a schedule of each interest in any corporation, partnership, limited liability company, or any other business entity, whether or not that entity does business with or is regulated by the City, if, at any time during the reporting period, the interest was held by or, under § 7-17 {"Attributable interests"} of this subtitle, was attributable to the public servant.</text>
+          <text>The statement must include a schedule of each interest in any corporation, partnership, limited liability company, or any other business entity, whether or not that entity does business with or is regulated by the City, if, at any time during the reporting period, the interest was held by or, under <cite path="|8|§7-17">§ 7-17 {"Attributable interests"} of this subtitle</cite>, was attributable to the public servant.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4954,7 +4954,7 @@
         <para>
           <num>(b)</num>
           <heading>Compensation.</heading>
-          <text>If lobbying is only part of a person's employment, "compensation" means a prorated amount of the person's total compensation, as defined in § 2-7 of this article, that is based on the time devoted by the person to lobbying compared to the time devoted to other employment duties.</text>
+          <text>If lobbying is only part of a person's employment, "compensation" means a prorated amount of the person's total compensation, as defined in <cite path="|8|§2-7">§ 2-7 of this article</cite>, that is based on the time devoted by the person to lobbying compared to the time devoted to other employment duties.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -5342,7 +5342,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>a statement of whether, because of the lobbyist's registration and reporting, the person on whose behalf the lobbyist is acting will be exempt from registration under § 8-33 {"Employer of reporting lobbyist"} of this subtitle; and</text>
+            <text>a statement of whether, because of the lobbyist's registration and reporting, the person on whose behalf the lobbyist is acting will be exempt from registration under <cite path="|8|§8-33">§ 8-33 {"Employer of reporting lobbyist"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(5)</num>
@@ -5354,7 +5354,7 @@
           <text>
             <em>Written Authorization</em>
           </text>
-          <text>The registration must be accompanied by the written authorization required by § 8-11 {"Employer authorization required"} of this subtitle.</text>
+          <text>The registration must be accompanied by the written authorization required by <cite path="|8|§8-11">§ 8-11 {"Employer authorization required"} of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -5389,7 +5389,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>the date specified in a written authorization filed under § 8-11 {"Employer authorization required"} of this subtitle.</text>
+            <text>the date specified in a written authorization filed under <cite path="|8|§8-11">§ 8-11 {"Employer authorization required"} of this subtitle</cite>.</text>
           </para>
         </para>
         <para>
@@ -5414,7 +5414,7 @@
           <heading>Required termination on appointment as public servant.</heading>
           <para>
             <num>(1)</num>
-            <text>Except as provided in paragraph (2) of this subsection, if a lobbyist is or becomes subject to regulation under this article as a public servant, the lobbyist must:</text>
+            <text>Except as provided in paragraph (2) of this subsection, if a lobbyist is or becomes subject to regulation under <cite path="|8">this article</cite> as a public servant, the lobbyist must:</text>
             <para>
               <num>(i)</num>
               <text>immediately cease all activity that requires registration; and</text>
@@ -5453,7 +5453,7 @@
       <annotations>
         <annotation type="Editor's Notes">
           <text>The following Part IV is shown as amended by Ordinance 18-198 (Bill 18-230) to require the filing of semi-annual, rather than annual, lobbying reports and to require that these reports be posted on the Ethics Board’s website for public viewing.  These changes, however, are subject to a special, delayed effective date.  As described in the relevant provisions of Section 3(a) of Ord. 18-198</text>
-          <text>“The amendments made by this Ordinance to Part IV of Code Article 8, Subtitle 8, take effect ... on ... the 30th day after MOIT/BCIT has developed a viable, searchable online module that meets the criteria required by the Ethics Board and that will allow lobbyists to prepare and file their reports online, subject to the online payment of all attendant fees.”</text>
+          <text>“The amendments made by this Ordinance to Part IV of Code <cite path="|8">Article 8</cite>, Subtitle 8, take effect ... on ... the 30th day after MOIT/BCIT has developed a viable, searchable online module that meets the criteria required by the Ethics Board and that will allow lobbyists to prepare and file their reports online, subject to the online payment of all attendant fees.”</text>
           <text>Progress to date suggests that the required online module will be completed and available for public use in June or early July, 2019.</text>
         </annotation>
       </annotations>
@@ -5519,7 +5519,7 @@
         <prefix>§</prefix>
         <num>8-17</num>
         <heading>Contents – Registration information</heading>
-        <text>Each report must include a complete, current statement of the information required by § 8-13(c) {"Registration: Contents"} of this subtitle.</text>
+        <text>Each report must include a complete, current statement of the information required by <cite path="|8|§8-13|(c)">§ 8-13(c) {"Registration: Contents"} of this subtitle</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
         </annotations>
@@ -5531,7 +5531,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as provided in subsection (c) of this subsection, each report must include the total compensation paid to the lobbyist in connection with lobbying activities during the period to which that report applies, as specified in § 8-16(b)(1) of this subtitle.</text>
+          <text>Except as provided in subsection (c) of this subsection, each report must include the total compensation paid to the lobbyist in connection with lobbying activities during the period to which that report applies, as specified in <cite path="|8|§8-16|(b)|(1)">§ 8-16(b)(1) of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5566,7 +5566,7 @@
         <para>
           <num>(a)</num>
           <heading>Staff, research, and assistance.</heading>
-          <text>Except as reported under § 8-18 {"Contents — Compensation"} of this subtitle, each report must include the total amount expended in connection with the lobbying activities during the period to which that report applies, as specified in § 8-16(b)(1) of this subtitle, for:</text>
+          <text>Except as reported under <cite path="|8|§8-18">§ 8-18 {"Contents — Compensation"} of this subtitle</cite>, each report must include the total amount expended in connection with the lobbying activities during the period to which that report applies, as specified in <cite path="|8|§8-16|(b)|(1)">§ 8-16(b)(1) of this subtitle</cite>, for:</text>
           <para>
             <num>(1)</num>
             <text>office expenses of the lobbyist; and</text>
@@ -5579,7 +5579,7 @@
         <para>
           <num>(b)</num>
           <heading>Publications.</heading>
-          <text>Each report must include the total amount expended in connection with the lobbying activities during the period to which that report applies, as specified in § 8-16(b)(1) of this subtitle, for publications that expressly encourage others to communicate with 1 or more public servants.</text>
+          <text>Each report must include the total amount expended in connection with the lobbying activities during the period to which that report applies, as specified in <cite path="|8|§8-16|(b)|(1)">§ 8-16(b)(1) of this subtitle</cite>, for publications that expressly encourage others to communicate with 1 or more public servants.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -5587,7 +5587,7 @@
           <text>Each report must include:</text>
           <para>
             <num>(1)</num>
-            <text>the total amount expended in connection with lobbying activities for witnesses during the period to which that report applies, as specified in § 8-16(b)(1) of this subtitle;</text>
+            <text>the total amount expended in connection with lobbying activities for witnesses during the period to which that report applies, as specified in <cite path="|8|§8-16|(b)|(1)">§ 8-16(b)(1) of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5603,7 +5603,7 @@
           <heading>Food, beverages, gifts, etc.</heading>
           <para>
             <num>(1)</num>
-            <text>Each report must include the total amount expended for each of the following during the period to which that report applies, as specified in § 8-16(b)(1) of this subtitle, whether or not expended in connection with lobbying activities:</text>
+            <text>Each report must include the total amount expended for each of the following during the period to which that report applies, as specified in <cite path="|8|§8-16|(b)|(1)">§ 8-16(b)(1) of this subtitle</cite>, whether or not expended in connection with lobbying activities:</text>
             <para>
               <num>(i)</num>
               <text>meals and beverages for a public servant or the spouse, parent, child, or sibling of a public servant;</text>
@@ -5723,7 +5723,7 @@
             <text>This section applies to an individual who:</text>
             <para>
               <num>(i)</num>
-              <text>is a lobbyist under § 8-7 {"Legislative lobbying"} or § 8-8 {"Executive lobbying"} of this subtitle; and</text>
+              <text>is a lobbyist under § 8-7 {"Legislative lobbying"} or <cite path="|8|§8-8">§ 8-8 {"Executive lobbying"} of this subtitle</cite>; and</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -5779,7 +5779,7 @@
             <text>This section does not apply to:</text>
             <para>
               <num>(i)</num>
-              <text>an individual who is a lobbyist solely under § 8-9 {"'Grass roots' lobbying"} of this subtitle; or</text>
+              <text>an individual who is a lobbyist solely under <cite path="|8|§8-9">§ 8-9 {"'Grass roots' lobbying"} of this subtitle</cite>; or</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -5924,7 +5924,7 @@
         <para>
           <num>(b)</num>
           <heading>Student activities.</heading>
-          <text>An elementary, secondary, or pos-tsecondary school student or student organization that communicates as part of a course or student activity is not subject to the registration requirements of this subtitle based on the expense threshold of § 8-7 {"Legislative lobbying"} or § 8-8 {"Executive lobbying"} of this subtitle.</text>
+          <text>An elementary, secondary, or pos-tsecondary school student or student organization that communicates as part of a course or student activity is not subject to the registration requirements of this subtitle based on the expense threshold of § 8-7 {"Legislative lobbying"} or <cite path="|8|§8-8">§ 8-8 {"Executive lobbying"} of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -5961,7 +5961,7 @@
         <para>
           <num>(b)</num>
           <heading>Authorization still required.</heading>
-          <text>A person exempt under subsection (a) of this section must still complete the authorization required by § 8-11 {"Employer authorization required"} of this subtitle.</text>
+          <text>A person exempt under subsection (a) of this section must still complete the authorization required by <cite path="|8|§8-11">§ 8-11 {"Employer authorization required"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -6031,7 +6031,7 @@
         <text>A lobbyist may not make a gift to a public servant, directly or indirectly:</text>
         <para>
           <num>(1)</num>
-          <text>if the lobbyist knows or has reason to know that the public servant's acceptance of the gift would violate Subtitle 6 {"Conflicts of Interest"}, Part IV {"Gifts"} of this article; or</text>
+          <text>if the lobbyist knows or has reason to know that the public servant's acceptance of the gift would violate Subtitle 6 {"Conflicts of Interest"}, Part IV {"Gifts"} of <cite path="|8">this article</cite>; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -6134,7 +6134,7 @@
         <prefix>§</prefix>
         <num>9-1</num>
         <heading>Retention required.</heading>
-        <text>Any person required to file a report, statement, or other item under this article must obtain and, for the period specified in § 9-2 {"Retention period"} of this subtitle, retain all accounts, bills, receipts, books, papers, documents, and other records necessary to complete and substantiate the report, statement, or other item.</text>
+        <text>Any person required to file a report, statement, or other item under <cite path="|8">this article</cite> must obtain and, for the period specified in <cite path="|8|§9-2">§ 9-2 {"Retention period"} of this subtitle</cite>, retain all accounts, bills, receipts, books, papers, documents, and other records necessary to complete and substantiate the report, statement, or other item.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Person	§2-22</annotation>
@@ -6144,7 +6144,7 @@
         <prefix>§</prefix>
         <num>9-2</num>
         <heading>Retention period.</heading>
-        <text>The person must retain the records required by § 9-1 {"Retention required"} of this subtitle for at least 3 years from:</text>
+        <text>The person must retain the records required by <cite path="|8|§9-1">§ 9-1 {"Retention required"} of this subtitle</cite> for at least 3 years from:</text>
         <para>
           <num>(1)</num>
           <text>the date on which the report, statement, or other item was filed; or</text>
@@ -6162,7 +6162,7 @@
         <prefix>§</prefix>
         <num>9-3</num>
         <heading>Inspection of records.</heading>
-        <text>On request and reasonable notice, the records required by § 9-1 {"Retention required"} of this subtitle must be made available to the Ethics Board or the City Solicitor for inspection.</text>
+        <text>On request and reasonable notice, the records required by <cite path="|8|§9-1">§ 9-1 {"Retention required"} of this subtitle</cite> must be made available to the Ethics Board or the City Solicitor for inspection.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Ethics Board	§2-10</annotation>
@@ -6177,7 +6177,7 @@
         <prefix>§</prefix>
         <num>9-4</num>
         <heading>In general.</heading>
-        <text>If, after considering a complaint brought under Subtitle 5 {"Complaints"} of this article, the Ethics Board determines that the respondent has violated any provision of this article, the Board may take any 1 or more of the following actions:</text>
+        <text>If, after considering a complaint brought under Subtitle 5 {"Complaints"} of <cite path="|8">this article</cite>, the Ethics Board determines that the respondent has violated any provision of <cite path="|8">this article</cite>, the Board may take any 1 or more of the following actions:</text>
         <para>
           <num>(1)</num>
           <text>issue an order directing the respondent to cease and desist from the violation;</text>
@@ -6203,7 +6203,7 @@
         <prefix>§</prefix>
         <num>9-5</num>
         <heading>Lobbying violations.</heading>
-        <text>If, after considering a complaint brought under Subtitle 5 {"Complaints"} of this article, the Ethics Board determines that the respondent has violated any provision of Subtitle 8 {"Lobbying"} of this article, the Board may take any 1 or more of the following actions:</text>
+        <text>If, after considering a complaint brought under Subtitle 5 {"Complaints"} of <cite path="|8">this article</cite>, the Ethics Board determines that the respondent has violated any provision of Subtitle 8 {"Lobbying"} of <cite path="|8">this article</cite>, the Board may take any 1 or more of the following actions:</text>
         <para>
           <num>(1)</num>
           <text>require a respondent who is a lobbyist to file any additional reports or information that reasonably relates to the information required by Subtitle 8;</text>
@@ -6218,7 +6218,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>take any other action authorized by § 9-4 {"In general"} of this subtitle.</text>
+          <text>take any other action authorized by <cite path="|8|§9-4">§ 9-4 {"In general"} of this subtitle</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -6251,14 +6251,14 @@
         <para>
           <num>(b)</num>
           <heading>Notice to public servant.</heading>
-          <text>If a public servant has failed to file a complete financial disclosure statement within 5 days of the date required under this article, the Ethics Board must notify the public servant in writing of the public servant's noncompliance and of the potential consequences under this section for continued noncompliance.</text>
+          <text>If a public servant has failed to file a complete financial disclosure statement within 5 days of the date required under <cite path="|8">this article</cite>, the Ethics Board must notify the public servant in writing of the public servant's noncompliance and of the potential consequences under this section for continued noncompliance.</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>15-day notice.</heading>
           <para>
             <num>(1)</num>
-            <text>If a public servant has failed to file a complete financial disclosure statement within 15 days of the date required under this article, the Ethics Board must notify the public servant in writing of the public servant's continued noncompliance and the potential consequences of further continued noncompliance.</text>
+            <text>If a public servant has failed to file a complete financial disclosure statement within 15 days of the date required under <cite path="|8">this article</cite>, the Ethics Board must notify the public servant in writing of the public servant's continued noncompliance and the potential consequences of further continued noncompliance.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6282,7 +6282,7 @@
           <heading>Referral to the Office of Inspector General.</heading>
           <para>
             <num>(1)</num>
-            <text>If a public servant has failed to file a complete financial disclosure statement within 30 days of the date required under this article, the Ethics Board must refer the matter in writing to the Office of the Inspector General for investigation.</text>
+            <text>If a public servant has failed to file a complete financial disclosure statement within 30 days of the date required under <cite path="|8">this article</cite>, the Ethics Board must refer the matter in writing to the Office of the Inspector General for investigation.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6310,7 +6310,7 @@
           <heading>Referral for suspension.</heading>
           <para>
             <num>(1)</num>
-            <text>If a public servant has failed to file a complete financial disclosure statement within 60 days of the date required under this article, the Ethics Board may refer the matter to the public servant's agency head, the Director of Human Resources, and the City Solicitor, with a recommendation that the public servant be suspended from office without pay until the financial disclosure statement is filed.</text>
+            <text>If a public servant has failed to file a complete financial disclosure statement within 60 days of the date required under <cite path="|8">this article</cite>, the Ethics Board may refer the matter to the public servant's agency head, the Director of Human Resources, and the City Solicitor, with a recommendation that the public servant be suspended from office without pay until the financial disclosure statement is filed.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6346,12 +6346,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The Ethics Board may file a petition in Circuit Court, on behalf of the Mayor and City Council, to compel compliance with or seek other relief under this article.</text>
+          <text>The Ethics Board may file a petition in Circuit Court, on behalf of the Mayor and City Council, to compel compliance with or seek other relief under <cite path="|8">this article</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Remedies cumulative.</heading>
-          <text>The remedies authorized in this article are cumulative, and the court may grant all or part of the relief sought.</text>
+          <text>The remedies authorized in <cite path="|8">this article</cite> are cumulative, and the court may grant all or part of the relief sought.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
@@ -6362,7 +6362,7 @@
         <prefix>§</prefix>
         <num>9-7</num>
         <heading>Relief generally.</heading>
-        <text>In an action brought under § 9-6 {"Petition to court"} of this subtitle, the court may compel compliance with this article:</text>
+        <text>In an action brought under <cite path="|8|§9-6">§ 9-6 {"Petition to court"} of this subtitle</cite>, the court may compel compliance with <cite path="|8">this article</cite>:</text>
         <para>
           <num>(1)</num>
           <text>by issuing an order to cease and desist from a violation; or</text>
@@ -6382,7 +6382,7 @@
         <para>
           <num>(a)</num>
           <heading>Penalty authorized.</heading>
-          <text>In an action brought under § 9-6 {"Petition to court"} of this subtitle, the court may impose a civil penalty of up to $1,000 for any violation of this article.</text>
+          <text>In an action brought under <cite path="|8|§9-6">§ 9-6 {"Petition to court"} of this subtitle</cite>, the court may impose a civil penalty of up to $1,000 for any violation of <cite path="|8">this article</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -6400,10 +6400,10 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as provided in subsection (b) of this section, in an action brought under § 9-6 {"Petition to court"} of this subtitle, the court may void an official act of a public servant if:</text>
+          <text>Except as provided in subsection (b) of this section, in an action brought under <cite path="|8|§9-6">§ 9-6 {"Petition to court"} of this subtitle</cite>, the court may void an official act of a public servant if:</text>
           <para>
             <num>(1)</num>
-            <text>the public servant had a conflict of interest that is prohibited by this article;</text>
+            <text>the public servant had a conflict of interest that is prohibited by <cite path="|8">this article</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6463,10 +6463,10 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as provided in § 9-12 {"Exceptions"} of this subtitle, the Board of Estimates may void a contract with the City if:</text>
+          <text>Except as provided in <cite path="|8|§9-12">§ 9-12 {"Exceptions"} of this subtitle</cite>, the Board of Estimates may void a contract with the City if:</text>
           <para>
             <num>(1)</num>
-            <text>a public servant had a conflict of interest that is prohibited by this article;</text>
+            <text>a public servant had a conflict of interest that is prohibited by <cite path="|8">this article</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6517,7 +6517,7 @@
         <prefix>§</prefix>
         <num>9-16</num>
         <heading>Persons other than elected officials.</heading>
-        <text>In addition to any other penalty imposed under this article, if the Ethics Board finds that a public servant, other than an elected official, has violated a provision of this article:</text>
+        <text>In addition to any other penalty imposed under <cite path="|8">this article</cite>, if the Ethics Board finds that a public servant, other than an elected official, has violated a provision of <cite path="|8">this article</cite>:</text>
         <para>
           <num>(1)</num>
           <text>the public servant may be removed or subjected to other disciplinary action by the appropriate authority; and</text>
@@ -6538,7 +6538,7 @@
         <prefix>§</prefix>
         <num>9-17</num>
         <heading>Elected officials.</heading>
-        <text>If the Ethics Board finds that an elected official has violated a provision of this article, the Board must report its findings to the Mayor and the City Council for appropriate action.</text>
+        <text>If the Ethics Board finds that an elected official has violated a provision of <cite path="|8">this article</cite>, the Board must report its findings to the Mayor and the City Council for appropriate action.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 04-795" type="History">Ord. 04-795</annotation>
           <annotation type="Defined Terms">Elected official	§2-8</annotation>
@@ -6580,7 +6580,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Any person who knowingly violates a provision of Subtitle 8 {"Lobbying"} of this article, or fails to comply with an administrative sanction imposed under § 9-5 {"Lobbying violations"} of this subtitle, is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment of not more than 12 months or both.</text>
+          <text>Any person who knowingly violates a provision of Subtitle 8 {"Lobbying"} of <cite path="|8">this article</cite>, or fails to comply with an administrative sanction imposed under <cite path="|8|§9-5">§ 9-5 {"Lobbying violations"} of this subtitle</cite>, is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment of not more than 12 months or both.</text>
         </para>
         <para>
           <num>(b)</num>

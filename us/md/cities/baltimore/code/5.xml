@@ -95,7 +95,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>The Board of Finance, in consultation with the Minority and Women's Business Opportunity Office, shall adopt regulations to require that the banks selected are in full compliance with the City's Commercial Non-Discrimination Policy, as set forth in Subtitle 29 of this Article.</text>
+          <text>The Board of Finance, in consultation with the Minority and Women's Business Opportunity Office, shall adopt regulations to require that the banks selected are in full compliance with the City's Commercial Non-Discrimination Policy, as set forth in Subtitle 29 of <cite path="|5">this Article</cite>.</text>
         </para>
       </para>
       <para>
@@ -282,7 +282,7 @@
       <para>
         <num>(b)</num>
         <heading>Redeemable annuities or ground rents.</heading>
-        <text>The Board of Finance is also authorized and empowered in its discretion to invest any of said moneys in the purchase of redeemable annuities or ground rents reserved out of lands heretofore leased to the Mayor and City Council of Baltimore and payable by said City, the conveyances thereof to be made to the Mayor and City Council of Baltimore, in trust for the benefit and purpose of said sinking fund in accordance with the provisions of Article II, § (33) of the Baltimore City Charter.</text>
+        <text>The Board of Finance is also authorized and empowered in its discretion to invest any of said moneys in the purchase of redeemable annuities or ground rents reserved out of lands heretofore leased to the Mayor and City Council of Baltimore and payable by said City, the conveyances thereof to be made to the Mayor and City Council of Baltimore, in trust for the benefit and purpose of said sinking fund in accordance with the provisions of <cite doc="City of Baltimore, Md., Charter" path="II|§(33)">Article II, § (33) of the Baltimore City Charter</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1893, art. 47, §19</annotation>
@@ -366,7 +366,7 @@
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 5, §21</annotation>
         <annotation doc="City of Balt., Md., Ord. 74-749" type="History">Ord. 74-749</annotation>
-        <annotation type="Editor's Notes">The State enabling law to which the preceding section refers, State Article 95, §22A, was repealed by Chapter 319, Laws of Maryland 1997.  But see § 5-2 of this subtitle below.</annotation>
+        <annotation type="Editor's Notes">The State enabling law to which the preceding section refers, State <cite path="|95" proof="needed">Article 95</cite>, §22A, was repealed by Chapter 319, Laws of Maryland 1997.  But see <cite path="|5|§5-2">§ 5-2 of this subtitle</cite> below.</annotation>
       </annotations>
     </section>
     <section>
@@ -376,7 +376,7 @@
       <para>
         <num>(a)</num>
         <heading>State guidelines adopted.</heading>
-        <text>The Mayor and City Council of Baltimore shall be governed by a local government investment policy that is consistent with and complies with the local government investment guidelines adopted in under State Code Article 95, § 22F.</text>
+        <text>The Mayor and City Council of Baltimore shall be governed by a local government investment policy that is consistent with and complies with the local government investment guidelines adopted in under State Code <cite path="|95|§22F" proof="needed">Article 95, § 22F</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -393,13 +393,13 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>shall be submitted to the State Treasurer in accordance with State Code Article 95, § 22F.</text>
+          <text>shall be submitted to the State Treasurer in accordance with State Code <cite path="|95|§22F" proof="needed">Article 95, § 22F</cite>.</text>
         </para>
       </para>
       <para>
         <num>(d)</num>
         <heading>Commercial non-discrimination.</heading>
-        <text>Consistent with the requirements of this section, the Board of Finance shall amend the City's local government investment policy to be consistent with Subtitle 29 {"Commercial Non-Discrimination Policy"} of this article and to ensure that no City funds are invested in or through business entities that are in violation of the City's Commercial Non-Discrimination Policy.</text>
+        <text>Consistent with the requirements of this section, the Board of Finance shall amend the City's local government investment policy to be consistent with Subtitle 29 {"Commercial Non-Discrimination Policy"} of <cite path="|5">this article</cite> and to ensure that no City funds are invested in or through business entities that are in violation of the City's Commercial Non-Discrimination Policy.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 5, §22</annotation>
@@ -582,7 +582,7 @@
       <para>
         <num>(b)</num>
         <heading>Nature of Fund.</heading>
-        <text>The Special Fund is a continuing, nonlapsing fund established under the authority of City Charter Article I, § 12 ("Special funds for education").</text>
+        <text>The Special Fund is a continuing, nonlapsing fund established under the authority of <cite doc="City of Baltimore, Md., Charter" path="I|§12">City Charter Article I, § 12</cite> ("Special funds for education").</text>
       </para>
       <para>
         <num>(c)</num>
@@ -641,12 +641,12 @@
       <para>
         <num>(c)</num>
         <heading>Fiscal agent.</heading>
-        <text>"Fiscal agent" means the entity designated by § 9-4(a) of this subtitle to administer the Fund and this subtitle.</text>
+        <text>"Fiscal agent" means the entity designated by <cite path="|5|§9-4|(a)">§ 9-4(a) of this subtitle</cite> to administer the Fund and this subtitle.</text>
       </para>
       <para>
         <num>(d)</num>
         <heading>Fund.</heading>
-        <text>"Fund" means the Children and Youth Fund established by City Charter Article I, § 13 {"Children and Youth Fund"}.</text>
+        <text>"Fund" means the Children and Youth Fund established by <cite doc="City of Baltimore, Md., Charter" path="I|§13">City Charter Article I, § 13</cite> {"Children and Youth Fund"}.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 18-103" type="History">Ord. 18-103</annotation>
@@ -660,7 +660,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>The Fund may be used only for the purposes generally described in City Charter Article I, § 13(a).</text>
+        <text>The Fund may be used only for the purposes generally described in <cite doc="City of Baltimore, Md., Charter" path="I|§13|(a)">City Charter Article I, § 13(a)</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -755,7 +755,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The fiscal agent may also use any additional factors listed in City Charter Article I, § 13(a) to identify specific programs and services to be funded by the Fund so long as the additional factors are made publically available to applicants for funding at the time that applications are requested.</text>
+          <text>The fiscal agent may also use any additional factors listed in <cite doc="City of Baltimore, Md., Charter" path="I|§13|(a)">City Charter Article I, § 13(a)</cite> to identify specific programs and services to be funded by the Fund so long as the additional factors are made publically available to applicants for funding at the time that applications are requested.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -854,7 +854,7 @@
         <heading>Bylaws.</heading>
         <para>
           <num>(1)</num>
-          <text>The Board must adopt bylaws for the administration of the fiscal agent<em>. </em> However, those bylaws may not be inconsistent with the terms of this subtitle or of City Charter Article I, § 13 {"Children and Youth Fund"}.</text>
+          <text>The Board must adopt bylaws for the administration of the fiscal agent<em>. </em> However, those bylaws may not be inconsistent with the terms of this subtitle or of <cite doc="City of Baltimore, Md., Charter" path="I|§13">City Charter Article I, § 13</cite> {"Children and Youth Fund"}.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -931,7 +931,7 @@
         <para>
           <num>(2)</num>
           <heading>Remainder to be disbursed.</heading>
-          <text>The Board must allocate the remainder of the Fund's balance among the programs and services identified under § 9-4(c) of this subtitle, with an emphasis on programs or services operating in, or meant to assist young people from, the communities in Baltimore City most impacted by high poverty.</text>
+          <text>The Board must allocate the remainder of the Fund's balance among the programs and services identified under <cite path="|5|§9-4|(c)">§ 9-4(c) of this subtitle</cite>, with an emphasis on programs or services operating in, or meant to assist young people from, the communities in Baltimore City most impacted by high poverty.</text>
         </para>
       </para>
       <para>
@@ -981,7 +981,7 @@
       <prefix>§</prefix>
       <num>9-9</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance must adopt rules and regulations to carry out this subtitle including:</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance must adopt rules and regulations to carry out this subtitle including:</text>
       <para>
         <num>(i)</num>
         <text>a schedule for dispersing the Fund each year; and</text>
@@ -1088,7 +1088,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Comptroller may determine the property and perils to be covered by this Fund and promulgate rules and regulations governing payments from this Fund.  Such rules and regulations shall be in accord with the provisions of § 10-5 of this subtitle, but may amplify and extend the basic principles as set forth in that section.</text>
+          <text>The Comptroller may determine the property and perils to be covered by this Fund and promulgate rules and regulations governing payments from this Fund.  Such rules and regulations shall be in accord with the provisions of <cite path="|5|§10-5">§ 10-5 of this subtitle</cite>, but may amplify and extend the basic principles as set forth in that section.</text>
         </para>
       </para>
       <para>
@@ -1432,12 +1432,12 @@
         <para>
           <num>(b)</num>
           <heading>Nature of Fund.</heading>
-          <text>The Fund is a continuing, nonlapsing fund established under the authority of City Charter Article I, § 15 {"Special fund for fair elections"}.</text>
+          <text>The Fund is a continuing, nonlapsing fund established under the authority of <cite doc="City of Baltimore, Md., Charter" path="I|§15">City Charter Article I, § 15</cite> {"Special fund for fair elections"}.</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>Purposes of Fund.</heading>
-          <text>As set forth in City Charter Article I, § 15(a)(2), the purposes of the Fund include:</text>
+          <text>As set forth in <cite doc="City of Baltimore, Md., Charter" path="I|§15|(a)|(2)">City Charter Article I, § 15(a)(2)</cite>, the purposes of the Fund include:</text>
           <para>
             <num>(1)</num>
             <text>providing direct funding to candidates for public office who meet certain qualifications;</text>
@@ -1504,7 +1504,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>There is a Baltimore City Fair Election Fund Commission as specified in City Charter Article I, § 15(b).</text>
+          <text>There is a Baltimore City Fair Election Fund Commission as specified in <cite doc="City of Baltimore, Md., Charter" path="I|§15|(b)">City Charter Article I, § 15(b)</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1577,7 +1577,7 @@
         <prefix>§</prefix>
         <num>11-9</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director, in consultation with the Commission, must adopt rules and regulations to carry out the provisions of this subtitle, including specifying:</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director, in consultation with the Commission, must adopt rules and regulations to carry out the provisions of this subtitle, including specifying:</text>
         <para>
           <num>(1)</num>
           <text>how and when receipts for qualifying contributions from contributors must be submitted to the State Board;</text>
@@ -1953,7 +1953,7 @@
           <heading>Applicant candidate certification.</heading>
           <para>
             <num>(1)</num>
-            <text>Subject to paragraph (2) of this subsection, on notice of the State Board's certification of an applicant candidate, the Director must disperse the appropriate public contribution under § 11-17 {"Distribution of public contribution"} of this subtitle.</text>
+            <text>Subject to paragraph (2) of this subsection, on notice of the State Board's certification of an applicant candidate, the Director must disperse the appropriate public contribution under <cite path="|5|§11-17">§ 11-17 {"Distribution of public contribution"} of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2347,11 +2347,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil citations"}.</text>
           </para>
         </para>
         <para>
@@ -2448,7 +2448,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Committee shall be appointed by the Mayor pursuant to Article IV, § 6 of the City Charter.  The Committee shall have such number of members as the Mayor may deem appropriate to carry out its function.</text>
+          <text>The Committee shall be appointed by the Mayor pursuant to <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.  The Committee shall have such number of members as the Mayor may deem appropriate to carry out its function.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2515,7 +2515,7 @@
       <para>
         <num>(a)</num>
         <heading>By Office of Risk Management.</heading>
-        <text>The Self-Insurance Fund shall be administered by the Office of Risk Management in the Department of Finance, headed by the Risk Management Officer who shall be appointed by the Director of Finance under the provisions of the City Charter relating to the classified civil service.</text>
+        <text>The Self-Insurance Fund shall be administered by the Office of Risk Management in the Department of Finance, headed by the Risk Management Officer who shall be appointed by the Director of Finance under the provisions of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> relating to the classified civil service.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2531,7 +2531,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Pursuant to Article V, § 3 of the City Charter, the Comptroller shall obtain insurance approved by the Board of Estimates.</text>
+          <text>Pursuant to <cite doc="City of Baltimore, Md., Charter" path="V|§3">Article V, § 3 of the City Charter</cite>, the Comptroller shall obtain insurance approved by the Board of Estimates.</text>
         </para>
       </para>
       <annotations>
@@ -2624,7 +2624,7 @@
       <para>
         <num>(e)</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Estimates shall have the authority to promulgate rules and regulations for the administration of this program.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Estimates shall have the authority to promulgate rules and regulations for the administration of this program.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §202</annotation>
@@ -2669,7 +2669,7 @@
       <prefix>§</prefix>
       <num>13-4</num>
       <heading>Liability Reserve Fund — when to be used.</heading>
-      <text>The Liability Reserve Fund shall be used to pay any losses which the Mayor and City Council of Baltimore sustains pursuant to its Self-Insurance Program, only after the sums provided for in § 13-2 of this subtitle have been fully expended or encumbered.</text>
+      <text>The Liability Reserve Fund shall be used to pay any losses which the Mayor and City Council of Baltimore sustains pursuant to its Self-Insurance Program, only after the sums provided for in <cite path="|5|§13-2">§ 13-2 of this subtitle</cite> have been fully expended or encumbered.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §204</annotation>
         <annotation doc="City of Balt., Md., Ord. 86-774" type="History">Ord. 86-774</annotation>
@@ -2816,7 +2816,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>subject to an appropriation of funds in accordance with the City Charter, process and distribute vouchers to voucher-eligible applicants prior to disbursing any rebates to rebate-eligible applicants.</text>
+          <text>subject to an appropriation of funds in accordance with <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, process and distribute vouchers to voucher-eligible applicants prior to disbursing any rebates to rebate-eligible applicants.</text>
         </para>
       </para>
       <annotations>
@@ -2842,7 +2842,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>submit a rebate application to the Director as required by § 14-5 {"Rebate application"} of this subtitle.</text>
+        <text>submit a rebate application to the Director as required by <cite path="|5|§14-5">§ 14-5 {"Rebate application"} of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 20-355" type="History">Ord. 20-355</annotation>
@@ -2914,7 +2914,7 @@
         <heading>In general.</heading>
         <para>
           <num>(1)</num>
-          <text>On approval of a rebate application submitted in accordance with § 14-5 {"Rebate application"} of this subtitle, the Director shall provide a rebate of the lesser of $150 or the actual cost of the system.</text>
+          <text>On approval of a rebate application submitted in accordance with <cite path="|5|§14-5">§ 14-5 {"Rebate application"} of this subtitle</cite>, the Director shall provide a rebate of the lesser of $150 or the actual cost of the system.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2938,7 +2938,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Availability of rebates is subject to the appropriation of funds in accordance with the City Charter.</text>
+          <text>Availability of rebates is subject to the appropriation of funds in accordance with <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
         </para>
       </para>
       <para>
@@ -3019,12 +3019,12 @@
         <para>
           <num>(2)</num>
           <heading>Value.</heading>
-          <text>A voucher under this section may not exceed the amount for a rebate claim under § 14-6 {"Rebate amount"} of this subtitle.</text>
+          <text>A voucher under this section may not exceed the amount for a rebate claim under <cite path="|5|§14-6">§ 14-6 {"Rebate amount"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
           <heading>Availability.</heading>
-          <text>Availability of vouchers is subject to the appropriation of funds in accordance with the City Charter.</text>
+          <text>Availability of vouchers is subject to the appropriation of funds in accordance with <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -3047,7 +3047,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article and the requirements in this section, the Director shall adopt rules and regulations to carry out the provisions of this subtitle, including:</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite> and the requirements in this section, the Director shall adopt rules and regulations to carry out the provisions of this subtitle, including:</text>
         <para>
           <num>(1)</num>
           <text>the requirements for proofs of purchase and system verification;</text>
@@ -3058,15 +3058,15 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>in collaboration with the Department of Planning and the Mayor's Office of Criminal Justice, identification of priority areas for rebates based on violent crime indicators and socio-economic status as required by § 14-6 {"Rebate amount"} of this subtitle;</text>
+          <text>in collaboration with the Department of Planning and the Mayor's Office of Criminal Justice, identification of priority areas for rebates based on violent crime indicators and socio-economic status as required by <cite path="|5|§14-6">§ 14-6 {"Rebate amount"} of this subtitle</cite>;</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>procedures for participating in the voucher program established by § 14-8 {"Vouchers"} of this subtitle; and</text>
+          <text>procedures for participating in the voucher program established by <cite path="|5|§14-8">§ 14-8 {"Vouchers"} of this subtitle</cite>; and</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>in consultation with the Mayor's Office of Criminal Justice, identification of priority areas for vouchers based on violent crime indicators as required by § 14-8(d) {"Vouchers: Distribution"} of this subtitle.</text>
+          <text>in consultation with the Mayor's Office of Criminal Justice, identification of priority areas for vouchers based on violent crime indicators as required by <cite path="|5|§14-8|(d)" proof="needed">§ 14-8(d) {"Vouchers: Distribution"} of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -3231,7 +3231,7 @@
       <prefix>§</prefix>
       <num>15-4</num>
       <heading>Assessments; Legislative and policy recommendations.</heading>
-      <text>Utilizing the data contained in the report required by § 15-2 {"Reporting – In general"} of this subtitle, the Mayor's Office of Small Business (or its successor office, agency, or unit) shall, no later than June 30 of each year, submit a report to the Mayor and City Council setting forth:</text>
+      <text>Utilizing the data contained in the report required by <cite path="|5|§15-2">§ 15-2 {"Reporting – In general"} of this subtitle</cite>, the Mayor's Office of Small Business (or its successor office, agency, or unit) shall, no later than June 30 of each year, submit a report to the Mayor and City Council setting forth:</text>
       <para>
         <num>(1)</num>
         <text>an assessment of the difficulties or obstacles that employee-owned businesses encounter when competing for City contracts; and</text>
@@ -3353,7 +3353,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>such other person and in such manner as the Board of Estimates, in the exercise of the power vested in it by Article V, § 5 of the City Charter, may hereafter from time to time designate.</text>
+          <text>such other person and in such manner as the Board of Estimates, in the exercise of the power vested in it by <cite doc="City of Baltimore, Md., Charter" path="V|§5">Article V, § 5 of the City Charter</cite>, may hereafter from time to time designate.</text>
         </para>
       </para>
       <para>
@@ -3371,7 +3371,7 @@
       <prefix>§</prefix>
       <num>17-2</num>
       <heading>Negotiations confirmed.</heading>
-      <text>Any acquisition of real property or an interest therein, and any and all negotiations for the purpose of acquiring real property or an interest therein made on behalf of the Mayor and City Council of Baltimore by such persons who shall have been designated by the aforesaid divers ordinances, or by the Department of Real Estate, or by the Board of Estimates in the exercise of the authority vested in it by § 39 of the Baltimore City Charter as aforesaid <em>{cf. Article V, §5(a) of the City Charter (1996 Edition)}</em>, are hereby ratified and confirmed, and shall be deemed to have been made by the persons designated in the aforesaid divers ordinances as the persons to negotiate for and acquire property on behalf of the Mayor and City Council of Baltimore, it being hereby declared to have been the legislative intent of said divers ordinances in purporting to designate the persons to negotiate for and acquire property on behalf of the Mayor and City Council of Baltimore to have named the persons designated by the Board of Estimates in the exercise of the powers vested in it by § 39 of the Baltimore City Charter, as aforesaid <em>{cf. Article V, §5(a)}</em>.</text>
+      <text>Any acquisition of real property or an interest therein, and any and all negotiations for the purpose of acquiring real property or an interest therein made on behalf of the Mayor and City Council of Baltimore by such persons who shall have been designated by the aforesaid divers ordinances, or by the Department of Real Estate, or by the Board of Estimates in the exercise of the authority vested in it by § 39 of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite> as aforesaid <em>{cf. Article V, §5(a) of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> (1996 Edition)}</em>, are hereby ratified and confirmed, and shall be deemed to have been made by the persons designated in the aforesaid divers ordinances as the persons to negotiate for and acquire property on behalf of the Mayor and City Council of Baltimore, it being hereby declared to have been the legislative intent of said divers ordinances in purporting to designate the persons to negotiate for and acquire property on behalf of the Mayor and City Council of Baltimore to have named the persons designated by the Board of Estimates in the exercise of the powers vested in it by § 39 of <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>, as aforesaid <em>{cf. Article V, §5(a)}</em>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 1, §81(b)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 1, §82(b)</annotation>
@@ -3416,7 +3416,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>The Department of Transportation shall promptly notify the owners of the properties in the area, as shown on the records kept by the Department under City Charter Article VII, § 116(j), of the ordinance's introduction.</text>
+        <text>The Department of Transportation shall promptly notify the owners of the properties in the area, as shown on the records kept by the Department under <cite doc="City of Baltimore, Md., Charter" path="VII|§116|(j)">City Charter Article VII, § 116(j)</cite>, of the ordinance's introduction.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3488,7 +3488,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Where the City is required by law or contract to subject real property to an appraisal, that appraisal shall be performed by a real estate appraiser who is certified or licensed under the provisions of Title 16 – "Real Estate Appraisers" of the Business Occupations and Professions Article of the Annotated Code of Maryland.</text>
+        <text>Where the City is required by law or contract to subject real property to an appraisal, that appraisal shall be performed by a real estate appraiser who is certified or licensed under the provisions of <cite doc="Md. Code" path="gbo">Title 16 – "Real Estate Appraisers" of the Business Occupations and Professions Article of the Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3611,7 +3611,7 @@
       <prefix>§</prefix>
       <num>20-4</num>
       <heading>Subtitle inapplicable to streets.</heading>
-      <text>This subtitle shall not apply to the naming of streets as provided in Article 26, Subtitle 7 of the City Code.</text>
+      <text>This subtitle shall not apply to the naming of streets as provided in <cite path="|26">Article 26</cite>, Subtitle 7 of the City Code.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §229(e)</annotation>
         <annotation doc="City of Balt., Md., Ord. 89-268" type="History">Ord. 89-268</annotation>
@@ -3623,7 +3623,7 @@
     <num>20A</num>
     <heading>Demolition of City Property</heading>
     <annotations>
-      <annotation type="Editor's Notes">This subtitle was added by Ordinance 16-451 (Bill 15-590), effective March 9, 2016.  Bill 15-590 passed the City Council on January 11, 2016.  Pursuant to City Charter Art. IV, § 5(c), that bill became law February 8, 2016, without the Mayor’s signature.  See also Note to § 20A-1(b) of this subtitle.</annotation>
+      <annotation type="Editor's Notes">This subtitle was added by Ordinance 16-451 (Bill 15-590), effective March 9, 2016.  Bill 15-590 passed the City Council on January 11, 2016.  Pursuant to <cite doc="City of Baltimore, Md., Charter" path="IV|§5|(c)">City Charter Art. IV, § 5(c)</cite>, that bill became law February 8, 2016, without the Mayor’s signature.  See also Note to § 20A-1(b) of this subtitle.</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -3686,12 +3686,12 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
           <heading>Inclusion of governmental entities.</heading>
-          <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
         </para>
       </para>
       <annotations>
@@ -3755,7 +3755,7 @@
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 16-451" type="History">Ord. 16-451</annotation>
-        <annotation type="Editor's Notes">See Note to § 20A-1(b) of this subtitle for this section’s limited application to school buildings.</annotation>
+        <annotation type="Editor's Notes">See Note to <cite path="|5|§20A-1|(b)">§ 20A-1(b) of this subtitle</cite> for this section’s limited application to school buildings.</annotation>
       </annotations>
     </section>
     <section>
@@ -3859,7 +3859,7 @@
         <para>
           <num>(b)</num>
           <heading>Artwork allocation.</heading>
-          <text>"Artwork allocation" means the amount required by § 21-16 of this subtitle to be allocated to artwork.</text>
+          <text>"Artwork allocation" means the amount required by <cite path="|5|§21-16">§ 21-16 of this subtitle</cite> to be allocated to artwork.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3999,7 +3999,7 @@
           <text>The Commission consists of 9 members, as follows:</text>
           <para>
             <num>(1)</num>
-            <text>8 appointed by the Mayor and approved by the City Council under Article IV, § 6 of the City Charter; and</text>
+            <text>8 appointed by the Mayor and approved by the City Council under <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4097,7 +4097,7 @@
         <para>
           <num>(a)</num>
           <heading>Commission to adopt.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission shall adopt rules and regulations to carry out this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commission shall adopt rules and regulations to carry out this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4267,7 +4267,7 @@
           <text>Based on the consultation, the Commission shall determine within 90 days:</text>
           <para>
             <num>(1)</num>
-            <text>the aggregate amount of the artwork allocation required by § 21-16 of this subtitle; and</text>
+            <text>the aggregate amount of the artwork allocation required by <cite path="|5|§21-16">§ 21-16 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4307,7 +4307,7 @@
         <prefix>§</prefix>
         <num>21-20</num>
         <heading>Allocation of funds.</heading>
-        <text>On the award of a contract for the project, the contracting agency shall notify the Department of Finance that the aggregate amount of the artwork allocation, as determined under § 21-18(b) of this subtitle, shall be transferred as it become available to a capital account to be used for purposes of this subtitle.</text>
+        <text>On the award of a contract for the project, the contracting agency shall notify the Department of Finance that the aggregate amount of the artwork allocation, as determined under <cite path="|5|§21-18|(b)">§ 21-18(b) of this subtitle</cite>, shall be transferred as it become available to a capital account to be used for purposes of this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-489" type="History">Ord. 07-489</annotation>
         </annotations>
@@ -4539,7 +4539,7 @@
       <prefix>§</prefix>
       <num>24-2</num>
       <heading>Bid bonds.</heading>
-      <text>Pursuant to the provisions of Article VI, § 11(h) of the City Charter, a bidder on a contract for any public work or the purchase of any supplies, materials, equipment, or services for the City or by any municipal agency is required to post a bid bond if the bid is more than $100,000.</text>
+      <text>Pursuant to the provisions of <cite doc="City of Baltimore, Md., Charter" path="VI|§11|(h)">Article VI, § 11(h) of the City Charter</cite>, a bidder on a contract for any public work or the purchase of any supplies, materials, equipment, or services for the City or by any municipal agency is required to post a bid bond if the bid is more than $100,000.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §18A(1st par.)</annotation>
         <annotation doc="City of Balt., Md., Ord. 89-349" type="History">Ord. 89-349</annotation>
@@ -4718,7 +4718,7 @@
       <para>
         <num>(b)</num>
         <heading>How computed.</heading>
-        <text>No overtime hours, however, shall be compensated for more than once and overtime shall be paid only on the regular hourly rate of pay and not on the fringe benefits or their cash equivalents, provided for in § 25-17 of this subtitle.</text>
+        <text>No overtime hours, however, shall be compensated for more than once and overtime shall be paid only on the regular hourly rate of pay and not on the fringe benefits or their cash equivalents, provided for in <cite path="|5|§25-17">§ 25-17 of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1950, art. 1, §14(b)</annotation>
@@ -4780,7 +4780,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>In such a case, the Wage Commission may, pursuant to similar procedures as provided in Article 11, Subtitle 1 of the Baltimore City Code, as amended, order appropriate restitution or the reinstatement of such employee with backpay to the date of violation.</text>
+          <text>In such a case, the Wage Commission may, pursuant to similar procedures as provided in <cite path="|11">Article 11</cite>, Subtitle 1 of the Baltimore City Code, as amended, order appropriate restitution or the reinstatement of such employee with backpay to the date of violation.</text>
         </para>
       </para>
       <annotations>
@@ -5210,7 +5210,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Estimates is hereby authorized and empowered to make any and all rules and regulations that, from time to time, may be necessary to effectuate the purpose of this subtitle, including, but not limited to, the authority to make a final determination as to the amount of restitution and the amount of liquidated damages to be assessed for violations of the provisions of this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board of Estimates is hereby authorized and empowered to make any and all rules and regulations that, from time to time, may be necessary to effectuate the purpose of this subtitle, including, but not limited to, the authority to make a final determination as to the amount of restitution and the amount of liquidated damages to be assessed for violations of the provisions of this subtitle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -5323,7 +5323,7 @@
       <para>
         <num>(c)</num>
         <heading>Living hourly wage rate.</heading>
-        <text>"Living hourly wage rate" means the rate established by the Board of Estimates under the formula set forth in § 26-16 of this subtitle, as the minimum hourly wage rate that must be paid a worker employed by a service contractor.</text>
+        <text>"Living hourly wage rate" means the rate established by the Board of Estimates under the formula set forth in <cite path="|5|§26-16">§ 26-16 of this subtitle</cite>, as the minimum hourly wage rate that must be paid a worker employed by a service contractor.</text>
       </para>
       <para name="(d)">
         <num>(d)</num>
@@ -5355,7 +5355,7 @@
       <prefix>§</prefix>
       <num>26-2</num>
       <heading>Scope of subtitle.</heading>
-      <text>The provisions of this subtitle shall apply exclusively to service contracts and shall not be construed to conflict with Subtitle 25 of this article on Construction Contracts or any provisions on construction contracts as provided in this subtitle.</text>
+      <text>The provisions of this subtitle shall apply exclusively to service contracts and shall not be construed to conflict with Subtitle 25 of <cite path="|5">this article</cite> on Construction Contracts or any provisions on construction contracts as provided in this subtitle.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §26A(k)</annotation>
         <annotation doc="City of Balt., Md., Ord. 94-442" type="History">Ord. 94-442</annotation>
@@ -5497,7 +5497,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>In such a case, the Wage Commission may, pursuant to similar procedures as provided in Article 11, Subtitle 4 of the Baltimore City Code, as amended, order appropriate restitution and the reinstatement of such employee with back pay to the date of violation.</text>
+          <text>In such a case, the Wage Commission may, pursuant to similar procedures as provided in <cite path="|11">Article 11</cite>, Subtitle 4 of the Baltimore City Code, as amended, order appropriate restitution and the reinstatement of such employee with back pay to the date of violation.</text>
         </para>
       </para>
       <annotations>
@@ -5804,7 +5804,7 @@
       <prefix>§</prefix>
       <num>26-18</num>
       <heading>Manner of administration.</heading>
-      <text>The Board of Estimates and the Wage Commission shall administer and enforce the provisions of this subtitle in the same manner that the Board of Estimates and the Wage Commission administer and enforce the provisions of Subtitle 25 of this article on Construction Contracts.</text>
+      <text>The Board of Estimates and the Wage Commission shall administer and enforce the provisions of this subtitle in the same manner that the Board of Estimates and the Wage Commission administer and enforce the provisions of Subtitle 25 of <cite path="|5">this article</cite> on Construction Contracts.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §26A(j)</annotation>
         <annotation doc="City of Balt., Md., Ord. 94-442" type="History">Ord. 94-442</annotation>
@@ -5834,7 +5834,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>service contracts, as defined in § 26-1(e) of this article.</text>
+        <text>service contracts, as defined in <cite path="|5|§26-1|(e)">§ 26-1(e) of this article</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 22-10" type="History">Ord. 22-10</annotation>
@@ -5902,7 +5902,7 @@
       <prefix>§</prefix>
       <num>26A-3</num>
       <heading>Sign location.</heading>
-      <text>A copy of the labor trafficking sign required by § 26A-2 {"Requirements"} of this subtitle shall be posted by the contractor at the site of the work in a clear and conspicuous place where it can be easily seen and read by the workers.  Example areas include break rooms, locker rooms, cafeterias, and other similar locations.</text>
+      <text>A copy of the labor trafficking sign required by <cite path="|5|§26A-2">§ 26A-2 {"Requirements"} of this subtitle</cite> shall be posted by the contractor at the site of the work in a clear and conspicuous place where it can be easily seen and read by the workers.  Example areas include break rooms, locker rooms, cafeterias, and other similar locations.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 22-10" type="History">Ord. 22-10</annotation>
       </annotations>
@@ -5922,7 +5922,7 @@
         <para>
           <num>(2)</num>
           <heading>Authorization to issue.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code Article 1, Subtitle 40.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40.</text>
         </para>
       </para>
       <para>
@@ -5945,7 +5945,7 @@
     <num>27</num>
     <heading>Local Hiring</heading>
     <annotations>
-      <annotation type="Editor's Notes">This subtitle was added by Ordinance 13-142, effective December 22, 2013.  Pursuant to City Charter Art. IV, § 5(c), Bill 12-159 became law on June 25, 2013, as Ord. 13-102, without the Mayor’s signature.</annotation>
+      <annotation type="Editor's Notes">This subtitle was added by Ordinance 13-142, effective December 22, 2013.  Pursuant to <cite doc="City of Baltimore, Md., Charter" path="IV|§5|(c)">City Charter Art. IV, § 5(c)</cite>, Bill 12-159 became law on June 25, 2013, as Ord. 13-102, without the Mayor’s signature.</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -6086,7 +6086,7 @@
       <prefix>§</prefix>
       <num>27-7</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, MOED may adopt rules and regulations to carry out this subtitle or to clarify any terms or phrases in this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, MOED may adopt rules and regulations to carry out this subtitle or to clarify any terms or phrases in this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 13-142" type="History">Ord. 13-142</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
@@ -6126,7 +6126,7 @@
         <heading>Initial employment plan.</heading>
         <para>
           <num>(1)</num>
-          <text>A bidder responding to a solicitation that qualifies them as a "beneficiary" under § 25-1(b) of this article must include in their bid or proposal an initial employment plan outlining the bidder's strategy to:</text>
+          <text>A bidder responding to a solicitation that qualifies them as a "beneficiary" under <cite path="|5|§25-1|(b)">§ 25-1(b) of this article</cite> must include in their bid or proposal an initial employment plan outlining the bidder's strategy to:</text>
           <para>
             <num>(i)</num>
             <text>comply with the local hiring requirements of this subtitle; and</text>
@@ -6161,7 +6161,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>a description of past compliance with all contract requirements detailed in this article, including whether the bidder has filed all information required by reporting requirements for recent contracts on time;</text>
+            <text>a description of past compliance with all contract requirements detailed in <cite path="|5">this article</cite>, including whether the bidder has filed all information required by reporting requirements for recent contracts on time;</text>
           </para>
           <para>
             <num>(v)</num>
@@ -6738,7 +6738,7 @@
           <prefix>§</prefix>
           <num>28-11</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Office may adopt rules and regulations to carry out this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Office may adopt rules and regulations to carry out this subtitle.</text>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 00-098" type="History">Ord. 00-098</annotation>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
@@ -6753,7 +6753,7 @@
           <para>
             <num>(a)</num>
             <heading>Authority of Board of Estimates not abrogated.</heading>
-            <text>Nothing in this subtitle abrogates the authority of the Board of Estimates to award contracts under Article VI, § 11 of the City Charter.</text>
+            <text>Nothing in this subtitle abrogates the authority of the Board of Estimates to award contracts under <cite doc="City of Baltimore, Md., Charter" path="VI|§11">Article VI, § 11 of the City Charter</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -6763,7 +6763,7 @@
           <para>
             <num>(c)</num>
             <heading>Authority of Finance Department not abrogated.</heading>
-            <text>Nothing in this subtitle abrogates the authority of the Department of Finance to insure that competitive bidding is used and competitive prices are obtained in purchasing materials, supplies, equipment, and services to the fullest practicable extent, under Article VII, § 17, of the City Charter.</text>
+            <text>Nothing in this subtitle abrogates the authority of the Department of Finance to insure that competitive bidding is used and competitive prices are obtained in purchasing materials, supplies, equipment, and services to the fullest practicable extent, under Article VII, § 17, of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 00-098" type="History">Ord. 00-098</annotation>
@@ -7589,12 +7589,12 @@
           <para>
             <num>(a)</num>
             <heading>In general.</heading>
-            <text>In the event that competitive bids are not obtained due to an emergency in accordance with Article VI, § 11(e) of the Baltimore City Charter, the contracting agency must meet the requirements set forth in subsection (b) of this section that will serve as its utilization requirements.</text>
+            <text>In the event that competitive bids are not obtained due to an emergency in accordance with <cite doc="City of Baltimore, Md., Charter" path="VI|§11|(e)">Article VI, § 11(e) of the Baltimore City Charter</cite>, the contracting agency must meet the requirements set forth in subsection (b) of this section that will serve as its utilization requirements.</text>
           </para>
           <para>
             <num>(b)</num>
             <heading>Emergency utilization requirements.</heading>
-            <text>If an emergency procurement under Article VI, § 11(e) of the Baltimore City Charter is necessary, a contracting agency shall:</text>
+            <text>If an emergency procurement under <cite doc="City of Baltimore, Md., Charter" path="VI|§11|(e)">Article VI, § 11(e) of the Baltimore City Charter</cite> is necessary, a contracting agency shall:</text>
             <para>
               <num>(1)</num>
               <text>contact the Office for assistance in finding MBE and WBE contractors or subcontractors that can provide the goods or services needed;</text>
@@ -7619,7 +7619,7 @@
             <para>
               <num>(1)</num>
               <heading>In general.</heading>
-              <text>As soon as possible after the execution of any emergency procurement under Article VI, § 11(e) of the Baltimore City Charter was necessary, but no later than 45 days after the contract execution, the agency shall submit a report to the Board of Estimates and the Office stating:</text>
+              <text>As soon as possible after the execution of any emergency procurement under <cite doc="City of Baltimore, Md., Charter" path="VI|§11|(e)">Article VI, § 11(e) of the Baltimore City Charter</cite> was necessary, but no later than 45 days after the contract execution, the agency shall submit a report to the Board of Estimates and the Office stating:</text>
               <para>
                 <num>(i)</num>
                 <text>the name and address of the selected contractor;</text>
@@ -8565,7 +8565,7 @@
           <para>
             <num>(d)</num>
             <heading>Emerging SLBE.</heading>
-            <text>"Emerging SLBE" means a firm that meets the eligibility requirements specified in § 28-107(a) {"Certification as Emerging SLBE: Eligibility"} of this chapter.</text>
+            <text>"Emerging SLBE" means a firm that meets the eligibility requirements specified in <cite path="|5|§28-107|(a)">§ 28-107(a) {"Certification as Emerging SLBE: Eligibility"} of this chapter</cite>.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -8599,7 +8599,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>The term "professional services" as used in this chapter is not intended to be restricted to those professional services that are exempted from formal advertising requirements pursuant to Article VI, § 11, of the City Charter or competitive bidding requirements pursuant to Article VII, § 17, of the City Charter.</text>
+              <text>The term "professional services" as used in this chapter is not intended to be restricted to those professional services that are exempted from formal advertising requirements pursuant to Article VI, § 11, of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> or competitive bidding requirements pursuant to Article VII, § 17, of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
             </para>
           </para>
           <para>
@@ -8615,7 +8615,7 @@
           <para>
             <num>(k)</num>
             <heading>Small local business enterprise; SLBE.</heading>
-            <text>"Small local business enterprise" or "SLBE" means a firm that meets the eligibility requirements specified in § 28-105(a) {" Eligibility for SLBE Program: General eligibility requirements"} of this chapter.</text>
+            <text>"Small local business enterprise" or "SLBE" means a firm that meets the eligibility requirements specified in <cite path="|5|§28-105|(a)">§ 28-105(a) {" Eligibility for SLBE Program: General eligibility requirements"} of this chapter</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
@@ -8645,7 +8645,7 @@
           <para>
             <num>(b)</num>
             <heading>Scope and limitations.</heading>
-            <text>This SLBE Program may be applied by the City on a contract-by-contract basis to the maximum practicable extent permissible under federal and state law, as well as the City Charter.</text>
+            <text>This SLBE Program may be applied by the City on a contract-by-contract basis to the maximum practicable extent permissible under federal and state law, as well as <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
@@ -8704,7 +8704,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, adopt rules and regulations to carry out this chapter; and</text>
+            <text>subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopt rules and regulations to carry out this chapter; and</text>
           </para>
           <para>
             <num>(6)</num>
@@ -8865,7 +8865,7 @@
           <para>
             <num>(c)</num>
             <heading>Periodic City review.</heading>
-            <text>The Board of Estimates, or its designee, must periodically review the SLBE Program to determine whether the various contracting procedures used to enhance SLBE contract participation need to be adjusted or used more or less aggressively in future years to achieve the goals stated in § 28-97 {"Purpose; Scope"} and § 28-98 {"Program objectives"} of this chapter.</text>
+            <text>The Board of Estimates, or its designee, must periodically review the SLBE Program to determine whether the various contracting procedures used to enhance SLBE contract participation need to be adjusted or used more or less aggressively in future years to achieve the goals stated in § 28-97 {"Purpose; Scope"} and <cite path="|5|§28-98">§ 28-98 {"Program objectives"} of this chapter</cite>.</text>
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 16-595" type="History">Ord. 16-595</annotation>
@@ -9309,7 +9309,7 @@
             <heading>Public works contracts.</heading>
             <para>
               <num>(1)</num>
-              <text>Subject to applicable federal and state law, as well as the City Charter, and applicable regulations, policies, and procedures, the Board of Estimates, on the recommendation of the contracting agency, may waive or reduce the bonding or insurance requirements for public works contracts, depending on the type of contract and whether the contracting agency determines that the bonding or insurance requirements would deny an SLBE, or Emerging SLBE, an opportunity to perform a contract that the SLBE or Emerging SLBE has shown itself otherwise capable of performing.</text>
+              <text>Subject to applicable federal and state law, as well as <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, and applicable regulations, policies, and procedures, the Board of Estimates, on the recommendation of the contracting agency, may waive or reduce the bonding or insurance requirements for public works contracts, depending on the type of contract and whether the contracting agency determines that the bonding or insurance requirements would deny an SLBE, or Emerging SLBE, an opportunity to perform a contract that the SLBE or Emerging SLBE has shown itself otherwise capable of performing.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -9321,7 +9321,7 @@
             <heading>All other contracts.</heading>
             <para>
               <num>(1)</num>
-              <text>Subject to applicable federal and state law, as well as the City Charter, and applicable regulations, policies, and procedures, the Board of Estimates, on the recommendation of the Department of Finance, may waive or reduce the bonding or insurance requirements, depending on the type of contract and whether the Department determines that the bonding or insurance requirements would deny an SLBE or Emerging SLBE an opportunity to perform a contract that the SLBE or Emerging SLBE has shown itself otherwise capable of performing.</text>
+              <text>Subject to applicable federal and state law, as well as <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, and applicable regulations, policies, and procedures, the Board of Estimates, on the recommendation of the Department of Finance, may waive or reduce the bonding or insurance requirements, depending on the type of contract and whether the Department determines that the bonding or insurance requirements would deny an SLBE or Emerging SLBE an opportunity to perform a contract that the SLBE or Emerging SLBE has shown itself otherwise capable of performing.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -9743,7 +9743,7 @@
         <para>
           <num>(2)</num>
           <heading>Exclusion.</heading>
-          <text>"Discrimination" does not include otherwise lawful efforts, including those specified in Subtitle 28, {"Minority and Women's Business Enterprises"} of this Article, to remedy the effects of discrimination that has occurred or is occurring in the marketplace.</text>
+          <text>"Discrimination" does not include otherwise lawful efforts, including those specified in Subtitle 28, {"Minority and Women's Business Enterprises"} of <cite path="|5">this Article</cite>, to remedy the effects of discrimination that has occurred or is occurring in the marketplace.</text>
         </para>
       </para>
       <para>
@@ -9797,7 +9797,7 @@
           <text>This subtitle applies to all business firms and all contracts to which the City is a party.  A claim of discrimination may be investigated and adjudicated under this policy only if the claim alleges that:</text>
           <para>
             <num>(i)</num>
-            <text>the discrimination was committed by a business firm within the applicable limitations period set forth in § 29-7 of this subtitle; and</text>
+            <text>the discrimination was committed by a business firm within the applicable limitations period set forth in <cite path="|5|§29-7">§ 29-7 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -9971,7 +9971,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Consistent with the State Public Information Act, Title 4 of the State General Provisions Article, and with the State Open Meetings Act, Title 3 of the State General Provisions Article, the hearing examiner may issue protective orders for good cause for the following reasons:</text>
+        <text>Consistent with the State Public Information Act, Title 4 of the State <cite path="|general">General Provisions Article</cite>, and with the State Open Meetings Act, Title 3 of the State <cite path="|general">General Provisions Article</cite>, the hearing examiner may issue protective orders for good cause for the following reasons:</text>
         <para>
           <num>(1)</num>
           <text>to limit, or otherwise impose conditions on, access by any person to any document in the possession of a party, including a document in the City's possession or in the record of the hearing that is not a public record; or</text>
@@ -10072,7 +10072,7 @@
       <num>29-15</num>
       <heading>Mandatory nondiscrimination contract clause.</heading>
       <text>Every contract and subcontract shall contain a nondiscrimination clause that reads as follows:</text>
-      <text>Contractor shall not discriminate on the basis of race, gender, religion, national origin, ethnicity, sexual orientation, gender identity or expression, age, or disability in the solicitation, selection, hiring, or treatment of subcontractors, vendors, suppliers, or commercial customers.  Contractor shall provide equal opportunity for subcontractors to participate in all of its public sector and private sector subcontracting opportunities, provided that nothing contained in this clause shall prohibit or limit otherwise lawful efforts to remedy the effects of marketplace discrimination that has occurred or is occurring in the marketplace, such as those specified in Article 5, Subtitle 28 of the Baltimore City Code, as amended from time to time.  Contractor understands and agrees that violation of this clause is a material breach of the contract and may result in contract termination, debarment, or other sanctions.  This clause is not enforceable by or for the benefit of, and creates no obligation to, any third party.</text>
+      <text>Contractor shall not discriminate on the basis of race, gender, religion, national origin, ethnicity, sexual orientation, gender identity or expression, age, or disability in the solicitation, selection, hiring, or treatment of subcontractors, vendors, suppliers, or commercial customers.  Contractor shall provide equal opportunity for subcontractors to participate in all of its public sector and private sector subcontracting opportunities, provided that nothing contained in this clause shall prohibit or limit otherwise lawful efforts to remedy the effects of marketplace discrimination that has occurred or is occurring in the marketplace, such as those specified in <cite path="|5">Article 5</cite>, Subtitle 28 of the Baltimore City Code, as amended from time to time.  Contractor understands and agrees that violation of this clause is a material breach of the contract and may result in contract termination, debarment, or other sanctions.  This clause is not enforceable by or for the benefit of, and creates no obligation to, any third party.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 06-186" type="History">Ord. 06-186</annotation>
       </annotations>
@@ -10092,7 +10092,7 @@
       <num>29-17</num>
       <heading>Contract disclosure requirements.</heading>
       <text>Every contract shall include a clause that reads as follows:</text>
-      <text>Upon the City's request, and only after the filing of a complaint against Contractor pursuant to Article 5, Subtitle 29, of the Baltimore City Code, as amended from time to time, Contractor agrees to provide the City, within 60 calendar days, a truthful and complete list of the names of all subcontractors, vendors, and suppliers that Contractor has used in the past 4 years on any of its contracts that were undertaken within the Baltimore City Market Area as defined in Article 5, §28-1(d) of the Baltimore City Code, as amended from time to time, including the total dollar amount paid by Contractor for each subcontract or supply contract.  Contractor agrees to fully cooperate in any investigation conducted by the City pursuant to the City's Commercial Non-Discrimination Policy, as contained in Article 5, Subtitle 29, of the Baltimore City Code, as amended from time to time.  Contractor understands and agrees that violation of this clause is a material breach of the contract and may result in contract termination, debarment, and other sanctions.</text>
+      <text>Upon the City's request, and only after the filing of a complaint against Contractor pursuant to <cite path="|5">Article 5</cite>, Subtitle 29, of the Baltimore City Code, as amended from time to time, Contractor agrees to provide the City, within 60 calendar days, a truthful and complete list of the names of all subcontractors, vendors, and suppliers that Contractor has used in the past 4 years on any of its contracts that were undertaken within the Baltimore City Market Area as defined in <cite path="|5">Article 5</cite>, §28-1(d) of the Baltimore City Code, as amended from time to time, including the total dollar amount paid by Contractor for each subcontract or supply contract.  Contractor agrees to fully cooperate in any investigation conducted by the City pursuant to the City's Commercial Non-Discrimination Policy, as contained in <cite path="|5">Article 5</cite>, Subtitle 29, of the Baltimore City Code, as amended from time to time.  Contractor understands and agrees that violation of this clause is a material breach of the contract and may result in contract termination, debarment, and other sanctions.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 06-186" type="History">Ord. 06-186</annotation>
       </annotations>
@@ -10119,7 +10119,7 @@
       <prefix>§</prefix>
       <num>29-20</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City Solicitor may adopt rules and regulations to carry out this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the City Solicitor may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 06-186" type="History">Ord. 06-186</annotation>
         <annotation type="History">Text Conformed 02/14/21</annotation>
@@ -10187,7 +10187,7 @@
         <heading>Provider.</heading>
         <para>
           <num>(1)</num>
-          <text>"Provider" means a person licensed, certified, or otherwise authorized under the Health Occupations Article of the Annotated Code of Maryland to provide health care services in the ordinary course of business or practice of a profession.</text>
+          <text>"Provider" means a person licensed, certified, or otherwise authorized under the <cite doc="Md. Code" path="gho">Health Occupations Article of the Annotated Code of Maryland</cite> to provide health care services in the ordinary course of business or practice of a profession.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -10214,7 +10214,7 @@
         <heading>Prequalification criteria.</heading>
         <para>
           <num>(1)</num>
-          <text>Any person who submits to the City a bid or who contracts with the City to be a health care carrier or to provide health care services to Baltimore City employees or persons receiving health care through any entity funded by the City must prequalify pursuant to City Charter Article VI, §11(g), and the rules, regulations, and standards adopted by the Board of Estimates.</text>
+          <text>Any person who submits to the City a bid or who contracts with the City to be a health care carrier or to provide health care services to Baltimore City employees or persons receiving health care through any entity funded by the City must prequalify pursuant to <cite doc="City of Baltimore, Md., Charter" path="VI">City Charter Article VI</cite>, §11(g), and the rules, regulations, and standards adopted by the Board of Estimates.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -10248,7 +10248,7 @@
       <prefix>§</prefix>
       <num>30-3</num>
       <heading>Board of Estimates' authority.</heading>
-      <text>Nothing in this subtitle shall be deemed to abrogate the authority of the Board of Estimates to award contracts pursuant to the authority provided by Article VI, §11 of the City Charter<em>.</em></text>
+      <text>Nothing in this subtitle shall be deemed to abrogate the authority of the Board of Estimates to award contracts pursuant to the authority provided by Article VI, §11 of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite><em>.</em></text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §27C(c)</annotation>
         <annotation doc="City of Balt., Md., Ord. 96-004" type="History">Ord. 96-004</annotation>
@@ -10277,7 +10277,7 @@
         <heading>Provider.</heading>
         <para>
           <num>(1)</num>
-          <text>"Provider" means a person licensed, certified, or otherwise authorized under the Health Occupations Article of the Annotated Code of Maryland to provide health care services in the ordinary course of business or practice of a profession.</text>
+          <text>"Provider" means a person licensed, certified, or otherwise authorized under the <cite doc="Md. Code" path="gho">Health Occupations Article of the Annotated Code of Maryland</cite> to provide health care services in the ordinary course of business or practice of a profession.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -10410,7 +10410,7 @@
         <heading>Advertising required.</heading>
         <para>
           <num>(1)</num>
-          <text>In accordance with the provisions of Article VI, § 11 of the City Charter, in contracting for and purchase of foodstuffs and related perishables involving an expenditure of $40,000 or more, for the City or by any municipal agency, advertisements for proposals for the same shall first be published at least twice in 2 or more daily newspapers published in Baltimore City unless otherwise provided by the Charter.</text>
+          <text>In accordance with the provisions of <cite doc="City of Baltimore, Md., Charter" path="VI|§11">Article VI, § 11 of the City Charter</cite>, in contracting for and purchase of foodstuffs and related perishables involving an expenditure of $40,000 or more, for the City or by any municipal agency, advertisements for proposals for the same shall first be published at least twice in 2 or more daily newspapers published in Baltimore City unless otherwise provided by the Charter.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -10420,12 +10420,12 @@
       <para>
         <num>(b)</num>
         <heading>Contracts to comply with Charter.</heading>
-        <text>All such contracts for foodstuffs and related perishables shall be made by the Board of Estimates in the manner provided in Article VI, § 11(g) of the City Charter.</text>
+        <text>All such contracts for foodstuffs and related perishables shall be made by the Board of Estimates in the manner provided in <cite doc="City of Baltimore, Md., Charter" path="VI|§11|(g)">Article VI, § 11(g) of the City Charter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Exception.</heading>
-        <text>The provisions of this section may be dispensed with in accordance with the conditions and provisions of Article VI, § 11(d) of the City Charter.</text>
+        <text>The provisions of this section may be dispensed with in accordance with the conditions and provisions of <cite doc="City of Baltimore, Md., Charter" path="VI|§11|(d)">Article VI, § 11(d) of the City Charter</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 1, §88</annotation>
@@ -10437,7 +10437,7 @@
       <prefix>§</prefix>
       <num>32-2</num>
       <heading>Purchases of $20,000 or more, but less than $40,000.</heading>
-      <text>The contracting for and purchase of foodstuffs and related perishables involving an expenditure of more than $20,000 and less than $40,000, except those contracts awarded by the Board of Estimates pursuant to the provisions of Article VI, § 11(g) of the City Charter, shall be submitted to the Board of Estimates for its approval and shall be binding upon the City only when so approved.</text>
+      <text>The contracting for and purchase of foodstuffs and related perishables involving an expenditure of more than $20,000 and less than $40,000, except those contracts awarded by the Board of Estimates pursuant to the provisions of <cite doc="City of Baltimore, Md., Charter" path="VI|§11|(g)">Article VI, § 11(g) of the City Charter</cite>, shall be submitted to the Board of Estimates for its approval and shall be binding upon the City only when so approved.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code 1966, art. 1, §90</annotation>
         <annotation type="Prior Codifications">1976/83, art. 1, §91</annotation>
@@ -10578,7 +10578,7 @@
       <prefix>§</prefix>
       <num>33-4</num>
       <heading>Board of Estimates' authority.</heading>
-      <text>The provisions of this subtitle and their applications are subject to the authority of the Board of Estimates as set forth in Article VI, §11 of the City Charter.</text>
+      <text>The provisions of this subtitle and their applications are subject to the authority of the Board of Estimates as set forth in Article VI, §11 of <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §232(f)</annotation>
         <annotation doc="City of Balt., Md., Ord. 91-772" type="History">Ord. 91-772</annotation>
@@ -10605,7 +10605,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Commission consists of 21 members, 20 of whom are appointed by the Mayor in the manner prescribed by Article IV, § 6 of the City Charter.</text>
+          <text>The Commission consists of 21 members, 20 of whom are appointed by the Mayor in the manner prescribed by <cite doc="City of Baltimore, Md., Charter" path="IV|§6">Article IV, § 6 of the City Charter</cite>.</text>
         </para>
       </para>
       <para>
@@ -10717,7 +10717,7 @@
       <para>
         <num>(2)</num>
         <text>establish 3-, 5-, and10-year sustainability targets, including making City</text>
-        <text>government operations achieve, by January 1, 2045, net-zero emissions, as defined in City Code Article 1, § 34-1(f), while ensuring that capital investments associated with achieving net-zero emissions are prioritized to the extent possible in the communities most impacted by climate change and pollution, as determined by the Director</text>
+        <text>government operations achieve, by January 1, 2045, net-zero emissions, as defined in City Code <cite path="|1|§34-1|(f)">Article 1, § 34-1(f)</cite>, while ensuring that capital investments associated with achieving net-zero emissions are prioritized to the extent possible in the communities most impacted by climate change and pollution, as determined by the Director</text>
       </para>
       <para>
         <num>(3)</num>
@@ -10744,11 +10744,11 @@
         <text>set criteria and recommend mandatory measures for annual reporting to the City Council on:</text>
         <para>
           <num>(i)</num>
-          <text>Energy Consumption Reports, as required in City Code Article 5, § 45-2;</text>
+          <text>Energy Consumption Reports, as required in City Code <cite path="|5|§45-2">Article 5, § 45-2</cite>;</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Comprehensive Recycling and Composting Plan, as prescribed in City Code Article 23, § 16-2;</text>
+          <text>Comprehensive Recycling and Composting Plan, as prescribed in City Code <cite path="|23|§16-2">Article 23, § 16-2</cite>;</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -10994,7 +10994,7 @@
       <prefix>§</prefix>
       <num>35-6</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out the provisions of this subtitle.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations to carry out the provisions of this subtitle.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 1, §238</annotation>
         <annotation doc="City of Balt., Md., Ord. 91-773" type="History">Ord. 91-773</annotation>
@@ -11074,7 +11074,7 @@
       <para>
         <num>(b)</num>
         <heading>City.</heading>
-        <text>"City" means Mayor and City Council of Baltimore, the body politic and corporate as established by the Baltimore City Charter.</text>
+        <text>"City" means Mayor and City Council of Baltimore, the body politic and corporate as established by <cite doc="City of Baltimore, Md., Charter">the Baltimore City Charter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -11195,7 +11195,7 @@
       <para>
         <num>(a)</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations approved by the Board of Estimates to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance may adopt rules and regulations approved by the Board of Estimates to carry out this subtitle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -11450,7 +11450,7 @@
         <prefix>§</prefix>
         <num>40-3</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board may adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Board may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 00-005" type="History">Ord. 00-005</annotation>
           <annotation type="History">Text Conformed 02/14/21</annotation>
@@ -11543,7 +11543,7 @@
           </para>
           <para>
             <num>(7)</num>
-            <text>has been found in a final administrative determination to have violated the City's Commercial Non-Discrimination Policy, as set forth in Subtitle 29 of this article.</text>
+            <text>has been found in a final administrative determination to have violated the City's Commercial Non-Discrimination Policy, as set forth in Subtitle 29 of <cite path="|5">this article</cite>.</text>
           </para>
         </para>
         <para>
@@ -11772,7 +11772,7 @@
           <text>This section applies if:</text>
           <para>
             <num>(1)</num>
-            <text>a person is convicted of an offense described in § 40-5 {"Automatic debarment for certain bribery offenses"} of this subtitle; and</text>
+            <text>a person is convicted of an offense described in <cite path="|5|§40-5">§ 40-5 {"Automatic debarment for certain bribery offenses"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11785,7 +11785,7 @@
           <text>When the Board learns of the conviction, the Board shall:</text>
           <para>
             <num>(1)</num>
-            <text>notify the person of the person's automatic debarment under § 40-5 of this subtitle; and</text>
+            <text>notify the person of the person's automatic debarment under <cite path="|5|§40-5">§ 40-5 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11806,7 +11806,7 @@
           <text>This section applies if:</text>
           <para>
             <num>(1)</num>
-            <text>a person is subject to debarment under § 40-6 {"Other bribery offenses"}, § 40-7 {"Violations of other laws"}, or § 40-8 {"Other events"} of this subtitle; and</text>
+            <text>a person is subject to debarment under § 40-6 {"Other bribery offenses"}, § 40-7 {"Violations of other laws"}, or <cite path="|5|§40-8">§ 40-8 {"Other events"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11818,7 +11818,7 @@
           <heading>Notice of proposed debarment.</heading>
           <para>
             <num>(1)</num>
-            <text>When the Board receives information that indicates a basis for debarring a person under § 40-6, § 40-7, or § 40-8 of this subtitle, the Board may institute debarment proceedings by notice to that person.</text>
+            <text>When the Board receives information that indicates a basis for debarring a person under § 40-6, § 40-7, or <cite path="|5|§40-8">§ 40-8 of this subtitle</cite>, the Board may institute debarment proceedings by notice to that person.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11882,7 +11882,7 @@
           <text>A business is suspended to the same extent that a person is suspended under this section if:</text>
           <para>
             <num>(1)</num>
-            <text>the suspended person's debarment would cause the debarment of the business under § 40-20 {"Debarment of businesses"} of this subtitle; and</text>
+            <text>the suspended person's debarment would cause the debarment of the business under <cite path="|5|§40-20">§ 40-20 {"Debarment of businesses"} of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -11940,7 +11940,7 @@
         <para>
           <num>(b)</num>
           <heading>Factors to be considered.</heading>
-          <text>In a proceeding under § 40-6, § 40-7, or § 40-8 of this subtitle, the Board shall:</text>
+          <text>In a proceeding under § 40-6, § 40-7, or <cite path="|5|§40-8">§ 40-8 of this subtitle</cite>, the Board shall:</text>
           <para>
             <num>(1)</num>
             <text>determine whether the integrity of the contracting process and the best interests of the City would be served by debarring the person from entering into or performing contracts with the City; and</text>
@@ -12056,7 +12056,7 @@
         <para>
           <num>(b)</num>
           <heading>Bribery offenses.</heading>
-          <text>For a person debarred under § 40-5 or § 40-6 of this subtitle, the petition may be filed at any time after expiration of 5 years from:</text>
+          <text>For a person debarred under § 40-5 or <cite path="|5|§40-6">§ 40-6 of this subtitle</cite>, the petition may be filed at any time after expiration of 5 years from:</text>
           <para>
             <num>(1)</num>
             <text>the date of the debarment; or</text>
@@ -12069,7 +12069,7 @@
         <para>
           <num>(c)</num>
           <heading>Other causes.</heading>
-          <text>For a person debarred under § 40-7 or § 40-8 of this subtitle, the petition may be filed at any time after expiration of the earlier of:</text>
+          <text>For a person debarred under § 40-7 or <cite path="|5|§40-8">§ 40-8 of this subtitle</cite>, the petition may be filed at any time after expiration of the earlier of:</text>
           <para>
             <num>(1)</num>
             <text>one-half of the period of debarment; or</text>
@@ -12196,11 +12196,11 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>has been convicted of any offense described in § 40-7 of this subtitle;</text>
+            <text>has been convicted of any offense described in <cite path="|5|§40-7">§ 40-7 of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>has been found civilly liable under an antitrust statute as described in § 40-7 of this subtitle; or</text>
+            <text>has been found civilly liable under an antitrust statute as described in <cite path="|5|§40-7">§ 40-7 of this subtitle</cite>; or</text>
           </para>
           <para>
             <num>(4)</num>
@@ -12594,7 +12594,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>surveillance technology as defined in Article 19, § 18-1(f) {"Definitions:   Surveillance technology"}.</text>
+              <text>surveillance technology as defined in <cite path="|19|§18-1|(f)" proof="needed">Article 19, § 18-1(f) {"Definitions:   Surveillance technology"}</cite>.</text>
             </para>
           </para>
         </para>
@@ -12877,7 +12877,7 @@
     <num>49</num>
     <heading>American Rescue Plan Funds</heading>
     <annotations>
-      <annotation type="Editor's Notes">Pursuant to Charter Art.  IV, § 5(c), this subtitle was enacted by Ordinance 22-107 without the Mayor’s signature, on January 11, 2022.  Section 2 of that Ordinance provides that it takes effect on February 10, 2022 (“the 30th day after the date it is enacted”) and that “[i]t shall remain effective until September 24, 2024; and, immediately after that date with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect”.</annotation>
+      <annotation type="Editor's Notes">Pursuant to Charter Art.  IV, <cite path="|5|§5|(c)" proof="needed">§ 5(c), this subtitle</cite> was enacted by Ordinance 22-107 without the Mayor’s signature, on January 11, 2022.  Section 2 of that Ordinance provides that it takes effect on February 10, 2022 (“the 30th day after the date it is enacted”) and that “[i]t shall remain effective until September 24, 2024; and, immediately after that date with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect”.</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -12956,7 +12956,7 @@
           <text>identify key performance indicators, benchmarks, and targets relating to:</text>
           <para>
             <num>(i)</num>
-            <text>equity, as defined in Article 1, § 39-1 of the Baltimore City Code;</text>
+            <text>equity, as defined in <cite path="|1|§39-1">Article 1, § 39-1</cite> of the Baltimore City Code;</text>
           </para>
           <para>
             <num>(ii)</num>

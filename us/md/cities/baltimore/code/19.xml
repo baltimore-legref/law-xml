@@ -119,11 +119,11 @@
         <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
         <para>
           <num>(1)</num>
-          <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
       </para>
       <para>
@@ -311,7 +311,7 @@
       <text>The possession of body armor by and the  sale or other transfer of body armor to any person is authorized only if:</text>
       <para>
         <num>(1)</num>
-        <text>the person is one of those excepted under § 3-3 of this subtitle; or</text>
+        <text>the person is one of those excepted under <cite path="|19|§3-3">§ 3-3 of this subtitle</cite>; or</text>
       </para>
       <para>
         <num>(2)</num>
@@ -440,7 +440,7 @@
       <text>The term body studio shall not be construed to mean:</text>
       <para>
         <num>(1)</num>
-        <text>premises licensed as a massage parlor under Article 15 of the City Code;</text>
+        <text>premises licensed as a massage parlor under <cite path="|15">Article 15</cite> of the City Code;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -654,7 +654,7 @@
       <prefix>§</prefix>
       <num>6-4</num>
       <heading>Penalties.</heading>
-      <text>A person who violates § 6-2 of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not less than $50 and not more than $500 for each offense.</text>
+      <text>A person who violates <cite path="|19|§6-2">§ 6-2 of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to a fine of not less than $50 and not more than $500 for each offense.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §28A(c)</annotation>
         <annotation doc="City of Balt., Md., Ord. 97-211" type="History">Ord. 97-211</annotation>
@@ -753,11 +753,11 @@
         <text>The owner of a vehicle removed and impounded under this section:</text>
         <para>
           <num>(1)</num>
-          <text>may retrieve the vehicle as provided in Article 31, § 31-46 of the City Code; and</text>
+          <text>may retrieve the vehicle as provided in <cite path="|31|§31-46">Article 31, § 31-46</cite> of the City Code; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>must be given an opportunity for a hearing, as set out in Article 31, § 31-43 of the City Code, to determine whether there was a basis for the removal and impoundment.</text>
+          <text>must be given an opportunity for a hearing, as set out in <cite path="|31|§31-43">Article 31, § 31-43</cite> of the City Code, to determine whether there was a basis for the removal and impoundment.</text>
         </para>
       </para>
       <annotations>
@@ -782,11 +782,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(i)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -946,7 +946,7 @@
       <para>
         <num>(a)</num>
         <heading>Housing Commissioner to adopt.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner must adopt and enforce rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commissioner must adopt and enforce rules and regulations to carry out this subtitle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1320,7 +1320,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If the false alarm or late fee is not paid within 10 business days of the Commissioner's notice that the late fee has been imposed, the Commissioner may place the user's alarm system on no-response status, as provided in § 8-9 of this subtitle.</text>
+          <text>If the false alarm or late fee is not paid within 10 business days of the Commissioner's notice that the late fee has been imposed, the Commissioner may place the user's alarm system on no-response status, as provided in <cite path="|19|§8-9">§ 8-9 of this subtitle</cite>.</text>
         </para>
       </para>
       <para>
@@ -1339,7 +1339,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>if 5 more false alarms occur within the same 12-month period, the user's alarm system will be placed on no-response status, as provided in § 8-9 of this subtitle; and</text>
+            <text>if 5 more false alarms occur within the same 12-month period, the user's alarm system will be placed on no-response status, as provided in <cite path="|19|§8-9">§ 8-9 of this subtitle</cite>; and</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -1368,7 +1368,7 @@
         <heading>When required.</heading>
         <para>
           <num>(1)</num>
-          <text>An alarm system will be placed on no-response status if, after a warning notice has been sent in accord with § 8-8(e) of this subtitle, the alarm system has had 15 or more false alarms in any 12-month period.</text>
+          <text>An alarm system will be placed on no-response status if, after a warning notice has been sent in accord with <cite path="|19|§8-8|(e)">§ 8-8(e) of this subtitle</cite>, the alarm system has had 15 or more false alarms in any 12-month period.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1397,7 +1397,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>the user fails to pay timely any fee imposed under § 8-8 of this subtitle.</text>
+          <text>the user fails to pay timely any fee imposed under <cite path="|19|§8-8">§ 8-8 of this subtitle</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -1444,7 +1444,7 @@
         <heading>Appeal of false alarm fee.</heading>
         <para>
           <num>(1)</num>
-          <text>A user against whom the Commissioner has assessed a fee under § 8-8 {"False alarm fees"} of this subtitle may appeal in writing to the Board of Municipal and Zoning Appeals.</text>
+          <text>A user against whom the Commissioner has assessed a fee under <cite path="|19|§8-8">§ 8-8 {"False alarm fees"} of this subtitle</cite> may appeal in writing to the Board of Municipal and Zoning Appeals.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1491,11 +1491,11 @@
         <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
         <para>
           <num>(1)</num>
-          <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
       </para>
       <para>
@@ -2004,7 +2004,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2027,7 +2027,7 @@
       <para>
         <num>(b)</num>
         <heading>Parent or guardian of minor.</heading>
-        <text>Any parent or guardian who violates § 13-2 of this subtitle after having received written notice of his or her child or ward having committed a violation of this subtitle within the preceding 12 months may be issued a citation to appear in court for trial and is subject to a fine of $50 for each offense.</text>
+        <text>Any parent or guardian who violates <cite path="|19|§13-2">§ 13-2 of this subtitle</cite> after having received written notice of his or her child or ward having committed a violation of this subtitle within the preceding 12 months may be issued a citation to appear in court for trial and is subject to a fine of $50 for each offense.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2059,7 +2059,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>to the drinking or consumption of any alcoholic beverage on any premises licensed under Article 2B of the Annotated Code for the sale or consumption of alcoholic beverages.</text>
+          <text>to the drinking or consumption of any alcoholic beverage on any premises licensed under <cite path="|2">Article 2</cite>B of the Annotated Code for the sale or consumption of alcoholic beverages.</text>
         </para>
       </para>
       <para>
@@ -2082,7 +2082,7 @@
       <para>
         <num>(a)</num>
         <heading>While on streets, etc.</heading>
-        <text>It is unlawful for any person to drink or consume any alcoholic beverage (as that term is defined from time to time in Article 2B of the Annotated Code of Maryland) or to possess in an open container any alcoholic beverage, in or on any public street, avenue, alley, lane, sidewalk, park, building, or ground in this City.</text>
+        <text>It is unlawful for any person to drink or consume any alcoholic beverage (as that term is defined from time to time in <cite doc="Md. Code" path="2B">Article 2B of the Annotated Code of Maryland</cite>) or to possess in an open container any alcoholic beverage, in or on any public street, avenue, alley, lane, sidewalk, park, building, or ground in this City.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2117,11 +2117,11 @@
         <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
         <para>
           <num>(1)</num>
-          <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
       </para>
       <para>
@@ -2182,7 +2182,7 @@
       <para>
         <num>(b)</num>
         <heading>Parent or guardian of minor.</heading>
-        <text>Any parent or guardian who violates § 14-3 of this subtitle after having received written notice of his or her child or ward having committed a violation of this subtitle within the preceding 12 months may receive a citation and is subject to a fine of $50 for each offense.</text>
+        <text>Any parent or guardian who violates <cite path="|19|§14-3">§ 14-3 of this subtitle</cite> after having received written notice of his or her child or ward having committed a violation of this subtitle within the preceding 12 months may receive a citation and is subject to a fine of $50 for each offense.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2645,12 +2645,12 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+          <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
           <heading>Qualified inclusion of City governmental units.</heading>
-          <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes, except as used in § 18-3 {"Penalties"} of this subtitle, any department, board, commission, council, authority, committee, office, or other unit of Baltimore City government.</text>
+          <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person" also includes, except as used in <cite path="|19|§18-3">§ 18-3 {"Penalties"} of this subtitle</cite>, any department, board, commission, council, authority, committee, office, or other unit of Baltimore City government.</text>
         </para>
       </para>
       <para>
@@ -3135,7 +3135,7 @@
         <heading>Expanded coverage required.</heading>
         <para>
           <num>(1)</num>
-          <text>Article 27, § 470A of the Maryland Code, under the subtitle "Religious and Ethnic Crimes", commonly described as the "hate crimes law", prohibits a person from damaging the property of or committing crimes against a person because of that person's race, color, religious beliefs, or national origin.  That law does not include sexual orientation as a protected class.</text>
+          <text><cite doc="Md. Code" path="27|470A">Article 27, § 470A of the Maryland Code</cite>, under the subtitle "Religious and Ethnic Crimes", commonly described as the "hate crimes law", prohibits a person from damaging the property of or committing crimes against a person because of that person's race, color, religious beliefs, or national origin.  That law does not include sexual orientation as a protected class.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3432,7 +3432,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3577,7 +3577,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>It is unlawful for any person to loiter about or remain at any public way, public place, or place open or legally accessible to the public within a certified drug-free zone, as herein provided, for the purpose of engaging in drug-related activity that is prohibited by any of the provisions of Article 27, Subtitle Health-Controlled Dangerous Substances of the Maryland Code relating to the manufacture, distribution, sale, possession, or administration of substances covered therein.</text>
+        <text>It is unlawful for any person to loiter about or remain at any public way, public place, or place open or legally accessible to the public within a certified drug-free zone, as herein provided, for the purpose of engaging in drug-related activity that is prohibited by any of the provisions of <cite doc="Md. Code" path="27">Article 27, Subtitle Health-Controlled Dangerous Substances of the Maryland Code</cite> relating to the manufacture, distribution, sale, possession, or administration of substances covered therein.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3623,7 +3623,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>a person who possesses drug paraphernalia as defined in Article 27, § 287A of the Maryland Code.</text>
+          <text>a person who possesses drug paraphernalia as defined in <cite doc="Md. Code" path="27|287A">Article 27, § 287A of the Maryland Code</cite>.</text>
         </para>
       </para>
       <para>
@@ -3713,7 +3713,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3830,7 +3830,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3976,7 +3976,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4209,7 +4209,7 @@
       <prefix>§</prefix>
       <num>32-4</num>
       <heading>Inducing minor to purchase.</heading>
-      <text>No person may request or induce a minor to purchase any food, goods, supplies, or other merchandise in violation of  § 32-3 {"Sales to minors"} of this subtitle.</text>
+      <text>No person may request or induce a minor to purchase any food, goods, supplies, or other merchandise in violation of  <cite path="|19|§32-3">§ 32-3 {"Sales to minors"} of this subtitle</cite>.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 12-046" type="History">Ord. 12-046</annotation>
       </annotations>
@@ -4218,7 +4218,7 @@
       <prefix>§</prefix>
       <num>32-5</num>
       <heading>False representation by minor.</heading>
-      <text>No minor may knowingly and falsely represent her- or himself to any person as being 18 years old or older for the purpose of purchasing any food, goods, supplies, or other merchandise in violation of  § 32-3 {"Sales to minors"} of this subtitle.</text>
+      <text>No minor may knowingly and falsely represent her- or himself to any person as being 18 years old or older for the purpose of purchasing any food, goods, supplies, or other merchandise in violation of  <cite path="|19|§32-3">§ 32-3 {"Sales to minors"} of this subtitle</cite>.</text>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 12-046" type="History">Ord. 12-046</annotation>
       </annotations>
@@ -4237,11 +4237,11 @@
         <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
         <para>
           <num>(1)</num>
-          <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
       </para>
       <para>
@@ -4492,7 +4492,7 @@
       <para>
         <num>(h)</num>
         <heading>Youth Connection Center.</heading>
-        <text>"Youth Connection Center" means a place, as established or designated by the City, to which minors believed to be in violation of § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or § 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle can be taken to determine an appropriate course of action.</text>
+        <text>"Youth Connection Center" means a place, as established or designated by the City, to which minors believed to be in violation of § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or <cite path="|19|§34-4">§ 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle</cite> can be taken to determine an appropriate course of action.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §92</annotation>
@@ -4655,7 +4655,7 @@
       <prefix>§</prefix>
       <num>34-5</num>
       <heading>Prohibited conduct of parents, guardians, etc.</heading>
-      <text>It is unlawful for the parent of any minor to knowingly permit or, by insufficient control, to allow that minor to be in or about any public place or any establishment if that minor's presence would violate § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or § 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle.</text>
+      <text>It is unlawful for the parent of any minor to knowingly permit or, by insufficient control, to allow that minor to be in or about any public place or any establishment if that minor's presence would violate § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or <cite path="|19|§34-4">§ 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §94</annotation>
         <annotation doc="City of Balt., Md., Ord. 75-1046" type="History">Ord. 75-1046</annotation>
@@ -4671,7 +4671,7 @@
       <prefix>§</prefix>
       <num>34-6</num>
       <heading>Prohibited conduct of establishments.</heading>
-      <text>No operator of an establishment or his agents or employees may knowingly permit any minor to remain on the premises of that establishment if that minor's presence would violate § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or § 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle.</text>
+      <text>No operator of an establishment or his agents or employees may knowingly permit any minor to remain on the premises of that establishment if that minor's presence would violate § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or <cite path="|19|§34-4">§ 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §95</annotation>
         <annotation doc="City of Balt., Md., Ord. 75-1046" type="History">Ord. 75-1046</annotation>
@@ -4701,7 +4701,7 @@
       <para>
         <num>(a)</num>
         <heading>Identification.</heading>
-        <text>If a police officer has reason to believe that a minor is in violation of § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or § 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle, the police officer shall seek to obtain from the minor:</text>
+        <text>If a police officer has reason to believe that a minor is in violation of § 34-3 {"Prohibited conduct of minors – Nighttime curfew"} or <cite path="|19|§34-4">§ 34-4 {"Prohibited conduct of minors – Daytime curfew"} of this subtitle</cite>, the police officer shall seek to obtain from the minor:</text>
         <para>
           <num>(1)</num>
           <text>the minor's name, address, school or other valid identification, and age; and</text>
@@ -4821,7 +4821,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, § 34-5 {"Prohibited conduct of parents, guardians, etc."} of this subtitle and § 34-6 {"Prohibited conduct of establishments"} of this subtitle may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, <cite path="|19|§34-5">§ 34-5 {"Prohibited conduct of parents, guardians, etc."} of this subtitle</cite> and <cite path="|19|§34-6">§ 34-6 {"Prohibited conduct of establishments"} of this subtitle</cite> may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4841,10 +4841,10 @@
         <heading>Parents, guardians, etc.</heading>
         <para>
           <num>(1)</num>
-          <text>A parent who violates § 34-5 {"Prohibited conduct of parents, guardians, etc."} of this subtitle for the 1<sup>st</sup> time may be issued:</text>
+          <text>A parent who violates <cite path="|19|§34-5">§ 34-5 {"Prohibited conduct of parents, guardians, etc."} of this subtitle</cite> for the 1<sup>st</sup> time may be issued:</text>
           <para>
             <num>(i)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}; or</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}; or</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -4853,7 +4853,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A parent who violates § 34-5 {"Prohibited conduct of parents, guardians, etc."} of this subtitle after having received notice under § 34-8 {"Enforcement"} of a prior violation or after having been issued a civil citation or a notice under paragraph (1) of this subsection for a prior violation is guilty of a misdemeanor and, on conviction, is subject to 1 or more of the following, in the discretion of the court:</text>
+          <text>A parent who violates <cite path="|19|§34-5">§ 34-5 {"Prohibited conduct of parents, guardians, etc."} of this subtitle</cite> after having received notice under § 34-8 {"Enforcement"} of a prior violation or after having been issued a civil citation or a notice under paragraph (1) of this subsection for a prior violation is guilty of a misdemeanor and, on conviction, is subject to 1 or more of the following, in the discretion of the court:</text>
           <para>
             <num>(i)</num>
             <text>a fine not to exceed $500 and costs; and</text>
@@ -4938,7 +4938,7 @@
         <para>
           <num>(2)</num>
           <heading>Controlled dangerous substance.</heading>
-          <text>"Controlled dangerous substance" means a controlled dangerous substance as defined in the Article 27, Subtitle "Health - Controlled Dangerous Substances" of the Maryland Code.</text>
+          <text>"Controlled dangerous substance" means a controlled dangerous substance as defined in the <cite doc="Md. Code" path="27">Article 27, Subtitle "Health - Controlled Dangerous Substances" of the Maryland Code</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -5262,7 +5262,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>In this subtitle, "person" has the meaning stated in § 1-107 of the City Code's General Provisions Article.</text>
+          <text>In this subtitle, "person" has the meaning stated in <cite path="|general|1|1|1-107">§ 1-107 </cite>of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -5479,7 +5479,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>§ 39-2 {"Possession prohibited"} of this subtitle does not apply to a replica gun if the replica gun is:</text>
+          <text><cite path="|19|§39-2">§ 39-2 {"Possession prohibited"} of this subtitle</cite> does not apply to a replica gun if the replica gun is:</text>
           <para>
             <num>(1)</num>
             <text>actively being transported in intrastate, interstate, or foreign commerce; or</text>
@@ -5505,7 +5505,7 @@
             </para>
             <para>
               <num>(v)</num>
-              <text>paintball, provided the use complies with City Code Article 19, § 59-26 {"Gas- or air-pellet guns"}.</text>
+              <text>paintball, provided the use complies with City Code <cite path="|19|§59-26">Article 19, § 59-26 {"Gas- or air-pellet guns"}</cite>.</text>
             </para>
           </para>
         </para>
@@ -5581,7 +5581,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>If the Solicitor finds sufficient evidence that the alleged replica gun was in violation of this subtitle, the Solicitor must notify the replica gun's owner, by registered or certified mail, of the seizure and of the owners right to seek the return of the replica gun under § 39-7 {"Judicial review"} of this subtitle.</text>
+            <text>If the Solicitor finds sufficient evidence that the alleged replica gun was in violation of this subtitle, the Solicitor must notify the replica gun's owner, by registered or certified mail, of the seizure and of the owners right to seek the return of the replica gun under <cite path="|19|§39-7">§ 39-7 {"Judicial review"} of this subtitle</cite>.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -5626,7 +5626,7 @@
         <para>
           <num>(b)</num>
           <heading>When deemed forfeited without petition.</heading>
-          <text>A replica gun that has been seized by the City is deemed forfeited to the City if the replica gun owner has not timely filed in the District Court for the return of the replica gun under § 39-7 {"Judicial review"} of this subtitle.</text>
+          <text>A replica gun that has been seized by the City is deemed forfeited to the City if the replica gun owner has not timely filed in the District Court for the return of the replica gun under <cite path="|19|§39-7">§ 39-7 {"Judicial review"} of this subtitle</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -5662,12 +5662,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, § 39-2 of this Subtitle may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, <cite path="|19|§39-2">§ 39-2 of this Subtitle</cite> may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Process not exclusive.</heading>
-          <text>The issuance of a civil citation to enforce § 39-2 of this Subtitle does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
+          <text>The issuance of a civil citation to enforce <cite path="|19|§39-2">§ 39-2 of this Subtitle</cite> does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-593" type="History">Ord. 16-593</annotation>
@@ -5870,7 +5870,7 @@
         <prefix>§</prefix>
         <num>40-3</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 00-040" type="History">Ord. 00-040</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-398" type="History">Ord. 07-398</annotation>
@@ -5929,7 +5929,7 @@
         <prefix>§</prefix>
         <num>40-8</num>
         <heading>Parents and guardians.</heading>
-        <text>No parent or guardian of a minor may knowingly permit the minor to violate any provision of § 40-6 or § 40-7 of this subtitle.</text>
+        <text>No parent or guardian of a minor may knowingly permit the minor to violate any provision of § 40-6 or <cite path="|19|§40-7">§ 40-7 of this subtitle</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 00-040" type="History">Ord. 00-040</annotation>
         </annotations>
@@ -5948,7 +5948,7 @@
           <heading>Enforcement by citation.</heading>
           <para>
             <num>(1)</num>
-            <text>In addition to any other civil or criminal remedy or enforcement procedure, this section may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>In addition to any other civil or criminal remedy or enforcement procedure, this section may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -6228,11 +6228,11 @@
           <text>A vehicle that has been ordered forfeited to the City may be:</text>
           <para>
             <num>(1)</num>
-            <text>sold as provided in City Code Article 31, Subtitle 31, Part 5;</text>
+            <text>sold as provided in City Code <cite path="|31">Article 31</cite>, Subtitle 31, Part 5;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>transferred to a charitable organization for export abroad, as provided in City Code Article 31, § 31-58(c); or</text>
+            <text>transferred to a charitable organization for export abroad, as provided in City Code <cite path="|31|§31-58|(c)">Article 31, § 31-58(c)</cite>; or</text>
           </para>
           <para>
             <num>(3)</num>
@@ -6321,11 +6321,11 @@
         <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
         <para>
           <num>(1)</num>
-          <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
       </para>
       <para>
@@ -6600,7 +6600,7 @@
           </para>
           <para>
             <num>(xi)</num>
-            <text>for criminal gang offenses prohibited under State Criminal Law Article 9, Subtitle 8.</text>
+            <text>for criminal gang offenses prohibited under State Criminal Law <cite path="|9">Article 9</cite>, Subtitle 8.</text>
           </para>
         </para>
         <para>
@@ -6708,7 +6708,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>appear in the registration statement filed  under City Code Article 13, Subtitle 4 {"Registration of Non-Owner-Occupied Dwellings, etc."}; or</text>
+            <text>appear in the registration statement filed  under City Code <cite path="|13">Article 13</cite>, Subtitle 4 {"Registration of Non-Owner-Occupied Dwellings, etc."}; or</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -6735,12 +6735,12 @@
       <para>
         <num>(a)</num>
         <heading>Proof of knowledge not required.</heading>
-        <text>The Commissioner may order appropriate relief under § 43-3 of this subtitle without proof that an owner, operator, or tenant knew of the existence of the public nuisance.</text>
+        <text>The Commissioner may order appropriate relief under <cite path="|19|§43-3">§ 43-3 of this subtitle</cite> without proof that an owner, operator, or tenant knew of the existence of the public nuisance.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Discontinuance not a bar to relief.</heading>
-        <text>Evidence that the nuisance has been discontinued at the time notice was provided or at the time of the hearing does not bar the Commissioner from imposing appropriate relief under § 43-3 of this subtitle.</text>
+        <text>Evidence that the nuisance has been discontinued at the time notice was provided or at the time of the hearing does not bar the Commissioner from imposing appropriate relief under <cite path="|19|§43-3">§ 43-3 of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §234(d)</annotation>
@@ -6758,7 +6758,7 @@
         <text>Following the hearing procedure, the Commissioner shall:</text>
         <para>
           <num>(1)</num>
-          <text>on determining that a public nuisance exists, issue a written order in accordance with § 43-3 of this subtitle; or</text>
+          <text>on determining that a public nuisance exists, issue a written order in accordance with <cite path="|19|§43-3">§ 43-3 of this subtitle</cite>; or</text>
         </para>
         <para>
           <num>(2)</num>
@@ -6768,7 +6768,7 @@
       <para>
         <num>(b)</num>
         <heading>Posting and notice of order.</heading>
-        <text>Following the hearing procedure, an order issued under this subtitle shall be posted on the premises and notice of the order shall be given to the persons and in the manner set forth in § 43-4 of this subtitle.</text>
+        <text>Following the hearing procedure, an order issued under this subtitle shall be posted on the premises and notice of the order shall be given to the persons and in the manner set forth in <cite path="|19|§43-4">§ 43-4 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -7099,7 +7099,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>appear in the registration statement filed  under City Code Article 13, Subtitle 4 {"Registration of Non-Owner-Occupied Dwellings, etc."}; or</text>
+            <text>appear in the registration statement filed  under City Code <cite path="|13">Article 13</cite>, Subtitle 4 {"Registration of Non-Owner-Occupied Dwellings, etc."}; or</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -7136,14 +7136,14 @@
       <para>
         <num>(b)</num>
         <heading>Posting and notice of order.</heading>
-        <text>Following the hearing procedure, an order of the Commissioner issued under this subtitle shall be posted on the premises and notice of the order shall be given to those persons and in the manner set forth in § 43A-3 of this subtitle.</text>
+        <text>Following the hearing procedure, an order of the Commissioner issued under this subtitle shall be posted on the premises and notice of the order shall be given to those persons and in the manner set forth in <cite path="|19|§43A-3">§ 43A-3 of this subtitle</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Enforcement; period of closing.</heading>
         <para>
           <num>(1)</num>
-          <text>After the order has been posted, as set forth in § 43A-3 of this subtitle, the order may be enforced.</text>
+          <text>After the order has been posted, as set forth in <cite path="|19|§43A-3">§ 43A-3 of this subtitle</cite>, the order may be enforced.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -7308,7 +7308,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>"Alcoholic beverage" has the meaning stated in State Code Article 2B, § 1-102.</text>
+          <text>"Alcoholic beverage" has the meaning stated in State Code <cite path="|2">Article 2</cite>B, § 1-102.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -7429,7 +7429,7 @@
       <prefix>§</prefix>
       <num>43B-2</num>
       <heading>Exemptions from subtitle.</heading>
-      <text>The activities described in § 43B-1(o)(1) of this subtitle <em>{underage consumption, possession, etc., of alcoholic beverages} </em>do not apply to:</text>
+      <text>The activities described in <cite path="|19|§43B-1|(o)|(1)" proof="needed">§ 43B-1(o)(1) of this subtitle</cite> <em>{underage consumption, possession, etc., of alcoholic beverages} </em>do not apply to:</text>
       <para>
         <num>(1)</num>
         <text>legally-protected religious activities; or</text>
@@ -7520,7 +7520,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation, as authorized by City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+        <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of a civil citation, as authorized by City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -7716,7 +7716,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>send written notice to the person responsible, as described in § 45-5 of this subtitle, ordering that person to remove the sign within the time specified in the notice.</text>
+          <text>send written notice to the person responsible, as described in <cite path="|19|§45-5">§ 45-5 of this subtitle</cite>, ordering that person to remove the sign within the time specified in the notice.</text>
         </para>
       </para>
       <para>
@@ -7747,7 +7747,7 @@
           <text>A submission to the Department of Housing and Community Development for further enforcement proceedings:</text>
           <para>
             <num>(i)</num>
-            <text>must be accompanied by an affidavit, in the form and tenor required by the  regulations adopted under § 45-4 of this subtitle, that describes the circumstances of the violation and removal; and</text>
+            <text>must be accompanied by an affidavit, in the form and tenor required by the  regulations adopted under <cite path="|19|§45-4">§ 45-4 of this subtitle</cite>, that describes the circumstances of the violation and removal; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -7756,20 +7756,20 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>An association so designated is entitled to receive 50% of any fine collected under City Code Article 1, Subtitle 40 {"Environmental Control Board"} or Subtitle 41 {"Civil Citations"}.</text>
+          <text>An association so designated is entitled to receive 50% of any fine collected under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"} or Subtitle 41 {"Civil Citations"}.</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
         <heading>From public utility property.</heading>
-        <text>For any sign posted in violation of § 45-2(7) of this subtitle:</text>
+        <text>For any sign posted in violation of <cite path="|19|§45-2|(7)">§ 45-2(7) of this subtitle</cite>:</text>
         <para>
           <num>(1)</num>
           <text>the public utility may summarily remove the sign; or</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>the public utility or the Department of Housing and Community Development may send written notice to the person responsible, as described in § 45-5 of this subtitle, ordering that person to remove the sign within the time specified in the notice.</text>
+          <text>the public utility or the Department of Housing and Community Development may send written notice to the person responsible, as described in <cite path="|19|§45-5">§ 45-5 of this subtitle</cite>, ordering that person to remove the sign within the time specified in the notice.</text>
         </para>
       </para>
       <annotations>
@@ -7787,7 +7787,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Any person who posts a sign in violation of this subtitle and any other person responsible for the sign, as described in § 45-5 of this subtitle, is liable to the City or to the public utility, as the case may be, for the costs of:</text>
+        <text>Any person who posts a sign in violation of this subtitle and any other person responsible for the sign, as described in <cite path="|19|§45-5">§ 45-5 of this subtitle</cite>, is liable to the City or to the public utility, as the case may be, for the costs of:</text>
         <para>
           <num>(1)</num>
           <text>removing the sign; and</text>
@@ -7802,7 +7802,7 @@
         <heading>Rules and regulations for City property.</heading>
         <para>
           <num>(1)</num>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commissioner of Housing and Community Development shall adopt regulations to provide for the removal of signs illegally placed on City property.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Commissioner of Housing and Community Development shall adopt regulations to provide for the removal of signs illegally placed on City property.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -7813,7 +7813,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>rules, procedures, and forms to carry out § 45-3(b) {"Removal of illegal signs: From City property – by others"} of this subtitle;  and</text>
+            <text>rules, procedures, and forms to carry out <cite path="|19|§45-3|(b)">§ 45-3(b) {"Removal of illegal signs: From City property – by others"} of this subtitle</cite>;  and</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -7856,7 +7856,7 @@
         <heading>Political campaigns.</heading>
         <para>
           <num>(1)</num>
-          <text>In the case of a political campaign, a candidate for any office and the chairman and treasurer of any registered political committee is presumptively liable for the costs of sign removal imposed by § 45-4 of this subtitle, as well as for the civil and criminal penalties imposed by this subtitle, if the candidate or the committee was responsible for printing the sign.  If the liability is contested, the burden of overcoming the presumption is on the contesting party.</text>
+          <text>In the case of a political campaign, a candidate for any office and the chairman and treasurer of any registered political committee is presumptively liable for the costs of sign removal imposed by <cite path="|19|§45-4">§ 45-4 of this subtitle</cite>, as well as for the civil and criminal penalties imposed by this subtitle, if the candidate or the committee was responsible for printing the sign.  If the liability is contested, the burden of overcoming the presumption is on the contesting party.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -7866,7 +7866,7 @@
       <para>
         <num>(b)</num>
         <heading>Other cases.</heading>
-        <text>In all other cases, the person whose name, event, business, location, or merchandise is written on the sign is presumptively liable for the charges imposed by § 45-4 of this subtitle, as well as for the civil and criminal penalties imposed by this subtitle.  The burden of overcoming the presumption is on the contesting party.</text>
+        <text>In all other cases, the person whose name, event, business, location, or merchandise is written on the sign is presumptively liable for the charges imposed by <cite path="|19|§45-4">§ 45-4 of this subtitle</cite>, as well as for the civil and criminal penalties imposed by this subtitle.  The burden of overcoming the presumption is on the contesting party.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §1(e)</annotation>
@@ -7890,11 +7890,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this subtitle may be enforced by issuance of:</text>
           <para>
             <num>(i)</num>
-            <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -8069,7 +8069,7 @@
         <heading>Enforcement by Civil Citation.</heading>
         <para>
           <num>(1)</num>
-          <text>This section may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>This section may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -8083,7 +8083,7 @@
       <annotations>
         <annotation type="Editor's Notes">
           <text>Ord. 04-675, which added § 47-5 and amended the succeeding sections, provides</text>
-          <text>“[T]his Ordinance ... will remain effective until the repeal or abrogation of City Code Article 1, Subtitle 41 {“Civil Citations”}, as enacted by Ordinance 03-595; on the repeal or abrogation of that subtitle, with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect.”</text>
+          <text>“[T]his Ordinance ... will remain effective until the repeal or abrogation of City Code <cite path="|1">Article 1</cite>, Subtitle 41 {“Civil Citations”}, as enacted by Ordinance 03-595; on the repeal or abrogation of that subtitle, with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect.”</text>
         </annotation>
       </annotations>
     </section>
@@ -8095,7 +8095,7 @@
       <prefix>§</prefix>
       <num>47-7</num>
       <heading>Other soliciting permitted.</heading>
-      <text>"Soliciting" as defined in § 47-1(c) of this subtitle is lawful except only as specified in this subtitle.</text>
+      <text>"Soliciting" as defined in <cite path="|19|§47-1|(c)">§ 47-1(c) of this subtitle</cite> is lawful except only as specified in this subtitle.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §249(d)</annotation>
         <annotation doc="City of Balt., Md., Ord. 93-275" type="History">Ord. 93-275</annotation>
@@ -8127,7 +8127,7 @@
       <para>
         <num>(b)</num>
         <heading>Exception.</heading>
-        <text>This section does not apply to any violation of § 47-5 {"Nighttime soliciting prohibited"} of this subtitle.</text>
+        <text>This section does not apply to any violation of <cite path="|19|§47-5">§ 47-5 {"Nighttime soliciting prohibited"} of this subtitle</cite>.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §249(f)</annotation>
@@ -8300,7 +8300,7 @@
       <prefix>§</prefix>
       <num>49-4</num>
       <heading>Proprietor responsible.</heading>
-      <text>No owner, proprietor, or manager of any theatre, moving picture hall, or restaurant, cafe or other place in the City of Baltimore where the public gathers shall permit or allow anyone playing, singing, or performing therein to play, sing, or render "The Star-Spangled Banner" in violation of the provisions of this subtitle, and in the event of any such permission or allowance, such owner, proprietor, or manager, upon conviction thereof, shall be subject to the penalties imposed by § 49-6 of this subtitle.</text>
+      <text>No owner, proprietor, or manager of any theatre, moving picture hall, or restaurant, cafe or other place in the City of Baltimore where the public gathers shall permit or allow anyone playing, singing, or performing therein to play, sing, or render "The Star-Spangled Banner" in violation of the provisions of this subtitle, and in the event of any such permission or allowance, such owner, proprietor, or manager, upon conviction thereof, shall be subject to the penalties imposed by <cite path="|19|§49-6">§ 49-6 of this subtitle</cite>.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1927, art. 32, §119</annotation>
         <annotation type="Prior Codifications">1950, art. 24, §85</annotation>
@@ -8361,11 +8361,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this section may be enforced by issuance of:</text>
             <para>
               <num>(i)</num>
-              <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -8420,11 +8420,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this section may be enforced by issuance of:</text>
             <para>
               <num>(i)</num>
-              <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -8521,7 +8521,7 @@
         <num>50-12</num>
         <reason>Repealed</reason>
         <annotations>
-          <annotation type="Editor's Notes">Ordinance 07-496 repealed former § 50-12, “Eviction chattels”, and enacted new City Code Article 13, Subtitle 8A, in its stead.</annotation>
+          <annotation type="Editor's Notes">Ordinance 07-496 repealed former § 50-12, “Eviction chattels”, and enacted new City Code <cite path="|13">Article 13</cite>, Subtitle 8A, in its stead.</annotation>
         </annotations>
       </section>
       <section name="50-13to50-15">
@@ -8545,7 +8545,7 @@
       <heading>Street Sales Near Farmers' Markets</heading>
       <reason>Repealed by Ord. 04-854</reason>
       <annotations>
-        <annotation type="Editor's Notes">Ordinance 04-854 repealed former Part 3, “Street Sales Near Farmers’ Markets”, and rewrote City Code Article 15, Subtitle 17, to include similar provisions.</annotation>
+        <annotation type="Editor's Notes">Ordinance 04-854 repealed former Part 3, “Street Sales Near Farmers’ Markets”, and rewrote City Code <cite path="|15">Article 15</cite>, Subtitle 17, to include similar provisions.</annotation>
       </annotations>
       <section name="50-21to50-25">
         <num>50-21 to 50-25</num>
@@ -8558,7 +8558,7 @@
       <heading>Fires</heading>
       <reason>Repealed by Ord. 15-435</reason>
       <annotations>
-        <annotation type="Editor's Notes">Ordinance 15-435 repealed former Part 4, dealing with the fires in streets, lanes, and alleys.  The provisions of that part (virtually unchanged since their enactment in 1858) have been effectively superseded by the more extensive provisions of the International Fire Code Chapter 3 {“General Requirements”}, as adopted by Part VIII of the City’s Building, Fire, and Related Codes Article.  See, e.g., FC § 303 {“Asphalt kettles”}, § 307 {“Open burning...”}, and § 308 {“Open flames”}.</annotation>
+        <annotation type="Editor's Notes">Ordinance 15-435 repealed former Part 4, dealing with the fires in streets, lanes, and alleys.  The provisions of that part (virtually unchanged since their enactment in 1858) have been effectively superseded by the more extensive provisions of the <cite path="|building-codes|VIII">International Fire Code</cite> Chapter 3 {“General Requirements”}, as adopted by Part VIII of the City’s <cite path="|building-codes">Building, Fire, and Related Codes Article</cite>.  See, e.g., FC § 303 {“Asphalt kettles”}, § 307 {“Open burning...”}, and § 308 {“Open flames”}.</annotation>
       </annotations>
       <section name="50-26to50-30">
         <num>50-26 to 50-30</num>
@@ -8591,7 +8591,7 @@
         <para>
           <num>(d)</num>
           <heading>Rules and regulations.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Transportation may adopt rules and regulations to carry out this section.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Transportation may adopt rules and regulations to carry out this section.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -8635,7 +8635,7 @@
       <num>7</num>
       <reason>Repealed</reason>
       <annotations>
-        <annotation type="Editor's Notes">Ordinance 09-148 repealed this Part 7, in its entirety, and enacted a new section, Property Maintenance Code § 305.8, with similar requirements.</annotation>
+        <annotation type="Editor's Notes">Ordinance 09-148 repealed this Part 7, in its entirety, and enacted a new section, <cite path="|building-codes|VII">Property Maintenance Code</cite> <cite path="|building-codes|VII|305.8" proof="needed">§ 305.8</cite>, with similar requirements.</annotation>
       </annotations>
       <section name="50-46to50-55">
         <num>50-46 to 50-55</num>
@@ -8677,12 +8677,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, § 50-56 of this subtitle may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, <cite path="|19|§50-56">§ 50-56 of this subtitle</cite> may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Method not exclusive.</heading>
-          <text>The issuance of a civil citation to enforce § 50-56 of this subtitle does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
+          <text>The issuance of a civil citation to enforce <cite path="|19|§50-56">§ 50-56 of this subtitle</cite> does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
@@ -8693,7 +8693,7 @@
         <prefix>§</prefix>
         <num>50-60</num>
         <heading>Criminal penalties.</heading>
-        <text>Any person who violates a provision of § 50-56 of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $200 for each offense.</text>
+        <text>Any person who violates a provision of <cite path="|19|§50-56">§ 50-56 of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $200 for each offense.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 09-149" type="History">Ord. 09-149</annotation>
         </annotations>
@@ -8753,7 +8753,7 @@
       <para>
         <num>(b)</num>
         <heading>Park rule.</heading>
-        <text>"Park rule" means any rule or regulation adopted by the Director of Recreation and Parks under the authority of Article VII, § 67(f) of the City Charter and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article.</text>
+        <text>"Park rule" means any rule or regulation adopted by the Director of Recreation and Parks under the authority of <cite doc="City of Baltimore, Md., Charter" path="VII|§67|(f)">Article VII, § 67(f) of the City Charter</cite> and subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of Balt., Md., Ord. 03-572" type="History">Ord. 03-572</annotation>
@@ -8780,15 +8780,15 @@
         <text>In addition to any other civil or criminal remedy or enforcement procedure, a park rule may be enforced by issuance of:</text>
         <para>
           <num>(1)</num>
-          <text>an environmental citation under City Code Article 1, Subtitle 40 {"Environmental Control Board"};</text>
+          <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"};</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}; or</text>
+          <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}; or</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>a prepayable criminal citation under City Code Article 19, Subtitle 71 {"Special Enforcement Officers"}.</text>
+          <text>a prepayable criminal citation under City Code <cite path="|19">Article 19</cite>, Subtitle 71 {"Special Enforcement Officers"}.</text>
         </para>
       </para>
       <para>
@@ -8997,7 +8997,7 @@
     <heading>Ticket Sales</heading>
     <reason>Repealed by Ord 13-157</reason>
     <annotations>
-      <annotation type="Editor's Notes">Ordinance 13-157 repealed this Article 19, Subtitle 55 {“Ticket Sales”} and Article 15, Subtitle 21 {“Ticket Agencies”}, replacing their provisions with a new Article 2, Subtitle 16 {“Ticket Sales”}.  Ord. 13-157 became effective September 18, 2013.</annotation>
+      <annotation type="Editor's Notes">Ordinance 13-157 repealed <cite path="|19">this </cite><cite path="|19">Article 19</cite>, Subtitle 55 {“Ticket Sales”} and <cite path="|15">Article 15</cite>, Subtitle 21 {“Ticket Agencies”}, replacing their provisions with a new <cite path="|2">Article 2</cite>, Subtitle 16 {“Ticket Sales”}.  Ord. 13-157 became effective September 18, 2013.</annotation>
     </annotations>
   </container>
   <container>
@@ -9146,7 +9146,7 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>holders of special police commissions issued under Title 4, Subtitle 9, of Article 41 of the Maryland Code, while actually on duty on the property for which the commission was issued or while traveling to or from such duty;</text>
+              <text>holders of special police commissions issued under <cite doc="Md. Code" path="41">Title 4, Subtitle 9, of Article 41 of the Maryland Code</cite>, while actually on duty on the property for which the commission was issued or while traveling to or from such duty;</text>
             </para>
             <para>
               <num>(v)</num>
@@ -9498,7 +9498,7 @@
             <text>A licensed firearm dealer who sells, leases, or otherwise transfers a firearm must post conspicuously in the dealer's place of business:</text>
             <para>
               <num>(i)</num>
-              <text>a notice of the prohibition in § 59-12 of this Part against leaving a firearm where an unsupervised minor can obtain access to it; and</text>
+              <text>a notice of the prohibition in <cite path="|19|§59-12">§ 59-12 of this Part</cite> against leaving a firearm where an unsupervised minor can obtain access to it; and</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -9593,12 +9593,12 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>In addition to any other civil or criminal remedy or enforcement procedure, § 59-18 of this Part 2A may be enforced by issuance of a civil citation under City Code Article 1, Subtitle 41 {"Civil Citations"}.</text>
+          <text>In addition to any other civil or criminal remedy or enforcement procedure, <cite path="|19|§59-18">§ 59-18 of this Part 2</cite>A may be enforced by issuance of a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Process not exclusive.</heading>
-          <text>The issuance of a civil citation to enforce § 59-18 of this Part 2A does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
+          <text>The issuance of a civil citation to enforce <cite path="|19|§59-18">§ 59-18 of this Part 2</cite>A does not preclude pursuing any other civil or criminal remedy or enforcement action authorized by law.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-065" type="History">Ord. 08-065</annotation>
@@ -9608,7 +9608,7 @@
         <prefix>§</prefix>
         <num>59-20B</num>
         <heading>Criminal penalties.</heading>
-        <text>Any person who violates § 59-18 of this Part 2A is guilty of a misdemeanor and, on conviction, is subject to the following penalties:</text>
+        <text>Any person who violates <cite path="|19|§59-18">§ 59-18 of this Part 2</cite>A is guilty of a misdemeanor and, on conviction, is subject to the following penalties:</text>
         <para>
           <num>(1)</num>
           <text>for a 1<sup>st</sup> offense, a fine of not more than $500; and</text>
@@ -9726,7 +9726,7 @@
             </para>
             <para>
               <num>(vii)</num>
-              <text>switchblade knife, as described in § 59-22 of this subtitle or in State Criminal Law Article § 4-105; or</text>
+              <text>switchblade knife, as described in <cite path="|19|§59-22">§ 59-22 of this subtitle</cite> or in State Criminal Law Article § 4-105; or</text>
             </para>
             <para>
               <num>(viii)</num>
@@ -10343,7 +10343,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>a violation of any of the following sections of this City Code Article 19 {"Police Ordinances"}:</text>
+          <text>a violation of any of the following sections of this City Code <cite path="|19">Article 19 {"Police Ordinances"}</cite>:</text>
           <para>
             <num>(i)</num>
             <text>§ 59-1 {Carrying long-barrel firearms}; or</text>
@@ -10588,7 +10588,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>The gun offender must verify the contents of the registration, as required by § 60-6 of this subtitle, for a period of 5 years from the date of the gun offender's initial registration.</text>
+        <text>The gun offender must verify the contents of the registration, as required by <cite path="|19|§60-6">§ 60-6 of this subtitle</cite>, for a period of 5 years from the date of the gun offender's initial registration.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -10659,7 +10659,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Any gun offender who violates any provision of § 60-10 of this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment for not more than 12 months or both fine and imprisonment for each offense.</text>
+        <text>Any gun offender who violates any provision of <cite path="|19|§60-10">§ 60-10 of this subtitle</cite> is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 or imprisonment for not more than 12 months or both fine and imprisonment for each offense.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -10743,7 +10743,7 @@
       <para>
         <num>(f)</num>
         <heading>Additional authority.</heading>
-        <text>In addition to issuing prepayable criminal citations under § 71-2 of this subtitle, Special Enforcement Officers may issue and serve civil administrative citations to appear before the Environmental Control Board under Article 1, Subtitle 40 {"Environmental Control  Board"} of the City Code.</text>
+        <text>In addition to issuing prepayable criminal citations under <cite path="|19|§71-2">§ 71-2 of this subtitle</cite>, Special Enforcement Officers may issue and serve civil administrative citations to appear before the Environmental Control Board under <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control  Board"} of the City Code.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §144</annotation>
@@ -10884,12 +10884,12 @@
           <num>(1)</num>
           <text>
             <strong>
-              <em>Building, Fire, and Related Codes Article –</em>
+              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
             </strong>
           </text>
           <text>
             <strong>
-              <em>Fire Code</em>
+              <em><cite path="|building-codes|VIII">Fire Code</cite></em>
             </strong>
           </text>
           <text>
@@ -10926,12 +10926,12 @@
           <num>(2)</num>
           <text>
             <strong>
-              <em>Building, Fire, and Related Codes Article –</em>
+              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
             </strong>
           </text>
           <text>
             <strong>
-              <em>Property Maintenance Code</em>
+              <em><cite path="|building-codes|VII">Property Maintenance Code</cite></em>
             </strong>
           </text>
           <text>
@@ -10956,7 +10956,7 @@
           <num>(3)</num>
           <text>
             <strong>
-              <em>Article 7.  Natural Resources</em>
+              <em><cite path="|7">Article 7</cite>.  Natural Resources</em>
             </strong>
           </text>
           <text>
@@ -10974,7 +10974,7 @@
           <num>(4)</num>
           <text>
             <strong>
-              <em>Article 19.  Police Ordinances</em>
+              <em><cite path="|19">Article 19</cite>.  Police Ordinances</em>
             </strong>
           </text>
           <text>
@@ -10992,7 +10992,7 @@
           <num>(5)</num>
           <text>
             <strong>
-              <em>Article 32.  Zoning</em>
+              <em><cite path="|32">Article 32</cite>.  Zoning</em>
             </strong>
           </text>
           <text>
@@ -11362,7 +11362,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>to immobilize motor vehicles within the City of Baltimore in the enforcement of Article 31, Subtitle 31, Part 3 of the City Code<em>.</em></text>
+          <text>to immobilize motor vehicles within the City of Baltimore in the enforcement of <cite path="|31">Article 31</cite>, Subtitle 31, Part 3 of the City Code<em>.</em></text>
         </para>
       </para>
       <para>

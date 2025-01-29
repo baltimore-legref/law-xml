@@ -923,7 +923,7 @@
           <heading>Payments to Institute.</heading>
           <para>
             <num>(1)</num>
-            <text>If the Director of Finance is satisfied that the contract is being faithfully observed, he shall pay the Institute annually, in installments on the 1<sup>st</sup> days of October and February, such sums as equal the tuition charges computed under § 2-6 of this subtitle, but the payment in any instance shall not exceed a sum equal to ½ of the appropriation included in the Ordinance of Estimates for that year.</text>
+            <text>If the Director of Finance is satisfied that the contract is being faithfully observed, he shall pay the Institute annually, in installments on the 1<sup>st</sup> days of October and February, such sums as equal the tuition charges computed under <cite path="|18|§2-6">§ 2-6 of this subtitle</cite>, but the payment in any instance shall not exceed a sum equal to ½ of the appropriation included in the Ordinance of Estimates for that year.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1339,7 +1339,7 @@
           <prefix>§</prefix>
           <num>7-3</num>
           <heading>Investment in sinking fund.</heading>
-          <text>So soon as Enoch Pratt shall pay to the Mayor and City Council of Baltimore, the sum of $833,333.33, according to the terms and provisions of § 7-1 of this Part, it shall be the duty of the Board of Finance to invest the same in Baltimore City stock heretofore authorized to be issued at par as a sinking fund, to be known by the name of the "Enoch Pratt Free Library Sinking Fund".</text>
+          <text>So soon as Enoch Pratt shall pay to the Mayor and City Council of Baltimore, the sum of $833,333.33, according to the terms and provisions of <cite path="|18|§7-1">§ 7-1 of this Part</cite>, it shall be the duty of the Board of Finance to invest the same in Baltimore City stock heretofore authorized to be issued at par as a sinking fund, to be known by the name of the "Enoch Pratt Free Library Sinking Fund".</text>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1893, art. 39, §3</annotation>
             <annotation type="Prior Codifications">1927, art. 34, §3</annotation>
@@ -1483,12 +1483,12 @@
         <para>
           <num>(c)</num>
           <heading>Preparation of designs and plans.</heading>
-          <text>The selection of an architect and the adoption of designs and plans for the building shall be arranged by the Commission with the Architectural Commission in the manner provided by Article 5, Subtitle 29 of the City Code.</text>
+          <text>The selection of an architect and the adoption of designs and plans for the building shall be arranged by the Commission with the Architectural Commission in the manner provided by <cite path="|5">Article 5</cite>, Subtitle 29 of the City Code.</text>
         </para>
         <para>
           <num>(d)</num>
           <heading>Building construction.</heading>
-          <text>When the plans and specifications are duly approved, the building shall be erected under the supervision of the Buildings Engineer, as provided by Article VII, § 31 of the City Charter.</text>
+          <text>When the plans and specifications are duly approved, the building shall be erected under the supervision of the Buildings Engineer, as provided by <cite doc="City of Baltimore, Md., Charter" path="VII|§31">Article VII, § 31 of the City Charter</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1927, art. 37, §7</annotation>

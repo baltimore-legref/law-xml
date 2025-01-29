@@ -36,7 +36,7 @@
       <prefix>§</prefix>
       <num>1-2</num>
       <heading>Scope of article.</heading>
-      <text>This article shall apply to:</text>
+      <text><cite path="|16">This article</cite> shall apply to:</text>
       <para>
         <num>(1)</num>
         <text>Belair Market.</text>
@@ -284,7 +284,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The entire rental fee plus the penalty shall be due and payable before the applicant is granted any further lease or renewal thereof under this article.</text>
+          <text>The entire rental fee plus the penalty shall be due and payable before the applicant is granted any further lease or renewal thereof under <cite path="|16">this article</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -435,7 +435,7 @@
       <para>
         <num>(a)</num>
         <heading>Wiring.</heading>
-        <text>The electric wiring on all stall spaces must be in accordance with the Electric Code of Baltimore City.</text>
+        <text>The electric wiring on all stall spaces must be in accordance with the <cite path="|building-codes|III">Electric Code</cite> of Baltimore City.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -592,7 +592,7 @@
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>Except as to the Wholesale Fish Market for which separate provision is made, nothing in this article contained shall be construed as limiting the sale to foodstuffs exclusively.  However, the occupant or tenant shall, when making his application for an original lease or for the renewal of an existing lease, clearly set forth in each application and in each succeeding application, merchandise or articles to be sold under his particular lease.</text>
+        <text>Except as to the Wholesale Fish Market for which separate provision is made, nothing in <cite path="|16">this article</cite> contained shall be construed as limiting the sale to foodstuffs exclusively.  However, the occupant or tenant shall, when making his application for an original lease or for the renewal of an existing lease, clearly set forth in each application and in each succeeding application, merchandise or articles to be sold under his particular lease.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1008,12 +1008,12 @@
       <para>
         <num>(a)</num>
         <heading>Violations a misdemeanor.</heading>
-        <text>Any person who shall violate any provision of this article shall be deemed guilty of a misdemeanor.</text>
+        <text>Any person who shall violate any provision of <cite path="|16">this article</cite> shall be deemed guilty of a misdemeanor.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Basic penalty: $50.</heading>
-        <text>Upon conviction thereof, if no other penalty is prescribed in this article, he shall be subject to a fine of not exceeding $50 for each such offense.</text>
+        <text>Upon conviction thereof, if no other penalty is prescribed in <cite path="|16">this article</cite>, he shall be subject to a fine of not exceeding $50 for each such offense.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(a)</annotation>
@@ -1025,7 +1025,7 @@
       <prefix>§</prefix>
       <num>8-4</num>
       <heading>Defacing, etc.: $25.</heading>
-      <text>Violation of the provisions of § 5-3(b) of this article shall be subject to a penalty of not exceeding $25 for each such violation.</text>
+      <text>Violation of the provisions of <cite path="|16|§5-3|(b)">§ 5-3(b) of this article</cite> shall be subject to a penalty of not exceeding $25 for each such violation.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 16, §2(r)(2nd sen., 2nd cl.), §17(h)(2nd sen.)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 16, §2(o)(2nd sen., 2nd cl.), §7(g)(2nd sen.)</annotation>
@@ -1036,7 +1036,7 @@
       <prefix>§</prefix>
       <num>8-5</num>
       <heading>Blocking aisles: $25.</heading>
-      <text>Violating § 4-5 of this article is subject to a penalty not exceeding $25 for each such offense.</text>
+      <text>Violating <cite path="|16|§4-5">§ 4-5 of this article</cite> is subject to a penalty not exceeding $25 for each such offense.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(e)(2nd cl.)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 16, §7(d)(2nd cl.)</annotation>
@@ -1047,7 +1047,7 @@
       <prefix>§</prefix>
       <num>8-6</num>
       <heading>Absence of platform or base: $50 per week.</heading>
-      <text>Failure to comply with § 4-4 of this article shall be deemed a misdemeanor and, upon conviction thereof, shall be subject to a penalty of $50 for each and every week or portion thereof that the provisions of that section are not complied with.</text>
+      <text>Failure to comply with <cite path="|16|§4-4">§ 4-4 of this article</cite> shall be deemed a misdemeanor and, upon conviction thereof, shall be subject to a penalty of $50 for each and every week or portion thereof that the provisions of that section are not complied with.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 16, §3(5th sen.)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 16, §3(5th sen.)</annotation>
@@ -1070,7 +1070,7 @@
       <prefix>§</prefix>
       <num>8-8</num>
       <heading>Sale of seafood outside designated section: $25 - $100.</heading>
-      <text>Any person, firm, or corporation refusing or failing to comply with the requirements of § 4-3 of this article shall be subject to a fine of not less than $25 nor more than $100 for each offense.</text>
+      <text>Any person, firm, or corporation refusing or failing to comply with the requirements of <cite path="|16|§4-3">§ 4-3 of this article</cite> shall be subject to a fine of not less than $25 nor more than $100 for each offense.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(f)(2nd sen.)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 16, §7(e)(2nd sen.)</annotation>
@@ -1081,7 +1081,7 @@
       <prefix>§</prefix>
       <num>8-9</num>
       <heading>Prohibited signs: $25 per day.</heading>
-      <text>Violation of the provisions of § 3-5 of this article shall be subject to a fine of $25 for each day the violation continues.</text>
+      <text>Violation of the provisions of <cite path="|16|§3-5">§ 3-5 of this article</cite> shall be subject to a fine of $25 for each day the violation continues.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 16, §17(g)(2nd sen.)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 16, §7(f)(2nd sen.)</annotation>
@@ -1092,7 +1092,7 @@
       <prefix>§</prefix>
       <num>8-10</num>
       <heading>Occupying stall without lease: $25 - $100 per day.</heading>
-      <text>Any person or persons occupying a stall space on any day for which a lease has not been obtained under the provisions of this article shall be subject to a fine of not less than $25 nor more than $100 for each such offense.</text>
+      <text>Any person or persons occupying a stall space on any day for which a lease has not been obtained under the provisions of <cite path="|16">this article</cite> shall be subject to a fine of not less than $25 nor more than $100 for each such offense.</text>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1966, art. 16, § 17(c)</annotation>
         <annotation type="Prior Codifications">1976/83, art. 16,§ 7(c)</annotation>
