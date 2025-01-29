@@ -840,7 +840,7 @@
     <num>4</num>
     <heading>Unfair, Abusive, or Deceptive Trade Practices</heading>
     <annotations>
-      <annotation type="Editor's Notes">Ordinance 23-266 repealed Section 4-1 and 4-2 and the subtitle designation “Subtitle 4. False Advertising” and added Sections 4-1 to 4-7 to be under the new subtitle designation “Subtitle 4. Unfair, Abusive, or Deceptive Trade Practices”. Subtitle 4. False Advertising was originally enacted by Ordinance 56-432, as amended by Ordinance 77-573, and as previously codified at City Code, 1966, art. 19, §23; 1976/83, art. 19, §27</annotation>
+      <annotation type="Editor's Notes"><cite doc="City of Balt., Md., Ord. 23-266">Ordinance 23-266</cite> repealed Section 4-1 and 4-2 and the subtitle designation “Subtitle 4. False Advertising” and added Sections 4-1 to 4-7 to be under the new subtitle designation “Subtitle 4. Unfair, Abusive, or Deceptive Trade Practices”. Subtitle 4. False Advertising was originally enacted by Ordinance 56-432, as amended by Ordinance 77-573, and as previously codified at City Code, 1966, art. 19, §23; 1976/83, art. 19, §27</annotation>
     </annotations>
     <section>
       <prefix>§</prefix>
@@ -899,6 +899,9 @@
         <num>(13)</num>
         <text>"unfair, abusive, or deceptive trade practices".</text>
       </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 23-266" type="History">Ord. 23-266</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -953,6 +956,9 @@
         <num>(6)</num>
         <text>the purchase or offer for purchase of a consumer good or consumer realty from a consumer, by a merchant whose business includes paying off consumer debt in connection with the purchase of any consumer good or consumer realty from a consumer.</text>
       </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 23-266" type="History">Ord. 23-266</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -973,6 +979,9 @@
         <heading>Each day a separate violation.</heading>
         <text>Each day upon which a violation continues shall be considered a separate offense.</text>
       </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 23-266" type="History">Ord. 23-266</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -993,6 +1002,9 @@
         <heading>Each day a separate violation.</heading>
         <text>Each day upon which a violation continues shall be considered a separate offense.</text>
       </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 23-266" type="History">Ord. 23-266</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1050,6 +1062,9 @@
         <heading>Initiation of legal proceeding.</heading>
         <text>In addition to any other enforcement action authorized by law, the City Solicitor, on behalf of the Mayor and City Council, may initiate a legal proceeding for injunctive relief and for the imposition and collection of civil penalties in a court of competent jurisdiction for a violation of this subtitle.</text>
       </para>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 23-266" type="History">Ord. 23-266</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -5254,7 +5269,7 @@
         <text>On or before entering into a contract for the sale of any real property, the seller must disclose to the buyer in writing:</text>
         <para>
           <num>(1)</num>
-          <text><em>{whether} </em>the property had been issued a vacant building notice by the City; <u>and</u></text>
+          <text><em>{whether} </em>the property had been issued a vacant building notice by the City; and</text>
         </para>
         <para>
           <num>(2)</num>

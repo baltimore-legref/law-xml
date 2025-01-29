@@ -3335,34 +3335,34 @@
             <table class="layout-table">
               <tbody>
                 <tr>
-                  <td>(1) in years 1 through 5</td>
-                  <td>-</td>
-                  <td>80%</td>
+                  <td><p class="text-indent-2"><span class="level-num">(1)</span> in years 1 through 5</p></td>
+                  <td><p>-</p></td>
+                  <td><p>80%</p></td>
                 </tr>
                 <tr>
-                  <td>(2)  in year 6</td>
-                  <td>-</td>
-                  <td>70%</td>
+                  <td><p class="text-indent-2"><span class="level-num">(2)</span>  in year 6</p></td>
+                  <td><p>-</p></td>
+                  <td><p>70%</p></td>
                 </tr>
                 <tr>
-                  <td>(3)  in year 7</td>
-                  <td>-</td>
-                  <td>60%</td>
+                  <td><p class="text-indent-2"><span class="level-num">(3)</span>  in year 7</p></td>
+                  <td><p>-</p></td>
+                  <td><p>60%</p></td>
                 </tr>
                 <tr>
-                  <td>(4)  in year 8</td>
-                  <td>-</td>
-                  <td>50%</td>
+                  <td><p class="text-indent-2"><span class="level-num">(4)</span>  in year 8</p></td>
+                  <td><p>-</p></td>
+                  <td><p>50%</p></td>
                 </tr>
                 <tr>
-                  <td>(5) in year 9</td>
-                  <td>-</td>
-                  <td>40%</td>
+                  <td><p class="text-indent-2"><span class="level-num">(5)</span> in year 9</p></td>
+                  <td><p>-</p></td>
+                  <td><p>40%</p></td>
                 </tr>
                 <tr>
-                  <td>(6)  in year 10</td>
-                  <td>-</td>
-                  <td>30%.</td>
+                  <td><p class="text-indent-2"><span class="level-num">(6)</span>  in year 10</p></td>
+                  <td><p>-</p></td>
+                  <td><p>30%.</p></td>
                 </tr>
               </tbody>
             </table>
@@ -4488,36 +4488,36 @@
               <table class="layout-table">
                 <tbody>
                   <tr>
-                    <td class="text-indent-1">(i) in years 1 and 2</td>
-                    <td>100%</td>
+                    <td><p class="text-indent-3"><span class="level-num">(i)</span> in years 1 and 2</p></td>
+                    <td><p>100%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(ii) in years 3, 4, and 5</td>
-                    <td>80%</td>
+                    <td><p class="text-indent-3"><span class="level-num">(ii)</span> in years 3, 4, and 5</p></td>
+                    <td><p>80%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(iii) in year 6</td>
-                    <td>70%</td>
+                    <td><p class="text-indent-3"><span class="level-num">(iii)</span> in year 6</p></td>
+                    <td><p>70%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(iv) in year 7</td>
-                    <td>60%</td>
+                    <td><p class="text-indent-3"><span class="level-num">(iv)</span> in year 7</p></td>
+                    <td><p>60%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(v) in years 8, 9, and 10</td>
-                    <td>50%</td>
+                    <td><p class="text-indent-3"><span class="level-num">(v)</span> in years 8, 9, and 10</p></td>
+                    <td><p>50%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(vi) in year 11</td>
-                    <td>40%</td>
+                    <td><p class="text-indent-3"><span class="level-num">(vi)</span> in year 11</p></td>
+                    <td><p>40%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(vii) in year 12</td>
-                    <td>30%</td>
+                    <td><p class="text-indent-3"><span class="level-num">(vii)</span> in year 12</p></td>
+                    <td><p>30%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(viii) in years 13, 14, and 15</td>
-                    <td>20%</td>
+                    <td><p class="text-indent-3"><span class="level-num">(viii)</span> in years 13, 14, and 15</p></td>
+                    <td><p>20%</p></td>
                   </tr>
                 </tbody>
               </table>
@@ -4824,32 +4824,32 @@
               <table class="layout-table">
                 <tbody>
                   <tr>
-                    <td class="text-indent-1">(i) in years 1 through 5</td>
-                    <td>80%</td>
+                    <td><p class="text-indent-2"><span class="level-num">(i)</span> in years 1 through 5</p></td>
+                    <td><p>80%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(ii) in year 6</td>
-                    <td>70%</td>
+                    <td><p class="text-indent-2"><span class="level-num">(ii)</span> in year 6</p></td>
+                    <td><p>70%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(iii) in year 7</td>
-                    <td>60%</td>
+                    <td><p class="text-indent-2"><span class="level-num">(iii)</span> in year 7</p></td>
+                    <td><p>60%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(iv) in year</td>
-                    <td>50%</td>
+                    <td><p class="text-indent-2"><span class="level-num">(iv)</span> in year</p></td>
+                    <td><p>50%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(v) in year 9</td>
-                    <td>40%</td>
+                    <td><p class="text-indent-2"><span class="level-num">(v)</span> in year 9</p></td>
+                    <td><p>40%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(vi) in year 10</td>
-                    <td>30%</td>
+                    <td><p class="text-indent-2"><span class="level-num">(vi)</span> in year 10</p></td>
+                    <td><p>30%</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-1">(vii) in years 11 and after</td>
-                    <td>0%</td>
+                    <td><p class="text-indent-2"><span class="level-num">(vii)</span> in years 11 and after</p></td>
+                    <td><p>0%</p></td>
                   </tr>
                 </tbody>
               </table>
@@ -10535,12 +10535,12 @@
             <table class="layout-table">
               <tbody>
                 <tr>
-                  <td class="text-indent-1">(1) for cigars weighing 3 pounds or less per 1,000:</td>
-                  <td>$0.03 per cigar</td>
+                  <td><p class="text-indent-2"><span class="level-num">(1)</span> for cigars weighing 3 pounds or less per 1,000:</p></td>
+                  <td><p>$0.03 per cigar</p></td>
                 </tr>
                 <tr>
-                  <td class="text-indent-1">(2) for cigars weighing more than 3 pounds per 1,000:</td>
-                  <td>$0.06 per cigar</td>
+                  <td><p class="text-indent-2"><span class="level-num">(2)</span> for cigars weighing more than 3 pounds per 1,000:</p></td>
+                  <td><p>$0.06 per cigar</p></td>
                 </tr>
               </tbody>
             </table>
@@ -10554,12 +10554,12 @@
             <table class="layout-table">
               <tbody>
                 <tr>
-                  <td class="text-indent-1">(1) for each package of 1.5 ounces or less:</td>
-                  <td>$0.36</td>
+                  <td><p class="text-indent-2"><span class="level-num">(1)</span> for each package of 1.5 ounces or less:</p></td>
+                  <td><p>$0.36</p></td>
                 </tr>
                 <tr>
-                  <td class="text-indent-1">(2)for each package of more than 1.5 ounces:</td>
-                  <td>$0.36 per unit or fraction of  a unit of 1.5 ounces</td>
+                  <td><p class="text-indent-2"><span class="level-num">(2)</span>for each package of more than 1.5 ounces:</p></td>
+                  <td><p>$0.36 per unit or fraction of  a unit of 1.5 ounces</p></td>
                 </tr>
               </tbody>
             </table>
@@ -10573,12 +10573,12 @@
             <table class="layout-table">
               <tbody>
                 <tr>
-                  <td class="text-indent-1">(1) for each package of 1.5 ounces or less:</td>
-                  <td>$0.36</td>
+                  <td><p class="text-indent-2"><span class="level-num">(1)</span> for each package of 1.5 ounces or less:</p></td>
+                  <td><p>$0.36</p></td>
                 </tr>
                 <tr>
-                  <td class="text-indent-1">(2) for each package of more than 1.5 ounces:</td>
-                  <td>$0.36 per unit or fraction of a unit of 1.5 ounces</td>
+                  <td><p class="text-indent-2"><span class="level-num">(2)</span> for each package of more than 1.5 ounces:</p></td>
+                  <td><p>$0.36 per unit or fraction of a unit of 1.5 ounces</p></td>
                 </tr>
               </tbody>
             </table>

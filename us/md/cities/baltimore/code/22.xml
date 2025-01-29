@@ -3,7 +3,7 @@
   <prefix>Article</prefix>
   <num>22</num>
   <heading>Retirement Systems</heading>
-  <container>
+  <container name='s1'>
     <prefix>Subtitle</prefix>
     <num>1</num>
     <heading>Employees' Retirement System</heading>
@@ -9488,7 +9488,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name='s2'>
     <prefix>Subtitle</prefix>
     <num>2</num>
     <heading>Elected Officials' Retirement System</heading>
@@ -11314,7 +11314,7 @@
       <reason>Vacant</reason>
     </section>
   </container>
-  <container>
+  <container name="s3">
     <prefix>Subtitle</prefix>
     <num>3</num>
     <heading>Fire and Police Employees' Retirement System</heading>
@@ -11454,27 +11454,27 @@
           <table class="layout-table">
             <tbody>
               <tr>
-                <td class="text-indent-1">(i) the Annuity Savings Reserve:</td>
-                <td>3.00%.</td>
+                <td><p class="text-indent-2"><span class="level-num">(i)</span> the Annuity Savings Reserve:</p></td>
+                <td><p>3.00%.</p></td>
               </tr>
               <tr>
-                <td colspan="2" class="text-indent-1">(ii) for valuation purposes:</td>
+                <td colspan="2"><p class="text-indent-2"><span class="level-num">(ii)</span> for valuation purposes:</p></td>
               </tr>
               <tr>
-                <td class="text-indent-2">(A) for determining system funding contributions to be made by the City on or after July 1, 2022:</td>
-                <td>7.00%</td>
+                <td><p class="text-indent-3"><span class="level-num">(A)</span> for determining system funding contributions to be made by the City on or after July 1, 2022:</p></td>
+                <td><p>7.00%</p></td>
               </tr>
               <tr>
-                <td class="text-indent-2">(B) for determining systems funding contributions to be made by the City on or after July 1, 2023:</td>
-                <td>6.95%</td>
+                <td><p class="text-indent-3"><span class="level-num">(B)</span> for determining systems funding contributions to be made by the City on or after July 1, 2023:</p></td>
+                <td><p>6.95%</p></td>
               </tr>
               <tr>
-                <td class="text-indent-2">(C) for determining system funding contributions to be made by the City on or after July 1, 2024:</td>
-                <td>6.90%</td>
+                <td><p class="text-indent-3"><span class="level-num">(C)</span> for determining system funding contributions to be made by the City on or after July 1, 2024:</p></td>
+                <td><p>6.90%</p></td>
               </tr>
               <tr>
-                <td class="text-indent-1">(iii)  for determining actuarial equivalents:</td>
-                <td>5.00%.</td>
+                <td><p class="text-indent-2"><span class="level-num">(iii)</span>  for determining actuarial equivalents:</p></td>
+                <td><p>5.00%.</p></td>
               </tr>
             </tbody>
           </table>
@@ -17200,7 +17200,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name='s4'>
     <prefix>Subtitle</prefix>
     <num>4</num>
     <heading>Contractual Provisions</heading>
@@ -17217,7 +17217,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name='s5'>
     <prefix>Subtitle</prefix>
     <num>5</num>
     <heading>Investment Advisors</heading>
@@ -17242,7 +17242,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name='s6'>
     <prefix>Subtitle</prefix>
     <num>6</num>
     <heading>Police Department, Special Fund</heading>
@@ -17280,7 +17280,7 @@
       </annotations>
     </section>
   </container>
-  <container>
+  <container name='s7'>
     <prefix>Subtitle</prefix>
     <num>7</num>
     <heading>General Provisions</heading>

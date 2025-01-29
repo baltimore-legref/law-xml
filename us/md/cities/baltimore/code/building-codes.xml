@@ -5,18 +5,22 @@
     <annotation type="Editor's Notes">
       <text>Introductory Note</text>
       <text>This BFR Codes Article (2020 Edition) comprises the following standards and codes, as supplemented, amended, or otherwise modified by the Mayor and City Council of Baltimore:</text>
-      <text>Maryland Building Performance Standards / March 2019</text>
-      <text>International Building Code / 2018</text>
-      <text>National Electrical Code / 2017</text>
-      <text>International Fuel Gas Code / 2018</text>
-      <text>International Mechanical Code / 2018</text>
-      <text>International Plumbing Code / 2018</text>
-      <text>International Property Maintenance Code / 2018</text>
-      <text>International Fire Code / 2018</text>
-      <text>International Energy Conservation Code / 2018</text>
-      <text>International Residential Code, 1- and 2- Family Dwellings / 2018</text>
-      <text>International Green Construction Code / 2018</text>
-      <text>International Swimming Pool and Spa Code / 2018</text>
+      <text>
+        <ul>
+          <li>Maryland Building Performance Standards / March 2019</li>
+          <li>International Building Code / 2018</li>
+          <li>National Electrical Code / 2017</li>
+          <li>International Fuel Gas Code / 2018</li>
+          <li>International Mechanical Code / 2018</li>
+          <li>International Plumbing Code / 2018</li>
+          <li>International Property Maintenance Code / 2018</li>
+          <li>International Fire Code / 2018</li>
+          <li>International Energy Conservation Code / 2018</li>
+          <li>International Residential Code, 1- and 2- Family Dwellings / 2018</li>
+          <li>International Green Construction Code / 2018</li>
+          <li>International Swimming Pool and Spa Code / 2018</li>
+        </ul>
+      </text>
       <text>* * * * * * * * * *</text>
       <text>Transitions</text>
       <text>Ordinance 20-361 became effective May 18, 2020.  Sections 3 and 4 of that Ordinance provide for its application to preexisting transactions as follows:</text>
@@ -309,7 +313,7 @@
           <heading>Existing conditions.</heading>
           <text>The legal occupancy of any structure existing on the date of adoption of this Code is permitted to continue without change, except as otherwise specifically provided in this Code, the International Property Maintenance Code, or the International Fire Code.</text>
           <para name="102.6.1to106.1.2">
-            <num from="102.6.1" to="106.1.2">102.6.1 to 106.1.2</num>
+            <num from="102.6.1" to="102.6.2">102.6.1 to 102.6.2</num>
             <reason>As in IBC</reason>
           </para>
         </para>
@@ -1894,12 +1898,12 @@
                 <table class="layout-table">
                   <tbody>
                     <tr>
-                      <td class="text-indent-1">a. 1- and 2-family dwellings</td>
-                      <td>$50</td>
+                      <td><p class="text-indent-5"><span class="level-num">a.</span> 1- and 2-family dwellings</p></td>
+                      <td><p>$50</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">b. All others</td>
-                      <td>$75</td>
+                      <td><p class="text-indent-5"><span class="level-num">b.</span> All others</p></td>
+                      <td><p>$75</p></td>
                     </tr>
                   </tbody>
                 </table>
@@ -1912,27 +1916,27 @@
                 <table class="layout-table">
                   <tbody>
                     <tr>
-                      <td class="text-indent-1">a. 1- and 2-family dwellings</td>
-                      <td>$25</td>
+                      <td><p class="text-indent-5"><span class="level-num">a.</span> 1- and 2-family dwellings</p></td>
+                      <td><p>$25</p></td>
                     </tr>
                     <tr>
-                      <td colspan="2" class="text-indent-1">b. All others</td>
+                      <td colspan="2"><p class="text-indent-5"><span class="level-num">b.</span> All others</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-2">0 to 500 sq. ft.</td>
-                      <td>$75</td>
+                      <td class="text-indent-6">0 to 500 sq. ft.</td>
+                      <td><p>$75</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-2">Over 500 sq. ft. to 1,000 sq. ft.</td>
-                      <td>$150</td>
+                      <td class="text-indent-6">Over 500 sq. ft. to 1,000 sq. ft.</td>
+                      <td><p>$150</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-2">Over 1,000 sq. ft. to 5,000 sq. ft.</td>
-                      <td>$250</td>
+                      <td class="text-indent-6">Over 1,000 sq. ft. to 5,000 sq. ft.</td>
+                      <td><p>$250</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-2">Over 5,000 sq. ft.</td>
-                      <td>$500</td>
+                      <td class="text-indent-6">Over 5,000 sq. ft.</td>
+                      <td><p>$500</p></td>
                     </tr>
                   </tbody>
                 </table>
@@ -1964,12 +1968,12 @@
                 <table class="layout-table">
                   <tbody>
                     <tr>
-                      <td class="text-indent-1">a. 1- and 2-family dwellings</td>
-                      <td>$25</td>
+                      <td><p class="text-indent-2"><span class="level-num">a.</span> 1- and 2-family dwellings</p></td>
+                      <td><p>$25</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">b. All others</td>
-                      <td>$50</td>
+                      <td><p class="text-indent-2"><span class="level-num">b.</span> All others</p></td>
+                      <td><p>$50</p></td>
                     </tr>
                   </tbody>
                 </table>
@@ -1979,15 +1983,15 @@
               <num>2.</num>
               <text>For applications that require the submission of construction documents for plan review:</text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
-                      <td class="text-indent-1">a. 1- and 2-family dwellings</td>
-                      <td>$125</td>
+                      <td><p class="text-indent-2"><span class="level-num">a.</span> 1- and 2-family dwellings</p></td>
+                      <td><p>$125</p></td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">b. All others</td>
-                      <td>$150</td>
+                      <td><p class="text-indent-2"><span class="level-num">b.</span> All others</p></td>
+                      <td><p>$150</p></td>
                     </tr>
                   </tbody>
                 </table>
@@ -2097,18 +2101,17 @@
                 </text>
                 <text>$10 for each 1,000 cubic feet (28.31 cu. m.) or fraction of 1,000 cubic feet (28.31 cu. m.) of gross volume, including all basements and cellars.</text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
-                        <td>Minimums –</td>
-                        <td proof="needed"/>
+                        <td colspan="2">Minimums –</td>
                       </tr>
                       <tr>
-                        <td class="text-indent-1">New building</td>
+                        <td>New building</td>
                         <td>$150</td>
                       </tr>
                       <tr>
-                        <td class="text-indent-1">Additions</td>
+                        <td>Additions</td>
                         <td>$75</td>
                       </tr>
                     </tbody>
@@ -2123,18 +2126,17 @@
               </para>
               <text>$20 for each 1,000 cubic feet (28.31 cu. m.) or fraction of 1,000 cubic feet (28.31 cu. m.) of adjusted gross volume, including all basements and cellars. For this calculation, the gross volume of the building is adjusted to exclude, for each story of the building, the volume attributable to any area of that story that is more than 20 feet (6.10 m) above the floor.</text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
-                      <td>Minimums –</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Minimums –</td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">New building</td>
+                      <td>New building</td>
                       <td>$250</td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">Additions</td>
+                      <td>Additions</td>
                       <td>$150</td>
                     </tr>
                   </tbody>
@@ -2145,7 +2147,7 @@
               <num>b.</num>
               <heading>Structures accessory to a principal occupancy.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>Each structure of 100 square feet (9.29 sq. m.) or less of gross floor area</td>
@@ -2169,7 +2171,7 @@
                 </text>
                 <text>$0.30 per square foot  or fraction of a square foot of affected gross floor area</text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>Minimum</td>
@@ -2189,7 +2191,7 @@
                 </text>
                 <text>$0.35 per square foot  or fraction of a square foot of affected gross floor area</text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>Minimum</td>
@@ -2210,18 +2212,17 @@
               <heading>Interior only demolition.</heading>
               <text>$0.02 per square foot  or fraction of a square foot of affected gross floor area</text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
-                      <td>Minimums –</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Minimums –</td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">1- and 2-family dwellings</td>
+                      <td>1- and 2-family dwellings</td>
                       <td>$25</td>
                     </tr>
                     <tr>
-                      <td class="text-indent-1">All others</td>
+                      <td>All others</td>
                       <td>$100</td>
                     </tr>
                   </tbody>
@@ -2232,7 +2233,7 @@
               <num>e.</num>
               <heading>Chimneys, stacks, towers.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>0 to 50 feet (15.24 m) high</td>
@@ -2264,7 +2265,7 @@
               <num>h.</num>
               <heading>Grading (excavating or filling).</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>0 to 5,000 cu. yd. (3822.77 cu. m.)</td>
@@ -2286,7 +2287,7 @@
               <num>i.</num>
               <heading>Paving or surfacing.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>0 to 1,000 sq. ft. (92.90 sq. m.)</td>
@@ -2312,7 +2313,7 @@
               <num>j.</num>
               <heading>Erecting, placing, hanging, or reconstructing signs.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>0 to 10 sq. ft. (0.929 sq. m.)</td>
@@ -2349,7 +2350,7 @@
               <num>l.</num>
               <heading>Demolition (other than interior only).</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>1- and 2-family dwellings</td>
@@ -2384,7 +2385,7 @@
               <heading>Temporary structures.</heading>
               <text>For each temporary structure, the fee is $20 a year for each 500 square feet or fraction of 500 square feet of gross floor area.</text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>Minimum</td>
@@ -2407,7 +2408,7 @@
               <num>o.</num>
               <heading>Swimming pools.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>1- and 2-family dwellings</td>
@@ -2427,7 +2428,7 @@
                 <strong>Occupancy permit (including any accompanying use permit issued under  Zoning Code).</strong>
               </text>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>For each use in each building or part of a building</td>
@@ -2460,7 +2461,7 @@
                   <strong>Rating in Amperes</strong>
                 </text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>0 to 100</td>
@@ -2501,7 +2502,7 @@
                   <strong>Installing conduits and duct banks only</strong>
                 </text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>Over 0 to 200 feet</td>
@@ -2525,7 +2526,7 @@
                   <strong>Sub feeders for additional meters only</strong>
                 </text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>0 to 200 amperes</td>
@@ -2561,7 +2562,7 @@
                   <strong>Photovoltaic system</strong>
                 </text>
                 <text>
-                  <table class="layout-table">
+                  <table>
                     <tbody>
                       <tr>
                         <td>1 to 25 photovoltaic panels</td>
@@ -2580,7 +2581,7 @@
               <num>b.</num>
               <heading>Electrical wiring for new branch circuits, feeders, and extensions to or replacements of branch circuits.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
                       <td>For each circuit</td>
@@ -2598,7 +2599,7 @@
             </para>
             <text>For installing electrical fixtures or devices only:</text>
             <text>
-              <table class="layout-table">
+              <table>
                 <tbody>
                   <tr>
                     <td>1 to 25 fixtures</td>
@@ -3181,11 +3182,10 @@
               <num>k.</num>
               <heading>Installing elevators, escalators, etc.</heading>
               <text>
-                <table class="layout-table">
+                <table>
                   <tbody>
                     <tr>
-                      <td>Installation per unit:</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Installation per unit:</td>
                     </tr>
                     <tr>
                       <td class="text-indent-1">Passenger, power freight, and parking elevators</td>
@@ -3420,8 +3420,7 @@
                       <td>$50 each</td>
                     </tr>
                     <tr>
-                      <td>Roof signs</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Roof signs</td>
                     </tr>
                     <tr>
                       <td class="text-indent-1">100 sq. ft. (9.29 sq. m.) to 500 sq. ft. (46.45 sq. m.)</td>
@@ -6840,8 +6839,7 @@
                 <table>
                   <tbody>
                     <tr>
-                      <td>Front</td>
-                      <td proof="needed"/>
+                      <td colspan="2">Front</td>
                     </tr>
                     <tr>
                       <td class="text-indent-1">Flat Roof –</td>
@@ -18264,7 +18262,7 @@
             <num>402.3.1</num>
             <heading>Aged roof solar reflectance.</heading>
             <text>Where an aged solar reflectance required by Section 402.3 is not available, it shall be determined in accordance with Equation 4-3.</text>
-            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial </em></sub>- 0.2)] 			<strong>	(Equation 4-3)</strong></text>
+            <text><em>R</em><sub><em>aged</em></sub> = [0.2 + 0.7(<em>R</em><sub><em>initial </em></sub>- 0.2)]             <strong>    (Equation 4-3)</strong></text>
             <text>where:</text>
             <text><em>R</em><sub><em>aged</em></sub> =  The aged solar reflectance.</text>
             <text><em>R</em><sub><em>initial</em></sub> =  The initial solar reflectance determined in accordance with CRRC-S100.</text>
@@ -22088,7 +22086,7 @@
       </section>
       <section>
         <prefix>Section</prefix>
-        <num>704.5</num>
+        <num>701.5</num>
         <heading>Performance option  As in Baltimore City IECC § 401.2.1 (Options 1 or 2).</heading>
         <para>
           <num>701.5.1</num>
@@ -22479,10 +22477,10 @@
                     </tr>
                     <tr>
                       <td proof="needed" colspan="3">
-                        <p>a	The IIC value listed addresses footfall noise but not exercise-related vibration-borne sound. Exercise-related vibration-borne sound must comply with the requirements of § 801.3.3.2.</p>
-                        <p>b	Minimum cSTC and IIC values are not required between adjacent rooms of the same room type.</p>
-                        <p>c	For operable partitions and walls containing doors, windows, or both, the minimum cSTC ratings must  be 5 less than the values listed in Table 801.3.3.3.</p>
-                        <p>d	The minimum cSTC values must  be 5 less than the cSTC values in Table 801.3.3.3 for walls between spaces and corridors and between spaces and open offices.  The minimum cSTC values must be 15 less than the cSTC values specified in Table 801.3.3.3 for walls having doors that open to corridors or open offices.</p>
+                        <p>a    The IIC value listed addresses footfall noise but not exercise-related vibration-borne sound. Exercise-related vibration-borne sound must comply with the requirements of § 801.3.3.2.</p>
+                        <p>b    Minimum cSTC and IIC values are not required between adjacent rooms of the same room type.</p>
+                        <p>c    For operable partitions and walls containing doors, windows, or both, the minimum cSTC ratings must  be 5 less than the values listed in Table 801.3.3.3.</p>
+                        <p>d    The minimum cSTC values must  be 5 less than the cSTC values in Table 801.3.3.3 for walls between spaces and corridors and between spaces and open offices.  The minimum cSTC values must be 15 less than the cSTC values specified in Table 801.3.3.3 for walls having doors that open to corridors or open offices.</p>
                       </td>
                     </tr>
                   </tbody>
@@ -23080,8 +23078,8 @@
                       </tr>
                       <tr>
                         <td proof="needed" colspan="2">
-                          <p>a.	This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</p>
-                          <p>b.	TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</p>
+                          <p>a. This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</p>
+                          <p>b. TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</p>
                         </td>
                       </tr>
                     </tbody>

@@ -3769,7 +3769,9 @@
           <num>(c)</num>
           <heading>Text of warning.</heading>
           <text>The warning must warn the consumer against the hazard of suffocation by children in the following or substantially equivalent wording:</text>
-          <text>"Warning:  To avoid danger of suffocation, keep away from babies and children.  Do not use in cribs, beds, carriages, or playpens.  This bag is not a toy."</text>
+          <include>
+            <text>"Warning:  To avoid danger of suffocation, keep away from babies and children.  Do not use in cribs, beds, carriages, or playpens.  This bag is not a toy."</text>
+          </include>
         </para>
         <para>
           <num>(d)</num>
@@ -7797,12 +7799,12 @@
               <table class="layout-table">
                 <tbody>
                   <tr>
-                    <td class="text-indent-2">(1) Mercury:</td>
-                    <td>15 micrograms per dry standard cubic meter (μg/dscm) corrected at 7% O2</td>
+                    <td><p class="text-indent-2"><span class="level-num">(1)</span> Mercury:</p></td>
+                    <td><p>15 micrograms per dry standard cubic meter (μg/dscm) corrected at 7% O2</p></td>
                   </tr>
                   <tr>
-                    <td class="text-indent-2">(2) Sulfur Dioxide (SO2):</td>
-                    <td>18 parts per million dry volume (ppmvd) corrected at 7% O2 (24 hour geometric mean)</td>
+                    <td><p class="text-indent-2"><span class="level-num">(2)</span> Sulfur Dioxide (SO2):</p></td>
+                    <td><p>18 parts per million dry volume (ppmvd) corrected at 7% O2 (24 hour geometric mean)</p></td>
                   </tr>
                 </tbody>
               </table>
