@@ -6,7 +6,7 @@
   <container>
     <prefix>Division</prefix>
     <num>I</num>
-    <heading>:  Floodplain Management</heading>
+    <heading>Floodplain Management</heading>
     <annotations>
       <annotation type="Editor's Notes">
         <text>Section 4 of Ord. 21-020 sets forth the general transition rules for the 2021 revised Division I as follows</text>
@@ -3826,7 +3826,7 @@
   <container>
     <prefix>Division</prefix>
     <num>II</num>
-    <heading>:  Stormwater Management</heading>
+    <heading>Stormwater Management</heading>
     <annotations>
       <annotation type="Editor's Notes">Ordinance 10-277 substantially amended this Division II, effective May 4, 2010.</annotation>
     </annotations>
@@ -7331,7 +7331,7 @@
   <container>
     <prefix>Division</prefix>
     <num>III</num>
-    <heading>:  Soil Erosion and Sediment Control</heading>
+    <heading>Soil Erosion and Sediment Control</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>31</num>
@@ -9029,7 +9029,7 @@
   <container>
     <prefix>Division</prefix>
     <num>IV</num>
-    <heading>:  Forest and Tree Conservation</heading>
+    <heading>Forest and Tree Conservation</heading>
     <annotations>
       <annotation type="Editor's Notes">This Division IV was substantially amended by Ordinance 20-401, effective December 28, 2020.</annotation>
     </annotations>
@@ -10248,7 +10248,7 @@
   <container>
     <prefix>Division</prefix>
     <num>V</num>
-    <heading>:  City Parks and Trees</heading>
+    <heading>City Parks and Trees</heading>
     <annotations>
       <annotation type="Editor's Notes">
         <text>Ordinance 03-501 (effective March 17, 2003) established a new “Department of Transportation” {Section 1}.  The Ordinance authorizes the Director of the Department to “appoint or employ assistants and employees” and to “delegate to [them] the powers and duties that the Director considers proper” {Section 1}, and transfers to the Department, among other powers, duties, and programs, certain “programs budgeted under the Office of Transportation or the Department of Transportation” {Section 2(b)}.  Among the programs transferred was “505 - Park and Street Trees”.</text>
@@ -11226,7 +11226,7 @@
   <container>
     <prefix>Division</prefix>
     <num>VI</num>
-    <heading>:  Miscellaneous</heading>
+    <heading>Miscellaneous</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>61</num>

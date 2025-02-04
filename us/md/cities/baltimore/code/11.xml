@@ -6,7 +6,7 @@
   <container>
     <prefix>Division</prefix>
     <num>I</num>
-    <heading>:  Minimum Wage Law</heading>
+    <heading>Minimum Wage Law</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>1</num>
@@ -1145,7 +1145,7 @@
   <container>
     <prefix>Division</prefix>
     <num>II</num>
-    <heading>:  Miscellaneous Regulations</heading>
+    <heading>Miscellaneous Regulations</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>11</num>

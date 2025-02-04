@@ -6,7 +6,7 @@
   <container>
     <prefix>Division</prefix>
     <num>I</num>
-    <heading>:  General Administration</heading>
+    <heading>General Administration</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>1</num>
@@ -513,7 +513,7 @@
   <container>
     <prefix>Division</prefix>
     <num>II</num>
-    <heading>:  Property Tax</heading>
+    <heading>Property Tax</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>6</num>
@@ -6744,7 +6744,7 @@
   <container>
     <prefix>Division</prefix>
     <num>III</num>
-    <heading>:  Other Taxes</heading>
+    <heading>Other Taxes</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>16</num>

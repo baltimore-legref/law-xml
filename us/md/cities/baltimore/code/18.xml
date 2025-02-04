@@ -6,7 +6,7 @@
   <container>
     <prefix>Division</prefix>
     <num>I</num>
-    <heading>:  Education</heading>
+    <heading>Education</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>1</num>
@@ -1289,7 +1289,7 @@
   <container>
     <prefix>Division</prefix>
     <num>II</num>
-    <heading>:  Libraries</heading>
+    <heading>Libraries</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>7</num>
@@ -1439,7 +1439,7 @@
   <container>
     <prefix>Division</prefix>
     <num>III</num>
-    <heading>:  Museums and Galleries</heading>
+    <heading>Museums and Galleries</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>10</num>
@@ -2101,7 +2101,7 @@
   <container>
     <prefix>Division</prefix>
     <num>IV</num>
-    <heading>:  Concerts</heading>
+    <heading>Concerts</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>17</num>

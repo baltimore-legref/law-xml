@@ -6,7 +6,7 @@
   <container>
     <prefix>Division</prefix>
     <num>I</num>
-    <heading>:  General Administration</heading>
+    <heading>General Administration</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>1</num>
@@ -3761,7 +3761,7 @@
   <container>
     <prefix>Division</prefix>
     <num>II</num>
-    <heading>:  Dwellings and Vacant Structures</heading>
+    <heading>Dwellings and Vacant Structures</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>4</num>
@@ -7735,7 +7735,7 @@
   <container>
     <prefix>Division</prefix>
     <num>III</num>
-    <heading>:  Vacant Lots; Peep Show Establishments</heading>
+    <heading>Vacant Lots; Peep Show Establishments</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>11</num>
@@ -8431,7 +8431,7 @@
   <container>
     <prefix>Division</prefix>
     <num>IV</num>
-    <heading>:  Regulation of Construction Services</heading>
+    <heading>Regulation of Construction Services</heading>
     <container>
       <prefix>Subtitle</prefix>
       <num>16</num>
