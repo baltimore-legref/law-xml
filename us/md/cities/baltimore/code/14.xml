@@ -7265,7 +7265,8 @@
         <text>The Department of Transportation will post at least one sign on each blockface of the Area, stating that this block is part of a NeighborWatch Area.</text>
       </para>
       <annotations>
-        <annotation doc="City of Balt., Md., City Code, 1976/83, art. 19, §241.)(Ord. 93-209" type="History">City Code, 1976/83, art. 19, §241.)(Ord. 93-209</annotation>
+        <annotation type="Prior Codifications">City Code, 1976/83, art. 19, §241</annotation>
+        <annotation doc="City of Balt., Md., Ord. 93-209" type="History">Ord. 93-209</annotation>
         <annotation doc="City of Balt., Md., Ord. 10-399" type="History">Ord. 10-399</annotation>
         <annotation doc="City of Balt., Md., Ord. 18-106" type="History">Ord. 18-106</annotation>
         <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
