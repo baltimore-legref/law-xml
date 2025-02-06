@@ -283,25 +283,19 @@
               <th colspan="5">Subdistricts</th>
               <th>Use Standards</th>
             </tr>
+            <tr>
+              <th/>
+              <th>OR-1</th>
+              <th>C-1</th>
+              <th>C-2</th>
+              <th>C-3</th>
+              <th>IMU-1</th>
+              <th/>
+            </tr>
           </thead>
           <tbody>
             <tr>
-              <td proof="needed"/>
-              <td>OR-1</td>
-              <td>C-1</td>
-              <td>C-2</td>
-              <td>C-3</td>
-              <td>IMU-1</td>
-              <td proof="needed"/>
-            </tr>
-            <tr>
-              <th>Residential</th>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <th colspan="7">Residential</th>
             </tr>
             <tr>
               <td>Dwelling (Above Non-Residential Ground Floor)</td>
@@ -310,7 +304,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Dwelling: Multi-Family</td>
@@ -328,7 +322,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Dwelling: Live-Work</td>
@@ -337,16 +331,10 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
-              <th>Institutional</th>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <th colspan="7">Institutional</th>
             </tr>
             <tr>
               <td>Community Center</td>
@@ -355,7 +343,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Cultural Facility</td>
@@ -376,13 +364,7 @@
               <td>Per § 14-332</td>
             </tr>
             <tr>
-              <th>Open-Space</th>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <th colspan="7">Open-Space</th>
             </tr>
             <tr>
               <td>Community-Managed Open-Space Farm</td>
@@ -409,7 +391,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Urban Agriculture</td>
@@ -421,13 +403,7 @@
               <td>Per § 14-339</td>
             </tr>
             <tr>
-              <th>Commercial</th>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <th colspan="7">Commercial</th>
             </tr>
             <tr>
               <td>Art Gallery</td>
@@ -436,7 +412,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Arts Studio</td>
@@ -454,7 +430,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Body Art Establishment</td>
@@ -463,7 +439,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Carry-Out Food Shop</td>
@@ -472,7 +448,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Day-Care Center: Adult or Child</td>
@@ -508,7 +484,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Greenhouse or Nursery</td>
@@ -526,7 +502,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Health and Fitness Center</td>
@@ -535,7 +511,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Hotel or Motel</td>
@@ -544,7 +520,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Kennel</td>
@@ -562,7 +538,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Outdoor Dining</td>
@@ -580,7 +556,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Recreation: Indoor</td>
@@ -607,7 +583,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
@@ -616,7 +592,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
@@ -637,13 +613,7 @@
               <td>Per § 14-337</td>
             </tr>
             <tr>
-              <th>Industrial</th>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <th colspan="7">Industrial</th>
             </tr>
             <tr>
               <td>Alternative Energy System: Commercial</td>
@@ -652,7 +622,7 @@
               <td>CB</td>
               <td>CB</td>
               <td>CB</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Food Processing: Light</td>
@@ -661,7 +631,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Industrial: Light</td>
@@ -670,7 +640,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Movie Studio</td>
@@ -679,7 +649,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Printing Establishment</td>
@@ -688,7 +658,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
               <td>Research and Development Facility</td>
@@ -697,16 +667,10 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td proof="needed"/>
+              <td/>
             </tr>
             <tr>
-              <th>Other</th>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
-              <td proof="needed"/>
+              <th colspan="7">Other</th>
             </tr>
             <tr>
               <td>Alternative Energy System: Community-Based</td>
@@ -760,12 +724,16 @@
           <td>Per § 14-338</td>
         </tr>
       </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="7">
+            <p><sup>1</sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
+            <p><sup>2</sup> Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
+          </td>
+        </tr>
+      </tfoot>
     </table>
   </text>
-  <text>
-    <sup>1</sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</text>
-  <text>
-    <sup>2</sup> Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</text>
 </attachment>
 </codify:insert>
 </document>
