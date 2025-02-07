@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2024">
   <heading>2024 Ordinances</heading>
+  <subheading>Codified Ordinances</subheading>
   <xi:include href="./24-440.xml"/>
   <xi:include href="./24-438.xml"/>
   <xi:include href="./24-437.xml"/>
@@ -9,10 +10,8 @@
   <xi:include href="./24-429.xml"/>
   <xi:include href="./24-421.xml"/>
   <xi:include href="./24-403.xml"/>
-  <xi:include href="./24-392.xml"/>
   <xi:include href="./24-389.xml"/>
   <xi:include href="./24-379.xml"/>
-  <xi:include href="./24-378.xml"/>
   <xi:include href="./24-373.xml"/>
   <xi:include href="./24-367.xml"/>
   <xi:include href="./24-360.xml"/> 
@@ -27,10 +26,7 @@
   <xi:include href="./24-332.xml"/>
   <xi:include href="./24-331.xml"/>
   <xi:include href="./24-325.xml"/>
-  <xi:include href="./24-320.xml"/>
-  <xi:include href="./24-319.xml"/>
   <xi:include href="./24-317.xml"/>
-  <xi:include href="./24-313.xml"/>
   <xi:include href="./24-312.xml"/>
   <xi:include href="./24-311.xml"/>
   <xi:include href="./24-309.xml"/>
@@ -38,4 +34,10 @@
   <xi:include href="./24-294.xml"/>
   <xi:include href="./24-293.xml"/>
   <xi:include href="./24-291.xml"/>
+  <subheading>Uncodified Ordinances</subheading>
+  <xi:include href="./24-392.xml"/>
+  <xi:include href="./24-378.xml"/>
+  <xi:include href="./24-320.xml"/>
+  <xi:include href="./24-319.xml"/>
+  <xi:include href="./24-313.xml"/>
 </collection>
