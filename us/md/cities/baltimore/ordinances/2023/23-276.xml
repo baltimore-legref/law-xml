@@ -5,6 +5,7 @@
   <heading type="short">Minority and Women's Business Program – Reauthorization</heading>
   <heading type="long">An Ordinance Concerning Minority and Women's Business Program – Reauthorization</heading>
   <meta>
+    <stub/>
     <introduced>2023-05-15</introduced>
     <effective>2023-11-20</effective>
     <citations>
@@ -17,24 +18,28 @@
       <committee>Favorable</committee>
     </history>
   </meta>
-  <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-3|(a)|(1)|(iv)">
-    <para>
-      <num>(iv)</num>
-      <text>the extensive findings of the  2022 Disparity Study, "The State of Minority and Women-Owned Business enterprise: Evidence from Baltimore";</text>
-    </para>
-  </codify:replace>
-  <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-3|(a)|(2)">
-    <para>
-      <num>(2)</num>
-      <text>Past discrimination in the City's contracting process by prime contractors against minority and women's business enterprises has resulted in significant underutilization of minority and women's business enterprises in contracts awarded by the City of Baltimore.  As determined by the  2022 Disparity Study, this disparity has been persistent, pervasive, and statistically significant based on available vendor data.</text>
-    </para>
-  </codify:replace>
-  <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-5">
-    <section>
-      <prefix>§</prefix>
-      <num>28-5</num>
-      <heading>Automatic termination.</heading>
-      <text>This subtitle automatically expires on June 30, 2028, unless the City Council, after causing an appropriate study to be undertaken, conducting public hearings, and hearing testimonial evidence, find that the purposes identified in this subtitle have not yet been achieved, in which case this subtitle may be extended for 5 more years.</text>
-    </section>
-  </codify:replace>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-3|(a)|(1)|(iv)">
+      <para>
+        <num>(iv)</num>
+        <text>the extensive findings of the  2022 Disparity Study, "The State of Minority and Women-Owned Business enterprise: Evidence from Baltimore";</text>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-3|(a)|(2)">
+      <para>
+        <num>(2)</num>
+        <text>Past discrimination in the City's contracting process by prime contractors against minority and women's business enterprises has resulted in significant underutilization of minority and women's business enterprises in contracts awarded by the City of Baltimore.  As determined by the  2022 Disparity Study, this disparity has been persistent, pervasive, and statistically significant based on available vendor data.</text>
+      </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|5|28|1|I|28-5">
+      <section>
+        <prefix>§</prefix>
+        <num>28-5</num>
+        <heading>Automatic termination.</heading>
+        <text>This subtitle automatically expires on June 30, 2028, unless the City Council, after causing an appropriate study to be undertaken, conducting public hearings, and hearing testimonial evidence, find that the purposes identified in this subtitle have not yet been achieved, in which case this subtitle may be extended for 5 more years.</text>
+      </section>
+    </codify:replace>
+  </section>
 </document>
