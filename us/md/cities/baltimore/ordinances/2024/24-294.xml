@@ -5,6 +5,7 @@
   <heading type="short">South Baltimore Gateway Community Impact District Management</heading>
   <heading type="long">An Ordinance Concerning South Baltimore Gateway Community Impact District Management</heading>
   <meta>
+    <stub/>
     <introduced>2023-09-18</introduced>
     <effective>2024-01-17</effective>
     <citations>
@@ -17,35 +18,39 @@
       <committee>Favorable with amendment</committee>
     </history>
   </meta>
-  <codify:replace doc="City of Baltimore, Md., Code" path="|14|19|19-6|(d)|(2)">
-    <para>
-      <num>(2)</num>
-      <text>
-        <em>Council President appointees.</em>
-      </text>
-      <text>The Council President shall appoint the members of the Baltimore City Council who represent the councilmanic districts overlapping with the boundaries of the South Baltimore Gateway Community Impact District to serve as ex officio members of the Board.</text>
-    </para>
-  </codify:replace>
-  <codify:replace doc="City of Baltimore, Md., Code" path="|14|19|19-6|(f)|(2)">
-    <para>
-      <num>(2)</num>
-      <text>
-        <em>Term limits.</em>
-      </text>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|14|19|19-6|(d)|(2)">
       <para>
-        <num>(i)</num>
+        <num>(2)</num>
         <text>
-          <em>In general.</em>
+          <em>Council President appointees.</em>
         </text>
-        <text>Subject to subparagraph (ii) of this paragraph, the Bylaws may specify a maximum number of consecutive terms that an appointed member may serve.</text>
+        <text>The Council President shall appoint the members of the Baltimore City Council who represent the councilmanic districts overlapping with the boundaries of the South Baltimore Gateway Community Impact District to serve as ex officio members of the Board.</text>
       </para>
+    </codify:replace>
+    <codify:replace doc="City of Baltimore, Md., Code" path="|14|19|19-6|(f)|(2)">
       <para>
-        <num>(ii)</num>
+        <num>(2)</num>
         <text>
-          <em>Exemptions.</em>
+          <em>Term limits.</em>
         </text>
-        <text>The Bylaws may not establish term limits for members appointed under paragraph (d)(2) of this section.</text>
+        <para>
+          <num>(i)</num>
+          <text>
+            <em>In general.</em>
+          </text>
+          <text>Subject to subparagraph (ii) of this paragraph, the Bylaws may specify a maximum number of consecutive terms that an appointed member may serve.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>
+            <em>Exemptions.</em>
+          </text>
+          <text>The Bylaws may not establish term limits for members appointed under paragraph (d)(2) of this section.</text>
+        </para>
       </para>
-    </para>
-  </codify:replace>
+    </codify:replace>
+  </section>
 </document>

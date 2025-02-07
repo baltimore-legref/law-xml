@@ -5,6 +5,7 @@
   <heading type="short">Zoning - Port Covington Area of Special Signage Control - Amendment</heading>
   <heading type="long">An Ordinance Concerning Zoning - Port Covington Area of Special Signage Control - Amendment</heading>
   <meta>
+    <stub/>
     <introduced>2024-02-26</introduced>
     <effective>2024-10-02</effective>
     <citations>
@@ -17,10 +18,14 @@
       <committee>Favorable</committee>
     </history>
   </meta>
-  <codify:insert doc="City of Baltimore, Md., Code" path="32|§17-502|(a)|(2)">
-    <para>
-      <num>(2)</num>
-      <text>The entire PC Zoning District is designated an Area of Special Signage Control, unless the boundaries of the Area of Special Signage Control are otherwise amended per <cite doc="City of Baltimore, Md., Code" path="32|§17-505">§ 17-505</cite>.</text>
-    </para>
-  </codify:insert>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <codify:insert doc="City of Baltimore, Md., Code" path="32|§17-502|(a)|(2)">
+      <para>
+        <num>(2)</num>
+        <text>The entire PC Zoning District is designated an Area of Special Signage Control, unless the boundaries of the Area of Special Signage Control are otherwise amended per <cite doc="City of Baltimore, Md., Code" path="32|§17-505">§ 17-505</cite>.</text>
+      </para>
+    </codify:insert>
+  </section>
 </document>
