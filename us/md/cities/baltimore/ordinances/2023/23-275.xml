@@ -22,6 +22,10 @@
     <prefix>Section</prefix>
     <num>1</num>
     <codify:remove doc="City of Baltimore, Md., Code" path="|13|II|6" warning="false"/>
+  </section>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
     <codify:insert doc="City of Baltimore, Md., Code" path="|13|II" after="|13|II|5">
       <container>
         <prefix>Subtitle</prefix>

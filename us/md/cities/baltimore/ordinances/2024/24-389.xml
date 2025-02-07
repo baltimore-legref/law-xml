@@ -21,6 +21,15 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
+    <codify:repeal doc="City of Baltimore, Md., Code" path="1|§55-8"/>
+    <codify:repeal doc="City of Baltimore, Md., Code" path="1|§55-9"/>
+    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-10" num-value="55-8" after="§55-7" warning="false"/>
+    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-12" num-value="55-9" after="§55-8" warning="false"/>
+    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-13" num-value="55-10" after="§55-9" warning="false"/>
+  </section>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
     <codify:replace doc="City of Baltimore, Md., Code" path="1|§55-3">
       <section>
         <prefix>§</prefix>
@@ -185,10 +194,5 @@
         </para>
       </section>
     </codify:insert>
-    <codify:repeal doc="City of Baltimore, Md., Code" path="1|§55-8"/>
-    <codify:repeal doc="City of Baltimore, Md., Code" path="1|§55-9"/>
-    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-10" num-value="55-8" after="§55-7" warning="false"/>
-    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-12" num-value="55-9" after="§55-8" warning="false"/>
-    <codify:recodify-section doc="City of Baltimore, Md., Code" path="1|§55-13" num-value="55-10" after="§55-9" warning="false"/>
   </section>
 </document>
