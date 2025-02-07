@@ -20,7 +20,7 @@
   </meta>
   <section>
     <prefix>Section</prefix>
-    <num>1</num>
+    <num>5</num>
     <codify:replace doc="City of Baltimore, Md., Code" path="|14|9|9-4">
       <section>
         <prefix>§</prefix>
