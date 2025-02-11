@@ -2,8 +2,8 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 24-332" codify:doc="City of Baltimore, Md., Code">
   <num type="law">24-332</num>
   <num type="bill">23-0468</num>
-  <heading type="short">Off-Street Parking - <s>Affordable</s> <u>Inclusionary</u> Housing</heading>
-  <heading type="long">An Ordinance Concerning Off-Street Parking - <s>Affordable</s> <u>Inclusionary</u> Housing</heading>
+  <heading type="short">Off-Street Parking - Inclusionary Housing</heading>
+  <heading type="long">An Ordinance Concerning Off-Street Parking - Inclusionary Housing</heading>
   <meta>
     <stub/>
     <introduced>2023-12-04</introduced>
