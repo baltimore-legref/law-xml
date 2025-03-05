@@ -21,10 +21,10 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="|building-codes|heading">
+    <codify:replace path="|building-codes|heading" history="false">
       <heading>Building, Fire, and Related Codes of Baltimore City 2024 Edition</heading>
     </codify:replace>
-    <codify:find-replace path="building-codes">
+    <codify:find-replace path="building-codes" history="false">
       <find>
         <text>This BFR Codes Article (2020 Edition) comprises the following standards and codes, as supplemented, amended, or otherwise modified by the Mayor and City Council of Baltimore:</text>
       </find>
@@ -32,7 +32,7 @@
         <text>This BFR Codes Article (2024 Edition) comprises the following standards and codes, as supplemented, amended, or otherwise modified by the Mayor and City Council of Baltimore:</text>
       </replace>
     </codify:find-replace>
-    <codify:find-replace path="building-codes" count="1">
+    <codify:find-replace path="building-codes" count="1" history="false">
       <find>
         <ul>
           <li><cite path="|building-codes|I">Maryland Building Performance Standard</cite>s / March 2019</li>
@@ -66,7 +66,7 @@
         </ul>
       </replace>
     </codify:find-replace>
-    <codify:find-replace path="building-codes">
+    <codify:find-replace path="building-codes" history="false">
       <find>
         <text>Ordinance 20-361 became effective May 18, 2020.  Sections 3 and 4 of that Ordinance provide for its application to preexisting transactions as follows:</text>
       </find>
