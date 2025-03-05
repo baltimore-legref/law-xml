@@ -1325,6 +1325,41 @@
               </para>
             </para>
           </annotation>
+          <annotation type="Editor's Notes">
+            <text>State Tax-Property Art. § 14-873(b), as enacted by Chapter 276, 2019 Laws of Maryland, reads as follows</text>
+            <para>
+              <num proof="done">(b)</num>
+              <text>"Interested party" means:</text>
+              <para>
+                <num>(1)</num>
+                <text>the person who last appears as owner of the real property on the collector's tax roll;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>a mortgagee of the property or assignee of a mortgage of record;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>a holder of a beneficial interest in a deed of trust recorded against the real property;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>a taxing agency that has the authority to collect tax on the real property; or</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>any person having an interest in the real property whose identity and address are:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>reasonably ascertainable from the county land records; or</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>revealed by a full title search consisting of at least 50 years.</text>
+                </para>
+              </para>
+            </para>
+          </annotation>
         </annotations>
       </section>
       <section>
@@ -10402,6 +10437,9 @@
           <heading>Penalties.</heading>
           <text>Any person who violates any provision of this Part 2 or of any rule or regulation adopted under this Part 2, or who makes any false statement or improper return, is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than$1,000 or imprisonment for not more than 12 months or to both fine and imprisonment for each offense.</text>
           <annotations>
+            <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §56A(j)</annotation>
+            <annotation doc="City of Balt., Md., Ord. 99-441" type="History">Ord. 99-441</annotation>
+            <annotation doc="City of Balt., Md., Ord. 04-728" type="History">Ord. 04-728</annotation>
             <annotation type="Editor's Notes">
               <text>Section 4 of Ord. 04-728 provides for the severability of the provisions enacted.  Section 6 of that Ordinance provides for periodic reporting to the City Council, as follows</text>
               <text>[O]n or before October 1, 2005, and October 1 of each 5th year following, the Director of Finance shall submit a report to the City Council on the revenues derived from and the effect of the tax established under this Ordinance during the preceding fiscal years.</text>
