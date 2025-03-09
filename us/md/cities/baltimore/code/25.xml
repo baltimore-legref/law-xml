@@ -356,9 +356,7 @@
           <text>"Authorized representative" means:</text>
           <para>
             <num>(i)</num>
-            <text>
-              <em>{for a corporation:}</em>
-            </text>
+            <heading>{for a corporation:}</heading>
             <para>
               <num>(A)</num>
               <text>a responsible corporate officer such as a president, secretary, treasurer, or vice-president of the corporation in charge of a principal business function;</text>
@@ -2171,9 +2169,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <em>Bypasses prohibited</em>
-        </text>
+        <heading>Bypasses prohibited.</heading>
         <text>Bypasses are prohibited.</text>
       </para>
       <para>

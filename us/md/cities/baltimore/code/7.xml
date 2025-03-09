@@ -8344,9 +8344,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>
-            <em>Minor modifications</em>
-          </text>
+          <heading>Minor modifications.</heading>
           <para>
             <num>(1)</num>
             <text>The Department may include in its Erosion and Sediment Control Manual a list of minor modifications that the Department may approve as field revisions.</text>
@@ -8486,9 +8484,7 @@
         <heading>Inspections required.</heading>
         <para>
           <num>(a)</num>
-          <text>
-            <em>In general</em>
-          </text>
+          <heading>In general.</heading>
           <text>Every active site having an approved erosion and sediment control plan should be inspected for compliance with the plan on an average of once every 2 weeks.</text>
         </para>
         <para>
@@ -9799,12 +9795,8 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>
-            <em>Conditions and circumstances under which an easement modification may be</em>
-          </text>
-          <text>
-            <em>considered.</em>
-          </text>
+          <heading>Conditions and circumstances.</heading>
+          <text>Conditions and circumstances under which an easement modification may be considered {are listed below}.</text>
           <para>
             <num>(1)</num>
             <text>Expansion of an easement.</text>

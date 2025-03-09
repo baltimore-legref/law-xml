@@ -638,9 +638,7 @@
           <heading>Property acquisition for development, etc.</heading>
           <para>
             <num>(1)</num>
-            <text>
-              <em>{The power to:}</em>
-            </text>
+            <heading>{The power to:}</heading>
             <para>
               <num>(i)</num>
               <text>acquire, for and on behalf of the Mayor and City Council of Baltimore, within areas of operation, and in accordance with applicable Renewal Plans and Conservation Plans, land and property of every kind, and any right, interest, franchise, easement or privilege therein, including land or property and any right or interest therein already devoted to public use, by purchase, lease, gift, condemnation, or any other legal means for development or redevelopment, including but not limited to the renovation or rehabilitation thereof;</text>
@@ -664,9 +662,7 @@
           <heading>Property acquisition for removing blight, etc.</heading>
           <para>
             <num>(1)</num>
-            <text>
-              <em>{The power to:}</em>
-            </text>
+            <heading>{The power to:}</heading>
             <para>
               <num>(i)</num>
               <text>acquire, for and on behalf of the Mayor and City Council of Baltimore, within areas of operation, and in accordance with applicable Renewal Plans and Conservation Plans, land and property of every kind, and any right, interest, franchise, easement, or privilege therein, including land or property and any right or interest therein already devoted to public use, by purchase, lease, gift, condemnation, or any other legal means, for the purpose of:</text>
@@ -828,9 +824,7 @@
           <heading>Governmental grants or aids.</heading>
           <para>
             <num>(1)</num>
-            <text>
-              <em>{The power to:}</em>
-            </text>
+            <heading>{The power to:}</heading>
             <para>
               <num>(i)</num>
               <text>petition for, negotiate with, and accept from the United States of America, or the State of Maryland or any department or agency thereof, or any other source, loans, advances, contributions, grants, or aids of any character which may from time to time become available for the preparation of Renewal Plans or Conservation Plans, the undertaking of Renewal Projects or Conservation Projects, or the performance of any other function or power contemplated by this ordinance<em> {subtitle}</em>; and</text>
@@ -888,9 +882,7 @@
         <para>
           <num>(v)</num>
           <heading>Regulating construction.</heading>
-          <text>
-            <em>{The power to:}</em>
-          </text>
+          <heading>{The power to:}</heading>
           <para>
             <num>(1)</num>
             <text>issue permits for, and exercise such supervision and inspection over, building construction and installations, the use of land and buildings, the alteration, relocation, repair, reconstruction, and change of occupancy of buildings and the number of families housed in buildings in the City; and</text>
@@ -8076,9 +8068,7 @@
         <heading>License term; fee.</heading>
         <para>
           <num>(a)</num>
-          <text>
-            <em>Term</em>
-          </text>
+          <heading>Term.</heading>
           <text>Each license issued under this subtitle expires on December 31 of each year.</text>
         </para>
         <para>
