@@ -924,6 +924,7 @@
         </para>
       </section>
     </codify:replace>
+    <codify:remove path="13|§2B-52|annos|ord-07-474-special-provisions" warning="false"/>
     <codify:insert path="13|I|2B|VI">
       <section>
         <prefix>§</prefix>

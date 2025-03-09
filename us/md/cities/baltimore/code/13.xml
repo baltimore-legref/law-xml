@@ -3524,7 +3524,7 @@
           </para>
           <annotations>
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
-            <annotation type="Editor's Notes">
+            <annotation type="Editor's Notes" name="ord-07-474-special-provisions">
               <text>Ordinance 07-474 contained the following special provisions dealing with the applicability / effectiveness of various provisions</text>
               <text>Section 2.  That, within 120 days of the effective date of this Ordinance, the Commissioner of Housing and Community Development shall adopt rules and regulations to implement this Ordinance.</text>
               <text>Section 5.  That <cite path="|13|§2B-21">Article 13, § 2B-21 {“Projects receiving major public subsidy”}</cite> ... does not apply if the subsidy in question:</text>
