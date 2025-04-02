@@ -3518,57 +3518,75 @@
             <annotation doc="City of Balt., Md., Ord. 07-474" type="History">Ord. 07-474</annotation>
             <annotation type="Editor's Notes" name="ord-07-474-special-provisions">
               <text>Ordinance 07-474 contained the following special provisions dealing with the applicability / effectiveness of various provisions</text>
-              <text>Section 2.  That, within 120 days of the effective date of this Ordinance, the Commissioner of Housing and Community Development shall adopt rules and regulations to implement this Ordinance.</text>
-              <text>Section 5.  That <cite path="|13|§2B-21">Article 13, § 2B-21 {“Projects receiving major public subsidy”}</cite> ... does not apply if the subsidy in question:</text>
-              <para>
-                <num>(1)</num>
-                <text>is a transfer of land for which the request for proposals, invitation to bid, or similar document was issued before the adoption of rules and regulations to implement this Ordinance;</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>is a payment in lieu of taxes or tax increment financing for which the authorizing legislation was introduced before the adoption of rules and regulations to implement this Ordinance; or</text>
-              </para>
-              <para>
-                <num>(3)</num>
-                <text>is a grant or loan for which the notice of funding availability or similar notice was published before the adoption of rules and regulations to implement this Ordinance.</text>
-              </para>
-              <text>Section 6.  That <cite path="|13|§2B-22">Article 13, § 2B-22 {“ Project benefitting from significant land use authorization or rezoning”}</cite> ... does not apply if:</text>
-              <para>
-                <num>(1)</num>
-                <text>the significant land use authorization or rezoning in question was approved within 18 months after the effective date of this Ordinance; or</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>the development has had a Pre-Development Meeting with the Department of Planning before the adoption of rules and regulations to implement this Ordinance.</text>
-              </para>
-              <text>Section 7.  That:</text>
-              <para>
-                <num>(a)</num>
-                <para>
-                  <num>(1)</num>
-                  <text><cite path="|13|§2B-23">Article 13, § 2B-23 {"Other projects – 30 or more units}</cite> and § 2B-24 {"Other projects – Less than 30 units"}, as enacted by this Ordinance, do not take effect until 120 days after the Housing Commissioner certifies that, in the previous year, ¾ of arms-length home sales (excluding homes sold for minimal sales price) had a sales price greater than the level affordable to a household at 80% AMI.</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>Within 60 days of the end of the calendar year, the Commissioner shall publish this certification online and by report to the City Council and the Inclusionary Housing Board.</text>
-                </para>
-                <para>
-                  <num>(3)</num>
-                  <text>For the first calendar year after the effective date of this Ordinance "minimal sales price" means $50,000.  The "minimal sales price" may be adjusted by the Commissioner in subsequent years to a larger amount that corresponds to the average sales price of homes requiring major rehabilitation to be habitable.  This adjustment will be made according to methodology determined and published by the Commissioner.</text>
-                </para>
-              </para>
-              <para>
-                <num>(b)</num>
-                <text><cite path="|13|§2B-23">Article 13, § 2B-23 {"Other projects – 30 or more units}</cite> and § 2B-24 {"Other projects – Less than 30 units"}, as enacted by this Ordinance, do not apply to any development that has had a Pre-Development Meeting with the Department of Planning before:</text>
-                <para>
-                  <num>(1)</num>
-                  <text>the taking effect of those sections; or</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>the adoption of rules and regulations to implement this Ordinance.</text>
-                </para>
-              </para>
+              <include>
+                <section>
+                  <prefix>Section</prefix>
+                  <num>2.</num>
+                  <text>That, within 120 days of the effective date of this Ordinance, the Commissioner of Housing and Community Development shall adopt rules and regulations to implement this Ordinance.</text>
+                </section>
+                <section>
+                  <prefix>Section</prefix>
+                  <num>5.</num>
+                  <text>That <cite path="|13|§2B-21">Article 13, § 2B-21 {“Projects receiving major public subsidy”}</cite> ... does not apply if the subsidy in question:</text>
+                  <para>
+                    <num>(1)</num>
+                    <text>is a transfer of land for which the request for proposals, invitation to bid, or similar document was issued before the adoption of rules and regulations to implement this Ordinance;</text>
+                  </para>
+                  <para>
+                    <num>(2)</num>
+                    <text>is a payment in lieu of taxes or tax increment financing for which the authorizing legislation was introduced before the adoption of rules and regulations to implement this Ordinance; or</text>
+                  </para>
+                  <para>
+                    <num>(3)</num>
+                    <text>is a grant or loan for which the notice of funding availability or similar notice was published before the adoption of rules and regulations to implement this Ordinance.</text>
+                  </para>
+                </section>
+                <section>
+                  <prefix>Section</prefix>
+                  <num>6.</num>
+                  <text>That <cite path="|13|§2B-22">Article 13, § 2B-22 {“ Project benefitting from significant land use authorization or rezoning”}</cite> ... does not apply if:</text>
+                  <para>
+                    <num>(1)</num>
+                    <text>the significant land use authorization or rezoning in question was approved within 18 months after the effective date of this Ordinance; or</text>
+                  </para>
+                  <para>
+                    <num>(2)</num>
+                    <text>the development has had a Pre-Development Meeting with the Department of Planning before the adoption of rules and regulations to implement this Ordinance.</text>
+                  </para>
+                </section>
+                <section>
+                  <prefix>Section</prefix>
+                  <num>7.</num>
+                  <text>That:</text>
+                  <para>
+                    <num>(a)</num>
+                    <para>
+                      <num>(1)</num>
+                      <text><cite path="|13|§2B-23">Article 13, § 2B-23 {"Other projects – 30 or more units}</cite> and § 2B-24 {"Other projects – Less than 30 units"}, as enacted by this Ordinance, do not take effect until 120 days after the Housing Commissioner certifies that, in the previous year, ¾ of arms-length home sales (excluding homes sold for minimal sales price) had a sales price greater than the level affordable to a household at 80% AMI.</text>
+                    </para>
+                    <para>
+                      <num>(2)</num>
+                      <text>Within 60 days of the end of the calendar year, the Commissioner shall publish this certification online and by report to the City Council and the Inclusionary Housing Board.</text>
+                    </para>
+                    <para>
+                      <num>(3)</num>
+                      <text>For the first calendar year after the effective date of this Ordinance "minimal sales price" means $50,000.  The "minimal sales price" may be adjusted by the Commissioner in subsequent years to a larger amount that corresponds to the average sales price of homes requiring major rehabilitation to be habitable.  This adjustment will be made according to methodology determined and published by the Commissioner.</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text><cite path="|13|§2B-23">Article 13, § 2B-23 {"Other projects – 30 or more units}</cite> and § 2B-24 {"Other projects – Less than 30 units"}, as enacted by this Ordinance, do not apply to any development that has had a Pre-Development Meeting with the Department of Planning before:</text>
+                    <para>
+                      <num>(1)</num>
+                      <text>the taking effect of those sections; or</text>
+                    </para>
+                    <para>
+                      <num>(2)</num>
+                      <text>the adoption of rules and regulations to implement this Ordinance.</text>
+                    </para>
+                  </para>
+                </section>
+              </include>
             </annotation>
           </annotations>
         </section>
@@ -4275,37 +4293,39 @@
       <annotations>
         <annotation type="Editor's Notes">
           <text>Ordinance 18-130 added the following uncodified, short-term transitional provisions for (i) preexisting, currently licensed multiple-family dwellings and rooming houses (Ord. 18-130, at Section 3) and (ii) non-owner-occupied dwelling units in 1- or 2-family dwellings (Ord. 18-130, at Section 4)</text>
-          <text>Section 3 --</text>
-          <para>
-            <num>(a)</num>
-            <text>On and after the effective date of this Ordinance <em>{August 1, 2018}</em>, a preexisting multiple-family dwelling or rooming house operating under an unexpired license that was issued under former City Code <cite path="|13">Article 13</cite>, Subtitle 5, may continue to operate under that license:</text>
+          <include>
+            <text>Section 3 --</text>
             <para>
-              <num>(i)</num>
-              <text>until the license expires at the end of its stated term or</text>
+              <num>(a)</num>
+              <text>On and after the effective date of this Ordinance <em>{August 1, 2018}</em>, a preexisting multiple-family dwelling or rooming house operating under an unexpired license that was issued under former City Code <cite path="|13">Article 13</cite>, Subtitle 5, may continue to operate under that license:</text>
+              <para>
+                <num>(i)</num>
+                <text>until the license expires at the end of its stated term or</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>if the end of its stated term is fewer than 90 days after the effective date of this Ordinance, for an extended term that expires on the 90<sup>th</sup> day after the effective date of this Ordinance.</text>
+              </para>
             </para>
             <para>
-              <num>(ii)</num>
-              <text>if the end of its stated term is fewer than 90 days after the effective date of this Ordinance, for an extended term that expires on the 90<sup>th</sup> day after the effective date of this Ordinance.</text>
+              <num>(b)</num>
+              <text>The multiple-family dwelling or rooming house may not continue to operate after the preexisting license expires under subsection (a)(i) or (ii) of this Section until the licensee has applied for and obtained an new, initial rental dwelling license under City Code <cite path="|13">Article 13</cite>, Subtitle 5, as amended by this Ordinance.</text>
             </para>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>The multiple-family dwelling or rooming house may not continue to operate after the preexisting license expires under subsection (a)(i) or (ii) of this Section until the licensee has applied for and obtained an new, initial rental dwelling license under City Code <cite path="|13">Article 13</cite>, Subtitle 5, as amended by this Ordinance.</text>
-          </para>
-          <text>Section 4 --</text>
-          <text>[O]n and after the effective date of this Ordinance {August 1, 2018}, a rental dwelling described in <cite path="|13|§5-1|(g)|(3)">Article 13, § 5-1(g)(3)</cite>, as added by this Ordinance, may preliminarily operate without an initial rental dwelling license, but only as long as:</text>
-          <para>
-            <num>(1)</num>
-            <text>all non-owner-occupied dwelling units are duly registered under <cite path="|13">Article 13</cite>, Subtitle 4, as amended by this Ordinance, and all registration fees and related interest and late fees required by that Subtitle 4 have been paid;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>within 120 days of the effective date of this Ordinance, the owner submits a completed application under <cite path="|13">Article 13</cite>, Subtitle 5, as amended by this subtitle, for a new, initial rental dwelling license; and</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>the Housing Commissioner has not yet issued an approval or denial of that application.</text>
-          </para>
+            <text>Section 4 --</text>
+            <text>[O]n and after the effective date of this Ordinance {August 1, 2018}, a rental dwelling described in <cite path="|13|§5-1|(g)|(3)">Article 13, § 5-1(g)(3)</cite>, as added by this Ordinance, may preliminarily operate without an initial rental dwelling license, but only as long as:</text>
+            <para>
+              <num>(1)</num>
+              <text>all non-owner-occupied dwelling units are duly registered under <cite path="|13">Article 13</cite>, Subtitle 4, as amended by this Ordinance, and all registration fees and related interest and late fees required by that Subtitle 4 have been paid;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>within 120 days of the effective date of this Ordinance, the owner submits a completed application under <cite path="|13">Article 13</cite>, Subtitle 5, as amended by this subtitle, for a new, initial rental dwelling license; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the Housing Commissioner has not yet issued an approval or denial of that application.</text>
+            </para>
+          </include>
         </annotation>
         <annotation type="Editor's Notes">The following text incorporates the many amendments made to this subtitle by Ordinance 18-130, subject to a general effective of August 1, 2018.</annotation>
       </annotations>

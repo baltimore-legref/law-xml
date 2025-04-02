@@ -1943,19 +1943,22 @@
                       </td>
                     </tr>
                     <tr>
-                      <td class="text-indent-6">Over 500 sq. ft. to 1,000 sq. ft.</td>
+                      <td>
+                        <p class="text-indent-6">Over 500 sq. ft. to 1,000 sq. ft.</p></td>
                       <td>
                         <p>$150</p>
                       </td>
                     </tr>
                     <tr>
-                      <td class="text-indent-6">Over 1,000 sq. ft. to 5,000 sq. ft.</td>
+                      <td>
+                        <p class="text-indent-6">Over 1,000 sq. ft. to 5,000 sq. ft.</p></td>
                       <td>
                         <p>$250</p>
                       </td>
                     </tr>
                     <tr>
-                      <td class="text-indent-6">Over 5,000 sq. ft.</td>
+                      <td>
+                        <p class="text-indent-6">Over 5,000 sq. ft.</p></td>
                       <td>
                         <p>$500</p>
                       </td>
@@ -2297,8 +2300,8 @@
             <para>
               <num>g.</num>
               <heading>Fences.</heading>
+              <text>$10 for each 100 linear feet (30.38 m) or fraction of 100 linear feet (30.38 m).</text>
             </para>
-            <text>$10 for each 100 linear feet (30.38 m) or fraction of 100 linear feet (30.38 m).</text>
             <para>
               <num>h.</num>
               <heading>Grading (excavating or filling).</heading>
@@ -2440,8 +2443,8 @@
             <para>
               <num>n.</num>
               <heading>Moving buildings.</heading>
+              <text>$50 each</text>
             </para>
-            <text>$50 each</text>
             <para>
               <num>o.</num>
               <heading>Swimming pools.</heading>
@@ -2532,8 +2535,8 @@
                     </tbody>
                   </table>
                 </text>
+                <text>For services over 600 volts, add $100.</text>
               </para>
-              <text>For services over 600 volts, add $100.</text>
               <para>
                 <num>2.</num>
                 <text>
@@ -2634,19 +2637,19 @@
             <para>
               <num>c.</num>
               <heading>Fixtures or devices only.</heading>
+              <text>For installing electrical fixtures or devices only:</text>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>1 to 25 fixtures</td>
+                      <td>$25</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+              <text>$5 for each additional 25 or fraction of 25 fixtures or devices.</text>
             </para>
-            <text>For installing electrical fixtures or devices only:</text>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>1 to 25 fixtures</td>
-                    <td>$25</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-            <text>$5 for each additional 25 or fraction of 25 fixtures or devices.</text>
             <para>
               <num>d.</num>
               <heading>Temporary electrical wiring.</heading>
@@ -2672,34 +2675,34 @@
               <num>e.</num>
               <heading>Electrical semiannual permits for maintenance work.</heading>
               <text>The fee for each permit is based on the total service of the plant.</text>
+              <text>Rating of Service in Amperes</text>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>0 to 600</td>
+                      <td>$50</td>
+                    </tr>
+                    <tr>
+                      <td>Over 600 to 800</td>
+                      <td>$75</td>
+                    </tr>
+                    <tr>
+                      <td>Over 800 to 1,200</td>
+                      <td>$100</td>
+                    </tr>
+                    <tr>
+                      <td>Over 1,200 to 2,000</td>
+                      <td>$150</td>
+                    </tr>
+                    <tr>
+                      <td>Over 2,000</td>
+                      <td>$200</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
             </para>
-            <text>Rating of Service in Amperes</text>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>0 to 600</td>
-                    <td>$50</td>
-                  </tr>
-                  <tr>
-                    <td>Over 600 to 800</td>
-                    <td>$75</td>
-                  </tr>
-                  <tr>
-                    <td>Over 800 to 1,200</td>
-                    <td>$100</td>
-                  </tr>
-                  <tr>
-                    <td>Over 1,200 to 2,000</td>
-                    <td>$150</td>
-                  </tr>
-                  <tr>
-                    <td>Over 2,000</td>
-                    <td>$200</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
             <para>
               <num>f.</num>
               <heading>Not otherwise classified.</heading>
@@ -2936,8 +2939,8 @@
                   </tbody>
                 </table>
               </text>
+              <text>Replacement of unit same as new</text>
             </para>
-            <text>Replacement of unit same as new</text>
             <para>
               <num>d.</num>
               <heading>Distribution systems.</heading>
@@ -3005,8 +3008,8 @@
             <para>
               <num>f.</num>
               <heading>Unfired pressure vessels.</heading>
+              <text>$50 each</text>
             </para>
-            <text>$50 each</text>
             <para>
               <num>g.</num>
               <heading>Tanks for all liquids, including propane gas cylinders.</heading>
@@ -15274,59 +15277,59 @@
         <para>
           <num>306.6</num>
           <heading>Storage receptacles – Specifications and maintenance.</heading>
-        </para>
-        <para>
-          <num>306.6.1</num>
-          <heading>Specifications.</heading>
-        </para>
-        <para>
-          <num>306.6.1.1</num>
-          <heading>General.</heading>
-          <text>Each storage receptacle must:</text>
           <para>
-            <num>1.</num>
-            <text>be made of metal or some other durable material approved by the Code Official,</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>be watertight, with tight-fitting covers and handles, and</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>either:</text>
+            <num>306.6.1</num>
+            <heading>Specifications.</heading>
             <para>
-              <num>a.</num>
-              <text>have a capacity of not more than 32 gallons, or</text>
+              <num>306.6.1.1</num>
+              <heading>General.</heading>
+              <text>Each storage receptacle must:</text>
+              <para>
+                <num>1.</num>
+                <text>be made of metal or some other durable material approved by the Code Official,</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>be watertight, with tight-fitting covers and handles, and</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>either:</text>
+                <para>
+                  <num>a.</num>
+                  <text>have a capacity of not more than 32 gallons, or</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>be a City-owned trash receptacle assigned to the address for the curbside collection of mixed refuse.</text>
+                </para>
+              </para>
             </para>
             <para>
-              <num>b.</num>
-              <text>be a City-owned trash receptacle assigned to the address for the curbside collection of mixed refuse.</text>
+              <num>306.6.1.2.</num>
+              <heading>Exceptions.</heading>
+              <para>
+                <num>1.</num>
+                <text>Receptacles used for recycling need not have covers.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Yard waste may be bagged or bundled.</text>
+              </para>
             </para>
           </para>
-        </para>
-        <para>
-          <num>306.6.1.2.</num>
-          <heading>Exceptions.</heading>
           <para>
-            <num>1.</num>
-            <text>Receptacles used for recycling need not have covers.</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>Yard waste may be bagged or bundled.</text>
-          </para>
-        </para>
-        <para>
-          <num>306.6.2.</num>
-          <heading>Maintenance.</heading>
-          <text>Each storage receptacle must be:</text>
-          <para>
-            <num>1.</num>
-            <text>maintained in good repair, and</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>kept tightly closed to prevent blight, nuisance, pest infestation, and dispersal of trash, garbage, or debris.</text>
+            <num>306.6.2.</num>
+            <heading>Maintenance.</heading>
+            <text>Each storage receptacle must be:</text>
+            <para>
+              <num>1.</num>
+              <text>maintained in good repair, and</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>kept tightly closed to prevent blight, nuisance, pest infestation, and dispersal of trash, garbage, or debris.</text>
+            </para>
           </para>
         </para>
         <para>
