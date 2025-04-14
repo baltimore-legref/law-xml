@@ -10731,11 +10731,7 @@
         <heading>Provisions and penalties enumerated.</heading>
         <para>
           <num>(.5)</num>
-          <text>
-            <strong>
-              <em><cite path="|2">Article 2</cite>.  Consumer Protections</em>
-            </strong>
-          </text>
+          <heading><cite path="|2">Article 2</cite>.  Consumer Protections</heading>
           <text>
             <table>
               <tbody>
@@ -10753,11 +10749,7 @@
         </para>
         <para>
           <num>(.5a)</num>
-          <text>
-            <strong>
-              <em><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</em>
-            </strong>
-          </text>
+          <heading><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</heading>
           <text>
             <table>
               <tbody>
@@ -10775,11 +10767,7 @@
         </para>
         <para>
           <num>(.5b)</num>
-          <text>
-            <strong>
-              <em><cite path="|7">Article 7</cite>.  Natural Resources</em>
-            </strong>
-          </text>
+          <heading><cite path="|7">Article 7</cite>.  Natural Resources</heading>
           <text>
             <table>
               <tbody>
@@ -10813,11 +10801,7 @@
         </para>
         <para>
           <num>(1)</num>
-          <text>
-            <strong>
-              <em><cite path="|13">Article 13</cite>.  Housing and Urban Renewal</em>
-            </strong>
-          </text>
+          <heading><cite path="|13">Article 13</cite>.  Housing and Urban Renewal</heading>
           <text>
             <table>
               <tbody>
@@ -10862,11 +10846,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>
-            <strong>
-              <em><cite path="|15">Article 15</cite>.  Licensing and Regulation</em>
-            </strong>
-          </text>
+          <heading><cite path="|15">Article 15</cite>.  Licensing and Regulation</heading>
           <text>
             <table>
               <tbody>
@@ -10932,11 +10912,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>
-            <strong>
-              <em><cite path="|19">Article 19</cite>.  Police Ordinances</em>
-            </strong>
-          </text>
+          <heading><cite path="|19">Article 19</cite>.  Police Ordinances</heading>
           <text>
             <table>
               <tbody>
@@ -11062,11 +11038,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>
-            <strong>
-              <em><cite path="|23">Article 23</cite>.  Sanitation</em>
-            </strong>
-          </text>
+          <heading><cite path="|23">Article 23</cite>.  Sanitation</heading>
           <text>
             <table>
               <tbody>
@@ -11112,11 +11084,7 @@
         </para>
         <para>
           <num>(4a)</num>
-          <text>
-            <strong>
-              <em><cite path="|24">Article 24</cite>.  Water</em>
-            </strong>
-          </text>
+          <heading><cite path="|24">Article 24</cite>.  Water</heading>
           <text>
             <table>
               <tbody>
@@ -11190,11 +11158,7 @@
         </para>
         <para>
           <num>(4b)</num>
-          <text>
-            <strong>
-              <em><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</em>
-            </strong>
-          </text>
+          <heading><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</heading>
           <text>
             <table>
               <tbody>
@@ -11212,11 +11176,7 @@
         </para>
         <para>
           <num>(5a)</num>
-          <text>
-            <strong>
-              <em><cite path="|31">Article 31</cite>.  Transit and Traffic</em>
-            </strong>
-          </text>
+          <heading><cite path="|31">Article 31</cite>.  Transit and Traffic</heading>
           <text>
             <table>
               <tbody>
@@ -11489,11 +11449,7 @@
         </para>
         <para>
           <num>(5b)</num>
-          <text>
-            <strong>
-              <em><cite path="|32">Article 32</cite>.  Zoning</em>
-            </strong>
-          </text>
+          <heading><cite path="|32">Article 32</cite>.  Zoning</heading>
           <text>
             <table>
               <tbody>
@@ -11507,11 +11463,7 @@
         </para>
         <para>
           <num>(5c)</num>
-          <text>
-            <strong>
-              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|II">Building Code</cite></em>
-            </strong>
-          </text>
+          <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|II">Building Code</cite></heading>
           <text>
             <table>
               <tbody>
@@ -11581,11 +11533,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>
-            <strong>
-              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII">Fire Code</cite></em>
-            </strong>
-          </text>
+          <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII">Fire Code</cite></heading>
           <text>
             <table>
               <tbody>
@@ -11631,11 +11579,7 @@
         </para>
         <para>
           <num>(6a)</num>
-          <text>
-            <strong>
-              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
-            </strong>
-          </text>
+          <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
           <text>
             <strong>
               <em><cite path="|building-codes|VII">Property Maintenance Code</cite></em>
@@ -11670,11 +11614,7 @@
         </para>
         <para>
           <num>(6b)</num>
-          <text>
-            <strong>
-              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
-            </strong>
-          </text>
+          <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
           <text>
             <strong>
               <em><cite path="|building-codes|X">International Residential Code</cite></em>
@@ -11693,11 +11633,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>
-            <strong>
-              <em><cite path="|health">Health Code</cite></em>
-            </strong>
-          </text>
+          <heading><cite path="|health">Health Code</cite></heading>
           <text>
             <table>
               <tbody>
@@ -12570,11 +12506,7 @@
       <heading>Offenses to which subtitle applies – Listing.</heading>
       <para>
         <num>(.25)</num>
-        <text>
-          <strong>
-            <em><cite path="|1">Article 1</cite>.  Mayor, City Council, and Municipal Agencies</em>
-          </strong>
-        </text>
+        <heading><cite path="|1">Article 1</cite>.  Mayor, City Council, and Municipal Agencies</heading>
         <text>
           <table>
             <tbody>
@@ -12588,11 +12520,7 @@
       </para>
       <para>
         <num>(.5)</num>
-        <text>
-          <strong>
-            <em><cite path="|2">Article 2</cite>.  Consumer Protections</em>
-          </strong>
-        </text>
+        <heading><cite path="|2">Article 2</cite>.  Consumer Protections</heading>
         <text>
           <table>
             <tbody>
@@ -12610,11 +12538,7 @@
       </para>
       <para>
         <num>(.5a)</num>
-        <text>
-          <strong>
-            <em><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</em>
-          </strong>
-        </text>
+        <heading><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</heading>
         <text>
           <table>
             <tbody>
@@ -12628,11 +12552,7 @@
       </para>
       <para>
         <num>(.5b)</num>
-        <text>
-          <strong>
-            <em><cite path="|7">Article 7</cite>.  Natural Resources</em>
-          </strong>
-        </text>
+        <heading><cite path="|7">Article 7</cite>.  Natural Resources</heading>
         <text>
           <table>
             <tbody>
@@ -12646,11 +12566,7 @@
       </para>
       <para>
         <num>(1)</num>
-        <text>
-          <strong>
-            <em><cite path="|15">Article 15</cite>.  Licensing and Regulation</em>
-          </strong>
-        </text>
+        <heading><cite path="|15">Article 15</cite>.  Licensing and Regulation</heading>
         <text>
           <table>
             <tbody>
@@ -12684,11 +12600,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>
-          <strong>
-            <em><cite path="|19">Article 19</cite>.  Police Ordinances</em>
-          </strong>
-        </text>
+        <heading><cite path="|19">Article 19</cite>.  Police Ordinances</heading>
         <text>
           <table>
             <tbody>
@@ -12892,11 +12804,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>
-          <strong>
-            <em><cite path="|24">Article 24</cite>.  Water</em>
-          </strong>
-        </text>
+        <heading><cite path="|24">Article 24</cite>.  Water</heading>
         <text>
           <table>
             <tbody>
@@ -12969,11 +12877,7 @@
       </para>
       <para>
         <num>(3a)</num>
-        <text>
-          <strong>
-            <em><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</em>
-          </strong>
-        </text>
+        <heading><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</heading>
         <text>
           <table>
             <tbody>
@@ -12987,11 +12891,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>
-          <strong>
-            <em><cite path="|31">Article 31</cite>.  Transit and Traffic</em>
-          </strong>
-        </text>
+        <heading><cite path="|31">Article 31</cite>.  Transit and Traffic</heading>
         <text>
           <table>
             <tbody>
@@ -13117,11 +13017,7 @@
       </para>
       <para>
         <num>(4a)</num>
-        <text>
-          <strong>
-            <em><cite path="|32">Article 32</cite>.  Zoning</em>
-          </strong>
-        </text>
+        <heading><cite path="|32">Article 32</cite>.  Zoning</heading>
         <text>
           <table>
             <tbody>
@@ -13135,11 +13031,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>
-          <strong>
-            <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
-          </strong>
-        </text>
+        <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
         <text>
           <strong>
             <em><cite path="|building-codes|VIII">Fire Code</cite></em>
@@ -13174,11 +13066,7 @@
       </para>
       <para>
         <num>(5a)</num>
-        <text>
-          <strong>
-            <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
-          </strong>
-        </text>
+        <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
         <text>
           <strong>
             <em><cite path="|building-codes|VII">Property Maintenance Code</cite></em>
@@ -13205,11 +13093,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>
-          <strong>
-            <em><cite path="|health">Health Code</cite></em>
-          </strong>
-        </text>
+        <heading><cite path="|health">Health Code</cite></heading>
         <text>
           <table>
             <tbody>
