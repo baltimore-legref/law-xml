@@ -25,6 +25,7 @@
     <xi:include href="./us/md/cities/baltimore/ordinances/2024/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/ordinances/2023/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/ordinances/2022/index.xml"/>
+    <xi:include href="./us/md/cities/baltimore/ordinances/2020/index.xml"/>
   </collection>
   <collection name="us/md/cities/baltimore/resolutions">
     <heading>Resolutions</heading>
