@@ -4,4 +4,18 @@
   <num>01</num>
   <heading>PROPERTY TAX CREDITS</heading>
   <xi:include href="./chapters/07.xml"/>
+  <attachments>
+    <attachment name="cpace-loans" url="/us/md/cities/baltimore/cobra/attachments/05.01-CPACE-loans.pdf">
+      <heading>CPACE Loans</heading>
+    </attachment>
+    <attachment name="dockless-vehicles-tax" url="/us/md/cities/baltimore/cobra/attachments/05.01-dockless-vehicles-tax.pdf">
+      <heading>Dockless Vehicles Tax</heading>
+    </attachment>
+    <attachment name="energy-tax" url="/us/md/cities/baltimore/cobra/attachments/05.01-energy-tax.pdf">
+      <heading>Energy Tax</heading>
+    </attachment>
+    <attachment name="hotel-room-tax" url="/us/md/cities/baltimore/cobra/attachments/05.01-hotel-room-tax.pdf">
+      <heading>Hotel Room Tax</heading>
+    </attachment>
+  </attachments>
 </container>
