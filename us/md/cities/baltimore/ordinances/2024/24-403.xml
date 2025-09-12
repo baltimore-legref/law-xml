@@ -519,6 +519,7 @@
     <codify:repeal doc="City of Baltimore, Md., Code" path="13|§5-8"/>
     <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-8" warning="false">
       <section>
+        <prefix>§</prefix>
         <num>5-8</num>
         <reason>Reserved</reason>
       </section>

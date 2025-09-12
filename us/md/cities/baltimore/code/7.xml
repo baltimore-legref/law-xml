@@ -700,6 +700,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-4</num>
         <reason>Reserved</reason>
       </section>
@@ -756,10 +757,12 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-6</num>
         <reason>Transferred to § 1-5(c)</reason>
       </section>
       <section name="1-7to1-8">
+        <prefix>§§</prefix>
         <num>1-7 to 1-8</num>
         <reason>Reserved</reason>
       </section>
@@ -2226,6 +2229,7 @@
           </annotations>
         </section>
         <section>
+          <prefix>§</prefix>
           <num>3-22</num>
           <reason>Reserved</reason>
         </section>
@@ -2476,6 +2480,7 @@
           </annotations>
         </section>
         <section name="3-31to3-32">
+          <prefix>§§</prefix>
           <num>3-31 to 3-32</num>
           <reason>Reserved</reason>
         </section>
@@ -3219,6 +3224,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-8</num>
         <reason>Reserved</reason>
       </section>
@@ -3327,6 +3333,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>7-2</num>
         <reason>Reserved</reason>
       </section>
@@ -7016,6 +7023,7 @@
         </annotations>
       </section>
       <section name="28-3to28-4">
+        <prefix>§§</prefix>
         <num>28-3 to 28-4</num>
         <reason>Reserved</reason>
       </section>
@@ -7276,6 +7284,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-10</num>
         <reason>Reserved</reason>
       </section>
@@ -7300,6 +7309,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>28-12</num>
         <reason>Reserved</reason>
       </section>
@@ -7626,6 +7636,7 @@
         </annotations>
       </section>
       <section name="31-6to31-8">
+        <prefix>§§</prefix>
         <num>31-6 to 31-8</num>
         <reason>Reserved</reason>
       </section>
@@ -8552,6 +8563,7 @@
         </annotations>
       </section>
       <section name="34-4to34-5">
+        <prefix>§§</prefix>
         <num>34-4 to 34-5</num>
         <reason>Reserved</reason>
       </section>
@@ -8694,6 +8706,7 @@
         <text>Any State or City agency or any interested person may seek an injunction against any person who violates or threatens to violate any provision of this Division III.</text>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-4</num>
         <reason>Reserved</reason>
       </section>
@@ -8955,6 +8968,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-10</num>
         <reason>Reserved</reason>
       </section>
@@ -8978,6 +8992,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>35-12</num>
         <reason>Reserved</reason>
       </section>
@@ -10314,6 +10329,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>51-4</num>
         <reason>Reserved</reason>
       </section>
@@ -10725,6 +10741,7 @@
         </annotations>
       </section>
       <section name="53-6to53-10">
+        <prefix>§§</prefix>
         <num>53-6 to 53-10</num>
         <reason>Reserved</reason>
       </section>
@@ -10821,6 +10838,7 @@
         </annotations>
       </section>
       <section name="53-15to53-20">
+        <prefix>§§</prefix>
         <num>53-15 to 53-20</num>
         <reason>Reserved</reason>
       </section>
@@ -10901,6 +10919,7 @@
         </annotations>
       </section>
       <section name="53-24to53-25">
+        <prefix>§§</prefix>
         <num>53-24 to 53-25</num>
         <reason>Reserved</reason>
       </section>
@@ -11064,6 +11083,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>54-2</num>
         <reason>Repealed by Ord. 22-125</reason>
         <annotations>
@@ -11196,6 +11216,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>54-7</num>
         <reason>Reserved</reason>
       </section>
@@ -11417,6 +11438,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>62-2</num>
         <reason>Reserved</reason>
       </section>
@@ -11487,6 +11509,7 @@
         </annotations>
       </section>
       <section name="62-5to62-6">
+        <prefix>§§</prefix>
         <num>62-5 to 62-6</num>
         <reason>Reserved</reason>
       </section>
@@ -11508,6 +11531,7 @@
         </annotations>
       </section>
       <section name="62-8to62-9">
+        <prefix>§§</prefix>
         <num>62-8 to 62-9</num>
         <reason>Reserved</reason>
       </section>

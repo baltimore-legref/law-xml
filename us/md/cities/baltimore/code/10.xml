@@ -572,6 +572,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-14</num>
       <reason>Reserved</reason>
     </section>
@@ -649,6 +650,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-3</num>
       <reason>Reserved</reason>
     </section>
@@ -1659,6 +1661,7 @@
       </annotations>
     </section>
     <section name="6-21to6-24">
+      <prefix>§§</prefix>
       <num>6-21 to 6-24</num>
       <reason>Reserved</reason>
     </section>
@@ -2068,6 +2071,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-19</num>
       <reason>Reserved</reason>
     </section>
@@ -2159,6 +2163,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>7-23</num>
       <reason>Reserved</reason>
     </section>
@@ -2345,6 +2350,7 @@
       </annotations>
     </section>
     <section name="7-32to7-40">
+      <prefix>§§</prefix>
       <num>7-32 to 7-40</num>
       <reason>Reserved</reason>
     </section>
@@ -2643,6 +2649,7 @@
       </annotations>
     </section>
     <section name="8-8to8-10">
+      <prefix>§§</prefix>
       <num>8-8 to 8-10</num>
       <reason>Reserved</reason>
     </section>

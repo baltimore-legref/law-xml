@@ -237,6 +237,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <reason>Repealed by Ord. 22-125</reason>
       <annotations>
@@ -244,6 +245,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <reason>Reserved</reason>
     </section>
@@ -507,6 +509,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-4</num>
       <reason>Reserved</reason>
     </section>
@@ -797,6 +800,7 @@
       </annotations>
     </section>
     <section name="2-15and2-16">
+      <prefix>§§</prefix>
       <num>2-15 and 2-16</num>
       <reason>Reserved</reason>
     </section>
@@ -888,6 +892,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-19</num>
       <reason>Reserved</reason>
     </section>
@@ -2638,6 +2643,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-2</num>
       <reason>Reserved</reason>
     </section>
@@ -2798,6 +2804,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-11</num>
       <reason>Reserved</reason>
     </section>
@@ -2819,6 +2826,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>10-13</num>
       <reason>Reserved</reason>
     </section>

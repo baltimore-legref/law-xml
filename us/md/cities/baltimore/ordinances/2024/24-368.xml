@@ -43,6 +43,7 @@
     </codify:insert>
     <codify:replace path="8|2|I|2-24to2-30" warning="false">
       <section name="2-25to2-30">
+        <prefix>§§</prefix>
         <num>2-25 to 2-30</num>
         <reason>Reserved</reason>
         <annotations/>
@@ -189,6 +190,7 @@
     </codify:insert>
     <codify:replace path="8|7|III|7-19to7-20" warning="false">
       <section>
+        <prefix>§</prefix>
         <num>7-20</num>
         <reason>Reserved</reason>
         <annotations/>

@@ -1432,6 +1432,7 @@
       </annotations>
     </section>
     <section name="8-12to8-15">
+      <prefix>§§</prefix>
       <num>8-12 to 8-15</num>
       <reason>Reserved</reason>
     </section>
@@ -2580,6 +2581,7 @@
       </annotations>
     </section>
     <section name="17-8to17-9">
+      <prefix>§§</prefix>
       <num>17-8 to 17-9</num>
       <reason>Reserved</reason>
     </section>
@@ -3173,6 +3175,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>25-5</num>
       <reason>Reserved</reason>
     </section>
@@ -3606,6 +3609,7 @@
         </annotations>
       </section>
       <section name="27-5to27-10">
+        <prefix>§§</prefix>
         <num>27-5 to 27-10</num>
         <reason>Reserved</reason>
       </section>
@@ -3760,14 +3764,17 @@
     <num>29</num>
     <heading>Mass Transit Vehicles</heading>
     <section>
+      <prefix>§</prefix>
       <num>29-1</num>
       <reason>Repealed by Ord. 09-142</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-2</num>
       <reason>Repealed by Ord. 07-392</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-3</num>
       <reason>Repealed by Ord. 09-142</reason>
     </section>
@@ -3791,6 +3798,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>29-5</num>
       <reason>Repealed by Ord. 09-142</reason>
     </section>
@@ -3944,6 +3952,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>32-2</num>
       <reason>Reserved</reason>
     </section>
@@ -3975,6 +3984,7 @@
       </annotations>
     </section>
     <section name="32-6to32-8">
+      <prefix>§§</prefix>
       <num>32-6 to 32-8</num>
       <reason>Reserved</reason>
     </section>
@@ -4993,6 +5003,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>36-4</num>
       <reason>Repealed by Ord. 22-125</reason>
     </section>
@@ -5071,6 +5082,7 @@
       </annotations>
     </section>
     <section name="37-5to37-10">
+      <prefix>§§</prefix>
       <num>37-5 to 37-10</num>
       <reason>Reserved</reason>
     </section>
@@ -5182,6 +5194,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>38-2</num>
       <reason>Repealed by Ord. 09-144</reason>
     </section>
@@ -5360,6 +5373,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-8</num>
         <reason>Reserved</reason>
       </section>
@@ -5396,6 +5410,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>39-11</num>
         <reason>Reserved</reason>
       </section>
@@ -5628,6 +5643,7 @@
         </annotations>
       </section>
       <section name="40-4to40-5">
+        <prefix>§§</prefix>
         <num>40-4 to 40-5</num>
         <reason>Reserved</reason>
       </section>
@@ -5711,6 +5727,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-10</num>
         <reason>Reserved</reason>
       </section>
@@ -5916,6 +5933,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>40-16</num>
         <reason>Repealed by Ord. 08-060.</reason>
       </section>
@@ -6004,6 +6022,7 @@
         </annotations>
       </section>
       <section name="40-19to40-20">
+        <prefix>§§</prefix>
         <num>40-19 to 40-20</num>
         <reason>Reserved</reason>
       </section>
@@ -6030,6 +6049,7 @@
     <num>41</num>
     <heading>Outdoor Telephones</heading>
     <section>
+      <prefix>§</prefix>
       <num>41-1</num>
       <reason>Repealed by Ord.  22-125</reason>
     </section>
@@ -6089,10 +6109,12 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-4</num>
       <reason>Repealed by Ord. 15-435.</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>41-5</num>
       <reason>Reserved</reason>
     </section>
@@ -6367,6 +6389,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-2</num>
       <reason>Repealed by Ord. 07-619.</reason>
     </section>
@@ -6567,6 +6590,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-7</num>
       <reason>Repealed by Ord. 07-619.</reason>
     </section>
@@ -6613,6 +6637,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43-10</num>
       <reason>Reserved</reason>
     </section>
@@ -7192,6 +7217,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43B-3</num>
       <reason>Reserved</reason>
     </section>
@@ -7259,6 +7285,7 @@
       </annotations>
     </section>
     <section name="43B-6to43B-7">
+      <prefix>§§</prefix>
       <num>43B-6 to 43B-7</num>
       <reason>Reserved</reason>
     </section>
@@ -7322,10 +7349,12 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43B-9</num>
       <reason>Reserved</reason>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>43B-10</num>
       <reason>Repealed by Ord. 22-125</reason>
     </section>
@@ -7356,6 +7385,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>44-3</num>
       <reason>Reserved</reason>
     </section>
@@ -7624,6 +7654,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>45-6</num>
       <reason>Reserved</reason>
     </section>
@@ -7838,6 +7869,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-6</num>
       <reason>Reserved</reason>
     </section>
@@ -7854,6 +7886,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>47-8</num>
       <reason>Reserved</reason>
     </section>
@@ -7930,6 +7963,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>48-2</num>
       <reason>Repealed by Ord. 07-471.</reason>
     </section>
@@ -8060,6 +8094,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>49-5</num>
       <reason>Reserved</reason>
     </section>
@@ -8086,6 +8121,7 @@
       <num>1</num>
       <heading>Obstructions</heading>
       <section>
+        <prefix>§</prefix>
         <num>50-1</num>
         <reason>Repealed by Ord. 09-146</reason>
       </section>
@@ -8248,6 +8284,7 @@
         </annotations>
       </section>
       <section name="50-5to50-10">
+        <prefix>§§</prefix>
         <num>50-5 to 50-10</num>
         <reason>Reserved</reason>
       </section>
@@ -8268,6 +8305,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>50-12</num>
         <reason>Repealed</reason>
         <annotations>
@@ -8275,6 +8313,7 @@
         </annotations>
       </section>
       <section name="50-13to50-15">
+        <prefix>§§</prefix>
         <num>50-13 to 50-15</num>
         <reason>Reserved</reason>
       </section>
@@ -8285,6 +8324,7 @@
       <heading>Coasting</heading>
       <reason>Repealed by Ord. 15-435</reason>
       <section name="50-16to50-20">
+        <prefix>§§</prefix>
         <num>50-16 to 50-20</num>
         <reason>Reserved</reason>
       </section>
@@ -8298,6 +8338,7 @@
         <annotation type="Editor's Notes">Ordinance 04-854 repealed former Part 3, “Street Sales Near Farmers’ Markets”, and rewrote City Code <cite path="|15">Article 15</cite>, Subtitle 17, to include similar provisions.</annotation>
       </annotations>
       <section name="50-21to50-25">
+        <prefix>§§</prefix>
         <num>50-21 to 50-25</num>
         <reason>Reserved</reason>
       </section>
@@ -8311,6 +8352,7 @@
         <annotation type="Editor's Notes">Ordinance 15-435 repealed former Part 4, dealing with the fires in streets, lanes, and alleys.  The provisions of that part (virtually unchanged since their enactment in 1858) have been effectively superseded by the more extensive provisions of the <cite path="|building-codes|VIII">International Fire Code</cite> Chapter 3 {“General Requirements”}, as adopted by Part VIII of the City’s <cite path="|building-codes">Building, Fire, and Related Codes Article</cite>.  See, e.g., FC § 303 {“Asphalt kettles”}, § 307 {“Open burning...”}, and § 308 {“Open flames”}.</annotation>
       </annotations>
       <section name="50-26to50-30">
+        <prefix>§§</prefix>
         <num>50-26 to 50-30</num>
         <reason>Reserved</reason>
       </section>
@@ -8362,6 +8404,7 @@
         </annotations>
       </section>
       <section name="50-32to50-40">
+        <prefix>§§</prefix>
         <num>50-32 to 50-40</num>
         <reason>Reserved</reason>
       </section>
@@ -8372,10 +8415,12 @@
       <heading>Playing Ball, etc.</heading>
       <reason>Repealed by Ord. 20-353</reason>
       <section>
+        <prefix>§</prefix>
         <num>50-41</num>
         <reason>Repealed by Ord. 20-353</reason>
       </section>
       <section name="50-42to50-45">
+        <prefix>§§</prefix>
         <num>50-42 to 50-45</num>
         <reason>Reserved</reason>
       </section>
@@ -8388,6 +8433,7 @@
         <annotation type="Editor's Notes">Ordinance 09-148 repealed this Part 7, in its entirety, and enacted a new section, <cite path="|building-codes|VII">Property Maintenance Code</cite> <cite path="|building-codes|VII|305.8" proof="needed">§ 305.8</cite>, with similar requirements.</annotation>
       </annotations>
       <section name="50-46to50-55">
+        <prefix>§§</prefix>
         <num>50-46 to 50-55</num>
         <reason>Reserved</reason>
       </section>
@@ -8417,6 +8463,7 @@
         </annotations>
       </section>
       <section name="50-57to50-58">
+        <prefix>§§</prefix>
         <num>50-57 to 50-58</num>
         <reason>Repealed by Ord. 09-149.</reason>
       </section>
@@ -8482,6 +8529,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>50-62</num>
         <reason>Repealed by Ord. 09-150</reason>
       </section>
@@ -8986,6 +9034,7 @@
         </annotations>
       </section>
       <section name="59-3and59-4">
+        <prefix>§§</prefix>
         <num>59-3 and 59-4</num>
         <reason>Repealed by Ord. 14-307.</reason>
       </section>
@@ -9128,6 +9177,7 @@
         </annotations>
       </section>
       <section name="59-6to59-10">
+        <prefix>§§</prefix>
         <num>59-6 to 59-10</num>
         <reason>Reserved</reason>
       </section>
@@ -9278,6 +9328,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-15</num>
         <reason>Reserved</reason>
       </section>
@@ -9333,6 +9384,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-20</num>
         <reason>Reserved</reason>
       </section>
@@ -9584,6 +9636,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-25</num>
         <reason>Reserved</reason>
       </section>
@@ -9787,6 +9840,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-29</num>
         <reason>Reserved</reason>
       </section>
@@ -9844,6 +9898,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>59-31</num>
         <reason>Reserved</reason>
       </section>
@@ -9867,6 +9922,7 @@
         </annotations>
       </section>
       <section name="59-33to59-40">
+        <prefix>§§</prefix>
         <num>59-33 to 59-40</num>
         <reason>Reserved</reason>
       </section>
@@ -9876,6 +9932,7 @@
       <num>4</num>
       <reason>Repealed</reason>
       <section name="59-41to59-60">
+        <prefix>§§</prefix>
         <num>59-41 to 59-60</num>
         <reason>Repealed by Ord. 02-452.</reason>
       </section>

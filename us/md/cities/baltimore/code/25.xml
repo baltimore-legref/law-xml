@@ -427,6 +427,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-5</num>
       <reason>Reserved</reason>
     </section>
@@ -453,6 +454,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-8</num>
       <reason>Repealed by Ord. 22-125</reason>
       <annotations>

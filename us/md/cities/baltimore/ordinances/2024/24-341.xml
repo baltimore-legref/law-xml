@@ -7663,6 +7663,7 @@
     </codify:replace>
     <codify:insert path="building-codes|XII|1" after="105">
       <section>
+        <prefix>Section</prefix>
         <num>106</num>
         <heading>Construction Documents</heading>
         <reason>As in ISPSC</reason>
@@ -7670,6 +7671,7 @@
     </codify:insert>
     <codify:insert path="building-codes|XII|1" after="106">
       <section>
+        <prefix>Section</prefix>
         <num>107</num>
         <heading>Notice of Approval</heading>
         <reason>Not Adopted</reason>
@@ -7677,6 +7679,7 @@
     </codify:insert>
     <codify:insert path="building-codes|XII|1" after="107">
       <section>
+        <prefix>Section</prefix>
         <num>108</num>
         <heading>Fees</heading>
         <reason>As in ISPSC</reason>
@@ -7703,6 +7706,7 @@
     </codify:insert>
     <codify:insert path="building-codes|XII|1" after="108">
       <section>
+        <prefix>Section</prefix>
         <num>109</num>
         <heading>Service Utilities</heading>
         <reason>As in ISPSC</reason>
@@ -7725,6 +7729,7 @@
     </codify:insert>
     <codify:insert path="building-codes|XII|1" after="110">
       <section>
+        <prefix>Section</prefix>
         <num>111</num>
         <heading>Means of Appeals</heading>
         <reason>Not Adopted</reason>
@@ -7732,6 +7737,7 @@
     </codify:insert>
     <codify:insert path="building-codes|XII|1" after="111">
       <section>
+        <prefix>Section</prefix>
         <num>112</num>
         <heading>Board of Appeals</heading>
         <reason>Not Adopted</reason>
@@ -7739,6 +7745,7 @@
     </codify:insert>
     <codify:insert path="building-codes|XII|1" after="113">
       <section>
+        <prefix>Section</prefix>
         <num>114</num>
         <heading>Stop Work Order</heading>
         <para>
