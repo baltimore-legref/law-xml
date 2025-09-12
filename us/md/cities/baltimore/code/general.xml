@@ -151,6 +151,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-202</num>
         <reason>Reserved</reason>
       </section>
@@ -196,6 +197,7 @@
         </annotations>
       </section>
       <section name="1-206to1-207">
+        <prefix>§§</prefix>
         <num>1-206 to 1-207</num>
         <reason>Reserved</reason>
       </section>
@@ -234,6 +236,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-210</num>
         <reason>Reserved</reason>
       </section>
@@ -273,6 +276,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>1-213</num>
         <reason>Reserved</reason>
       </section>
@@ -1131,6 +1135,7 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>4-405</num>
         <reason>Repealed by Ord. 22-125</reason>
         <annotations>
