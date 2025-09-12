@@ -24,7 +24,7 @@
     <codify:replace doc="City of Baltimore, Md., Code" path="|4|1|1-1|(f)|(1)">
       <para>
         <num>(1)</num>
-        <text>"Discrimination" means any difference in the treatment of an individual or person because of race, color, religion, national origin, ancestry, sex, marital status, physical or mental disability, sexual orientation, gender identity or expression, HIV or AIDS status or, in the context of discriminatory housing practices under <cite doc="City of Baltimore, Md., Code" path="|4|3|3-5">§ 3-5 {"Housing"}</cite> of <cite doc="City of Baltimore, Md., Code" path="|4">this article</cite>, source of income.</text>
+        <text>"Discrimination" means any difference in the treatment of an individual or person because of race, color, religion, national origin, ancestry, sex, marital status, physical or mental disability, sexual orientation, gender identity or expression, HIV or AIDS status or, in the context of discriminatory housing practices under <cite doc="City of Baltimore, Md., Code" path="|4|3|3-5">§ 3-5 {"Housing"}</cite> of <cite doc="City of Baltimore, Md., Code" path="|4">this article</cite>, source of income.</text>
       </para>
     </codify:replace>
     <codify:insert doc="City of Baltimore, Md., Code" path="|4|1|1-1" after="|4|1|1-1|(m)">
@@ -177,7 +177,7 @@
           <text>
             <em>Exemptions.</em>
           </text>
-          <text>This section is subject to the exemptions based upon religious principles provided in <cite doc="City of Baltimore, Md., Code" path="|4|1|1-1|(f)">§ 1-1(f)</cite> of <cite doc="City of Baltimore, Md., Code" path="|4">this article</cite>.
+          <text>This section is subject to the exemptions based upon religious principles provided in <cite doc="City of Baltimore, Md., Code" path="|4|1|1-1|(f)">§ 1-1(f)</cite> of <cite doc="City of Baltimore, Md., Code" path="|4">this article</cite>.
         </text>
         </para>
       </section>
@@ -286,7 +286,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>information about enforcement under City Code <cite doc="City of Baltimore, Md., Code" path="|4|4">Article 4, Subtitle 4 {"Enforcement"}</cite>.
+              <text>information about enforcement under City Code <cite doc="City of Baltimore, Md., Code" path="|4|4">Article 4, Subtitle 4 {"Enforcement"}</cite>.
             </text>
             </para>
           </para>
@@ -624,7 +624,7 @@
           <num>(k)</num>
           <text><em>Exemptions — persons convicted of certain drug offenses</em>.
         </text>
-          <text>Nothing in this section prohibits conduct against a person because such person has been convicted by any court of competent jurisdiction of the illegal manufacture or distribution of a controlled substance as defined in § 102 of the Controlled Substances Act (21 U.S.C. 802) or a controlled dangerous substance as defined in § 277, Article 27 - Crimes and Punishments, Annotated Code of Maryland, 1987 Replacement Volume, as amended.</text>
+          <text>Nothing in this section prohibits conduct against a person because such person has been convicted by any court of competent jurisdiction of the illegal manufacture or distribution of a controlled substance as defined in § 102 of the Controlled Substances Act (21 U.S.C. 802) or a controlled dangerous substance as defined in § 277, Article 27 - Crimes and Punishments, Annotated Code of Maryland, 1987 Replacement Volume, as amended.</text>
         </para>
       </section>
     </codify:replace>
