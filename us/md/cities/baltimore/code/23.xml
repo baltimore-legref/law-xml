@@ -214,11 +214,13 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-2</num>
       <reason>Repealed by Ord. 22-125</reason>
       <text><strong>Comment:</strong> For the Code-wide standard uses of <em>mandatory terms </em> ("must" and "shall"), <em>prohibitory terms </em>("may not", "must not", and "no ... may"), and<em> permissive terms </em> ("may").</text>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-3</num>
       <reason>Reserved</reason>
     </section>
@@ -278,6 +280,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>1-6</num>
       <reason>Reserved</reason>
     </section>
@@ -494,6 +497,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>2-5</num>
       <reason>Reserved</reason>
     </section>
@@ -570,6 +574,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>4-3</num>
       <reason>Reserved</reason>
     </section>
@@ -1165,6 +1170,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>11-11</num>
       <reason>Repealed by Ord. 22-125</reason>
       <annotations>
@@ -1285,6 +1291,7 @@
       </annotations>
     </section>
     <section>
+      <prefix>§</prefix>
       <num>16-5</num>
       <reason>Repealed by Ord. 07-488</reason>
     </section>

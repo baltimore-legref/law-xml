@@ -175,6 +175,7 @@
     </codify:replace>
     <codify:insert doc="City of Baltimore, Md., Code" path="1|55" after="§55-6" warning="false">
       <section>
+        <prefix>§</prefix>
         <num>55-7</num>
         <heading>Personnel; Budget.</heading>
         <para>
