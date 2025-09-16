@@ -4831,9 +4831,7 @@
             </tbody>
             <tfoot>
               <tr>
-                <td colspan="8">
-                  <p><strong>*</strong> If, in the "Sign Types by Zoning District" section of this table, a sign type is not listed in a particular zoning district, then that sign type is prohibited in that zoning district.</p>
-                </td>
+                <td colspan="8"><strong>*</strong> If, in the "Sign Types by Zoning District" section of this table, a sign type is not listed in a particular zoning district, then that sign type is prohibited in that zoning district.</td>
               </tr>
             </tfoot>
           </table>
