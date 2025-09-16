@@ -1462,7 +1462,7 @@
         <num>10-301</num>
         <heading>Commercial Districts – Permitted and Conditional Uses</heading>
         <text>
-          <table>
+          <table high-density="true">
             <thead>
               <tr>
                 <th>Uses</th>
@@ -2840,7 +2840,7 @@
         <num>11-301</num>
         <heading>Industrial Districts – Permitted and Conditional Uses</heading>
         <text>
-          <table>
+          <table high-density="true">
             <thead>
               <tr>
                 <th>Uses</th>
@@ -5003,8 +5003,7 @@
                 <td>Per § 14-340</td>
               </tr>
               <tr>
-                <td>Telecommunications Facility<sup><strong>1</strong></sup>
-              </td>
+                <td>Telecommunications Facility<sup><strong>1</strong></sup></td>
                 <td>CB, P</td>
                 <td>CB, P</td>
                 <td>CB, P</td>
@@ -5022,8 +5021,7 @@
                 <td>Per § 14-340</td>
               </tr>
               <tr>
-                <td>Wireless Communications Services<sup><strong>2</strong></sup>
-            </td>
+                <td>Wireless Communications Services<sup><strong>2</strong></sup></td>
                 <td>CB, P</td>
                 <td>CB, P</td>
                 <td>CB, P</td>
