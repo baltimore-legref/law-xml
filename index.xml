@@ -30,6 +30,7 @@
   </collection>
   <collection name="us/md/cities/baltimore/resolutions">
     <heading>Resolutions</heading>
+    <xi:include href="./us/md/cities/baltimore/resolutions/2025/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/resolutions/2024/index.xml"/>
   </collection>
   <collection name="us/md/legis/acts">
