@@ -1167,7 +1167,7 @@
   </container>
   <container name="2to5">
     <prefix>Subtitles</prefix>
-    <num>2 to 5</num>
+    <num>2 to 5</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -6916,7 +6916,7 @@
   </container>
   <container name="12to15">
     <prefix>Subtitles</prefix>
-    <num>12 to 15</num>
+    <num>12 to 15</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -7284,7 +7284,7 @@
   </container>
   <container name="17to18">
     <prefix>Subtitles</prefix>
-    <num>17 to 18</num>
+    <num>17 to 18</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -8073,7 +8073,7 @@
       </annotations>
     </section>
     <section name="19-14to19-15">
-      <num>19-14 to19-15</num>
+      <num>19-14 to 19-15</num>
       <reason>Reserved</reason>
     </section>
     <section>

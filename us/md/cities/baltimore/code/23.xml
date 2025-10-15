@@ -647,7 +647,7 @@
   </container>
   <container name="8to10">
     <prefix>Subtitles</prefix>
-    <num>8 to 10</num>
+    <num>8 to 10</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -1193,7 +1193,7 @@
   </container>
   <container name="12to15">
     <prefix>Subtitles</prefix>
-    <num>12 to 15</num>
+    <num>12 to 15</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -1291,7 +1291,7 @@
   </container>
   <container name="17to20">
     <prefix>Subtitles</prefix>
-    <num>17 to 20</num>
+    <num>17 to 20</num>
     <reason>Reserved</reason>
   </container>
   <container>
