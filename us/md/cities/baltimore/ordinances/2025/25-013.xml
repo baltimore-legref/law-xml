@@ -1791,7 +1791,7 @@
     <codify:replace  path="1|42to48" warning="false">
       <container name="43to48">
         <prefix>Subtitles</prefix>
-        <num>43 to 48</num>
+        <num>43 to 48</num>
         <reason>Reserved</reason>
       </container>"
     </codify:replace>
@@ -3450,7 +3450,7 @@
           </para>
         </para>
         <para name="(41)-(42)">
-          <num from="(41)" to="(42)">(41) - (42)</num>
+          <num from="(41)" to="(42)">(41) - (42)</num>
           <reason>Reserved</reason>
         </para>
         <para>

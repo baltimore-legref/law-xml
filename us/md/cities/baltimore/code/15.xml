@@ -1774,7 +1774,7 @@
         </annotations>
       </section>
       <section name="2-34to2-35">
-        <num>2-34 to  2-35</num>
+        <num>2-34 to 2-35</num>
         <reason>Reserved</reason>
       </section>
     </container>
@@ -2423,7 +2423,7 @@
   </container>
   <container name="4to5">
     <prefix>Subtitles</prefix>
-    <num>4 to 5</num>
+    <num>4 to 5</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -8535,7 +8535,7 @@
   </container>
   <container name="23to25">
     <prefix>Subtitles</prefix>
-    <num>23 to 25</num>
+    <num>23 to 25</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -8561,7 +8561,7 @@
   </container>
   <container name="27to40">
     <prefix>Subtitles</prefix>
-    <num>27 to 40</num>
+    <num>27 to 40</num>
     <reason>Reserved</reason>
   </container>
   <container>
@@ -9530,7 +9530,7 @@
   </container>
   <container name="44to45">
     <prefix>Subtitles</prefix>
-    <num>44 to 45</num>
+    <num>44 to 45</num>
     <reason>Reserved</reason>
   </container>
   <container>
