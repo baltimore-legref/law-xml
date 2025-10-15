@@ -361,10 +361,10 @@
         </para>
       </section>
     </codify:insert>
-    <codify:replace path="19|61 to 70" warning="false">
+    <codify:replace path="19|61 to 70" warning="false">
       <section name="62to70">
         <prefix>Subtitles</prefix>
-        <num>62 to 70</num>
+        <num>62 to 70</num>
         <reason>Reserved</reason>
       </section>
     </codify:replace>

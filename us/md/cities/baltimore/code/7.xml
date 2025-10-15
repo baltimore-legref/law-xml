@@ -3819,7 +3819,7 @@
     </container>
     <container name="10to20">
       <prefix>Subtitles</prefix>
-      <num>10 to 20</num>
+      <num>10 to 20</num>
       <reason>Reserved</reason>
     </container>
   </container>
@@ -7324,7 +7324,7 @@
     </container>
     <container name="29to30">
       <prefix>Subtitles</prefix>
-      <num>29 to 30</num>
+      <num>29 to 30</num>
       <reason>Reserved</reason>
     </container>
   </container>
@@ -9018,7 +9018,7 @@
     </container>
     <container name="36to40">
       <prefix>Subtitles</prefix>
-      <num>36 to 40</num>
+      <num>36 to 40</num>
       <reason>Reserved</reason>
     </container>
   </container>
@@ -10233,7 +10233,7 @@
     </container>
     <container name="49to50">
       <prefix>Subtitles</prefix>
-      <num>49 to 50</num>
+      <num>49 to 50</num>
       <reason>Reserved</reason>
     </container>
   </container>
@@ -11211,7 +11211,7 @@
     </container>
     <container name="55to60">
       <prefix>Subtitles</prefix>
-      <num>55 to 60</num>
+      <num>55 to 60</num>
       <reason>Reserved</reason>
     </container>
   </container>
