@@ -6,4 +6,10 @@
   <xi:include href="./01.xml"/>
   <xi:include href="./04.xml"/>
   <xi:include href="./05.xml"/>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <attachment name="developers-agreement" url="/us/md/cities/baltimore/cobra/attachments/14.03-Developers_Agreement.pdf">
+      <heading>Developers Agreement</heading>
+    </attachment>
+  </attachments>
 </container>

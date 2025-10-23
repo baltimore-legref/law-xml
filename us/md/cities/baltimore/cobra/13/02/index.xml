@@ -4,4 +4,10 @@
   <num>02</num>
   <heading>CHILDHOOD LEAD POISONING PREVENTION PROGRAM</heading>
   <xi:include href="./01.xml"/>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <attachment name="facility-licenses" url="/us/md/cities/baltimore/cobra/attachments/13.02-Facility_Licenses.pdf">
+      <heading>Facility Licenses</heading>
+    </attachment>
+  </attachments>
 </container>

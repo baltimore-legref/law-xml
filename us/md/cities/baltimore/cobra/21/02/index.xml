@@ -4,4 +4,10 @@
   <num>02</num>
   <heading>WATER AND WASTEWATER</heading>
   <xi:include href="./04.xml"/>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <attachment name="contractor-qualification" url="/us/md/cities/baltimore/cobra/attachments/21.02-Contractor_Qualification.pdf">
+      <heading>Contractor Qualification</heading>
+    </attachment>
+  </attachments>
 </container>

@@ -4,4 +4,10 @@
   <num>02</num>
   <heading>DOCKLESS VEHICLES</heading>
   <xi:include href="./01.xml"/>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <attachment name="curb-cuts" url="/us/md/cities/baltimore/cobra/attachments/14.02-Curb_Cuts.pdf">
+      <heading>Curb Cuts</heading>
+    </attachment>
+  </attachments>
 </container>

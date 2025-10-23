@@ -4,4 +4,10 @@
   <num>03</num>
   <heading>ANIMAL PROVISIONS</heading>
   <xi:include href="./01.xml"/>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <attachment name="proper-restraint-of-animals" url="/us/md/cities/baltimore/cobra/attachments/13.03-Proper_Restraint_of_Animals.pdf">
+      <heading>Proper Restraint of Animals</heading>
+    </attachment>
+  </attachments>
 </container>
