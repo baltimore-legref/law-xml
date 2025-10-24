@@ -630,9 +630,11 @@
       <para>
         <num>(4)</num>
         <text>A permit holder shall submit written opposition to:</text>
-        <text>Baltimore City Department of Transportation Transit Bureau</text>
-        <text>417 E. Fayette Street</text>
-        <text>Baltimore, Maryland 21202.</text>
+        <include>
+          <text>Baltimore City Department of Transportation Transit Bureau</text>
+          <text>417 E. Fayette Street</text>
+          <text>Baltimore, Maryland 21202.</text>
+        </include>
       </para>
       <para>
         <num>(5)</num>
@@ -1923,14 +1925,16 @@
       <para>
         <num>(1)</num>
         <text>A permit holder shall retrieve a seized dockless vehicle from:</text>
-        <text>Baltimore City Department of Transportation</text>
-        <text>Towing Division</text>
-        <text>6700 Pulaski Hwy</text>
-        <text>Baltimore, Maryland, 21237</text>
-        <text>During the following hours:</text>
-        <text>Monday-Friday 8:30 am – 5:00 pm</text>
-        <text>Saturday 9:00 am – 4:30 pm</text>
-        <text>Closed Sundays and Holidays.</text>
+        <include>
+          <text>Baltimore City Department of Transportation</text>
+          <text>Towing Division</text>
+          <text>6700 Pulaski Hwy</text>
+          <text>Baltimore, Maryland, 21237</text>
+          <text>During the following hours:</text>
+          <text>Monday-Friday 8:30 am – 5:00 pm</text>
+          <text>Saturday 9:00 am – 4:30 pm</text>
+          <text>Closed Sundays and Holidays.</text>
+        </include>
       </para>
       <para>
         <num>(2)</num>

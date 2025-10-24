@@ -7,7 +7,7 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Restatement and Amendment of Area 18 – Middle/East/South.</heading>
-    <text>The PABC restates and amends RPP Area 18 – Middle/East/South on the following              block faces or portions of block faces:</text>
+    <text>The PABC restates and amends RPP Area 18 – Middle/East/South on the following block faces or portions of block faces:</text>
     <para>
       <num>A.</num>
       <text>400 block of North Castle Street (both sides, both sides posted);</text>
@@ -120,7 +120,9 @@
     <para>
       <num>A.</num>
       <text>The PABC shall post and enforce the following parking restrictions:</text>
-      <text>"Two-hour parking limit, Monday through Friday, from 7:00 a.m. to 7:00 p.m."</text>
+      <include>
+        <text>"Two-hour parking limit, Monday through Friday, from 7:00 a.m. to 7:00 p.m."</text>
+      </include>
     </para>
     <para>
       <num>B.</num>
