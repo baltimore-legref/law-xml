@@ -270,11 +270,13 @@
         <para>
           <num>(d)</num>
           <text>Send the signed and notarized land disposition agreement to:</text>
-          <text>[Name Of Assigned Real Estate Officer]</text>
-          <text>City of Baltimore, Department of Housing &amp; Community Development,</text>
-          <text>Development Division</text>
-          <text>417 E. Fayette Street.10th Floor, Benton Bldg.</text>
-          <text>Baltimore, MD 21202.</text>
+          <include>
+            <text>[Name Of Assigned Real Estate Officer]</text>
+            <text>City of Baltimore, Department of Housing &amp; Community Development,</text>
+            <text>Development Division</text>
+            <text>417 E. Fayette Street.10th Floor, Benton Bldg.</text>
+            <text>Baltimore, MD 21202.</text>
+          </include>
         </para>
       </para>
       <para>
