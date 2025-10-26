@@ -279,17 +279,17 @@
           <table>
             <thead>
               <tr>
-                <th>Uses</th>
-                <th colspan="5">Subdistricts</th>
-                <th>Use Standards</th>
+                <th data-text-align="left">Uses</th>
+                <th colspan="5" data-text-align="center">Subdistricts</th>
+                <th data-text-align="center">Use Standards</th>
               </tr>
               <tr>
                 <th/>
-                <th>OR-1</th>
-                <th>C-1</th>
-                <th>C-2</th>
-                <th>C-3</th>
-                <th>IMU-1</th>
+                <th data-text-align="center">OR-1</th>
+                <th data-text-align="center">C-1</th>
+                <th data-text-align="center">C-2</th>
+                <th data-text-align="center">C-3</th>
+                <th data-text-align="center">IMU-1</th>
                 <th/>
               </tr>
             </thead>
@@ -299,38 +299,38 @@
               </tr>
               <tr>
                 <td>Dwelling (Above Non-Residential Ground Floor)</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Dwelling: Multi-Family</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 12-1404</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 12-1404</td>
               </tr>
               <tr>
                 <td>Dwelling: Rowhouse</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Dwelling: Live-Work</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
@@ -338,335 +338,335 @@
               </tr>
               <tr>
                 <td>Community Center</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Cultural Facility</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-308</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-308</td>
               </tr>
               <tr>
                 <td>Place of Worship</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>Per § 14-332</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-332</td>
               </tr>
               <tr>
                 <th colspan="7">Open-Space</th>
               </tr>
               <tr>
                 <td>Community-Managed Open-Space Farm</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-307</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-307</td>
               </tr>
               <tr>
                 <td>Community-Managed Open-Space Garden</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-307</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-307</td>
               </tr>
               <tr>
                 <td>Park or Playground</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Urban Agriculture</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-339</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-339</td>
               </tr>
               <tr>
                 <th colspan="7">Commercial</th>
               </tr>
               <tr>
                 <td>Art Gallery</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Arts Studio</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
               </tr>
               <tr>
                 <td>Arts Studio: Industrial</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Body Art Establishment</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Carry-Out Food Shop</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Day-Care Center: Adult or Child</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-309</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-309</td>
               </tr>
               <tr>
                 <td>Entertainment: Indoor</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-312</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312</td>
               </tr>
               <tr>
                 <td>Entertainment: Live</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-319</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-319</td>
               </tr>
               <tr>
                 <td>Financial Institution</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Greenhouse or Nursery</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-339</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-339</td>
               </tr>
               <tr>
                 <td>Health-Care Clinic</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Health and Fitness Center</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Hotel or Motel</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Kennel</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-317</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-317</td>
               </tr>
               <tr>
                 <td>Office</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Outdoor Dining</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-329</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-329</td>
               </tr>
               <tr>
                 <td>Personal Services Establishment</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Recreation: Indoor</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-312</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312</td>
               </tr>
               <tr>
                 <td>Recreation: Outdoor</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-312</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-312</td>
               </tr>
               <tr>
                 <td>Restaurant</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-336</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-336</td>
               </tr>
               <tr>
                 <td>Tavern</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-337</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-337</td>
               </tr>
               <tr>
                 <th colspan="7">Industrial</th>
               </tr>
               <tr>
                 <td>Alternative Energy System: Commercial</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
                 <td/>
               </tr>
               <tr>
                 <td>Food Processing: Light</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Industrial: Light</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Movie Studio</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Printing Establishment</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
                 <td>Research and Development Facility</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
                 <td/>
               </tr>
               <tr>
@@ -674,48 +674,48 @@
               </tr>
               <tr>
                 <td>Alternative Energy System: Community-Based</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>P</td>
-                <td>Per § 14-306</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">P</td>
+                <td data-text-align="center">Per § 14-306</td>
               </tr>
               <tr>
                 <td>Electric Substation: Enclosed, Indoor, or Outdoor</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>Per § 14-340</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-340</td>
               </tr>
               <tr>
                 <td>Telecommunications Facility<sup><strong>1</strong></sup></td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>Per § 14-338</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">Per § 14-338</td>
               </tr>
               <tr>
                 <td>Utilities</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>CB</td>
-                <td>Per § 14-340</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">CB</td>
+                <td data-text-align="center">Per § 14-340</td>
               </tr>
               <tr>
                 <td>Wireless Communications Services<sup><strong>2</strong></sup></td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>CB, P</td>
-                <td>Per § 14-338</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">CB, P</td>
+                <td data-text-align="center">Per § 14-338</td>
               </tr>
             </tbody>
             <tfoot>
