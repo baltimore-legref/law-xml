@@ -6247,8 +6247,8 @@
                 <table>
                   <thead>
                     <tr>
-                      <th class="text-indent-5">Total Floor Space</th>
-                      <th class="text-indent-3">Expenditure Required</th>
+                      <th>Total Floor Space</th>
+                      <th>Expenditure Required</th>
                     </tr>
                   </thead>
                   <tbody>
