@@ -51,7 +51,7 @@
           <num>(6)</num>
           <text>increase housing opportunity and diversity.</text>
         </para>
-        <text>This overlay district is tied to the underlying zoning district to maintain the existing character of the development and neighborhood.</text>
+        <aftertext>This overlay district is tied to the underlying zoning district to maintain the existing character of the development and neighborhood.</aftertext>
       </section>
     </codify:insert>
     <codify:insert path="32|12">

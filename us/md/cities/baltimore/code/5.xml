@@ -5888,10 +5888,10 @@
             <num>(4)</num>
             <text>is made to work in unsafe conditions, prevented from taking adequate breaks, or forced to meet daily quotas</text>
           </para>
-          <text>... they may be a victim of labor trafficking.</text>
-          <text class="center">For immediate assistance</text>
-          <text class="center">call the National Human Trafficking Hotline</text>
-          <text class="center"><strong>+1 (888) 373-7888 or text "BeFree" to 233733</strong>"</text>
+          <aftertext>... they may be a victim of labor trafficking.</aftertext>
+          <aftertext class="center">For immediate assistance</aftertext>
+          <aftertext class="center">call the National Human Trafficking Hotline</aftertext>
+          <aftertext class="center"><strong>+1 (888) 373-7888 or text "BeFree" to 233733</strong>"</aftertext>
         </include>
       </para>
       <para>
