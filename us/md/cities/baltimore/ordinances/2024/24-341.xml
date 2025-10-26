@@ -75,8 +75,33 @@
       </replace>
     </codify:find-replace>
     <codify:replace path="building-codes|§1-101">
-      <section><prefix>§</prefix>s
-      <num>1-101</num><heading>State action</heading><para><num>(a)</num><heading>In general.</heading><text>The Maryland Building Performance Standards are adopted and, from time to time, amended by the Maryland Department of Labor under State Public Safety Article, Title 12, Subtitle 5.</text></para><para><num>(b)</num><heading>Contents.</heading><text>As amended effective May 29, 2023, these Standards consist of:</text><para><num>(1)</num><text>the <cite doc="City of Baltimore, Md., Code" path="|codes|II" proof="needed">International Building Code</cite> (2021 Edition), with certain State modifications {COMAR 09.12.51.04A and B};</text></para><para><num>(2)</num><text>the <cite doc="City of Baltimore, Md., Code" path="|codes|X" proof="needed">International Residential Code</cite> for One- and Two-Family Dwellings (2021 Edition), with certain State modifications {COMAR 09.12.51.04A and C}; and</text></para><para><num>(3)</num><text>the International Energy Conservation Code (2021 Edition), with certain State modifications {COMAR 09.12.51.04A and D}.</text></para></para></section>
+      <section>
+        <prefix>§</prefix>
+        <num>1-101</num>
+        <heading>State action</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>The Maryland Building Performance Standards are adopted and, from time to time, amended by the Maryland Department of Labor under State Public Safety Article, Title 12, Subtitle 5.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Contents.</heading>
+          <text>As amended effective May 29, 2023, these Standards consist of:</text>
+          <para>
+            <num>(1)</num>
+            <text>the <cite doc="City of Baltimore, Md., Code" path="|codes|II" proof="needed">International Building Code</cite> (2021 Edition), with certain State modifications {COMAR 09.12.51.04A and B};</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the <cite doc="City of Baltimore, Md., Code" path="|codes|X" proof="needed">International Residential Code</cite> for One- and Two-Family Dwellings (2021 Edition), with certain State modifications {COMAR 09.12.51.04A and C}; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the International Energy Conservation Code (2021 Edition), with certain State modifications {COMAR 09.12.51.04A and D}.</text>
+          </para>
+        </para>
+      </section>
     </codify:replace>
     <codify:replace path="building-codes|§1-102">
       <section>
@@ -1598,7 +1623,7 @@
         </para>
         <para>
           <num>202.2.35</num>
-          <reason>{Vacant}</reason>
+          <reason>Vacant</reason>
         </para>
         <para>
           <num>202.2.36</num>
