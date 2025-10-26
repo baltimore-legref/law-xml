@@ -584,44 +584,46 @@
             <num>(1)</num>
             <heading>In general.</heading>
             <text>A Department of Housing and Community Development inspector shall attempt to inspect at least a certain percentage of the total dwelling and rooming units in the priority dwelling, as provided for in the table below.</text>
-            <table>
-              <thead>
-                <tr>
-                  <th>Total Number of Units</th>
-                  <th>minimum Percentage of Total Units</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>20 - 35</td>
-                  <td>40%</td>
-                </tr>
-                <tr>
-                  <td>36 - 50</td>
-                  <td>35%</td>
-                </tr>
-                <tr>
-                  <td>51 - 75</td>
-                  <td>30%</td>
-                </tr>
-                <tr>
-                  <td>76 - 100</td>
-                  <td>25%</td>
-                </tr>
-                <tr>
-                  <td>101 - 125</td>
-                  <td>20%</td>
-                </tr>
-                <tr>
-                  <td>126 - 150</td>
-                  <td>15%</td>
-                </tr>
-                <tr>
-                  <td>151, or more</td>
-                  <td>10%</td>
-                </tr>
-              </tbody>
-            </table>
+            <text>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Total Number of Units</th>
+                    <th>minimum Percentage of Total Units</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>20 - 35</td>
+                    <td>40%</td>
+                  </tr>
+                  <tr>
+                    <td>36 - 50</td>
+                    <td>35%</td>
+                  </tr>
+                  <tr>
+                    <td>51 - 75</td>
+                    <td>30%</td>
+                  </tr>
+                  <tr>
+                    <td>76 - 100</td>
+                    <td>25%</td>
+                  </tr>
+                  <tr>
+                    <td>101 - 125</td>
+                    <td>20%</td>
+                  </tr>
+                  <tr>
+                    <td>126 - 150</td>
+                    <td>15%</td>
+                  </tr>
+                  <tr>
+                    <td>151, or more</td>
+                    <td>10%</td>
+                  </tr>
+                </tbody>
+              </table>
+           </text>
           </para>
           <para>
             <num>(2)</num>
