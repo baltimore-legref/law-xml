@@ -3,6 +3,18 @@
   <heading>Baltimore City Code</heading>
   <meta>
     <effective>0001-01-01</effective>
+    <print>
+      <volumes>
+        <volume start="building-codes"/>
+        <volume start="general"/>
+        <volume start="5"/>
+        <volume start="13"/>
+        <volume start="20"/>
+        <volume start="28"/>
+        <volume start="32" name="Zoning"/>
+      </volumes>
+    </print>
+    <publisher>Department of Legislative Reference</publisher>
   </meta>
   <xi:include href="./building-codes.xml"/>
   <xi:include href="./general.xml"/>
