@@ -2579,7 +2579,7 @@
               <text>identified with gender-inclusive signage.</text>
             </para>
           </para>
-          <text><strong>{Editor's Note:</strong><em>  But see </em>City Code <cite path="|15">Article 15</cite>, Subtitle 43 {"Public Restrooms"}, which requires the use of "gender-inclusive signage" to identify any "public single-use restroom" in a commercial or industrial establishment, a place of public accommodation, or a City-owned or -occupied building.<strong>}</strong></text>
+          <aftertext><strong>{Editor's Note:</strong><em>  But see </em>City Code <cite path="|15">Article 15</cite>, Subtitle 43 {"Public Restrooms"}, which requires the use of "gender-inclusive signage" to identify any "public single-use restroom" in a commercial or industrial establishment, a place of public accommodation, or a City-owned or -occupied building.<strong>}</strong></aftertext>
         </para>
         <para name="2902.5to2902.6">
           <num from="2902.5" to="2902.6">2902.5 to 2902.6</num>
@@ -2833,7 +2833,8 @@
       <section>
         <prefix>Section</prefix>
         <num>225.30</num>
-        <heading>Number of Supplies.  {Introductory paragraph as in NEC}</heading>
+        <heading>Number of Supplies.</heading>
+        <reason>Introductory paragraph as in NEC</reason>
         <para>
           <num>(A)</num>
           <heading>Special Conditions.</heading>
@@ -2879,7 +2880,8 @@
       <section>
         <prefix>Section</prefix>
         <num>230.24</num>
-        <heading>Clearances.  {Introductory paragraph as in NEC}</heading>
+        <heading>Clearances.</heading>
+        <reason>Introductory paragraph as in NEC</reason>
         <para name="(A)-(E)">
           <num from="(A)" to="(E)">(A) - (E)</num>
           <reason>As in NEC</reason>
@@ -2930,7 +2932,8 @@
       <section>
         <prefix>Section</prefix>
         <num>600.6</num>
-        <heading>Disconnects.  {Introductory paragraph as in NEC}</heading>
+        <heading>Disconnects.</heading>
+        <reason>Introductory paragraph as in NEC</reason>
         <text>
           <strong>
             <em>Exceptions:  {As in NEC}</em>
@@ -2973,7 +2976,8 @@
       <section>
         <prefix>Section</prefix>
         <num>695.6</num>
-        <heading>Power Wiring.  {Introductory paragraph as in NEC}</heading>
+        <heading>Power Wiring.</heading>
+        <reason>Introductory paragraph as in NEC</reason>
         <para>
           <num>(A)</num>
           <heading>Supply Conductors.</heading>
@@ -2982,7 +2986,7 @@
             <num from="(1)" to="(2)">(1) - (2)</num>
             <reason>As in NEC</reason>
           </para>
-          <text>
+          <aftertext>
             <strong>
               <em>Exception</em>
             </strong>
@@ -2990,7 +2994,7 @@
             <strong>
               <em>{Not Adopted}</em>
             </strong>
-          </text>
+          </aftertext>
         </para>
         <para name="(B)-(J)">
           <num from="(B)" to="(J)">(B) - (J)</num>
@@ -3002,7 +3006,8 @@
       <section>
         <prefix>Section</prefix>
         <num>700.12</num>
-        <heading>General Requirements.  {Introductory Paragraphs as in NEC}</heading>
+        <heading>General Requirements.</heading>
+        <reason>Introductory Paragraphs as in NEC</reason>
         <para name="(A)-(E)">
           <num from="(A)" to="(E)">(A) - (E)</num>
           <reason>As in NEC</reason>
@@ -3022,7 +3027,8 @@
       <section>
         <prefix>Section</prefix>
         <num>701.12</num>
-        <heading>General Requirements.  {Introductory paragraphs as in NEC}</heading>
+        <heading>General Requirements.</heading>
+        <reason>Introductory paragraphs as in NEC</reason>
         <para name="(A)-(E)">
           <num from="(A)" to="(E)">(A) - (E)</num>
           <reason>As in NEC</reason>
@@ -4921,7 +4927,7 @@
                 <text>fire hydrant locations, Fire Department connection locations, and fire apparatus access roads, where applicable,</text>
               </para>
               <para>
-                <num>10</num>
+                <num>10.</num>
                 <text>emergency lighting, exit signage, and emergency power systems,</text>
               </para>
               <para>
@@ -5863,7 +5869,7 @@
         <reason>As in IECC-C</reason>
       </attachment>
     </codify:insert>
-    <codify:insert path="building-codes|IX-B|§9B-101">
+    <codify:replace path="building-codes|IX-B|§9B-101" warning="false">
       <section>
         <prefix>§</prefix>
         <num>9B-101</num>
@@ -5879,7 +5885,7 @@
           <text>Unless otherwise specified, chapter and section numbers in this Part IX-B refer to the chapter and section numbers of the International Energy Conservation Code – Residential Provisions.</text>
         </para>
       </section>
-    </codify:insert>
+    </codify:replace>
     <codify:replace path="building-codes|IX-B|1|110 to 111" warning="false">
       <section>
         <prefix>Section</prefix>
@@ -6341,10 +6347,10 @@
             <para>
               <num>4.</num>
               <text>Equipment or systems that are used primarily for industrial or manufacturing purposes.</text>
+              <text>
+                <strong>Alternate Compliance Paths:</strong>
+              </text>
             </para>
-            <text>
-              <strong>Alternate Compliance Paths:</strong>
-            </text>
             <para>
               <num>5.</num>
               <text>A structure that achieves, as certified by the GBCI, Green Business Certification Incorporated, a silver-level or better rating in the USGBC, U.S. Green Building Council's LEED (Leadership in Energy and Environmental Design) rating system.</text>
@@ -6790,8 +6796,7 @@
             <heading>Irrigation.</heading>
             <reason>As in IgCC</reason>
             <para>
-              <num>601.3.1.2.1</num>
-              <heading>through  601.3.1.2.3</heading>
+              <num from="601.3.1.2.1" to="601.3.1.2.3">601.3.1.2.1 through 601.3.1.2.3</num>
               <reason>As in IgCC</reason>
             </para>
           </para>
@@ -6810,8 +6815,8 @@
             <para>
               <num>2.</num>
               <text>provide fixtures (water closets and urinals) and fittings (faucets and showerheads) that comply with the following requirements, as shown in Table 601.3.2.1:</text>
-              <para num="a.throughj.">
-                <num>a. through  j.</num>
+              <para name="a.throughj.">
+                <num from="a." to="j.">a. through j.</num>
                 <reason>As in IgCC</reason>
               </para>
             </para>
@@ -6968,7 +6973,7 @@
             </para>
             <para>
               <num>701.4.7.3.2</num>
-              <text>ENERGY STAR Requirements for Equipment Covered by Federal Appliance Efficiency Regulations (Alternate Renewables Approach).</text>
+              <heading>ENERGY STAR Requirements for Equipment Covered by Federal Appliance Efficiency Regulations (Alternate Renewables Approach).</heading>
               <reason>Not adopted</reason>
             </para>
           </para>
@@ -7122,9 +7127,8 @@
             <reason>As in IgCC</reason>
           </para>
         </para>
-        <para>
-          <num>901.3.2</num>
-          <heading>through 901.3.5.</heading>
+        <para name="901.3.2through901.3.5.">
+          <num from="901.3.2" to="901.3.5.">901.3.2 through 901.3.5.</num>
           <reason>As in IgCC</reason>
         </para>
       </section>
@@ -7208,7 +7212,7 @@
             <heading>Systems to be Commissioned.</heading>
             <text>For buildings that exceed 10,000 ft<sup>2</sup> (1000 m<sup>2</sup>) of gross floor area, the Cx process must be included in the design and construction of the building project. The following systems and associated controls, where included in the building project, must be commissioned:</text>
             <para name="a.throughh.">
-              <num>a. through h.</num>
+              <num from="a." to="h.">a. through h.</num>
               <reason>As in IgCC</reason>
             </para>
             <para>
@@ -7238,7 +7242,7 @@
           <heading>IAQ Construction Management.</heading>
           <text>Develop and implement an IAQ construction management plan to include the following:</text>
           <para name="a.throughc.">
-            <num>a. through c.</num>
+            <num from="a." to="c.">a. through c.</num>
             <reason>As in IgCC</reason>
           </para>
           <para>
@@ -7290,20 +7294,17 @@
               <thead>
                 <tr>
                   <th>Contaminant</th>
-                  <th proof="needed">
-                    <p>Minimum Concentration, μg/m<sup>3</sup></p>
-                    <p>(Unless Otherwise Noted)</p>
-                  </th>
+                  <th>Minimum Concentration, μg/m<sup>3</sup><br/>(Unless Otherwise Noted)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <th>Nonvolatile Organic Compounds</th>
-                  <td proof="needed"/>
+                  <td/>
                 </tr>
                 <tr>
                   <td>Carbon monoxide (CO)</td>
-                  <td proof="needed">
+                  <td>
                     <p>9 ppm and no greater than</p>
                     <p>2 ppm above outdoor levels</p>
                   </td>
@@ -7322,7 +7323,7 @@
                 </tr>
                 <tr>
                   <th>Volatile Organic Compounds</th>
-                  <td proof="needed"/>
+                  <td/>
                 </tr>
                 <tr>
                   <td>Acetaldehyde</td>
@@ -7433,10 +7434,16 @@
                   <td>_____ <sup>b</sup></td>
                 </tr>
               </tbody>
+              <tfoot>
+                <tr>
+                  <td colspan="2">
+                    <p><sup>a.</sup> This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</p>
+                    <p><sup>b.</sup> TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</p>
+                  </td>
+                </tr>
+              </tfoot>
             </table>
           </text>
-          <text><sup>a.</sup> This test is only required if carpets and fabrics with styrene butadiene rubber (SBR) latex backing material are installed as part of the base building systems.</text>
-          <text><sup>b.</sup> TVOC reporting must be in accordance with CDPH/EHLB/Standard Method V1.1 and must be in conjunction with the individual VOCs listed</text>
         </para>
       </section>
     </codify:insert>
