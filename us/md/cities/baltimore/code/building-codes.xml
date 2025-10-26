@@ -1944,21 +1944,24 @@
                     </tr>
                     <tr>
                       <td>
-                        <p class="text-indent-6">Over 500 sq. ft. to 1,000 sq. ft.</p></td>
+                        <p class="text-indent-6">Over 500 sq. ft. to 1,000 sq. ft.</p>
+                      </td>
                       <td>
                         <p>$150</p>
                       </td>
                     </tr>
                     <tr>
                       <td>
-                        <p class="text-indent-6">Over 1,000 sq. ft. to 5,000 sq. ft.</p></td>
+                        <p class="text-indent-6">Over 1,000 sq. ft. to 5,000 sq. ft.</p>
+                      </td>
                       <td>
                         <p>$250</p>
                       </td>
                     </tr>
                     <tr>
                       <td>
-                        <p class="text-indent-6">Over 5,000 sq. ft.</p></td>
+                        <p class="text-indent-6">Over 5,000 sq. ft.</p>
+                      </td>
                       <td>
                         <p>$500</p>
                       </td>
@@ -17006,7 +17009,7 @@
           <text>Address identification must be provided and maintained for all buildings in accordance with:</text>
           <para>
             <num>1.</num>
-            <text><cite path="|building-codes|II">International Building Code</cite> <cite path="|building-codes|II|502" proof="needed">§ 502</cite> {"Building Address"}, and</text>
+            <text><cite path="|building-codes|II">International Building Code</cite><cite path="|building-codes|II|502" proof="needed">§ 502</cite> {"Building Address"}, and</text>
           </para>
           <para>
             <num>2.</num>
@@ -19923,7 +19926,7 @@
             <text>Address identification must be provided and maintained for all buildings in accordance with:</text>
             <para>
               <num>1.</num>
-              <text><cite path="|building-codes|II">International Building Code</cite> <cite path="|building-codes|II|502" proof="needed">§ 502</cite> {"Building Address"}, and</text>
+              <text><cite path="|building-codes|II">International Building Code</cite><cite path="|building-codes|II|502" proof="needed">§ 502</cite> {"Building Address"}, and</text>
             </para>
             <para>
               <num>2.</num>

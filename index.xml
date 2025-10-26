@@ -39,4 +39,5 @@
     <heading>Historic Council Rules</heading>
     <xi:include href="./us/md/cities/baltimore/council/sessions/2020/rules/index.xml"/>
   </collection>
+  <xi:include href="./us/md/cities/baltimore/cobra/index.xml"/>
 </library>

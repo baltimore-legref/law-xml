@@ -717,11 +717,21 @@
                 <table class="layout-table">
                   <tbody>
                     <tr>
-                      <td><p class="center">(Supplemental Tax)</p></td>
-                      <td><p class="center">x</p></td>
-                      <td><p class="center">(Assessed Property Value - (Homestead Tax Credit + Targeted Homeowners Tax Credit))</p></td>
-                      <td><p class="center">=</p></td>
-                      <td><p class="center">Assessment Amount Owed</p></td>
+                      <td>
+                        <p class="center">(Supplemental Tax)</p>
+                      </td>
+                      <td>
+                        <p class="center">x</p>
+                      </td>
+                      <td>
+                        <p class="center">(Assessed Property Value - (Homestead Tax Credit + Targeted Homeowners Tax Credit))</p>
+                      </td>
+                      <td>
+                        <p class="center">=</p>
+                      </td>
+                      <td>
+                        <p class="center">Assessment Amount Owed</p>
+                      </td>
                     </tr>
                   </tbody>
                 </table>
