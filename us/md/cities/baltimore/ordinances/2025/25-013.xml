@@ -37,7 +37,7 @@
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td  colspan="2">§ 42-30.  Licensing violations - Penalties</td>
+                  <td colspan="2">§ 42-30.  Licensing violations - Penalties</td>
                 </tr>
                 <tr>
                   <td class="text-indent-1">Operating without a valid business license</td>
@@ -73,7 +73,7 @@
                   <td colspan="2">Subtitle 10.  Motor Fuel Sales</td>
                 </tr>
                 <tr>
-                  <td class="text-indent-1" colspan="2">§ 10-4(c). Failure to display highest credit price for motor fuel</td>
+                  <td colspan="2" class="text-indent-1">§ 10-4(c). Failure to display highest credit price for motor fuel</td>
                 </tr>
                 <tr>
                   <td class="text-indent-2">1<sup>st</sup> offense</td>
@@ -1353,8 +1353,7 @@
         <container>
           <prefix>Part</prefix>
           <num>III</num>
-          <heading>Departmental Procedures</heading>
-          <text class="center"><strong>Upon Receipt or Issuance of Complaint</strong></text>
+          <heading>Departmental Procedures<br/>Upon Receipt or Issuance of Complaint</heading>
           <section>
             <prefix>§</prefix>
             <num>42-26</num>
@@ -1793,7 +1792,7 @@
         <prefix>Subtitles</prefix>
         <num>43 to 48</num>
         <reason>Reserved</reason>
-      </container>"
+      </container>
     </codify:replace>
     <codify:replace path="2|§1-1">
       <section>
@@ -3488,11 +3487,11 @@
       </section>
     </codify:replace>
     <codify:replace path="13|§13-1|(b)">
-        <para>
-          <num>(b)</num>
-          <heading>Director.</heading>
-          <text>"Director" means the Director of Consumer Protection and Business Licensing or the Director's designee.</text>
-        </para>
+      <para>
+        <num>(b)</num>
+        <heading>Director.</heading>
+        <text>"Director" means the Director of Consumer Protection and Business Licensing or the Director's designee.</text>
+      </para>
     </codify:replace>
     <codify:replace path="13|§13-3">
       <section>
@@ -4421,11 +4420,11 @@
       </section>
     </codify:replace>
     <codify:replace path="15|§11-9|(a)">
-        <para>
-          <num>(a)</num>
-          <heading>Referral to Board.</heading>
-          <text>The application shall be referred by the Director of Consumer Protection and Business Licensing to the Board of Consumer Protection and Business Licensing for investigation and recommendation.</text>
-        </para>
+      <para>
+        <num>(a)</num>
+        <heading>Referral to Board.</heading>
+        <text>The application shall be referred by the Director of Consumer Protection and Business Licensing to the Board of Consumer Protection and Business Licensing for investigation and recommendation.</text>
+      </para>
     </codify:replace>
     <codify:replace path="15|§11-11">
       <section>
@@ -5348,10 +5347,10 @@
       </section>
     </codify:replace>
     <codify:replace path="15|§22-4|(a)|(1)">
-        <para>
-          <num>(1)</num>
-          <text>It shall be unlawful for any person to engage in a towing service in Baltimore City without a valid towing license issued by the Director of Consumer Protection and Business Licensing.</text>
-        </para>
+      <para>
+        <num>(1)</num>
+        <text>It shall be unlawful for any person to engage in a towing service in Baltimore City without a valid towing license issued by the Director of Consumer Protection and Business Licensing.</text>
+      </para>
     </codify:replace>
     <codify:replace path="15|§22-5">
       <section>
