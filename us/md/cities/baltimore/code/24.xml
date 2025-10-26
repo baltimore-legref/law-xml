@@ -745,8 +745,8 @@
             <num>(ii)</num>
             <text>if  water and wastewater utility service is master-metered and the owner bills the cost of service to a tenant-water-utility-customer on an allocated basis, the recipient's estimated annual water and wastewater bill, based on evidence of prior billings occurring during the tenant recipient's current lease or rental-agreement term and exclusive of the owner's administrative charges related to the allocation.</text>
           </para>
-          <text>I = the recipient's estimated annual household income.</text>
-          <text>A = affordability threshold, as follows:</text>
+          <aftertext>I = the recipient's estimated annual household income.</aftertext>
+          <aftertext>A = affordability threshold, as follows:</aftertext>
           <para>
             <num proof="done">(i)</num>
             <text>if the recipient's annual household income is 50% or less than the federal government's official poverty income guidelines, A equals 1%;</text>
