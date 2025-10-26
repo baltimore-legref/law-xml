@@ -22,7 +22,7 @@
     <prefix>Section</prefix>
     <num>1</num>
     <codify:replace path="|building-codes|heading" history="false">
-      <heading>Building, Fire, and Related Codes of Baltimore City 2024 Edition</heading>
+      <heading>Building, Fire, and Related Codes 2024 Edition</heading>
     </codify:replace>
     <codify:find-replace path="building-codes" history="false">
       <find>
