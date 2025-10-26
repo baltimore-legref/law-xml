@@ -25,7 +25,7 @@
         <text>Adaptive Dockless Vehicle.</text>
         <para>
           <num>(a)</num>
-          <text>"Adaptive dockless vehicle" means a dockless vehicle that is accessible to people with a 	physical disability.</text>
+          <text>"Adaptive dockless vehicle" means a dockless vehicle that is accessible to people with a physical disability.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -102,11 +102,11 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>"Beta endpoint" means an API endpoint that has been officially released in a testing mode by its 	regulatory authority but not formally adopted.</text>
+        <text>"Beta endpoint" means an API endpoint that has been officially released in a testing mode by its regulatory authority but not formally adopted.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Block face" means one side of a street between the intersection of two other streets, excluding an 	alleyway.</text>
+        <text>"Block face" means one side of a street between the intersection of two other streets, excluding an alleyway.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -122,7 +122,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>"Compliance score" means a calculation of a permit holder's compliance with the provisions of this 	chapter.</text>
+        <text>"Compliance score" means a calculation of a permit holder's compliance with the provisions of this chapter.</text>
       </para>
       <para>
         <num>(9)</num>
@@ -134,7 +134,7 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>"Deployment" means the location where a dockless vehicle is placed by a permit holder when it is 	made available for rent.</text>
+        <text>"Deployment" means the location where a dockless vehicle is placed by a permit holder when it is made available for rent.</text>
       </para>
       <para>
         <num>(12)</num>
@@ -162,7 +162,7 @@
       </para>
       <para>
         <num>(18)</num>
-        <text>"Equitable access" means a process of making dockless vehicles available to the public by 	removing barriers to use including:</text>
+        <text>"Equitable access" means a process of making dockless vehicles available to the public by removing barriers to use including:</text>
         <para>
           <num>(a)</num>
           <text>Geography;</text>
@@ -190,7 +190,7 @@
       </para>
       <para>
         <num>(21)</num>
-        <text>"Genetic information" means genetic markers related to a person's medical history, including the 	manifestation of a:</text>
+        <text>"Genetic information" means genetic markers related to a person's medical history, including the manifestation of a:</text>
         <para>
           <num>(a)</num>
           <text>Disease; or</text>
@@ -210,7 +210,7 @@
       </para>
       <para>
         <num>(24)</num>
-        <text>"Low-income population" means a person whose family income is at or below 150 percent of the 	poverty line</text>
+        <text>"Low-income population" means a person whose family income is at or below 150 percent of the poverty line</text>
       </para>
       <para>
         <num>(25)</num>
@@ -218,7 +218,7 @@
       </para>
       <para>
         <num>(26)</num>
-        <text>"MDS Policy API" means the Open Mobility Foundation standards and code available on GitHub 	for secure mobility data exchange.</text>
+        <text>"MDS Policy API" means the Open Mobility Foundation standards and code available on GitHub for secure mobility data exchange.</text>
       </para>
       <para>
         <num>(27)</num>
@@ -270,14 +270,14 @@
       </para>
       <para>
         <num>(34)</num>
-        <text>"Permit agreement" means a document that is entered into between the City and a permit holder 	that:</text>
+        <text>"Permit agreement" means a document that is entered into between the City and a permit holder that:</text>
         <para>
           <num>(a)</num>
           <text>Stipulates required insurance coverage for a permit holder to operate in Baltimore City;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Stipulates that the permit holder is obligated to adhere to applicable laws and regulations to 	operate in Baltimore City; and</text>
+          <text>Stipulates that the permit holder is obligated to adhere to applicable laws and regulations to operate in Baltimore City; and</text>
         </para>
         <para>
           <num>(c)</num>
@@ -286,7 +286,7 @@
       </para>
       <para>
         <num>(35)</num>
-        <text>"Permit holder" means a provider of dockless vehicles who has been issued a permit by the 	Department to operate on a public street.</text>
+        <text>"Permit holder" means a provider of dockless vehicles who has been issued a permit by the Department to operate on a public street.</text>
       </para>
       <para>
         <num>(36)</num>
@@ -354,7 +354,7 @@
       </para>
       <para>
         <num>(45)</num>
-        <text>"Towing Division" means the Baltimore City Department of Transportation's Towing 	Division.</text>
+        <text>"Towing Division" means the Baltimore City Department of Transportation's Towing Division.</text>
       </para>
       <para>
         <num>(46)</num>
@@ -374,15 +374,15 @@
       </para>
       <para>
         <num>(48)</num>
-        <text>"Vehicle model" means a vehicle of the certain type, but with different features or 	appearance.</text>
+        <text>"Vehicle model" means a vehicle of the certain type, but with different features or appearance.</text>
       </para>
       <para>
         <num>(49)</num>
-        <text>"Vehicle type" means a vehicle that meets specifications in the City's vehicle code for that 	vehicle.</text>
+        <text>"Vehicle type" means a vehicle that meets specifications in the City's vehicle code for that vehicle.</text>
       </para>
       <para>
         <num>(50)</num>
-        <text>"Web Content Accessibility Guidelines (WCAG)" means guidelines published by the World 	Wide Web Consortium's Web Accessibility Initiative to make web content accessible.</text>
+        <text>"Web Content Accessibility Guidelines (WCAG)" means guidelines published by the World Wide Web Consortium's Web Accessibility Initiative to make web content accessible.</text>
       </para>
     </para>
   </section>
@@ -665,11 +665,11 @@
       <text>In General.</text>
       <para>
         <num>(1)</num>
-        <text>A permit holder shall ensure that a dockless vehicle is deployed in compliance with City Code 	Article 31, § 38-19, Unlawful Parking.</text>
+        <text>A permit holder shall ensure that a dockless vehicle is deployed in compliance with City Code Article 31, § 38-19, Unlawful Parking.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A permit holder shall provide an account for its mobile application to the Department so that 	Department employees can access a dockless vehicle for free for the purposes of:</text>
+        <text>A permit holder shall provide an account for its mobile application to the Department so that Department employees can access a dockless vehicle for free for the purposes of:</text>
         <para>
           <num>(a)</num>
           <text>Education;</text>
@@ -762,7 +762,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>In a quantity greater than ten per block face, except as allowed by the Department to 				accommodate a special event;</text>
+          <text>In a quantity greater than ten per block face, except as allowed by the Department to accommodate a special event;</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1101,7 +1101,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>If a caller is required to leave a voicemail when calling the customer service phone line, a permit 	holder shall respond with a call back within two hours.</text>
+        <text>If a caller is required to leave a voicemail when calling the customer service phone line, a permit holder shall respond with a call back within two hours.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1282,7 +1282,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Is equipped with an operational structural feature that allows the vehicle to be stably parked upright 	without needing to lean on another object;</text>
+        <text>Is equipped with an operational structural feature that allows the vehicle to be stably parked upright without needing to lean on another object;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1326,7 +1326,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The following contact information for a permit holder displayed in a minimum of 16-point 			font:</text>
+          <text>The following contact information for a permit holder displayed in a minimum of 16-point font:</text>
           <para>
             <num>(i)</num>
             <text>A toll-free telephone number;</text>
@@ -1364,7 +1364,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Is equipped with a speed governor capable of throttling speeds to specific speed limits in 	geographical areas designated in the MDS Policy API.</text>
+        <text>Is equipped with a speed governor capable of throttling speeds to specific speed limits in geographical areas designated in the MDS Policy API.</text>
       </para>
     </para>
     <para>
@@ -1481,11 +1481,11 @@
       <text>User Reported Safety Issue.</text>
       <para>
         <num>(1)</num>
-        <text>Upon the first report of a safety issue by a user, a permit holder shall remotely shut down the 	dockless vehicle so that it cannot be operated until repaired.</text>
+        <text>Upon the first report of a safety issue by a user, a permit holder shall remotely shut down the dockless vehicle so that it cannot be operated until repaired.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If a reported safety issue is due to an equipment malfunction which could be present in 	additional dockless vehicles, the permit holder shall:</text>
+        <text>If a reported safety issue is due to an equipment malfunction which could be present in additional dockless vehicles, the permit holder shall:</text>
         <para>
           <num>(a)</num>
           <text>Remove their entire fleet of vehicles from the street within 24 hours; and</text>
@@ -1715,7 +1715,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The Department may perform a check of parking complaint response times, during which the 	Department may:</text>
+        <text>The Department may perform a check of parking complaint response times, during which the Department may:</text>
         <para>
           <num>(a)</num>
           <text>Report an illegally parked vehicle officially; or</text>
@@ -1894,7 +1894,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>$220.00, for more than five e-scooters seized at the same time, plus $44.00 per each e-scooter 	beyond the fifth;</text>
+        <text>$220.00, for more than five e-scooters seized at the same time, plus $44.00 per each e-scooter beyond the fifth;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1971,7 +1971,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Displaying a banner on the app home screen for up to one week of each month that highlights 	relevant information determined by the Department.</text>
+        <text>Displaying a banner on the app home screen for up to one week of each month that highlights relevant information determined by the Department.</text>
       </para>
     </para>
     <para>
@@ -2333,7 +2333,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The Department may share the MDS Policy API with a third-party aggregator in accordance with 	§C(4) of this regulation for the purpose of:</text>
+        <text>The Department may share the MDS Policy API with a third-party aggregator in accordance with §C(4) of this regulation for the purpose of:</text>
         <para>
           <num>(a)</num>
           <text>Secure data storage; and</text>
@@ -2345,7 +2345,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>To share data with a third-party aggregator in accordance with §C(3) of this regulation, the 	Department shall enter into a memorandum of understanding with a third-party aggregator that:</text>
+        <text>To share data with a third-party aggregator in accordance with §C(3) of this regulation, the Department shall enter into a memorandum of understanding with a third-party aggregator that:</text>
         <para>
           <num>(a)</num>
           <text>Includes a provision governing the public release of data by a third-party aggregator; and</text>
@@ -2457,7 +2457,7 @@
           </para>
           <para>
             <num>(xii)</num>
-            <text>The number of users provided for in §(2)(c)(ix)-(xi) of this regulation disaggregated 	by the type of plan and user home zip code;</text>
+            <text>The number of users provided for in §(2)(c)(ix)-(xi) of this regulation disaggregated by the type of plan and user home zip code;</text>
           </para>
           <para>
             <num>(xiii)</num>
@@ -2542,7 +2542,7 @@
       <text>Security Bond.</text>
       <para>
         <num>(1)</num>
-        <text>A permit holder shall provide a security for performance in the amount of $10,000 to the 	Department.</text>
+        <text>A permit holder shall provide a security for performance in the amount of $10,000 to the Department.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -2698,7 +2698,7 @@
       <text>Notification of Outcome.</text>
       <para>
         <num>(1)</num>
-        <text>The Department shall provide a permit holder with written notification of a decision rendered 	regarding their objection which:</text>
+        <text>The Department shall provide a permit holder with written notification of a decision rendered regarding their objection which:</text>
         <para>
           <num>(a)</num>
           <text>Provides the reason for denying the objection; or</text>
