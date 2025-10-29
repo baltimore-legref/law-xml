@@ -9,7 +9,7 @@
     <heading>Authority.</heading>
     <text>The Baltimore City Department of Transportation ("DOT") adopts these rules and regulations under Code Article 31, §2-9 which assigns responsibility for street signs to DOT.</text>
   </section>
-  <section>
+  <section id="2">
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Limitations.</heading>
