@@ -1061,7 +1061,7 @@
         <para>
           <num>(g)</num>
           <heading>Flood Resilience Area.</heading>
-          <text><em>See</em> <cite path="|7|§1-3|(c)">§ 1-3(c) {"Definitions: Flood Resilience Area"} of this Division I</cite>.</text>
+          <text><em>See </em><cite path="|7|§1-3|(c)">§ 1-3(c) {"Definitions: Flood Resilience Area"} of this Division I</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 7, §4(b)</annotation>
@@ -1904,7 +1904,7 @@
           <para>
             <num>(b)</num>
             <heading>State regulations.</heading>
-            <text>The State may have different, more stringent requirements set forth in COMAR 26.17.03 {"Construction on Nontidal Waters and Floodplains"}.</text>
+            <text>The State may have different, more stringent requirements set forth in <cite doc="Code of Maryland Regulations" path="|26.17.03" proof="needed">COMAR 26.17.03</cite> {"Construction on Nontidal Waters and Floodplains"}.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">City Code, 1976/83, art. 7, §5(a)(14)</annotation>
@@ -9283,11 +9283,11 @@
           <text>This Division IV does not apply to:</text>
           <para>
             <num>(1)</num>
-            <text>any highway construction activity that is subject to State Natural Resources Article § 5-103;</text>
+            <text>any highway construction activity that is subject to <cite doc="Md. Code" path="gnr|5-103">State Natural Resources Article § 5-103</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>commercial logging and timber harvesting operations, subject to the forest conservation and management program under State Tax-Property Article § 8-211:</text>
+            <text>commercial logging and timber harvesting operations, subject to the forest conservation and management program under <cite doc="Md. Code" path="gtp|8-211">State Tax-Property Article § 8-211</cite>:</text>
             <para>
               <num>(i)</num>
               <text>that were completed before July 1, 1991; or</text>
@@ -9297,7 +9297,7 @@
               <text>were completed on or after July 1, 1991, on property which:</text>
               <para>
                 <num>(A)</num>
-                <text>is the subject of a declaration of intent signed by the land owner and approved by the Department of Public Works and the Maryland Department of Natural Resource's Project Forester's Office as provided in COMAR 08.19.01.05; and</text>
+                <text>is the subject of a declaration of intent signed by the land owner and approved by the Department of Public Works and the Maryland Department of Natural Resource's Project Forester's Office as provided in <cite doc="Code of Maryland Regulations" path="08.19.01.05" proof="needed">COMAR 08.19.01.05</cite>; and</text>
               </para>
               <para>
                 <num>(B)</num>
@@ -9310,7 +9310,7 @@
             <text>the cutting or clearing of public utility rights-of-way or land for electric generating stations regulated under State Public Utility Companies Article, Title 7, if:</text>
             <para>
               <num>(i)</num>
-              <text>required certificates of public convenience and necessity have been issued in accordance with State Natural Resources Article § 5-1603(f); and</text>
+              <text>required certificates of public convenience and necessity have been issued in accordance with <cite doc="Md. Code" path="gnr|5-1603">State Natural Resources Article § 5-1603(f)</cite>; and</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -9422,7 +9422,7 @@
         <para>
           <num>(b)</num>
           <heading>City agencies using state funds.</heading>
-          <text>If a City agency using state funds makes application to conduct a regulated activity, the provisions of COMAR 08.19.04.01D apply.</text>
+          <text>If a City agency using state funds makes application to conduct a regulated activity, the provisions of <cite doc="Code of Maryland Regulations" path="08.19.04.01|D." proof="needed">COMAR 08.19.04.01D</cite> apply.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 9A, §3-1</annotation>
@@ -9434,7 +9434,7 @@
         <prefix>§</prefix>
         <num>42-2</num>
         <heading>Preparation of plans.</heading>
-        <text>The forest stand delineation, the forest conservation plan, including preliminary and final plan, and the afforestation plan shall be prepared by a licensed forester, licensed landscape architect, or other qualified professional as provided in COMAR 08.19.06.01B.</text>
+        <text>The forest stand delineation, the forest conservation plan, including preliminary and final plan, and the afforestation plan shall be prepared by a licensed forester, licensed landscape architect, or other qualified professional as provided in <cite doc="Code of Maryland Regulations" path="08.19.06.01|B." proof="needed">COMAR 08.19.06.01B</cite>.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 9A, §3-2</annotation>
           <annotation doc="City of Balt., Md., Ord. 93-170" type="History">Ord. 93-170</annotation>
@@ -9533,7 +9533,7 @@
         <para>
           <num>(b)</num>
           <heading>Compliance with COMAR.</heading>
-          <text>The declaration of intent shall be as specified in COMAR 08.19.01.05.</text>
+          <text>The declaration of intent shall be as specified in <cite doc="Code of Maryland Regulations" path="08.19.01.05" proof="needed">COMAR 08.19.01.05</cite>.</text>
         </para>
         <para>
           <num>(c)</num>

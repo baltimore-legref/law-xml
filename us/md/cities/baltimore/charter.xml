@@ -1626,7 +1626,7 @@
       <prefix>§</prefix>
       <num>(30)</num>
       <heading>Schools.</heading>
-      <text>Subject to the applicable provisions of the Education Article of the Annotated Code of Maryland, to establish and maintain a system of free public schools.</text>
+      <text>Subject to the applicable provisions of the <cite doc="Md. Code" path="ged">Education Article of the Annotated Code of Maryland</cite>, to establish and maintain a system of free public schools.</text>
       <annotations>
         <annotation type="History">Ch. 105, Acts of 1997</annotation>
       </annotations>
@@ -2498,7 +2498,7 @@
       <prefix>§</prefix>
       <num>(59)</num>
       <heading>Loans and loan guarantees.</heading>
-      <text>To use the proceeds of any debt of the Mayor and City Council of Baltimore, created pursuant to <cite doc="Md. Const." path="XI|§7">Article XI, Section 7 of the Constitution of Maryland</cite>, in order to effectuate any purpose which the General Assembly of Maryland has or may hereafter authorize pursuant to Articles <cite doc="Md. Const." path="XI-G">XI-G</cite>, <cite doc="Md. Const." path="XI-H">XI-H</cite>, or <cite doc="Md. Const." path="XI-I">XI-I</cite> of the Constitution of Maryland, as follows:</text>
+      <text>To use the proceeds of any debt of the Mayor and City Council of Baltimore, created pursuant to <cite doc="Md. Const." path="XI|§7">Article XI, Section 7 of the Constitution of Maryland</cite>, in order to effectuate any purpose which the General Assembly of Maryland has or may hereafter authorize pursuant to Articles <cite doc="Md. Const." path="XI-G">XI-G</cite>, <cite doc="Md. Const." path="XI-H">XI-H</cite>, or <cite doc="Md. Const." path="XI-I">XI-I</cite> of <cite doc="Md. Const." proof="needed">the Constitution of Maryland</cite>, as follows:</text>
       <para>
         <num>(a)</num>
         <text>to make or contract to make financial loans to any person or other legal entity to be used for or in connection with the rehabilitation, renovation, redevelopment, or improvement of buildings or structures located within the boundaries of Baltimore City, which buildings or structures are to be used or occupied for residential purposes;</text>
@@ -2543,7 +2543,7 @@
       <para>
         <num>(a)</num>
         <heading>Reports required.</heading>
-        <text>Prior to each regular session of the General Assembly of Maryland, the Board of Estimates of the Mayor and City Council of Baltimore shall submit to each member of the General Assembly representing Baltimore City a report regarding loans and loan guarantees made during the immediately preceding fiscal year, from the proceeds of any debt created or credit extended under <cite doc="Md. Const." path="XI|§7">Article XI, Section 7 of the Constitution of Maryland</cite> or from the proceeds of any notes issued in anticipation of such proceeds, for the purposes authorized pursuant to Articles <cite doc="Md. Const." path="XI-G">XI-G</cite>, <cite doc="Md. Const." path="XI-H">XI-H</cite>, or <cite doc="Md. Const." path="XI-I">XI-I</cite> of the Constitution of Maryland.</text>
+        <text>Prior to each regular session of the General Assembly of Maryland, the Board of Estimates of the Mayor and City Council of Baltimore shall submit to each member of the General Assembly representing Baltimore City a report regarding loans and loan guarantees made during the immediately preceding fiscal year, from the proceeds of any debt created or credit extended under <cite doc="Md. Const." path="XI|§7">Article XI, Section 7 of the Constitution of Maryland</cite> or from the proceeds of any notes issued in anticipation of such proceeds, for the purposes authorized pursuant to Articles <cite doc="Md. Const." path="XI-G">XI-G</cite>, <cite doc="Md. Const." path="XI-H">XI-H</cite>, or <cite doc="Md. Const." path="XI-I">XI-I</cite> of <cite doc="Md. Const." proof="needed">the Constitution of Maryland</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3130,14 +3130,14 @@
       <para>
         <num>(g)</num>
         <heading>Tax exemption.</heading>
-        <text>The principal amount of the bonds, the interest payable thereon, their transfer, and any income derived therefrom, including any profit made in the sale or transfer thereof, shall be exempt from taxation by the State of Maryland and by the several counties and municipalities of the State of Maryland but shall be included, to the extent required under Title 8, Subtitle 2 of the Tax-General Article of the Annotated Code of Maryland, as amended, replaced, or supplemented from time to time, in computing the net earnings of financial institutions.</text>
+        <text>The principal amount of the bonds, the interest payable thereon, their transfer, and any income derived therefrom, including any profit made in the sale or transfer thereof, shall be exempt from taxation by the State of Maryland and by the several counties and municipalities of the State of Maryland but shall be included, to the extent required under <cite doc="Md. Code" path="gtg">Title 8, Subtitle 2 of the Tax-General Article of the Annotated Code of Maryland</cite>, as amended, replaced, or supplemented from time to time, in computing the net earnings of financial institutions.</text>
       </para>
       <para>
         <num>(h)</num>
         <heading>Form; Tenor; Sale.</heading>
         <para>
           <num>(1)</num>
-          <text>All bonds may be in bearer form or in coupon form or may be registrable as to principal alone or as to both principal and interest.  Each of the bonds shall be deemed to be a "security" within the meaning of § 8-102 of the Commercial Law Article of the Annotated Code of Maryland, as amended, replaced, or supplemented from time to time, whether or not it is either one or a class or series or by its terms is divisible into a class or series of instruments.</text>
+          <text>All bonds may be in bearer form or in coupon form or may be registrable as to principal alone or as to both principal and interest.  Each of the bonds shall be deemed to be a "security" within the meaning of <cite doc="Md. Code" path="gcl|8-102">§ 8-102 of the Commercial Law Article of the Annotated Code of Maryland</cite>, as amended, replaced, or supplemented from time to time, whether or not it is either one or a class or series or by its terms is divisible into a class or series of instruments.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3215,11 +3215,11 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>In addition to the powers in <cite path="II|§(62)">this section</cite>, the Mayor and City Council of Baltimore may use the authority granted to a  political subdivision for tax increment financing in a sustainable community as provided for in Title 12, Subtitle 2 of the Economic Development Article of the Annotated Code of Maryland.</text>
+        <text>In addition to the powers in <cite path="II|§(62)">this section</cite>, the Mayor and City Council of Baltimore may use the authority granted to a  political subdivision for tax increment financing in a sustainable community as provided for in <cite doc="Md. Code" path="gec">Title 12, Subtitle 2 of the Economic Development Article of the Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(l)</num>
-        <text>In addition to the powers in <cite path="II|§(62)">this section</cite>, the Mayor and City Council of Baltimore may use the authority granted to a political subdivision for tax increment financing in a Regional Institution Strategic Enterprise zone as provided for in Title 12, Subtitle 2 of the Economic Development Article of the Annotated Code of Maryland.</text>
+        <text>In addition to the powers in <cite path="II|§(62)">this section</cite>, the Mayor and City Council of Baltimore may use the authority granted to a political subdivision for tax increment financing in a Regional Institution Strategic Enterprise zone as provided for in <cite doc="Md. Code" path="gec">Title 12, Subtitle 2 of the Economic Development Article of the Annotated Code of Maryland</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ch. 624, Acts of 1994</annotation>
@@ -3796,11 +3796,11 @@
       </para>
       <para>
         <num>(t)</num>
-        <text>In addition to the powers in <cite path="II|§(62A)">this section</cite>, the Mayor and City Council of Baltimore may use the authority granted to a  political subdivision for tax increment financing in a sustainable community as provided for in Title 12, Subtitle 2 of the Economic Development Article of the Annotated Code of Maryland.</text>
+        <text>In addition to the powers in <cite path="II|§(62A)">this section</cite>, the Mayor and City Council of Baltimore may use the authority granted to a  political subdivision for tax increment financing in a sustainable community as provided for in <cite doc="Md. Code" path="gec">Title 12, Subtitle 2 of the Economic Development Article of the Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(u)</num>
-        <text>In addition to the powers in <cite path="II|§(62A)">this section</cite>, the Mayor and City Council of Baltimore may use the authority granted to a political subdivision for tax increment financing in a Regional Institution Strategic Enterprise zone as provided for in Title 12, Subtitle 2 of the Economic Development Article of the Annotated Code of Maryland.</text>
+        <text>In addition to the powers in <cite path="II|§(62A)">this section</cite>, the Mayor and City Council of Baltimore may use the authority granted to a political subdivision for tax increment financing in a Regional Institution Strategic Enterprise zone as provided for in <cite doc="Md. Code" path="gec">Title 12, Subtitle 2 of the Economic Development Article of the Annotated Code of Maryland</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ch. 626, Acts of 2001</annotation>
@@ -5065,7 +5065,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Bonds are exempt from §§ 8-206 and 8-208 of the State Finance and Procurement Article of the Annotated Code of Maryland.</text>
+            <text>Bonds are exempt from §<cite doc="Md. Code" path="gsf|8-206">§ 8-206 and 8-208 of the State Finance and Procurement Article of the Annotated Code of Maryland</cite>.</text>
           </para>
         </para>
         <para>
@@ -6051,7 +6051,7 @@
       <prefix>§</prefix>
       <num>(68)</num>
       <heading>Maryland Public Ethics Law.</heading>
-      <text>To exercise the power and authority contained in Title 5, Subtitle 8, Part II of the General Provisions Article of the Annotated Code of Maryland.</text>
+      <text>To exercise the power and authority contained in Title 5, Subtitle 8, Part II of the <cite doc="Md. Code" path="ggp">General Provisions Article of the Annotated Code of Maryland</cite>.</text>
       <annotations>
         <annotation type="History">Ch. 104, Acts of 2014</annotation>
       </annotations>
@@ -7513,7 +7513,7 @@
       <annotations>
         <annotation type="History">Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</annotation>
         <annotation type="History">Res. 22-004, ratified Nov. 8, 2022</annotation>
-        <annotation type="Editor's Notes">See City Code Article 1, § 7-10 {“Residency requirements for City officials”) and its accompanying Editor’s Note.  That section codifies the City’s residency requirements in accord with controlling limitations imposed by State Local Government Article, § 1-201.</annotation>
+        <annotation type="Editor's Notes">See City Code Article 1, § 7-10 {“Residency requirements for City officials”) and its accompanying Editor’s Note.  That section codifies the City’s residency requirements in accord with controlling limitations imposed by <cite doc="Md. Code" path="glg|1-201">State Local Government Article, § 1-201</cite>.</annotation>
       </annotations>
     </section>
     <section>

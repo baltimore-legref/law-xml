@@ -895,15 +895,15 @@
         <text>In this subtitle, "nursing home" means:</text>
         <para>
           <num>(1)</num>
-          <text>a comprehensive care facility, as defined in COMAR 10.07.02.01B(6);</text>
+          <text>a comprehensive care facility, as defined in <cite doc="Code of Maryland Regulations" path="10.07.02.01|B.|(6)" proof="needed">COMAR 10.07.02.01B(6)</cite>;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>an assisted living program, as defined in COMAR 10.07.14.02B(10); and</text>
+          <text>an assisted living program, as defined in <cite doc="Code of Maryland Regulations" path="10.07.14.02|B.|(10)" proof="needed">COMAR 10.07.14.02B(10)</cite>; and</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>an extended care facility, as defined in COMAR 10.07.02.01B(12).</text>
+          <text>an extended care facility, as defined in <cite doc="Code of Maryland Regulations" path="10.07.02.01|B.|(12)" proof="needed">COMAR 10.07.02.01B(12)</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §100A(a)</annotation>
@@ -3908,7 +3908,7 @@
         <para>
           <num>(b)</num>
           <heading>Excluded organization.</heading>
-          <text>"Excluded organization" has the meaning stated in COMAR 10.15.03.02B(28).</text>
+          <text>"Excluded organization" has the meaning stated in <cite doc="Code of Maryland Regulations" path="10.15.03.02|B.|(28)" proof="needed">COMAR 10.15.03.02B(28)</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3952,7 +3952,7 @@
         <para>
           <num>(d)</num>
           <heading>Food service facility.</heading>
-          <text>"Food service facility" has the meaning stated in COMAR 10.15.03.02B(34).</text>
+          <text>"Food service facility" has the meaning stated in <cite doc="Code of Maryland Regulations" path="10.15.03.02|B.|(34)" proof="needed">COMAR 10.15.03.02B(34)</cite>.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -4110,7 +4110,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>has, in accordance with COMAR 10.15.03.26A, elected to operate without a license and in compliance with the minimum food safety requirements of COMAR 10.15.03.26B-E.</text>
+            <text>has, in accordance with <cite doc="Code of Maryland Regulations" path="10.15.03.26|A." proof="needed">COMAR 10.15.03.26A</cite>, elected to operate without a license and in compliance with the minimum food safety requirements of <cite doc="Code of Maryland Regulations" path="10.15.03.26|B." proof="needed">COMAR 10.15.03.26B</cite>-E.</text>
           </para>
         </para>
         <para>
@@ -4164,7 +4164,7 @@
         <para>
           <num>(b)</num>
           <heading>Priority assessment.</heading>
-          <text>To determine the degree of risk that a food service facility poses for a food-borne disease occurrence, the Commissioner must assess each food service facility and classify it in one of the following priority assessment categories, as defined in COMAR 10.15.03.33:</text>
+          <text>To determine the degree of risk that a food service facility poses for a food-borne disease occurrence, the Commissioner must assess each food service facility and classify it in one of the following priority assessment categories, as defined in <cite doc="Code of Maryland Regulations" path="10.15.03.33" proof="needed">COMAR 10.15.03.33</cite>:</text>
           <para>
             <num>(1)</num>
             <text>high priority facilities, which are at high risk for a food-borne disease occurrence;</text>
@@ -14407,7 +14407,7 @@
         <prefix>§</prefix>
         <num>11-102</num>
         <heading>Compliance with Swimming Pool and Spa Code.</heading>
-        <text>In addition to the requirements of this title, all swimming pools must comply with the <cite path="|building-codes|XII">International Swimming Pool and Spa Code</cite>, as adopted and modified in <cite path="|building-codes|XII">Part XII</cite> of the City Building, Fire, and Related Codes Article.</text>
+        <text>In addition to the requirements of this title, all swimming pools must comply with the <cite path="|building-codes|XII">International Swimming Pool and Spa Code</cite>, as adopted and modified in <cite path="|building-codes|XII">Part XII</cite> of the <cite path="|building-codes">City Building, Fire, and Related Codes Article</cite>.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
         </annotations>
@@ -16460,11 +16460,11 @@
           <text>In this section, a retailer means any:</text>
           <para>
             <num>(1)</num>
-            <text>licensed retailer, as defined in State Business Regulation Article, § 16-201(d) {"Licensed retailer"}; or</text>
+            <text>licensed retailer, as defined in <cite doc="Md. Code" path="gbr|16-201">State Business Regulation Article, § 16-201(d) </cite>{"Licensed retailer"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>licensed other tobacco products retailer, as defined in State Business Regulation Article, § 16.5-101(e) {"Licensed other tobacco products retailer"}.</text>
+            <text>licensed other tobacco products retailer, as defined in <cite doc="Md. Code" path="gbr|16">State Business Regulation Article, § 16</cite>.5-101(e) {"Licensed other tobacco products retailer"}.</text>
           </para>
         </para>
         <para>
@@ -16642,7 +16642,7 @@
         <text>All tattooing must be done in conformance with:</text>
         <para>
           <num>(1)</num>
-          <text>the State regulations governing skin-penetrating body adornment procedures (COMAR 10.06.01.06H); and</text>
+          <text>the State regulations governing skin-penetrating body adornment procedures (<cite doc="Code of Maryland Regulations" path="10.06.01.06|H." proof="needed">COMAR 10.06.01.06H</cite>); and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -17275,7 +17275,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>is identified as a cannabimimetic agent, as defined in State Code Criminal Law Article § 5-101.</text>
+              <text>is identified as a cannabimimetic agent, as defined in State Code <cite doc="Md. Code" path="gcr|5-101">Criminal Law Article § 5-101</cite>.</text>
             </para>
           </para>
           <para>

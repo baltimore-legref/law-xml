@@ -1242,7 +1242,7 @@
         <para>
           <num>(g)</num>
           <heading>Contribution.</heading>
-          <text>"Contribution" has the meaning stated in State Election Law Article, § 1-101 {"Definitions: Contribution"}.</text>
+          <text>"Contribution" has the meaning stated in <cite doc="Md. Code" path="gel|1-101">State Election Law Article, § 1-101 </cite>{"Definitions: Contribution"}.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -1262,7 +1262,7 @@
         <para>
           <num>(k)</num>
           <heading>Election cycle.</heading>
-          <text>"Election cycle" has the meaning stated in State Election Law Article, § 1-101 {"Definitions: Election cycle"}.</text>
+          <text>"Election cycle" has the meaning stated in <cite doc="Md. Code" path="gel|1-101">State Election Law Article, § 1-101 </cite>{"Definitions: Election cycle"}.</text>
         </para>
         <para>
           <num>(l)</num>
@@ -1328,7 +1328,7 @@
         <para>
           <num>(t)</num>
           <heading>Slate.</heading>
-          <text>"Slate" has the meaning stated in State Election Law Article, § 1-101 {"Definitions: Slate"}.</text>
+          <text>"Slate" has the meaning stated in <cite doc="Md. Code" path="gel|1-101">State Election Law Article, § 1-101 </cite>{"Definitions: Slate"}.</text>
         </para>
         <para>
           <num>(u)</num>
@@ -2122,7 +2122,7 @@
           <heading>Petition-nominated and non-principal political party candidates.</heading>
           <para>
             <num>(1)</num>
-            <text>In this subsection, "principal political party" has the meaning stated in State Election Law Article, § 1-101 {"Definitions: Principal political parties"}.</text>
+            <text>In this subsection, "principal political party" has the meaning stated in <cite doc="Md. Code" path="gel|1-101">State Election Law Article, § 1-101 </cite>{"Definitions: Principal political parties"}.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2326,7 +2326,7 @@
         <para>
           <num>(b)</num>
           <heading>Affiliation.</heading>
-          <text>Pursuant to COMAR 33.13.14, a candidate who accepts a public contribution may affiliate with any other candidates, including non-publicly financed candidates, on campaign material if:</text>
+          <text>Pursuant to <cite doc="Code of Maryland Regulations" path="|33.13.14" proof="needed">COMAR 33.13.14</cite>, a candidate who accepts a public contribution may affiliate with any other candidates, including non-publicly financed candidates, on campaign material if:</text>
           <para>
             <num>(1)</num>
             <text>the authorized candidate campaign committee makes a direct disbursement to the payee for its share of the costs of the campaign material; and</text>
@@ -6129,17 +6129,17 @@
         <para>
           <num>(2)</num>
           <heading>Economically disadvantaged individual.</heading>
-          <text>"Economically disadvantaged individual" has the meaning stated in State Finance and Procurement Article § 14-301.</text>
+          <text>"Economically disadvantaged individual" has the meaning stated in <cite doc="Md. Code" path="gsf|14-301">State Finance and Procurement Article § 14-301</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
           <heading>Socially and economically disadvantaged individual.</heading>
-          <text>"Socially and economically disadvantaged individual" has the meaning stated in State Finance and Procurement Article § 14-301.</text>
+          <text>"Socially and economically disadvantaged individual" has the meaning stated in <cite doc="Md. Code" path="gsf|14-301">State Finance and Procurement Article § 14-301</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
           <heading>Socially disadvantaged individual.</heading>
-          <text>"Socially disadvantaged individual" has the meaning stated in State Finance and Procurement Article § 14-301.</text>
+          <text>"Socially disadvantaged individual" has the meaning stated in <cite doc="Md. Code" path="gsf|14-301">State Finance and Procurement Article § 14-301</cite>.</text>
         </para>
       </para>
       <para>
@@ -12823,7 +12823,7 @@
       <para>
         <num>(a)</num>
         <heading>Collection and remittance.</heading>
-        <text>Pursuant to State Family Law Article § 2-404(d), the Clerk of the Circuit Court shall:</text>
+        <text>Pursuant to <cite doc="Md. Code" path="gfl|2-404">State Family Law Article § 2-404(d), </cite>the Clerk of the Circuit Court shall:</text>
         <para>
           <num>(1)</num>
           <text>collect an additional fee of $75 for the issuance of a marriage license in Baltimore City, and</text>
