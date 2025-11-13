@@ -1231,7 +1231,7 @@
               <tr>
                 <th data-text-align="left">Uses</th>
                 <th colspan="7">Districts</th>
-                <th >Use Standards</th>
+                <th>Use Standards</th>
               </tr>
             </thead>
             <tbody>
@@ -2760,7 +2760,7 @@
             </thead>
             <tbody>
               <tr>
-                <th colspan="4" >Residential</th>
+                <th colspan="4">Residential</th>
               </tr>
               <tr>
                 <td>Dormitory  (Ancillary to Educational Facility)</td>
@@ -2793,7 +2793,7 @@
                 <td/>
               </tr>
               <tr>
-                <th colspan="4" >Institutional</th>
+                <th colspan="4">Institutional</th>
               </tr>
               <tr>
                 <td>Community Center (Ancillary to Educational Facility)</td>
@@ -2832,7 +2832,7 @@
                 <td data-text-align="center">Per § 14-332</td>
               </tr>
               <tr>
-                <th colspan="4" >Open-Space</th>
+                <th colspan="4">Open-Space</th>
               </tr>
               <tr>
                 <td>Community-Managed Open-Space Farm</td>
@@ -2859,7 +2859,7 @@
                 <td data-text-align="center">Per § 14-339</td>
               </tr>
               <tr>
-                <th colspan="4" >Commercial</th>
+                <th colspan="4">Commercial</th>
               </tr>
               <tr>
                 <td>Broadcasting Station (TV or Radio)</td>
@@ -2937,10 +2937,10 @@
                 <td/>
               </tr>
               <tr>
-                <th colspan="4" >Industrial</th>
+                <th colspan="4">Industrial</th>
               </tr>
               <tr>
-                <th colspan="4" >Other</th>
+                <th colspan="4">Other</th>
               </tr>
               <tr>
                 <td>Electric Substation: Enclosed, Indoor, or Outdoor</td>
@@ -2981,7 +2981,7 @@
             </tbody>
             <tfoot>
               <tr>
-                <td colspan="4" >
+                <td colspan="4">
                   <p><sup><strong>1 </strong></sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
                   <p><sup><strong>2 </strong></sup> Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
                 </td>
