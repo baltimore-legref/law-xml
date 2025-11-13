@@ -46,15 +46,15 @@
         <text>As amended effective March 25, 20159 these Standards consist of:</text>
         <para>
           <num>(1)</num>
-          <text>the <cite path="|building-codes|II">International Building Code</cite> (2018 Edition), with certain State modifications {COMAR 09.12.51.04A and B};</text>
+          <text>the <cite path="|building-codes|II">International Building Code</cite> (2018 Edition), with certain State modifications {<cite doc="Code of Maryland Regulations" path="09.12.51.04|A." proof="needed">COMAR 09.12.51.04A</cite> and B};</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>the <cite path="|building-codes|X">International Residential Code</cite> for One- and Two-Family Dwellings (2018 Edition), with certain State modifications {COMAR 09.12.51.04A and C}; and</text>
+          <text>the <cite path="|building-codes|X">International Residential Code</cite> for One- and Two-Family Dwellings (2018 Edition), with certain State modifications {<cite doc="Code of Maryland Regulations" path="09.12.51.04|A." proof="needed">COMAR 09.12.51.04A</cite> and C}; and</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>the International Energy Conservation Code (2018 Edition), with certain State modifications {COMAR 09.12.51.04A and D}.</text>
+          <text>the International Energy Conservation Code (2018 Edition), with certain State modifications {<cite doc="Code of Maryland Regulations" path="09.12.51.04|A." proof="needed">COMAR 09.12.51.04A</cite> and D}.</text>
         </para>
       </para>
     </section>
@@ -156,8 +156,8 @@
           <heading>Scope.</heading>
           <reason>As in IBC</reason>
           <text><strong>Exception 1:  {Per MBPS Modification} </strong> Detached 1- and 2-family dwellings and multiple single-family dwellings (townhouses) not more than 3 stories above grade plane in height with a separate means of egress and their accessory structures must comply with the <cite path="|building-codes|X">International Residential Code</cite>.</text>
-          <text><strong>Exception 2:  {Per MBPS Modification} </strong> Existing buildings undergoing repair, alterations, or additions, and change of occupancy must comply with the Maryland Building Rehabilitation Code, set forth in COMAR 09.12.58. <strong>{Note:</strong>  The Maryland Building Rehabilitation Code comprises the 2015 International Existing <cite path="|building-codes|II">Building Code</cite>, with State modifications.<strong>}</strong></text>
-          <text><strong>Exception 3:  {Per MBPS Modification} </strong> Maintenance of residential structures and premises must comply with the Minimum Livability Code, as set forth in COMAR 09.12.54.</text>
+          <text><strong>Exception 2:  {Per MBPS Modification} </strong> Existing buildings undergoing repair, alterations, or additions, and change of occupancy must comply with the Maryland Building Rehabilitation Code, set forth in <cite doc="Code of Maryland Regulations" path="|09.12.58" proof="needed">COMAR 09.12.58</cite>. <strong>{Note:</strong>  The Maryland Building Rehabilitation Code comprises the 2015 International Existing <cite path="|building-codes|II">Building Code</cite>, with State modifications.<strong>}</strong></text>
+          <text><strong>Exception 3:  {Per MBPS Modification} </strong> Maintenance of residential structures and premises must comply with the Minimum Livability Code, as set forth in <cite doc="Code of Maryland Regulations" path="|09.12.54" proof="needed">COMAR 09.12.54</cite>.</text>
           <para>
             <num>101.2.1</num>
             <heading>Appendices.</heading>
@@ -4642,7 +4642,7 @@
           </para>
           <para>
             <num>3.</num>
-            <text>the plaintiff in any proceeding that was timely filed under State Tax-Property Article § 14-833 {"Foreclosing right of redemption"} and for which the time for securing a decree of foreclosure has not yet expired.</text>
+            <text>the plaintiff in any proceeding that was timely filed under <cite doc="Md. Code" path="gtp|14-833">State Tax-Property Article § 14-833 </cite>{"Foreclosing right of redemption"} and for which the time for securing a decree of foreclosure has not yet expired.</text>
           </para>
           <para>
             <num>121.4.1</num>
@@ -6350,7 +6350,7 @@
           <num>901.1</num>
           <heading>Scope.</heading>
           <reason>As in IBC, subject to following Note</reason>
-          <text>{<strong>MBPS Modification – Note to § 901.1: </strong> The fire protection system requirements of Chapter 9 may be concurrently covered by the State Fire Prevention Code, adopted under State Public Safety Article § 6-206 and contained in COMAR 29.06.01.  The State Fire Prevention Code is enforced by the State Fire Marshall or authorized fire official.}</text>
+          <text>{<strong>MBPS Modification – Note to § 901.1: </strong> The fire protection system requirements of Chapter 9 may be concurrently covered by the State Fire Prevention Code, adopted under <cite doc="Md. Code" path="gps|6-206">State Public Safety Article § 6-206 </cite>and contained in COMAR 29.06.01.  The State Fire Prevention Code is enforced by the State Fire Marshall or authorized fire official.}</text>
         </para>
         <para name="901.2to901.7">
           <num from="901.2" to="901.7">901.2 to 901.7</num>
@@ -6421,7 +6421,7 @@
           <num>1001.1</num>
           <heading>General.</heading>
           <reason>As in IBC, subject to the following Note</reason>
-          <text>{<strong>MBPS Modifications</strong> –<strong> Note to § 1001.1: </strong> The means of egress requirements of Chapter 10 may be concurrently covered by the State Fire Prevention Code, adopted under State Public Safety Article § 6-206 and contained in COMAR 29.06.01.  The State Fire Prevention Code is enforced by the State Fire Marshall or authorized fire official.}</text>
+          <text>{<strong>MBPS Modifications</strong> –<strong> Note to § 1001.1: </strong> The means of egress requirements of Chapter 10 may be concurrently covered by the State Fire Prevention Code, adopted under <cite doc="Md. Code" path="gps|6-206">State Public Safety Article § 6-206 </cite>and contained in COMAR 29.06.01.  The State Fire Prevention Code is enforced by the State Fire Marshall or authorized fire official.}</text>
         </para>
         <para>
           <num>1001.2</num>
@@ -6487,7 +6487,7 @@
             </para>
             <para>
               <num>4.</num>
-              <text>For the replacement of existing stairways, see the Maryland Building Rehabilitation Code, set forth in COMAR 09.12.58.</text>
+              <text>For the replacement of existing stairways, see the Maryland Building Rehabilitation Code, set forth in <cite doc="Code of Maryland Regulations" path="|09.12.58" proof="needed">COMAR 09.12.58</cite>.</text>
             </para>
             <para>
               <num>5.</num>
@@ -6545,7 +6545,7 @@
       <num>11</num>
       <heading>Accessibility</heading>
       <reason>Not Adopted</reason>
-      <text>{<strong>MBPS Modification: </strong> Chapter 11 of the IBC, relating to accessibility requirements, is replaced with the Maryland Accessibility Code, set forth in COMAR 09.12.53.}</text>
+      <text>{<strong>MBPS Modification: </strong> Chapter 11 of the IBC, relating to accessibility requirements, is replaced with the Maryland Accessibility Code, set forth in <cite doc="Code of Maryland Regulations" path="|09.12.53" proof="needed">COMAR 09.12.53</cite>.}</text>
     </container>
     <container>
       <prefix>Chapter</prefix>
@@ -7444,7 +7444,7 @@
       <prefix>Chapter</prefix>
       <num>27</num>
       <heading>Electrical</heading>
-      <text>{<strong>MBPS Modification</strong> – The subject matter of this Chapter is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the Baltimore City <cite path="|building-codes|III">Electrical Code</cite> in Part III {"Electrical"} of <cite path="|building-codes">this Article</cite>, and the National Electrical Code as adopted and enforced by the State Fire Marshall under State Public Safety Article, Title 12, Subtitle 6.}</text>
+      <text>{<strong>MBPS Modification</strong> – The subject matter of this Chapter is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the Baltimore City <cite path="|building-codes|III">Electrical Code</cite> in Part III {"Electrical"} of <cite path="|building-codes">this Article</cite>, and the <cite path="|building-codes|III">National Electrical Code</cite> as adopted and enforced by the State Fire Marshall under State Public Safety Article, Title 12, Subtitle 6.}</text>
       <section>
         <prefix>Section</prefix>
         <num>2701</num>
@@ -7590,7 +7590,7 @@
       <prefix>Chapter</prefix>
       <num>28</num>
       <heading>Mechanical Systems</heading>
-      <text>{<strong>MBPS Modification</strong> – The subject matter of this Chapter is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the <cite path="|building-codes|IV">Fuel Gas Code</cite> and <cite path="|building-codes|V">Mechanical Code</cite> in Parts IV and V of <cite path="|building-codes">this Article</cite>, and the mechanical code adopted under State Business Regulation Article § 9A-205.}</text>
+      <text>{<strong>MBPS Modification</strong> – The subject matter of this Chapter is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the <cite path="|building-codes|IV">Fuel Gas Code</cite> and <cite path="|building-codes|V">Mechanical Code</cite> in Parts IV and V of <cite path="|building-codes">this Article</cite>, and the <cite path="|building-codes|V">mechanical code</cite> adopted under <cite doc="Md. Code" path="gbr|9A-205">State Business Regulation Article § 9A-205</cite>.}</text>
       <section>
         <prefix>Section</prefix>
         <num>2801</num>
@@ -7685,7 +7685,7 @@
       <prefix>Chapter</prefix>
       <num>29</num>
       <heading>Plumbing Systems</heading>
-      <text>{<strong>MBPS Modification</strong> – The subject matter of this Chapter is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the <cite path="|building-codes|VI">Plumbing Code</cite> in Part VI of <cite path="|building-codes">this Article</cite>, and the plumbing code adopted under State Business and Occupation Article, Title 12.}</text>
+      <text>{<strong>MBPS Modification</strong> – The subject matter of this Chapter is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the <cite path="|building-codes|VI">Plumbing Code</cite> in Part VI of <cite path="|building-codes">this Article</cite>, and the <cite path="|building-codes|VI">plumbing code</cite> adopted under State Business and Occupation Article, Title 12.}</text>
       <section>
         <prefix>Section</prefix>
         <num>2901</num>
@@ -7704,7 +7704,7 @@
           </para>
           <para>
             <num>3.</num>
-            <text>for private sewage disposal systems, COMAR 26.04.02 {"Sewage Disposal and Certain Water Systems..."}.</text>
+            <text>for private sewage disposal systems, <cite doc="Code of Maryland Regulations" path="|26.04.02" proof="needed">COMAR 26.04.02</cite> {"Sewage Disposal and Certain Water Systems..."}.</text>
           </para>
         </para>
         <para>
@@ -7739,7 +7739,7 @@
           <para>
             <num>2902.1.4</num>
             <heading>Family or assisted-use toilet and bath fixtures.</heading>
-            <text>Fixtures located within accessible family or assisted-use toilet and bathing rooms required by the Maryland Accessibility Code (COMAR 09.12.53) are permitted to be included in the number of required fixtures for either the male or female occupants in assembly and mercantile occupancies.</text>
+            <text>Fixtures located within accessible family or assisted-use toilet and bathing rooms required by the Maryland Accessibility Code (<cite doc="Code of Maryland Regulations" path="|09.12.53" proof="needed">COMAR 09.12.53</cite>) are permitted to be included in the number of required fixtures for either the male or female occupants in assembly and mercantile occupancies.</text>
           </para>
         </para>
         <para name="2902.2to2902.3">
@@ -7749,7 +7749,7 @@
         <para>
           <num>2902.4</num>
           <heading>Signage.</heading>
-          <text>Required public facilities must be provided with signs that designate the sex, as required by § 2902.2.  Signs must be readily visible and located near the entrance to each toilet facility.  Signs for accessible toilet facilities must comply with the Maryland Accessibility Code (COMAR 09.12.53).</text>
+          <text>Required public facilities must be provided with signs that designate the sex, as required by § 2902.2.  Signs must be readily visible and located near the entrance to each toilet facility.  Signs for accessible toilet facilities must comply with the Maryland Accessibility Code (<cite doc="Code of Maryland Regulations" path="|09.12.53" proof="needed">COMAR 09.12.53</cite>).</text>
           <text><strong>{Editor's Note:</strong><em>  But see </em>City Code <cite path="|15">Article 15</cite>, Subtitle 43 {"Public Restrooms"}, which requires the use of "gender-inclusive signage" to identify any "public single-use restroom" in a commercial or industrial establishment, a place of public accommodation, or a City-owned or -occupied building.<strong>}</strong></text>
         </para>
         <para name="2902.5to2902.6">
@@ -7914,7 +7914,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>complies with all applicable requirements of the Maryland Accessibility Code (COMAR 09.12.53).</text>
+            <text>complies with all applicable requirements of the Maryland Accessibility Code (<cite doc="Code of Maryland Regulations" path="|09.12.53" proof="needed">COMAR 09.12.53</cite>).</text>
           </para>
         </para>
         <para>
@@ -8081,7 +8081,7 @@
         <para>
           <num>3112.2</num>
           <heading>Accessibility.</heading>
-          <text>Greenhouses must be accessible in accordance with the Maryland Accessibility Code, COMAR 09.12.53.</text>
+          <text>Greenhouses must be accessible in accordance with the Maryland Accessibility Code, <cite doc="Code of Maryland Regulations" path="|09.12.53" proof="needed">COMAR 09.12.53</cite>.</text>
         </para>
         <para>
           <num>3112.3</num>
@@ -9078,7 +9078,7 @@
       <num>34</num>
       <heading>Existing Structures</heading>
       <reason>Not Adopted</reason>
-      <text>{<strong>MBPS Modification:  </strong>Rehabilitation work in an existing building must comply with the applicable requirements of the Maryland Building Rehabilitation Code, COMAR 05.16.}</text>
+      <text>{<strong>MBPS Modification:  </strong>Rehabilitation work in an existing building must comply with the applicable requirements of the Maryland Building Rehabilitation Code, <cite doc="Code of Maryland Regulations" path="|05.16" proof="needed">COMAR 05.16</cite>.}</text>
     </container>
     <container>
       <prefix>Chapter</prefix>
@@ -13522,7 +13522,7 @@
         <para>
           <num>317.2</num>
           <heading>Private Systems.</heading>
-          <text>Private systems must comply with COMAR 26.04.02 {"Sewage Disposal and Certain Water Systems..."}.</text>
+          <text>Private systems must comply with <cite doc="Code of Maryland Regulations" path="|26.04.02" proof="needed">COMAR 26.04.02</cite> {"Sewage Disposal and Certain Water Systems..."}.</text>
         </para>
       </section>
     </container>
@@ -13880,7 +13880,7 @@
             <para>
               <num>1003.4.2.4</num>
               <heading>Waste-oil tank requirements.</heading>
-              <text>Where oil separators include a waste holding tank, the tank may not be used to store or contain any other waste oil (e.g., motor oil) or hazardous fluid.  The installation of waste-oil storage tanks must comply with COMAR 26.10 {"Oil Pollution and Tank Management"}.</text>
+              <text>Where oil separators include a waste holding tank, the tank may not be used to store or contain any other waste oil (e.g., motor oil) or hazardous fluid.  The installation of waste-oil storage tanks must comply with <cite doc="Code of Maryland Regulations" path="|26.10" proof="needed">COMAR 26.10</cite> {"Oil Pollution and Tank Management"}.</text>
             </para>
           </para>
         </para>
@@ -16988,7 +16988,7 @@
           <text>Address identification must be provided and maintained for all buildings in accordance with:</text>
           <para>
             <num>1.</num>
-            <text><cite path="|building-codes|II">International Building Code</cite> <cite path="|building-codes|II|502" proof="needed">§ 502</cite> {"Building Address"}, and</text>
+            <text><cite path="|building-codes|II">International Building Code </cite><cite path="|building-codes|II|502" proof="needed">§ 502</cite> {"Building Address"}, and</text>
           </para>
           <para>
             <num>2.</num>
@@ -17387,7 +17387,7 @@
         <para>
           <num>916.1</num>
           <heading>"Multiple-line telephone system" defined.</heading>
-          <text>In this section, "multiple-line telephone system" has the meaning stated in State Public Safety Article, § 1-314 {"Connection of multiple-line telephone system to allow for direct dialing of 9-1-1"}.</text>
+          <text>In this section, "multiple-line telephone system" has the meaning stated in <cite doc="Md. Code" path="gps|1-314">State Public Safety Article, § 1-314 </cite>{"Connection of multiple-line telephone system to allow for direct dialing of 9-1-1"}.</text>
         </para>
         <para>
           <num>916.2</num>
@@ -19863,7 +19863,7 @@
             <text>Address identification must be provided and maintained for all buildings in accordance with:</text>
             <para>
               <num>1.</num>
-              <text><cite path="|building-codes|II">International Building Code</cite> <cite path="|building-codes|II|502" proof="needed">§ 502</cite> {"Building Address"}, and</text>
+              <text><cite path="|building-codes|II">International Building Code </cite><cite path="|building-codes|II|502" proof="needed">§ 502</cite> {"Building Address"}, and</text>
             </para>
             <para>
               <num>2.</num>
@@ -20198,7 +20198,7 @@
       <prefix>Part</prefix>
       <num>V</num>
       <heading>Mechanical</heading>
-      <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 12 through 24 is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the <cite path="|building-codes|IV">Fuel Gas Code</cite> and <cite path="|building-codes|V">Mechanical Code</cite> in Parts IV and V of <cite path="|building-codes">this Article</cite>, and the mechanical code adopted under State Business Regulation Article § 9A-205.}</text>
+      <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 12 through 24 is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the <cite path="|building-codes|IV">Fuel Gas Code</cite> and <cite path="|building-codes|V">Mechanical Code</cite> in Parts IV and V of <cite path="|building-codes">this Article</cite>, and the <cite path="|building-codes|V">mechanical code</cite> adopted under <cite doc="Md. Code" path="gbr|9A-205">State Business Regulation Article § 9A-205</cite>.}</text>
       <container>
         <prefix>Chapter</prefix>
         <num>12</num>
@@ -20598,7 +20598,7 @@
       <prefix>Part</prefix>
       <num>VII</num>
       <heading>Plumbing</heading>
-      <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 25 through 33 is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the Baltimore City <cite path="|building-codes|VI">Plumbing Code</cite> in Part VI of <cite path="|building-codes">this Article</cite>, and the plumbing code adopted under State Business and Occupation Article, Title 12.}</text>
+      <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 25 through 33 is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s.  <em>See </em>the Baltimore City <cite path="|building-codes|VI">Plumbing Code</cite> in Part VI of <cite path="|building-codes">this Article</cite>, and the <cite path="|building-codes|VI">plumbing code</cite> adopted under State Business and Occupation Article, Title 12.}</text>
       <container>
         <prefix>Chapters</prefix>
         <num>25 to 33</num>
@@ -20609,7 +20609,7 @@
       <prefix>Part</prefix>
       <num>VIII</num>
       <heading>Electrical</heading>
-      <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 34 through 43 is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s. See the Baltimore City <cite path="|building-codes|III">Electrical Code</cite> in Part III {"Electrical"} of <cite path="|building-codes">this Article</cite>, and the National Electrical Code as adopted and enforced by the State Fire Marshall under State Public Safety Article, Title 12, Subtitle 6.}</text>
+      <text>{<strong>MBPS Modification</strong> – The subject matter of Chapters 34 through 43 is not within the scope of the <cite path="|building-codes|I">Maryland Building Performance Standard</cite>s. See the Baltimore City <cite path="|building-codes|III">Electrical Code</cite> in Part III {"Electrical"} of <cite path="|building-codes">this Article</cite>, and the <cite path="|building-codes|III">National Electrical Code</cite> as adopted and enforced by the State Fire Marshall under State Public Safety Article, Title 12, Subtitle 6.}</text>
       <container>
         <prefix>Chapter</prefix>
         <num>34</num>

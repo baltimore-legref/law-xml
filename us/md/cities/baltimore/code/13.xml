@@ -4541,14 +4541,14 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
           <annotation type="Editor's Notes">
-            <text>Chapter 494 {“Balcony Railing Inspections (Jonathon’s Law)”}, Acts of 2014, amended State Public Safety Article § 12-203 {“Minimum Livability Code”} to also require special inspections of balcony railings.  Specifically, new subsection (f)(4) provides</text>
+            <text>Chapter 494 {“Balcony Railing Inspections (Jonathon’s Law)”}, Acts of 2014, amended <cite doc="Md. Code" path="gps|12-203">State Public Safety Article § 12-203 </cite>{“Minimum Livability Code”} to also require special inspections of balcony railings.  Specifically, new subsection (f)(4) provides</text>
             <para>
               <num>(i)</num>
               <text>In this paragraph, "multiple–family dwelling" has the meaning stated in <cite path="|13|§5-1">Article 13, § 5-1</cite> of the Baltimore City Code.</text>
             </para>
             <para>
               <num proof="done">(iii)</num>
-              <text>Baltimore City may not issue or renew a multiple–family dwelling license unless the applicant demonstrates that a professional inspector <em>{as defined in Public Safety Article § 12-203(a)(4)}</em> has completed an inspection of the multiple–family dwelling to ensure that each balcony railing in the multiple–family dwelling meets the requirements of the Building, Fire, and Related Codes of Baltimore City.</text>
+              <text>Baltimore City may not issue or renew a multiple–family dwelling license unless the applicant demonstrates that a professional inspector <em>{as defined in <cite doc="Md. Code" path="gps|12-203">Public Safety Article § 12-203(a)(4)</cite>}</em> has completed an inspection of the multiple–family dwelling to ensure that each balcony railing in the multiple–family dwelling meets the requirements of the Building, Fire, and Related Codes of Baltimore City.</text>
             </para>
             <para>
               <num>(iv)</num>
@@ -4848,7 +4848,7 @@
           <text>In this section, "nuisance property" means any property that is maintained or operated so as to cause or allow a nuisance of the sort described in any 1 or another of the following definitions:</text>
           <para>
             <num>(1)</num>
-            <text>State Code Real Property Article, § 14-120(a)(5) {defining "nuisance"};</text>
+            <text>State Code <cite doc="Md. Code" path="grp|14-120">Real Property Article, § 14-120(a)(5) </cite>{defining "nuisance"};</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5688,11 +5688,11 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>State Real Property Article § 8-208.1 {"Retaliatory actions due to reporting violations or complaints prohibited"}; or</text>
+              <text><cite doc="Md. Code" path="grp|8-208">State Real Property Article § 8-208</cite>.1 {"Retaliatory actions due to reporting violations or complaints prohibited"}; or</text>
             </para>
             <para>
               <num>(v)</num>
-              <text>State Real Property Article § 8-216 {"Restrictions relating to taking or threatening to take possession of dwelling unit"}.</text>
+              <text><cite doc="Md. Code" path="grp|8-216">State Real Property Article § 8-216 </cite>{"Restrictions relating to taking or threatening to take possession of dwelling unit"}.</text>
             </para>
           </para>
         </para>
@@ -6566,7 +6566,7 @@
         <para>
           <num>(a)</num>
           <heading>"Emergency" defined.</heading>
-          <text>In this section, "emergency" means the catastrophic health emergency declared by the Governor of Maryland on March 5, 2020, as amended or extended by the Governor, under State Public Safety Article, § 14-3A-02.</text>
+          <text>In this section, "emergency" means the catastrophic health emergency declared by the Governor of Maryland on March 5, 2020, as amended or extended by the Governor, under <cite doc="Md. Code" path="gps|14-3">State Public Safety Article, § 14-3</cite>A-02.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -6824,7 +6824,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>the tenant exercises the right to redemption under State Real Property Article § 8-401(e), unless the right to redeem has been foreclosed or otherwise is inapplicable;</text>
+              <text>the tenant exercises the right to redemption under <cite doc="Md. Code" path="grp|8-401">State Real Property Article § 8-401(e), </cite>unless the right to redeem has been foreclosed or otherwise is inapplicable;</text>
             </para>
           </para>
           <para>
