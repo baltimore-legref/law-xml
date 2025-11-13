@@ -5498,11 +5498,11 @@
             <text>"Dirt bike" does not include:</text>
             <para>
               <num>(i)</num>
-              <text>a moped, as defined in State Transportation Article § 11-134.1; or</text>
+              <text>a moped, as defined in <cite doc="Md. Code" path="gtr|11-134">State Transportation Article § 11-134</cite>.1; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>a motor scooter, as defined in State Transportation Article § 11-134.5.</text>
+              <text>a motor scooter, as defined in <cite doc="Md. Code" path="gtr|11-134">State Transportation Article § 11-134</cite>.5.</text>
             </para>
           </para>
         </para>
@@ -5550,11 +5550,11 @@
             <text>"Minibike" does not include:</text>
             <para>
               <num>(i)</num>
-              <text>a moped, as defined in State Transportation Article § 11-134.1; or</text>
+              <text>a moped, as defined in <cite doc="Md. Code" path="gtr|11-134">State Transportation Article § 11-134</cite>.1; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>a motor scooter, as defined in State Transportation Article § 11-134.5.</text>
+              <text>a motor scooter, as defined in <cite doc="Md. Code" path="gtr|11-134">State Transportation Article § 11-134</cite>.5.</text>
             </para>
           </para>
         </para>
@@ -5723,7 +5723,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 00-130" type="History">Ord. 00-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-683" type="History">Ord. 04-683</annotation>
-          <annotation type="Editor's Notes">Chapters 114 and 115, Acts of 2010, enacted state legislation that, among other things, imposes additional penalties on persons dispensing motor fuel into a dirt bike (State Transportation Article § 21-1128 and § 27-101(dd)) and requires service stations in Baltimore City to post signs of the State and City prohibitions relating to dispensing motor fuel for dirt bikes (State Business Regulation Article § 10-503).</annotation>
+          <annotation type="Editor's Notes">Chapters 114 and 115, Acts of 2010, enacted state legislation that, among other things, imposes additional penalties on persons dispensing motor fuel into a dirt bike (<cite doc="Md. Code" path="gtr|21-1128">State Transportation Article § 21-1128 </cite>and § 27-101(dd)) and requires service stations in Baltimore City to post signs of the State and City prohibitions relating to dispensing motor fuel for dirt bikes (<cite doc="Md. Code" path="gbr|10-503">State Business Regulation Article § 10-503</cite>).</annotation>
         </annotations>
       </section>
       <section>
@@ -6275,17 +6275,17 @@
       <para>
         <num>(d)</num>
         <heading>Controlled dangerous substance.</heading>
-        <text>"Controlled dangerous substance" means a substance listed in Schedule I or Schedule II under State Criminal Law Article § 5-402 or § 5-403.</text>
+        <text>"Controlled dangerous substance" means a substance listed in Schedule I or Schedule II under <cite doc="Md. Code" path="gcr|5-402">State Criminal Law Article § 5-402 </cite>or § 5-403.</text>
       </para>
       <para>
         <num>(e)</num>
         <heading>Controlled paraphernalia.</heading>
-        <text>"Controlled paraphernalia" has the meaning stated in State Criminal Law Article § 5-101.</text>
+        <text>"Controlled paraphernalia" has the meaning stated in <cite doc="Md. Code" path="gcr|5-101">State Criminal Law Article § 5-101</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
         <heading>Crime of violence.</heading>
-        <text>"Crime of violence" has the meaning stated in State Criminal Law Article § 14-101.</text>
+        <text>"Crime of violence" has the meaning stated in <cite doc="Md. Code" path="gcr|14-101">State Criminal Law Article § 14-101</cite>.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -6305,7 +6305,7 @@
       <para>
         <num>(j)</num>
         <heading>Prostitution.</heading>
-        <text>"Prostitution" means the performance of a sexual act, sexual contact, or vaginal intercourse, as these terms are defined in State Criminal Law Article § 3-301, for hire.</text>
+        <text>"Prostitution" means the performance of a sexual act, sexual contact, or vaginal intercourse, as these terms are defined in <cite doc="Md. Code" path="gcr|3-301">State Criminal Law Article § 3-301, </cite>for hire.</text>
       </para>
       <para>
         <num>(k)</num>
@@ -7326,7 +7326,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>that the owner or operator has filed court proceedings under State Real Property Article § 8-402.1 {"Breach of lease"} and City Public Local Laws § 9-14, as applicable, to regain possession of the leased property and that:</text>
+              <text>that the owner or operator has filed court proceedings under <cite doc="Md. Code" path="grp|8-402">State Real Property Article § 8-402</cite>.1 {"Breach of lease"} and City Public Local Laws § 9-14, as applicable, to regain possession of the leased property and that:</text>
               <para>
                 <num>1.</num>
                 <text>the court has entered a judgment in favor of the owner or operator; or</text>
@@ -7340,7 +7340,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For purposes of court proceedings filed under paragraph (2)(ii)(B) of this subsection, it is the intent of the Mayor and City Council that a violation of this subtitle shall be construed as demonstrating a clear and imminent danger that the persons responsible or others involved will do serious harm to themselves or others, within the scope and meaning of State Real Property Article § 8-402.1(a)(1)(i)2.B.</text>
+          <text>For purposes of court proceedings filed under paragraph (2)(ii)(B) of this subsection, it is the intent of the Mayor and City Council that a violation of this subtitle shall be construed as demonstrating a clear and imminent danger that the persons responsible or others involved will do serious harm to themselves or others, within the scope and meaning of <cite doc="Md. Code" path="grp|8-402">State Real Property Article § 8-402</cite>.1(a)(1)(i)2.B.</text>
         </para>
       </para>
       <annotations>
@@ -9045,7 +9045,7 @@
         <para>
           <num>(a)</num>
           <heading>"Handgun" defined.</heading>
-          <text>In this section, "handgun" means a firearm, as defined in State Public Safety Article § 5-101(h), the barrel of which is 14 inches or under in length.</text>
+          <text>In this section, "handgun" means a firearm, as defined in <cite doc="Md. Code" path="gps|5-101">State Public Safety Article § 5-101(h), </cite>the barrel of which is 14 inches or under in length.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -9132,7 +9132,7 @@
         <para>
           <num>(d)</num>
           <heading>Exceptions.</heading>
-          <text>This section does not prohibit the wearing, carrying, or transporting of a handgun by a person covered by an exception in State Criminal Law Article § 4-203(b).</text>
+          <text>This section does not prohibit the wearing, carrying, or transporting of a handgun by a person covered by an exception in <cite doc="Md. Code" path="gcr|4-203">State Criminal Law Article § 4-203(b)</cite>.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -9146,7 +9146,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>if the person has a previous conviction for a violation of this section or <em>{of} </em>State Criminal Law Article § 4-203 {"Wearing, carrying, or transporting handgun"}, mandatory imprisonment for 1 year and a mandatory fine of $1,000; or</text>
+              <text>if the person has a previous conviction for a violation of this section or <em>{of} </em><cite doc="Md. Code" path="gcr|4-203">State Criminal Law Article § 4-203 </cite>{"Wearing, carrying, or transporting handgun"}, mandatory imprisonment for 1 year and a mandatory fine of $1,000; or</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -9516,11 +9516,11 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>shooting knife, as described in State Criminal Law Article § 4-105;</text>
+              <text>shooting knife, as described in <cite doc="Md. Code" path="gcr|4-105">State Criminal Law Article § 4-105</cite>;</text>
             </para>
             <para>
               <num>(v)</num>
-              <text>star knife, as defined in State Criminal Law Article § 4-101;</text>
+              <text>star knife, as defined in <cite doc="Md. Code" path="gcr|4-101">State Criminal Law Article § 4-101</cite>;</text>
             </para>
             <para>
               <num>(vi)</num>
@@ -9528,7 +9528,7 @@
             </para>
             <para>
               <num>(vii)</num>
-              <text>switchblade knife, as described in <cite path="|19|§59-22">§ 59-22 of this subtitle</cite> or in State Criminal Law Article § 4-105; or</text>
+              <text>switchblade knife, as described in <cite path="|19|§59-22">§ 59-22 of this subtitle</cite> or in <cite doc="Md. Code" path="gcr|4-105">State Criminal Law Article § 4-105</cite>; or</text>
             </para>
             <para>
               <num>(viii)</num>
@@ -9778,7 +9778,7 @@
           <para>
             <num>(5)</num>
             <text>"Protective order".</text>
-            <text>"Protective order" means a temporary or final protective order entered under the authority of Maryland Code, Family Law Article, §§ 4-505 and 4-506.</text>
+            <text>"Protective order" means a temporary or final protective order entered under the authority of Maryland Code, Family Law Article, §§ <cite doc="Md. Code" path="gfl|4-505">4-505</cite> and <cite doc="Md. Code" path="gfl|4-506">4-506</cite>.</text>
           </para>
         </para>
         <para>
