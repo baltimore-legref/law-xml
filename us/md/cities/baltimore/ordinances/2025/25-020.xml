@@ -318,7 +318,7 @@
           <heading>Use on property.</heading>
           <text>An owner of real property in Baltimore City may not permit any person, individual, contractor, or subcontractor to use gas-powered debris removal equipment on that property.</text>
         </para>
-      </section>      
+      </section>
     </codify:replace>
     <codify:insert path="health|8|3">
       <section>
@@ -335,7 +335,7 @@
           <heading>Required content.</heading>
           <text>The rules and regulations adopted by the Baltimore City Health Department under this section shall include an affidavit form a witness shall use to submit a complaint under <cite doc="City of Baltimore, Md., Code" path="health|§8-402">§ 8-402</cite> of this title.</text>
         </para>
-      </section>      
+      </section>
     </codify:insert>
     <codify:replace path="health|§8-402">
       <section>

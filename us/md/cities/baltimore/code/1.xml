@@ -11582,7 +11582,9 @@
           <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
           <text>
             <strong>
-              <em><cite path="|building-codes|VII">Property Maintenance Code</cite></em>
+              <em>
+                <cite path="|building-codes|VII">Property Maintenance Code</cite>
+              </em>
             </strong>
           </text>
           <text>
@@ -11617,7 +11619,9 @@
           <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
           <text>
             <strong>
-              <em><cite path="|building-codes|X">International Residential Code</cite></em>
+              <em>
+                <cite path="|building-codes|X">International Residential Code</cite>
+              </em>
             </strong>
           </text>
           <text>
@@ -11633,7 +11637,9 @@
         </para>
         <para>
           <num>(7)</num>
-          <heading><cite path="|health">Health Code</cite></heading>
+          <heading>
+            <cite path="|health">Health Code</cite>
+          </heading>
           <text>
             <table>
               <tbody>
@@ -13034,7 +13040,9 @@
         <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
         <text>
           <strong>
-            <em><cite path="|building-codes|VIII">Fire Code</cite></em>
+            <em>
+              <cite path="|building-codes|VIII">Fire Code</cite>
+            </em>
           </strong>
         </text>
         <text>
@@ -13069,7 +13077,9 @@
         <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
         <text>
           <strong>
-            <em><cite path="|building-codes|VII">Property Maintenance Code</cite></em>
+            <em>
+              <cite path="|building-codes|VII">Property Maintenance Code</cite>
+            </em>
           </strong>
         </text>
         <text>
@@ -13093,7 +13103,9 @@
       </para>
       <para>
         <num>(6)</num>
-        <heading><cite path="|health">Health Code</cite></heading>
+        <heading>
+          <cite path="|health">Health Code</cite>
+        </heading>
         <text>
           <table>
             <tbody>
