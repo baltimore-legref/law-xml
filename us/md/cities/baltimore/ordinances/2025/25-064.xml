@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of Balt., Md., Ord. 25-064" codify:doc="City of Baltimore, Md., Code">
+  <num type="law">25-064</num>
+  <num type="bill">25-0059</num>
+  <heading type="short">Zoning - Eliminating Off-Street Parking Requirements</heading>
+  <heading type="long">An Ordinance Concerning Zoning - Eliminating Off-Street Parking Requirements</heading>
+  <meta>
+    <stub/>
+    <introduced>2025-05-12</introduced>
+    <effective>2025-12-03</effective>
+    <citations>
+      <citation type="ord" url="./enacted/25-064.pdf">Ord. 25-064</citation>
+    </citations>
+    <history>
+      <vote date="2025-05-12" reading="first"/>
+      <vote date="2025-10-20" reading="second"/>
+      <enacted>2025-11-03</enacted>
+      <committee>Favorable, with Amendments</committee>
+    </history>
+  </meta>
+  <section>
+    <prefix>Section</prefix>
+    <num>1</num>
+    <!-- <codify:insert path="building-codes|II|1|121|121.10">
+    </codify:insert> -->
+  </section>
+  <section>
+    <prefix>Section</prefix>
+    <num>2</num>
+    <!-- <codify:insert path="building-codes|II|1|121|121.10">
+    </codify:insert> -->
+  </section>
+</document>
