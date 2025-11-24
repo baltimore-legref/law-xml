@@ -453,7 +453,7 @@
     <codify:remove path="32|§16-502" warning="false"/>
     <codify:remove path="32|§16-503and16-504" warning="false"/>
     <codify:remove path="32|§16-505" warning="false"/>
-    <codify:remove path="32|6" warning="false"/>
+    <codify:remove path="32|16|6" warning="false"/>
     <codify:replace path="32|§16-705">
       <section>
         <prefix>§</prefix>
