@@ -3,6 +3,7 @@
   <prefix>Subtitle</prefix>
   <num>02</num>
   <heading>PROPERTY TAX CREDIT REGULATIONS</heading>
+  <xi:include href="./07.xml"/>
   <attachments>
     <heading>Legacy Regulations</heading>
     <annotations>
