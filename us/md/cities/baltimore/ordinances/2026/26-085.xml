@@ -20,7 +20,7 @@
   </meta>
   <section>
     <prefix>Section</prefix>
-    <num>1</num>    
+    <num>1</num>
     <codify:replace path="31|9|heading">
       <heading>Parking for Disabled Individuals and Helpers</heading>
     </codify:replace>
