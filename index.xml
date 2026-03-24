@@ -17,11 +17,10 @@
   </meta>
   <xi:include href="./us/md/cities/baltimore/charter.xml"/>
   <xi:include href="./us/md/cities/baltimore/code/index.xml"/>
-  <xi:include href="./us/md/cities/baltimore/cobra/index.xml"/>
-  <collection name="us/md/cities/baltimore/cobra-register">
-    <heading>Code of Baltimore Regulations Annotated Register</heading>
-    <xi:include href="./us/md/cities/baltimore/cobra-register/04/index.xml"/>
-    <xi:include href="./us/md/cities/baltimore/cobra-register/03/index.xml"/>
+  <collection name="us/md/cities/baltimore/cobra-toc">
+    <heading>Code of Baltimore Regulations Annotated</heading>
+    <xi:include href="./us/md/cities/baltimore/cobra/index.xml"/>
+    <xi:include href="./us/md/cities/baltimore/cobra-register/index.xml"/>
   </collection>
   <xi:include href="./us/md/cities/baltimore/pll/index.xml"/>
   <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
