@@ -3,14 +3,6 @@
   <prefix>Title</prefix>
   <num>22</num>
   <heading>RECREATION AND PARKS</heading>
-  <xi:include href="./01/index.xml"/>
-  <xi:include href="./02/index.xml"/>
-  <xi:include href="./03/index.xml"/>
-  <xi:include href="./04/index.xml"/>
-  <xi:include href="./05/index.xml"/>
-  <xi:include href="./06/index.xml"/>
-  <xi:include href="./07/index.xml"/>
-  <xi:include href="./08/index.xml"/>
   <attachments>
     <heading>Legacy Regulations</heading>
     <annotations>
