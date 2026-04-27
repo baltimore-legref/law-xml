@@ -35,7 +35,7 @@
     <xi:include href="./us/md/cities/baltimore/cobra/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/cobra-register/index.xml"/>
   </collection>
-  <xi:include href="./us/md/cities/baltimore/pll/index.xml"/>
+  <xi:include href="./us/md/cities/baltimore/public-local-laws/index.xml"/>
   <collection name="us/md/cities/baltimore/council/rules">
     <heading>Council Rules</heading>
     <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
