@@ -24,6 +24,7 @@
   </collection>
   <xi:include href="./us/md/cities/baltimore/pll/index.xml"/>
   <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
+  <xi:include href="./us/md/cities/baltimore/administrative-manual/index.xml"/>
   <collection name="us/md/cities/baltimore/ordinances">
     <heading>Ordinances</heading>
     <xi:include href="./us/md/cities/baltimore/ordinances/2026/index.xml"/>
@@ -47,5 +48,4 @@
     <heading>Historic Council Rules</heading>
     <xi:include href="./us/md/cities/baltimore/council/sessions/2020/rules/index.xml"/>
   </collection>
-  <xi:include href="./us/md/cities/baltimore/administrative-manual/index.xml"/>
 </library>
