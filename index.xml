@@ -62,4 +62,7 @@
     <xi:include href="./us/md/legis/laws/2026/index.xml"/>
     <xi:include href="./us/md/legis/laws/2024/index.xml"/>
   </collection>
+  <collection name="us/md/cities/baltimore/editorial-actions" display="false">
+    <xi:include href="./us/md/cities/baltimore/editorial-actions/2026-09-10.xml"/>
+  </collection>
 </library>
