@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="COBRA Register Volume 04, Issue 09" codify:doc="Code of Baltimore Regulations Annotated">
+<?xml version='1.0' encoding='UTF-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="COBRA Register Volume 04, Issue 09" codify:doc="Code of Baltimore Regulations Annotated">
   <num>09</num>
   <meta>
-    <stub/>
     <effective>2026-09-15</effective>
     <history>
       <published>2026-09-15</published>
@@ -11,4 +10,360 @@
       <citation type="COBRAregister" url="./09.pdf">Volume 04, Issue 09</citation>
     </citations>
   </meta>
+  <text>Pursuant to General Provisions Article, <cite doc="City of Baltimore, Md., Code" path="|general|4|3|4-303">§ 4-303 </cite>of the Baltimore City Code, this issue contains all documents required to be published for this issue date.</text>
+  <container id="information-about-the-cobra-register-and-cobra">
+    <heading>Information about the COBRA Register and COBRA</heading>
+    <container id="cobra-register">
+      <heading>COBRA REGISTER</heading>
+      <text>The COBRA register is an official City publication. The COBRA register acts as a temporary supplement to the Code of Baltimore Regulations Annotated. Any change to the text of regulations published in COBRA must first be published in the COBRA Register.</text>
+    </container>
+    <container id="code-of-baltimore-regulations-annotated-(cobra)">
+      <heading>CODE OF BALTIMORE REGULATIONS ANNOTATED (COBRA)</heading>
+      <text>COBRA is the official compilation of all regulations issued by agencies of the City of Baltimore. The COBRA Register serves as COBRA's temporary supplement, publishing all proposed changes to regulations.</text>
+    </container>
+    <container id="incorporation-by-reference">
+      <heading>INCORPORATION BY REFERENCE</heading>
+      <text>Incorporation by reference is a legal device by which a document is made part of COBRA by formal reference. The text of the incorporated document will not appear in COBRA, but the provisions of the incorporated document are enforceable as a COBRA regulation. Documents incorporated by reference will appear in the COBRA Register with a notice designating it as a document incorporated by reference.</text>
+    </container>
+    <container id="public-participation-in-the-regulation-process">
+      <heading>PUBLIC PARTICIPATION IN THE REGULATION PROCESS</heading>
+      <text>Baltimore City residents may participate in the process by which City regulations are proposed, adopted, amended, or repealed by submitting data or opinions on proposed regulations to the promulgating agency (see "Opportunity for Public Comment" section on the notice page for all proposed regulations contained in the COBRA Register).</text>
+    </container>
+    <container id="issue-and-deadline-dates-through-december-2026">
+      <heading>ISSUE AND DEADLINE DATES THROUGH DECEMBER 2026†</heading>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th>ISSUE DATE</th>
+              <th>*DEADLINE FOR PROPOSED REGULATIONS</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>January 15, 2026</td>
+              <td>January 8, 2026</td>
+            </tr>
+            <tr>
+              <td>**February 15, 2026</td>
+              <td>**February 8, 2026</td>
+            </tr>
+            <tr>
+              <td>**March 15, 2026</td>
+              <td>**March 8, 2026</td>
+            </tr>
+            <tr>
+              <td>April 15, 2026</td>
+              <td>April 8, 2026</td>
+            </tr>
+            <tr>
+              <td>May 15, 2026</td>
+              <td>May 8, 2026</td>
+            </tr>
+            <tr>
+              <td>June 15, 2026</td>
+              <td>June 8, 2026</td>
+            </tr>
+            <tr>
+              <td>July 15, 2026</td>
+              <td>July 8, 2026</td>
+            </tr>
+            <tr>
+              <td>**August 15, 2026</td>
+              <td>**August 8, 2026</td>
+            </tr>
+            <tr>
+              <td>September 15, 2026</td>
+              <td>September 8, 2026</td>
+            </tr>
+            <tr>
+              <td>October 15, 2026</td>
+              <td>October 8, 2026</td>
+            </tr>
+            <tr>
+              <td>**November 15, 2026</td>
+              <td>**November 8, 2026</td>
+            </tr>
+            <tr>
+              <td>December 15, 2026</td>
+              <td>December 8, 2026</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </container>
+  </container>
+  <container id="index-of-cobra-titles-affected-in-this-issue">
+    <heading>INDEX OF COBRA TITLES AFFECTED IN THIS ISSUE</heading>
+    <text>
+      <u>COBRA Title Number and Name</u>
+    </text>
+    <para>
+      <text><cite doc="Code of Baltimore Regulations Annotated" path="05">Title 05 – Department of Finance</cite></text>
+    </para>
+  </container>
+  <container id="notices-of-final-action-in-this-issue">
+    <heading>NOTICES OF FINAL ACTION IN THIS ISSUE</heading>
+    <para>
+      <text><cite doc="Code of Baltimore Regulations Annotated" path="14">Title 14 – Department of Transportation</cite></text>
+    </para>
+  </container>
+  <include id="for-regulations-proposed-for-amendment-this-register">
+    <text>
+      <strong>FOR REGULATIONS PROPOSED FOR AMENDMENT THIS REGISTER</strong>
+    </text>
+    <text>[Bracketed] text indicates an item stricken from the regulation</text>
+    <text><em>Italic</em> text indicates an item added to the regulation</text>
+  </include>
+  <container class="action action--proposed" id="notice-of-proposed-action">
+    <heading>Notice of Proposed Action</heading>
+    <text class="center">
+      <strong>TITLE 05</strong>
+    </text>
+    <text class="center">
+      <strong>DEPARTMENT OF FINANCE</strong>
+    </text>
+    <text class="center">
+      <strong>Subtitle 01 LICENSE AND TAXATION REGULATIONS</strong>
+    </text>
+    <text class="center">
+      <strong>CHAPTER 01 PARKING TAX – FACILITATORS</strong>
+    </text>
+    <text class="center">Authority: City Code, Article 28, §22-8</text>
+    <text>The Director of Finance proposes to enact Chapter 01 PARKING TAX – FACILITATORS under COBRA 05.01.</text>
+    <container id="statement-of-purpose">
+      <heading>Statement of Purpose</heading>
+      <text>The purpose of this action is to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish regulations that govern the taxation of parking spaces in Baltimore City; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Define terms; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Establish collection and remittance procedures for Parking Facilitators.</text>
+      </para>
+      <text>Changes were initiated in accordance with Baltimore City Code Article 22, Subtitle 22.</text>
+    </container>
+    <container id="opportunity-for-public-comment">
+      <heading>Opportunity for Public Comment</heading>
+      <text>Comments may be sent to Tiffany Donovan-Parker, Miscellaneous Business Tax Unit, Bureau of Revenue Collections, Department of Finance, 200 Holliday Street, Room 3, 410-361-9690 or emailed to miscbusinesstax@baltimorecity.gov, within 30 days of the date of publication of this Register.</text>
+      <text>
+        <strong>MICHAEL MOCKSTEN, DIRECTOR</strong>
+      </text>
+      <text>
+        <strong>DEPARTMENT OF FINANCE</strong>
+      </text>
+    </container>
+    <container class="regulation-text">
+      <prefix>TITLE</prefix>
+      <num>05</num>
+      <heading>DEPARTMENT OF FINANCE</heading>
+      <container>
+        <prefix>Subtitle</prefix>
+        <num>01</num>
+        <heading>LICENSE AND TAXATION REGULATIONS</heading>
+        <container>
+          <prefix>CHAPTER</prefix>
+          <num>01</num>
+          <heading>PARKING TAX – FACILITATORS</heading>
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container">Authority: City Code, Article 28, §22-8</annotation>
+          </annotations>
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Scope.</heading>
+            <text>This chapter establishes rules and regulations that govern the taxation of parking spaces in Baltimore City.</text>
+          </section>
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.02</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>In this chapter, the following terms have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Terms Defined.</text>
+              <para>
+                <num>(1)</num>
+                <text>"Administrative fee" means a cost charged by a facilitator in connection with the reservation of a parking space within Baltimore City.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>"Bureau of Revenue and Collections (BRC)" means the Baltimore City Department of Finance Bureau of Revenue and Collections.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>"City" means the Mayor and City Council of Baltimore.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>"Facilitator" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, §22-1(c).</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>"Operator" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, §22-1(f).</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>"Parking" means the occupation of a legally available space by a vehicle in a parking facility in exchange for a fee.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>"Parking facility" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|15">City Code Article 15</cite>, §12-1(b).</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>"Tax" means the Parking Tax provided for in <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, §22-2.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.03</num>
+            <heading>Tax Imposed.</heading>
+            <para>
+              <num>A.</num>
+              <text>In General.</text>
+              <text>The City shall impose a tax of 20 percent on the full cost related to parking at a parking facility, including a fee or a combination of fees related to:</text>
+              <para>
+                <num>(1)</num>
+                <text>Parking a vehicle;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A reservation for parking a vehicle through a facilitator;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Service; or</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Convenience.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>The Department shall ensure the tax imposed is:</text>
+              <para>
+                <num>(1)</num>
+                <text>Valued in money, without regard to whether the compensation related to parking is received in money in another form, including:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A credit; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Exchange of:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Property; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>A service; and</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Determined without a deduction for an administrative fee.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.04</num>
+            <heading>Collection.</heading>
+            <para>
+              <num>A.</num>
+              <text>In General.</text>
+              <text>The operator or facilitator shall collect the tax on the full amount of the cost that it imposes on its customer in connection with parking.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Credit.</text>
+              <text>If an operator or facilitator offers a credit to a customer for the privilege of parking, then the operator or facilitator shall ensure the amount of credit offered is included in the operator or facilitator's receipts only when a payment is made.</text>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Advance Payment.</text>
+              <text>If an operator or facilitator requires advance payment for the privilege of parking, the operator or facilitator shall remit to BRC the parking tax on the return for the month the payment was received.</text>
+            </para>
+          </section>
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.05</num>
+            <heading>Remittance.</heading>
+            <para>
+              <num>A.</num>
+              <text>In General.</text>
+              <para>
+                <num>(1)</num>
+                <text>The entity that collects the parking fee, whether a facilitator or operator, shall assume full responsibility for remitting the taxes owed in connection with parking.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>If the facilitator is the entity that collects the tax on behalf of the operator, then the facilitator shall assume full responsibility for the remittance to BRC of the taxes owed in connection with the parking fee or combination of fees on behalf of the operator.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Remittance and Filing.</text>
+              <para>
+                <num>(1)</num>
+                <text>A facilitator and an operator shall register with the BRC by providing BRC with a completed Parking Tax Account Registration Application.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Upon completing registration with BRC, a facilitator or operator shall contact BRC via telephone at 410-361-9690 to:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Remit the tax; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>File the required monthly return.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>A facilitator or operator shall file the return required by B(2)(b) of this regulation even in an instance where the reported recipts amount to zero.</text>
+              </para>
+            </para>
+          </section>
+        </container>
+      </container>
+    </container>
+  </container>
+  <container class="action action--final" id="notice-of-final-action">
+    <heading>Notice of Final Action</heading>
+    <text class="center">
+      <strong>TITLE 14</strong>
+    </text>
+    <text class="center">
+      <strong>DEPARTMENT OF TRANSPORTATION</strong>
+    </text>
+    <text class="center">
+      <strong>Subtitle 03 RIGHT OF WAY</strong>
+    </text>
+    <text class="center">
+      <strong>14.03.06 CEREMONIAL STREET SIGNS</strong>
+    </text>
+    <text>On August 28, 2026, the Mayor's Office repealed Chapter 06 Ceremonial Street Signs under COBRA 14.03 RIGHT OF WAY. This action was initiated upon a determination by the City Solicitor's Office that Chapter 14.03.06 was not subject to the Administrative Procedure Act, General Provisions Article, Title 4.</text>
+    <text>Effective Date: August 28, 2026</text>
+    <text>
+      <strong>KRISTERFER BURNETT, Director</strong>
+    </text>
+    <text>
+      <strong>Mayor's Office of Community Affairs</strong>
+    </text>
+  </container>
 </document>
